@@ -1,5 +1,6 @@
 ﻿#header
 #name Carta de Paulo aos Colossenses %name
+#snm Colossenses %snm
 #ver 20131011 %ver
 #abbr Cl %abbr
 %header

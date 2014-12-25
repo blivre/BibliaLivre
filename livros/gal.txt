@@ -1,175 +1,177 @@
 ﻿#header
 #name Carta de Paulo aos Gálatas %name
-#ver 20131007 %ver
+#snm Gálatas %snm
+#ver 20140429 %ver
 #abbr Gl %abbr
 %header
 
 #c 1 %c
-#v 1 %v Paulo, apóstolo (não dos homens, nem por #ad vontade de %ad homem, mas sim por Jesus Cristo, e #ad por %ad Deus o Pai, que o ressuscitou dos mortos),
-#v 2 %v E todos os irmãos que estão comigo, para as igrejas da Galácia.
-#v 3 %v Graça #ad seja %ad convosco, e #ad também %ad a paz de Deus Pai, e #ad de %ad nosso Senhor Jesus Cristo;
-#v 4 %v O qual deu a si mesmo por nossos pecados, para nos tirar deste presente mau mundo, segundo a vontade de nosso Deus e Pai.
-#v 5 %v Ao qual seja glória para todo o sempre, Amém.
-#v 6 %v Eu me maravilho de que tão rapidamente desviastes daquele que vos chamou à graça de Cristo, #ad indo %ad para outro evangelho.
-#v 7 %v Sendo que não há outro #ad evangelho %ad , porém há alguns que vos perturbam, e querem distorcer o Evangelho de Cristo.
-#v 8 %v Porém, ainda se nós, ou um anjo do céu vos anunciar outro evangelho além do que já vos temos anunciado, seja maldito.
-#v 9 %v Como já tínhamos dito antes, volto também agora a dizer: se alguém vos anunciar outro evangelho além do que já recebestes, seja maldito.
-#v 10 %v Porque agora eu #ad tento %ad convencer a homens, ou a Deus? Ou procuro agradar a homens? Porque, se eu ainda agradasse aos homens, não seria servo de Cristo.
-#v 11 %v Mas eu vos faço saber, irmãos, que o Evangelho que foi anunciado por mim não é segundo os homens.
-#v 12 %v Porque não o recebi, nem aprendi de homem algum, mas sim por revelação de Jesus Cristo.
-#v 13 %v Porque vós já ouvistes do meu costume de vida no judaísmo, que excessivamente perseguia a Igreja de Deus, e a assolava.
-#v 14 %v E #ad como %ad no judaísmo eu era mais avançado do que muitos de minha idade em minha nação, sendo extremamente zeloso das tradições de meus pais.
-#v 15 %v Mas quando Deus (que desde o ventre de minha mãe me separou, e por sua graça me chamou) achou conveniente,
-#v 16 %v De em mim revelar a seu Filho, para que eu evangelizasse aos gentios, logo não tomei conselho com carne e sangue;
-#v 17 %v Nem subi para Jerusalém para os que já eram apóstolos antes de mim; mas eu fui para a Arábia, e voltei outra vez para Damasco.
-#v 18 %v Três anos depois, subi a Jerusalém para ver a Pedro, e fiquei com ele quinze dias.
-#v 19 %v E vi a nenhum outro dos apóstolos, a não ser a Tiago, o irmão do Senhor.
-#v 20 %v E as coisas que vos escrevo, eis que diante de Deus #ad dou testemunho %ad de que não minto.
-#v 21 %v Depois eu fui para as regiões da Síria e da Cilícia.
-#v 22 %v E não era conhecido de vista das igrejas da Judeia que estão em Cristo.
-#v 23 %v Mas somente tinham ouvido que “Aquele que antes nos perseguia, agora anuncia a fé, a qual antes #ad procurava %ad destruir”.
+#v 1 %v Paulo, apóstolo (não da parte dos seres humanos, nem por meio de homem algum, mas sim por Jesus Cristo, e por Deus Pai, que o ressuscitou dos mortos),
+#v 2 %v e todos os irmãos que estão comigo, para as igrejas da Galácia.
+#v 3 %v Graça seja convosco, e também a paz de Deus {n4:nosso} Pai, e do {tr,rp:nosso} Senhor Jesus Cristo,{trnc: #fn _c N4: Deus nosso Pai, e do Senhor Jesus Cristo %fn}
+#v 4 %v que deu a si mesmo pelos nossos pecados, para nos tirar da presente era maligna, conforme a vontade do nosso Deus e Pai,
+#v 5 %v ao qual seja a glória para todo o sempre, Amém!
+#v 6 %v Admiro-me de que tão rapidamente desviastes daquele que vos chamou na graça de Cristo, em troca de outro evangelho.
+#v 7 %v Não que haja outro #ad evangelho %ad , porém há alguns que vos inquietam, e querem perverter o Evangelho de Cristo.
+#v 8 %v Porém, ainda que nós mesmos, ou um anjo do céu vos anuncie outro evangelho além do que já vos anunciamos, maldito seja.
+#v 9 %v Como já havíamos dito, volto também agora a dizer: se alguém vos anunciar outro evangelho além do que já recebestes, maldito seja.
+#v 10 %v Pois agora estou buscando a aprovação das pessoas, ou a de Deus? Ou procuro agradar a pessoas? {tr,rp:Pois, se}{n4:Se} ainda tentasse agradar a pessoas, eu não seria servo de Cristo.
+#v 11 %v {tr,rp:Mas}{n4:Pois} faço-vos saber, irmãos, que o Evangelho anunciado por mim não se baseia em pessoas; #fn _c Lit. não é conforme pessoas %fn
+#v 12 %v pois não o recebi, nem aprendi de ser humano algum, mas sim pela revelação de Jesus Cristo.
+#v 13 %v Pois já ouvistes da minha conduta no judaísmo, como em excesso eu perseguia e tentava destruir a Igreja de Deus;
+#v 14 %v e #ad como %ad no judaísmo eu era mais avançado que muitos de minha idade em minha nação, e era extremamente zeloso das tradições de meus pais.
+#v 15 %v Mas quando {tr,rp:Deus}{trnc: #fn _c N4 omite “Deus” %fn}  {tr,rp:(}{n4: aquele #fn _c TR, RP contêm “Deus” em lugar de “aquele” %fn} que me separou desde o ventre da minha mãe, e por sua graça me chamou {tr,rp:)}{n4:,} se agradou
+#v 16 %v de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma; #fn _k pessoa alguma _c Lit. “carne e sangue” %fn
+#v 17 %v nem subi a Jerusalém para os que já eram apóstolos antes de mim; em vez disso, parti para a Arábia, e voltei outra vez a Damasco. 
+#v 18 %v Então, depois de três anos, subi a Jerusalém para visitar {tr,rp:Pedro}{n4:Cefas},{trnc: #fn _c N4 contém “Cefas” %fn}{n4: #fn _c Isto é, Pedro %fn } e estive com ele por quinze dias.
+#v 19 %v E vi nenhum outro dos apóstolos, a não ser Tiago, o irmão do Senhor.
+#v 20 %v Ora, das coisas que vos escrevo, eis que, diante de Deus, não estou mentindo.
+#v 21 %v Depois fui para as regiões da Síria e da Cilícia.
+#v 22 %v Eu, porém, não era conhecido de rosto pelas igrejas da Judeia que estão em Cristo;
+#v 23 %v mas somente haviam ouvido que “Aquele que antes nos perseguia agora anuncia a fé que antes tentava destruir”.
 #v 24 %v E glorificavam a Deus por causa de mim.
 
 #c 2 %c
-#v 1 %v Depois, passados catorze anos, subi outra vez a Jerusalém com Barnabé, levando também Tito comigo.
-#v 2 %v E subi por revelação, e lhes declarei o Evangelho que prego entre os gentios, e #ad declarei %ad em particular com os que recebiam mais honra, para que eu não corresse, ou tivesse corrido em vão.
-#v 3 %v Porém nem mesmo Tito, que estava comigo, sendo grego, foi constrangido a se circuncidar.
-#v 4 %v E #ad isto foi assim %ad por causa dos falsos irmãos, que tinham se intrometido, e secretamente entraram para espiar nossa liberdade, que temos em Cristo Jesus, para nos porem em escravidão.
-#v 5 %v Aos quais nem mesmo por uma hora cedemos a nos subordinarmos #ad a eles %ad , para que a verdade do Evangelho permanecesse em vós.
-#v 6 %v E quanto àqueles que eram estimados como importantes (o que eles tenham sido antes, não me importa; Deus não se deixa influenciar pela aparência humana); esses, pois, que eram estimados nada me acrescentaram.
-#v 7 %v Mas ao contrário, como viram que o Evangelho da incircuncisão tinha sido confiado a mim, assim como a Pedro o da circuncisão,
-#v 8 %v (Porque aquele que operou em Pedro com eficácia no apostolado da circuncisão, esse operou também com eficácia por meio de mim entre os gentios)
-#v 9 %v E quanto Tiago, e Cefas, e João, que eram considerados como colunas, conheceram a graça que me foi dada, eles deram a mão direita da comunhão, para que nós #ad fôssemos %ad aos gentios, e eles aos circuncisos.
-#v 10 %v Somente #ad nos pediram %ad que nos lembrássemos dos pobres; o que também procurei fazer com empenho.
-#v 11 %v E quando Pedro veio a Antioquia, eu lhe resisti #ad diante %ad do seu rosto, porque ele tinha de ser repreendido.
-#v 12 %v Porque antes que alguns viessem #ad enviados %ad por Tiago, ele também comia com os gentios; mas quando chegaram, ele se retirou, e se separou #ad deles %ad , temendo aos que eram circuncisos.
-#v 13 %v E também os outros judeus dissimularam com ele, de maneira que até Barnabé se deixava levar pela sua dissimulação.
-#v 14 %v Mas quando vi que não agiam corretamente conforme a verdade do Evangelho, disse na presença de todos a Pedro:
- Se tu, sendo judeu, vives como gentio, e não como judeu, por que tu constranges aos gentios a viverem como judeus?
-#v 15 %v Nós somos judeus por natureza, e não pecadores dentre os gentios;
-#v 16 %v Sabendo, #ad porém %ad , que o homem não é feito justo pelas obras da Lei, mas sim pela fé em Jesus Cristo; também temos crido em Cristo Jesus, para que fôssemos feitos justos pela fé em Cristo, e não pelas obras da Lei; porque nenhuma carne se fará justa pelas obras da Lei. #fn _c fé em (Jesus) Cristo – trad. alt. fidelidade de (Jesus) Cristo %fn 
-#v 17 %v Mas se nós, os que em Cristo procuramos ser justificados, também nós mesmos somos achados pecadores, por isso Cristo trabalha para o pecado? De maneira nenhuma.
-#v 18 %v Porque se as coisas que já destruí, elas mesmas eu volto a construir, eu faço a mim mesmo ser um transgressor.
-#v 19 %v Porque pela Lei eu estou morto para a Lei, para que eu viva para Deus.
-#v 20 %v Eu já estou crucificado com Cristo. E vivo, não mais eu, mas Cristo vive em mim; e eu vivo minha vida na carne por meio da fé do Filho de Deus, que me amou, e entregou a si mesmo por mim.
-#v 21 %v Eu não anulo a graça de Deus; porque, se a justiça é pela Lei, logo Cristo morreu em vão.
+#v 1 %v Depois de passados catorze anos, subi outra vez a Jerusalém com Barnabé, levando comigo também Tito.
+#v 2 %v E, por causa de uma revelação, subi, e lhes declarei o Evangelho que prego entre os gentios. #ad Isso %ad , porém, foi em particular, com os mais conceituados, #fn _c Isto é, os líderes da ireja %fn para que eu não corresse ou tivesse corrido em vão.
+#v 3 %v Porém nem mesmo Tito, que estava comigo, sendo grego, foi obrigado a se circuncidar.
+#v 4 %v E #ad isso %ad por causa de falsos irmãos, que haviam se infiltrado, e entraram secretamente para espionar a nossa liberdade que temos em Cristo Jesus, a fim de nos tornar escravos.
+#v 5 %v A eles nem sequer por um momento #fn _c Lit. hora %fn cedemos a nos sujeitarmos, para que a verdade do Evangelho permanecesse em vós.
+#v 6 %v E quanto aos conceituados como importantes (o que haviam sido antes não me importa; Deus não se interessa na aparência humana); esses, pois, que eram conceituados nada me acrescentaram.
+#v 7 %v Ao contrário, quando viram que o Evangelho aos incircuncisos #fn _c Lit. “Evangelho da incircuncisão” %fn havia sido confiado a mim, assim como a Pedro, aos circuncisos, #fn _c Lit. “o #ad Evangelho %ad da circuncisão” %fn
+#v 8 %v (pois aquele que operou em Pedro para o apostolado da circuncisão, esse operou também em mim para os gentios)
+#v 9 %v E quando Tiago, Cefas, e João, que eram considerados como colunas, reconheceram a graça que me foi dada, eles estenderam a mim e a Barnabé as mãos direitas #ad como gesto %ad de comunhão, para que nós #ad fôssemos %ad aos gentios, e eles aos circuncisos.
+#v 10 %v Somente #ad nos pediram %ad que nos lembrássemos dos pobres; isso também procurei fazer com empenho.
+#v 11 %v E quando {tr,rp:Pedro}{n4:Cefas #fn _c Isto é, Pedro %fn}{trnc: #fn _c N4: Cefas %fn} veio a Antioquia, estive contra ele face a face, pois ele devia ser repreendido;
+#v 12 %v porque, antes que alguns que Tiago enviou viessem, ele comia com os gentios; mas depois que chegaram, ele se retirou e se separou, temendo os que eram da circuncisão.
+#v 13 %v E também com ele os outros judeus fingiram, de maneira que até Barnabé se deixou levar pela hipocrisia deles.
+#v 14 %v Mas quando vi que não estavam agindo corretamente conforme a verdade do Evangelho, disse na presença de todos a {tr,rp:Pedro}{n4:Cefas}: {n4:#fn _c Isto é, Pedro %fn}{trnc: #fn _c N4: Cefas %fn}
+  “Se tu, que és judeu, vives como gentio, e não como judeu, {tr,rp:por que}{n4:como} obrigas{trnc: #fn _c N4: como obrigas  %fn} os gentios a viverem como judeus?”
+#v 15 %v Nós, que somos judeus por natureza, e não pecadores dentre os gentios,
+#v 16 %v sabemos que o ser humano não é justificado pelas obras da Lei, mas sim pela fé em {tr,rp:Jesus Cristo}{n4:Cristo Jesus}. #fn _c Trad. alt. fidelidade de {tr,rp:Jesus Cristo}{n4:Cristo Jesus} %fn Também nós temos crido em Cristo Jesus, para que fôssemos justificados pela fé em Cristo, #fn _c Trad. alt. fidelidade de Cristo %fn e não pelas obras da Lei; pois ninguém #fn _c Lit. nenhuma carne %fn se justificará pelas obras da Lei. 
+#v 17 %v Mas se nós, que buscamos ser justificados em Cristo, também nós mesmos somos achados pecadores, por isso Cristo contribui com o pecado? #fn _c Lit. Cristo é servidor do pecado? %fn De maneira nenhuma!
+#v 18 %v Pois, se volto a construir as coisas que já destruí, provo que eu mesmo cometi transgressão.
+#v 19 %v Pois pela Lei estou morto para a Lei, a fim de que eu viva para Deus.
+#v 20 %v Já estou crucificado com Cristo. Estou vivendo não mais eu, mas Cristo vive em mim; e vivo a minha vida na carne por meio da fé no Filho de Deus, #fn _c Trad. alt. fidelidade do Filho de Deus %fn que me amou, e entregou a si mesmo por mim.
+#v 21 %v Não anulo a graça #fn _c Isto é, o favor não merecido %fn de Deus; pois, se a justiça #fn _c Isto é, ser justo, que aqui significa ser aceito (absolvido) por Deus %fn é por meio da Lei, logo Cristo morreu por nada.
 
 #c 3 %c
-#v 1 %v Ó insensatos gálatas, vós – diante de cujos olhos Jesus Cristo foi retratado{tr,rp: entre vós}{trnc: #fn _c N4 omite “entre vós” %fn }{n4: #fn _c TR, RP adicionam “entre vós” %fn } como crucificado – quem vos iludiu #fn _c iludiu – lit. enfeitiçou %fn {tr,rp: para não obedecerdes à verdade}?{trnc: #fn _c N4 omite “para não obedecerdes à verdade” %fn }{n4: #fn _c TR, RP: “quem vos iludiu para não obedecerdes à verdade?” %fn }
+#v 1 %v Ó insensatos gálatas, quem vos iludiu #fn _c iludiu – lit. enfeitiçou %fn {tr,rp: para não obedecerdes à verdade}? {trnc: #fn _c N4 omite “para não obedecerdes à verdade” %fn }{n4: #fn _c TR, RP: “quem vos iludiu para não obedecerdes à verdade?” %fn } Diante dos vossos olhos Jesus Cristo foi retratado{tr,rp: entre vós}{trnc: #fn _c N4 omite “entre vós” %fn }{n4: #fn _c TR, RP adicionam “entre vós” %fn } como crucificado!
 #v 2 %v Só isto eu queria saber de vós: recebestes o Espírito pelas obras da Lei ou pela pregação da fé?
-#v 3 %v Sois tão insensatos assim que, depois de começardes no Espírito, agora buscais a perfeição pela carne?
-#v 4 %v Sofrestes tanto em vão? Se é que foi mesmo em vão!
-#v 5 %v Ora, aquele que vos dá o Espírito e opera maravilhas entre vós #ad faz isso %ad por causa das obras da Lei ou da pregação da fé?
-#v 6 %v Assim como Abraão creu em Deus, e foi lhe considerado como justiça,
-#v 7 %v Entendei, portanto, que os que são da fé são filhos de Abraão.
-#v 8 %v E a Escritura, prevendo que Deus justificaria os gentios pela fé, desde antes anunciou o Evangelho a Abraão, #ad dizendo %ad :
- Todas nas nações serão benditas em ti.
-#v 9 %v Portanto, os que são da fé são benditos com o crente Abraão.
-#v 10 %v Porque todos quanto são das obras da Lei estão debaixo de maldição; porque está escrito:
- Maldito todo aquele que não permanecer em tudo quanto está escrito no livro da Lei, para fazê-lo.
-#v 11 %v E a fim de que pela Lei ninguém se faça justo diante de Deus, está evidente:
- Porque o justo viverá pela fé.
-#v 12 %v Porém a Lei não é da fé; mas o homem que fizer estas coisas viverá por elas.
-#v 13 %v Cristo nos resgatou da maldição da Lei ao se fazer maldito por causa de nós. Porque está escrito:
- Maldito todo aquele que for pendurado em um madeiro.
-#v 14 %v Para que a bênção de Abraão viesse aos gentios em Cristo Jesus, #ad e %ad para que nós, pela fé, recebêssemos a promessa do Espírito.
-#v 15 %v Irmãos, eu falo como homem; o pacto de um homem, depois de confirmado, ninguém o anula, ou #ad lhe %ad acrescenta.
-#v 16 %v Portanto a Abraão e à sua semente foram ditas as promessas. E não diz: “E às sementes” como se #ad estivesse falando %ad de muitos #ad descendentes %ad , mas sim como a um #ad descendente %ad ; “E a tua semente”, que é Cristo.
-#v 17 %v Mas digo isto, que o pacto confirmado anteriormente por Deus em Cristo, pela Lei que veio quatrocentos e trinta anos depois não é invalidado para anular a promessa.
-#v 18 %v Porque se a herança é pela Lei, já não é mais pela promessa; mas Deus a Deu graciosamente para Abraão por meio da promessa.
-#v 19 %v Então, para que é a Lei? Ela foi adicionada por causa das transgressões, até que viesse a semente, a quem se fez a promessa; e pelos anjos foi posta na mão de um mediador.
-#v 20 %v E o mediador não é de um; mas Deus é um.
-#v 21 %v Então a Lei é contra as promessas de Deus? De maneira nenhuma; porque se a Lei foi dada para se poder viver, verdadeiramente a justiça teria sido pela Lei.
-#v 22 %v Mas a Escritura juntou tudo debaixo do pecado, para que a promessa fosse dada aos crentes pela fé em Jesus Cristo. #fn _c fé em Jesus Cristo – trad. alt. fidelidade de Jesus Cristo %fn 
-#v 23 %v Porém antes que a fé viesse, estávamos guardados debaixo da Lei, e presos #ad por ela %ad até que a fé fosse revelada.
-#v 24 %v De maneira que a Lei foi nosso tutor para #ad nos levar %ad a Cristo, para que pela fé fossemos feitos justos.
-#v 25 %v Mas depois da fé chegar, já não estamos debaixo do tutor;
-#v 26 %v Porque todos vós sois filhos de Deus pela fé em Cristo Jesus;
-#v 27 %v Pois todos vós que fostes batizados em Cristo já vos revestistes de Cristo.
-#v 28 %v Nisto não há judeu nem grego; não há servo nem livre; não há macho nem fêmea. Porque todos vós sois um em Cristo Jesus.
-#v 29 %v E se vós sois de Cristo, então sois semente #fn _c semente = i.e., descendentes %fn de Abraão, e herdeiros conforme a promessa.
+#v 3 %v Sois vós tão insensatos que, depois de começardes no Espírito, agora terminareis na carne?
+#v 4 %v Experimentastes #fn _c Trad. alt. Sofrestes %fn tantas coisas em vão? Se é que foi mesmo em vão!
+#v 5 %v Ora, aquele que vos dá o Espírito e que opera maravilhas entre vós #ad faz isso %ad por causa das obras da Lei ou da pregação da fé?
+#v 6 %v Assim como “Abraão creu em Deus, e foi lhe reputado como justiça”, #ref _d Gênesis 15:6 %ref
+#v 7 %v entendei, pois, que os que são da fé são filhos de Abraão.
+#v 8 %v E a Escritura, prevendo que Deus justificaria os gentios pela fé, prenunciou o Evangelho a Abraão, #ad dizendo %ad :
+ Todas nas nações serão abençoadas em ti. #ref _d Gênesis 12:3; 18:18; 22:18 %ref
+#v 9 %v Portanto, os que são da fé são abençoados com o crente Abraão.
+#v 10 %v Pois todos os que são das obras da Lei estão sob maldição, porque está escrito:
+  Maldito todo aquele que não permanecer em todas as coisas que estão escritas no livro da Lei, para fazê-las. #ref _d Deuteronômio 27:26 %ref
+#v 11 %v E é evidente que pela Lei ninguém será justificado, porque: 
+ O justo viverá pela fé. #ref _d Habacuque 2:4 %ref
+#v 12 %v A Lei não provém #fn _c Lit. é %fn da fé; porém: 
+ Quem fizer estas coisas por elas viverá. #fn _c Levítico 18:5 %fn
+#v 13 %v Cristo nos resgatou da maldição da Lei ao se fazer maldição para o nosso benefício (pois está escrito:
+  Maldito todo aquele que for pendurado em um madeiro.) #ref _d Deuteronômio 21:23 %ref
+#v 14 %v com a finalidade de que a bênção de Abraão chegasse aos gentios em {tr,rp:Cristo Jesus}{n4:Jesus Cristo},{trnc: #fn _c N4: Jesus Cristo %fn} para que recebêssemos a promessa do Espírito #fn _c Ou: o Espírito prometido %fn por meio da fé.
+#v 15 %v Irmãos, estou falando em termos humanos: ainda que seja o pacto de uma pessoa, depois de confirmado, ninguém o anula, nem lhe acrescenta.
+#v 16 %v Ora, as promessas foram ditas a Abraão e à sua semente. #fn _c Isto é, seu descendente %fn E não diz: “E às sementes” como que #ad falando %ad de muitos, #fn _c O termo “sementes” se refere a vários descendentes %fn mas sim como a um: “E à tua semente”, #ref _d Gênesis 12:7; 13:15; 24:7 %ref que é Cristo.
+#v 17 %v Mas digo isto: o pacto foi confirmado anteriormente por Deus {tr,rp:em Cristo};{trnc: #fn _c N4 omite “em Cristo” %fn}{n4: #fn _c TR, RP acrescentam “em Cristo” %fn} e a Lei que veio quatrocentos e trinta anos depois não o invalida, nem anula a promessa. #fn _c Lit. “o pacto confirmado anteriormente por Deus {tr,rp:em Cristo}, a Lei que veio quatrocentos e trinta anos depois não invalida de maneira a anular a promessa”. A frase complexa foi simplificada para facilitar a leitura e compreensão %fn
+#v 18 %v Pois, se a herança é pela Lei, já não é pela promessa; mas foi por meio da promessa que Deus a concedeu gratuitamente a Abraão.
+#v 19 %v Para que, pois, é a Lei? Ela foi ordenada por causa das transgressões, até que chegasse a semente #fn _c Isto é, o Descendente do vers. 16, que é Cristo %fn a quem a promessa havia sido feita; e foi posta pelos anjos na mão de um mediador.
+#v 20 %v Ora, o mediador não é de um só, mas Deus é um.
+#v 21 %v Por acaso, pois, a Lei é contra as promessas de Deus? De maneira nenhuma! Pois, se a Lei houvesse sido entregue para  poder dar vida, na verdade a justiça teria sido pela Lei.
+#v 22 %v Mas a Escritura prendeu tudo debaixo do pecado a fim de que a promessa fosse dada aos crentes por meio da fé em Jesus Cristo. #fn _c fé em Jesus Cristo – trad. alt. fidelidade de Jesus Cristo %fn 
+#v 23 %v Porém, antes que a fé viesse, estávamos vigiados sob a Lei, e presos, até que a fé fosse revelada.
+#v 24 %v Dessa maneira, a Lei foi o nosso tutor para #ad nos conduzir %ad a Cristo, para que pela fé fossemos justificados.
+#v 25 %v Mas depois que a fé chegou, já não estamos sob um tutor,
+#v 26 %v pois todos vós sois filhos de Deus por meio da fé em Cristo Jesus;
+#v 27 %v pois todos vós que fostes batizados em Cristo já vos revestistes de Cristo.
+#v 28 %v Assim, não há judeu nem grego; não há servo nem livre; não há macho nem fêmea. Pois todos vós sois um em Cristo Jesus.
+#v 29 %v E, se vós sois de Cristo, então sois semente #fn _c semente = i.e. descendentes %fn de Abraão, e herdeiros conforme a promessa.
 
 #c 4 %c
-#v 1 %v Mas eu digo que, enquanto o herdeiro é uma criança, em nada ele é diferente do servo, ainda que seja senhor de tudo.
-#v 2 %v Porém ele está debaixo de tutores e procuradores, até #ad chegar %ad o tempo determinado pelo #ad seu %ad pai.
-#v 3 %v Assim também nós; quando éramos crianças, estávamos sujeitos debaixo dos princípios do mundo.
-#v 4 %v Mas quando o tempo se completou, Deus enviou a seu Filho, nascido de mulher, nascido sujeito a Lei.
-#v 5 %v Para que libertasse aos que estavam debaixo da Lei; #ad e %ad nós recebêssemos a adoção de filhos.
-#v 6 %v E dado que sois filhos, Deus enviou o Espírito de seu Filho em vossos corações, o qual clama: “Aba, Pai!”
-#v 7 %v Portanto tu já não és mais servo, mas sim filho; e se #ad és %ad filho, também #ad és %ad herdeiro de Deus por meio de Cristo.
-#v 8 %v Porém quando antes não conhecíeis a Deus, vós servíeis aos que de natureza não são deuses.
-#v 9 %v E agora, conhecendo a Deus, mais ainda por Deus sois conhecidos; #ad então %ad como voltais outra vez aos primeiros, fracos e pobres princípios, aos quais quereis voltar a servir de novo?
-#v 10 %v Vós guardais dias, e meses, e tempos, e anos.
-#v 11 %v Eu temo por vós, de que em alguma maneira não tenha trabalhado para convosco em vão.
-#v 12 %v Sede como eu; porque eu também sou como vós; nenhum mal me fizestes.
-#v 13 %v E vós sabeis que com fraqueza da carne eu primeiro vos anunciei o Evangelho;
-#v 14 %v E não rejeitastes nem desprezastes a minha tentação que #ad estava %ad na minha carne; ao invés disso vós me recebestes como a um mensageiro de Deus, #ad assim %ad como #ad fariam %ad a Cristo Jesus.
-#v 15 %v Então o que houve com vossa bem-aventurança? Porque eu vos dou testemunho de que, se fosse possível, vós teríeis arrancado vossos olhos, e os dado a mim.
-#v 16 %v Então eu me tornei vosso inimigo ao dizer a verdade?
-#v 17 %v Eles não têm zelo por vós da forma correta; mas sim, eles querem vos fazer de excluídos, para que vós tenhais zelo por eles.
-#v 18 %v É bom ser zeloso, mas para as coisas boas e sempre; e não somente quando eu estou presente convosco.
-#v 19 %v Meus filhinhos, pelos quais eu volto a sofrer dores de parto, até que Cristo seja formado em vós.
-#v 20 %v Eu queria agora estar presente convosco, e mudar o #ad tom de %ad voz, pois estou perplexo por vós.
-#v 21 %v Dizei-me vós, os que quereis estar debaixo da Lei: não ouvis vós a Lei?
-#v 22 %v Porque está escrito, que Abraão tinha dois filhos: um da escrava, e um da livre.
-#v 23 %v Mas o que era da escrava nasceu segundo a carne, mas o que era da livre #ad nasceu %ad pela promessa.
-#v 24 %v Isto #ad pode %ad se entender como uma ilustração; porque estes são dois pactos; um do monte Sinai, que gera #ad filhos %ad para a escravidão, que é Agar.
-#v 25 %v Porque esta Agar #ad representa %ad o Sinai (um monte na Arábia) é semelhante a Jerusalém de agora, e é escravizada junto com seus filhos.
-#v 26 %v Mas a Jerusalém que é de cima é livre; a qual é a mãe de todos nós.
-#v 27 %v Porque está escrito:
- Alegra-te, estéril, a que não podes gerar filhos; esforça-te, e clama tu, que não estás de parto; porque muitos mais são os filhos da solitária, que #ad os %ad da que tem marido.
-#v 28 %v Mas nós, irmãos, assim como Isaque, somos filhos da promessa.
-#v 29 %v Mas assim como naquele tempo o que nasceu segundo a carne perseguiu ao que #ad nasceu %ad segundo o Espírito, assim também #ad é %ad agora.
+#v 1 %v Digo, porém, que, enquanto o herdeiro é criança, em nada é diferente do servo, ainda que seja senhor de tudo.
+#v 2 %v Mas está sob tutores e administradores, até o tempo determinado pelo pai.
+#v 3 %v Assim também nós, quando éramos crianças, estávamos escravizados debaixo dos princípios elementares do mundo.
+#v 4 %v Mas quando o tempo se completou, Deus enviou o seu Filho, nascido de mulher, nascido sob a Lei,
+#v 5 %v para redimir os que estavam sob a Lei, a fim de que nós recebêssemos a adoção como filhos.
+#v 6 %v E, como sois filhos, Deus enviou aos {tr,rp:vossos}{n4:nossos}{trnc: #fn _c N4: nossos %fn} corações o Espírito do seu Filho, que clama: “Aba, Pai!”
+#v 7 %v Portanto, tu já não és mais servo, mas sim filho; e se és filho, também és herdeiro {n4: por meio} de Deus{tr,rp: por meio de Cristo}.{trnc: #fn _c N4: “herdeiro por meio de Deus” (omite “de Cristo”) %fn }
+#v 8 %v Quando, porém, não conhecíeis a Deus, vós servíeis aos que por natureza não são deuses.
+#v 9 %v Mas agora, que conheceis Deus, mais que isso, por Deus sois conhecidos, por que voltais outra vez aos fracos e miseráveis princípios elementares, aos quais quereis servir de novo?
+#v 10 %v Vós guardais dias, meses, tempos, e anos.
+#v 11 %v Temo a vosso respeito de que talvez eu tenha trabalhado para convosco em vão.
+#v 12 %v Rogo-vos, irmãos, que sejais como eu, pois também eu sou como vós. Nenhum mal me fizestes.
+#v 13 %v E vós sabeis que foi com uma enfermidade da carne que vos anunciei o Evangelho pela primeira vez;
+#v 14 %v E não cedestes à tentação de ter desprezo ou repugnância por meu aspecto físico; #fn _k meu aspecto físico _c Lit. minha carne %fn ao contrário, vós me recebestes como a um mensageiro de Deus, como ao #ad próprio %ad Cristo Jesus.
+#v 15 %v {tr,rp:O que houve, pois, com}{n4:Onde está, pois,} a vossa alegria?{trnc: #fn _c N4: Onde está, pois, a vossa alegria? %fn} Pois eu vos dou testemunho de que, se fosse possível, teríeis arrancado os vossos próprios olhos para dá-los a mim.
+#v 16 %v Tornei-me, por acaso, vosso inimigo por ter vos dito a verdade?
+#v 17 %v Eles têm interesse por vós, mas não com boa intenção; #fn _c Lit. não da boa (ou correta) maneira %fn mas querem vos isolar #ad de mim %ad , para que vós mostreis interesse por eles.
+#v 18 %v É bom, porém, mostrar interesse #fn _c Ou: ser objeto de interesse %fn para o bem sempre, e não somente quando estou presente convosco.
+#v 19 %v Meus filhinhos, por quem volto a sofrer dores de parto, até que Cristo seja formado em vós:
+#v 20 %v queria eu estar agora presente convosco, e mudar meu tom de voz, pois estou perplexo a vosso respeito.
+#v 21 %v Respondei-me vós, que quereis estar sob a Lei: não ouvis a Lei?
+#v 22 %v Pois está escrito que Abraão tinha dois filhos: um da escrava, e outro da livre.
+#v 23 %v O da escrava nasceu segundo a carne, mas o da livre, pela promessa.
+#v 24 %v Isto serve de ilustração, pois estes são dois pactos: um é o do monte Sinai, que gera filhos para a escravidão, que é Agar.
+#v 25 %v {tr,rp:Pois}{n4:Ora,}{trnc: #fn _c N4: Ora %fn} esta Agar é o monte Sinai, na Arábia, e corresponde à Jerusalém de agora, {tr,rp:e}{n4:pois}{trnc: #fn _c N4: pois %fn} é escravizada com os filhos dela.
+#v 26 %v Mas a Jerusalém de cima é livre; esta é a {tr,rp:mãe de todos nós}{n4:nossa mãe}{trnc: #fn _c N4: nossa mãe %fn }.
+#v 27 %v Pois está escrito:
+ Alegra-te, ó estéril, que não geras filhos; extravasa gritando de júbilo, tu, que não estás de parto; porque muitos mais são os filhos da solitária, que os da que tem marido. #ref _d Isaías 54:1 %ref
+#v 28 %v {tr,rp:Nós}{n4:Vós},{trnc: #fn _c N4:Vós %fn} porém, irmãos, como Isaque, {tr,rp:somos}{n4:sois}{trnc: #fn _c N4: sois %fn} filhos da promessa.
+#v 29 %v Porém, assim como naquele tempo o que nasceu segundo a carne perseguia o que #ad nasceu %ad segundo o Espírito, assim também é agora.
 #v 30 %v Mas o que diz a Escritura?
- Expulsa a escrava, e a seu filho, porque de maneira nenhuma o filho da escrava herdará com o filho da livre.
-#v 31 %v Portanto, irmãos, nós não somos filhos da escrava, mas sim da livre.
+ Expulsa a escrava e o filho dela, porque de maneira nenhuma o filho da escrava herdará com o filho da livre. #ref _d Gênesis 21:10 %ref
+#v 31 %v Portanto, irmãos, não somos filhos da escrava, mas sim da livre.
 
 #c 5 %c
-#v 1 %v Estai pois firmes na liberdade com que Cristo nos libertou, e não volteis a vos prender com o jugo da escravidão.
-#v 2 %v Eis que eu, Paulo, vos digo, que se vos deixardes circuncidar, em nada Cristo vos será útil.
-#v 3 %v E eu novamente dou testemunho de que todo homem que se deixar circuncidar, passa a ter a obrigação de obedecer a toda a Lei.
-#v 4 %v Vós estais separados de Cristo, os que #ad quereis %ad vos fazer justos pela Lei; da graça tendes caído.
-#v 5 %v Porque aguardamos pelo Espírito da fé a esperança da justiça.
-#v 6 %v Porque em Cristo Jesus, nem a circuncisão nem a incircuncisão tem valor algum; mas sim a fé, que opera pelo amor.
-#v 7 %v Vós estáveis correndo bem; quem vos impediu de obedecerdes à verdade?
-#v 8 %v Esta persuasão não #ad vem %ad daquele que vos chama.
+#v 1 %v {tr,rp:Estai, pois, firmes na liberdade com que Cristo nos libertou}{n4:Para a liberdade Cristo nos libertou; portanto, estai firmes}, e não volteis a vos prender com o jugo da escravidão.
+#v 2 %v Eis que eu, Paulo, vos digo, que se vos deixardes circuncidar, Cristo vos será útil em nada.
+#v 3 %v E de novo atesto que todo homem que se deixar circuncidar está obrigado a obedecer a toda a Lei.
+#v 4 %v Desligados estais de Cristo, vós que #ad quereis %ad ser justos pela Lei; da graça caístes.
+#v 5 %v Pois, por meio do Espírito, pela fé, aguardamos a esperança da justiça;
+#v 6 %v porque, em Cristo Jesus, nem a circuncisão nem a incircuncisão tem valor algum; mas sim a fé, que opera por meio do amor.
+#v 7 %v Estáveis correndo bem; quem vos impediu de obedecerdes à verdade?
+#v 8 %v Esta persuasão não parte daquele que vos chama.
 #v 9 %v Um pouco de fermento leveda toda a massa.
-#v 10 %v Eu confio em vós, no Senhor, de que vossas mentes de maneira nenhuma serão modificadas; mas aquele que vos perturba, será julgado #ad por isto %ad , quem quer que seja.
-#v 11 %v Mas irmãos, se eu ainda prego a circuncisão, então por que sou perseguido? Portanto está anulada a ofensa da cruz.
-#v 12 %v Gostaria que se cortassem aqueles que estão vos perturbando.
-#v 13 %v Porque vós, irmãos, fostes chamados para a liberdade. Somente não #ad useis %ad a liberdade para dar oportunidade à carne; mas sim, por amor, servi-vos uns aos outros.
-#v 14 %v Porque toda a Lei se cumpre em uma só mensagem, nesta:
- Amarás a teu próximo como a ti mesmo.
-#v 15 %v Mas se vós mordeis uns aos outros, e #ad vos %ad devorais, olhai para não vos destruirdes uns aos outros.
-#v 16 %v Mas eu digo: andai no Espírito, e não cumprais o mau desejo da carne.
-#v 17 %v Porque a carne deseja contra o Espírito, e o Espírito #ad deseja %ad contra a carne; e estes se opõem um contra o outro, para que não façais o que quereis.
-#v 18 %v Mas se vós sois guiados pelo Espírito, não estais debaixo da Lei.
-#v 19 %v E as obras da carne são evidentes. São elas: adultério, pecado sexual, impureza, libertinagem,
-#v 20 %v Idolatria, feitiçaria, inimizades, brigas, ciúmes, iras, rivalidades por interesse próprio, confrontos, divisões,
-#v 21 %v Invejas, homicídios, bebedices, orgias, e coisas semelhantes a essas, das quais eu tinha vos dito anteriormente; assim como eu também tinha vos dito antes que os que fazem tais coisas não herdarão o Reino de Deus.
-#v 22 %v Mas o fruto do Espírito é: amor, alegria, paz, paciência, benignidade, bondade, fidelidade, mansidão, domínio próprio.
-#v 23 %v Contra tais coisas não há lei.
-#v 24 %v E os que são de Cristo crucificaram a carne junto com #ad suas %ad paixões e maus desejos.
-#v 25 %v Se nós vivemos no Espírito, devemos andar conforme o Espírito.
-#v 26 %v Não desejemos #ad para nós %ad uma glória inútil, irritando uns aos outros, #ad e %ad invejando uns aos outros.
+#v 10 %v Acerca de vós, confio no Senhor de que não mudareis a vossa mentalidade; mas aquele que vos perturba, seja quem for, sofrerá o julgamento.
+#v 11 %v Mas se eu, irmãos, ainda prego a circuncisão, por que, então, sou perseguido? Então a ofensa da cruz está anulada!
+#v 12 %v Gostaria que aqueles que estão vos perturbando castrassem a si mesmos.
+#v 13 %v Pois vós, irmãos, fostes chamados para a liberdade. Somente não #ad useis %ad a liberdade como oportunidade para a carne; em vez disso, servi-vos uns aos outros pelo amor.
+#v 14 %v Pois toda a Lei se cumpre em uma só regra, que é:
+ Amarás ao teu próximo como a ti mesmo. #ref _d Levítico 19:18 %ref
+#v 15 %v Se, porém, mordeis e devorais uns aos outros, cuidado para não vos destruirdes mutuamente.
+#v 16 %v Mas eu digo: andai no Espírito, e não executeis o mau desejo da carne.
+#v 17 %v Pois a carne deseja contra o Espírito, e o Espírito contra a carne; {tr,rp:e}{n4:pois}{trnc: #fn _c N4: pois %fn} estes se opõem mutuamente, para que não façais o que quereis.
+#v 18 %v Mas, se sois guiados pelo Espírito, não estais debaixo da Lei.
+#v 19 %v As obras da carne são evidentes. São elas: {tr,rp:adultério,}{n4: #fn _c TR, RP acrescentam “adultério” %fn}{trnc: #fn _c N4 omite “adultério” %fn} pecado sexual, impureza, devassidão,
+#v 20 %v idolatria, feitiçaria, inimizades, brigas, ciúmes, iras, rivalidades egoístas, desavenças, facções,
+#v 21 %v invejas, {tr,rp:homicídios,}{n4: #fn _c TR,RP acrescentam “homicídios” %fn}{trnc: #fn _c N4 omite “homicídios” %fn} bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus.
+#v 22 %v Mas o fruto do Espírito é: amor, alegria, paz, paciência, benignidade, bondade, fidelidade, #fn _c Ou: fé %fn 
+#v 23 %v mansidão, domínio próprio. Contra essas coisas não há lei.
+#v 24 %v Os que são de Cristo {n4:Jesus}{trnc: #fn _c N4 acrescenta “Jesus” %fn} crucificaram a carne com as paixões e os maus desejos.
+#v 25 %v Se vivemos no Espírito, também no Espírito andemos.
+#v 26 %v Não nos tornemos presunçosos, irritando uns aos outros, e invejando uns aos outros.
 
 #c 6 %c
-#v 1 %v Irmãos, se também alguém for encontrado cometendo algum pecado, vós que sois espirituais, corrigi ao tal com espírito de mansidão, prestando atenção para ti mesmo, para que também não sejas tentado.
-#v 2 %v Levai as cargas uns dos outros; e assim vós cumprireis a Lei de Cristo.
-#v 3 %v Porque se alguém pensa ser alguma coisa, sendo nada, engana a si mesmo.
-#v 4 %v Mas cada um verifique sua própria obra, e então terá orgulho em si mesmo sozinho, e não em outros.
-#v 5 %v Porque cada um levará sua própria carga.
-#v 6 %v E o que é ensinado na palavra, compartilhe todas as boas coisas com aquele que o ensina.
-#v 7 %v Não erreis: Deus não se deixa escarnecer; porque #ad tudo %ad o que o homem semear, isso ele também ceifará.
-#v 8 %v Porque aquele que em sua carne semear, da carne ceifará corrupção; mas aquele que no Espírito semear, do Espírito ceifará a vida eterna.
-#v 9 %v Porém não desfaleçamos em fazer o bem, porque a seu tempo ceifaremos, se não tivermos nos cansado #ad e desistido %ad .
-#v 10 %v Portanto, sempre enquanto tivermos oportunidade, façamos o bem a todos; mas principalmente aos familiares da fé.
-#v 11 %v Olhai quão grandes letras eu vos escrevi de minha mão.
-#v 12 %v Todos os que querem mostrar boa aparência na carne, esses vos constrangem a vos circuncidarem, somente para não serem perseguidos por causa da cruz de Cristo.
-#v 13 %v Porque nem mesmo aqueles que se circuncidam obedecem à Lei; mas querem que vos circuncideis, para se orgulharem em vossa carne.
-#v 14 %v Mas que eu nunca venha a me orgulhar, a não ser na cruz de nosso Senhor Jesus Cristo, pelo qual o mundo me é crucificado, e eu ao mundo.
-#v 15 %v Porque em Cristo Jesus, nem a circuncisão tem algum valor, nem a incircuncisão; mas sim a nova criatura.
-#v 16 %v E todos quantos andarem conforme esta regra, #ad haverá %ad paz e misericórdia sobre eles, e sobre o Israel de Deus.
-#v 17 %v De agora em diante, ninguém mais me cause sofrimento; porque em meu corpo trago as marcas do Senhor Jesus.
-#v 18 %v A graça de nosso Senhor Jesus Cristo seja com vosso espírito, irmãos. Amém.
+#v 1 %v Irmãos, se alguém for surpreendido em algum pecado, vós que sois espirituais, restaurai o tal com espírito de mansidão, prestando atenção a ti mesmo, para que também não sejas tentado.
+#v 2 %v Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo.
+#v 3 %v Pois, se alguém pensa ser alguma coisa, sendo nada, engana a si mesmo.
+#v 4 %v Cada um, porém, examine a sua própria obra, e então terá orgulho em si mesmo sozinho, e não em outro;
+#v 5 %v pois cada um levará a sua própria carga.
+#v 6 %v Mas aquele que é instruído na palavra compartilhe todas as boas coisas com aquele que o instrui.
+#v 7 %v Não vos enganeis: Deus não se deixa escarnecer; pois, o que o ser humano semear, isso também colherá.
+#v 8 %v Pois quem semear para a sua carne, da carne colherá degradação; mas quem semear para o Espírito, do Espírito colherá a vida eterna.
+#v 9 %v Porém não cansemos de fazer o bem, pois no tempo devido colheremos, se não desistirmos. #fn _c na língua original, desistir por esgotamento %fn
+#v 10 %v Portanto, enquanto {tr,rp:temos}{n4:tivermos}{trnc: #fn _c N4: tivermos %fn} oportunidade, façamos o bem a todos; mas principalmente aos familiares #fn _c Ou domésticos, isto é, os da mesma casa %fn da fé.
+#v 11 %v Olhai como são grandes as letras que vos escrevi da minha mão.
+#v 12 %v Todos os que querem mostrar boa aparência na carne, estes vos obrigam a vos circuncidarem, somente para não serem perseguidos por causa da cruz de Cristo.
+#v 13 %v Pois nem mesmo os que se {tr,n4:circuncidam}{rp:circuncidaram}{trnc: #fn _c RP: circuncidaram %fn} guardam a Lei; mas querem que vos circuncideis, para se orgulharem de vossa carne.
+#v 14 %v Mas longe de mim esteja me orgulhar, a não ser na cruz do nosso Senhor Jesus Cristo; por meio dela, o mundo está crucificado para mim, e eu para o mundo.
+#v 15 %v Pois {tr,rp:em Cristo Jesus,}{n4: #fn _c TR, RP acrescentam “em Cristo Jesus” %fn}{trnc: #fn _c N4 omite “em Cristo Jesus” %fn nem a circuncisão {tr,rp:tem valor algum}{n4: é coisa alguma},{trnc: #fn _c N4 contém “é coisa alguma” %fn} nem a incircuncisão; mas sim a nova criatura.
+#v 16 %v E todos os que andarem conforme esta regra, paz e misericórdia estejam sobre eles, e sobre o Israel de Deus.
+#v 17 %v De agora em diante, ninguém mais me faça sofrer, porque no meu corpo trago as marcas {tr,rp:do Senhor Jesus}{n4:de Jesus}.{trnc: #fn _c N4 omite “Senhor” %fn}
+#v 18 %v A graça do nosso Senhor Jesus Cristo seja com o vosso espírito, irmãos. Amém!
 {tr: #ad Escrita de Roma para os Gálatas %ad }{trnc: #fn _c RP, N4 omitem a informação de onde a carta foi escrita %fn }

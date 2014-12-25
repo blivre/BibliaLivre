@@ -1,5 +1,6 @@
 ﻿#header
 #name Neemias %name
+#snm Neemias %snm
 #ver 20130107 %ver
 #abbr Ne %abbr
 %header

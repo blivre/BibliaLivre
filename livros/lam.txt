@@ -1,5 +1,6 @@
 ﻿#header
 #name Lamentações %name
+#snm Lamentações %snm
 #ver 20120914 %ver
 #abbr Lm %abbr
 %header

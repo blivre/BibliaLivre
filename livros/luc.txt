@@ -1,5 +1,6 @@
 ﻿#header
 #name Evangelho Segundo Lucas %name
+#snm Lucas %snm
 #ver 20130930 %ver
 #abbr Lc %abbr
 %header
@@ -139,7 +140,7 @@ E a mão do Senhor era com ele.
 #v 30 %v Pois meus olhos já têm visto tua salvação.
 #v 31 %v A qual preparaste perante a face de todos os povos.
 #v 32 %v Luz para iluminação dos gentios, e para glória de teu povo Israel.
-#v 33 %v E {tr,rp:José}{n4:seu pai}{trnc:(TR, RP: "José" - N4: "seu pai" %fn }{n4: #fn _c N4: "seu pai" - TR, RP: "José" %fn } e sua mãe se maravilharam das coisas que se diziam sobre ele.
+#v 33 %v E {tr,rp:José}{n4:seu pai}{trnc: #fn _c TR, RP: "José" - N4: "seu pai" %fn }{n4: #fn _c N4: "seu pai" - TR, RP: "José" %fn } e sua mãe se maravilharam das coisas que se diziam sobre ele.
 #v 34 %v E Simeão os abençoou, e disse a sua mãe Maria:
  Eis que este é posto para queda e levantamento de muitos em Israel; e para sinal que falarão contra ele,
 #v 35 %v (E também uma espada traspassará tua própria alma) para que de muitos corações se manifestem os pensamentos.

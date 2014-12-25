@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeiro Livro dos Reis %name
+#snm 1 Reis %snm
 #ver 20120818 %ver
 #abbr 1Rs %abbr
 %header

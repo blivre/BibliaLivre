@@ -1,5 +1,6 @@
 ﻿#header
 #name Jeremias %name
+#snm Jeremias %snm
 #ver 20131211 %ver
 #abbr Jr %abbr
 %header
@@ -1247,7 +1248,7 @@ diz o SENHOR;
 diz o SENHOR, 
  eu serei o Deus de todas as famílias de Israel, e elas serão o meu povo. 
 #v 2 %v Assim diz o SENHOR:
- O povo dos que escaparam da espada encontraram graça no deserto; #ad este é %ad Israel, quando eu o fizer descansar.
+ O povo dos que escaparam da espada encontrou graça no deserto; #ad este é %ad Israel, quando eu o fizer descansar.
 #v 3 %v O SENHOR apareceu a mim já há muito tempo, dizendo:
  Com amor eterno eu tenho te amado; por isso com bondade te sustento.
 #v 4 %v Novamente te edificarei, e serás edificada, ó virgem de Israel; novamente serás adornada com teus tamborins, e sairás na dança dos que se alegram.
@@ -1612,7 +1613,7 @@ E Jeremias assim fez.
  Não te entregarão. Ouve, por favor, a voz do SENHOR que eu te falo, e terás bem, e tua alma viverá. 
 #v 21 %v Mas se tu não quiseres sair, esta é a palavra que o SENHOR me mostrou:
 #v 22 %v Eis que todas as mulheres que restaram na casa do rei de Judá serão levadas aos príncipes do rei da Babilônia; e elas mesmas dirão:
- Os teus amigos te enganaram, e prevalecido contra ti; teus pés se atolaram na lama, e eles se viraram para trás. 
+ Os teus amigos te enganaram, e prevaleceram contra ti; teus pés se atolaram na lama, e eles se viraram para trás. 
 #v 23 %v Assim todas as tuas mulheres e teus filhos serão levados aos caldeus, e tu não escaparás de suas mãos; ao contrário, pela mão do rei da Babilônia serás preso, e esta cidade será queimada a fogo.
 #v 24 %v Então Zedequias disse a Jeremias:
  Ninguém saiba estas palavras, e então não morrerás. 

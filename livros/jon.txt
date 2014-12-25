@@ -1,5 +1,6 @@
 ﻿#header
 #name Jonas %name
+#snm Jonas %snm
 #ver 20120914 %ver
 #abbr Jon %abbr
 %header

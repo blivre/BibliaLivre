@@ -1,5 +1,6 @@
 ﻿#header
 #name Naum %name
+#snm Naum %snm
 #ver 20120818 %ver
 #abbr Na %abbr
 %header

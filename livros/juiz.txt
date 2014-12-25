@@ -1,5 +1,6 @@
 ﻿#header
 #name Livro dos Juízes %name
+#snm Juízes %snm
 #ver 20130331 %ver
 #abbr Jz %abbr
 %header

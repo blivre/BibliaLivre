@@ -1,6 +1,7 @@
 ﻿#header
 #name Primeira Carta de Paulo aos Coríntios %name
-#ver 20131005 %ver
+#snm 1 Coríntios %snm
+#ver 20140113 %ver
 #abbr 1Co %abbr
 %header
 
@@ -462,11 +463,11 @@ O último Adão em espírito vivificante.
 #v 52 %v Em um momento, em um piscar de olhos, à ultima trombeta; porque a trombeta soará, e os mortos ressuscitarão incorruptíveis, e nós seremos transformados.
 #v 53 %v Porque é necessário que este #ad corpo %ad corruptível vista a incorrupção, e este #ad corpo %ad mortal vista a imortalidade.
 #v 54 %v E quando este #ad corpo %ad se vestir de incorrupção, e este #ad corpo %ad mortal se vestir de imortalidade, então se cumprirá a palavra que está escrita:
- Na vitória, a morte é engolida.
-#v 55 %v Onde está, morte, o teu agulhão? Onde está, mundo dos mortos, a tua vitória?
-#v 56 %v O agulhão da morte é o pecado, e a força do pecado é a Lei.
+ Na vitória, a morte é tragada.
+#v 55 %v Onde está, ó morte, o teu aguilhão? Onde está, ó mundo dos mortos, a tua vitória?
+#v 56 %v O aguilhão da morte é o pecado, e a força do pecado é a Lei.
 #v 57 %v Mas graças a Deus, que nos dá vitória por meio do nosso Senhor Jesus Cristo.
-#v 58 %v Portanto, meus amados irmão, sede firmes, imóveis #ad e %ad sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor.
+#v 58 %v Portanto, meus amados irmãos, sede firmes, imóveis #ad e %ad sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor.
 
 #c 16 %c
 #v 1 %v E quanto à coleta que #ad se faz %ad para os santos, fazei também como ordenei às igrejas da Galácia.

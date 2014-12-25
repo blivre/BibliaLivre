@@ -1,5 +1,6 @@
 ﻿#header
 #name Esdras %name
+#snm Esdras %snm
 #ver 20120616 %ver
 #abbr Esd %abbr
 %header

@@ -1,6 +1,7 @@
 ﻿#header
 #name Carta de Paulo aos Romanos %name
-#ver 20131217 %ver
+#snm Romanos %snm
+#ver 20140313 %ver
 #abbr Rm %abbr
 %header
 
@@ -36,7 +37,7 @@
 #v 28 %v E como não aprovaram reconhecer a Deus, #ad o mesmo %ad Deus os entregou a uma mente reprovada, para fazerem coisas impróprias.
 #v 29 %v #ad Assim estão %ad cheios de toda injustiça,{n4: #fn _c TR, RP acrescentam “pecado sexual” %fn } {tr,rp: pecado sexual,}{trnc: #fn _c N4 omite “pecado sexual” %fn } malícia, ganância, maldade; são repletos de inveja, homicídio, briga, engano, malignidade;
 #v 30 %v são murmuradores, difamadores, e odeiam Deus; são insolentes, soberbos, presunçosos, inventores de males, e desobedientes aos pais;
-#v 31 %v não têm entendimento, quebram acordos, são insensíveis, e recusam-se {tr,rp:a perdoar ou a}{trnc: N4 omite “implacáveis” (na tradução: “recusam-se a perdoar” %fn } mostrar misericórdia.{n4: TR, RP: “recusam-se a perdoar ou a mostrar misericórdia” %fn } #fn Lit. “faltos de entendimento, quebradores de acordos, faltos de afeição, {tr,rp:implacáveis,} não misericordiosos” %fn
+#v 31 %v não têm entendimento, quebram acordos, são insensíveis, e recusam-se {tr,rp:a perdoar ou a}{trnc: #fn _c N4 omite “implacáveis” (na tradução: “recusam-se a perdoar” %fn } mostrar misericórdia.{n4: #fn _c TR, RP: “recusam-se a perdoar ou a mostrar misericórdia” %fn } #fn Lit. “faltos de entendimento, quebradores de acordos, faltos de afeição, {tr,rp:implacáveis,} não misericordiosos” %fn
 #v 32 %v Apesar de conhecerem o juízo de Deus, de que os que fazem tais coisas merecem a morte, não somente as fazem, como também se agradam dos que as praticam.
 
 #c 2 %c
@@ -50,480 +51,483 @@
 #v 8 %v mas {tr,rp:indignação e ira}{n4:ira e indignação}{trnc: #fn _c N4: ira e indignação %fn } aos que agem com egoísmo, obedecendo à injustiça, mas não à verdade.
 #v 9 %v Haverá aflição e angústia a toda pessoa #fn _c Lit. alma humana %fn que pratica o mal, primeiramente ao judeu, e também ao grego,
 #v 10 %v porém glória, honra, e paz, a todo aquele que pratica o bem, primeiramente ao judeu, e também ao grego;
-#v 11 %v Porque com Deus não há acepção de pessoas.
-#v 12 %v Pois todos os que pecaram sem Lei, sem Lei também perecerão; e todos os que pecaram sob a Lei, pela Lei serão julgados.
-#v 13 %v Porque não são os que ouvem a Lei que são justos diante de Deus, mas sim os praticantes da Lei; estes serão justificados.
-#v 14 %v Porque quando os gentios, que não têm a Lei, fazem naturalmente as coisas que são da Lei, estes, ainda que não tenham a Lei, são lei para si mesmos.
-#v 15 %v Eles mostram a obra da Lei escrita em seus corações, dando-lhes testemunho juntamente com sua consciência, e #ad seus %ad pensamentos, acusando-os ou defendendo-os entre si,
-#v 16 %v No dia em que Deus julgará os segredos dos seres humanos por Jesus Cristo, segundo o meu Evangelho.
-#v 17 %v Eis que tu, que és chamado de judeu, e descansas na Lei, e te orgulhas em Deus,
-#v 18 %v E conheces a vontade #ad dele %ad , e aprova as melhores coisas, por ser instruído da Lei;
-#v 19 %v E confias que és guias dos cegos, luz dos que estão em trevas;
-#v 20 %v Instrutor dos tolos, professor das crianças, #ad e %ad que consideras a lei como a forma do conhecimento e da verdade,
-#v 21 %v Então tu, que ensinas ao outro, não ensinas a ti mesmo? Tu que pregas que não se deve furtar, furtas?
-#v 22 %v Tu que dizes que não se deve adulterar, adulteras? Tu que odeias os ídolos, profanas os templos?
-#v 23 %v Tu que te orgulhas da Lei, pela transgressão da Lei desonras a Deus.
-#v 24 %v Porque assim como está escrito:
- O nome de Deus é insultado por causa de vós entre os gentios.
-#v 25 %v Porque a circuncisão realmente tem proveito se tu guardares a Lei; porém, se tu és transgressor da Lei, tua circuncisão se torna #ad como %ad incircuncisão.
-#v 26 %v Pois se o incircunciso obedecer às regras da Lei, por acaso não será considerada sua incircuncisão como circuncisão?
-#v 27 %v E se o que de natureza é incircunciso, se cumprir a Lei, julgará a ti, que pela letra e circuncisão és transgressor da Lei.
-#v 28 %v Porque ele não é judeu na aparência, nem é circunciso na carne;
-#v 29 %v Mas ele é judeu no interior, e circunciso de coração, em espírito, #ad e %ad não na letra; cujo louvor não #ad vem %ad dos seres humanos, mas sim de Deus.
+#v 11 %v porque com Deus não há acepção de pessoas.
+#v 12 %v Pois todos os que sem Lei pecaram, sem Lei também perecerão; e todos os que pecaram sob a Lei, pela Lei serão julgados
+#v 13 %v (porque não são os que ouvem a Lei que são justos diante de Deus, mas sim, os que praticam a Lei que serão justificados.
+#v 14 %v Pois quando os gentios, que não têm a Lei, fazem naturalmente as coisas que são da Lei, estes, ainda que não tenham a Lei, são lei para si mesmos.
+#v 15 %v Eles mostram a obra da Lei escrita em seus corações, dando-lhes testemunho juntamente com a sua consciência, e os pensamentos, acusando-os ou defendendo-os entre si); 
+#v 16 %v no dia em que Deus julgará os segredos dos seres humanos por meio de {tr,rp:Jesus Cristo}{n4:Cristo Jesus},{trnc: #fn _c N4: Cristo Jesus %fn } conforme o meu Evangelho.
+#v 17 %v {tr,rp:Eis que}{n4:Mas se} {trnc:#fn _c N4: Mas se %fn }{n4: #fn _c TR, RP: Eis que %fn} tu{tr,rp:, que} és chamado de judeu, e descansas confiando na Lei, e te orgulhas em Deus,
+#v 18 %v conheces a vontade #ad dele %ad , e aprova as melhores coisas, por seres instruído da Lei;
+#v 19 %v e confias que és guias dos cegos, luz dos que estão nas trevas,
+#v 20 %v instrutor dos tolos, professor das crianças, e que consideras a lei como a forma do conhecimento e da verdade,–
+#v 21 %v tu, pois, que ensinas o outro, não ensinas a ti mesmo? Tu que pregas que não se deve furtar, furtas?
+#v 22 %v Tu que dizes que não se deve adulterar, adulteras? Tu que odeias os ídolos, profanas #fn _c Ou: roubas %fn templos?
+#v 23 %v Tu, que te orgulhas da Lei, pela transgressão da Lei desonras a Deus;
+#v 24 %v porque, como está escrito:
+ O nome de Deus é blasfemado entre os gentios por vossa causa. #fn _c Ref. Isaías 52:5; Ezequiel 36:22 %fn 
+#v 25 %v Pois a circuncisão tem proveito de fato se guardares a Lei; porém, se tu és transgressor da Lei, a tua circuncisão se torna incircuncisão.
+#v 26 %v Ora, se o incircunciso obedecer às exigências da Lei, por acaso não será a sua incircuncisão considerada como circuncisão?
+#v 27 %v E se o que de natureza é incircunciso cumprir a Lei, ele julgará a ti, que mesmo com a norma escrita #fn _c Lit. letra %fn e a circuncisão és transgressor da Lei.
+#v 28 %v Pois judeu não é o de aparência externa, nem circuncisão é a na carne,
+#v 29 %v mas judeu é o no interior, e circuncisão é a de coração, no espírito, #fn _c Ou: Espírito %fn e não em uma norma escrita. #fn _c Lit. letra %fn Essa pessoa é elogiada não pelas pessoas, mas sim por Deus.
 
 #c 3 %c
-#v 1 %v Qual é, logo, a vantagem do judeu? Ou qual a utilidade da circuncisão?
-#v 2 %v Muita, em toda maneira. Porque, quanto ao primeiro, as palavras de Deus lhes foram confiadas.
-#v 3 %v Então o quê? Se alguns foram incrédulos, sua incredulidade anulará a fidelidade de Deus?
-#v 4 %v De maneira nenhuma; antes seja Deus verdadeiro, e todo ser humano mentiroso; assim como está escrito:
- Para que sejas justificado em tuas palavras, e venças quando tu fores julgado.
-#v 5 %v E se nossa injustiça evidencia a justiça de Deus, que diremos? Será que Deus é injusto por se irar? (Falo na lógica humana)
-#v 6 %v De maneira nenhuma; de outro modo, como Deus julgará ao mundo?
-#v 7 %v Porque se a verdade de Deus foi mais abundante, por minha mentira, para sua glória, por que ainda também sou julgado como pecador?
-#v 8 %v E #ad por que %ad não #ad dizer %ad :
+#v 1 %v Qual, pois, é a vantagem vantagem do judeu? Ou qual é a utilidade da circuncisão?
+#v 2 %v Muita, em toda maneira. Pois, em primeiro lugar, as palavras de Deus lhes foram confiadas.
+#v 3 %v Que, pois? Se alguns foram infiéis #fn _c Ou: incrédulos %fn a infidelidade #fn _c Ou: incredulidade %fn deles anulará a fidelidade de Deus?
+#v 4 %v De maneira nenhuma! Antes seja Deus verdadeiro, e todo ser humano mentiroso, como está escrito:
+ Para que sejas justificado em tuas palavras, e prevaleças quando julgares. #fn _c Ou: quando fores julgado %fn #ref _d Salmos 51:4 %ref
+#v 5 %v E, se a nossa injustiça evidencia a justiça de Deus, que diremos? Acaso Deus é injusto em impor #ad a sua %ad ira? (Falo na lógica humana.)
+#v 6 %v De maneira nenhuma! De outro modo, como Deus julgará o mundo?
+#v 7 %v {tr,rp:Pois}{n4:Mas} se, através da minha mentira, a verdade de Deus foi mais abundante para a sua glória, por que ainda sou também julgado como pecador?
+#v 8 %v E por que não #ad dizer %ad :
  “Façamos o mal, para que venha o bem”,
-assim como alguns nos insultam, afirmando que nós dizemos isto? (A condenação destes é justa).
-#v 9 %v Então o quê? Somos nós melhores #ad que os outros %ad ? Não, em maneira nenhum. Porque já antes anunciamos, tanto aos judeus, como aos gregos, que todos estão debaixo do pecado;
-#v 10 %v Assim como está escrito:
+como alguns nos caluniam, afirmando que nós dizemos isto? (A condenação destes é justa).
+#v 9 %v Que, pois? Somos nós melhores? Não, de maneira nenhuma. Pois já delatamos que todos, tanto judeus como gregos, estão debaixo do pecado,
+#v 10 %v como está escrito:
  Não há justo, nem um sequer.
-#v 11 %v Não há ninguém que entenda, não há ninguém que busque a Deus.
-#v 12 %v Todos se desviaram, #ad e %ad juntamente se fizeram inúteis; não há quem faça o bem, não há nem um sequer.
-#v 13 %v Sua garganta é um sepulcro aberto; com suas línguas enganam; veneno de áspides está debaixo de seus lábios.
-#v 14 %v Cuja boca está cheia de maldição e amargura.
-#v 15 %v Seus pés são rápidos para derramar sangue.
-#v 16 %v Destruição e miséria há em seus caminhos.
-#v 17 %v E não conheceram o caminho da paz.
-#v 18 %v Não há temor de Deus diante se seus olhos.
-#v 19 %v Ora, nós sabemos que tudo o que a Lei diz, diz para os que estão debaixo da Lei, para que toda boca se tape, e todo o mundo seja condenável #ad diante %ad de Deus.
-#v 20 %v Pelo que nenhuma carne será justificada diante dele pelas obras da Lei; porque #ad é %ad pela Lei #ad que vem %ad o conhecimento do pecado.
-#v 21 %v Mas agora se manifestou a justiça de Deus sem a Lei, tendo testemunho da Lei e dos Profetas;
-#v 22 %v Que é a justiça de Deus pela fé em Jesus Cristo, #fn _c fé em Jesus Cristo – trad. alt. fidelidade de Jesus Cristo %fn para todos e sobre todos os que creem; porque não há diferença;
-#v 23 %v Porque todos pecaram, e destituídos estão da glória de Deus;
-#v 24 %v Sendo justificados gratuitamente por sua graça, pelo resgate que está em Cristo Jesus;
-#v 25 %v Ao qual Deus propôs por sacrifício de reconciliação pela fé em seu sangue, para demonstração de sua justiça, deixando de considerar os pecados antes cometidos, sob a paciência de Deus;
-#v 26 %v Para demonstração de sua justiça neste presente tempo, para que ele seja justo, e #ad também %ad justificador daquele que tem fé em Jesus.
-#v 27 %v Então onde está o orgulho? Este é excluído. Por qual Lei? Das obras? Não; mas pela Lei da fé.
+#v 11 %v Ninguém há que entenda, ninguém há que busque a Deus.
+#v 12 %v Todos se desviaram, e juntamente se tornaram inúteis. Não há quem faça o bem, não há um sequer. #fn _c Ref. Salmos 14:1-3; 53:1-3; Eclesiastes 7:20 %fn
+#v 13 %v Suas gargantas #fn _c Lit. “A garganta deles é” %fn são sepulcro aberto; com suas línguas enganam; #fn _c Ref. Salmos 5:9 %fn veneno de serpentes #fn _c Ou, mais precisamente, áspides %fn está sob seus lábios. #fn _c Ref. Salmos 140:3 %fn
+#v 14 %v Suas bocas estão cheias de maldição e amargura. #fn _c Ref. Salmos 10:7 %fn
+#v 15 %v Seus pés são velozes para derramar sangue.
+#v 16 %v Destruição e miséria há em seus caminhos,
+#v 17 %v e não conheceram o caminho da paz. #fn _c Ref. Isaías 59:7-8 %fn
+#v 18 %v Diante dos seus olhos não há temor a Deus. #fn _c Ref. Salmos 36:1 %fn
+#v 19 %v Ora, sabemos que tudo o que a Lei diz, diz aos que estão na Lei, para que toda boca se cale, e todo o mundo seja condenável para Deus.
+#v 20 %v Assim, ninguém #fn _c Lit. nenhuma carne %fn será justificado diante dele pelas obras da Lei, porque o que há pela Lei é o conhecimento do pecado.
+#v 21 %v Mas agora, independentemente da Lei, a justiça de Deus se manifestou, tendo testemunho da Lei e dos Profetas;
+#v 22 %v isto é, a justiça de Deus por meio da fé em Jesus Cristo, #fn _c fé em Jesus Cristo – trad. alt. fidelidade de Jesus Cristo %fn para todos {tr,rp:e sobre todos}{trnc: #fn _c N4 omite “e sobre todos” %fn os que creem; pois não há diferença;
+#v 23 %v porque todos pecaram, e estão destituídos da glória de Deus;
+#v 24 %v e são justificados gratuitamente pela graça dele, por meio da redenção #fn _c Isto é, resgate %fn que há em Cristo Jesus.
+#v 25 %v Deus propôs Jesus #fn _c Lit. “Cristo Jesus, a quem Deus propôs”. A longa frase no original foi dividida para facilitar a leitura %fn por sacrifício de reconciliação pela fé em seu sangue, para demonstrar a sua justiça. Ele deixou de considerar os pecados antes cometidos, sob a paciência de Deus,
+#v 26 %v para demonstrar a sua justiça neste presente tempo, a fim de que ele seja justo, e justificador daquele que tem fé em Jesus.
+#v 27 %v Onde, pois, está o orgulho? Este é excluído. Por qual Lei? A das obras? Não, mas sim pela Lei da fé.
 #v 28 %v Concluímos, portanto, que o ser humano é justificado pela fé, independentemente das obras da Lei.
-#v 29 %v Por acaso ele é Deus somente dos Judeus, e não também dos gentios? Certamente que dos gentios também.
-#v 30 %v Dado que há um só Deus, o qual justificará #ad por meio %ad da fé o circunciso, e pela fé ao incircunciso.
-#v 31 %v Então desfazemos a Lei pela fé? De maneira nenhuma; ao contrário, estabelecemos a Lei.
+#v 29 %v Por acaso Deus é somente dos Judeus, e não também dos gentios? Certamente que dos gentios também;
+#v 30 %v dado que há um só Deus, que justificará pela fé os circuncisos, e por meio da fé os incircuncisos.
+#v 31 %v Então anulamos a Lei pela fé? De maneira nenhuma. Ao contrário, confirmamos a Lei.
 
 #c 4 %c
-#v 1 %v Então o que diremos de Abraão, nosso pai segundo a carne? O que ele alcançou?
-#v 2 %v Porque se Abraão foi justificado pelas obras, ele tem #ad motivos para se %ad orgulhar, mas não diante de Deus.
-#v 3 %v Porque, o que diz a Escritura?
- E Abraão creu em Deus, e foi lhe considerado como justiça.
-#v 4 %v Ora, aquele que trabalha, seu pagamento não é considerado como graça, mas como dívida.
-#v 5 %v Porém aquele que não trabalha, mas crê naquele que justifica ao perverso, sua fé lhe é considerada como justiça.
-#v 6 %v Assim como também Davi afirma que bem-aventurado é aquele a quem Deus considera a justiça independentemente das obras,
-#v 7 %v  #ad Dizendo %ad :
- Bem-aventurados são aqueles cujas maldades são perdoadas, e cujos pecados são cobertos.
-#v 8 %v Bem-aventurado é o homem a quem o Senhor não considera o pecado.
-#v 9 %v Pois esta afirmação de bem-aventurança há #ad somente %ad na circuncisão, ou também na incircuncisão? Por que dizemos que a fé a Abraão foi considerada como justiça?
-#v 10 %v Então como foi considerada? Estando ele na circuncisão, ou na incircuncisão? Não na circuncisão, mas sim na incircuncisão.
-#v 11 %v E ele recebeu o sinal da circuncisão #ad por %ad selo da justiça da fé que está na incircuncisão, para que fosse pai de todos os que creem, estando na circuncisão, para que também a justiça lhes seja considerada;
-#v 12 %v E fosse pai da circuncisão, daqueles que não somente são da circuncisão, mas que também andam nos passos da fé de nosso pai Abraão, que foi na incircuncisão.
-#v 13 %v Porque a promessa #ad de %ad que seria herdeiro do mundo não #ad foi feita %ad a Abraão ou à sua descendência pela Lei, mas pela justiça da fé.
-#v 14 %v Porque se os que são da Lei são herdeiros, logo a fé se torna vazia, e anulada é a promessa.
-#v 15 %v Porque a Lei opera ira; pois onde não há Lei, também não há transgressão.
-#v 16 %v Portanto é pela fé, para que seja segundo a graça; a fim de que a promessa seja firme a toda a descendência, não somente a que é da Lei, mas também a que é da fé de Abraão, o que é Pai de nós todos;
-#v 17 %v (Como está escrito:
- Eu te pus por pai de muitas nações)
-perante aquele ao qual ele creu, Deus, que vivifica aos mortos, e chama as coisas que não são como que já fossem.
-#v 18 %v O qual com esperança creu contra a esperança, que seria feito pai de muitas nações, conforme ao que #ad lhe %ad fora dito:
- Assim será tua semente.
-#v 19 %v E não se enfraquecendo na fé, não deu atenção a seu próprio corpo já desgastado, pois já era de quase cem anos, nem que o ventre de Sara já estava envelhecido.
-#v 20 %v E não duvidou da promessa de Deus por desconfiança; mas foi fortalecido na fé, dando glória a Deus;
-#v 21 %v E estando com toda a certeza de que aquele que tinha prometido também era poderoso para o fazer.
-#v 22 %v Pelo que também lhe foi considerado como justiça.
-#v 23 %v Ora, não só por ele que está escrito
- “Que lhe foi considerado #ad como justiça %ad ”
-#v 24 %v Mas também por nós, aos quais #ad também %ad será considerado #ad como justiça %ad aos que creem naquele que ressuscitou dos mortos, a Jesus nosso Senhor.
-#v 25 %v O qual foi entregue por nossos pecados, e ressuscitou para nossa justificação.
+#v 1 %v Que, pois, diremos que Abraão, nosso ancestral {tr,rp: #fn _c Lit. pai %fn } segundo a carne, obteve?
+#v 2 %v Pois se Abraão foi justificado pelas obras, ele tem do que se orgulhar, mas não diante de Deus.
+#v 3 %v Pois o que diz a Escritura?
+ Abraão creu em Deus, e foi lhe reputado como justiça. #ref _d Gênesis 15:6 %ref
+#v 4 %v Ora, ao que trabalha, seu pagamento não é considerado um favor, mas sim uma dívida.
+#v 5 %v Porém ao que não tem obra, mas crê naquele que torna justo o pecador, #fn _c Tradicionalmente “ímpio” %fn sua fé lhe é reputada como justiça.
+#v 6 %v Desta maneira, também Davi afirma que bendito #fn _c Tradicionalmente “bem-aventurado” %fn é aquele a quem Deus atribui justiça independentemente das obras:
+#v 7 %v  Benditos #fn _c Ou: Bem-aventurados %fn são os que têm as transgressões perdoadas, e seus pecados são cobertos.
+#v 8 %v Bendito #fn _c Ou: Bem-aventurado %fn é o homem a quem o Senhor não atribui pecado.
+#v 9 %v Ora, essa bênção #fn _c Ou: bem-aventurança %fn #ad é somente %ad para os circuncisos, ou também para os incircuncisos? Pois dizemos que a fé a Abraão foi reputada como justiça.
+#v 10 %v Como, pois, #ad lhe %ad foi reputada? Enquanto ele estava na circuncisão ou na incircuncisão? Não na circuncisão, mas sim na incircuncisão.
+#v 11 %v E ele recebeu o sinal da circuncisão como selo da justiça da fé quando ainda era incircunciso, para que fosse pai de todos os que creem, ainda que não estejam circuncisos, para que a justiça {n4:#ad} também {n4:%ad}{trnc: #fn _c N4 omite “também” %fn } a eles seja reputada;
+#v 12 %v e fosse pai da circuncisão, dos que não somente são circuncisos, mas que também andam nos passos da fé do nosso pai Abraão, quando ainda não era circunciso.
+#v 13 %v Pois não foi pela Lei que a promessa de ser herdeiro do mundo #ad foi feita %ad a Abraão ou à sua descendência, mas sim, pela justiça da fé;
+#v 14 %v porque, se é da Lei que são os herdeiros, logo a fé se torna vazia, e a promessa é anulada.
+#v 15 %v Pois a Lei produz ira, {tr,rp:porque}{n4:mas}{trnc: #fn _c N4: mas %fn } onde não há Lei, também não há transgressão.
+#v 16 %v Por isso é pela fé, para que seja conforme a graça, a fim de que a promessa seja confirmada a todos os descendentes, #fn _c Lit.“toda a semente” %fn  não somente aos que são da Lei, mas também aos que são da fé de Abraão, que é Pai de todos nós,
+#v 17 %v (como está escrito:
+ Eu te constituí pai de muitas nações) #fn _c Ref. Gênesis 17:5 %fn
+diante daquele em quem ele creu, Deus, que vivifica os mortos, e chama as coisas que não são como se já fossem.
+#v 18 %v Com esperança #ad Abraão %ad creu, contra as expectativas, que se tornaria pai de muitas nações, conforme o que #ad lhe %ad fora dito:
+ Assim será a tua descendência. #fn _c Ref. Gênesis 15:5 %fn
+#v 19 %v Ele não fraquejou na fé, {tr,rp:não dando atenção ao}{n4:mesmo considerando o} seu próprio corpo já praticamente morto (pois já era 
+ de quase cem anos), {tr,rp:nem ao}{n4:e o ventre de Sara em} estado de morte {tr,rp:do ventre de Sara};{trnc: #fn _c N4 omite “não” depois 
+ de “fé”, e assim se lê: “mesmo considerando o seu próprio corpo já praticamente morto (pois já era de quase cem anos), e o ventre de Sara em 
+ estado de morte” %fn}{n4: #fn _c TR, RP incluem “não” antes de “fé”, e assim se lê: “não dando atenção ao seu próprio corpo já praticamente 
+ morto (pois já era de quase cem anos), nem ao estado de morte do ventre de Sara” %fn }
+#v 20 %v nem duvidou por descrença da promessa de Deus; ao contrário, fortaleceu-se na fé, dando glória a Deus;
+#v 21 %v e teve plena certeza de que aquele que havia prometido também era poderoso para cumprir.
+#v 22 %v Por isso também que lhe foi reputado como justiça.
+#v 23 %v Ora, não só por ele está escrito que lhe foi reputado;
+#v 24 %v mas também por nós, a quem será reputado, aos que creem naquele que ressuscitou dos mortos a Jesus nosso Senhor,
+#v 25 %v que foi entregue por nossos pecados, e ressuscitou para a nossa justificação.
 
 #c 5 %c
-#v 1 %v Sendo então justificados pela fé, temos paz para com Deus por meio de nosso Senhor Jesus Cristo;
-#v 2 %v Pelo qual também temos entrada pela fé a esta graça, na qual estamos firmes, e nos gloriamos na esperança da glória de Deus.
-#v 3 %v E não somente #ad isto %ad , mas também nos gloriamos nas tribulações, sabendo que a tribulação opera paciência;
-#v 4 %v E a paciência experiência, e a experiência esperança;
-#v 5 %v E a esperança não envergonha, porque o amor de Deus está derramado em nossos corações pelo Espírito santo, que nos é dado.
-#v 6 %v Porque Cristo, estando nós ainda fracos, morreu a seu tempo pelos perversos.
-#v 7 %v Porque dificilmente alguém morrerá por um justo; pois pode talvez alguém ousar morrer por uma boa pessoa.
-#v 8 %v Mas Deus demonstra seu amor por nós, em que Cristo morreu por nós, sendo nós ainda pecadores.
-#v 9 %v Logo muito mais agora, sendo já justificados em seu sangue, seremos por ele salvos da ira.
-#v 10 %v Porque se seno nós #ad ainda %ad inimigos, somos reconciliados com Deus pela morte de seu Filho, muito mais, sendo já reconciliados, seremos salvos por sua vida.
-#v 11 %v E não somente isto, mas também nos gloriamos em Deus por nosso Senhor Jesus Cristo; pelo qual agora alcançamos a reconciliação.
+#v 1 %v Já, pois, que somos justificados pela fé, {tr,rp:temos}{n4:tenhamos}{trnc: #fn _c N4: tenhamos %fn } paz com Deus por meio do nosso Senhor Jesus Cristo.
+#v 2 %v Por meio dele também temos acesso pela fé a esta graça, na qual estamos firmes, e jubilamos na esperança da glória de Deus.
+#v 3 %v E não somente #ad isso %ad , mas também jubilamos nas tribulações, sabendo que a tribulação produz paciência;
+#v 4 %v a paciência #ad produz %ad experiência, #fn _c Ou: caráter aprovado %fn e a experiência #ad produz %ad esperança.
+#v 5 %v E a esperança não frustra, porque o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.
+#v 6 %v Pois quando ainda éramos fracos, Cristo morreu a seu tempo pelos desobedientes.
+#v 7 %v Ora, dificilmente alguém morre por um justo, ainda que talvez alguém possa ousar morrer por uma boa pessoa.
+#v 8 %v Mas Deus prova o seu amor por nós ao Cristo haver morrido por nós, quando nós ainda éramos pecadores.
+#v 9 %v Por isso muito mais agora, que já somos justificados em seu sangue, seremos por ele salvos da ira.
+#v 10 %v Pois, se quando éramos inimigos, fomos reconciliados com Deus pela morte do seu Filho, muito mais, quando somos reconciliados, seremos salvos pela sua vida.
+#v 11 %v E não somente #ad isso %ad , mas também jubilamos em Deus por meio do nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.
 #v 12 %v Portanto, assim como por um homem o pecado entrou no mundo, e pelo pecado a morte, assim também a morte passou a todos os seres humanos, porque todos pecaram.
-#v 13 %v Porque até a Lei #ad ser instituída %ad o pecado #ad já %ad existia no mundo; porém o pecado não é considerado, quando não há Lei.
-#v 14 %v Mas a morte reinou desde Adão até Moisés, até sobre aqueles que não pecaram à semelhança da transgressão de Adão, o qual é figura daquele que estava para vir.
-#v 15 %v Mas o dom gratuito não é como a transgressão; porque, se pela transgressão de um muitos morreram, muito mais a graça de Deus, e o dom pela graça de um homem, Jesus Cristo, tem abundado sobre muitos.
-#v 16 %v E o dom não é como #ad a transgressão %ad daquele que pecou; porque o julgamento de uma só #ad transgressão %ad levou à condenação, mas o dom gratuito de muitas transgressões leva a justificação.
-#v 17 %v Porque, se pela transgressão de um, a morte reinou por causa daquele um, muito mais os que recebem a abundância da graça, e do dom da justiça, reinarão em vida por este um, Jesus Cristo.
-#v 18 %v Portanto, assim como uma transgressão #ad levou %ad todos os seres humanos à condenação, assim também um ato de justiça #ad leva %ad todos os seres humanos para a justificação da vida.
-#v 19 %v Porque, assim como pela desobediência daquele um homem, muitos foram feitos pecadores; assim também, pela obediência deste um, muitos serão feitos justos.
-#v 20 %v Porém a Lei entrou, para que a transgressão aumentasse; mas onde o pecado aumentou, a graça superabundou.
-#v 21 %v Para que, assim como o pecado reinou para a morte, assim também a graça reinasse pela justiça para a vida eterna, por meio de Jesus Cristo nosso Senhor.
+#v 13 %v Porque, antes da Lei, o pecado #ad já %ad existia no mundo; porém, quando não há Lei, o pecado não é considerado.
+#v 14 %v Mas a morte reinou desde Adão até Moisés, até sobre aqueles que não pecaram à semelhança da transgressão de Adão, o qual era uma figura daquele que estava para vir.
+#v 15 %v Mas o dom gratuito não é como a transgressão; porque, se pela transgressão de um muitos morreram, muito mais a graça de Deus, e o dom pela graça de um homem, Jesus Cristo, têm sido abundantes sobre muitos.
+#v 16 %v E o dom não é como #ad a transgressão %ad por um que pecou; porque o julgamento de uma só #ad transgressão %ad trouxe condenação, mas o dom gratuito de muitas transgressões trouxe justificação. #fn _c Ou: absolvição %fn
+#v 17 %v Pois, se pela transgressão de um, a morte reinou por causa daquele um, muito mais os que recebem a abundância da graça, e do dom da justiça reinarão em vida por este um, Jesus Cristo.
+#v 18 %v Portanto, assim como uma transgressão resultou em condenação sobre todos os seres humanos, assim também um ato de justiça resultou em justificação da vida sobre todos os seres humanos.
+#v 19 %v Pois, assim como pela desobediência daquele um homem muitos foram feitos pecadores, assim também, pela obediência deste um, muitos serão feitos justos.
+#v 20 %v A Lei veio para que a transgressão aumentasse; mas onde o pecado aumentou, a graça superabundou;
+#v 21 %v a fim de que, assim como o pecado reinou para a morte, assim também a graça reine pela justiça para a vida eterna, por meio de Jesus Cristo nosso Senhor.
 
 #c 6 %c
-#v 1 %v Então, o que diremos? Continuaremos no pecado, para que a graça aumente?
-#v 2 %v De maneira nenhuma. Nós, que morremos para o pecado, como ainda viveremos nele?
+#v 1 %v Que diremos, pois? Continuaremos no pecado, para que a graça aumente?
+#v 2 %v De maneira nenhuma! Nós, que morremos para o pecado, como ainda viveremos nele?
 #v 3 %v Ou não sabeis que todos os que somos batizados em Cristo Jesus, somos batizados em sua morte?
-#v 4 %v Portanto estamos sepultados com ele pelo batismo da morte; para que, assim como Cristo ressuscitou dos mortos para a glória do Pai, assim também andemos nós em novidade de vida.
-#v 5 %v Porque se fomos plantados juntos com #ad ele %ad na semelhança de sua morte, também o seremos #ad na semelhança %ad de #ad sua %ad ressurreição.
-#v 6 %v Sabendo disto: que nosso velho ser foi crucificado com #ad ele %ad , para que o corpo do pecado seja desfeito; para que não mais sirvamos ao pecado.
-#v 7 %v Porque o que está morto #ad já %ad está justificado do pecado.
-#v 8 %v Ora, se já morremos com Cristo, cremos que também viveremos com ele.
-#v 9 %v Sabendo que, tendo Cristo ressuscitado dos mortos, já não morre mais; a morte já não mais o domina.
-#v 10 %v Pois porque na sua morte morreu para o pecado, e porque na sua vida, vive para Deus.
-#v 11 %v Assim também vós, considerai que estais mortos para o pecado; mas vivendo para Deus em Cristo Jesus nosso Senhor.
-#v 12 %v Portanto não reine o pecado em vosso corpo mortal, para lhe obedecer em seus maus desejos.
-#v 13 %v Nem apresenteis vossos membros do corpo ao pecado como instrumentos de injustiça; mas apresentai-vos a Deus, como sendo vivos #ad saídos %ad dos mortos, e vossos membros como instrumento de justiça para Deus.
-#v 14 %v Porque o pecado não vos dominará; pois não estais debaixo da Lei, mas debaixo da graça.
-#v 15 %v Então o quê? Pecaremos, já que não estamos debaixo da Lei, mas debaixo da graça? De maneira nenhuma.
-#v 16 %v Não sabeis vós, que a quem vos apresentardes por servos para #ad lhe %ad obedecer, sois servos daquele a quem obedeceis? Ou do pecado para a morte, ou da obediência para a justiça.
-#v 17 %v Porém graças a Deus que vós éreis servos do pecado, mas de coração obedecestes à forma de doutrina a que vós estáveis entregues;
-#v 18 %v E sendo libertos do pecado, vos tornastes servos da justiça.
-#v 19 %v Eu falo na lógica humana pela fraqueza de vossa carne. Porque assim como apresentastes vossos membros do corpo como servos da impureza, e da maldade para a maldade; assim também apresentai agora vossos membros do corpo como servos da justiça para a santificação.
+#v 4 %v Por isso estamos sepultados com ele pelo batismo na morte; para que, assim como Cristo ressuscitou dos mortos para a glória do Pai, assim também nós andemos em novidade de vida.
+#v 5 %v Pois se fomos unidos #ad a ele %ad na semelhança de sua morte, também o seremos na da #ad sua %ad ressurreição.
+#v 6 %v E sabemos isto: que o nosso velho ser #fn _c Lit. “ser humano” ou “homem” %fn foi crucificado com #ad ele %ad , para que o corpo do pecado seja extinto, a fim de que não mais sirvamos ao pecado;
+#v 7 %v pois o que está morto já está absolvido #fn _c Ou: “livre” %fn do pecado.
+#v 8 %v Ora, se já morremos com Cristo, cremos que também com ele viveremos.
+#v 9 %v porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais o domina.
+#v 10 %v Pois, ao morrer, ele morreu para o pecado de uma vez por todas; mas, ao viver, vive para Deus.
+#v 11 %v Assim também vós, considerai que estais mortos para o pecado, mas vivendo para Deus em Cristo Jesus nosso Senhor.
+#v 12 %v Portanto, não reine o pecado em vosso corpo mortal, para lhe obedecer em seus maus desejos.
+#v 13 %v Nem apresenteis os membros do vosso corpo ao pecado como instrumentos de injustiça; em vez disso, apresentai-vos a Deus, como revividos dos mortos, e vossos membros como instrumentos de justiça para Deus.
+#v 14 %v Pois o pecado não vos dominará, porque não estais sob a Lei, mas sim, sob a graça.
+#v 15 %v Que, pois? Pecaremos, já que não estamos sob a Lei, mas sob a graça? De maneira nenhuma!
+#v 16 %v Não sabeis vós, que a quem vos apresentardes por servos para obedecer, sois servos daquele a quem obedeceis? Ou do pecado para a morte, ou da obediência para a justiça.
+#v 17 %v Porém graças a Deus que vós éreis servos do pecado, mas #ad agora %ad de coração obedeceis à forma de doutrina a que vós fostes entregues;
+#v 18 %v e, sendo libertos do pecado, vos tornastes servos da justiça.
+#v 19 %v Estou falando na lógica humana pela fraqueza de vossa carne. Pois, assim como apresentastes os membros do vosso corpo como servos da impureza e da maldade para a maldade, assim também apresentai agora os vossos membros como servos da justiça para a santificação.
 #v 20 %v Porque quando éreis servos do pecado, estáveis livres da justiça.
-#v 21 %v Pois que fruto tínheis então das coisas de que agora vos envergonhais? Porque o fim delas é a morte.
-#v 22 %v Mas agora, libertos do pecado, e feitos servos de Deus, tendes vosso fruto em santificação, e por fim a vida eterna.
-#v 23 %v Porque o pagamento do pecado é a morte; mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor.
+#v 21 %v Afinal, que fruto obtivestes das coisas de que agora vos envergonhais? Pois o fim delas é a morte.
+#v 22 %v Mas agora, libertos do pecado, e feitos servos de Deus, tendes o vosso fruto para a santificação, e por fim a vida eterna;
+#v 23 %v porque o pagamento do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor.
 
 #c 7 %c
-#v 1 %v Não sabeis vós, irmãos (porque falo com os que entendem a Lei), que a Lei domina o ser humano todo o tempo que vive?
-#v 2 %v Porque a mulher está pela Lei ligada ao marido enquanto o marido viver; porém estando morto o marido, ela está livre da Lei do marido.
-#v 3 %v Ou seja, enquanto o marido viver, ela será chamada de adúltera, se for de outro homem; mas morto o marido, ela está livre da Lei, de maneira que não será adúltera se for de outro homem.
-#v 4 %v Portanto, irmãos meus, também vós estais mortos para a Lei pelo corpo de Cristo, para que sejais de outro, daquele que foi ressuscitado dos mortos, para que frutifiquemos para Deus.
-#v 5 %v Porque quando estávamos na carne, os maus desejos dos pecados, que são pela Lei, operavam em nossos membros do corpo, para frutificarem para a morte.
-#v 6 %v Mas agora estamos livres da Lei, sendo mortos para aquilo, em que estávamos presos, para que sirvamos em novidade de espírito, e não #ad na %ad velhice da letra.
-#v 7 %v Então o que diremos? A Lei é pecado? De maneira nenhuma. Ao contrário, eu não teria conhecido o pecado, se não #ad fosse %ad pela Lei; porque eu não conheceria o mau desejo, se a Lei não dissesse:
- Não desejarás malignamente;
-#v 8 %v Mas o pecado, aproveitando-se do mandamento, operou em mim todo mau desejo. Porque sem a Lei o pecado #ad estaria %ad morto.
-#v 9 %v E sem a Lei, eu vivia algum tempo; mas vindo o mandamento, o pecado reviveu, mas eu morri.
-#v 10 %v E o mandamento que era para a vida, me foi achado para a morte.
-#v 11 %v Porque o pecado, aproveitando o mandamento, me enganou, e por ele #ad me %ad matou.
-#v 12 %v Portanto a Lei é santa, e o mandamento é santo, e justo, e bom.
-#v 13 %v Então o #ad que é %ad bom, para mim se tornou morte? De maneira nenhuma. Mas #ad foi %ad o pecado, para que se mostrasse #ad como %ad pecado, operando a morte em mim por meio do bem; a fim de que pelo mandamento, o pecado se fizesse excessivamente pecaminoso.
-#v 14 %v Porque sabemos que a Lei é espiritual; mas eu sou carnal, vendido ao controle do pecado. #fn _c vendido ao controle do pecado – lit. vendido sob o pecado %fn 
-#v 15 %v Porque eu não entendo o que faço. Pois o que quero, isso não faço; mas o que eu odeio, isso faço.
-#v 16 %v E se faço o que não quero, eu consinto com a Lei, que é boa.
+#v 1 %v Não sabeis vós, irmãos (pois estou falando com os que entendem a Lei), que a Lei domina o ser humano todo o tempo que vive?
+#v 2 %v Pois a mulher casada está pela Lei ligada ao marido enquanto o ele viver; porém, depois do marido morrer, ela está livre da Lei do marido.
+#v 3 %v Ou seja, enquanto o marido viver, ela será chamada de adúltera, se for de outro homem; mas depois de morto o marido, ela está livre da Lei, de maneira que não será adúltera se for de outro homem.
+#v 4 %v Assim, meus irmãos, também vós estais mortos para a Lei por meio do corpo de Cristo, para que sejais de outro, daquele que foi ressuscitado dos mortos, a fim de frutificarmos para Deus.
+#v 5 %v Pois, quando estávamos na carne, as paixões dos pecados, que eram pela Lei, operavam nos membros do nosso corpo, a fim de frutificarem para a morte.
+#v 6 %v Mas agora estamos livres da Lei, sendo mortos para aquilo em que estávamos presos, para que sirvamos em novidade de espírito, e não na  velhice da norma escrita. #fn _c Lit. letra %fn
+#v 7 %v Que, pois, diremos? É a Lei pecado? De maneira nenhuma! Todavia, eu não teria conhecido o pecado, se não fosse pela Lei; porque não conheceria a cobiça, #fn _c Isto é, desejo malicioso %fn se a Lei não dissesse:
+ Não cobiçarás. #fn _c Ref. Êxodo 20:17; Deuteronômio 5:21 %fn
+#v 8 %v Mas o pecado, aproveitando-se do mandamento, operou em mim toda variedade de cobiça. Pois sem a Lei o pecado #ad estaria %ad morto.
+#v 9 %v Nalgum tempo, eu vivia sem a Lei; mas quando veio o mandamento, o pecado reviveu, e eu morri;
+#v 10 %v e descobri que o mandamento, que era para a vida, resultou-me para a morte.
+#v 11 %v Pois o pecado, aproveitando o mandamento, me enganou, e por ele me matou.
+#v 12 %v Portanto a Lei é santa, e o mandamento é santo, justo, e bom.
+#v 13 %v Então o que é bom se tornou para mim morte? De maneira nenhuma! Mas foi o pecado, para que se mostrasse como pecado, que operou a morte em mim por meio do bem, a fim de que, por meio do mandamento, o pecado se tornasse excessivamente pecaminoso.
+#v 14 %v Pois sabemos que a Lei é espiritual; mas eu sou carnal, vendido como servo do pecado. #fn _c vendido como servo do pecado – lit. vendido sob o pecado %fn 
+#v 15 %v Porque não entendo o que faço, pois o que quero, isso não faço; mas o que eu odeio, isso faço.
+#v 16 %v E se faço o que não quero, consinto que a Lei é boa;
 #v 17 %v De maneira que agora não sou mais eu que faço aquilo, mas sim o pecado que habita em mim.
-#v 18 %v Porque eu sei que em mim, isto é, em minha carne, não habita bem algum; porque o querer está em mim; porém fazer o bem eu não consigo.
-#v 19 %v Porque o bem que quero, não faço; mas o mal que não quero, isso faço.
-#v 20 %v Ora, seu eu faço o que não quero, não #ad sou %ad eu que faço, mas sim o pecado que habita em mim.
-#v 21 %v Então eu acho esta Lei #ad em mim %ad , #ad ainda %ad que quando quero fazer o bem, o mal está comigo.
-#v 22 %v Porque tenho prazer na Lei de Deus, segundo o homem interior.
-#v 23 %v Mas vejo outra Lei em meus membros do corpo, que batalha contra a Lei do meu entendimento, e me prende debaixo da Lei do pecado, que está em meus membros do corpo.
-#v 24 %v Que miserável homem #ad que sou %ad ! Quem me livrará do corpo desta morte?
-#v 25 %v Dou graças a Deus por Jesus Cristo, nosso Senhor. Assim, pois, eu mesmo com o entendimento sirvo à Lei de Deus, mas com a carne #ad sirvo %ad à Lei do pecado.
+#v 18 %v Porque sei que em mim, isto é, em minha carne, não habita bem algum; porque o querer está em mim; porém o fazer o bem{tr,rp: eu não consigo}{n4:, não}.{trnc: #fn _c TR, RP: eu não consigo - N4: não %fn}
+#v 19 %v Pois o bem que quero, não faço; mas o mal que não quero, isso faço.
+#v 20 %v Ora, se faço o que não quero, não sou eu que faço, mas sim o pecado que habita em mim.
+#v 21 %v Acho, então, esta Lei: que quando quero fazer o bem, o mal está comigo.
+#v 22 %v Pois, quanto ao ser interior, tenho prazer na Lei de Deus;
+#v 23 %v mas em meus membros vejo outra lei, que batalha contra a lei do meu entendimento, e me prende sob a lei do pecado, que está nos meus membros.
+#v 24 %v Miserável homem #ad sou %ad ! Quem me livrará deste corpo de morte? #fn _c Lit. do corpo desta morte %fn
+#v 25 %v {tr,rp:Agradeço}{n4:Graças} a Deus por Jesus Cristo nosso Senhor. Assim, pois, eu mesmo com o entendimento sirvo à Lei de Deus, mas com a carne à Lei do pecado.
 
 #c 8 %c
-#v 1 %v Portanto agora nenhuma condenação há para os que estão com Cristo Jesus{tr,rp:, que não andam segundo a carne, mas sim segundo o Espírito}.{trnc: #fn _c N4 omite “que não andam segundo a carne, mas sim segundo o Espírito” %fn }{n4: #fn _c TR, RP acrescentam: “que não andam segundo a carne, mas sim segundo o Espírito” ao final do versículo. %fn }
-#v 2 %v Porque a Lei do Espírito de vida, em Cristo Jesus, me livrou da Lei do pecado e da morte.
-#v 3 %v Pois o que era impossível para a Lei, por estar enferma pela carne, Deus, enviando seu Filho em semelhança da carne pecadora, e por causa do pecado, condenou ao pecado na carne;
-#v 4 %v Para que a justa obrigação da Lei se cumprisse em nós, que não andamos segundo a carne, mas sim segundo o Espírito.
-#v 5 %v Porque os que são segundo a carne têm seus pensamentos nas coisas da carne; mas os que são segundo o Espírito #ad têm seus pensamentos %ad nas coisas do Espírito.
-#v 6 %v Pois os pensamentos da carne são morte; mas os pensamentos do Espírito são vida e paz.
-#v 7 %v Pois os pensamentos da carne são inimizade contra Deus, pois não se sujeitam à Lei de Deus, porque também não podem.
+#v 1 %v Portanto agora nenhuma condenação há para os que estão em Cristo Jesus{tr,rp:, que não andam segundo a carne, mas sim segundo o Espírito}.{trnc: #fn _c N4 omite “que não andam segundo a carne, mas sim segundo o Espírito” %fn }{n4: #fn _c TR, RP acrescentam: “que não andam segundo a carne, mas sim segundo o Espírito” ao final do versículo. %fn }
+#v 2 %v Porque a Lei do Espírito de vida, em Cristo Jesus, {tr,rp:me}{n4:te}{trnc: #fn _c N4: te %fn } livrou da Lei do pecado e da morte.
+#v 3 %v Pois o que era impossível para a Lei, por estar enferma pela carne, Deus #ad fez %ad : enviando o seu próprio Filho em semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne;
+#v 4 %v para que a exigência da Lei se cumprisse em nós, que andamos, não segundo a carne, mas sim segundo o Espírito.
+#v 5 %v Pois os que são segundo a carne fixam os pensamentos nas coisas da carne; mas os que são segundo o Espírito, nas coisas do Espírito.
+#v 6 %v Pois a maneira de pensar da carne é morte, mas os maneira de pensar do Espírito é vida e paz.
+#v 7 %v Pois a maneira de pensar da carne é inimizade contra Deus, pois não se sujeita à Lei de Deus, porque nem sequer pode.
 #v 8 %v Portanto, os que estão na carne não podem agradar a Deus.
-#v 9 %v Porém vós não estais na carne, mas sim no Espírito, se é que o Espírito de Deus habita em vós. Mas se alguém não tem o Espírito de Cristo, este tal não é dele.
-#v 10 %v E se Cristo está em vós, o corpo está realmente morto por causa do pecado; mas o Espírito é vida por causa da justiça.
-#v 11 %v E se o Espírito daquele que ressuscitou a Jesus dos mortos habita em vós, aquele que ressuscitou a Cristo dos mortos também ressuscitará a vossos corpos mortais por seu Espírito, que habita em vós.
-#v 12 %v Portanto, irmãos, somos devedores, não da carne, para viver segundo a carne;
-#v 13 %v Porque se viverdes segundo a carne, morrereis; mas se pelo Espírito mortificardes as obras do corpo, vivereis.
-#v 14 %v Porque todos quantos são guiados pelo Espírito de Deus são filhos de Deus.
-#v 15 %v Porque não recebestes o espírito de servidão, para voltar ao medo; mas sim recebestes o Espírito de adoção como filhos, pelo qual chamamos: Aba, Pai.
-#v 16 %v O mesmo Espírito dá testemunho com nosso espírito, de que somos filhos de Deus.
-#v 17 %v E se somos filhos, então somos também herdeiros; herdeiros de Deus, e coerdeiros de Cristo; se sofremos com ele, #ad é %ad para que também com ele sejamos glorificados.
-#v 18 %v Porque para mim tenho certeza que as aflições deste tempo presente não são sequer comparáveis com a glória que nos será revelada.
-#v 19 %v Porque a ansiedade da criatura espera a revelação dos filhos de Deus.
-#v 20 %v Porque a criatura está sujeita à vaidade, não por sua vontade, mas por causa do que a sujeitou,
-#v 21 %v Na esperança de que também a mesma criatura será liberta da servidão da corrupção, para a liberdade da glória dos filhos de Deus.
-#v 22 %v Porque sabemos que todas as criaturas gemem e sofrem grandes dores juntas até agora.
-#v 23 %v E não somente #ad elas %ad , mas também nós mesmos, que temos as primícias do Espírito, nós suspiramos em nós mesmos, esperando a adoção como filhos, #ad ou seja %ad , a redenção de nosso corpo.
-#v 24 %v Porque somos salvos na esperança. Ora, a esperança que se vê não é esperança; pois por que alguém ainda espera aquilo que #ad já %ad vê?
-#v 25 %v Mas se esperamos o que não vemos, com paciência o esperamos.
-#v 26 %v E da mesma maneira também o Espírito ajuda em nossas fraquezas. Porque não sabemos orar como se deve, mas o mesmo Espírito intercede {n4: #ad }por nós{n4: %ad }{trnc: #fn _c N4 omite “por nós” %fn } com gemidos inexprimíveis.
-#v 27 %v E o que conhece profundamente os corações sabe qual é a intenção do Espírito; pois ele intercede pelos santos segundo #ad a vontade %ad de Deus.
-#v 28 %v E sabemos que todas as coisas trabalham juntamente para o bem daqueles que amam a Deus, aos que são chamados segundo seu propósito.
-#v 29 %v Porque aos que desde antes conheceu, também os predestinou, para serem conformes à imagem do Filho, para que ele seja o primogênito entre muitos irmãos.
-#v 30 %v E aos que predestinou, a esses também chamou; e aos que ele chamou, a esses também justificou; e aos que justificou, a esses também glorificou.
-#v 31 %v Então o que diremos destas coisas? Se Deus é por nós, quem será contra nós?
-#v 32 %v Aquele que poupou nem mesmo a seu próprio Filho, como ele não nos dará também com ele todas as coisas?
-#v 33 %v Quem acusará contra os escolhidos de Deus? Deus é o que #ad os %ad justifica.
-#v 34 %v Quem é o que condenará? Cristo é o que morreu, e (além disto é o que também ressuscitou); o que também #ad está %ad à direita de Deus, #ad é %ad o que também intercede por nós.
-#v 35 %v Quem nos separará do amor de Cristo? Tribulação, ou angústia, ou perseguição, ou fome, ou nudez, ou perigo, ou espada?
-#v 36 %v Como está escrito:
- Porque por causa de ti somos mortos o dia todo, somos contados como ovelhas para o matadouro.
+#v 9 %v Porém vós não estais na carne, mas sim no Espírito, se é que o Espírito de Deus habita em vós. Porém, se alguém não tem o Espírito de Cristo, este tal não lhe pertence.
+#v 10 %v E se Cristo está em vós, apesar do corpo estar morto por causa do pecado, o Espírito é vida #fn _c Ou: o #ad vosso %ad espírito está vivo %fn por causa da justiça.
+#v 11 %v E se o Espírito daquele que dos mortos ressuscitou Jesus habita em vós, aquele que dos mortos ressuscitou Cristo {n4:Jesus}{trnc: #fn _c N4 adiciona Jesus %fn } também dará vida aos vossos corpos mortais por meio do seu Espírito, que habita em vós.
+#v 12 %v Por isso, irmãos, somos devedores, não à carne, para vivermos segundo a carne;
+#v 13 %v porque, se viverdes segundo a carne, morrereis; mas se pelo Espírito mortificardes as obras do corpo, vivereis.
+#v 14 %v Pois todos quantos são guiados pelo Espírito de Deus são filhos de Deus.
+#v 15 %v Pois não recebestes o espírito de escravidão, para voltardes ao medo; mas recebestes o Espírito de adoção como filhos, pelo qual clamamos: Aba, Pai!
+#v 16 %v O próprio Espírito dá testemunho com #fn _c Ou: ao %fn o nosso espírito de que somos filhos de Deus.
+#v 17 %v E, se somos filhos, logo somos também herdeiros; herdeiros de Deus, e coerdeiros de Cristo; se sofremos com ele, é para que também com ele sejamos glorificados.
+#v 18 %v Pois considero que as aflições deste tempo presente nem se comparam com a glória que nos será revelada.
+#v 19 %v Pois a criação espera ansiosamente #fn _c Lit. a ansiedade da criação espera %fn a revelação dos filhos de Deus;
+#v 20 %v porque a criação ficou sujeita à futilidade (não por vontade própria, mas sim por causa daquele que a sujeitou),
+#v 21 %v na esperança de que também a mesma criação será liberta da escravidão da degradação #fn _c Ou: morte %fn para a liberdade da glória dos filhos de Deus.
+#v 22 %v Pois sabemos que toda a criação geme e sofre dores como as de parto até agora.
+#v 23 %v E não somente #ad isso %ad , mas também nós, que temos os primeiros frutos do Espírito, gememos em nós mesmos, esperando a #ad adoção %ad , #ad isto é %ad , a redenção do nosso corpo.
+#v 24 %v Pois fomos salvos na esperança. Ora, a esperança que se vê não é esperança; afinal, por que alguém ainda espera o que já vê?
+#v 25 %v Mas, se esperamos o que não vemos, com paciência esperamos.
+#v 26 %v E da mesma maneira também o Espírito ajuda em nossas fraquezas. Pois não sabemos orar como se deve, mas o próprio Espírito intercede {n4: #ad }por nós{n4: %ad }{trnc: #fn _c N4 omite “por nós” %fn } com gemidos inexprimíveis.
+#v 27 %v E aquele que examina os corações sabe qual é a intenção do Espírito, pois ele intercede pelos santos segundo #ad a vontade %ad de Deus.
+#v 28 %v E sabemos que todas as coisas juntamente contribuem para o bem daqueles que amam Deus, dos que são chamados segundo o seu propósito.
+#v 29 %v Pois aos que desde antes conheceu, também os predestinou para serem conformes à imagem do seu Filho, para que ele seja o primogênito entre muitos irmãos.
+#v 30 %v E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou.
+#v 31 %v Que, pois, diremos em face destas coisas? Se Deus é por nós, quem será contra nós?
+#v 32 %v Aquele que nem mesmo ao seu próprio Filho poupou, como não nos dará também com ele todas as coisas?
+#v 33 %v Quem fará acusação contra os escolhidos de Deus? Deus é o que justifica.
+#v 34 %v Quem condenará? Cristo {n4:Jesus}{trnc: #fn _c N4: Cristo Jesus %fn } é o que morreu; além disto é o que também ressuscitou; o que também está à direita de Deus, e que intercede por nós.
+#v 35 %v Quem nos separará do amor de Cristo? A aflição, a angústia, a perseguição, a fome, a nudez, o perigo, ou a espada?
+#v 36 %v (Como está escrito:
+ Pois por causa de ti somos entreges à morte o dia todo; somos contados como ovelhas para o matadouro.) #fn _c Ref. Salmos 44:22 %fn
 #v 37 %v Mas em todas estas coisas somos mais que vencedores, por meio daquele que nos amou.
-#v 38 %v Porque eu tenho certeza que nem a morte, nem a vida, nem anjos, nem principados, nem potestades, nem o presente, nem o porvir.
-#v 39 %v Nem altura, nem profundeza, nem alguma outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus nosso Senhor.
+#v 38 %v Pois tenho certeza que nem a morte, nem a vida, nem anjos, nem principados, {tr,rp:nem poderes,}{trnc: #fn _c N4 move “nem poderes” para depois de “futuro” %fn } nem o presente, nem o futuro, {n4: nem poderes,}
+#v 39 %v nem altura, nem profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus nosso Senhor.
 
 #c 9 %c
-#v 1 %v Eu digo a verdade em Cristo, não minto, dando minha consciência testemunho comigo pelo Espírito Santo,
-#v 2 %v Que tenho grande tristeza, e contínuo tormento em meu coração.
-#v 3 %v Porque desejaria eu mesmo ser separado de Cristo por meus irmãos, que são parentes segundo a carne;
-#v 4 %v Que são israelitas, dos quais é a adoção como filhos, e a glória, e os pactos, e a Lei, e o culto, e as promessas;
-#v 5 %v Dos quais são os patriarcas, e dos quais é Cristo quanto à carne, o qual é Deus sobre todos bendito eternamente, Amém!
+#v 1 %v Digo a verdade em Cristo, não minto, e minha consciência dá testemunho comigo pelo Espírito Santo,
+#v 2 %v que tenho grande tristeza, e contínuo tormento em meu coração.
+#v 3 %v Porque desejaria eu mesmo ser separado de Cristo em proveito dos meus irmãos, que são meus parentes segundo a carne;
+#v 4 %v que são israelitas, e deles é a adoção como filhos, a glória, os pactos, a Lei, o culto, e as promessas;
+#v 5 %v deles são os patriarcas, e deles, quanto à carne, é Cristo, que é sobre todos, Deus bendito eternamente, Amém!
 #v 6 %v Não que a palavra de Deus tenha falhado; porque nem todos os que são de Israel são #ad verdadeiros %ad israelitas.
-#v 7 %v Nem por serem descendentes de Abraão quer dizer que todos são filhos; mas
- Em Isaque será chamada tua descendência.
-#v 8 %v Isto é, não #ad são %ad os filhos da carne #ad que %ad são os filhos de Deus; mas #ad são %ad os filhos da promessa #ad que %ad são contados como descendência.
-#v 9 %v Porque esta é a palavra da promessa:
- Perto deste tempo virei, e Sara terá um filho.
-#v 10 %v E não somente esta, mas também Rebeca, quando ficou grávida de um, o nosso pai Isaque.
-#v 11 %v Porque não sendo ainda #ad eles %ad nascidos, tendo feito nem bem nem mal, para que o propósito de Deus, segundo a eleição, continuasse; não pelas obras, mas por causa daquele que chama.
-#v 12 %v Foi dito a ela, #ad Rebeca %ad :
- O maior servirá ao menor.
-#v 13 %v Assim como está escrito:
- Eu amei a Jacó, e odiei a Esaú.
-#v 14 %v Então o que diremos? Que há injustiça em Deus? De maneira nenhuma.
+#v 7 %v Nem por serem descendentes de Abraão são todos filhos, mas:
+ Em Isaque será chamada tua descendência. #fn _c Ref. Gênesis 21:12 %fn
+#v 8 %v Isto é, não são os filhos da carne que são os filhos de Deus; mas sim os filhos da promessa que são contados como descendência.
+#v 9 %v Pois esta é a palavra da promessa:
+ Aproximadamente a este tempo #fn _c Isto é, no ano seguinte, aproximadamente na mesma data %fn virei, e Sara terá um filho. #fn _c Ref. Gênesis 18:10,14 %fn
+#v 10 %v E não somente isso, mas também Rebeca, quando esteve grávida por um, o nosso pai Isaque,
+#v 11 %v (pois, como não eram ainda nascidos, não haviam feito bem ou mal, para que o propósito de Deus, segundo a escolha, continuasse; não pelas obras, mas por causa daquele que chama)
+#v 12 %v foi dito a ela:
+ O mais velho servirá o mais jovem; #fn _c Lit. “o maior servirá o menor” %fn #fn _c Ref. Gênesis 25:23 %fn
+#v 13 %v como está escrito:
+ Amei Jacó, mas odiei Esaú. #fn _c Ref. Malaquias 1:2-3 %fn
+#v 14 %v Que, pois, diremos? Que há injustiça da parte de Deus? De maneira nenhuma!
 #v 15 %v Pois ele diz a Moisés:
- Eu terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem eu me compadecer.
-#v 16 %v Portanto #ad a misericórdia de Deus %ad não #ad depende %ad daquele que quer, nem daquele que corre, mas sim de Deus que se compadece.
-#v 17 %v Porque a Escritura diz a Faraó:
- Para isto mesmo te levantei, para mostrar em ti meu poder, e para que meu nome seja anunciado em toda a terra.
-#v 18 %v Portanto ele se compadece de quem quer, e endurece a quem ele quer.
-#v 19 %v Então tu me dirás:
- Porque ele ainda se queixa? Pois quem resiste à sua vontade?
-#v 20 %v Ó, ser humano, quem és tu, que questionas a Deus? Por acaso a coisa formada dirá ao que a formou:
- Por que me fizeste assim?
-#v 21 %v Ou não tem o oleiro poder sobre o barro, para de uma mesma massa fazer um vaso para honra, e outro para desonra?
-#v 22 %v E se Deus, querendo mostrar #ad sua %ad ira, e dar a conhecer seu poder, suportou com muita paciência os vasos de ira, preparados para a perdição,
-#v 23 %v E para fazer conhecidas as riquezas de sua glória nos vasos de misericórdia, que preparou para a glória desde antes,
-#v 24 %v  #ad que somos %ad nós, aos quais ele chamou, não somente dentre os judeus, mas também dentre os gentios?
-#v 25 %v Assim como também diz em Oseias:
- Ao que era Não-Meu-Povo, chamarei de Meu-Povo; e a que era Não-Amada, #ad chamarei %ad de Amada.
+ Terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem eu me compadecer. #fn _c Ref. Êxodo 33:19 %fn
+#v 16 %v Portanto, não #ad depende %ad daquele que quer, nem daquele que se esforça, #fn _c Lit. “que corre” %fn mas sim de Deus que se compadece.
+#v 17 %v Pois a Escritura diz a Faraó:
+ Para isto mesmo te levantei: para mostrar em ti o meu poder, e para que o meu nome seja anunciado em toda a terra. #fn _c Ref. Êxodo 9:16 %fn
+#v 18 %v Portanto, ele tem misericórdia de quem quer, e endurece a quem quer.
+#v 19 %v Tu, então, me dirás:
+ Por que ele ainda se queixa? Pois quem resiste à sua vontade?
+#v 20 %v Mas antes, quem és tu, ó, humano, para questionares a Deus? Por acaso a coisa formada dirá ao que a formou: Por que me fizeste assim? #fn _c Ref. Isaías 29:16; 45-9 %fn
+#v 21 %v Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para honra, e outro para desonra?
+#v 22 %v E se Deus, querendo mostrar a #ad sua %ad ira, e dar a conhecer o seu poder, suportou com muita paciência os vasos da ira, preparados para a perdição,
+#v 23 %v a fim de fazer conhecidas as riquezas da sua glória nos vasos da misericórdia, que preparou com antecedência para a glória,
+#v 24 %v  que somos nós, aos quais ele chamou, não somente dentre os judeus, mas também dentre os gentios?
+#v 25 %v Como também diz em Oseias:
+ Ao que era Não-Meu-Povo, chamarei de Meu-Povo; e a que não era Não-Amada, #ad chamarei %ad de Amada. #fn _c Ref. Oseias 2:23 %fn
 #v 26 %v E será que, no lugar onde lhes foi dito:
  Vós não sois meu povo,
- Aí serão chamados filhos do Deus vivo.
-#v 27 %v E também Isaías clama sobre Israel:
- Ainda que o número dos filhos de Israel seja como a areia do mar, #ad apenas %ad o restante será salvo;
-#v 28 %v Porque o Senhor terminará e executará brevemente #ad sua %ad obra{n4: #fn _c TR, RP acrescentam: “em justiça; pois ele fará uma obra breve” %fn }{tr,rp: em justiça; pois ele fará uma obra breve}{trnc: #fn _c N4 omite “em justiça; pois ele fará uma obra breve” %fn } sobre a terra.
-#v 29 %v E como Isaías disse antes:
- Se o Senhor dos Exércitos não nos deixasse descendentes, seríamos feitos como Sodoma, e como Gomorra seríamos semelhantes.
-#v 30 %v Então o que diremos? Que os gentios, que não buscavam a justiça, alcançaram a justiça (isto é, a justiça pela fé)?
-#v 31 %v Mas Israel, que buscava a Lei da justiça, não chegou à Lei da justiça?
-#v 32 %v Por quê? Porque #ad a buscavam %ad não pela fé, mas como que pelas obras da Lei; porque tropeçaram na pedra de tropeço.
-#v 33 %v Como está escrito:
- Eis que em Sião ponho uma pedra de tropeço, e a rocha de escândalo; e todo aquele que crer nela, não será envergonhado.
+ Aí serão chamados filhos do Deus vivo. #fn _c Ref. Oseias 1:10 %fn
+#v 27 %v Também Isaías clama acerca de Israel:
+ Ainda que o número dos filhos de Israel seja como a areia do mar, #ad apenas %ad o remanescente será salvo;
+#v 28 %v porque o Senhor concluirá e executará brevemente a sentença {n4: #fn _c TR, RP acrescentam: “em justiça; pois ele fará uma breve sentença” %fn }{tr,rp: em justiça; pois ele fará uma breve sentença}{trnc: #fn _c N4 omite “em justiça; pois ele fará uma breve sentença” %fn } sobre a terra.
+#v 29 %v E como Isaías predisse:
+ Se o Senhor dos Exércitos não houvesse nos deixado descendência, #fn _c Lit. semente %fn nós nos teríamos tornado como Sodoma, e como Gomorra teríamos sido semelhantes. #fn _c Ref. Isaías 1:9 %fn
+#v 30 %v Que, pois, diremos? Que os gentios, que não buscavam a justiça, obtiveram a justiça, a justiça que épela fé,
+#v 31 %v porém Israel, que buscava a Lei da justiça, não alcançou a Lei{tr,rp: da justiça}? {trnc: #fn _c N4 omite “da justiça” %fn }
+#v 32 %v Por quê? Porque não #ad a buscavam %ad pela fé, mas sim como que pelas obras{tr,rp: da Lei;}{trnc: #fn _c N4 omite “da Lei” %fn } {tr,rp:pois{trnc: #fn _c N4 omite “pois” %fn } tropeçaram}{n4:. Tropeçaram} na pedra de tropeço,
+#v 33 %v como está escrito:
+ Eis que ponho em Sião uma pedra de tropeço, e uma rocha de escândalo; e {tr,rp:todo}{trnc: #fn _c N4 omite “todo” %fn} aquele que nela crer não será envergonhado.
 
 #c 10 %c
-#v 1 %v Irmãos, o desejo do meu coração, e a oração que #ad faço %ad a Deus por Israel, é para que eles sejam salvos.
-#v 2 %v Porque eu lhes dou testemunho de que eles têm zelo por Deus, mas não segundo o entendimento.
-#v 3 %v Porque não conhecendo a justiça de Deus, e procurando estabelecer sua própria justiça, não se sujeitam à justiça de deus.
-#v 4 %v Porque o fim da Lei é Cristo, para justiça de todo aquele que crê.
-#v 5 %v Porque Moisés descreve a justiça que é pela Lei, #ad dizendo %ad :
- A pessoa que as praticar, por elas viverá.
-#v 6 %v Mas a justiça que é pela fé diz assim:
+#v 1 %v Irmãos, o bom desejo do meu coração, e a oração que #ad faço %ad a Deus por {tr,rp:Israel}{n4:eles},{trnc: #fn _c N4 omite “Israel”, exibindo “por eles” %fn }{n4: #fn _c TR, RP: “por Israel” %fn } é que sejam salvos. #fn _c Lit. “é para a salvação” %fn
+#v 2 %v Pois lhes dou testemunho de que eles têm zelo por Deus, mas não com entendimento.
+#v 3 %v Pois, como ignoraram a justiça de Deus, e procuraram estabelecer a sua própria justiça, eles não se sujeitaram à justiça de Deus.
+#v 4 %v Pois o fim da Lei é Cristo, para justiça a todo aquele que crê. #fn _c Ou: “justificação a todo aquele que crê” %fn
+#v 5 %v Pois Moisés descreve a justiça que é pela Lei:
+ A pessoa que praticar estas coisas viverá por elas. #fn _c Ref. Levítico 18:5 %fn
+#v 6 %v Mas a justiça que é pela fé assim diz:
  Não digas em teu coração:
- Quem subirá ao céu? (Isto é, trazer Cristo para baixo),
-#v 7 %v Ou:
- Quem descerá ao abismo? (Isto é, trazer a Cristo dos mortos).
-#v 8 %v Mas o que ela diz:
- Perto de ti está a palavra em tua boca, e em teu coração.
-Esta é a palavra da fé que pregamos.
-#v 9 %v Porque, se com a tua boca confessares ao Senhor Jesus, e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo.
-#v 10 %v Porque com o coração se crê para a justiça, e com a boca se confessa para a salvação.
+ Quem subirá ao céu? #fn _c Ref. Deuteronômio 30:12 %fn (Isto é, trazer Cristo abaixo),
+#v 7 %v ou:
+ Quem descerá ao abismo? #fn _c Ref. Deuteronômio 30:13 %fn (Isto é, trazer Cristo dentre os mortos).
+#v 8 %v Porém o que diz?
+ A palavra está perto de ti, na tua boca, e no teu coração. #fn _c Ref. Deuteronômio 30:14 %fn
+Esta é a palavra da fé, que pregamos.
+#v 9 %v Pois, se com a tua boca declarares que Jesus é Senhor, e em teu coração creres que Deus o ressuscitou dos mortos, serás salvo.
+#v 10 %v Pois com o coração se crê para a justiça, #fn _c Ou: justificação %fn e com a boca se confessa para a salvação.
 #v 11 %v Porque a Escritura diz:
- Todo aquele que nele crê, não será envergonhado.
-#v 12 %v Porque não há diferença, nem do judeu, nem do grego; porque um mesmo é o Senhor de todos, rico para todos os que o invocam.
-#v 13 %v Porque todo aquele que invocar o nome do Senhor será salvo.
-#v 14 %v Mas como invocarão em quem não creram? E como crerão em quem não ouviram? E como ouvirão sem #ad ter %ad quem #ad lhes %ad pregue?
+ Todo aquele que nele crê não será envergonhado. #fn _c Ref. Isaías 28:16 %fn
+#v 12 %v Pois não há diferença entre o judeu e grego, porque um mesmo é o Senhor de todos, rico para todos os que o invocam.
+#v 13 %v Pois:
+  Todo aquele que invocar o nome do Senhor será salvo. #fn _c Ref. Joel 2:32 %fn
+#v 14 %v Mas como invocarão em quem não creram? E como crerão em quem não ouviram? E como ouvirão sem haver quem pregue?
 #v 15 %v E como pregarão se não forem enviados? Como está escrito:
- Como são agradáveis #fn _c agradáveis – trad. alt. oportunos, bem-vindos – tradicionalmente formosos %fn os pés dos que{tr,rp: anunciam o evangelho da paz, dos que}{trnc: #fn _c N4 omite: “anunciam o evangelho da paz, dos que” %fn }{n4: #fn _c TR, RP acrescentam: “anunciam o evangelho da paz, dos que” %fn } anunciam as boas novas!
-#v 16 %v Mas nem todos têm obedecido ao Evangelho, porque Isaías diz:
- Senhor, quem creu na nossa pregação?
+ Como são agradáveis #fn _c tradicionalmente: belos %fn os pés dos que{tr,rp: anunciam o evangelho da paz, dos que}{trnc: #fn _c N4 omite: “anunciam o evangelho da paz, dos que” %fn }{n4: #fn _c TR, RP acrescentam: “anunciam o evangelho da paz, dos que” %fn } anunciam as boas novas! #fn _c Ref. Isaías 52:7 %fn
+#v 16 %v Mas nem todos obedeceram ao Evangelho, pois Isaías diz:
+ Senhor, quem creu na nossa pregação? #fn _c Ref. Isaías 53:1 %fn
 #v 17 %v Portanto a fé #ad vem %ad pelo ouvir, e o ouvir pela palavra de {tr,rp:Deus}{n4:Cristo}.{trnc: #fn _c N4: Cristo %fn }{n4: #fn _c TR, RP: Deus %fn }
-#v 18 %v Mas digo: Por acaso não o ouviram? Sim, certamente. #ad Pois %ad seu som saiu por toda a terra, e suas palavras até os confins do mundo.
-#v 19 %v Mas digo: Por acaso Israel não o conheceu? Primeiramente Moisés diz:
- Eu vos provocarei com ciúmes #ad aqueles %ad que não #ad são %ad o povo; com uma ignorante eu vos provocarei à ira.
+#v 18 %v Mas pergunto: Por acaso não ouviram? Sim, certamente. #ad Pois: %ad 
+  Seu som saiu por toda a terra, e suas palavras até os confins do mundo. #fn _c Ref. Salmos 19:4 %fn
+#v 19 %v Mas pergunto: Por acaso Israel não entendeu? Primeiramente Moisés disse:
+ Eu vos provocarei ciúmes com os que não são do povo; com uma nação insensata vos provocarei à ira. #fn _c Ref. Deuteronômio 32:31 %fn
 #v 20 %v E Isaías ousou dizer:
- Eu fui achado por aqueles que não me buscavam; eu fui manifesto aos que não perguntavam por mim.
-#v 21 %v Mas contra Israel diz:
- Durante o dia todo eu estendi minhas mãos para um povo rebelde e teimoso.
+ Fui achado pelos que não me buscavam; fui revelado aos que por mim não perguntavam. #fn _c Ref. Isaías 65:1 %fn
+#v 21 %v Mas sobre Israel diz:
+ Todo o dia estendi as minhas mãos a um povo rebelde e hostil. #fn _c Ref. Isaías 65:2 %fn
 
 #c 11 %c
-#v 1 %v Então eu digo: Por acaso Deus rejeitou a seu povo? De maneira nenhuma; porque eu também sou israelita, da descendência de Abraão, da tribo de Benjamim.
-#v 2 %v Deus não rejeitou a seu povo, ao qual desde antes conheceu. Ou não sabeis o que a Escritura diz de Elias? Como ele fala a Deus, contra Israel, dizendo:
-#v 3 %v Senhor, mataram a teus profetas, e derrubaram a teus altares; e só eu fiquei, e buscam minha vida.
-#v 4 %v Mas o que lhe diz a divina resposta?
- #ad Ainda %ad sete mil homens eu me reservei, que não dobraram os joelhos diante de Baal.
-#v 5 %v Assim que também agora neste tempo ficou um remanescente, segundo a eleição da graça.
-#v 6 %v E se é por graça, já não é pelas obras; de outra maneira a graça já não é graça.{tr,rp: E se é pelas obras, já não é #ad pela %ad graça; de outra maneira a obra já não é obra}.{trnc: #fn _c N4 omite “E se é pelas obras, já não é #ad pela %ad graça; de outra maneira a obra já não é obra” %fn }
-#v 7 %v Então o quê? O que Israel busca, não o alcançou; mas os escolhidos o alcançaram, e os outros foram endurecidos.
-#v 8 %v Como está escrito:
- Deus lhes deu espírito de sono profundo; olhos para não verem, e ouvidos para não ouvirem; 
-até o dia de hoje.
+#v 1 %v Então pergunto: Por acaso Deus rejeitou seu povo? De maneira nenhuma! Pois também eu sou israelita, da descendência #fn _c Lit. semente %fn de Abraão, da tribo de Benjamim.
+#v 2 %v Deus não rejeitou seu povo, o qual desde antes conheceu. Ou não sabeis o que a Escritura diz de Elias? Como ele fala a Deus, contra Israel{tr,rp:, dizendo}:{trnc: #fn _c N4 omite “dizendo” %fn }
+#v 3 %v Senhor, mataram os teus profetas, e derrubaram os teus altares; só eu fiquei, e buscam tirar-me a vida. #fn _c Lit. “buscam a minha vida” (ou alma) %fn #fn _c Ref. 1 Reis 19:10,14 %fn
+#v 4 %v Mas o que lhe disse a divina resposta?
+ Reservei para mim sete mil homens que não dobraram os joelhos a Baal. #fn _c Ref. 1 Reis 19:18 %fn
+#v 5 %v Assim, portanto, também agora no presente tempo ficou um remanescente, escolhido pela graça. #fn _c Lit. “conforme a escolha pela graça” %fn
+#v 6 %v E, se é pela graça, logo não é pelas obras; de outra maneira, a graça já não é graça.{tr,rp: E se é pelas obras, logo não é #ad pela %ad graça; de outra maneira a obra já não é obra}.{trnc: #fn _c N4 omite “E se é pelas obras, já não é #ad pela %ad graça; de outra maneira a obra já não é obra” %fn }
+#v 7 %v Que, pois? O que Israel busca, isso não obteve; mas os escolhidos o obtiveram, e os demais foram endurecidos,
+#v 8 %v como está escrito:
+ Deus lhes deu espírito de insensibilidade; #fn _c Ou: estupor %fn olhos que não veem, e ouvidos que não ouvem; até o dia de hoje. #fn _c Ref. Deuteronômio 29:4; Isaías 29:10  %fn
 #v 9 %v E Davi diz:
- Sua mesa se lhes torne em laço, e em armadilha, e em tropeço, e retribuição.
-#v 10 %v Seus olhos se escureçam para não verem, e as costas fiquem curvas continuamente.
-#v 11 %v Então eu digo: Por acaso tropeçaram para que caíssem #ad de vez %ad ? De maneira nenhuma; mas por sua queda #ad veio %ad a salvação aos gentios, para lhes provocarem ciúmes.
-#v 12 %v E se sua queda é a riqueza do mundo, e se seu prejuízo a riqueza dos gentios, quanto mais sua plenitude!
-#v 13 %v Porque eu falo para vós, gentios; e como eu sou apóstolo dos gentios, eu honro meu ministério;
-#v 14 %v Para que, #ad talvez %ad , de alguma maneira eu provoque ciúmes aos de minha carne, e salve alguns deles.
-#v 15 %v Porque se sua rejeição é a reconciliação do mundo, o que será seu aceitação, se não vida dentre os mortos?
-#v 16 %v E se as primícias são santas, a massa também é; e se a raiz é santa, os ramos também são.
-#v 17 %v E se alguns dos ramos são quebrados, e sendo tu uma oliveira ruim, foste enxertado neles, e feito participante da raiz, e da nutrição da oliveira boa;
-#v 18 %v Não te glories contra os ramos; e se contra #ad eles %ad te gloriares, #ad lembra-te de que %ad não és tu o que sustentas a raiz, mas #ad é %ad a raiz que te #ad sustenta %ad .
-#v 19 %v Então tu dirás:
- Os ramos foram quebrados para que eu fosse enxertado.
-#v 20 %v Certo; #ad mas %ad eles foram quebrados por causa da incredulidade, e tu estás de pé por causa da fé. #ad Por isso %ad , não te orgulhes, mas teme;
-#v 21 %v Porque, se Deus não poupou os ramos naturais, pode ser que ele também não te poupe.
-#v 22 %v Observa, pois, a bondade e severidade de Deus; a severidade sobre os que caíram, mas a bondade sobre ti, se permaneceres na bondade; de outra maneira, tu também serás cortado.
-#v 23 %v Porém também eles, se não permanecerem na incredulidade, serão enxertados; porque Deus é poderoso para enxertá-los de volta.
-#v 24 %v Porque tu foste cortado da natural oliveira ruim, e contra a natureza enxertado na oliveira boa; quanto mais estes, que são os naturais, serão enxertados em sua própria oliveira.
-#v 25 %v Pois não quero, irmãos, que ignoreis este mistério, para que não sejais sábios segundo sua própria opinião: o endurecimento veio em parte sobre Israel, até que entrem todas as nações.
-#v 26 %v E assim todo o Israel será salvo, como está escrito:
- De Sião virá o Libertador, e removerá as perversidades de Jacó.
-#v 27 %v E este meu pacto #ad será %ad com eles, quando eu tirar seus pecados.
-#v 28 %v Ou seja, quanto ao Evangelho, eles #ad são %ad inimigos, por causa de vós; mas quanto à escolha, #ad são %ad amados, por causa dos patriarcas.
-#v 29 %v Porque os dons gratuitos, e o chamado de Deus nunca são cancelados.
-#v 30 %v Porque assim como vós também antigamente fostes desobedientes a Deus, mas agora alcançastes misericórdia pela desobediência destes;
-#v 31 %v Assim também agora estes foram desobedientes, para também alcançarem misericórdia pela misericórdia #ad que %ad vós #ad alcançastes %ad .
-#v 32 %v Porque Deus pôs todos debaixo da desobediência para ter misericórdia de todos.
-#v 33 %v Ó profundidade das riquezas, e da sabedoria e do conhecimento de Deus! Como são indescobríveis os seus juízos, e incompreensíveis os seus caminhos!
-#v 34 %v Porque, quem entendeu a mente do Senhor? Ou quem foi seu conselheiro?
-#v 35 %v Ou quem lhe deu primeiro, e ser dele recompensado?
-#v 36 %v Porque dele, e por ele, e para ele, são todas as coisas; para ele #ad seja %ad a glória eternamente, Amém!
+ A mesa deles se torne em laço, e armadilha; em tropeço, e retribuição para eles.
+#v 10 %v Seus olhos se escureçam para que não vejam, e suas costas fiquem constantemente encurvadas. #fn _c Salmos 69:22,23 %fn
+#v 11 %v Então pergunto: Por acaso tropeçaram para que permanecessem caídos? #fn _c Lit. “para que caíssem” %fn De maneira nenhuma! Mas pela queda deles a salvação #ad veio %ad aos gentios, para lhes provocarem ciúmes.
+#v 12 %v Ora, se a queda deles é o enriquecimento do mundo, e se o prejuízo deles é o enriquecimento dos gentios, quanto mais a sua plenitude deles!
+#v 13 %v {tr,rp:Pois}{n4:Mas}{trnc: #fn _c N4: Mas %fn} falo a vós mesmos, gentios; como sou apóstolo dos gentios, honro meu ministério,
+#v 14 %v a fim de que, de alguma maneira, eu provoque ciúmes aos do meu povo em termos da carne, #fn _c Lit. “aos da minha carne” %fn e salve alguns deles.
+#v 15 %v Pois, se a rejeição deles é a reconciliação do mundo, o que será sua admissão, senão vida dentre os mortos?
+#v 16 %v E se as primícias #fn _c Isto é, os primeiros pães %fn são santas, a massa #fn _c Isto é, os demais pães %fn também é; e se a raiz é santa, os ramos também são.
+#v 17 %v Porém, se alguns dos ramos foram quebrados fora, e sendo tu oliveira selvagem, foste enxertado neles, e feito participante da raiz, e nutrido pela boa oliveira,
+#v 18 %v não te orgulhes de ser melhor que os ramos. Mesmo se te orgulhares, não és tu que sustentas a raiz, mas sim a raiz a ti.
+#v 19 %v Tu, então, dirás:
+ {tr:Os{trnc: #fn _c RP, N4 omitem: “Os” %fn ramos}{rp,n4:Ramos} foram quebrados para que eu fosse enxertado.
+#v 20 %v É verdade. Por causa da incredulidade eles foram quebrados fora, e tu por causa da fé estás firme. Não tenhas orgulho, mas sim temor;
+#v 21 %v pois, se Deus não poupou os ramos naturais, ele poderá não poupar a ti também. 
+#v 22 %v Olha, pois, a bondade e severidade de Deus; a severidade sobre os que caíram, mas a bondade {n4: de Deus }{trnc: #fn _c N4 adiciona “de Deus” %fn } sobre ti, se continuares na bondade; de outra maneira, também tu serás cortado fora.
+#v 23 %v Porém também eles, se não continuarem na incredulidade, serão enxertados, porque Deus é poderoso para enxertá-los de volta.
+#v 24 %v Pois, se tu foste cortado da oliveira naturalmente selvagem, e contra a natureza enxertado na oliveira boa, quanto mais estes, que são naturais, serão enxertados na sua própria oliveira!
+#v 25 %v Pois não quero, irmãos, que ignoreis este mistério, para que não sejais sábios apenas a vós mesmos: o endurecimento veio em parte sobre Israel, até que a plenitude dos gentios tenha entrado;
+#v 26 %v e assim todo o Israel será salvo, como está escrito:
+ O Libertador virá de Sião, e afastará as perversidades de Jacó.
+#v 27 %v E este será o meu pacto com eles, quando eu tirar os seus pecados. #fn _c Ref. Isaías 59:20,21; 27:9; Jeremias 31:33-34 %fn
+#v 28 %v Assim, quanto ao Evangelho, eles são inimigos, para benefício vosso; #fn _c Ou: “por causa de vós” %fn mas quanto à escolha #ad divina %ad , são amados, por causa dos patriarcas.
+#v 29 %v Pois os dons gratuitos e o chamado da parte de Deus não podem ser cancelados. #fn _c Lit. “não são arrependidos”, isto é, Deus não se arrepende deles %fn
+#v 30 %v Pois, assim como vós também antigamente fostes desobedientes a Deus, porém agora recebestes misericórdia pela desobediência deles,
+#v 31 %v assim também agora eles foram desobedientes, a fim de que, pela misericórdia que foi a vós #ad concedida %ad , eles também {n4:agora}{trnc: #fn _c N4 adiciona “agora” %fn } recebam misericórdia;
+#v 32 %v porque Deus encarcerou a todos sob a desobediência a fim de ter misericórdia para com todos.
+#v 33 %v Ó profundidade das riquezas, tanto da sabedoria como do conhecimento de Deus! Quão incompreensíveis são os seus juízos, e inimagináveis os seus caminhos!
+#v 34 %v Pois quem entendeu a mentalidade do Senhor? Ou quem foi o seu conselheiro?
+#v 35 %v Ou quem lhe deu primeiro, para ser por ele recompensado?
+#v 36 %v Porque dele, por ele, e para ele, são todas as coisas! A ele seja a glória eternamente! Amém!
 
 #c 12 %c
-#v 1 %v Rogo-vos, pois, irmãos, pelas misericórdias de Deus, que apresenteis vossos corpos em sacrifício vivo, santo #ad e %ad agradável a Deus, #ad que é %ad o vosso culto racional.
-#v 2 %v E não vos conformeis com o tempo presente, mas transformai-vos pela renovação de vosso entendimento, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.
-#v 3 %v Pois pela graça que me é dada, digo a cada um dentre vós, que não se considere mais importante do que o que se deve pensar, mas sim, que cada um considere a si mesmo com bom senso, conforme a medida de fé #ad que %ad Deus repartiu a cada um.
+#v 1 %v Rogo-vos, pois, irmãos, pelas misericórdias de Deus, que apresenteis os vossos corpos como sacrifício vivo, santo e agradável a Deus, #ad que é %ad o vosso culto racional.
+#v 2 %v E não vos conformeis com a presente era; #fn _c Presente era - ou: este mundo %fn em vez disso, transformai-vos pela renovação da vossa mentalidade, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.
+#v 3 %v Pois, pela graça que me foi dada, digo a cada um dentre vós que não se estime mais do que convém se estimar; em vez disso, cada um estime a si mesmo com bom senso, conforme a medida de fé que Deus repartiu a cada um.
 #v 4 %v Porque assim como em um corpo temos muitos membros, e nem todos os membros têm a mesma função,
-#v 5 %v Assim também nós, #ad sendo %ad muitos, somos um único corpo em Cristo; mas cada qual membros uns dos outros.
-#v 6 %v De modo que, tendo diferentes dons, segundo a graça que nós é dada, #ad usemos estes dons %ad ; se é o de profecia, seja segundo a medida da fé;
-#v 7 %v Se é o de serviço, seja em servir; se é o de ensino, seja em ensinar;
-#v 8 %v Se é o de exortação, seja em exortar; o que reparte, #ad reparta %ad com sinceridade; o que lidera, #ad lidere %ad com empenho, o que usa de misericórdia, #ad que o faça %ad com alegria.
-#v 9 %v O amor não seja fingido. Odiai o mal, e apegai-vos ao bem.
-#v 10 %v Amai-vos uns aos outros com amor de irmãos, dando a preferência de honrar uns aos outros.
-#v 11 %v Não sejais lentos naquilo que é importante; sede fervorosos de espírito. Servi ao Senhor.
-#v 12 %v Alegrai-vos pela esperança. Sede pacientes na aflição. Perseverai na oração.
-#v 13 %v Ajudai aos santos em suas necessidades; procurai serdes bons hospitaleiros.
-#v 14 %v Abençoai aos que vos perseguem; abençoai, e não amaldiçoeis.
+#v 5 %v assim também nós, #ad ainda que %ad muitos, somos um único corpo em Cristo; porém cada qual membros uns dos outros.
+#v 6 %v Temos, contudo, diferentes dons, segundo a graça que nós foi dada: se é o de profecia, seja segundo a medida da fé;
+#v 7 %v se é o de serviço, #fn _c Ou: ministério %fn seja em servir; se é o de ensino, seja em ensinar;
+#v 8 %v se é o de exortação, seja em exortar; o que reparte, #ad reparta %ad com generosidade; #fn _c Ou: sinceridade %fn o que lidera, #ad lidere %ad com empenho, o que usa de misericórdia, #ad faça %ad com alegria.
+#v 9 %v O amor seja sem hipocrisia. Odiai o mal, e apegai-vos ao bem.
+#v 10 %v Amai-vos cordialmente uns aos outros com amor de irmãos, preferindo honrar uns aos outros.
+#v 11 %v Não sejais vagarosos em mostrardes empenho. Sede fervorosos de espírito. Servi ao Senhor.
+#v 12 %v Alegrai-vos na esperança. Sede pacientes na aflição. Perseverai na oração.
+#v 13 %v Compartilhai com os santos em suas necessidades. Buscai ser hospitaleiros.
+#v 14 %v Abençoai os que vos perseguem; abençoai, e não amaldiçoeis.
 #v 15 %v Alegrai-vos com os que se alegram, e chorai com os que choram.
-#v 16 %v Sede concordantes uns com os outros. Não busqueis engrandecer a vós mesmos; ao contrário, acompanhai-vos dos humildes. Não sejais sábios para vós mesmos.
-#v 17 %v Não pagueis a ninguém o mal com o mal; procurai as coisas honestas diante de todos.
-#v 18 %v Tanto quanto vos for possível, tende paz com todos.
-#v 19 %v Não vingueis por vós mesmos, amados; em vez disso, deixai a cargo da ira #ad divina %ad ; porque está escrito:
- Minha #ad é %ad a vingança, eu o retribuirei, diz o Senhor.
-#v 20 %v Portanto, se teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber. Pois quando fizeres isto, estarás amontoando brasas de fogo sobre sua cabeça.
-#v 21 %v Não deixes o mal te vencer; mas vence ao mal com o bem.
+#v 16 %v Estimai-vos uns aos outros como semelhantes. Não fiqueis pensando com soberba; em vez disso, acompanhai-vos dos humildes. Não sejais sábios apenas a vós mesmos.
+#v 17 %v A ninguém pagueis o mal com o mal; buscai fazer o que é certo diante de todos.
+#v 18 %v No que for possível de vossa parte, tende paz com todos.
+#v 19 %v Não vingueis por vós mesmos, amados. Em vez disso, dai lugar à ira #ad divina %ad , porque está escrito:
+ A mim pertence a vingança, eu retribuirei, diz o Senhor. #fn _c Ref. Deuteronômio 32:35 %fn
+#v 20 %v {tr,rp:Portanto,}{n4:Mas}{trnc: #fn _c N4: Mas %fn} se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber. Pois, quando fizeres isto, estarás amontoando brasas de fogo sobre a cabeça dele.
+#v 21 %v Não sejas vencido pelo mal, mas vence ao mal com o bem.
 
 #c 13 %c
-#v 1 %v Toda alma esteja sujeita às autoridades superiores. Porque não há autoridade, a não ser de Deus; e as autoridades que há são ordenadas por Deus.
-#v 2 %v Pelo que quem resiste à autoridade, resiste à ordem de Deus; e os que lhe resistem, sobre si mesmos trarão condenação.
-#v 3 %v Porque os detentores de autoridade não são para temor das boas obras, mas das más. Então tu queres não temer à autoridade? Faze o bem, e terás louvor dela.
-#v 4 %v Porque ela é serva de Deus para teu bem. Mas se fizeres mal, teme; porque ela não traz a espada em vão. Porque é serva de Deus, #ad e %ad vingadora, para castigo daquele que faz mal.
-#v 5 %v Portanto é necessário estar sujeito não somente pelo castigo, mas também pela consciência.
-#v 6 %v Porque por isso também pagais impostos; porque são trabalhadores de Deus, continuando nisto #ad que fazem %ad .
-#v 7 %v Portanto dai a cada um o que deveis; a quem imposto, imposto; a quem renda, renda; a quem temor, temor; a quem honra, honra.
-#v 8 %v Não devais nada a ninguém, mas que vos ameis uns aos outros; porque quem ama ao outro tem cumprido a Lei.
-#v 9 %v Porque isto: não adulterarás, não matarás, não roubarás, não dirás falso testemunho; não cobiçarás. E se há algum outro mandamento, nesta frase se resume:
- Amarás a teu próximo como a ti mesmo.
-#v 10 %v O amor não faz mal ao próximo. Portanto o cumprimento da Lei é o amor.
-#v 11 %v E isto #ad fazei %ad , conhecendo o tempo, que já é hora de despertarmos do sono; porque a salvação está mais perto agora de nós, do que quando começamos a crer.
-#v 12 %v A noite está acabando, e o dia está chegando. Então deixemos as obras das trevas, e coloquemos a armadura da luz.
-#v 13 %v Andemos de forma respeitável, como de dia; não em orgias e bebedeiras; não em pecados sexuais ou depravações; não em disputas, nem em inveja.
-#v 14 %v Mas revesti-vos do Senhor Jesus Cristo, e não tenhais interesse na carne nem em #ad seus %ad desejos.
+#v 1 %v Toda pessoa esteja sujeita às autoridades superiores, porque não há autoridade que não seja da parte de Deus; e as {tr,rp:autoridades}{trnc: #fn _c N4 omite “autoridades” %fn } que há são ordenadas por Deus.
+#v 2 %v Por isso, quem se opõe à autoridade resiste à ordem de Deus; e os que lhe resistem trarão a si mesmos condenação.
+#v 3 %v Pois os que possuem autoridade não causam temor {tr,rp:às boas obras}{n4:à boa obra}, mas sim {tr,rp:às más}{n4:ao mal}.{trnc: #fn _c N4: “à boa obra, mas sim ao mal” %fn} Queres tu não ter medo de autoridade? Faze o bem, e dela receberás elogio,
+#v 4 %v porque ela é serva de Deus para o teu bem. Porém, se fizeres o mal, teme; porque ela não traz a espada em vão. Pois é serva de Deus, vingadora, para castigar #fn _c Lit. ira %fn a quem faz o mal.
+#v 5 %v Portanto é necessário estar sujeito não somente por causa do castigo, mas também por causa da consciência.
+#v 6 %v Pois por isso também pagais impostos; porque são servidores de Deus, atendendo a essa função.
+#v 7 %v {tr,rp:Portanto, dai}{n4:Dai}{trnc: #fn _ c N4 omite “Portanto” %fn a cada um o que deveis; a quem imposto, imposto; a quem taxa, taxa; a quem temor, temor; a quem honra, honra.
+#v 8 %v A ninguém devais coisa alguma, a não ser o amar uns aos outros, pois quem ama o outro tem cumprido a Lei.
+#v 9 %v Porque isto: 
+ não adulterarás, não matarás, não roubarás, {tr:não dirás falso testemunho,}{trnc: #fn _c RP, N4 omitem “Não dirás falso testemunho” %fn} não cobiçarás; #fn _c Ref. Êxodo 20:13-15,17; Deuteronômio 5:17-19,21 %fn e, qualquer outro mandamento que há, nesta frase se resume:
+ Amarás ao teu próximo como a ti mesmo. #fn _c Ref. Levítico 19:18 %fn
+#v 10 %v O amor não faz mal ao próximo. Assim, o cumprimento da Lei é o amor.
+#v 11 %v Além disso, conheceis o tempo, que já é hora de {tr,rp:despertarmos}{n4:despertardes}{trnc: #fn _c N4: despertardes %fn} do sono, porque a salvação está agora mais perto de nós do que quando começamos a crer.
+#v 12 %v A noite está se acabando, e o dia chegando. Deixemos, pois, as obras das trevas, e vistamo-nos das armas da luz.
+#v 13 %v Andemos de maneira decente, como de dia; não em orgias e bebedeiras; não em pecados sexuais ou depravações; não em brigas, nem em inveja.
+#v 14 %v Em vez disso, revesti-vos do Senhor Jesus Cristo, e não fiqueis pensando em #ad fazer %ad os desejos da carne.
 
 #c 14 %c
-#v 1 %v Recebei a quem for fraco na fé, mas não para #ad gerar %ad controvérsias sobre opiniões diferentes.
-#v 2 %v  #ad Por exemplo %ad um crê que se pode comer de tudo, e outro #ad que é %ad fraco #ad na fé %ad , come #ad somente %ad vegetais.
-#v 3 %v O que come, não despreze ao que não come, e o o que não come, não julgue o que come; porque Deus o aceitou.
-#v 4 %v Quem és tu para julgares ao servo alheio? Ele fica de pé ou cai diante de seu próprio senhor. E ele ficará de pé, porque Deus é capaz de fazê-lo ficar de pé.
-#v 5 %v Um faz diferença entre um dia #ad especial %ad e outro #ad comum %ad ; mas outro considera todos os dias iguais. Que cada um em sua mente mantenha sua própria certeza.
-#v 6 %v Aquele que faz diferença de dias, a faz para o Senhor{tr,rp:; e aquele que não faz diferença de dias, para o Senhor não a faz}.{trnc: #fn _c N4 omite “e aquele que não faz diferença de dias, para o Senhor não a faz” %fn }{n4: #fn _c TR, RP acrescentam: “e aquele que não faz diferença de dias, para o Senhor não a faz” %fn } Aquele que come, come para o Senhor, porque dá graças a Deus; e o que não come, deixa de comer para o Senhor, e dá graças a Deus.
-#v 7 %v Porque nenhum de nós vive para si; e nenhum morre para si.
-#v 8 %v Porque se vivermos, vivemos para o Senhor; e se morrermos, morremos para o Senhor. Portanto, seja vivendo ou morrendo, nós somos do Senhor.
-#v 9 %v Porque para isto também Cristo morreu, ressuscitou, e voltou a viver; para ser Senhor tanto dos vivos como dos mortos.
-#v 10 %v Mas tu, por que julgas a teu irmão? Ou tu também, por que desprezas a teu irmão? Porque todos nós seremos apresentados diante do tribunal de Cristo.
+#v 1 %v Recebei a quem for fraco na fé, mas não para #ad envolvê-lo %ad em temas controversos.
+#v 2 %v Um crê que pode comer de tudo, e outro, que é fraco come #ad somente %ad vegetais.
+#v 3 %v O que come não despreze o que não come, e o que não come não julgue o que come, porque Deus o aceitou.
+#v 4 %v Quem és tu para julgares o servo alheio? É ao seu próprio senhor que ele fica firme ou cai. E ele ficará firme, porque {tr,rp:Deus}{n4: o Senhor}{trnc: #fn _c N4: o Senhor %fn} é poderoso para o firmar.
+#v 5 %v Um faz diferença entre um dia e outro; porém outro considera iguais todos os dias. Cada um mantenha certeza em sua própria mente.
+#v 6 %v O que faz diferença de dias, para o Senhor a faz{tr,rp:; e aquele que não faz diferença de dias, para o Senhor não a faz}.{trnc: #fn _c N4 omite “e aquele que não faz diferença de dias, para o Senhor não a faz” %fn }{n4: #fn _c TR, RP acrescentam: “e aquele que não faz diferença de dias, para o Senhor não a faz” %fn } O que come, come para o Senhor, porque dá graças a Deus; e o que não come, deixa de comer para o Senhor, e dá graças a Deus.
+#v 7 %v Pois nenhum de nós vive para si mesmo; e nenhum morre para si mesmo.
+#v 8 %v Pois se vivemos, para o Senhor vivemos; e se morremos, para o Senhor morremos. Portanto, quer vivamos, quer morramos, do Senhor somos.
+#v 9 %v Pois para isto Cristo {tr,rp:também}{trnc: #fn _c N4 omite “também” %fn} morreu, {tr,rp:ressuscitou,}{trnc: #fn _c N4 omite “ressuscitou” %fn} e voltou a viver, para ser Senhor tanto dos mortos como dos vivos.
+#v 10 %v Tu, porém, por que julgas o teu irmão? Ou tu também, por que desprezas o teu irmão? Pois todos nós seremos apresentados diante do tribunal de {tr,rp:Cristo}{trnc:Deus}.{trnc: #fn _c N4: Deus %fn}
 #v 11 %v Porque está escrito:
- Vivo eu, diz o Senhor, que todo joelho se dobrará diante de mim, e toda língua confessará a Deus.
-#v 12 %v De maneira que cada um de nós dará conta de si mesmo a Deus.
-#v 13 %v Portanto não nos julguemos mais uns aos outros; mas antes julgai isto: nunca pôr nenhuma pedra de obstáculo ou de escândalo diante de seu irmão.
-#v 14 %v Eu sei, e tenho certeza no Senhor Jesus, que nada é impuro por si só; #ad mas %ad para quem considera algo impuro, aquilo #ad realmente %ad se torna impuro para ele.
-#v 15 %v Mas se teu irmão se entristece por causa da comida, tu já não andas segundo o amor. Não destruas por causa de tua comida aquele por quem Cristo morreu.
-#v 16 %v Não seja vosso bem falado mal,
-#v 17 %v Porque o Reino de Deus não é comida nem bebida, mas sim justiça, paz, e alegria no Espírito Santo.
-#v 18 %v Porque quem serve a Cristo nestas coisas #ad é %ad agradável a Deus e aprovado pelas pessoas.
-#v 19 %v Portanto procuremos as coisas que #ad geram %ad paz e amadurecimento uns para os outros.
-#v 20 %v Não destruas a obra de Deus por causa da comida. Realmente todas as coisas são limpas, porém é mal para o ser humano que ele as coma causando ofensa.
-#v 21 %v Não é bom comer carne, nem beber vinho, nem #ad qualquer coisa %ad que faça teu irmão tropeçar{tr,rp:, ou se ofender, ou enfraquecer}.{trnc: #fn _c N4 omite “ou se ofender, ou enfraquecer” %fn }{n4: #fn _c TR, RP acrescentam: “ou se ofender, ou enfraquecer” ao final do versículo %fn }
-#v 22 %v A fé que tu tens #ad sobre essas coisas %ad , tenha para ti mesmo diante de Deus. Bem-aventurado é aquele que não culpa a si mesmo naquilo que aprova.
-#v 23 %v Mas aquele que tem dúvida, se comer é culpado, porque não #ad comeu %ad pela fé; e tudo que não é pela fé é pecado.
-{rp:24 Ora, para aquele que tem o poder de vos manter firmes segundo meu Evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério, que foi encoberto #ad desde %ad os princípios dos tempos;
+ #ad Tão certo como %ad eu vivo, diz o Senhor, que todo joelho se dobrará diante de mim, e toda língua confessará a Deus; #ref _d Isaías 45:23 %ref
+#v 12 %v de maneira que cada um de nós dará conta de si mesmo a Deus.
+#v 13 %v Portanto não julguemos mais uns aos outros; em vez disso, julgai nunca pôr alguma pedra de obstáculo ou de tropeço diante do seu irmão.
+#v 14 %v Eu sei, e tenho certeza no Senhor Jesus, que nada é impura por si mesma; a não ser para quem considera algo impuro: aquilo para ele se torna impuro.
+#v 15 %v {tr,rp:Mas}{n4:Pois},{trnc: #fn _c N4: Pois %fn} se por causa do que comes #fn _c Lit. “por causa da comida” %fn o teu irmão se entristece, #fn _c Ou: ofende %fn tu já não estás andando segundo o amor. Não destruas por tua comida aquele por quem Cristo morreu.
+#v 16 %v Não seja insultado o vosso bem,
+#v 17 %v pois o reino de Deus não é comida nem bebida, mas sim justiça, paz, e alegria no Espírito Santo.
+#v 18 %v Pois quem {tr,rp:nessas coisas}{n4:nisso}{trnc: #fn _c N4: nisso %fn} serve a Cristo é agradável a Deus e aprovado pelos seres humanos.
+#v 19 %v Sigamos, pois, as coisas que #ad resultam em %ad paz e edificação uns aos outros.
+#v 20 %v Não destruas a obra de Deus por causa da comida. É verdade que todas as coisas são limpas, porém é mau ao ser humano que coma causando ofensa. #fn _c Ou: escândalo %fn
+#v 21 %v Não é bom comer carne, nem beber vinho, nem #ad qualquer coisa %ad que faça o teu irmão tropeçar{tr,rp:, ou se ofender, ou enfraquecer}.{trnc: #fn _c N4 omite “ou se ofender, ou enfraquecer” %fn }{n4: #fn _c TR, RP acrescentam: “ou se ofender, ou enfraquecer” ao final do versículo %fn }
+#v 22 %v A convicção que tu tens,{tr,rp: #fn _c Trad. alt.: “Tu tens convicção?” (Ou “fé”) %fn} tenha para ti mesmo diante de Deus. Feliz #fn _c Tradicionalmente: bem-aventurado %fn é quem não se culpa naquilo que aprova.
+#v 23 %v Mas aquele que tem dúvida, se comer é culpado, porque não foi pela fé; e tudo que não é pela fé é pecado.
+{rp:24 Ora, para aquele que tem o poder de vos manter firmes segundo o meu Evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério, que foi encoberto #ad desde %ad os princípios dos tempos;
 #v 25 %v Mas agora se manifestou, e se tornou conhecido pelas Escrituras dos profetas, segundo o mandado do Deus eterno, para a obediência da fé entre todas as nações;
-#v 26 %v Ao único Deus sábio seja a glória por Jesus Cristo para #ad todo o %ad sempre! Amém! #fn _c TR, N4 movem o texto dos versículos 24 a 26 para o capítulo 16, versículos 25 a 27 %fn }
+#v 26 %v Ao único Deus sábio seja a glória, por meio de Jesus Cristo, para #ad todo o %ad sempre! Amém! #fn _c TR, N4 movem o texto dos versículos 24 a 26 para o capítulo 16, versículos 25 a 27 %fn }
 
 #c 15 %c
 #v 1 %v Mas nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos.
-#v 2 %v Portanto cada um de nós agrade ao próximo ao seu bem, para o amadurecimento.
-#v 3 %v Porque Cristo também não agradou a si mesmo; mas como está escrito:
- Sobre mim caíram os insultos dos que te insultaram.
-#v 4 %v Porque todas as coisas que foram escritas desde antes, foram escritas para nosso ensino; para que pela paciência e consolo das Escrituras tenhamos esperança.
-#v 5 %v Que o Deus da paciência e do consolo vos dê os mesmos pensamentos uns com os outros, segundo Cristo Jesus.
-#v 6 %v Para que em comum acordo, como uma só boca glorifiqueis ao Deus e Pai de nosso Senhor Jesus Cristo.
-#v 7 %v Portanto recebei uns aos outros, assim como também Cristo nos recebeu para a glória de Deus.
-#v 8 %v E eu digo que Jesus Cristo se tornou um trabalhador da circuncisão por causa da verdade de Deus, para confirmar as promessas #ad feitas %ad aos patriarcas;
+#v 2 %v Portanto, cada um de nós agrade ao próximo no que é bom para a edificação.
+#v 3 %v Pois também Cristo não agradou a si mesmo; mas, como está escrito:
+  Os insultos dos que te insultavam caíram sobre mim. #ref _d Salmos 69:9 %ref
+#v 4 %v Pois todas as coisas que foram escritas com antecedência foram escritas para o nosso ensino; para que, pela paciência e consolação das Escrituras, tenhamos esperança.
+#v 5 %v O Deus da paciência e da consolação vos dê a mesma mentalidade uns com os outros, segundo Cristo Jesus,
+#v 6 %v a fim de que, em comum acordo, como uma só boca, glorifiqueis ao Deus e Pai de nosso Senhor Jesus Cristo.
+#v 7 %v Portanto, recebei uns aos outros, assim como também Cristo {tr,n4:nos}{rp:vos}{trnc: #fn _c RP: vos %fn} recebeu para a glória de Deus.
+#v 8 %v {tr,rp:E}{n4:Pois}{trnc: #fn _c N4: Pois %fn} digo que {tr:Jesus Cristo}{rp:Cristo Jesus}{n4:Cristo}{trnc: #fn _c RP: Cristo Jesus - N4: Cristo %fn} se tornou servidor da circuncisão por causa da verdade de Deus, para confirmar as promessas #ad feitas %ad aos patriarcas;
 #v 9 %v E #ad para que %ad os gentios glorifiquem a Deus por causa de #ad sua %ad misericórdia, como está escrito:
- Por isso eu te confessarei entre os gentios, e cantarei salmos a teu nome.
+ Por isso entre os gentios te confessarei, e ao teu nome cantarei. #ref _d 2 Samuel 22:50; Salmos 18:49 %ref
 #v 10 %v E outra vez diz:
- Alegrai-vos, gentios, com seu povo.
+ Alegrai-vos, gentios, com o povo dele. #ref _d Deuteronômio 32:43 %ref
 #v 11 %v E outra vez:
- Louvai ao Senhor todas as nações, e celebrai-o todos os povos.
-#v 12 %v E outra vez diz Isaías:
- A raiz de Jessé aparecerá, e aquele que se levantará para governar as nações; nele os gentios esperarão.
-#v 13 %v Que o Deus da esperança vos encha de toda alegria e paz na fé, para que abundeis na esperança pelo poder do Espírito Santo.
-#v 14 %v Porém, meus irmãos, tenho certeza também sobre vós, que também estais cheios de bondade, completos de todo conhecimento, #ad e %ad capazes para também aconselhardes uns aos outros.
-#v 15 %v Mas irmãos, em parte eu vos escrevi mais ousadamente, como que para vos lembrar outra vez, por causa da graça que me foi dada por Deus,
-#v 16 %v Para que seja trabalhador de Jesus Cristo entre os gentios, trabalhando com o Evangelho de Deus, para que a oferta dos gentios seja agradável, santificada pelo Espírito Santo.
-#v 17 %v Assim eu me orgulho em Jesus Cristo, pelas coisas #ad que são %ad de Deus.
-#v 18 %v Porque eu não ousaria dizer coisa alguma que Cristo não tenha feito por mim, para que os gentios #ad tenham %ad obediência, pela palavra e pela obra,
-#v 19 %v Com poder de sinais e milagres, no poder do Espírito de Deus; de maneira que desde Jerusalém e redondezas, até Ilírico, cumpri o Evangelho de Cristo.
-#v 20 %v E assim tive interesse em anunciar o Evangelho, onde Cristo #ad ainda %ad não tivesse sido pregado, para que não eu não construísse sobre fundamento alheio.
-#v 21 %v Porém, assim como está escrito:
- Aqueles a quem ele não tinha sido anunciado, eles o verão; e aos que não o ouviram, eles o entenderão.
-#v 22 %v Por isso também muitas vezes fui impedido de vir a vós.
-#v 23 %v Mas agora, nestas regiões não tenho mais lugar, e já por muitos anos tive grande desejo de vir a vós;
-#v 24 %v Quando eu partir para a Espanha, eu virei a vós; porque espero vos ver durante a viagem, e para lá serei enviado em despedida por vós, depois de primeiro ficar um tempo em vossa companhia.
-#v 25 %v Mas por agora eu vou a Jerusalém, #ad para lá %ad ajudar aos santos.
-#v 26 %v Porque aos da Macedônia e Acaia pareceu bem fazer uma contribuição para os pobres dentre os santos que estão em Jerusalém.
-#v 27 %v Porque #ad isso %ad lhes pareceu bem, #ad e %ad também lhes são devedores. Porque se os gentios foram participantes de seus #ad bens %ad espirituais, também devem #ad lhes %ad ajudar com as materiais.
-#v 28 %v Assim que eu tiver concluído isto, e tendo lhes assegurado este fruto de lá, eu passarei por vós quando eu for para a Espanha.
-#v 29 %v E sei que quando chegar até vós, eu virei com a plenitude da bênção do Evangelho de Cristo.
-#v 30 %v E rogo-vos, irmãos, por nosso Senhor Jesus Cristo, e pelo amor do Espírito, que luteis junto comigo em orações a Deus.
-#v 31 %v Para que eu seja livre dos incrédulos que estão na Judeia, e que este meu trabalho em Jerusalém seja bem recebido pelos santos,
-#v 32 %v Para que eu possa chegar a vós com alegria, pela vontade de Deus, e que eu possa descansar em vossa companhia.
-#v 33 %v E que o Deus da paz #ad esteja %ad com todos vós. Amém!
+ Louvai ao Senhor todas as nações, e celebrai-o todos os povos. #ref _d Salmos 117:1 %ref
+#v 12 %v E outra vez Isaías diz:
+ Haverá a raiz de Jessé, e aquele que se levantará para governar as nações; nele os gentios esperarão. #ref _d Isaías 11:10 %ref
+#v 13 %v O Deus da esperança vos encha de toda alegria e paz na fé, para que abundeis em esperança no poder do Espírito Santo.
+#v 14 %v Porém, meus irmãos, convencido estou acerca de vós de que também estais cheios de bondade, plenos de todo conhecimento, e capazes de também aconselhardes #fn _c Ou: “admoestardes”, “repreenderdes” %fn uns aos outros.
+#v 15 %v Mas{tr,rp:, irmãos,}{trnc: #fn _c N4 omite “irmãos” %fn} em parte vos escrevi com mais ousadia, como que para vos relembrar, por causa da graça que me foi dada por Deus,
+#v 16 %v a fim de que eu seja servidor de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}{trnc: #fn _c N4: Cristo Jesus %fn } entre os gentios, servindo através do Evangelho de Deus, para que a oferta dos gentios seja agradável, santificada pelo Espírito Santo.
+#v 17 %v Assim eu me orgulho em Jesus Cristo das coisas relacionadas a Deus,
+#v 18 %v Pois eu não ousaria falar coisa alguma, a não ser o que Cristo fez por meio de mim, para tornar os gentios obedientes, #fn _c Lit. “para a obediência dos gentios” %fn por meio da palavra e da obra,
+#v 19 %v com poder de sinais e milagres, no poder do Espírito{tr,rp:de Deus}{n4:Santo};{trnc: #fn _c N4: Espírito Santo %fn} de maneira que desde Jerusalém e redondezas até Ilírico, cumpri a pregação do Evangelho de Cristo.
+#v 20 %v E assim quis muito anunciar o Evangelho onde Cristo não houvesse sido pregado, para que eu não construísse sobre fundamento alheio;
+#v 21 %v ao contrário, como está escrito:
+ Aqueles a quem dele não foi anunciado #ad o %ad verão; e os que não ouviram entenderão. #ref _d Isaías 52:15 %ref
+#v 22 %v Por isso também muitas vezes tenho sido impedido de vir até vós.
+#v 23 %v Mas agora, como nessas regiões não há mais lugar que eu não já tenha pregado, #fn _c Lit. “não tenho mais lugar” %fn e já por muitos anos tive grande desejo de vir até vós,
+#v 24 %v quando eu for para a Espanha{tr,rp, virei até vós};{trnc: #fn _c N4 omite “virei até vós” %fn} pois espero vos ver no caminho, e receber ajuda de vossa parte para a viagem, depois de primeiramente ficar um tempo satisfazendo o desejo de estar convosco.
+#v 25 %v Mas por agora vou a Jerusalém, a fim de auxiliar os santos.
+#v 26 %v Pois aos da Macedônia e Acaia pareceu bem fazer uma contribuição para os pobres dentre os santos que estão em Jerusalém.
+#v 27 %v Pois #ad isso %ad lhes pareceu bem, assim como estão em dívida para com eles; porque, se os gentios foram participantes dos seus #ad bens %ad espirituais, devem também #ad lhes %ad ajudar com os materiais.
+#v 28 %v Assim que eu concluir isso, e garantir #ad a entrega %ad desse fruto a eles, partirei para a Espanha passando para vos visitar. #fn _c Lit. partirei por vós para a Espanha %fn
+#v 29 %v E sei que, quando chegar até vós, virei com a plenitude da bênção {tr,rp:do Evangelho}{trnc: #fn _c N4 omite “do Evangelho” %fn}{n4: #fn _c RP, TR acrescentam: “do Evangelho” %fn} de Cristo.
+#v 30 %v Rogo-vos, porém, irmãos, pelo nosso Senhor Jesus Cristo, e pelo amor do Espírito, que luteis comigo em orações a Deus por mim,
+#v 31 %v para que eu esteja livre dos desobedientes na Judeia, e que este meu serviço em Jerusalém seja bem aceito pelos santos,
+#v 32 %v a fim de que eu possa chegar até vós com alegria, pela vontade de Deus, e que eu possa descansar convosco.
+#v 33 %v E o Deus da paz esteja com todos vós. Amém!
 
 #c 16 %c
-#v 1 %v Eu vos encomendo a nossa irmã Febe, a qual é trabalhadora da Igreja que está em Cencreia.
-#v 2 %v Para que a recebais no Senhor, como convém aos santos; e para ajudá-la em qualquer coisa que ela necessitar de vós; porque ela tem ajudado a muitos inclusive a mim mesmo.
-#v 3 %v Saudai a Priscila e a Áquila, meus cooperadores em Cristo Jesus;
-#v 4 %v Que arriscaram seus pescoços por minha vida; aos quais não somente eu dou graças, mas também todas as igrejas dos gentios.
-#v 5 %v  #ad Saudai %ad também a igreja da casa deles. Saudai a Epeneto, meu amado, que é dos primeiros frutos da Acaia em Cristo.
-#v 6 %v Saudai a Maria, que trabalhou muito por nós.
-#v 7 %v Saudai a Andrônico e a Júnia, meus parentes, e meus companheiros na prisão, que são notáveis entre os apóstolos, e também foram antes de mim em Cristo.
-#v 8 %v Saudai a Amplíato, meu amado no Senhor.
-#v 9 %v Saudai a Urbano, nosso cooperador em Cristo, e a Estáquis, meu amado.
-#v 10 %v Saudai a Apeles, aprovado em Cristo. Saudai aos que #ad são da casa %ad de Aristóbulo.
-#v 11 %v Saudai a Herodião, meu parente. Saudai os que #ad são da casa %ad de Narcisso, os que estão no Senhor.
-#v 12 %v Saudai a Trifena e a Trifosa, as quais trabalham no Senhor. Saudai a Persida, a amada #ad irmã %ad , a qual muito trabalhou no Senhor.
-#v 13 %v Saudai a Rufo, o escolhido no Senhor, e a sua mãe, #ad que também é %ad minha.
-#v 14 %v Saudai a Asíncrito, a Flegonte, a Hermas, a Patrobas, a Hermes e aos irmão que estão com eles.
-#v 15 %v Saudai a Filólogo e a Júlia, a Nereu, e a sua irmã, e a Olímpia, e a todos os santos que estão com eles.
-#v 16 %v Saudai-vos uns aos outros com beijo santo. As igrejas de Cristo vos saúdam.
-#v 17 %v E rogo-vos, irmãos, que tenhais cuidado com aqueles que causam confrontos e ofensas contrárias a doutrina que aprendestes; e deles vos afastai.
-#v 18 %v Porque os tais não servem ao nosso Senhor Jesus Cristo, mas sim ao seu ventre; e com suaves palavras e elogios enganam os corações dos ingênuos.
-#v 19 %v Porque a vossa obediência chegou #ad ao conhecimento %ad de todos. Por isso eu me gozo de vós; e quero que sejais sábios no bem, e puros no mal.
-#v 20 %v E o Deus de paz logo quebrará a Satanás debaixo de vossos pés. A graça de nosso Senhor Jesus Cristo seja convosco. Amém!
-#v 21 %v Saúdam-vos Timóteo meu cooperador, e Lúcio, Jáson, e Sosípater, meus parentes.
+#v 1 %v Eu vos recomendo a nossa irmã Febe, que é servidora da Igreja que está em Cencreia,
+#v 2 %v para que a recebais no Senhor, como convém aos santos; e para que a ajudeis em qualquer coisa que necessitar de vós; pois ela tem ajudado a muitos, inclusive a mim mesmo.
+#v 3 %v Saudai a {tr:Priscila}{rp,n4:Prisca #fn _c Ou: Priscila %fn}{trnc: #fn _c RP, N4: Prisca %fn} e a Áquila, meus cooperadores em Cristo Jesus,
+#v 4 %v que arriscaram seus pescoços por minha vida; a eles não somente eu agradeço, como também todas as igrejas dos gentios.
+#v 5 %v  #ad Saudai %ad também a igreja na casa deles. Saudai Epêneto, meu amado, que é o primeiro fruto #fn _c Isto é, o primeiro convertido %fn da {tr,rp:Acaia}{n4:Ásia}{trnc: #fn _c N4: Ásia %fn} para Cristo.
+#v 6 %v Saudai Maria, que trabalhou muito por {tr,rp:nós}{n4:vós}.{trnc: #fn _c N4:vós %fn}
+#v 7 %v Saudai Andrônico e Júnia, meus parentes, #fn _c Ou “compatriotas” %fn e meus companheiros na prisão, que são notáveis entre os apóstolos, e também foram antes de mim em Cristo.
+#v 8 %v Saudai {tr,rp:Amplias}{n4:Amplíato},{trnc: #fn _c N4: Amplíato %fn} meu amado no Senhor.
+#v 9 %v Saudai Urbano, nosso cooperador em Cristo, e Estáquis, meu amado.
+#v 10 %v Saudai Apeles, aprovado em Cristo. Saudai os que são da #ad casa %ad #fn _c Ou: “família” - também no v. 11 %fn de Aristóbulo.
+#v 11 %v Saudai Herodião, meu parente. #fn _c Ou: “compatriota” %fn Saudai os que são da #ad casa %ad de Narciso, que estão no Senhor.
+#v 12 %v Saudai Trifena e Trifosa, que trabalham no Senhor. Saudai a amada Pérside, que trabalhou muito no Senhor.
+#v 13 %v Saudai Rufo, o escolhido no Senhor, e a mãe dele, que também é minha.
+#v 14 %v Saudai Asíncrito, Flegonte, {tr,rp:Hermas, Pátrobas, Hermes}{n4:Hermes, Pátrobas, Hermas}{trnc: #fn _c N4 troca a ordem de “Hermas” e “Hermes” %fn} e os irmãos que estão com eles.
+#v 15 %v Saudai Filólogo, Júlia, Nereu e sua irmã, Olimpas, e todos os santos que estão com eles.
+#v 16 %v Saudai-vos uns aos outros com beijo santo. {tr,rp:As}{trnc:Todas as} igrejas {trnc: #fn _c N4: Todas as igrejas %fn} de Cristo vos saúdam.
+#v 17 %v E rogo-vos, irmãos, que sejais cuidadosos com os que causam divisões e ofensas #fn _c Ou: “obstáculos” - isto é, dificuldades que induzem à perda da fé ou ao pecado - tradicionalmente “escândalos” %fn contrárias a doutrina que aprendestes; e afastai-vos deles;
+#v 18 %v pois tais pessoas não servem ao nosso Senhor {tr,rp:Jesus}{trnc: #fn _c N4 omite “Jesus” %fn} Cristo, {n4: fn _c TR, RP: Senhor Jesus Cristo %fn} mas sim ao próprio ventre; e com palavras suaves e elogios enganam os corações dos ingênuos.
+#v 19 %v Pois a vossa obediência chegou #ad ao conhecimento %ad de todos. Por isso eu me alegro por vossa causa; quero, porém, que sejais sábios no bem, e inocentes quanto ao mal.
+#v 20 %v E o Deus de paz esmagará Satanás em pedaços debaixo dos vossos pés. A graça de nosso Senhor Jesus {tr,rp:Cristo} {trnc: #fn _c N4 omite “Cristo” %fn} seja convosco. {tr:Amém!}{trnc: #fn _c RP, N4 omitem “Amém!” %fn }
+#v 21 %v Saúdam-vos o meu cooperador Timóteo, e os meus parentes #fn _c Ou “compatriotas” %fn Lúcio, Jáson, e Sosípatro.
 #v 22 %v Eu, Tércio, que escrevi #ad esta %ad carta, vos saúdo no Senhor.
-#v 23 %v Gaio, meu hospedeiro, e toda a igreja vos saúda. Erasto, procurador da cidade, vos saúda, e também o irmão Quarto.
+#v 23 %v Gaio, hospedeiro meu e toda a igreja, vos saúda. Erasto, tesoureiro da cidade, vos saúda, e também o irmão Quarto.
 #v 24 %v {n4:--- #fn _c TR, RP incluem o versículo 24:”}A graça de nosso Senhor Jesus Cristo seja com todos vós, Amém!{n4:” %fn }{trnc: #fn _c N4 omite o versículo 24 %fn }
-{tr,n4:25 Ora, para aquele que tem o poder de vos manter firmes segundo meu Evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério, que foi encoberto #ad desde %ad os princípios dos tempos;
+{tr,n4: #v 25 %v Ora, para aquele que tem o poder de vos manter firmes segundo o meu Evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério, que foi encoberto #ad desde %ad os princípios dos tempos;
 #v 26 %v Mas agora se manifestou, e se tornou conhecido pelas Escrituras dos profetas, segundo o mandado do Deus eterno, para a obediência da fé entre todas as nações;
-#v 27 %v Ao único Deus sábio seja a glória por Jesus Cristo para #ad todo o %ad sempre! Amém!}{trnc: #fn _c RP move os versículos 25 a 27 para o capítulo 14, como versículos 24 a 26 %fn }
-{tr: #ad Escrita de Corinto aos Romanos, e enviada por Febe, trabalhadora da igreja de Cencreia. %ad }
+#v 27 %v Ao único Deus sábio seja a glória, por meio de Jesus Cristo, para #ad todo o %ad sempre! Amém!}{trnc: #fn _c RP move os versículos 25 a 27 para o capítulo 14, como versículos 24 a 26 %fn }
+{tr: #ad Escrita de Corinto aos Romanos, e enviada por Febe, servidora da igreja de Cencreia. %ad }

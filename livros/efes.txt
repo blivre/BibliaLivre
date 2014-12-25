@@ -1,6 +1,7 @@
 ﻿#header
 #name Carta de Paulo aos Efésios %name
-#ver 20131009 %ver
+#snm Efésios %snm
+#ver 20140429 %ver
 #abbr Ef %abbr
 %header
 
@@ -10,7 +11,7 @@
 #v 3 %v Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com toda bênção espiritual nos lugares celestes em Cristo;
 #v 4 %v Assim como nos escolheu nele antes da fundação do mundo, para que sejamos santos e irrepreensíveis diante dele em amor.
 #v 5 %v E nos predestinou em adoção de filhos por meio de Jesus Cristo para si mesmo, segundo o que era agradável à sua vontade;
-#v 6 %v Para louvor da glória de sua graça, {tr,rp:pela}{n4:a} qual{trnc: #fn _c N4: a qual %fn }{n4: #fn _c TR, RP: pela qual %fn nos agraciou no #ad seu %ad Amado;
+#v 6 %v Para louvor da glória de sua graça, {tr,rp:pela}{n4:a} qual{trnc: #fn _c N4: a qual %fn }{n4: #fn _c TR, RP: pela qual %fn } nos agraciou no #ad seu %ad Amado;
 #v 7 %v No qual temos libertação pelo seu sangue, o perdão dos pecados, segundo as riquezas de sua graça;
 #v 8 %v A qual ele fez abundar em nós em toda sabedoria e prudência,
 #v 9 %v Revelando-nos o mistério de sua vontade, conforme o que lhe era agradável, o qual propusera em si mesmo;

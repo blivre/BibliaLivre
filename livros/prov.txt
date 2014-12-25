@@ -1,5 +1,6 @@
 ﻿#header
 #name Provérbios de Salomão %name
+#snm Provérbios %snm
 #ver 20121024 %ver
 #abbr Prv %abbr
 %header

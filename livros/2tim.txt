@@ -1,5 +1,6 @@
 ﻿#header
 #name Segunda Carta de Paulo a Timóteo %name
+#snm 2 Timóteo %snm
 #ver 20131012 %ver
 #abbr 2Tm %abbr
 %header

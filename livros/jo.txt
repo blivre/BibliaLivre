@@ -1,5 +1,6 @@
 ﻿#header
 #name Jó %name
+#snm Jó %snm
 #ver 20130624 %ver
 #abbr Jo %abbr
 %header
@@ -678,7 +679,7 @@ Em tudo isto Jó não pecou com seus lábios.
 #c 24 %c
 #v 1 %v Por que os tempos não são marcados pelo Todo-Poderoso? Por que os que o conhecem não veem seus dias?
 #v 2 %v Há os que mudam os limites de lugar, roubam rebanhos, e os apascentam.
-#v 3 %v Levam o asno dos órfão; penhoram o boi da viúva.
+#v 3 %v Levam o asno do órfão; penhoram o boi da viúva.
 #v 4 %v Desviam do caminho aos necessitados; os pobres da terra juntos se escondem.
 #v 5 %v Eis que como asnos selvagens no deserto eles saem a seu trabalho buscando insistentemente por comida; o deserto dá alimento a ele #ad e a seus %ad filhos.
 #v 6 %v No campo colhem sua forragem, e vindimam a vinha do perverso.

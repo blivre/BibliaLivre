@@ -1,5 +1,6 @@
 ﻿#header
 #name Apocalipse de João %name
+#snm Apocalipse %snm
 #ver 20131211 %ver
 #abbr Ap %abbr
 %header

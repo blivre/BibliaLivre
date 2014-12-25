@@ -1,5 +1,6 @@
 ﻿#header
 #name Habacuque %name
+#snm Habacuque %snm
 #ver 20120914 %ver
 #abbr Hab %abbr
 %header

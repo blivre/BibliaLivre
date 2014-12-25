@@ -1,5 +1,6 @@
 ﻿#header
 #name Livro do Eclesiastes ou Pregador %name
+#snm Eclesiastes %snm
 #ver 20120114 %ver
 #abbr Ec %abbr
 %header

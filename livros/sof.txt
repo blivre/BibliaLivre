@@ -1,5 +1,6 @@
 ﻿#header
 #name Sofonias %name
+#snm Sofonias %snm
 #ver 20120317 %ver
 #abbr Sf %abbr
 %header

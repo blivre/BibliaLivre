@@ -1,6 +1,7 @@
 ﻿#header
 #name Carta aos Hebreus %name
-#ver 20131207 %ver
+#snm Hebreus %snm
+#ver 20140308 %ver
 #abbr Hb %abbr
 %header
 
@@ -145,7 +146,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #c 6 %c
 #v 1 %v Portanto deixemos os tópicos elementares da doutrina de Cristo, e prossigamos adiante até a maturidade, sem lançarmos de novo o fundamento da conversão de obras mortas, e da fé em Deus,
 #v 2 %v da doutrina dos batismos, da imposição das mãos, da ressurreição dos mortos, e do juízo eterno.
-#v 3 %v E isso {tr,n4:faremos}{rp:façamos},{trnc: #fn _c RP: façamos #fn } se Deus permitir.
+#v 3 %v E isso {tr,n4:faremos}{rp:façamos},{trnc: #fn _c RP: façamos %fn } se Deus permitir.
 #v 4 %v Pois é impossível que os que uma vez foram iluminados, e experimentaram o dom celestial, e foram feitos participantes do Espírito Santo,
 #v 5 %v e experimentaram a boa palavra de Deus, e os poderes do mundo futuro;
 #v 6 %v e caíram, outra vez renová-los para o arrependimento; já que estão novamente crucificando o Filho de Deus para si mesmos, e expondo-o à vergonha pública. #fn _c conversão – ou: arrependimento %fn 
@@ -179,7 +180,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 11 %v Portanto, se a perfeição tivesse sido de fato pelo sacerdócio Levítico (pois {tr,rp:sob ele}{n4:com base nele}{trnc: #fn _c TR,RP: sob ele – N4: com base nele %fn } o povo recebeu a Lei), que mais necessidade havia de se levantar outro Sacerdote segundo a ordem de Melquisedeque, e não ser chamado segundo a ordem de Arão?
 #v 12 %v Pois, ao se mudar o sacerdócio, necessariamente também se faz mudança de Lei.
 #v 13 %v Porque aquele de quem estas coisas são ditas pertence a outra tribo, da qual ninguém serviu ao altar;
-#v 14 %v visto ser evidente que o nosso Senhor é procedente de Judá, tribo da qual Moisés nada falou a respeito de {tr,rp:sacerdócio}{n4:sacerdotes}.{trnc:#fn _c N4: sacerdotes %fn }
+#v 14 %v visto ser evidente que o nosso Senhor é procedente de Judá, tribo da qual Moisés nada falou a respeito de {tr,rp:sacerdócio}{n4:sacerdotes}. {trnc:#fn _c N4: sacerdotes %fn }
 #v 15 %v E #ad isso %ad ainda é muito mais evidente se, à semelhança de Melquisedeque, levanta-se outro sacerdote,
 #v 16 %v que foi constituído, não conforme a Lei de um mandamento carnal, mas sim, conforme o poder de uma vida indestrutível.
 #v 17 %v Pois #ad assim %ad {tr,rp:ele dá}{n4:dá-se}{trnc: #fn _c TR,RP: ele dá testemunho – N4: dá-se testemunho %fn} testemunho:
@@ -242,13 +243,13 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 5 %v E acima dela, os querubins de glória, que faziam sombra ao propiciatório. Acerca dessas coisas não #ad é oportuno %ad agora falar em detalhes.
 #v 6 %v Ora, estando estas coisas assim preparadas, os sacerdotes entram a todo tempo no primeiro tabernáculo, para cumprirem as atividades de culto.
 #v 7 %v Mas no segundo, somente o sumo sacerdote, uma vez por ano, não sem sangue, que oferece por si mesmo, e pelos pecados de ignorância do povo.
-#v 8 %v Desta maneira, o Espírito Santo dá a entender que o caminho para o #ad Santo %ad dos Santos não havia sido revelado enquanto o primeiro Tabernáculo ainda estava de pé.
+#v 8 %v Desta maneira, o Espírito Santo dá a entender que o caminho para o Santuário #fn _c Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos %fn não havia sido revelado enquanto o primeiro Tabernáculo ainda estava de pé.
 #v 9 %v Esse é uma figura para o tempo presente, {tr,rp:em que}{n4:segundo a qual}{trnc: #fn _c TR, RP: em que - N4: segundo a qual %fn } são oferecidos ofertas e sacrifícios que não podem, quanto a consciência, tornar perfeito a quem faz o serviço;
 #v 10 %v  #ad pois consistem %ad somente em comidas e bebidas, e vários lavamentos, {tr,rp:e}{n4: #ad que são %ad }{trnc: #fn _c TR,RP: e ordenanças - N4: #ad que são %ad ordenanças %fn} ordenanças para o corpo, #fn _c corpo – lit. carne – também no v. 13 %fn que foram impostas até o tempo da correção.
 #v 11 %v Mas quando veio Cristo, o Sumo Sacerdote dos bens futuros, por meio de um Tabernáculo maior e mais perfeito, não feito por mãos, isto é, não desta criação;
-#v 12 %v ele entrou de uma vez por todas no #ad Santo dos %ad Santos, e obteve uma redenção eterna, não pelo sangue de bodes e bezerros, mas sim, pelo seu próprio sangue.
+#v 12 %v ele entrou de uma vez por todas no Santuário, #fn _c Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos %fn e obteve uma redenção eterna, não pelo sangue de bodes e bezerros, mas sim, pelo seu próprio sangue.
 #v 13 %v Pois, se o sangue de {tr,rp:touros e bodes}{n4:bodes e touros},{trnc: #fn _c N4 troca a ordem: “bodes e touros” %fn } e as cinzas de uma novilha espalhadas sobre os imundos, santifica para a purificação do corpo,
-#v 14 %v quanto mais o sangue do Cristo que, pelo Espírito eterno, ofereceu a si mesmo, imaculado, a Deus, purificará as {tr,rp:vossa}{n4:nossa}{trnc: #fn _c N4: nossa %fn } consciência das obras mortas, para {tr,rp:servirdes}{n4:servirmos}{trnc: #fn _c N4: servirmos %fn } ao Deus vivo!
+#v 14 %v quanto mais o sangue do Cristo que, pelo Espírito eterno, ofereceu a si mesmo, imaculado, a Deus, purificará a {tr,rp:vossa}{n4:nossa}{trnc: #fn _c N4: nossa %fn } consciência das obras mortas, para {tr,rp:servirdes}{n4:servirmos}{trnc: #fn _c N4: servirmos %fn } ao Deus vivo!
 #v 15 %v E por isso ele é o Mediador de um Novo Testamento, #fn _c Testamento – a mesma palavra no grego significa testamento ou pacto %fn a fim de que, com a ocorrência de uma morte para redenção das transgressões sob o primeiro Testamento, os que foram chamados recebam a promessa da herança eterna.
 #v 16 %v Pois onde há um testamento, é necessário que ocorra a morte do testador;
 #v 17 %v porque um testamento se confirma nos mortos, visto que não é válido enquanto o testador vive.
@@ -284,7 +285,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 12 %v Mas #ad Jesus %ad , depois que ofereceu um sacrifício pelos pecados, assentou-se para sempre à direita de Deus;
 #v 13 %v e espera desde então, até que os seus inimigos sejam postos por escabelo dos seus pés.
 #v 14 %v Pois com uma só oferta ele aperfeiçoou para sempre os que são santificados.
-#v 15 %v E também o Espírito Santo nos dá testemunho #ad acerca disso %ad ; pois, depois de haver {tr,rp:anteriormente}{trnc: #fn _c N4 omite “anteriormente”%fn } dito:
+#v 15 %v E também o Espírito Santo nos dá testemunho #ad acerca disso %ad ; pois, depois de haver {tr,rp:anteriormente}{trnc: #fn _c N4 omite “anteriormente” %fn } dito:
 #v 16 %v Este é o pacto que farei com eles
  depois daqueles dias, diz o Senhor: 
  Porei minhas leis em seus corações, 
@@ -293,7 +294,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
  E não mais me lembrarei 
  dos seus pecados e das suas transgressões. #fn _c Ref. Jeremias 31:34 %fn 
 #v 18 %v Ora, onde há perdão #fn _c perdão - tradicionalmente: remissão %fn dessas coisas, não há mais oferta pelo pecado.
-#v 19 %v Portanto, irmãos, já que temos a confiança de entrar no Santo dos Santos pelo sangue de Jesus,
+#v 19 %v Portanto, irmãos, já que temos a confiança de entrar no Santuário #fn _c Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos %fn pelo sangue de Jesus,
 #v 20 %v pelo caminho novo e vivo que ele consagrou para nós através do véu, isto é, pela sua carne;
 #v 21 %v e já que temos um grande Sacerdote sobre a casa de Deus,
 #v 22 %v aproximemo-nos com um coração sincero em plena certeza de fé, tendo os corações aspergidos e purificados da má consciência, e o corpo lavado com água pura;
@@ -414,7 +415,7 @@ E outra vez:
 #v 8 %v Jesus Cristo é o mesmo ontem, hoje, e eternamente.
 #v 9 %v Não vos deixeis levar por doutrinas várias e estranhas. Pois bom ao coração é ser fortificado pela graça, e não por alimentos, que não resultaram em proveito algum aos que com eles se {tr,rp:ocuparam}{n4:ocupam}.{trnc: #fn _c N4: ocupam %fn }
 #v 10 %v Temos um altar, do qual os que servem no tabernáculo não têm autoridade para comer;
-#v 11 %v porque os corpos dos animais, cujo sangue pelo pecado é trazido ao #ad lugar Santo %ad dos Santos pelo Sumo sacerdote, são queimados fora do acampamento.
+#v 11 %v porque os corpos dos animais, cujo sangue pelo pecado é trazido ao Santuário #fn _c Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos %fn pelo Sumo sacerdote, são queimados fora do acampamento.
 #v 12 %v Por isso também Jesus, para santificar o povo pelo seu próprio sangue, sofreu fora do portão da cidade.
 #v 13 %v Assim, saiamos até ele, fora do acampamento, carregando a sua humilhação.
 #v 14 %v Pois não temos aqui cidade permanente, mas buscamos a futura.

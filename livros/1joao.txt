@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeira Carta Universal de João %name
+#snm 1 João %snm
 #ver 20131212 %ver
 #abbr 1Jo %abbr
 %header

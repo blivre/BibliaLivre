@@ -1,5 +1,6 @@
 ﻿#header
 #name Evangelho Segundo Mateus %name
+#snm Mateus %snm
 #ver 20131122 %ver
 #abbr Mt %abbr
 %header

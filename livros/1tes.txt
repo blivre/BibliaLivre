@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeira Carta de Paulo aos Tessalonicenses %name
+#snm 1 Tessalonicenses %snm
 #ver 20131012 %ver
 #abbr 1Ts %abbr
 %header

@@ -1,5 +1,6 @@
 ﻿#header
 #name Livro do Êxodo %name
+#snm Êxodo %snm
 #ver 20130523 %ver
 #abbr Ex %abbr
 %header

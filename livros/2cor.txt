@@ -1,5 +1,6 @@
 ﻿#header
 #name Segunda Carta de Paulo aos Coríntios %name
+#snm 2 Coríntios %snm
 #ver 20131006 %ver
 #abbr 2Co %abbr
 %header

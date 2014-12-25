@@ -1,5 +1,6 @@
 ﻿#header
 #name Rute %name
+#snm Rute %snm
 #ver 20121019 %ver
 #abbr Rt %abbr
 %header

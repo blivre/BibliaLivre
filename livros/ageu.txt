@@ -1,6 +1,7 @@
 ﻿#header
 #name Ageu %name
-#ver 20120317 %ver
+#snm Ageu %snm
+#ver 20140818 %ver
 #abbr Ag %abbr
 %header
 
@@ -70,7 +71,7 @@ diz o SENHOR;
 #v 17 %v Eu vos feri com ferrugem, mofo, e granizo em toda obra de vossas mãos; mas não vos #ad convertestes %ad a mim,
 diz o SENHOR. 
 #v 18 %v Considerai, pois, isto, desde este dia em diante, desde o dia vigésimo quatro #ad dia %ad do nono mês, desde o dia em o fundamento do templo do SENHOR foi posto; considerai.
-#v 19 %v Ainda há semente semente no celeiro? A videira, a figueira, a romeira, e oliveira ainda não têm dado frutos; mas a partir de hoje eu #ad vos %ad abençoarei.
+#v 19 %v Ainda há semente no celeiro? A videira, a figueira, a romeira, e oliveira ainda não têm dado frutos; mas a partir de hoje eu #ad vos %ad abençoarei.
 #v 20 %v E a palavra do SENHOR veio pela segunda vez a Ageu, ao vigésimo quarto #ad dia %ad do mês, dizendo:
 #v 21 %v Fala a Zorobabel, governador de Judá, dizendo:
  Eu farei tremer os céus e a terra; 

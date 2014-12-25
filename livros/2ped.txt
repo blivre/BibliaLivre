@@ -1,5 +1,6 @@
 ﻿#header
 #name Segunda Carta Universal de Pedro %name
+#snm 2 Pedro %snm
 #ver 20131016 %ver
 #abbr 2Pd %abbr
 %header

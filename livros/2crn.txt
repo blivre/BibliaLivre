@@ -1,5 +1,6 @@
 ﻿#header
 #name Segundo Livro de Crônicas %name
+#snm 2 Crônicas %snm
 #ver 20130605 %ver
 #abbr 2Cr %abbr
 %header

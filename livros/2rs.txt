@@ -1,5 +1,6 @@
 ﻿#header
 #name Segundo Livro dos Reis %name
+#snm 2 Reis %snm
 #ver 20120914 %ver
 #abbr 2Rs %abbr
 %header

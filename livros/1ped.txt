@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeira Carta Universal de Pedro %name
+#snm 1 Pedro %snm
 #ver 20131015 %ver
 #abbr 1Pd %abbr
 %header

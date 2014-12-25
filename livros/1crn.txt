@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeiro Livro de Crônicas %name
+#snm 1 Crônicas %snm
 #ver 20130522 %ver
 #abbr 1Cr %abbr
 %header

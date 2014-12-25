@@ -1,5 +1,6 @@
 ﻿#header
 #name Daniel %name
+#snm Daniel %snm
 #ver 20111217 %ver
 #abbr Dn %abbr
 %header

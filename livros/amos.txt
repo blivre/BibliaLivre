@@ -1,5 +1,6 @@
 ﻿#header
 #name Amós %name
+#snm Amós %snm
 #ver 20120914 %ver
 #abbr Am %abbr
 %header

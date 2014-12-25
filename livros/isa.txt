@@ -1,5 +1,6 @@
 ﻿#header
 #name Isaías %name
+#snm Isaías %snm
 #ver 20130713 %ver
 #abbr Is %abbr
 %header

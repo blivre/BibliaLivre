@@ -1,5 +1,6 @@
 ﻿#header
 #name Malaquias %name
+#snm Malaquias %snm
 #ver 20120317 %ver
 #abbr Ml %abbr
 %header

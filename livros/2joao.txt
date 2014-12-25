@@ -1,5 +1,6 @@
 ﻿#header
 #name Segunda Carta de João %name
+#snm 2 João %snm
 #ver 2013117 %ver
 #abbr 2Jo %abbr
 %header

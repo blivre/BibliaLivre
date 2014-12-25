@@ -1,5 +1,6 @@
 ﻿#header
 #name Levítico %name
+#snm Levítico %snm
 #ver 20120209 %ver
 #abbr Lv %abbr
 %header

@@ -1,5 +1,6 @@
 ﻿#header
 #name Zacarias %name
+#snm Zacarias %snm
 #ver 20120914 %ver
 #abbr Zc %abbr
 %header

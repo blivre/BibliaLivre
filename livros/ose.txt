@@ -1,6 +1,7 @@
 ﻿#header
 #name Oseias %name
-#ver 20120914 %ver
+#snm Oseias %snm
+#ver 20140818 %ver
 #abbr Os %abbr
 %header
 
@@ -259,5 +260,5 @@ e aos morros:
 #v 5 %v Eu serei a Israel como o orvalho; ele florescerá como lírio, e estenderá suas raízes como o #ad cedro do %ad Líbano.
 #v 6 %v Seus ramos se estenderão; sua beleza como a da oliveira, e sua fragrância como o #ad cedro do %ad Líbano.
 #v 7 %v Voltarão, e habitarão abaixo de sua sombra: serão vivificados #ad como %ad o trigo, e florescerão como a videira; sua fama será como o vinho do Líbano.
-#v 8 %v Ó Efraim, o que mais eu tenho a ver com os ídolos? Eu o reponderei, e dele cuidarei; serei a ele como a faia #fn _c faia – trad. alt. cipreste, pinheiro %fn verde; de mim vem #fn _c vem – lit. é achado %fn o teu fruto.
+#v 8 %v Ó Efraim, o que mais eu tenho a ver com os ídolos? Eu o responderei, e dele cuidarei; serei a ele como a faia #fn _c faia – trad. alt. cipreste, pinheiro %fn verde; de mim vem #fn _c vem – lit. é achado %fn o teu fruto.
 #v 9 %v Quem é sábio entenda estas coisas, e o prudente as reconheça; porque os caminhos do SENHOR são retos, e os justos andarão neles; mas os transgressores neles cairão.

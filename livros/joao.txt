@@ -1,5 +1,6 @@
 ﻿#header
 #name Evangelho Segundo João %name
+#snm João %snm
 #ver 20131212 %ver
 #abbr Jo %abbr
 %header

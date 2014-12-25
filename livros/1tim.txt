@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeira Carta de Paulo a Timóteo %name
+#snm 1 Timóteo %snm
 #ver 20131012 %ver
 #abbr 1Tm %abbr
 %header

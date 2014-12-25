@@ -1,6 +1,7 @@
 ﻿#header
 #name Números %name
-#ver 20121123 %ver
+#snm Números %snm
+#ver 20140308 %ver
 #abbr Nm %abbr
 %header
 
@@ -446,21 +447,21 @@
 
 #c 11 %c
 #v 1 %v E aconteceu que o povo se queixou aos ouvidos do SENHOR: e ouviu-o o SENHOR, e ardeu seu furor, e acendeu-se neles fogo do SENHOR e consumiu um extremo do acampamento.
-#v 2 %v Então o povo deu vozes a Moisés, e Moisés orou ao SENHOR, e apagou-se o fogo.
+#v 2 %v Então o povo clamou a Moisés, e Moisés orou ao SENHOR, e apagou-se o fogo.
 #v 3 %v E chamou a aquele lugar Taberá; porque o fogo do SENHOR se acendeu neles.
 #v 4 %v E o vulgo que havia em meio teve um vivo desejo, e voltaram-se, e ainda choraram os filhos de Israel, e disseram: Quem nos dera a comer carne!
 #v 5 %v Nos lembramos do peixe que comíamos no Egito de graça, dos pepinos, e dos melões, e dos alhos-porós, e das cebolas, e dos alhos:
-#v 6 %v E agora nossa alma se seca; que nada a não ser maná vem nossos olhos.
+#v 6 %v E agora nossa alma se seca; que nada a não ser maná vem #ad diante dos %ad nossos olhos.
 #v 7 %v E era o maná como semente de coentro, e sua cor como cor de bdélio.
 #v 8 %v Espalhava-se o povo, e recolhiam, e moíam em moinhos, ou malhavam em pilões, e o coziam em caldeira, ou faziam dele tortas: e seu sabor era como sabor de azeite novo.
 #v 9 %v E quando descia o orvalho sobre o acampamento de noite, o maná descia de sobre ele.
-#v 10 %v E ouviu Moisés ao povo, que chorava por suas famílias, cada um à porta de sua tenda: e o furor do SENHOR se acendeu em grande maneira; também apareceu mal a Moisés.
+#v 10 %v E ouviu Moisés ao povo, que chorava por suas famílias, cada um à porta de sua tenda: e o furor do SENHOR se acendeu em grande maneira; também pareceu mal a Moisés.
 #v 11 %v E disse Moisés ao SENHOR: Por que fizeste mal a teu servo? e por que não achei favor em teus olhos, que puseste a carga de todo este povo sobre mim?
 #v 12 %v Concebi eu a todo este povo? Gerei-o eu, para que me digas: Leva-o em teu peito, como leva a que cria ao que mama, à terra da qual juraste a seus pais?
-#v 13 %v De onde tenho eu carne para dar a todo este povo? porque choram a mim, dizendo: Dá-nos carne que comamos.
+#v 13 %v De onde tenho eu carne para dar a todo este povo? porque choram a mim, dizendo: Dá-nos carne para comer.
 #v 14 %v Não posso eu sozinho suportar a todo este povo, que me é pesado em excesso.
-#v 15 %v E se assim o fazes tu comigo, eu te rogo que me dês morte, se achei favor em teus olhos; e que eu não veja meu mal.
-#v 16 %v Então o SENHOR disse a Moisés: Junta-me setenta homens dos anciãos de Israel, que tua sabes que são anciãos do povo e seus principais; e traze-os à porta do tabernáculo do testemunho, e esperem ali contigo.
+#v 15 %v E se assim o fazes tu comigo, eu te rogo que me dês a morte, se achei favor em teus olhos; e que eu não veja meu mal.
+#v 16 %v Então o SENHOR disse a Moisés: Junta-me setenta homens dos anciãos de Israel, de quem sabes que são anciãos do povo e seus oficiais; e traze-os à porta do tabernáculo do testemunho, e esperem ali contigo.
 #v 17 %v E eu descerei e falarei ali contigo; e tomarei do espírito que está em ti, e porei neles; e levarão contigo a carga do povo, e não a levarás tu sozinho.
 #v 18 %v Porém dirás ao povo: Santificai-vos para amanhã, e comereis carne: pois que chorastes em ouvidos do SENHOR, dizendo: Quem nos dera a comer carne! Certamente melhor nos ia no Egito! O SENHOR, pois, vos dará carne, e comereis.
 #v 19 %v Não comereis um dia, nem dois dias, nem cinco dias, nem dez dias, nem vinte dias;
@@ -482,7 +483,7 @@
 #v 35 %v De Quibrote-Hataavá moveu o povo a Hazerote, e pararam em Hazerote.
 
 #c 12 %c
-#v 1 %v E falaram Miriã e Arão contra Moisés por causa da mulher e que havia tomado: porque ele havia tomado mulher etíope.
+#v 1 %v E falaram Miriã e Arão contra Moisés por causa da mulher cuxita que havia tomado: porque ele havia tomado mulher cuxita.
 #v 2 %v E disseram: Somente por Moisés falou o SENHOR? Não falou também por nós? E ouviu-o o SENHOR.
 #v 3 %v E aquele homem Moisés era muito manso, mais que todos os homens que havia sobre a terra,
 #v 4 %v E logo disse o SENHOR a Moisés, e a Arão, e a Miriã: Saí vós três ao tabernáculo do testemunho. E saíram eles três.
@@ -531,7 +532,7 @@
 #v 29 %v Amaleque habita a terra do sul; e os heteus, e os jebuseus, e os amorreus, habitam no monte; e os cananeus habitam junto ao mar, e à beira do Jordão.
 #v 30 %v Então Calebe fez calar o povo diante de Moisés, e disse: Subamos logo, e passemos a ela; que mais poderemos que ela.
 #v 31 %v Mas os homens que subiram com ele, disseram: Não poderemos subir contra aquele povo; porque é mais forte que nós.
-#v 32 %v E falaram mal entre os filhos de Israel da terra que haviam reconhecido, dizendo: A terra por de onde passamos para reconhecê-la, é terra que traga a seus moradores; e todo o povo que vimos em meio dela, são homens de grande estatura.
+#v 32 %v E falaram mal entre os filhos de Israel da terra que haviam reconhecido, dizendo: A terra por de onde passamos para reconhecê-la, é terra que consome a seus moradores; e todo o povo que vimos em meio dela, são homens de grande estatura.
 #v 33 %v Também vimos ali gigantes, filhos de Anaque, raça dos gigantes: e éramos nós, à nossa aparência, como gafanhotos; e assim lhes parecíamos a eles.
 
 #c 14 %c
@@ -781,7 +782,7 @@
 #v 29 %v E vendo toda a congregação que Arão era morto, fizeram-lhe luto por trinta dias todas as famílias de Israel.
 
 #c 21 %c
-#v 1 %v E ouvindo os cananeus, o rei de Arade, o qual habitava ao sul, que vinha Israel pelo caminho dos sentinelas, lutou com Israel, e tomou dele presa.
+#v 1 %v E quando o cananeu, o rei de Arade, que habitava ao sul, ouviu falar que Israel vinha pelo caminho de Atarim, lutou contra Israel, e dele levou alguns como prisioneiros.
 #v 2 %v Então Israel fez voto ao SENHOR, e disse: Se com efeito entregares a este povo em minha mão, eu destruirei suas cidades.
 #v 3 %v E o SENHOR escutou a voz de Israel, e entregou aos cananeus, e destruiu-os a eles e a suas cidades; e chamou o nome daquele lugar Hormá.
 #v 4 %v E partiram do monte de Hor, caminho do mar Vermelho, para rodear a terra de Edom; e abateu-se o ânimo do povo pelo caminho.
@@ -794,37 +795,37 @@
 #v 11 %v E partidos de Obote, assentaram em Ijé-Abarim, no deserto que está diante de Moabe, ao oriente.
 #v 12 %v Partidos dali, assentaram no vale de Zerede.
 #v 13 %v De ali moveram, e assentaram da outra parte de Arnom, que está no deserto, e que sai do termo dos amorreus; porque Arnom é termo de Moabe, entre Moabe e os amorreus.
-#v 14 %v Portanto se diz no livro das batalhas do SENHOR: O que fez no mar Vermelho, E nos ribeiros de Arnom:
-#v 15 %v E à corrente dos ribeiros Que vai a parar em Ar, E descansa no termo de Moabe.
+#v 14 %v Por isso se diz no livro das batalhas do SENHOR: Vaebe em Sufa, #fn _c Provavelmente nome de lugares. A versão em traduções tradicionais “O que fez no mar Vermelho” é pouco provável %fn , e nos ribeiros de Arnom:
+#v 15 %v E à corrente dos ribeiros que vai a parar em Ar, e descansa no termo de Moabe.
 #v 16 %v E dali vieram a Beer: este é o poço do qual o SENHOR disse a Moisés: Junta ao povo, e lhes darei água.
 #v 17 %v Então cantou Israel esta canção: Sobe, ó poço; a ele cantai:
-#v 18 %v Poço, o qual cavaram os senhores; Cavaram-no os príncipes do povo, E o legislador, com seus bordões.
+#v 18 %v Poço, o qual cavaram os senhores; Cavaram-no os príncipes do povo, E o legislador, com seus bordões. E do deserto #ad partiram %ad para Matana.
 #v 19 %v E de Mataná a Naaliel: e de Naaliel a Bamote:
 #v 20 %v E de Bamote ao vale que está nos campos de Moabe, e ao cume de Pisga, que está voltado a Jesimom.
 #v 21 %v E enviou Israel embaixadores a Seom, rei dos amorreus, dizendo:
-#v 22 %v Passarei por tua terra: não nos apartaremos pelos campos, nem pelas vinhas; não beberemos as águas dos poços: pelo caminho real iremos, até que passemos teu termo.
-#v 23 %v Mas Seom não deixou passar a Israel por seu termo: antes juntou Seom todo seu povo, e saiu contra Israel no deserto: e veio a Jaza, e lutou contra Israel.
-#v 24 %v E feriu-lhe Israel a fio de espada, e tomou sua terra desde Arnom até Jaboque, até os filhos de Amom: porque o termo dos filhos de Amom era forte.
+#v 22 %v Deixa-me passar por tua terra: não nos desviaremos pelos campos, nem pelas vinhas; não beberemos as águas dos poços; pelo caminho real iremos, até que passemos os teus termos.
+#v 23 %v Mas Seom não deixou passar a Israel por seus termos: antes juntou Seom todo seu povo, e saiu contra Israel no deserto: e veio a Jaza, e lutou contra Israel.
+#v 24 %v Mas Israel o feriu a fio de espada, e tomou sua terra desde Arnom até Jaboque, até os filhos de Amom: porque o termo dos filhos de Amom era forte.
 #v 25 %v E tomou Israel todas estas cidades: e habitou Israel em todas as cidades dos amorreus, em Hesbom e em todas suas aldeias.
 #v 26 %v Porque Hesbom era a cidade de Seom, rei dos amorreus; o qual havia tido guerra antes com o rei de Moabe, e tomado de seu poder toda a sua terra até Arnom.
 #v 27 %v Portanto, dizem os proverbistas: Vinde a Hesbom, Edifique-se e repare-se a cidade de Seom:
-#v 28 %v Que fogo saiu de Hesbom, E chama da cidade de Seom, E consumiu a Ar de Moabe, Aos senhores dos altos de Arnom.
-#v 29 %v Ai de ti, Moabe! Pereceste, povo de Camos: Pôs seus filhos em fuga, E suas filhas em cativeiro, Por Seom rei dos amorreus.
+#v 28 %v Que fogo saiu de Hesbom, E chama da cidade de Seom, E consumiu a Ar de Moabe, aos senhores dos altos de Arnom.
+#v 29 %v Ai de ti, Moabe! Pereceste, povo de Camos: Pôs seus filhos em fuga, E suas filhas em cativeiro, por Seom rei dos amorreus.
 #v 30 %v Mas devastamos o reino deles; pereceu Hesbom até Dibom, E destruímos até Nofá e Medeba.
 #v 31 %v Assim habitou Israel na terra dos amorreus.
 #v 32 %v E enviou Moisés a reconhecer a Jazer; e tomaram suas aldeias, e expulsaram aos amorreus que estavam ali.
-#v 33 %v E voltaram, e subiram caminho de Basã, e saiu contra eles Ogue rei de Basã, ele e todo seu povo, para lutar em Edrei.
+#v 33 %v E voltaram, e subiram caminho de Basã. E Ogue, rei de Basã, ele e todo o seu povo, saíram contra eles, para lutar em Edrei.
 #v 34 %v Então o SENHOR disse a Moisés: Não tenhas medo dele, que em tua mão o dei, a o e a todo seu povo, e a sua terra; e farás dele como fizeste de Seom, rei dos amorreus, que habitava em Hesbom.
 #v 35 %v E feriram a ele, e a seus filhos, e a toda sua gente, sem que lhe restasse um, e possuíram sua terra.
 
 #c 22 %c
-#v 1 %v E moveram os filhos de Israel, e assentaram nos campos de Moabe, desta parte do Jordão de Jericó.
+#v 1 %v Depois os filhos de Israel partiram, e se assentaram nos campos de Moabe, desta parte do Jordão de Jericó.
 #v 2 %v E viu Balaque, filho de Zipor, tudo o que Israel havia feito aos amorreus.
 #v 3 %v E Moabe temeu muito por causa do povo que era muito; e angustiou-se Moabe por causa dos filhos de Israel.
 #v 4 %v E disse Moabe aos anciãos de Midiã: Agora lamberá esta gente todos nossos entornos, como lambe o boi a grama do campo. E Balaque, filho de Zipor, era então rei de Moabe.
 #v 5 %v Portanto enviou mensageiros a Balaão filho de Beor, a Petor, que está junto ao rio na terra dos filhos de seu povo, para que o chamassem, dizendo: Um povo saiu do Egito, e eis que cobre a face da terra, e habita diante de mim:
 #v 6 %v Vem pois agora, te rogo, amaldiçoa para mim este povo, porque é mais forte que eu: talvez poderei eu feri-lo, e lançá-lo da terra: que eu sei que o que tu abençoares, será bendito, e o que tu amaldiçoares, será maldito.
-#v 7 %v E foram os anciãos de Moabe, e os anciãos de Midiã, com as dádivas de adivinhação em sua mão, e chegaram a Balaão, e lhe disseram as palavras de Balaque.
+#v 7 %v E foram os anciãos de Moabe e os anciãos de Midiã, com o #ad pagamento pela %ad adivinhação em sua mão, e chegaram a Balaão, e lhe disseram as palavras de Balaque.
 #v 8 %v E ele lhes disse: Repousai aqui esta noite, e eu vos referirei as palavras, como o SENHOR me falar. Assim os príncipes de Moabe se restaram com Balaão.
 #v 9 %v E veio Deus a Balaão, e disse-lhe: Que homens são estes que estão contigo?
 #v 10 %v E Balaão respondeu a Deus: Balaque filho de Zipor, rei de Moabe, enviou a mim dizendo:
@@ -837,20 +838,20 @@
 #v 17 %v Porque sem dúvida te honrarei muito, e farei tudo o que me disseres: vem pois agora, almaldiçoa para mim a este povo.
 #v 18 %v E Balaão respondeu, e disse aos servos de Balaque: Ainda que Balaque me desse sua casa cheia de prata e ouro, não posso transgredir a palavra do SENHOR meu Deus, para fazer coisa pequena nem grande.
 #v 19 %v Rogo-vos, portanto, agora, que repouseis aqui esta noite, para que eu saiba que me volta a dizer o SENHOR.
-#v 20 %v E veio Deus a Balaão de noite, e disse-lhe: Se vierem a chamar-te homens, levanta-te e vai com eles: porém farás o que eu te disser.
+#v 20 %v E veio Deus a Balaão de noite, e disse-lhe: Se homens vierem a te chamar, levanta-te e vai com eles: porém farás o que eu te disser.
 #v 21 %v Assim Balaão se levantou pela manhã, e preparou sua jumenta, e foi com os príncipes de Moabe.
 #v 22 %v E o furor de Deus se acendeu porque ele ia; e o anjo do SENHOR se pôs no caminho por adversário seu. Ia, pois, ele montado sobre sua jumenta, e com ele dois servos seus.
-#v 23 %v E a jumenta viu ao anjo do SENHOR, que estava no caminho com sua espada nua em sua mão; e apartou-se a jumenta do caminho, e ia pelo campo. Então feriu Balaão ao jumenta para fazê-la voltar ao caminho.
+#v 23 %v E a jumenta viu o anjo do SENHOR, que estava no caminho com sua espada exposta em sua mão; então a jumenta desviou-se do caminho, e foi pelo campo. Em seguida, Balaão espancou a jumenta para fazê-la voltar ao caminho.
 #v 24 %v Mas o anjo do SENHOR se pôs em uma vereda de vinhas que tinha parede de uma parte e parede de outra.
-#v 25 %v E vendo a jumenta ao anjo do SENHOR, apegou-se à parede, e apertou contra a parede o pé de Balaão: e ele voltou a feri-la.
+#v 25 %v E quando a jumenta viu o anjo do SENHOR, apegou-se à parede, e apertou contra a parede o pé de Balaão: e ele voltou a espancá-la.
 #v 26 %v E o anjo do SENHOR passou mais ali, e pôs-se em um lugar estreito, onde não havia caminho para desviar-se nem à direita nem à esquerda.
-#v 27 %v E vendo a jumenta ao anjo do SENHOR, lançou-se debaixo de Balaão: e irou-se Balaão, e feriu à jumenta com um pau.
+#v 27 %v E vendo a jumenta ao anjo do SENHOR, lançou-se debaixo de Balaão: e irou-se Balaão, e feriu à jumenta com um bordão.
 #v 28 %v Então o SENHOR abriu a boca da jumenta, a qual disse a Balaão: Que te fiz, que me feriste estas três vezes?
 #v 29 %v E Balaão respondeu à jumenta: Porque te zombaste de mim: bom seria se eu tivesse espada em minha mão, que agora te mataria!
 #v 30 %v E a jumenta disse a Balaão: Não sou eu tua jumenta? Sobre mim montaste desde que tu me tens até hoje; costumei a fazê-lo assim contigo? E ele respondeu: Não.
 #v 31 %v Então o SENHOR abriu os olhos a Balaão, e viu ao anjo do SENHOR que estava no caminho, e tinha sua espada nua em sua mão. E Balaão fez reverência, e inclinou-se sobre seu rosto.
 #v 32 %v E o anjo do SENHOR lhe disse: Por que feriste tua jumenta estas três vezes? eis que eu saí para me opor a ti, porque teu caminho é perverso diante de mim:
-#v 33 %v A jumenta me há visto, e afastou-se logo de diante de mim estas três vezes: e se de mim não se houvesse afastado, eu também agora mataria a ti, e a ela deixaria viva.
+#v 33 %v A jumenta me viu, e afastou-se logo de diante de mim estas três vezes: e se de mim não se houvesse afastado, eu também agora mataria a ti, e a ela deixaria viva.
 #v 34 %v Então Balaão disse ao anjo do SENHOR: Pequei, que não sabia que tu te punhas diante de mim no caminho: mas agora, se te parece mal, eu me voltarei.
 #v 35 %v E o anjo do SENHOR disse a Balaão: Vai com esses homens: porém a palavra que eu te disser, essa falarás. Assim Balaão foi com os príncipes de Balaque.
 #v 36 %v E ouvindo Balaque que Balaão vinha, saiu a recebê-lo à cidade de Moabe, que está junto ao termo de Arnom, que é a extremidade das fronteiras.
@@ -858,7 +859,7 @@
 #v 38 %v E Balaão respondeu a Balaque: Eis que eu vim a ti: mas poderei agora falar alguma coisa? A palavra que Deus puser em minha boca, essa falarei.
 #v 39 %v E foi Balaão com Balaque, e vieram à Quiriate-Huzote.
 #v 40 %v E Balaque fez matar bois e ovelhas, e enviou a Balaão, e aos príncipes que estavam com ele.
-#v 41 %v E no dia seguinte Balaque tomou a Balaão, e o fez subir aos altos de Baal, e desde ali viu a extremidade do povo.
+#v 41 %v E no dia seguinte Balaque tomou a Balaão, e o fez subir aos lugares altos de Baal, e desde ali viu a extremidade do povo.
 
 #c 23 %c
 #v 1 %v E Balaão disse a Balaque: Edifica para mim aqui sete altares, e prepara-me aqui sete bezerros e sete carneiros.

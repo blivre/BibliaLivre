@@ -1,5 +1,6 @@
 ﻿#header
 #name Carta de Paulo a Filemom %name
+#snm Filemom %snm
 #ver 20131012 %ver
 #abbr Fm %abbr
 %header

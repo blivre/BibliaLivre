@@ -1,22 +1,23 @@
-#header
-#name Terceira Carta de Jo„o %name
+Ôªø#header
+#name Terceira Carta de Jo√£o %name
+#snm 3 Jo√£o %snm
 #ver 20131126 %ver
 #abbr 3Jo %abbr
 %header
 
 #c 1 %c
-#v 1 %v O anci„o, ao amado Gaio, a quem amo em verdade.
-#v 2 %v Amado, eu desejo que estejas bem em todas as coisas, e que tenhas sa˙de, assim como bem est· a tua alma.
-#v 3 %v Pois muito me alegrei quando irm„os chegaram, e testemunharam da tua verdade, como tu andas na verdade.
-#v 4 %v N„o tenho maior alegria do que esta: #ad a de %ad ouvir que meus filhos andam na verdade.
-#v 5 %v Amado, tu ages fielmente em tudo o que fazes aos irm„os, inclusive aos forasteiros.
-#v 6 %v Estes, diante da igreja, testemunharam do teu amor; aos quais, tu agir·s bem ao supri-los de modo digno #ad da vontade %ad de Deus.
-#v 7 %v Pois foi por causa do Nome {rp,n4:[}dele{rp,n4:]}{trnc: #fn _c N4 omite ìdeleî %fn} que partiram em jornada, sem nada aceitar dos gentios. #fn _c gentios ñ i.e., dos gentios n„o-crist„os %fn 
-#v 8 %v Portanto devemos {tr,rp:acolher}{n4:apoiar}{trnc: #fn _c TR,RP: acolher ñ N4: apoiar %fn} tais pessoas, para que sejamos cooperadores da verdade.
-#v 9 %v Eu tenho escrito {n4:algo}{trnc: #fn _c N4 adiciona: ìalgoî %fn} aos da igreja; #fn _c aos da igreja ñ lit. ‡ igreja %fn porÈm DiÛtrefes, que busca ser o comandante deles, n„o nos recebe.
-#v 10 %v Por isso, se eu vier, trarei ‡ memÛria os seus feitos, falando ele contra nÛs com palavras maliciosas; e n„o satisfeito com isso, n„o recebe aos irm„os, proÌbe aos que se dispıem a fazer, e os expulsa da igreja.
-#v 11 %v Amado, n„o imites o mal, mas sim o bem. Quem faz o bem È de Deus, mas quem faz o mal nunca viu Deus.
-#v 12 %v DemÈtrio tem alcanÁado #ad bom %ad testemunho de todos, inclusive da prÛpria verdade. TambÈm nÛs damos testemunho, e {tr,rp:vÛs sabeis}{n4:tu sabes}{tr,rp,trnc: #fn _c N4: tu sabes %fn }{n4: #fn _c TR, RP: vÛs sabeis %fn} que o nosso testemunho È verdadeiro.
-#v 13 %v Eu tinha muitas coisas para escrever, porÈm n„o quero escrever a ti #ad sobre elas %ad com tinta e pena;
+#v 1 %v O anci√£o, ao amado Gaio, a quem amo em verdade.
+#v 2 %v Amado, eu desejo que estejas bem em todas as coisas, e que tenhas sa√∫de, assim como bem est√° a tua alma.
+#v 3 %v Pois muito me alegrei quando irm√£os chegaram, e testemunharam da tua verdade, como tu andas na verdade.
+#v 4 %v N√£o tenho maior alegria do que esta: #ad a de %ad ouvir que meus filhos andam na verdade.
+#v 5 %v Amado, tu ages fielmente em tudo o que fazes aos irm√£os, inclusive aos forasteiros.
+#v 6 %v Estes, diante da igreja, testemunharam do teu amor; aos quais, tu agir√°s bem ao supri-los de modo digno #ad da vontade %ad de Deus.
+#v 7 %v Pois foi por causa do Nome {rp,n4:[}dele{rp,n4:]}{trnc: #fn _c N4 omite ‚Äúdele‚Äù %fn} que partiram em jornada, sem nada aceitar dos gentios. #fn _c gentios ‚Äì i.e., dos gentios n√£o-crist√£os %fn 
+#v 8 %v Portanto devemos {tr,rp:acolher}{n4:apoiar}{trnc: #fn _c TR,RP: acolher ‚Äì N4: apoiar %fn} tais pessoas, para que sejamos cooperadores da verdade.
+#v 9 %v Eu tenho escrito {n4:algo}{trnc: #fn _c N4 adiciona: ‚Äúalgo‚Äù %fn} aos da igreja; #fn _c aos da igreja ‚Äì lit. √† igreja %fn por√©m Di√≥trefes, que busca ser o comandante deles, n√£o nos recebe.
+#v 10 %v Por isso, se eu vier, trarei √† mem√≥ria os seus feitos, falando ele contra n√≥s com palavras maliciosas; e n√£o satisfeito com isso, n√£o recebe aos irm√£os, pro√≠be aos que se disp√µem a fazer, e os expulsa da igreja.
+#v 11 %v Amado, n√£o imites o mal, mas sim o bem. Quem faz o bem √© de Deus, mas quem faz o mal nunca viu Deus.
+#v 12 %v Dem√©trio tem alcan√ßado #ad bom %ad testemunho de todos, inclusive da pr√≥pria verdade. Tamb√©m n√≥s damos testemunho, e {tr,rp:v√≥s sabeis}{n4:tu sabes}{tr,rp,trnc: #fn _c N4: tu sabes %fn }{n4: #fn _c TR, RP: v√≥s sabeis %fn} que o nosso testemunho √© verdadeiro.
+#v 13 %v Eu tinha muitas coisas para escrever, por√©m n√£o quero escrever a ti #ad sobre elas %ad com tinta e pena;
 #v 14 %v mas espero te ver em breve, e falaremos face a face.
-#v 15 %v Paz seja contigo. Os amigos #ad daqui %ad te sa˙dam. Sa˙da os amigos #ad daÌ %ad , cada um por nome.
+#v 15 %v Paz seja contigo. Os amigos #ad daqui %ad te sa√∫dam. Sa√∫da os amigos #ad da√≠ %ad , cada um por nome.

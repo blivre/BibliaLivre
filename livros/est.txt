@@ -1,5 +1,6 @@
 ﻿#header
 #name Ester %name
+#snm Ester %snm
 #ver 20120715 %ver
 #abbr Est %abbr
 %header

@@ -1,5 +1,6 @@
 ﻿#header
 #name Segunda Carta de Paulo aos Tessalonicenses %name
+#snm 2 Tessalonicenses %snm
 #ver 20131012 %ver
 #abbr 2Ts %abbr
 %header

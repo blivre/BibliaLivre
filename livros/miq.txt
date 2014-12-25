@@ -1,5 +1,6 @@
 ﻿#header
 #name Miqueias %name
+#snm Miqueias %snm
 #ver 20121224 %ver
 #abbr Mq %abbr
 %header

@@ -1,5 +1,6 @@
 ﻿#header
 #name Cantares de Salomão %name
+#snm Cantares %snm
 #ver 20110128 %ver
 #abbr Ct %abbr
 %header

@@ -1,5 +1,6 @@
 ﻿#header
 #name Deuteronômio %name
+#snm Deuteronômio %snm
 #ver 20121203 %ver
 #abbr Dt %abbr
 %header
@@ -470,7 +471,7 @@
 #v 8 %v Mas abrirás a ele tua mão generosamente, e com efeito lhe emprestarás o que basta, o que houver necessidade.
 #v 9 %v Guarda-te que não haja em teu coração perverso pensamento, dizendo: Próximo está o ano sétimo, o da remissão; e tua olho seja maligno sobre teu irmão necessitado para não dar-lhe: que ele poderá clamar contra ti ao SENHOR, e se te imputará a pecado.
 #v 10 %v Sem falta lhe darás, e não seja teu coração maligno quando lhe deres: que por ele te abençoará o SENHOR teu Deus em todos os teus feitos, e em tudo o que puseres mão.
-#v 11 %v Porque não faltarão necessitados do meio da terra; por isso eu te mando, dizendo: Abrirás tua mão a teu irmão, a tua pobre, e a teu necessitado em tua terra.
+#v 11 %v Porque não faltarão necessitados do meio da terra; por isso eu te mando, dizendo: Abrirás tua mão a teu irmão, a teu pobre, e a teu necessitado em tua terra.
 #v 12 %v Quando se vender a ti teu irmão hebreu ou hebreia, e te houver servido seis anos, ao sétimo ano lhe despedirás livre de ti.
 #v 13 %v E quando o despedires livre de ti, não o enviarás vazio:
 #v 14 %v Tu lhe abastecerás generosamente de tuas ovelhas, de tua eira, e de teu lagar; lhe darás daquilo em que o SENHOR te houver abençoado.

@@ -1,6 +1,7 @@
 ﻿#header
 #name Atos dos Apóstolos %name
-#ver 20131105 %ver
+#snm Atos %snm
+#ver 20141102 %ver
 #abbr At %abbr
 %header
 
@@ -168,7 +169,7 @@
 #v 29 %v E agora, Senhor, observa as ameaças deles, e dá a teus servos, que com toda ousadia falem tua palavra;
 #v 30 %v Estendendo tua mão para a cura, e que se façam sinais e milagres pelo nome de teu Santo filho Jesus.
 #v 31 %v E tendo orado, agitou-se o lugar em que eles estavam juntos, e foram todos cheios do Espírito Santo, e falavam a palavra de Deus com ousadia.
-#v 32 %v E da multidão dos que criam, era um oração e #ad uma %ad alma; e ninguém dizia ser próprio coisa alguma de seus bens, mas todas as coisas lhes eram comuns.
+#v 32 %v E a multidão dos que criam, era de um só oração e uma só alma; e ninguém dizia ser próprio coisa alguma de seus bens, mas todas as coisas lhes eram comuns.
 #v 33 %v E com grande poder os apóstolos davam testemunho da ressurreição do Senhor Jesus; e em todos eles havia grande graça.
 #v 34 %v Porque também nenhum necessitado havia entre eles; porque todos os que possuíam propriedades de terras, ou casas, vendendo #ad -as %ad , traziam o valor das coisas vendidas, e #ad o %ad depositavam junto aos pés dos apóstolos.
 #v 35 %v E a cada um se repartia segundo cada qual tinha necessidade.

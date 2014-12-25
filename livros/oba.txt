@@ -1,5 +1,6 @@
 ﻿#header
 #name Obadias %name
+#snm Obadias %snm
 #ver 20120211 %ver
 #abbr Ob %abbr
 %header

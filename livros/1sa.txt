@@ -1,5 +1,6 @@
 ﻿#header
 #name Primeiro Livro de Samuel %name
+#snm 1 Samuel %snm
 #ver 20130406 %ver
 #abbr 1Sm %abbr
 %header

@@ -1,5 +1,6 @@
 ﻿#header
 #name Carta Universal de Tiago %name
+#snm Tiago %snm
 #ver 20131014 %ver
 #abbr Tg %abbr
 %header
@@ -141,4 +142,3 @@ e ele foi chamado amigo de Deus.
 #v 18 %v E outra vez orou, e o céu deu chuva, e a terra produziu o seu fruto.
 #v 19 %v Irmãos, se algum dentre vós tiver desviado da verdade, e alguém o converter,
 #v 20 %v Saiba ele que, aquele tendo convertido um pecador do erro de seu caminho, salvará uma alma da morte, e cobrirá uma multidão de pecados.
-Nome dos revisores: Mario Sérgio de Souza Figueira e Diego Renato dos Santos

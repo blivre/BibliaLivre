@@ -1,5 +1,6 @@
 ﻿#header
 #name Livro dos Salmos %name
+#snm Salmos %snm
 #ver 20130203 %ver
 #abbr Sal %abbr
 %header
@@ -1390,7 +1391,7 @@ Deus enviará sua bondade e sua verdade.
 #v 1 %v Deus, por que tu nos rejeitas para sempre? #ad Por que %ad tua ira fumega contra as ovelhas de teu pasto?
 #v 2 %v Lembra-te de tua congregação, que tu compraste desde a antiguidade; a vara de tua herança, que resgataste; o monte de Sião, em que habitaste.
 #v 3 %v Levanta teus pés #ad em direção %ad às assolações eternas, tudo que o inimigo destruiu no santuário.
-#v 4 %v Os adversários rugirão no meio de tuas assembleias; puseram como sinais os sinais deles.
+#v 4 %v Os adversários rugiram no meio de tuas assembleias; puseram como sinais os sinais deles.
 #v 5 %v  #ad Levantam-se %ad abertamente como quem levanta o machado contra os troncos das árvores.
 #v 6 %v E agora todas suas obras entalhadas são quebradas com machados e martelos.
 #v 7 %v Puseram fogo em teu santuário; até ao chão profanaram a habitação de teu nome.
@@ -1432,14 +1433,14 @@ E aos perversos:
 #pst Salmo e cântico de Asafe, para o regente, com instrumentos de cordas: %pst
 #v 1 %v Deus é conhecido em Judá; grande é o seu nome em Israel.
 #v 2 %v E em Salém está seu tabernáculo, e sua morada em Sião.
-#v 3 %v Ale ele quebrou as flechas do arco; o escudo, a espada, e a guerra. (Selá)
+#v 3 %v Ali ele quebrou as flechas do arco; o escudo, a espada, e a guerra. (Selá)
 #v 4 %v Tu és mais ilustre #ad e %ad glorioso que montes de presas.
 #v 5 %v Os ousados de coração foram despojados; dormiram seu sono; e dos homens valentes, nenhum encontrou #ad poder %ad em suas mãos.
 #v 6 %v Por tua repreensão, ó Deus de Jacó, carruagens e cavalos caíram no sono #ad da morte %ad .
 #v 7 %v Tu, terrível és tu; e quem subsistirá perante ti com tua ira?
 #v 8 %v Desde os céus tu anunciaste o juízo; a terra tremeu, e se aquietou,
 #v 9 %v Quando Deus se levantou para o julgamento, para salvar a todos os mansos da terra. (Selá)
-#v 10 %v Porque a ira humana serve para o teu louvor; as outras iras tu amarrarás.
+#v 10 %v Porque a ira humana serve para o teu louvor; com o restante da ira te cingirás.
 #v 11 %v Fazei votos, e #ad os %ad pagai ao SENHOR vosso Deus; todos os que estão ao redor dele tragam presentes ao Temível.
 #v 12 %v Ele cortará o espírito dos governantes; ele é temível aos reis da terra.
 
@@ -2603,7 +2604,7 @@ Chegue meu clamor perante teu rosto, SENHOR; dá-me entendimento conforme tua pa
 #v 1 %v Levanto meus olhos aos montes.
  De onde virá meu socorro?
 #v 2 %v Meu socorro #ad vem %ad do SENHOR, que fez os céus e a terra.
-#v 3 %v Ele não deixará meu pé se abalar, nem cochilará o teu guardião.
+#v 3 %v Ele não deixará o teu pé se abalar, nem cochilará o teu guardião.
 #v 4 %v Eis que não cochilará nem dormirá o Guardião de Israel.
 #v 5 %v O SENHOR é o teu guardião; o SENHOR é a sombra à tua direita.
 #v 6 %v O sol não te ferirá durante o dia, nem a lua durante a noite.

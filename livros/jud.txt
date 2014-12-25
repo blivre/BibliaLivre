@@ -1,5 +1,6 @@
 ﻿#header
 #name Carta Universal de Judas %name
+#snm Judas %snm
 #ver 20131018 %ver
 #abbr Jd %abbr
 %header

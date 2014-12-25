@@ -1,5 +1,6 @@
 ﻿#header
 #name Ezequiel %name
+#snm Ezequiel %snm
 #ver 20130823 %ver
 #abbr Ez %abbr
 %header

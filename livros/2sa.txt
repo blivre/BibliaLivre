@@ -1,5 +1,6 @@
 ﻿#header
 #name Segundo Livro de Samuel %name
+#snm 2 Samuel %snm
 #ver 20120612 %ver
 #abbr 2Sm %abbr
 %header
