@@ -35,7 +35,7 @@ j. **"Reproduzir"** significa fazer cópias da Obra por qualquer meio, inclusive
 
  **2.  Limitações e exceções ao direito autoral e outros usos livres.** Nada nesta licença deve ser interpretado de modo a reduzir, limitar ou restringir qualquer uso permitido de direitos autorais ou direitos decorrentes de limitações e exceções estabelecidas em conexão com a proteção autoral, sob a legislação autoral ou outras leis aplicáveis.
 
-** 3. Concessão da licença.** O Licenciante concede a Você uma licença de abrangência mundial, sem royalties, não-exclusiva, perpétua (pela duração do direito autoral aplicável), sujeita aos termos e condições desta Licença, para exercer os direitos sobre a Obra definidos abaixo:
+**3. Concessão da Licença.** O Licenciante concede a Você uma licença de abrangência mundial, sem royalties, não-exclusiva, perpétua (pela duração do direito autoral aplicável), sujeita aos termos e condições desta Licença, para exercer os direitos sobre a Obra definidos abaixo:
 
 a. Reproduzir a Obra, incorporar a Obra em uma ou mais Obras Coletivas e Reproduzir a Obra quando incorporada em Obras Coletivas;
 
