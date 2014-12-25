@@ -1,0 +1,60 @@
+﻿#header
+#name Carta de Paulo a Tito %name
+#ver 20131012 %ver
+#abbr Tt %abbr
+%header
+
+#c 1 %c
+#v 1 %v Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos escolhidos de Deus, e o conhecimento da verdade, que é segundo a devoção #ad a Deus %ad ;
+#v 2 %v Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos princípios dos tempos,
+#v 3 %v E a seu #ad devido %ad tempo #ad a %ad manifestou: a sua palavra, por meio da pregação, que me foi confiada segundo o mandamento de Deus nosso Salvador.
+#v 4 %v Para Tito, #ad meu %ad verdadeiro filho, segundo a fé em comum; #ad haja em ti %ad graça, misericórdia #ad e %ad paz de Deus Pai, e do Senhor Jesus Cristo, nosso Salvador.
+#v 5 %v Por esta causa eu te deixei em Creta, para que tu continuasses a pôr em ordem as coisas que estavam faltando, e de cidade em cidade constituísses presbíteros, conforme eu te mandei.
+#v 6 %v Se alguém for irrepreensível, marido de uma mulher, que tenha filhos fiéis, que não possam ser acusados de serem devassos ou desobedientes.
+#v 7 %v Porque o supervisor #fn _c supervisor = equiv. bispo %fn deve ser irrepreensível, como administrador da casa de Deus, não arrogante, que não se ira facilmente, não beberrão, não agressivo, nem ganancioso.
+#v 8 %v Mas #ad que ele seja %ad hospitaleiro, ame aquilo que é bom, moderado, justo, santo, #ad e %ad tenha domínio próprio;
+#v 9 %v Retendo firme a fiel palavra que é conforme o que foi ensinado; para que ele seja capaz, tanto para exortar na sã doutrina, como #ad também %ad para mostrar os erros dos falam contra #ad ela %ad .
+#v 10 %v Porque também há muitos insubordinados, que falam coisas vãs, e enganadores, especialmente aqueles da circuncisão;
+#v 11 %v Aos quais devem se calar, que transtornam casas inteiras, ensinando o que não se deve, por causa da ganância.
+#v 12 %v Um deles, um profeta próprio deles, disse:
+ Os cretenses sempre são mentirosos, animais malignos, ventres preguiçosos.
+#v 13 %v Este testemunho é verdadeiro; por isso repreende-os severamente, para que sejam sãos na fé.
+#v 14 %v Não dando atenção a mitos judaicos, e a mandamentos de homens, que desviam da verdade.
+#v 15 %v Realmente todas as coisas são puras para os puros; mas para os contaminados e infiéis, nada é puro; e até o entendimento e a consciência deles estão contaminados.
+#v 16 %v Eles declaram que conhecem a Deus, mas com as obras eles o negam, pois são abomináveis e desobedientes, e reprovados para toda boa obra.
+
+#c 2 %c
+#v 1 %v Tu, porém, fala o que convém à sã doutrina;
+#v 2 %v Aos velhos, que sejam sóbrios, respeitáveis, prudentes, sãos na fé, no amor e na paciência.
+#v 3 %v Às velhas, da mesma maneira, #ad tenham %ad bons costumes, como convém a santas; não caluniadoras, não viciadas em muito vinho, mas sim instrutoras daquilo que é bom;
+#v 4 %v Para ensinarem às moças a serem prudentes, a amarem a seus maridos, a amarem a seus filhos;
+#v 5 %v A serem moderadas, puras, boas donas de casa, sujeitas a seus próprios maridos, para que a palavra de Deus não seja blasfemada.
+#v 6 %v Exorta semelhantemente aos rapazes, que sejam moderados.
+#v 7 %v Em tudo mostra a ti mesmo como exemplo de boas obras; na doutrina, #ad mostra %ad incorrupção, dignidade, sinceridade;
+#v 8 %v Uma palavra sã #ad e %ad irrepreensível, para que #ad qualquer %ad opositor se envergonhe, nada tendo de mal para dizer contra vós.
+#v 9 %v Que os servos sejam sujeitos a seus próprios senhores, sendo agradáveis em tudo, #ad e %ad não falando contra #ad eles %ad .
+#v 10 %v Não #ad lhes %ad furtando, mas sim mostrando toda a boa lealdade; para que em tudo adornem a doutrina de Deus nosso Salvador.
+#v 11 %v Porque a graça salvadora de Deus se manifestou a todos os homens.
+#v 12 %v Ensinando-nos que, ao renunciarmos à maldade, e aos maus desejos mundanos, vivamos neste tempo presente de modo sóbrio, justo e devotamente.
+#v 13 %v Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;
+#v 14 %v O qual deu a si mesmo por nós, para nos libertar de toda injustiça, e para purificar para si
+mesmo um povo particular, zeloso de boas obras.
+#v 15 %v Fala estas coisas, exorta, e repreende com toda autoridade. Ninguém te despreze.
+
+#c 3 %c
+#v 1 %v Relembra-os para se sujeitarem aos governantes e às autoridades, sejam obedientes, #ad e %ad estejam preparados para toda boa obra.
+#v 2 %v Não insultem a ninguém, não sejam briguentos, #ad mas sim %ad pacientes, mostrando toda mansidão para com todos os homens.
+#v 3 %v Porque nós também éramos tolos, desobedientes, enganados, servindo a vários maus desejos e prazeres, vivendo em malícia e inveja, detestáveis, odiando uns aos outros.
+#v 4 %v Mas quando a bondade e amor de Deus nosso Salvador para a humanidade apareceu,
+#v 5 %v Não pelas obras de justiça que nós tivéssemos feito, mas sim segundo sua misericórdia, ele nos salvou pelo banho do novo nascimento, e da renovação do Espírito Santo;
+#v 6 %v Ao qual ele derramou abundantemente em nós por meio de Jesus Cristo nosso Salvador;
+#v 7 %v Para que, ao termos sido justificados por sua graça, sejamos feitos herdeiros segundo a esperança da vida eterna.
+#v 8 %v  #ad Esta %ad palavra #ad é %ad fiel, e isto quero que insistas em confirmar, para que os que creem em Deus procurem se dedicar a boas obras; estas coisas são boas e proveitosas aos homens.
+#v 9 %v Mas evita as questões tolas, e às genealogias e discussões, e às disputas quanto à Lei, porque elas são inúteis e vás.
+#v 10 %v Ao homem rebelde, depois da primeira e #ad da %ad segunda repreensão, rejeita #ad -o %ad .
+#v 11 %v Sabendo que o tal está pervertido, e está pecando, estando a si mesmo condenado.
+#v 12 %v Quando eu enviar Artemas até ti, ou Tíquico, procura vir até mim a Nicópolis, porque eu decidi passar lá o inverno.
+#v 13 %v Envia a Zenas, o especialista na Lei, e a Apolo, com #ad muito %ad empenho, para que nada lhes falte.
+#v 14 %v E também os nossos #ad irmãos %ad aprendam a se dedicarem às boas obras para os usos necessários, para que não sejam infrutíferos.
+#v 15 %v Todos os que estão comigo te saúdam. Saúda tu aos que nos amam na fé. A graça #ad seja %ad com todos vós. Amém!
+{tr: #ad A carta a Tito, o primeiro bispo escolhido da igreja dos cretenses, foi escrita de Nicópolis na Macedônia %ad }{trnc: #fn _c RP, N4 não contêm informação de onde a carta foi escrita %fn }

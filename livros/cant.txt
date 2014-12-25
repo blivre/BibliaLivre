@@ -1,0 +1,180 @@
+﻿#header
+#name Cantares de Salomão %name
+#ver 20110128 %ver
+#abbr Ct %abbr
+%header
+
+#c 1 %c
+#v 1 %v Cântico dos cânticos, que é de Salomão.
+#v 2 %v  #ad Ela %ad :
+ Beije-me ele com os beijos de sua boca, porque teu amor é melhor do que o vinho.
+#v 3 %v O cheiro dos teus perfumes é agradável; teu nome é #ad como %ad perfume sendo derramado, por isso as virgens te amam.
+#v 4 %v Toma-me contigo, #ad e %ad corramos; traga-me o rei aos seus quartos.
+ #ad Moças %ad : 
+ Em ti nos alegraremos e nos encheremos de alegria; nos agradaremos mais de teu amor do que do vinho;
+ #ad Ela %ad : 
+ Elas estão certas em te amar;
+#v 5 %v Eu sou morena, porém bela, ó filhas de Jerusalém: #ad morena %ad como as tendas de Quedar, #ad bela %ad como as cortinas de Salomão.
+#v 6 %v Não fiquem me olhando por eu ser morena, pois o sol brilhou sobre mim; os filhos de minha mãe se irritaram contra mim, #ad e %ad me puseram para cuidar de vinhas; #ad porém %ad minha própria vinha, que me pertence, não cuidei.
+#v 7 %v Dize-me, amado de minha alma: onde apascentas #ad o teu gado %ad ? Onde #ad o %ad recolhes ao meio- dia? Para que ficaria eu como que coberta com um véu por entre os gados de teus colegas? #fn _c coberta por um véu - obscuro - trad. alt. andando sem rumo %fn 
+#v 8 %v  #ad Ele %ad :
+ Se tu, a mais bela entre as mulheres, não sabes, sai pelos rastros das ovelhas, e apascenta tuas cabras junto às tendas dos pastores.
+#v 9 %v Eu te comparo, querida, às éguas das carruagens de Faraó.
+#v 10 %v Agradáveis são tuas laterais da face entre os enfeites, teu pescoço entre os colares.
+#v 11 %v Enfeites de ouro faremos para ti, com detalhes de prata.
+#v 12 %v  #ad Ela %ad :
+ Enquanto o rei está sentado à sua mesa, meu nardo dá a sua fragrância.
+#v 13 %v Meu amado é para mim #ad como %ad um saquinho de mirra que passa a noite entre meus seios;
+#v 14 %v Meu amado é para mim #ad como %ad um ramalhete de hena nas vinhas de Engedi.
+#v 15 %v  #ad Ele %ad :
+ Como tu és bela, minha querida! Como tu és bela! Teus olhos são #ad como %ad pombas.
+#v 16 %v  #ad Ela %ad :
+ Como tu és belo, meu amado! Como #ad tu és %ad agradável! E o nosso leito se enche de folhagens.
+#v 17 %v As vigas de nossa casa são os cedros, e nossos caibros os ciprestes.
+
+#c 2 %c
+#v 1 %v Eu sou a rosa de Sarom, o lírio dos vales.
+#v 2 %v  #ad Ele %ad :
+ Como um lírio entre os espinhos, assim é minha querida entre as moças.
+#v 3 %v  #ad Ela %ad :
+ Como a macieira entre as árvores do bosque, assim é o meu amado entre os rapazes; debaixo de sua sombra desejo muito sentar, e doce é o seu fruto ao meu paladar.
+#v 4 %v Ele me leva à casa do banquete, e sua bandeira sobre mim é o amor.
+#v 5 %v Sustentai-me com passas, fortalecei-me com maçãs; porque estou fraca de amor.
+#v 6 %v  #ad Esteja %ad sua mão esquerda abaixo de minha cabeça, e sua direita me abraça.
+#v 7 %v Eu vos ordeno, filhas de Jerusalém: jurai pelas corças e pelas cervas do campo, que não acordeis, nem desperteis ao amor, até que ele queira.
+#v 8 %v  #ad Esta é %ad a voz do meu amado: vede-o vindo, saltando sobre os montes, pulando sobre os morros.
+#v 9 %v Meu amado é semelhante ao corço, ou ao filhote de cervos; eis que está atrás de nossa parede, olhando pelas janelas, observando pelas grades.
+#v 10 %v Meu amado me responde, e me diz:
+ Levanta-te, querida minha, minha bela, e vem.
+#v 11 %v Porque eis que o inverno já passou; a chuva se acabou, e foi embora.
+#v 12 %v As flores aparecem na terra, o tempo da cantoria chegou; e ouve-se a voz da rolinha em nossa terra.
+#v 13 %v A figueira está produzindo seus figos verdes, e as vides florescentes dão cheiro; levanta-te, querida minha, minha bela, e vem.
+#v 14 %v Pomba minha, que andas pelas fendas das rochas no oculto das ladeiras, mostra-me tua face, faze-me ouvir tua voz; porque tua voz é doce, e tua face agradável.
+#v 15 %v Tomai-nos as raposas, as raposinhas, que danificam as vinhas, porque nossas vinhas estão florescendo.
+#v 16 %v Meu amado é meu, e eu sou sua; ele apascenta entre os lírios.
+#v 17 %v Antes do dia se romper, e das sombras fugirem, volta, amado meu, faze-te semelhante ao corço, ao filhote de cervos, sobre os montes de Beter.
+
+#c 3 %c
+#v 1 %v Durante as noites busquei em minha cama a quem minha alma ama; busquei-o, mas não o achei.
+#v 2 %v Por isso me levantarei, e percorrerei a cidade, pelas ruas e pelas praças; buscarei a quem minha alma ama; busquei-o, mas não o achei.
+#v 3 %v Os guardas que rondavam pela cidade me encontraram. #ad Eu lhes perguntei %ad :
+ Vistes a quem minha alma ama?
+#v 4 %v Pouco #ad depois %ad de me afastar deles, logo achei a quem minha alma ama. Eu o segurei, e não o deixei ir embora, até eu ter lhe trazido à casa de minha mãe, ao cômodo daquela que me gerou.
+#v 5 %v Eu vos ordeno, filhas de Jerusalém: jurai pelas corças e pelas cervas do campo que não acordeis nem desperteis ao amor, até que ele queira.
+#v 6 %v  #ad Ele %ad :
+ Quem é esta, que sobe do deserto como colunas de fumaça, perfumada com mirra, incenso, e com todo tipo de pó aromático de mercador?
+#v 7 %v Eis a cama móvel de Salomão! Sessenta guerreiros estão ao redor dela, dentre os guerreiros de Israel;
+#v 8 %v Todos eles portando espadas, habilidosos na guerra; cada um com sua espada à cintura, para #ad o caso de haver %ad um ataque repentino de noite.
+#v 9 %v O rei Salomão fez para si uma liteira de madeira do Líbano.
+#v 10 %v Suas colunas ele fez de prata, seu assoalho de ouro, seu assento de púrpura; por dentro coberta com #ad a obra do %ad amor das filhas de Jerusalém.
+#v 11 %v Saí, ó filhas de Sião, e contemplai ao rei Salomão, com a coroa a qual sua mãe o coroou, no dia de seu casamento, no dia da alegria do seu coração.
+
+#c 4 %c
+#v 1 %v  #ad Ele %ad :
+ Como tu és bela, minha querida! Como tu és bela! Teus olhos por trás do véu são #ad como %ad pombas; teu cabelo é como um rebanho de cabras, que descem do monte Gileade.
+#v 2 %v Teus dentes são como #ad ovelhas %ad tosquiadas, que sobem do lavatório; todas elas têm gêmeos, e nenhuma delas é estéril.
+#v 3 %v Teus lábios são como uma fita de escarlate, e tua boca é bonita; tuas têmporas são como pedaços de romã por detrás do véu.
+#v 4 %v Teu pescoço é como a torre de Davi, construída como fortaleza; mil escudos estão nela pendurados, todos escudos de guerreiros.
+#v 5 %v Teus dois seios são como dois filhos gêmeos da corça, que pastam entre os lírios.
+#v 6 %v Antes do dia nascer, e das sombras fugirem, irei ao monte de mirra, e ao morro do incenso.
+#v 7 %v Tu és bela, minha querida! Não há defeito algum em ti.
+#v 8 %v  #ad Vem %ad comigo do Líbano, ó esposa minha, vem comigo do Líbano; desce do cume de Amaná, do cume de Senir e de Hermom, das montanhas das leoas, dos montes dos leopardos.
+#v 9 %v Tomaste meu coração, minha irmã, minha esposa; tomaste o meu coração com um de teus olhos, com um colar de teu pescoço.
+#v 10 %v Como são agradáveis os teus amores, minha irmã, minha esposa! São bem melhores do que o vinho; e o cheiro de teus unguentos #ad é melhor %ad que todas as especiarias.
+#v 11 %v Favos de mel descem de teus lábios, ó esposa; mel e leite estão debaixo de tua língua; e o cheiro de teus vestidos é como o cheiro do Líbano.
+#v 12 %v Jardim fechado és tu, minha irmã, minha esposa; manancial fechado, uma fonte selada.
+#v 13 %v Tuas plantas são uma horta de romãs, com frutos excelentes: hena e nardo.
+#v 14 %v Nardo, açafrão, cálamo e canela; com todo tipo de árvores de incenso: mirra, aloés, com todas as melhores especiarias.
+#v 15 %v  #ad Tu és %ad uma fonte de jardins, um poço de águas vivas que corre do Líbano.
+#v 16 %v  #ad Ela %ad :
+ Levanta-te, vento norte! E vem tu, vento sul! Assopra em meu jardim, para que espalhem os seus aromas! Que meu amado venha a seu jardim, e coma de seus excelentes frutos.
+
+#c 5 %c
+#v 1 %v  #ad Ele %ad :
+ Já cheguei ao meu jardim, minha irmã, #ad minha %ad esposa; colhi minha mirra com minha especiaria; comi meu mel, bebi meu vinho com meu leite.
+ #ad Autor do poema (ou os amigos dos noivos) %ad : 
+ Comei, amigos; bebei, ó amados, e embebedai-vos.
+#v 2 %v  #ad Ela %ad :
+ Eu estava dormindo, mas meu coração vigiava; era a voz de meu amado, batendo: 
+ Abre-me, minha irmã, minha querida, minha pomba, minha perfeita! Porque minha cabeça está cheia de orvalho, meus cabelos das gotas da noite.
+#v 3 %v Já tirei minha roupa; como #ad voltarei %ad a vesti-la? Já lavei meus pés; como vou sujá-los #ad de novo %ad ?
+#v 4 %v Meu amado meteu sua mão pelo buraco #ad da porta %ad , e meu interior se estremeceu por ele.
+#v 5 %v Eu me levantei para abrir a meu amado; minhas mãos gotejavam mirra, e meus dedos #ad derramaram %ad mirra sobre os puxadores da fechadura.
+#v 6 %v Eu abri a porta ao meu amado, porém meu amado já tinha saído e ido embora; minha alma como que saía #ad de si %ad por causa de seu falar. #fn _c seu falar - trad. alt. sua partida %fn Eu o busquei, mas não o achei; eu o chamei, mas ele não me respondeu.
+#v 7 %v Os guardas que rondavam pela cidade me encontraram; eles me bateram #ad e %ad me feriram; os guardas dos muros tiraram de mim o meu véu.
+#v 8 %v Eu vos ordeno, filhas de Jerusalém: jurai que, se achardes o meu amado, dizei a ele que estou doente de amor.
+#v 9 %v  #ad Moças %ad :
+ Ó tu mais bela entre as mulheres, como é o teu amado, ao qual tu amas mais do que qualquer outro? Como é este teu amado, mais amado do que qualquer outro, pelo qual assim nos ordenas jurar?
+#v 10 %v  #ad Ela %ad :
+ Meu amado é radiante e rosado; ele se destaca entre dez mil.
+#v 11 %v Sua cabeça é #ad como %ad o mais fino ouro; seus cabelos são crespos, pretos como o corvo.
+#v 12 %v Seus olhos são como pombas junto às correntes de águas, lavados em leite, colocados como #ad joias %ad .
+#v 13 %v As laterais de seu rosto como um canteiro de especiarias, #ad como %ad caixas aromáticas; seus lábios são #ad como %ad lírios, que gotejam fragrante mirra.
+#v 14 %v Suas mãos são #ad como %ad anéis de ouro com pedras de crisólitos; seu abdome #ad como %ad o brilhante marfim, coberto de safiras.
+#v 15 %v Suas pernas são #ad como %ad colunas de mármore, fundadas sobre bases de ouro puro; seu aspecto é como o Líbano, precioso como os cedros.
+#v 16 %v Sua boca é #ad cheia %ad de doçura, e ele é desejável em todos os sentidos; assim é o meu amado; assim é o meu querido, ó filhas de Jerusalém.
+
+#c 6 %c
+#v 1 %v  #ad Moças %ad :
+ Para onde foi o teu amado, ó tu mais bela entre as mulheres? Para que direção se virou o teu amado, para o procurarmos contigo?
+#v 2 %v  #ad Ela %ad :
+ Meu amado desceu ao seu jardim, aos canteiros de especiarias, para apascentar #ad seu rebanho %ad nos jardins, e para colher lírios.
+#v 3 %v Eu sou do meu amado, e meu amado é meu; ele apascenta entre os lírios.
+#v 4 %v  #ad Ele %ad :
+ Tu és bela, minha querida, como Tirza, agradável como Jerusalém; és formidável como bandeiras #ad de exércitos %ad .
+#v 5 %v Afasta teus olhos de mim, pois eles me deixam desconcertado. Teu cabelo é como um rebanho de cabras, que descem de Gileade.
+#v 6 %v Teus dentes são como um rebanho de ovelhas, que sobem do lavatório; todas produzem gêmeos, e não há estéril entre elas.
+#v 7 %v Como um pedaço de romã, assim são as laterais de teu rosto abaixo de teu véu.
+#v 8 %v Sessenta são as rainhas, e oitenta as concubinas; e as donzelas são inúmeras;
+#v 9 %v  #ad Porém %ad uma é a minha pomba, minha perfeita, a única de sua mãe, a mais querida daquela que a gerou. As moças #fn _c moças = lit. filhas %fn a viram, e a chamaram de bem-aventurada; as rainhas e as concubinas a elogiaram.
+#v 10 %v  #ad Outras pessoas, ou ele %ad :
+ Quem é esta, que aparece como o nascer do dia, bela como a lua, brilhante como o sol, formidável como bandeiras #ad de exércitos %ad ?
+#v 11 %v  #ad Ele ou ela %ad :
+ Desci ao jardim das nogueiras, para ver os frutos do vale; para ver se as videiras estavam floridas, #ad e se %ad as romãzeiras brotavam.
+#v 12 %v Sem eu perceber, minha alma me pôs nas carruagens de meu nobre povo.
+#v 13 %v  #ad Outras pessoas %ad :
+ Volta! Volta, Sulamita! Volta! Volta, e nós te veremos! 
+ #ad Ele %ad : 
+ Por que #ad quereis %ad ver a Sulamita, como a dança #fn _c dança - trad. alt. fileira %fn de duas companhias? #fn _c duas companhias - trad. alt. dois exércitos - ou transliteração Maanaim %fn 
+
+#c 7 %c
+#v 1 %v  #ad Ele %ad :
+ Como são belos os teus pés nas sandálias, ó filha de príncipe! Os contornos de tuas coxas são como joias, #ad como %ad obra das mãos de um artesão.
+#v 2 %v Teu umbigo é #ad como %ad uma taça redonda, que não falta bebida; teu abdome é #ad como %ad um amontoado de trigo, rodeado de lírios.
+#v 3 %v Teus dois seios são como dois filhos gêmeos da corça.
+#v 4 %v Teu pescoço é como uma torre de marfim; teus olhos são #ad como %ad os tanques de peixes de Hesbom, junto à porta de Bate-Rabim. Teu nariz é como a torre do Líbano, que está de frente a Damasco.
+#v 5 %v Tua cabeça sobre ti, como o #ad monte %ad Carmelo, e o trançado dos cabelos cabeça como púrpura; o rei está #ad como que %ad atado em #ad tuas %ad tranças.
+#v 6 %v Como tu és bela! Como tu és agradável, ó amor em delícias!
+#v 7 %v Esta tua estatura é semelhante à palmeira, e teus seios são #ad como %ad cachos #ad de uvas %ad .
+#v 8 %v Eu disse:
+ Subirei à palmeira, pegarei dos seus ramos; e então teus seios serão como os cachos da videira, e a fragrância de teu nariz como o das maçãs.
+#v 9 %v E tua boca #ad seja %ad como o bom vinho;
+ #ad Ela %ad :
+ #ad Vinho %ad que se entra a meu amado suavemente, #ad e %ad faz falarem os lábios dos que dormem.
+#v 10 %v Eu sou do meu amado, e ele me deseja.
+#v 11 %v Vem, amado meu! Saiamos ao campo, passemos as noites nas aldeias.
+#v 12 %v Saiamos de madrugada até às vinhas, vejamos se as videiras florescem, se suas flores estão se abrindo, se as romãzeiras já estão brotando; ali te darei os meus amores.
+#v 13 %v As mandrágoras espalham seu perfume, e junto a nossas portas há todo tipo de excelentes frutos, novos e velhos; eu os guardei para ti, meu amado.
+
+#c 8 %c
+#v 1 %v Como gostaria que tu fosses como meu irmão, que mamava os seios de minha mãe. Quando eu te achasse na rua, eu te beijaria, e não me desprezariam.
+#v 2 %v Eu te levaria e te traria à casa de minha mãe, aquela que me ensinou, e te daria a beber do vinho aromático, do suco de minhas romãs.
+#v 3 %v Esteja sua mão esquerda debaixo de minha cabeça, e sua direita me abrace.
+#v 4 %v Eu vos ordeno, filhas de Jerusalém: jurai que não acordeis, nem desperteis ao amor, até que ele queira.
+#v 5 %v  #ad Outras pessoas %ad :
+ Quem é esta, que sobe da terra desabitada, reclinada sobre seu amado?
+ #ad Ela %ad : 
+ Debaixo de uma macieira te despertei; ali tua mãe te fez nascer com dores; ali te fez nascer aquela que te gerou.
+#v 6 %v Põe-me com um selo sobre teu coração, como selo sobre teu braço; porque o amor é forte como a morte; os ciúmes são duros como o mundo dos mortos; suas brasas são brasas de fogo, labaredas poderosas. #fn _c labaredas poderosas – trad. alternativa labaredas do SENHOR %fn 
+#v 7 %v Muitas águas não poderiam apagar este amor, nem os rios afogá-lo; ainda que alguém desse todos os bens de sua casa por este amor, certamente o desprezariam.
+#v 8 %v  #ad Irmãos dela %ad :
+ Temos uma irmã pequena, que ainda não têm seios; que faremos a esta nossa irmã, no dia que dela falarem?
+#v 9 %v Se ela for um muro, edificaremos sobre ela um palácio de prata; e se ela for uma porta, então a cercaremos com tábuas de cedro.
+#v 10 %v  #ad Ela %ad :
+ Eu sou um muro, e meus seios como torres; então eu era aos olhos dele, como aquela que encontra a paz.
+#v 11 %v Salomão teve uma vinha em Baal-Hamom; ele entregou esta vinha a uns guardas, e cada um #ad lhe %ad trazia como #ad faturamento %ad de seus frutos mil #ad moedas %ad de prata.
+#v 12 %v Minha vinha, que me pertence, está à minha disposição; #fn _c à minha disposição = lit. perante minha face %fn as mil #ad moedas %ad de prata são para ti, Salomão, e duzentas para os guardas de teu fruto.
+#v 13 %v  #ad Ele %ad :
+ Ó tu que habitas nos jardins, teus colegas prestam atenção à tua voz: faze com que eu #ad também possa %ad ouvi-la.
+#v 14 %v  #ad Ela %ad :
+ Vem depressa, meu amado! E faze-te semelhante ao corço, ao filhote de cervos, nas montanhas de ervas aromáticas!

@@ -1,0 +1,107 @@
+﻿#header
+#name Primeira Carta de Paulo aos Tessalonicenses %name
+#ver 20131012 %ver
+#abbr 1Ts %abbr
+%header
+
+#c 1 %c
+#v 1 %v Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus, o Pai, e no Senhor Jesus Cristo; #ad haja entre vós %ad graça e paz{tr,rp: de Deus nosso Pai, e do Senhor Jesus Cristo}.{trnc: #fn _c N4 omite “de Deus nosso Pai, e do Senhor Jesus Cristo” %fn }{n4: #fn _c TR, RP acrescentam: “de Deus nosso Pai, e do Senhor Jesus Cristo” ao final do versículo %fn }
+#v 2 %v Sempre damos graças a Deus por todos vós, fazendo menção de vós em nossas orações,
+#v 3 %v Lembrando-nos sem cessar da obra de vossa fé, e do trabalho do amor, e da perseverança da esperança no nosso Senhor Jesus Cristo, diante de nosso Deus e Pai.
+#v 4 %v Sabendo, amados irmãos, da escolha que Deus #ad fez %ad por vós.
+#v 5 %v Porque nosso Evangelho não foi entre vós somente em palavras, mas também em poder, e em Espírito Santo, e em muita certeza; assim como sabeis que por causa de vós, #ad é que %ad fomos até vós.
+#v 6 %v E vós fostes feitos imitadores nossos e do Senhor, recebendo a palavra em muita aflição, #ad mas %ad com alegria do Espírito Santo.
+#v 7 %v De maneira que vós fostes exemplos para todos os crentes na Macedônia e Acaia.
+#v 8 %v Porque de vós saiu o som da palavra do Senhor, não somente na Macedônia e Acaia, mas também em todo lugar vossa fé para com Deus, de tal maneira tem repercutido, que #ad já %ad não nos é necessário falar coisa alguma #ad sobre ela %ad .
+#v 9 %v Porque eles mesmos anunciam de nós qual maneira de entrar tivemos para convosco, e como vos convertestes, #ad abandonando %ad os ídolos, para servir ao Deus vivo e verdadeiro;
+#v 10 %v E para esperar seu Filho dos céus, a quem ressuscitou dos mortos: Jesus, que nos livra da ira futura.
+
+#c 2 %c
+#v 1 %v Porque vós mesmos sabeis, irmãos, que nossa entrada para convosco não foi vã;
+#v 2 %v Mas sim, ainda que em Filipos anteriormente tivéssemos sofrido, e fomos maltratados, assim como vós sabeis, nós usamos de ousadia em nosso Deus, para com grande combate vos falar o Evangelho de Deus.
+#v 3 %v Porque nossa exortação não foi com engano, nem com impureza, nem com fraude;
+#v 4 %v Mas como aprovados por Deus, para que o Evangelho #ad nos %ad fosse confiado, assim falamos; não como que para agradar aos homens, mas sim a Deus, que prova nossos corações.
+#v 5 %v Porque nunca usamos de palavras lisonjeiras, como vós sabeis, nem com pretexto ganancioso; Deus é testemunha.
+#v 6 %v Nem buscando a glória de homens, nem de vós, nem de outros, ainda que pudéssemos criar encargos #ad para vós %ad , por sermos apóstolos de Cristo.
+#v 7 %v Mas nós fomos brandos entre vós, como a babá que cria a seus #ad próprios %ad filhos.
+#v 8 %v Portanto, estando nós tão afeiçoados por vós, de boa vontade queríamos compartilhar não somente do Evangelho de Deus, mas também até de nossas próprias almas, porque vós éreis amados por nós.
+#v 9 %v Porque vós vos lembrais, irmãos, de nosso trabalho e fadiga; porque trabalhando de noite e de dia, pregávamos a vós o Evangelho de Deus, para que não fôssemos incômodos a vós.
+#v 10 %v Vós e Deus #ad sois %ad testemunhas, de quão santa, justa, e irrepreensivelmente nós fomos para convosco, #ad vós %ad que crestes.
+#v 11 %v Assim como vós sabeis, cada um de vós, como um pai a seus filhos, nós vos exortávamos, consolávamos,
+#v 12 %v E alertávamos que andásseis dignamente para com Deus, que vos chama para seu Reino e glória.
+#v 13 %v Por isso também damos graças a Deus sem cessar, de que, havendo recebido de nós a palavra da de Deus ouvida por meio de nós, vós a recebestes, não #ad como %ad palavra de homens, mas (assim como é verdadeiramente) #ad como %ad a palavra de Deus, a qual também opera em vós, os que credes.
+#v 14 %v Porque vós, irmãos, vos fizestes imitadores das igrejas de Deus, que estão na Judeia, em Cristo Jesus; porque também sofrestes as mesmas coisas #ad causadas %ad por aqueles de vossas próprias nações, assim como também eles #ad sofreram %ad pelos judeus.
+#v 15 %v Os quais também mataram ao Senhor Jesus, e a seus próprios profetas, e nos perseguiram, e não agradam a Deus, e são contrários a todos os homens;
+#v 16 %v Nos impedindo de falarmos aos gentios, para que possam se salvar; #ad isto %ad para sempre se encherem de pecados; e a ira #ad já %ad é vinda sobre eles por completo.
+#v 17 %v Mas, irmãos, sendo nós por um certo tempo separados de vós de rosto, não de coração, ainda mais tínhamos vontade de ver vosso rosto com muito desejo.
+#v 18 %v Por isso nós quisemos vir até vós (pelo menos eu, Paulo) uma vez e outra; mas Satanás nos impediu.
+#v 19 %v Pois, afinal, qual é nossa esperança, ou alegria, ou coroa de orgulho? Por acaso não sois vós mesmos, diante de nosso Senhor Jesus Cristo em sua vinda?
+#v 20 %v Pois vós sois nosso orgulho e alegria.
+
+#c 3 %c
+#v 1 %v Portanto, não podendo mais aguentar, pareceu-nos bem ficarmos sozinhos em Atenas;
+#v 2 %v E enviamos a Timóteo, nosso irmão e {tr,rp:trabalhador a serviço de Deus, e nosso cooperador}{n4:cooperador de Deus}{trnc: #fn _c TR, RP: trabalhador a serviço de Deus, e nosso cooperador – N4: cooperador de Deus %fn }{n4: #fn _c N4: cooperador de Deus - TR, RP: trabalhador a serviço de Deus, e nosso cooperador %fn } no Evangelho de Cristo, para vos fortalecer e vos encorajar quanto a vossa fé;
+#v 3 %v Para que ninguém se abale por estas aflições; porque vós mesmos sabeis, que para isto nós estamos ordenados.
+#v 4 %v Porque também quando estávamos convosco, predizíamos a vós que iríamos ser afligidos, conforme #ad assim %ad aconteceu, e vós sabeis.
+#v 5 %v Portanto também eu, não podendo mais aguentar, eu #ad o %ad mandei para saber de vossa fé, #ad desejando %ad não acontecer que o tentador vos tentasse, e nosso trabalho viesse a ser em vão.
+#v 6 %v Mas agora, voltando Timóteo de vós até nós, e nos trazendo as boas notícias sobre vossa fé e amor, e como sempre tendes boa lembrança de nós, desejando muito nos ver, assim como também nós a vós;
+#v 7 %v Por isso, irmãos, nós ficamos consolados sobre vós em toda nossa aflição e necessidade, por vossa fé.
+#v 8 %v Porque agora vivemos, se vós estais firmes no Senhor.
+#v 9 %v Porque que ações de graças nós podemos dar a Deus por vós, quanto a vossa alegria com que nos alegramos diante de Deus por causa de vós,
+#v 10 %v Orando abundantemente de noite e de dia, pedindo para vermos vosso rosto, e supramos o que falta a vossa fé?
+#v 11 %v E nosso mesmo Deus e Pai e nosso Senhor Jesus Cristo conduza nosso caminho até vós.
+#v 12 %v E o Senhor vos faça crescer, e abundar em amor uns para com os outros, e para com todos, assim como também nós #ad abundamos %ad para convosco;
+#v 13 %v Para fortalecer vossos corações, para que sejais irrepreensíveis em santidade diante de nosso Deus e Pai, na vinda de nosso Senhor Jesus Cristo com todos os seus santos.
+
+#c 4 %c
+#v 1 %v Portanto, irmãos, nas demais #ad coisas %ad , vos rogamos e exortamos no Senhor Jesus, que assim como recebestes de nós a maneira como deveis andar e agradar a Deus{n4: #fn _c , como já andais %fn },{trnc: #fn _c N4 acrescenta “como já andais” %fn }{n4: #fn _c TR, RP omitem “como já andais” %fn } que vós ainda mais abundeis #ad nisto %ad .
+#v 2 %v Porque vós sabeis que mandamentos vos demos pelo Senhor Jesus.
+#v 3 %v Porque esta é a vontade de Deus: a vossa santificação, que vós não pratiqueis pecados sexuais;
+#v 4 %v Que cada um de vós saiba tomar posse de seu vaso em santidade e honra;
+#v 5 %v Não em paixão por desejos maliciosos, como os gentios que não conhecem a Deus.
+#v 6 %v Ninguém abuse ou se aproveite enganosamente em coisa #ad alguma %ad a seu irmão; porque o Senhor é vingador de todas essas coisas, como também anteriormente temos vos dito e dado testemunho.
+#v 7 %v Porque Deus não nos chamou para a impureza, mas sim para a santificação.
+#v 8 %v Portanto quem #ad rejeita %ad isto, não rejeita ao homem, mas sim a Deus, o qual também nos deu seu Espírito Santo.
+#v 9 %v E quanto ao amor fraternal, vós não tendes necessidade de que vos escreva, porque vós mesmos estais instruídos de Deus, que vos ameis uns aos outros.
+#v 10 %v Porque vós também #ad já %ad fazeis assim para com todos os irmãos de toda a Macedônia; mas vos exortamos, irmãos, que abundeis #ad nisto %ad ainda mais.
+#v 11 %v E procureis viver quietos, e tratar de vossos próprios assuntos, e trabalhar com vossas próprias mãos, assim como já temos vos mandado;
+#v 12 %v Para que andeis respeitosamente para aqueles que estão de fora, e de nada tenhais necessidade.
+#v 13 %v Mas não quero, irmãos, que sejais ignorantes sobre os que dormem, #fn _c os que dormem = i.e. os mortos – também vv. 14, 15 %fn para que não vos entristeçais assim como os outros que não têm esperança.
+#v 14 %v Porque se cremos que Jesus morreu, e ressuscitou, assim também os que dormem em Jesus, Deus os trará de volta com ele.
+#v 15 %v Porque dizemos isto pela palavra do Senhor, que nós, os que #ad ainda %ad vivos, sobrevivermos até a vinda do Senhor, não iremos adiante daqueles que dormem.
+#v 16 %v Porque o mesmo Senhor descerá do céu com gritos de ordem, e com voz de arcanjo, e com trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro;
+#v 17 %v Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, #ad indo %ad ao encontro do Senhor no ar; e assim estaremos com o Senhor para sempre.
+#v 18 %v Portanto consolai-vos uns aos outros com estas palavras.
+
+#c 5 %c
+#v 1 %v Mas irmãos, quanto aos tempos e estações, vós não tendes necessidade de que eu vos escreva;
+#v 2 %v Porque vós mesmos sabeis que o dia do Senhor virá como um ladrão de noite.
+#v 3 %v Porque quando disserem:
+ #ad Há %ad paz e segurança, 
+então virá sobre eles repentina destruição, como as dores de parto daquela que está grávida, e de maneira nenhuma escaparão.
+#v 4 %v Mas vós, irmãos, #ad já %ad não estais em trevas, para que aquele dia vos apanhe como um ladrão.
+#v 5 %v Todos vós sois filhos da luz, e filhos do dia; nós não somos da noite, nem das trevas.
+#v 6 %v Portanto, não durmamos, como os outros; mas vigiemos e sejamos sóbrios.
+#v 7 %v Porque os que dormem, dormem de noite; e os que ficam bêbados bebem de noite.
+#v 8 %v Mas nós que somos do dia, sejamos sóbrios, vestindo-nos da couraça da fé, e do amor, e do capacete da esperança da salvação.
+#v 9 %v Porque Deus não tem nos determinado para a ira, mas sim para obtermos a salvação, por meio de nosso Senhor Jesus Cristo,
+#v 10 %v O qual morreu por nós, para que, quer vigiemos, quer estejamos dormindo, juntamente com ele vivamos.
+#v 11 %v Portanto exortai-vos uns aos outros, e edificai-vos uns aos outros, assim como já fazeis.
+#v 12 %v E nós vos rogamos, irmãos, que reconheçais aos que trabalham entre vós, e que lideram sobre vós no Senhor, e vos advertem;
+#v 13 %v E estimai-os muito com amor, por causa do trabalho deles. Sede pacíficos entre vós.
+#v 14 %v Rogamo-vos também, irmãos, que deis advertências aos indisciplinados, encorajai aos de pouco ânimo, apoiai aos fracos, #ad e %ad sejais pacientes para com todos.
+#v 15 %v Olhai que ninguém pague o mal com o mal, mas sempre persegui o bem, tanto uns para com os outros, #ad e também %ad para com todos.
+#v 16 %v Alegrai-vos sempre.
+#v 17 %v Orai sem cessar.
+#v 18 %v Dai graças em tudo, porque esta é a vontade de Deus em Cristo Jesus para convosco.
+#v 19 %v Não apagueis o Espírito #ad em vós %ad .
+#v 20 %v Não desprezai as profecias.
+#v 21 %v Testai todas as coisas, retendo o #ad que é %ad bom.
+#v 22 %v Não haja entre vós qualquer forma de mal.
+#v 23 %v E o mesmo Deus da paz vos santifique totalmente; e que todo o vosso espírito, alma e corpo seja conservado irrepreensível na vinda de nosso Senhor Jesus Cristo.
+#v 24 %v Fiel é o que vos chama, o qual também #ad o %ad fará.
+#v 25 %v Irmãos, orai por nós.
+#v 26 %v Saudai a todos os irmãos com beijo santo.
+#v 27 %v Eu vos ordeno pelo Senhor, que esta carta seja lida para todos os santos irmãos.
+#v 28 %v A graça de nosso Senhor Jesus Cristo #ad seja %ad convosco. Amém.
+{tr: #ad A primeira carta aos tessalonicenses foi escrita de Atenas %ad }{trnc: #fn _c RP, N4 não contêm informação de onde a carta foi escrita. %fn }

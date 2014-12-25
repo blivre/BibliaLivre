@@ -1,0 +1,136 @@
+﻿#header
+#name Primeira Carta Universal de Pedro %name
+#ver 20131015 %ver
+#abbr 1Pd %abbr
+%header
+
+#c 1 %c
+#v 1 %v Pedro, apóstolo de Jesus Cristo, aos forasteiros que estão espalhados em Ponto, Galácia, Capadócia, Ásia e Bitínia,
+#v 2 %v escolhidos segundo o pré-conhecimento de Deus Pai, por meio da santificação do Espírito, para a obediência e a aspersão do sangue de Jesus Cristo. Que a graça e a paz vos sejam multiplicadas.
+#v 3 %v Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo. Segundo sua grande misericórdia, ele nos regenerou para uma esperança viva, por meio da ressurreição de Jesus Cristo dentre os mortos.
+#v 4 %v E o resultado disso é uma herança incorruptível, incontaminável, e que não pode ser enfraquecida. Ela está guardada nos céus para vós,
+#v 5 %v que pela fé estais guardados no poder de Deus para a salvação, pronta para se revelar no último tempo.
+#v 6 %v Nisto vos alegrais, ainda que agora seja necessário que estejais por um pouco #ad de tempo %ad entristecidos com várias provações,
+#v 7 %v para que a prova de vossa fé, muito mais preciosa que o ouro que perece (mesmo sendo provado pelo fogo), seja achada em louvor, {tr,rp:honra, e }glória{n4:, e honra}{trnc: #fn _c N4: “glória, e honra” %fn }, na revelação de Jesus Cristo.
+#v 8 %v A ele, sem terdes visto, vós o amais. Ainda que não estejais o vendo agora, mas crendo nele, vós estais alegres com júbilo indescritível e glorioso.
+#v 9 %v Assim estais alcançando o resultado da {tr,rp:vossa}{trnc: #fn _c N4 omite “vossa” %fn } fé: a salvação das #ad vossas %ad almas.
+#v 10 %v Dessa salvação os profetas que profetizaram a respeito da graça #ad direcionada %ad a vós procuraram entender, e com empenho investigaram,
+#v 11 %v procurando saber qual era o tempo #fn _c o tempo – ou: a pessoa %fn ou ocasião que o Espírito de Cristo dentro deles indicava, quando dava prévio testemunho dos sofrimentos de Cristo e das glórias seguintes.
+#v 12 %v A eles foi revelado que não foi para eles mesmos, mas sim para {tr:nós}{rp,n4:vós},{trnc: #fn _c RP, N4 - vós %fn } que eles prestaram serviço com estas coisas. E agora, elas vos foram anunciadas pelos que, pelo Espírito Santo enviado do céu, vos pregaram o Evangelho. Tais coisas os anjos desejam atentamente observar.
+#v 13 %v Portanto, preparai as vossas mentes, sede sóbrios, e esperai completamente na graça que vos será trazida na revelação de Jesus Cristo. #fn _c preparai vossas mentes – lit. revestindo os lombos de vossa mente %fn 
+#v 14 %v E, como filhos obedientes, não vos conformeis com os maus desejos do passado, de quando éreis ignorantes. #fn _c de quando éreis ignorantes – lit. em vossa ignorância %fn 
+#v 15 %v Ao contrário; assim como aquele que vos chamou é santo, sede vós também santos em todo o #ad vosso %ad comportamento.
+#v 16 %v Pois está escrito:
+ Sede santos, porque eu sou santo. #fn _c Ref. Levítico 11:44-45 %fn 
+#v 17 %v E, se vós chamais de Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, vivei em temor o tempo de vossa peregrinação;
+#v 18 %v e sabei que não foi por coisas destrutíveis, #ad como %ad prata ou ouro, que fostes resgatados do vosso vão comportamento que recebestes de #ad vossos %ad pais,
+#v 19 %v mas sim pelo sangue precioso, como de um cordeiro sem falha e sem contaminação: o #ad sangue %ad de Cristo.
+#v 20 %v Ele já era conhecido #fn _c conhecido – isto é, conhecido o seu papel como o Salvador. Trad. alt: predestinado %fn desde antes da fundação do mundo, mas foi manifesto {tr,rp:nestes últimos}{n4:no fim dos} tempos{trnc: #fn _c N4: no fim dos tempos %fn } por causa de vós,
+#v 21 %v que, por meio dele, credes em Deus, que o ressuscitou dos mortos e lhe deu glória, para que a vossa fé e esperança estejam em Deus.
+#v 22 %v Uma vez que purificastes vossas almas na obediência da verdade{tr,rp: por meio do Espírito},{trnc: #fn _c N4 omite “por meio do Espírito” %fn }{n4: #fn _c TR, RP acrescentam: “por meio do Espírito” %fn } para o sincero #fn _c sincero - ou: não-hipócrita %fn amor fraternal, amai-vos intensamente uns aos outros {tr,rp:com um coração puro}{n4:de coração},{trnc: #fn _c N4 omite “puro”, mostrando “de coração” %fn }
+#v 23 %v visto que nascestes de novo, não de semente que perece, mas sim imperecível, pela viva palavra de Deus, que permanece{tr,rp: para sempre}.{trnc: #fn _c N4 omite “para sempre” %fn }{n4: #fn _c TR, RP acrescentam: “para sempre” ao final do versículo %fn }
+#v 24 %v Pois toda carne #fn _c toda carne – i.e. todos os seres humanos %fn é como a erva,
+ e toda {tr,rp:glória humana}{n4:a sua glória}{trnc: #fn _c TR, RP: glória humana – N4: sua glória %fn } como a flor da erva. 
+ A erva se seca, e {tr,rp:sua}{n4:a} flor{trnc: #fn _c TR, RP: sua flor - N4: a flor %fn } cai; 
+#v 25 %v mas a palavra do Senhor permanece para sempre.
+E esta é a palavra que foi evangelizada entre vós. #fn _c Ref. Isaías 40:6,8 %fn 
+
+#c 2 %c
+#v 1 %v Abandonai, portanto, toda malícia, toda enganação, fingimentos, invejas, e todas as falas maldosas,
+#v 2 %v e desejai ansiosamente, como bebês recém-nascidos, o leite da Palavra, não falsificado, para que por meio dele estejais crescendo{n4: para a salvação};{trnc: #fn _c N4, F35 acrescentam “para a salvação” ao final do versículo %fn }
+#v 3 %v se, de fato, já experimentastes que o Senhor é bom.
+#v 4 %v Aproximai-vos dele, #ad que é %ad uma pedra viva, rejeitada pelos seres humanos, mas escolhida e preciosa para Deus.
+#v 5 %v Também vós, como pedras vivas, sois edificados como casa espiritual #ad e %ad sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus por meio de Jesus Cristo.
+#v 6 %v {tr,rp:Por isso}{n4:Pois}{trnc: #fn _c TR, RP: Por isso – N4: Pois %fn } também está contido na Escritura:
+ Eis que eu ponho em Sião uma pedra principal de esquina, escolhida #ad e %ad preciosa. Quem nela crer de maneira nenhuma será envergonhado. #fn _c envergonhado – ou: frustrado %fn #fn _c Ref. Isaías 28:16 %fn 
+#v 7 %v Assim, para vós, que credes, ela é preciosa. Mas para os {tr,rp:rebeldes}{n4:incrédulos}:{trnc: #fn _c TR, RP: rebeldes – N4: incrédulos %fn }
+ A pedra que os construtores rejeitaram, essa se tornou a principal de esquina, #fn _c Ref. Salmo 118:22 %fn 
+#v 8 %v assim como:
+ pedra de tropeço, e pedra que leva à queda. 
+Eles tropeçam na palavra por serem rebeldes. Para isso eles foram destinados. #fn _c Ref. Isaías 8:14 %fn 
+#v 9 %v Mas vós sois a geração escolhida, o sacerdócio real, a nação santa, #ad e %ad o povo adquirido; a fim de que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz.
+#v 10 %v Antes, vós não éreis povo, mas agora sois povo de Deus. #ad Antes %ad , não havíeis recebido misericórdia, mas agora recebestes misericórdia.
+#v 11 %v Amados, como a peregrinos e estrangeiros, eu vos peço que vos abstenhais dos desejos carnais, que batalham contra a alma,
+#v 12 %v e que tenhais um bom comportamento vosso entre os pagãos; para que, naquilo que de vós, como de malfeitores, falam mal, no dia da visitação glorifiquem a Deus por causa das #ad vossas %ad boas obras que {tr,rp:tiverem visto}{n4:virem}.{trnc: #fn _c TR, RP: tiverem visto – N4: virem %fn }
+#v 13 %v {tr,rp:Portanto{trnc: #fn _c N4 omite “Portanto” %fn } sujeitai-vos}{n4:Sujeitai-vos} a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;
+#v 14 %v seja aos governantes, como enviados por ele, com o objetivo de castigar os malfeitores, e de conceder honra aos que fazem o bem.
+#v 15 %v Pois esta é a vontade de Deus, que, ao fazerdes o bem, caleis a ignorância dos homens tolos.
+#v 16 %v  #ad Comportai-vos %ad como pessoas livres, mas não useis a liberdade como pretexto para a malícia. Em vez disso, #ad sede %ad como servos de Deus.
+#v 17 %v Honrai a todos: amai aos irmãos, temei a Deus, honrai ao rei.
+#v 18 %v Servos, sujeitai-vos com todo temor aos #ad vossos %ad senhores, não somente aos bons e brandos, mas também aos que maltratam.
+#v 19 %v Pois coisa agradável é se alguém, por causa da consciência a respeito de Deus, experimente dores, sofrendo injustamente.
+#v 20 %v Afinal, que mérito há em suportar serdes espancados por cometerdes pecado? Contudo, se, quando fazeis o bem, sois afligidos e suportais, isso é a Deus.
+#v 21 %v Pois para isto fostes chamados, porque também Cristo sofreu por {tr,rp:nós}{n4:vós},{trnc: #fn _c N4: “por vós” %fn }{n4: #fn _c TR, RP: “por nós” %fn } deixando-{tr:nos}{rp,n4:vos}{trnc: #fn _c RP, N4: deixando-vos %fn } exemplo, para que sigais os seus passos.
+#v 22 %v Ele não cometeu pecado, nem engano foi achado em sua boca.
+#v 23 %v Quando o insultavam, ele não insultava de volta. Quando sofria, ele não ameaçava; em vez disso, entregava-se ao que julga de maneira justa.
+#v 24 %v Ele levou nossos pecados em seu próprio corpo sobre o madeiro; para que nós, estando mortos para os pecados, vivamos para a justiça. Pela ferida dele fostes sarados.
+#v 25 %v Porque vós éreis como ovelhas desviadas do caminho; mas agora vós estais convertidos ao Pastor e Supervisor de vossas almas.
+
+#c 3 %c
+#v 1 %v Semelhantemente vós, esposas, estejais sujeitas aos próprios maridos, para que, ainda que alguns não obedeçam à Palavra, por meio do comportamento das esposas, sem palavra, sejam ganhos,
+#v 2 %v quando eles observarem o vosso comportamento puro e com temor.
+#v 3 %v A vossa beleza não seja a exterior, #ad como %ad tranças de cabelos, joias de ouro, ou vestuário,
+#v 4 %v mas sim, a pessoa interior no coração, o #ad embelezamento %ad incorruptível de um espírito manso e tranquilo, que é precioso diante de Deus.
+#v 5 %v Pois assim também se embelezavam antigamente as mulheres santas, que esperavam em Deus, e eram sujeitas aos seus maridos.
+#v 6 %v Dessa maneira Sara obedecia a Abraão, chamando-lhe de senhor. Vós sois filhas dela se fizerdes o bem e não temerdes espanto algum.
+#v 7 %v Semelhantemente vós maridos, convivei #ad com elas %ad com entendimento, dando honra à mulher, como a vaso mais fraco, como sendo #ad elas e vós %ad juntamente herdeiros da graça da vida; a fim de que as vossas orações não sejam impedidas.
+#v 8 %v E por fim, sede todos de uma mesma mentalidade, compassivos, tenhais amor pelos irmãos, e sede misericordiosos e benevolentes.
+#v 9 %v Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, {tr,rp:sabendo que}{n4:pois}{trnc: #fn _c TR, RP: sabendo que – N4: pois %fn } para isto fostes chamados, para que herdeis a bênção.
+#v 10 %v Pois:
+ quem quer amar a vida e ver dias bons, 
+ refreie sua língua do mal, 
+ e que seus lábios não falem engano.
+#v 11 %v Afaste-se do mal, e faça o bem;
+ busque a paz, e siga-a.
+#v 12 %v Porque os olhos do Senhor estão sobre os justos,
+ e seus ouvidos #ad atentos %ad às suas orações; 
+ mas a face do Senhor é contra os que fazem o mal. #fn _c Ref. Salmos 34:12-16 %fn 
+#v 13 %v E quem vos fará mal se fordes {tr,rp:adeptos}{n4:zelosos}{trnc: #fn _c TR, RP: adeptos – N4: zeolosos %fn } do bem?
+#v 14 %v Porém, mesmo se sofrerdes por causa da justiça, benditos #fn _c benditos – ou: bem-aventurados %fn sois. Não tenhais medo deles, nem vos perturbeis.
+#v 15 %v Mas santificai a {tr,rp:Deus}{n4:Cristo}{trnc: #fn _c TR, RP: Deus – N4: Cristo %fn }{n4: #fn _c N4: Cristo – TR, RP: Deus %fn } como Senhor em vossos corações; e estai sempre preparados para responder com mansidão e respeito a todo aquele que vos pedir a razão da esperança que há em vós,
+#v 16 %v tendo uma boa consciência; para que, naquilo que {tr,rp:falam mal de vós como malfeitores}{n4:sois malfalados},{trnc: #fn _c TR, RP: falam mal de vós como malfeitores – N4: sois malfalados %fn } os que insultam o vosso bom comportamento em Cristo sejam envergonhados.
+#v 17 %v Pois é melhor que sofrais fazendo o bem, se #ad assim %ad a vontade de Deus quer, do que fazendo o mal.
+#v 18 %v Porque também Cristo {tr,rp:sofreu}{n4:morreu}{trnc: #fn _c TR, RP: sofreu – N4: morreu %fn } uma vez pelos pecados, o justo pelos injustos; para que {tr:nos}{rp,n4:vos}{trnc: #fn _c RP, N4: vos %fn } levasse a Deus. #ad Ele estava %ad , de fato, morto na carne, mas vivificado pelo Espírito,
+#v 19 %v no qual ele também foi pregar aos espíritos em prisão.
+#v 20 %v  #ad Estes são %ad os que antigamente foram rebeldes, quando{tr: uma vez}{trnc: #fn _c RP, N4 omitem “uma vez” %fn } a paciência de Deus aguardava nos dias de Noé, enquanto era preparada a arca. Nela, poucas almas (isto é, oito) foram salvas por meio da água.
+#v 21 %v Esta é uma representação do batismo, que agora também {tr,rp:nos}{n4:vos}{trnc: #fn _c N4:vos %fn } salva, não como remoção da sujeira do corpo, mas sim como o pedido #fn _c pedido – ou: compromisso. A palavra usada no texto original grego tem significado obscuro para o contexto da frase %fn de boa consciência a Deus, por meio da ressurreição de Jesus Cristo.
+#v 22 %v Ele está à direita de Deus, depois de haver subido ao céu; e os anjos, as autoridades, e os poderes estão sob o seu comando.
+
+#c 4 %c
+#v 1 %v Visto que Cristo sofreu{tr,rp: por nós}{trnc: #fn _c N4 omite “por nós” %fn }{n4: #fn _c TR, RP acrescenta “por nós” %fn } na carne, armai-vos também com o mesmo modo de pensar, pois quem sofreu na carne terminou com o pecado;
+#v 2 %v para que, no resto do tempo na carne, não viva mais segundo os maus desejos humanos, mas sim segundo a vontade de Deus.
+#v 3 %v Pois já basta, no tempo passado{tr,rp: da vida},{trnc: #fn _c N4 omite “da vida” %fn } termos feito a vontade dos pagãos, #fn _c pagãos – ou: gentios %fn e andado em promiscuidades, desejos maliciosos, bebedeiras, orgias, festas de embriaguez, e abomináveis idolatrias.
+#v 4 %v Como eles estranham vós não agirdes como eles, que correm em busca da extrema devassidão, por isso falam mal de vós. #fn _c agirdes … devassidão – lit. correrdes #ad com eles %ad à mesma extrema devassidão %fn 
+#v 5 %v Eles terão de prestar contas ao que está pronto para julgar os vivos e os mortos.
+#v 6 %v Pois por isso o evangelho também foi pregado aos mortos, #fn _c aos mortos – i.e. Os que agora estão mortos, mas que receberam o evangelho enquanto ainda estavam vivos %fn para que, mesmo que tenham sido julgados na carne segundo os critérios humanos, #fn _c segundo os critérios humanos – lit. segundo os seres humanos %fn vivam em espírito segundo os critérios de Deus. #fn _c segundo os critérios de Deus – lit. segundo Deus. Outra alternativa seria: como Deus vive #ad em Espírito %ad %fn 
+#v 7 %v O fim de todas as coisas está próximo; portanto sede sóbrios, e vigiai em orações.
+#v 8 %v {tr,rp:Mas, acima}{n4:Acima}{trnc: #fn _c N4 omite “Mas” %fn } de tudo, tende fervoroso amor uns para com os outros; porque o amor {tr,rp:cobrirá}{n4:cobre}{trnc: #fn _c N4: cobre %fn } uma multidão de pecados.
+#v 9 %v Proporcionai hospitalidade uns aos outros, sem murmurações.
+#v 10 %v Cada um sirva aos outros segundo o dom que recebeu, como bons administradores da variada graça de Deus.
+#v 11 %v Se alguém fala, que seja como as palavras de Deus; se alguém serve, #ad que sirva %ad segundo a força {tr,n4:que}{rp:como}{trnc: #fn _c TR, N4: que - RP: como %fn } Deus dá; a fim de que em tudo Deus seja glorificado por meio de Jesus Cristo. E a ele pertencem a glória e o poder para todo o sempre, Amém!
+#v 12 %v Amados, não estranheis o fogo ardente que vem sobre vós para vos provar, como se algo estranho estivesse vos acontecendo.
+#v 13 %v Em vez disso, alegrai-vos em serdes participantes das aflições de Cristo; para que, também na revelação de sua glória vos alegreis com júbilo.
+#v 14 %v Se vós sois insultados por causa do nome de Cristo, benditos #fn _c benditos – ou: bem-aventurados %fn sois; porque o Espírito da glória e de Deus repousa sobre vós{tr,rp:; o qual por eles é insultado, mas por vós é glorificado}.{trnc: #fn _c N4 omite “o qual por eles é insultado, mas por vós é glorificado” %fn }{n4: #fn _c TR, RP acrescentam: “o qual por eles é insultado, mas por vós é glorificado” ao final do versículo %fn }
+#v 15 %v Porém nenhum de vós sofra como homicida, ladrão, malfeitor, ou como alguém que se intromete em assuntos alheios; #fn _c alguém que se intromete em assuntos alheios – a palavra no original tem significado obscuro. Ou: defraudador %fn 
+#v 16 %v Mas se #ad sofre %ad como cristão, não se envergonhe; ao contrário, glorifique a Deus{tr,rp: por isso}{n4:com esse nome};{trnc: #fn _c TR, RP: “por isso” - N4: “com esse nome” %fn }{n4: #fn _c N4: “com esse nome” - TR, RP: “por isso” %fn }
+#v 17 %v Pois já é tempo do julgamento começar pela casa de Deus; e se é primeiro conosco, qual será o fim daqueles que são desobedientes ao Evangelho de Deus?
+#v 18 %v E se o justo se salva com dificuldade, o que será do #fn _c o que será do – lit. onde comparecerá %fn irreverente a Deus e pecador?
+#v 19 %v Portanto, os que sofrem segundo a vontade de Deus, confiem suas almas ao fiel Criador, fazendo o bem.
+
+#c 5 %c
+#v 1 %v {tr,rp:Aos}{n4:Portanto, aos}{trnc: #fn _c N4 acrescenta “Portanto” ao início do versículo %fn } anciãos #fn _c anciãos = ou: presbíteros %fn da igreja que estão entre vós, eu, que sou ancião como eles, e testemunha dos sofrimentos de Cristo, e participante da glória que se revelará, seriamente peço:
+#v 2 %v Pastoreai o rebanho de Deus que está entre vós,{tr.rp: supervisando-o}{trnc: #fn _c N4 omite “supervisando-o” %fn }{n4: #fn _c TR, RP acrescentam “supervisando #ad -o %ad ” %fn } não por obrigação, mas sim voluntariamente{n4:, segundo a vontade de Deus};{trnc: #fn _c N4 acrescenta: “segundo a vontade de Deus” %fn }{n4: #fn _c TR, RP omitem “segundo a vontade de Deus” %fn } não por ganância, mas sim com sincera prontidão;
+#v 3 %v nem como que dominando os que estão aos vossos cuidados, #fn _c os que estão aos vossos cuidados – lit. os reservados, ou separados. No vocabulário bíblico, é frequentemente usado para indicar propriedades e possessões, em particular propriedades de terra. Por esse motivo, traduções mais antigas põem: propriedades #ad de Deus %ad (ou algo semelhante). Outra interpretação é a de que se refere aos anciãos, referidos por Pedro como “vós”, e de que a reserva ou separação não é para a obtenção ou posse, mas tão somente para a responsabilidade e o cuidado. Isto é, refere-se aos cristãos que os anciãos devem cuidar. Esta última interpretação é a usada na tradução. %fn mas sim como exemplos ao rebanho.
+#v 4 %v E quando o Pastor Principal aparecer, vós recebereis a indestrutível coroa da glória.
+#v 5 %v Semelhantemente vós, jovens, sede sujeitos aos anciãos; e todos vós {tr,rp:sede sujeitos uns aos outros, revestidos de humildade}{n4:revesti-vos de humildade uns aos outros};{trnc: #fn _c TR, RP: sede sujeitos uns aos outros, revestidos de humildade – N4: revesti-vos de humildade uns aos outros %fn } pois:
+ Deus resiste aos soberbos, 
+ mas dá graça aos humildes. #fn _c Ref. Provérbios 3:34 %fn 
+#v 6 %v Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo adequado,
+#v 7 %v lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós.
+#v 8 %v Sede sóbrios! Vigiai! {tr,rp:Pois{trnc: #fn _c N4 omite “Pois” %fn } o}{n4:O} vosso adversário, o diabo, anda ao redor, rugindo como um leão, buscando a quem possa devorar.
+#v 9 %v Resisti a ele, firmes na fé; sabendo que as mesmas aflições acontecem com os vossos irmãos #fn _c os vossos irmãos – lit. a vossa irmandade %fn no mundo.
+#v 10 %v E o Deus de toda graça, que {tr:nos}{rp,n4:vos}{trnc: #fn _c RP, N4: vos %fn } chamou para a sua eterna glória em Cristo{tr,rp: Jesus},{trnc: #fn _c N4 omite “Jesus” %fn }{n4: #fn _c TR, RP acrescentam “Jesus” %fn } depois de sofrerdes um pouco, ele vos {tr,rp:aperfeiçoe, confirme, fortifique, e estabeleça}{n4:aperfeiçoará, confirmará, fortificará, e estabelecerá}{trnc: #fn _c N4: aperfeiçoará, confirmará, fortificará, e estabelecerá %fn } fundamento.
+#v 11 %v A ele {tr,rp:sejam a glória e}{n4:seja} o poder{trnc: #fn _c TR, RP: “sejam a glória e o poder” - N4: “seja o poder” %fn } para todo o sempre. Amém!
+#v 12 %v Por Silvano, vosso fiel irmão, como o considero, eu vos escrevi brevemente, exortando e dando testemunho de que esta é a verdadeira graça de Deus{tr,rp:, na qual estais}{n4:. Nela estai}.{trnc: #fn _c TR, RP: na qual estais – N4: Nela estai %fn }
+#v 13 %v Saúda-vos a #ad igreja %ad escolhida convosco, que está na Babilônia, e também o meu filho Marcos.
+#v 14 %v Saudai-vos uns aos outros com beijo de amor. A paz seja com todos vós que estais em Cristo{n4. #fn _c TR, RP acrescentam: “Jesus. Amém” ao final do versículo %fn }{tr,rp: Jesus. Amém.}{trnc: #fn _c N4 omite “Jesus. Amém” %fn }

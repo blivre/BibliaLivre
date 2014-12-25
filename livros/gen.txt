@@ -1,0 +1,1638 @@
+﻿#header
+#name Gênesis %name
+#ver 20130117 %ver
+#abbr Gn %abbr
+%header
+
+#c 1 %c
+#v 1 %v No princípio criou Deus os céus e a terra.
+#v 2 %v E a terra estava desordenada e vazia, e as trevas estavam sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
+#v 3 %v E disse Deus: Haja luz; e houve luz.
+#v 4 %v E viu Deus que a luz era boa: e separou Deus a luz das trevas.
+#v 5 %v E chamou Deus à luz Dia, e às trevas chamou Noite: e foi a tarde e a manhã o primeiro dia.
+#v 6 %v E disse Deus: Haja expansão em meio das águas, e separe as águas das águas.
+#v 7 %v E fez Deus a expansão, e separou as águas que estavam debaixo da expansão, das águas que estavam sobre a expansão: e foi assim.
+#v 8 %v E chamou Deus à expansão Céus: e foi a tarde e a manhã o dia segundo.
+#v 9 %v E disse Deus: Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca: e foi assim.
+#v 10 %v E chamou Deus à porção seca Terra, e à reunião das águas chamou Mares; e viu Deus que era bom.
+#v 11 %v E disse Deus: Produza a terra erva verde, erva que dê semente; árvore de fruto que dê fruto segundo a sua espécie, que sua semente esteja nela, sobre a terra: e foi assim.
+#v 12 %v E produziu a terra erva verde, erva que dá semente segundo sua natureza, e árvore que dá fruto, cuja semente está nele, segundo a sua espécie; e viu Deus que era bom.
+#v 13 %v E foi a tarde e a manhã o dia terceiro.
+#v 14 %v E disse Deus: Haja luminares na expansão dos céus para separar o dia e a noite: e sejam por sinais, e para as estações, e para dias e anos;
+#v 15 %v E sejam por luminares na expansão dos céus para iluminar sobre a terra: e foi.
+#v 16 %v E fez Deus os dois grandes luminares; o luminar maior para que exerça domínio no dia, e o luminar menor para que exerça domínio na noite; fez também as estrelas.
+#v 17 %v E as pôs Deus na expansão dos céus, para iluminar sobre a terra,
+#v 18 %v E para exercer domínio no dia e na noite, e para separar a luz e as trevas: e viu Deus que era bom.
+#v 19 %v E foi a tarde e a manhã o dia quarto.
+#v 20 %v E disse Deus: Produzam as águas répteis de alma vivente, e aves que voem sobre a terra, na aberta expansão dos céus.
+#v 21 %v E criou Deus as grandes criaturas marinhas, e toda coisa viva que anda arrastando, que as águas produziram segundo a sua espécie, e toda ave de asas segundo sua espécie: e viu Deus que era bom.
+#v 22 %v E Deus os abençoou dizendo: Frutificai e multiplicai, e enchei as águas nos mares, e as aves se multipliquem na terra.
+#v 23 %v E foi a tarde e a manhã o dia quinto.
+#v 24 %v E disse Deus: Produza a terra seres viventes segundo a sua espécie, animais e serpentes e animais da terra segundo sua espécie: e foi assim.
+#v 25 %v E fez Deus animais da terra segundo a sua espécie, e gado segundo a sua espécie, e todo animal que anda arrastando sobre a terra segundo sua espécie: e viu Deus que era bom.
+#v 26 %v E disse Deus: Façamos ao ser humano à nossa imagem, conforme nossa semelhança; e domine os peixes do mar, e as aves dos céus, e os animais, e toda a terra, e todo animal que anda arrastando sobre a terra.
+#v 27 %v E criou Deus o ser humano à sua imagem, à imagem de Deus o criou; macho e fêmea os criou.
+#v 28 %v E Deus os abençoou; e disse-lhes Deus: Frutificai e multiplicai, e enchei a terra, e subjugai-a, e dominai os peixes do mar, as aves dos céus, e todos os animais que se movem sobre a terra.
+#v 29 %v E disse Deus: Eis que vos dei toda erva que dá semente, que está sobre a face de toda a terra; e toda árvore em que há fruto de árvore que dá semente, vos será para comer.
+#v 30 %v E a todo animal da terra, e a todas as aves dos céus, e a tudo o que se move sobre a terra, em que há vida, toda erva verde lhes será para comer: e foi assim.
+#v 31 %v E viu Deus tudo o que havia feito, e eis que era bom em grande maneira. E foi a tarde e a manhã o dia sexto.
+
+#c 2 %c
+#v 1 %v E foram acabados os céus e a terra, e tudo o que neles há.
+#v 2 %v E acabou Deus no dia sétimo sua obra que fez, e repousou o dia sétimo de toda sua obra que havia feito.
+#v 3 %v E abençoou Deus ao dia sétimo, e o santificou, porque nele repousou de toda sua obra que havia Deus criado e feito.
+#v 4 %v Estas são as origens dos céus e da terra quando foram criados, no dia que o SENHOR Deus fez a terra e os céus,
+#v 5 %v E antes que toda planta do campo existisse na terra, e antes que toda erva do campo nascesse; porque ainda não havia o SENHOR Deus feito chover sobre a terra, nem havia homem para que lavrasse a terra;
+#v 6 %v Mas subia da terra um vapor, que regava toda a face da terra.
+#v 7 %v Formou, pois, o SENHOR Deus ao homem do pó da terra, e assoprou em seu nariz sopro de vida; e foi o homem em alma vivente.
+#v 8 %v E havia o SENHOR Deus plantado um jardim em Éden ao oriente, e pôs ali ao homem que havia formado.
+#v 9 %v E havia o SENHOR Deus feito nascer da terra toda árvore agradável à vista, e boa para comer: também a árvore da vida em meio do jardim, e a árvore do conhecimento do bem e do mal.
+#v 10 %v E saía de Éden um rio para regar o jardim, e dali se repartia em quatro ramificações.
+#v 11 %v O nome de um era Pisom: este é o que cerca toda a terra de Havilá, onde há ouro:
+#v 12 %v E o ouro daquela terra é bom; há ali também bdélio e pedra ônix.
+#v 13 %v O nome do segundo rio é Giom; este é o que rodeia toda a terra de Cuxe.
+#v 14 %v E o nome do terceiro rio é Tigre; este é o que vai diante da Assíria. E o quarto rio é o Eufrates.
+#v 15 %v Tomou, pois, o SENHOR Deus ao homem, e o pôs no jardim de Éden, para que o lavrasse e o guardasse.
+#v 16 %v E mandou o SENHOR Deus ao homem, dizendo: De toda árvore do jardim comerás;
+#v 17 %v Mas da árvore do conhecimento do bem e do mal não comerás dela; porque no dia que dela comeres, morrerás.
+#v 18 %v E disse o SENHOR Deus: Não é bom que o homem esteja só; farei para ele ajuda idônea para ele.
+#v 19 %v Formou, pois, o SENHOR Deus da terra todo animal do campo, e toda ave dos céus, e trouxe-os a Adão, para que visse como lhes havia de chamar; e tudo o que Adão chamou aos animais viventes, esse é seu nome.
+#v 20 %v E pôs Adão nomes a todo animal e ave dos céus e a todo animal do campo: mas para Adão não achou ajuda que estivesse idônea para ele.
+#v 21 %v E o SENHOR Deus fez cair sonho sobre Adão, e ele adormeceu: então tomou uma de suas costelas, e fechou a carne em seu lugar;
+#v 22 %v E da costela que o SENHOR Deus tomou do homem, fez uma mulher, e trouxe-a ao homem.
+#v 23 %v E disse Adão: Esta é agora osso de meus ossos, e carne de minha carne: esta será chamada Mulher, porque do homem foi tomada.
+#v 24 %v Portanto, deixará o homem a seu pai e a sua mãe, e se achegará à sua mulher, e serão uma só carne.
+#v 25 %v E estavam ambos nus, Adão e sua mulher, e não se envergonhavam.
+
+#c 3 %c
+#v 1 %v Porém a serpente era astuta, mais que todos os animais do campo que o SENHOR Deus havia feito; a qual disse à mulher: Deus vos disse: Não comais de toda árvore do jardim?
+#v 2 %v E a mulher respondeu à serpente: Do fruto das árvores do jardim comemos;
+#v 3 %v Mas do fruto da árvore que está em meio do jardim disse Deus: Não comereis dele, nem o tocareis, para que não morrais.
+#v 4 %v Então a serpente disse à mulher: Não morrereis;
+#v 5 %v Mas sabe Deus que no dia que comerdes dele, serão abertos vossos olhos, e sereis como deuses sabendo o bem e o mal.
+#v 6 %v E viu a mulher que a árvore era boa para comer, e que era agradável aos olhos, e árvore cobiçável para alcançar a sabedoria; e tomou de seu fruto, e comeu; e deu também a seu marido, o qual comeu assim como ela.
+#v 7 %v E foram abertos os olhos de ambos, e conheceram que estavam nus: então coseram folhas de figueira, e fizeram para si aventais.
+#v 8 %v E ouviram a voz do SENHOR Deus que se passeava no jardim ao esfriar do dia: e escondeu-se o homem e sua mulher da presença do SENHOR Deus entre as árvores do jardim.
+#v 9 %v E chamou o SENHOR Deus ao homem, e lhe disse: Onde estás?
+#v 10 %v E ele respondeu: Ouvi tua voz no jardim, e tive medo, porque estava nu; e me escondi.
+#v 11 %v E disse-lhe: Quem te ensinou que estavas nu? Comeste da árvore de que eu te mandei não comesses?
+#v 12 %v E o homem respondeu: A mulher que me deste por companheira me deu da árvore, e eu comi.
+#v 13 %v Então o SENHOR Deus disse à mulher: Que é o que fizeste? E disse a mulher: A serpente me enganou, e comi.
+#v 14 %v E o SENHOR Deus disse à serpente: Porquanto isto fizeste, maldita serás entre todos os animais selvagens e entre todos os animais do campo; sobre teu peito andarás, e pó comerás todos os dias de tua vida:
+#v 15 %v E inimizade porei entre ti e a mulher, e entre tua descendência e a descendência dela; esta te ferirá na cabeça, e tu lhe ferirás no calcanhar.
+#v 16 %v À mulher disse: Multiplicarei em grande maneira tuas dores e teus sofrimentos de parto; com dor darás à luz os filhos; e a teu marido será teu desejo, e ele exercerá domínio sobre ti.
+#v 17 %v E ao homem disse: Porquanto obedeceste à voz de tua mulher, e comeste da árvore de que te mandei dizendo, Não comerás dela; maldita será a terra por causa de ti; com dor comerás dela todos os dias de tua vida;
+#v 18 %v Espinhos e cardos te produzirá, e comerás erva do campo;
+#v 19 %v No suor de teu rosto comerás o pão até que voltes à terra; porque dela foste tomado: pois pó és, e ao pó voltarás.
+#v 20 %v E chamou o homem o nome de sua mulher, Eva; porquanto ela era mãe de todos o viventes.
+#v 21 %v E o SENHOR Deus fez ao homem e à sua mulher túnicas de peles, e vestiu-as.
+#v 22 %v E disse o SENHOR Deus: Eis que o homem é como um de Nos sabendo o bem e o mal: agora, pois, para que não estenda sua mão, e tome também da árvore da vida, e coma, e viva para sempre:
+#v 23 %v E tirou-o o SENHOR do jardim de Éden, para que lavrasse a terra de que foi tomado.
+#v 24 %v Lançou, pois, fora ao homem, e pôs ao oriente do jardim de Éden querubins, e uma espada acesa que se revolvia a todos os lados, para guardar o caminho da árvore da vida.
+
+#c 4 %c
+#v 1 %v E conheceu Adão a sua mulher Eva, a qual concebeu e deu à luz a Caim, e disse: Adquiri um homem pelo SENHOR.
+#v 2 %v E depois deu à luz a seu irmão Abel. E foi Abel pastor de ovelhas, e Caim foi lavrador da terra.
+#v 3 %v E aconteceu decorrendo o tempo, que Caim trouxe do fruto da terra uma oferta ao SENHOR.
+#v 4 %v E Abel trouxe também dos primogênitos de suas ovelhas, e de sua gordura. E olhou o SENHOR com agrado a Abel e à sua oferta;
+#v 5 %v Mas não olhou com bons olhos a Caim e à sua oferta. E irritou-se Caim em grande maneira, e decaiu seu semblante.
+#v 6 %v Então o SENHOR disse a Caim: Por que te irritaste, e por que se mudou teu rosto?
+#v 7 %v Se bem fizeres, não serás aceito? E se não fizeres bem, o pecado está à porta; contra ti será o seu desejo, porém tu deves dominá-lo.
+#v 8 %v E falou Caim a seu irmão Abel; e aconteceu que estando eles no campo, Caim se levantou contra seu irmão Abel, e o matou.
+#v 9 %v E o SENHOR disse a Caim: Onde está Abel teu irmão? E ele respondeu: Não sei; sou eu guarda de meu irmão?
+#v 10 %v E ele lhe disse: Que fizeste? A voz do sangue de teu irmão clama a mim desde a terra.
+#v 11 %v Agora, pois, maldito sejas tu da terra que abriu sua boca para receber o sangue de teu irmão de tua mão:
+#v 12 %v Quando lavrares a terra, não te voltará a dar sua força: errante e fugitivo serás na terra.
+#v 13 %v E disse Caim ao SENHOR: Grande é minha iniquidade para ser perdoada.
+#v 14 %v Eis que me expulsas hoje da face da terra, e de tua presença me esconderei; e serei errante e fugitivo na terra; e sucederá que qualquer um que me achar, me matará.
+#v 15 %v E respondeu-lhe o SENHOR: Certo que qualquer um que matar a Caim, sete vezes será castigado. Então o SENHOR pôs sinal em Caim, para que não o ferisse qualquer um que o achasse.
+#v 16 %v E saiu Caim de diante do SENHOR, e habitou na terra de Node, ao oriente de Éden.
+#v 17 %v E conheceu Caim a sua mulher, a qual concebeu e deu à luz a Enoque: e edificou uma cidade, e chamou o nome da cidade do nome de seu filho, Enoque.
+#v 18 %v E a Enoque nasceu Irade, e Irade gerou a Meujael, e Meujael gerou a Metusael, e Metusael gerou a Lameque.
+#v 19 %v E tomou para si Lameque duas mulheres; o nome de uma foi Ada, e o nome da outra Zilá.
+#v 20 %v E Ada deu à luz a Jabal, o qual foi pai dos que habitam em tendas, e criam gados.
+#v 21 %v E o nome de seu irmão foi Jubal, o qual foi pai de todos os que manejam harpa e flauta.
+#v 22 %v E Zilá também deu à luz a Tubalcaim, feitor de toda obra de bronze e de ferro: e a irmã de Tubalcaim foi Naamá.
+#v 23 %v E disse Lameque a suas mulheres: Ada e Zilá, ouvi minha voz; Mulheres de Lameque, escutai meu dito: Que matei um homem por ter me ferido, E um rapaz por ter me golpeado:
+#v 24 %v Se sete vezes será vingado Caim, Lameque em verdade setenta vezes sete o será.
+#v 25 %v E conheceu de novo Adão à sua mulher, a qual deu à luz um filho, e chamou seu nome Sete: Porque Deus (disse ela) me substituiu outra descendência em lugar de Abel, a quem matou Caim.
+#v 26 %v E a Sete também lhe nasceu um filho, e chamou seu nome Enos. Então os homens começaram a invocar o nome do SENHOR.
+
+#c 5 %c
+#v 1 %v Este é o livro das gerações de Adão. No dia em que criou Deus ao ser humano, à semelhança de Deus o fez;
+#v 2 %v Macho e fêmea os criou; e os abençoou, e chamou o nome deles Adão, no dia em que foram criados.
+#v 3 %v E viveu Adão cento e trinta anos, e gerou um filho à sua semelhança, conforme sua imagem, e chamou seu nome Sete.
+#v 4 %v E foram os dias de Adão, depois que gerou a Sete, oitocentos anos: e gerou filhos e filhas.
+#v 5 %v E foram todos os dias que viveu Adão novecentos e trinta anos, e morreu.
+#v 6 %v E viveu Sete cento e cinco anos, e gerou a Enos.
+#v 7 %v E viveu Sete, depois que gerou a Enos, oitocentos e sete anos: e gerou filhos e filhas.
+#v 8 %v E foram todos os dias de Sete novecentos e doze anos; e morreu.
+#v 9 %v E viveu Enos noventa anos, e gerou a Cainã.
+#v 10 %v E viveu Enos depois que gerou a Cainã, oitocentos e quinze anos: e gerou filhos e filhas.
+#v 11 %v E foram todos os dias de Enos novecentos e cinco anos; e morreu.
+#v 12 %v E viveu Cainã setenta anos, e gerou a Maalalel.
+#v 13 %v E viveu Cainã, depois que gerou a Maalalel, oitocentos e quarenta anos: e gerou filhos e filhas.
+#v 14 %v E foram todos os dias de Cainã novecentos e dez anos; e morreu.
+#v 15 %v E viveu Maalalel sessenta e cinco anos, e gerou a Jarede.
+#v 16 %v E viveu Maalalel, depois que gerou a Jarede, oitocentos e trinta anos: e gerou filhos e filhas.
+#v 17 %v E foram todos os dias de Maalalel oitocentos noventa e cinco anos; e morreu.
+#v 18 %v E viveu Jarede cento e sessenta e dois anos, e gerou a Enoque.
+#v 19 %v E viveu Jarede, depois que gerou a Enoque, oitocentos anos: e gerou filhos e filhas.
+#v 20 %v E foram todos os dias de Jarede novecentos e sessenta e dois anos; e morreu.
+#v 21 %v E viveu Enoque sessenta e cinco anos, e gerou a Matusalém.
+#v 22 %v E caminhou Enoque com Deus, depois que gerou a Matusalém, trezentos anos: e gerou filhos e filhas.
+#v 23 %v E foram todos os dias de Enoque trezentos sessenta e cinco anos.
+#v 24 %v Caminhou, pois, Enoque com Deus, e desapareceu, porque Deus o levou.
+#v 25 %v E viveu Matusalém cento e oitenta e sete anos, e gerou a Lameque.
+#v 26 %v E viveu Matusalém, depois que gerou a Lameque, setecentos e oitenta e dois anos: e gerou filhos e filhas.
+#v 27 %v Foram, pois, todos os dias de Matusalém, novecentos e sessenta e nove anos; e morreu.
+#v 28 %v E viveu Lameque cento e oitenta e dois anos, e gerou um filho:
+#v 29 %v E chamou seu nome Noé, dizendo: Este nos aliviará de nossas obras, e do trabalho de nossas mãos, por causa da terra que o SENHOR amaldiçoou.
+#v 30 %v E viveu Lameque, depois que gerou a Noé, quinhentos noventa e cinco anos: e gerou filhos e filhas.
+#v 31 %v E foram todos os dias de Lameque setecentos e setenta e sete anos; e morreu.
+#v 32 %v E sendo Noé de quinhentos anos, gerou a Sem, Cam, e a Jafé.
+
+#c 6 %c
+#v 1 %v E aconteceu que, quando começaram os homens a multiplicar-se sobre a face da terra, e lhes nasceram filhas,
+#v 2 %v Vendo os filhos de Deus que as filhas dos homens eram belas, tomaram para si mulheres, escolhendo entre todas.
+#v 3 %v E disse o SENHOR: Não brigará meu espírito com o ser humano para sempre, porque certamente ele é carne: mas serão seus dias cento e vinte anos.
+#v 4 %v Havia gigantes na terra naqueles dias, e também depois que entraram os filhos de Deus às filhas dos homens, e lhes geraram filhos: estes foram os valentes que desde a antiguidade foram homens de renome.
+#v 5 %v E viu o SENHOR que a malícia dos seres humanos era muito na terra, e que todo desígnio dos pensamentos do coração deles era continuamente somente o mal.
+#v 6 %v E arrependeu-se o SENHOR de haver feito o ser humano na terra, e pesou-lhe em seu coração.
+#v 7 %v E disse o SENHOR: Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e até o réptil e as aves do céu: porque me arrependo de havê-los feito.
+#v 8 %v Porém Noé achou favor aos olhos do SENHOR.
+#v 9 %v Estas são as gerações de Noé: Noé, homem justo, perfeito foi em suas gerações; com Deus caminhou Noé.
+#v 10 %v E gerou Noé três filhos: a Sem, a Cam, e a Jafé.
+#v 11 %v E corrompeu-se a terra diante de Deus, e estava a terra cheia de violência.
+#v 12 %v E olhou Deus a terra, e eis que estava contaminada; porque toda carne havia corrompido seu caminho sobre a terra.
+#v 13 %v E disse Deus a Noé: O fim de toda carne veio diante de mim; porque a terra está cheia de violência por causa deles; e eis que eu os destruirei com a terra.
+#v 14 %v Faze-te uma arca de madeira de gôfer: farás aposentos na arca e a selarás com betume por dentro e por fora.
+#v 15 %v E desta maneira a farás: de trezentos côvados o comprimento da arca, de cinquenta côvados sua largura, e de trinta côvados sua altura.
+#v 16 %v Uma janela farás à arca, e a acabarás a um côvado de elevação pela parte de cima: e porás a porta da arca a seu lado; e lhe farás piso abaixo, segundo e terceiro.
+#v 17 %v E eu, eis que eu trago um dilúvio de águas sobre a terra, para destruir toda carne em que haja espírito de vida debaixo do céu; tudo o que há na terra morrerá.
+#v 18 %v Mas estabelecerei meu pacto contigo, e entrarás na arca tu, e teus filhos e tua mulher, e as mulheres de teus filhos contigo.
+#v 19 %v E de tudo o que vive, de toda carne, dois de cada espécie porás na arca, para que tenham vida contigo; macho e fêmea serão.
+#v 20 %v Das aves segundo sua espécie, e dos animais segundo sua espécie, de todo réptil da terra segundo sua espécie, dois de cada espécie entrarão contigo para que tenham vida.
+#v 21 %v E toma contigo de toda comida que se come, e traga-a a ti; servirá de alimento para ti e para eles.
+#v 22 %v E o fez assim Noé; fez conforme tudo o que Deus lhe mandou.
+
+#c 7 %c
+#v 1 %v E o SENHOR disse a Noé: Entra tu e toda tua casa na arca porque a ti vi justo diante de mim nesta geração.
+#v 2 %v De todo animal limpo tomarás de sete em sete, macho e sua fêmea; mas dos animais que não são limpos, dois, macho e sua fêmea.
+#v 3 %v Também das aves dos céus de sete em sete, macho e fêmea; para guardar em vida a descendência sobre a face de toda a terra.
+#v 4 %v Porque passados ainda sete dias, eu farei chover sobre a terra quarenta dias e quarenta noites; e apagarei toda criatura que fiz de sobre a face da terra.
+#v 5 %v E fez Noé conforme tudo o que lhe mandou o SENHOR.
+#v 6 %v E sendo Noé de seiscentos anos, o dilúvio das águas foi sobre a terra.
+#v 7 %v E veio Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele à arca, por causa das águas do dilúvio.
+#v 8 %v Dos animais limpos, e dos animais que não eram limpos, e das aves, e de todo o que anda arrastando sobre a terra,
+#v 9 %v De dois em dois entraram a Noé na arca: macho e fêmea, como mandou Deus a Noé.
+#v 10 %v E sucedeu que ao sétimo dia as águas do dilúvio foram sobre a terra.
+#v 11 %v No ano seiscentos da vida de Noé, no mês segundo, no dia dezessete do mês, naquele dia foram rompidas todas as fontes do grande abismo, e as comportas dos céus foram abertas;
+#v 12 %v E houve chuva sobre a terra quarenta dias e quarenta noites.
+#v 13 %v Neste mesmo dia entrou Noé, e Sem, e Cam e Jafé, filhos de Noé, a mulher de Noé, e as três mulheres de seus filhos com ele na arca;
+#v 14 %v Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo réptil que anda arrastando sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie de animal voador.
+#v 15 %v E vieram a Noé à arca, de dois em dois de toda carne em que havia espírito de vida.
+#v 16 %v E os que vieram, macho e fêmea de toda carne vieram, como lhe havia mandado Deus: e o SENHOR lhe fechou a porta
+#v 17 %v E foi o dilúvio quarenta dias sobre a terra; e as águas cresceram, e levantaram a arca, e se elevou sobre a terra.
+#v 18 %v E prevaleceram as águas, e cresceram em grande maneira sobre a terra; e andava a arca sobre a face das águas.
+#v 19 %v E as águas prevaleceram muito em extremo sobre a terra; e todos os montes altos que havia debaixo de todos os céus, foram cobertos.
+#v 20 %v Quinze côvados em altura prevaleceram as águas; e foram cobertos os montes.
+#v 21 %v E morreu toda carne que se move sobre a terra, tanto de aves como de gados, e de animais, e de todo réptil que anda arrastando sobre a terra, e todo ser humano:
+#v 22 %v Tudo o que tinha fôlego de espírito de vida em suas narinas, de tudo o que havia na terra, morreu.
+#v 23 %v Assim foi destruída toda criatura que vivia sobre a face da terra, desde o ser humano até o animal, e os répteis, e as aves do céu; e foram apagados da terra; e restou somente Noé, e os que com ele estavam na arca.
+#v 24 %v E prevaleceram as águas sobre a terra cento e cinquenta dias.
+
+#c 8 %c
+#v 1 %v E lembrou-se Deus de Noé, e de todos os animais, selvagens e domésticos que estavam com ele na arca; e fez passar Deus um vento sobre a terra, e diminuíram as águas.
+#v 2 %v E se fecharam as fontes do abismo, e as comportas dos céus; e a chuva dos céus foi detida.
+#v 3 %v E voltaram-se as águas de sobre a terra, indo e voltando: e decresceram as águas ao fim de cento e cinquenta dias.
+#v 4 %v E repousou a arca no mês sétimo, a dezessete dias do mês, sobre os montes de Ararate.
+#v 5 %v E as águas foram decrescendo até o mês décimo: no décimo, ao primeiro dia do mês, se revelaram os cumes dos montes.
+#v 6 %v E sucedeu que, ao fim de quarenta dias, abriu Noé a janela da arca que havia feito,
+#v 7 %v E enviou ao corvo, o qual saiu, e esteve indo e voltando até que as águas se secaram de sobre a terra.
+#v 8 %v Enviou também de si à pomba, para ver se as águas se haviam retirado de sobre a face da terra;
+#v 9 %v E não achou a pomba onde sentar a planta de seu pé, e voltou-se a ele à arca, porque as águas estavam ainda sobre a face de toda a terra: então ele estendeu sua mão e recolhendo-a, a fez entrar consigo na arca.
+#v 10 %v E esperou ainda outros sete dias, e voltou a enviar a pomba fora da arca.
+#v 11 %v E a pomba voltou a ele à hora da tarde: e eis que trazia uma lâmina de oliveira tomada em seu bico: e entendeu Noé que as águas se haviam retirado de sobre a terra.
+#v 12 %v E esperou ainda outros sete dias, e enviou a pomba, a qual não voltou já mais a ele.
+#v 13 %v E sucedeu que no ano seiscentos e um de Noé, no mês primeiro, ao primeiro do mês, as águas se enxugaram de sobre a terra e tirou Noé a cobertura da arca, e olhou, e eis que a face da terra estava enxuta.
+#v 14 %v E no mês segundo, aos vinte e sete dias do mês, se secou a terra.
+#v 15 %v E falou Deus a Noé dizendo:
+#v 16 %v Sai da arca tu, e tua mulher, e teus filhos, e as mulheres de teus filhos contigo.
+#v 17 %v Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que anda arrastando sobre a terra, tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra.
+#v 18 %v Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.
+#v 19 %v Todos os animais, e todo réptil e toda ave, tudo o que se move sobre a terra segundo suas espécies, saíram da arca.
+#v 20 %v E edificou Noé um altar ao SENHOR e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocausto no altar.
+#v 21 %v E percebeu o SENHOR cheiro suave; e disse o SENHOR em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz.
+#v 22 %v Todavia serão todos os tempos da terra; a sementeira e a colheita, e o frio e calor, verão e inverno, e dia e noite, não cessarão.
+
+#c 9 %c
+#v 1 %v E abençoou Deus a Noé e a seus filhos, e disse-lhes: Frutificai, e multiplicai, e enchei a terra:
+#v 2 %v E vosso temor e vosso pavor será sobre todo animal da terra, e sobre toda ave dos céus, em tudo o que se mover na terra, e em todos os peixes do mar: em vossa mão são entregues.
+#v 3 %v Tudo o que se move e vive vos será para mantimento: assim como os legumes e ervas, vos dei disso tudo.
+#v 4 %v Porém carne com sua vida, que é seu sangue, não comereis.
+#v 5 %v Porque certamente exigirei o sangue de vossas vidas; da mão de todo animal o exigirei, e da mão do ser humano; da mão do homem seu irmão exigirei a vida do ser humano.
+#v 6 %v O que derramar sangue humano, pelo ser humano seu sangue será derramado; porque à imagem de Deus foi feito o ser humano.
+#v 7 %v Mas vós frutificai, e multiplicai-vos; procriai abundantemente na terra, e multiplicai-vos nela.
+#v 8 %v E falou Deus a Noé e a seus filhos com ele, dizendo:
+#v 9 %v Eu, eis que eu estabeleço meu pacto convosco, e com vossa descendência depois de vós;
+#v 10 %v E com toda alma vivente que está convosco, de aves, de animais, e de toda fera da terra que está convosco; desde todos os que saíram da arca até todo animal da terra.
+#v 11 %v Estabelecerei meu pacto convosco, e não será mais exterminada toda carne com águas de dilúvio; nem haverá mais dilúvio para destruir a terra.
+#v 12 %v E disse Deus: Este será o sinal do pacto que eu estabeleço entre mim e vós e toda alma vivente que está convosco, por tempos perpétuos:
+#v 13 %v Meu arco porei nas nuvens, o qual será por sinal de aliança entre mim e a terra.
+#v 14 %v E será que quando fizer vir nuvens sobre a terra, se deixará ver então meu arco nas nuvens.
+#v 15 %v E me lembrarei do meu pacto, que há entre mim e vós e toda alma vivente de toda carne; e não serão mais as águas por dilúvio para destruir toda carne.
+#v 16 %v E estará o arco nas nuvens, e o verei para me lembrar do pacto perpétuo entre Deus e toda alma vivente, com toda carne que há sobre a terra.
+#v 17 %v Disse, pois, Deus a Noé: Este será o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra.
+#v 18 %v E os filhos de Noé que saíram da arca foram Sem, Cam e Jafé: e Cam é o pai de Canaã.
+#v 19 %v Estes três são os filhos de Noé; e deles foi cheia toda a terra.
+#v 20 %v E começou Noé a lavrar a terra, e plantou uma vinha:
+#v 21 %v E bebeu do veio, e se embriagou, e estava descoberto em meio de sua tenda.
+#v 22 %v E Cam, pai de Canaã, viu a nudez de seu pai, e disse-o a seus dois irmãos à parte de fora.
+#v 23 %v Então Sem e Jafé tomaram a roupa, e a puseram sobre seus próprios ombros, e andando até atrás, cobriram a nudez de seu pai tendo seus rostos virados, e assim não viram a nudez de seu pai.
+#v 24 %v E despertou Noé de seu vinho, e soube o que havia feito com ele seu filho o mais jovem;
+#v 25 %v E disse: Maldito seja Canaã; Servo de servos será a seus irmãos.
+#v 26 %v Disse mais: Bendito o SENHOR o Deus de Sem, E seja-lhe Canaã servo.
+#v 27 %v Engrandeça Deus a Jafé, E habite nas tendas de Sem, E seja-lhe Canaã servo.
+#v 28 %v E viveu Noé depois do dilúvio trezentos e cinquenta anos.
+#v 29 %v E foram todos os dias de Noé novecentos e cinquenta anos; e morreu.
+
+#c 10 %c
+#v 1 %v Estas são as gerações dos filhos de Noé: Sem, Cam e Jafé, aos quais nasceram filhos depois do dilúvio.
+#v 2 %v Os filhos de Jafé: Gômer, e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras.
+#v 3 %v E os filhos de Gômer: Asquenaz, e Rifate, e Togarma.
+#v 4 %v E os filhos de Javã: Elisá, e Társis, Quitim, e Dodanim.
+#v 5 %v Por estes foram repartidas as ilhas das nações em suas terras, cada qual segundo sua língua, conforme suas famílias em suas nações.
+#v 6 %v Os filhos de Cam: Cuxe, e Mizraim, e Pute, e Canaã.
+#v 7 %v E os filhos de Cuxe: Sebá, Havilá, e Sabtá, e Raamá, e Sabtecá. E os filhos de Raamá: Sabá e Dedã.
+#v 8 %v E Cuxe gerou a Ninrode, este começou a ser poderoso na terra.
+#v 9 %v Este foi vigoroso caçador diante do SENHOR; pelo qual se diz: Assim como Ninrode, vigoroso caçador diante do SENHOR.
+#v 10 %v E foi a cabeceira de seu reino Babel, e Ereque, e Acade, e Calné, na terra de Sinear.
+#v 11 %v De esta terra saiu Assur, e edificou a Nínive, e a Reobote-Ir, e a Calá,
+#v 12 %v E a Resém entre Nínive e Calá; a qual é cidade grande.
+#v 13 %v E Mizraim gerou a Ludim, e a Anamim, e a Leabim, e a Naftuim,
+#v 14 %v E a Patrusim, e a Casluim de onde saíram os filisteus, e a Caftorim.
+#v 15 %v E Canaã gerou a Sídon, seu primogênito e a Hete,
+#v 16 %v E aos jebuseus, e aos amorreus, e aos gergeseus,
+#v 17 %v E aos heveus, e aos arqueus, e aos sineus,
+#v 18 %v E aos arvadeus e aos zemareus, e aos hamateus: e depois se derramaram as famílias dos cananeus.
+#v 19 %v E foi o termo dos cananeus desde Sídon, vindo a Gerar até Gaza, até entrar em Sodoma e Gomorra, Admá, e Zeboim até Lasa.
+#v 20 %v Estes são os filhos de Cam por suas famílias, por suas línguas, em suas terras, em suas nações.
+#v 21 %v Também lhe nasceram filhos a Sem, pai de todos os filhos de Héber, e irmão mais velho de Jafé.
+#v 22 %v E os filhos de Sem: Elão, e Assur, e Arfaxade, e Lude, e Arã.
+#v 23 %v E os filhos de Arã: Uz, e Hul, e Géter, e Mas.
+#v 24 %v E Arfaxade gerou a Salá, e Salá gerou a Héber.
+#v 25 %v E a Héber nasceram dois filhos: o nome de um foi Pelegue, porque em seus dias foi repartida a terra; e o nome de seu irmão, Joctã.
+#v 26 %v E Joctã gerou a Almodá, e a Salefe, e Hazarmavé, e a Jerá,
+#v 27 %v E a Hadorão, e a Uzal, e a Dicla,
+#v 28 %v E a Obal, e a Abimael, e a Sabá,
+#v 29 %v E a Ofir, e a Havilá, e a Jobabe: todos estes foram filhos de Joctã.
+#v 30 %v E foi sua habitação desde Messa vindo de Sefar, monte à parte do oriente.
+#v 31 %v Estes foram os filhos de Sem por suas famílias, por suas línguas, em suas terras, em suas nações.
+#v 32 %v Estas são as famílias de Noé por suas descendências, em suas nações; e destes foram divididas os povos na terra depois do dilúvio.
+
+#c 11 %c
+#v 1 %v Era, então, toda a terra de uma língua e umas mesmas palavras.
+#v 2 %v E aconteceu que, como se partiram do oriente, acharam um vale na terra de Sinear, e assentaram ali.
+#v 3 %v E disseram uns aos outros: Vinde, façamos tijolos e o cozamos com fogo. E foi-lhes os tijolos em lugar de pedra, e o betume em lugar de argamassa.
+#v 4 %v E disseram: Vamos, edifiquemo-nos uma cidade e uma torre, cuja ponta chegue ao céu; e façamo-nos um nome, para que não sejamos espalhados sobre a face de toda a terra.
+#v 5 %v E desceu o SENHOR para ver a cidade e a torre que edificavam os filhos dos homens.
+#v 6 %v E disse o SENHOR: Eis que o povo é um, e todos estes têm uma língua: e começaram a agir, e nada lhes restringirá agora do que pensaram fazer.
+#v 7 %v Agora, pois, desçamos, e confundamos ali suas línguas, para que ninguém entenda a fala de seu companheiro.
+#v 8 %v Assim os espalhou o SENHOR desde ali sobre a face de toda a terra, e deixaram de edificar a cidade.
+#v 9 %v Por isto foi chamado o nome dela Babel, porque ali confundiu o SENHOR a língua de toda a terra, e desde ali os espalhou sobre a face de toda a terra.
+#v 10 %v Estas são as gerações de Sem: Sem, de idade de cem anos, gerou a Arfaxade, dois anos depois do dilúvio.
+#v 11 %v E viveu Sem, depois que gerou a Arfaxade quinhentos anos, e gerou filhos e filhas.
+#v 12 %v E Arfaxade viveu trinta e cinco anos, e gerou a Salá.
+#v 13 %v E viveu Arfaxade, depois que gerou a Salá, quatrocentos e três anos, e gerou filhos e filhas.
+#v 14 %v E viveu Salá trinta anos, e gerou a Héber.
+#v 15 %v E viveu Salá, depois que gerou a Héber, quatrocentos e três anos, e gerou filhos e filhas.
+#v 16 %v E viveu Héber trinta e quatro anos, e gerou a Pelegue.
+#v 17 %v E viveu Héber, depois que gerou a Pelegue, quatrocentos e trinta anos, e gerou filhos e filhas.
+#v 18 %v E viveu Pelegue, trinta anos, e gerou a Reú.
+#v 19 %v E viveu Pelegue, depois que gerou a Reú, duzentos e nove anos, e gerou filhos e filhas.
+#v 20 %v E Reú viveu trinta e dois anos, e gerou a Serugue.
+#v 21 %v E viveu Reú, depois que gerou a Serugue, duzentos e sete anos, e gerou filhos e filhas.
+#v 22 %v E viveu Serugue trinta anos, e gerou a Naor.
+#v 23 %v E viveu Serugue, depois que gerou a Naor, duzentos anos, e gerou filhos e filhas.
+#v 24 %v E viveu Naor vinte e nove anos, e gerou a Terá.
+#v 25 %v E viveu Naor, depois que gerou a Terá, cento e dezenove anos, e gerou filhos e filhas.
+#v 26 %v E viveu Terá setenta anos, e gerou a Abrão, e a Naor, e a Harã.
+#v 27 %v Estas são as gerações de Terá: Terá gerou a Abrão, e a Naor, e a Harã; e Harã gerou a Ló.
+#v 28 %v E morreu Harã antes que seu pai Terá na terra de seu nascimento, em Ur dos caldeus.
+#v 29 %v E tomaram Abrão e Naor para si mulheres: o nome da mulher de Abrão foi Sarai, e o nome da mulher de Naor, Milca, filha de Harã, pai de Milca e de Iscá.
+#v 30 %v Mas Sarai era estéril, e não tinha filho.
+#v 31 %v E tomou Terá a Abrão seu filho, e a Ló filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de Abrão seu filho: e saiu com eles de Ur dos caldeus, para ir à terra de Canaã: e vieram até Harã, e assentaram ali.
+#v 32 %v E foram os dias de Terá duzentos e cinco anos; e morreu Terá em Harã.
+
+#c 12 %c
+#v 1 %v Porém o SENHOR disse a Abrão: Vai-te de tua terra e de tua parentela, e da casa de teu pai, à terra que te mostrarei;
+#v 2 %v E farei de ti uma grande nação, e te abençoarei, e engrandecerei teu nome, e serás bênção:
+#v 3 %v E abençoarei aos que te abençoarem, e aos que te amaldiçoarem amaldiçoarei: e serão benditas em ti todas as famílias da terra.
+#v 4 %v E foi-se Abrão, como o SENHOR lhe disse; e foi com ele Ló: e era Abrão de idade de setenta e cinco anos quando saiu de Harã.
+#v 5 %v E tomou Abrão a Sarai sua mulher, e a Ló filho de seu irmão, e todos os seus pertences que haviam ganhado, e as almas que haviam adquirido em Harã, e saíram para ir à terra de Canaã; e à terra de Canaã chegaram.
+#v 6 %v E passou Abrão por aquela terra até o lugar de Siquém, até o carvalho de Moré: e os cananeus estavam então na terra.
+#v 7 %v E apareceu o SENHOR a Abrão, e lhe disse: À tua descendência darei esta terra. E edificou ali um altar ao SENHOR, que lhe havia aparecido.
+#v 8 %v E passou-se dali a um monte ao oriente de Betel, e estendeu sua tenda, tendo a Betel ao ocidente e Ai ao oriente: e edificou ali altar ao SENHOR e invocou o nome do SENHOR.
+#v 9 %v E moveu Abrão dali, caminhando e indo até o Sul.
+#v 10 %v E houve fome na terra, e desceu Abrão ao Egito para peregrinar ali; porque era grande a fome na terra.
+#v 11 %v E aconteceu que quando estava para entrar no Egito, disse a Sarai sua mulher: Eis que, agora conheço que és mulher bela à vista;
+#v 12 %v E será que quando te houverem visto os egípcios, dirão: Sua mulher é: e matarão a mim, e a ti te preservarão a vida.
+#v 13 %v Agora, pois, dize que és minha irmã, para que eu vá bem por tua causa, e viva minha alma por causa de ti.
+#v 14 %v E aconteceu que, quando entrou Abrão no Egito, os egípcios viram a mulher que era bela em grande maneira.
+#v 15 %v Viram-na também os príncipes de Faraó, e a elogiaram; e foi levada a mulher a casa de Faraó:
+#v 16 %v E fez bem a Abrão por causa dela; e teve ovelhas, e vacas, e asnos, e servos, e criadas, e asnas e camelos.
+#v 17 %v Mas o SENHOR feriu a Faraó e à sua casa com grandes pragas, por causa de Sarai mulher de Abrão.
+#v 18 %v Então Faraó chamou a Abrão e lhe disse: Que é isto que fizeste comigo? Por que não me declaraste que era tua mulher?
+#v 19 %v Por que disseste: “É minha irmã”, pondo-me em risco de tomá-la para mim por mulher? Agora, pois, eis aqui tua mulher, toma-a e vai-te.
+#v 20 %v Então Faraó deu ordem a seus homens acerca de Abrão; e lhe acompanharam, e à sua mulher com tudo o que tinha.
+
+#c 13 %c
+#v 1 %v Subiu, pois, Abrão do Egito até o Sul de Canaã, ele e sua mulher, com tudo o que tinha, e com ele Ló.
+#v 2 %v E Abrão era riquíssimo em gado, em prata e ouro.
+#v 3 %v E voltou por suas jornadas da parte do Sul até Betel, até o lugar onde havia estado antes sua tenda entre Betel e Ai;
+#v 4 %v Ao lugar do altar que havia feito ali antes: e invocou ali Abrão o nome do SENHOR.
+#v 5 %v E também Ló, que andava com Abrão, tinha ovelhas, e vacas, e tendas.
+#v 6 %v E a terra não podia dar-lhes para que habitassem juntos: porque sua riqueza era muita, e não podiam morar em um mesmo lugar.
+#v 7 %v E houve briga entre os pastores do gado de Abrão e os pastores do gado de Ló: e os cananeus e os ferezeus habitavam então na terra.
+#v 8 %v Então Abrão disse a Ló: Não haja agora briga entre mim e ti, entre meus pastores e os teus, porque somos irmãos.
+#v 9 %v Não está toda a terra diante de ti? Eu te rogo que te separes de mim. Se fores à esquerda, eu irei à direita: e se tu à direita, eu irei à esquerda.
+#v 10 %v E levantou Ló seus olhos, e viu toda a planície do Jordão, que toda ela era bem regada, antes que destruísse o SENHOR a Sodoma e a Gomorra, como o jardim do SENHOR, como a terra do Egito entrando em Zoar.
+#v 11 %v Então Ló escolheu para si toda a planície do Jordão: e partiu-se Ló ao Oriente, e separaram-se um do outro.
+#v 12 %v Abrão assentou na terra de Canaã, e Ló assentou nas cidades da planície, e foi pondo suas tendas até Sodoma.
+#v 13 %v Mas os homens de Sodoma eram maus e pecadores para com o SENHOR em grande maneira.
+#v 14 %v E o SENHOR disse a Abrão, depois que Ló se separou dele: Levanta agora teus olhos, e olha desde o lugar onde estás até o norte, e ao sul, e ao oriente e ao ocidente;
+#v 15 %v Porque toda a terra que vês, a darei a ti e à tua descendência para sempre.
+#v 16 %v E farei tua descendência como o pó da terra: que se alguém puder contar o pó da terra, também tua descendência será contada.
+#v 17 %v Levanta-te, vai pela terra ao longo dela e à sua largura; porque a ti a tenho de dar.
+#v 18 %v Abrão, pois, removendo sua tenda, veio e morou nos carvalhos de Manre, que é em Hebrom, e edificou ali altar ao SENHOR.
+
+#c 14 %c
+#v 1 %v E aconteceu nos dias de Anrafel, rei de Sinear, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de nações,
+#v 2 %v Que estes fizeram guerra contra Bera, rei de Sodoma, e contra Birsa, rei de Gomorra, e contra Sinabe, rei de Admá, e contra Semeber, rei de Zeboim, e contra o rei de Belá, a qual é Zoar.
+#v 3 %v Todos estes se juntaram no vale de Sidim, que é o mar salgado.
+#v 4 %v Doze anos haviam servido a Quedorlaomer, e ao décimo terceiro ano se rebelaram.
+#v 5 %v E no ano décimo quarto veio Quedorlaomer, e os reis que estavam de sua parte, e derrotaram aos refains em Asterote-Carnaim, aos zuzins em Hã, e aos emins em Savé-Quiriataim.
+#v 6 %v E aos horeus no monte de Seir, até a El-Parã, que está junto ao deserto.
+#v 7 %v E voltaram e vieram a En-Mispate, que é Cades, e devastaram todas as terras dos amalequitas, e também aos amorreus, que habitavam em Hazazom-Tamar.
+#v 8 %v E saiu o rei de Sodoma, e o rei de Gomorra, e o rei de Admá, e o rei de Zeboim, e o rei de Belá, que é Zoar, e ordenaram contra eles batalha no vale de Sidim;
+#v 9 %v A saber, contra Quedorlaomer, rei de Elão, e Tidal, rei de nações, e Anrafel, rei de Sinear, e Arioque, rei de Elasar; quatro reis contra cinco.
+#v 10 %v E o vale de Sidim estava cheio de poços de betume: e fugiram o rei de Sodoma e o de Gomorra, e caíram ali; e os demais fugiram ao monte.
+#v 11 %v E tomaram toda a riqueza de Sodoma e de Gomorra, e todas seus víveres, e se foram.
+#v 12 %v Tomaram também a Ló, filho do irmão de Abrão, que morava em Sodoma, e sua riqueza, e se foram.
+#v 13 %v E veio um dos que escaparam, e denunciou-o a Abrão o hebreu, que habitava no vale de Manre, amorreu, irmão de Escol e irmão de Aner, os quais tinham feito pacto com Abrão.
+#v 14 %v E ouviu Abrão que seu irmão estava prisioneiro, e armou seus criados, os criados de sua casa, trezentos e dezoito, e seguiu-os até Dã.
+#v 15 %v E derramou-se sobre eles de noite ele e seus servos, e feriu-os, e foi os seguindo até Hobá, que está à esquerda de Damasco.
+#v 16 %v E recuperou todos os bens, e também a Ló seu irmão e sua riqueza, e também as mulheres e gente.
+#v 17 %v E saiu o rei de Sodoma a recebê-lo, quando voltava da derrota de Quedorlaomer e dos reis que com ele estavam, ao vale de Savé, que é o vale do Rei.
+#v 18 %v Então Melquisedeque, rei de Salém, tirou pão e vinho; o qual era sacerdote do Deus altíssimo;
+#v 19 %v E abençoou-lhe, e disse: Bendito seja Abrão do Deus altíssimo, possuidor dos céus e da terra;
+#v 20 %v E bendito seja o Deus altíssimo, que entregou teus inimigos em tua mão. E deu-lhe Abrão os dízimos de tudo.
+#v 21 %v Então o rei de Sodoma disse a Abrão: Dá-me as pessoas, e toma para ti a riqueza.
+#v 22 %v E respondeu Abrão ao rei de Sodoma: Levantei minha mão ao SENHOR Deus altíssimo, possuidor dos céus e da terra,
+#v 23 %v Que desde um fio até a correia de um calçado, nada tomarei de tudo o que é teu, para que não digas: Eu enriqueci a Abrão:
+#v 24 %v Tirando somente o que comeram os rapazes, e a porção dos homens que foram comigo, Aner, Escol, e Manre; os quais tomarão sua parte.
+
+#c 15 %c
+#v 1 %v Depois destas coisas foi a palavra do SENHOR a Abrão em visão, dizendo: Não temas, Abrão; eu sou teu escudo, e tua recompensa muito grande.
+#v 2 %v E respondeu Abrão: Senhor DEUS que me darás, sendo assim que ando sem filho, e o mordomo de minha casa é esse Damasceno Eliézer?
+#v 3 %v Disse mais Abrão: Eis que não me deste descendência, e eis que é meu herdeiro um nascido em minha casa.
+#v 4 %v E logo a palavra do SENHOR foi a ele dizendo: Não te herdará este, mas sim o que sairá de tuas entranhas será o que te herdará.
+#v 5 %v E tirou-lhe fora, e disse: Olha agora aos céus, e conta as estrelas, se as podes contar. E lhe disse: Assim será tua descendência.
+#v 6 %v E creu ao SENHOR, e contou-lhe por justiça.
+#v 7 %v E disse-lhe: Eu sou o SENHOR, que te tirei de Ur dos caldeus, para dar-te a herdar esta terra.
+#v 8 %v E ele respondeu: Senhor DEUS em que conhecerei que a tenho de herdar?
+#v 9 %v E lhe disse: Separa-me uma bezerra de três anos, e uma cabra de três anos, e um carneiro de três anos, uma rolinha também, e um pombinho.
+#v 10 %v E tomou ele todas estas coisas, e partiu-as pela metade, e pôs cada metade uma em frente de outra; mas não partiu as aves.
+#v 11 %v E desciam aves sobre os corpos mortos, e enxotava-as Abrão.
+#v 12 %v Mas à queda do sol veio o sono a Abrão, e eis que o pavor de uma grande escuridão caiu sobre ele.
+#v 13 %v Então disse a Abrão: Tem por certo que tua descendência será peregrina em terra não sua, e servirá aos dali, e serão por eles afligidos quatrocentos anos.
+#v 14 %v Mas também à gente a quem servirão, julgarei eu; e depois disto sairão com grande riqueza.
+#v 15 %v E tu virás a teus pais em paz, e serás sepultado em boa velhice.
+#v 16 %v E na quarta geração voltarão aqui: porque ainda não está completa a maldade dos amorreus até aqui.
+#v 17 %v E sucedeu que posto o sol, e já escurecido, deixou-se ver um forno fumegando, e uma tocha de fogo que passou por entre os animais divididos.
+#v 18 %v Naquele dia fez o SENHOR um pacto com Abrão dizendo: À tua descendência darei esta terra desde o rio do Egito até o rio grande, o rio Eufrates;
+#v 19 %v Os queneus, e os quenezeus, e os cadmoneus,
+#v 20 %v E os heteus, e os perizeus, e os refains,
+#v 21 %v E os amorreus, e os cananeus, e os girgaseus, e os jebuseus.
+
+#c 16 %c
+#v 1 %v E Sarai, mulher de Abrão não lhe dava filho: e ela tinha uma serva egípcia, que se chamava Agar.
+#v 2 %v Disse, pois, Sarai a Abrão: Já vês que o SENHOR me fez estéril: rogo-te que entres a minha serva; talvez terei filhos dela. E atendeu Abrão ao dito de Sarai.
+#v 3 %v E Sarai, mulher de Abrão, tomou a Agar sua serva egípcia, ao fim de dez anos que havia habitado Abrão na terra de Canaã, e deu-a a Abrão seu marido por mulher.
+#v 4 %v E ele se deitou com Agar, a qual concebeu: e quando viu que havia concebido, olhava com desprezo à sua senhora.
+#v 5 %v Então Sarai disse a Abrão: Minha afronta seja sobre ti: eu pus minha serva em teu seio, e vendo-se grávida, me olha com desprezo; julgue o SENHOR entre mim e ti.
+#v 6 %v E respondeu Abrão a Sarai: Eis aí tua serva em tua mão, faze com ela o que bem te parecer. E quando Sarai a afligiu, fugiu-se de sua presença.
+#v 7 %v E achou-a o anjo do SENHOR junto a uma fonte de água no deserto, junto à fonte que está no caminho de Sur.
+#v 8 %v E lhe disse: Agar, serva de Sarai, de onde vens tu, e para onde vais? E ela respondeu: Fujo de diante de Sarai, minha senhora.
+#v 9 %v E disse-lhe o anjo do SENHOR: Volta-te a tua senhora, e põe-te submissa sob sua mão.
+#v 10 %v Disse-lhe também o anjo do SENHOR: Multiplicarei tanto tua linhagem, que não será contada por causa da multidão.
+#v 11 %v Disse-lhe ainda o anjo do SENHOR: Eis que concebeste, e darás à luz um filho, e chamarás seu nome Ismael, porque ouviu o SENHOR tua aflição.
+#v 12 %v E ele será homem bravio; sua mão contra todos, e as mãos de todos contra ele, e diante de todos os seus irmãos habitará.
+#v 13 %v Então chamou o nome do SENHOR que com ela falava: Tu és o Deus da vista; porque disse: Não vi também aqui ao que me vê?
+#v 14 %v Pelo qual chamou ao poço, Poço do Vivente que me vê. Eis que está entre Cades e Berede.
+#v 15 %v E deu à luz Agar a Abrão um filho e chamou Abrão o nome de seu filho que lhe deu à luz Agar, Ismael.
+#v 16 %v E era Abrão de idade de oitenta e seis anos, quando deu à luz Agar a Ismael.
+
+#c 17 %c
+#v 1 %v E sendo Abrão de idade de noventa e nove anos, apareceu-lhe o SENHOR, e lhe disse: Eu sou o Deus Todo-Poderoso; anda diante de mim, e sê perfeito.
+#v 2 %v E porei meu pacto entre mim e ti, e te multiplicarei muito em grande maneira.
+#v 3 %v Então Abrão caiu sobre seu rosto, e Deus falou com ele dizendo:
+#v 4 %v Eu, eis aqui meu pacto contigo: Serás pai de multidão de nações:
+#v 5 %v E não se chamará mais teu nome Abrão, mas sim que será teu nome Abraão, porque te pus por pai de multidão de nações.
+#v 6 %v E te multiplicarei muito em grande maneira, e te porei em nações, e reis sairão de ti.
+#v 7 %v E estabelecerei meu pacto entre mim e ti, e tua descendência depois de ti em suas gerações, por aliança perpétua, para ser para ti por Deus, e à tua descendência depois de ti.
+#v 8 %v E darei a ti, e à tua descendência depois de ti, a terra de tuas peregrinações, toda a terra de Canaã em herança perpétua; e serei o Deus deles.
+#v 9 %v Disse de novo Deus a Abraão: Tu, porém, guardarás meu pacto, tu e tua descendência depois de ti por suas gerações.
+#v 10 %v Este será meu pacto, que guardareis entre mim e vós e tua descendência depois de ti: Será circuncidado todo macho dentre vós.
+#v 11 %v Circuncidareis, pois, a carne de vosso prepúcio, e será por sinal do pacto entre mim e vós.
+#v 12 %v E de idade de oito dias será circuncidado todo macho entre vós por vossas gerações: o nascido em casa, e o comprado a dinheiro de qualquer estrangeiro, que não for de tua descendência.
+#v 13 %v Deve ser circuncidado o nascido em tua casa, e o comprado por teu dinheiro: e estará meu pacto em vossa carne para aliança perpétua.
+#v 14 %v E o macho incircunciso que não houver circuncidado a carne de seu prepúcio, aquela pessoa será exterminada de seu povo; violou meu pacto.
+#v 15 %v Disse também Deus a Abraão: A Sarai tua mulher não a chamarás Sarai, mas Sara será seu nome.
+#v 16 %v E a abençoarei, e também te darei dela filho; si, a abençoarei, e virá a ser mãe de nações; reis de povos serão dela.
+#v 17 %v Então Abraão caiu sobre seu rosto, e riu-se, e disse em seu coração: A homem de cem anos há de nascer filho? e Sara, já de noventa anos, há de dar à luz?
+#v 18 %v E disse Abraão a Deus: Bom seria se Ismael viva diante de ti.
+#v 19 %v E respondeu Deus: Certamente Sara tua mulher te dará à luz um filho, e chamarás seu nome Isaque; e confirmarei meu pacto com ele por aliança perpétua para sua descendência depois dele.
+#v 20 %v E quanto a Ismael, também te ouvi: eis que o abençoarei, e lhe farei frutificar e multiplicar muito em grande maneira: doze príncipes gerará, e o porei por grande nação.
+#v 21 %v Mas eu estabelecerei meu pacto com Isaque, ao qual te dará à luz Sara por este tempo o ano seguinte.
+#v 22 %v E acabou de falar com ele, e subiu Deus de com Abraão.
+#v 23 %v Então tomou Abraão a Ismael seu filho, e a todos os servos nascidos em sua casa, e a todos os comprados por seu dinheiro, a todo homem entre os domésticos da casa de Abraão, e circuncidou a carne do prepúcio deles naquele mesmo dia, como Deus lhe havia dito.
+#v 24 %v Era Abraão de idade de noventa e nove anos quando circuncidou a carne de seu prepúcio.
+#v 25 %v E Ismael seu filho era de treze anos quando foi circuncidada a carne de seu prepúcio.
+#v 26 %v No mesmo dia foi circuncidado Abraão e Ismael seu filho.
+#v 27 %v E todos os homens de sua casa, o servo nascido em casa, e o comprado por dinheiro do estrangeiro, foram circuncidados com ele.
+
+#c 18 %c
+#v 1 %v E apareceu-lhe o SENHOR nos carvalhos de Manre, estando ele sentado à porta de sua tenda no calor do dia.
+#v 2 %v E levantou seus olhos e olhou, e eis que três homens que estavam junto a ele: e quando os viu, saiu correndo da porta de sua tenda a recebê-los, e inclinou-se até a terra,
+#v 3 %v E disse: Senhor, se agora achei favor em teus olhos, rogo-te que não passes de teu servo.
+#v 4 %v Que se traga agora um pouco de água, e lavai vossos pés; e recostai-vos debaixo de uma árvore,
+#v 5 %v E trarei um bocado de pão, e confortai vosso coração; depois passareis: porque por isso passastes perto de vosso servo. E eles disseram: Faze assim como disseste.
+#v 6 %v Então Abraão foi depressa à tenda a Sara, e lhe disse: Toma logo três medidas de flor de farinha, amassa e faze pães cozidos debaixo das cinzas.
+#v 7 %v E correu Abraão às vacas, e tomou um bezerro tenro e bom, e deu-o ao jovem, e deu-se este pressa a prepará-lo.
+#v 8 %v Tomou também manteiga e leite, e o bezerro que havia preparado, e o pôs diante deles; e ele estava junto a eles debaixo da árvore; e comeram.
+#v 9 %v E lhe disseram: Onde está Sara tua mulher? E ele respondeu: Aqui na tenda.
+#v 10 %v Então disse: De certo voltarei a ti segundo o tempo da vida, e eis que, terá um filho Sara tua mulher. E Sara escutava à porta da tenda, que estava detrás dele.
+#v 11 %v E Abraão e Sara eram velhos, entrados em dias: a Sara havia cessado já o costume das mulheres.
+#v 12 %v Riu-se, pois, Sara entre si, dizendo: Depois que envelheci terei deleite, sendo também meu senhor já velho?
+#v 13 %v Então o SENHOR disse a Abraão: Por que se riu Sara dizendo: Será certo que darei à luz sendo já velha?
+#v 14 %v Há para Deus alguma coisa difícil? Ao tempo assinalado voltarei a ti, segundo o tempo da vida, e Sara terá um filho.
+#v 15 %v Então Sara negou dizendo: Não me ri; porque tive medo. E ele disse: Não é assim, mas sim que te riste.
+#v 16 %v E os homens se levantaram dali, e olharam até Sodoma: e Abraão ia com eles acompanhando-os.
+#v 17 %v E o SENHOR disse: Encobrirei eu a Abraão o que vou a fazer,
+#v 18 %v Havendo de ser Abraão em uma nação grande e forte, e havendo de ser benditas nele todas as nações da terra?
+#v 19 %v Porque eu o conheci, sei que mandará a seus filhos e a sua casa depois de si, que guardem o caminho do SENHOR, fazendo justiça e juízo, para que faça vir o SENHOR sobre Abraão o que falou acerca dele.
+#v 20 %v Então o SENHOR lhe disse: Porquanto o clamor de Sodoma e Gomorra se aumenta mais e mais, e o pecado deles se agravou em extremo,
+#v 21 %v Descerei agora, e verei se consumaram sua obra segundo o clamor que veio até mim; e se não, eu o saberei.
+#v 22 %v E apartaram-se dali os homens, e foram até Sodoma: mas Abraão estava ainda diante do SENHOR.
+#v 23 %v E aproximou-se Abraão e disse: Destruirás também ao justo com o ímpio?
+#v 24 %v Talvez há cinquenta justos dentro da cidade: destruirás também e não perdoarás ao lugar por cinquenta justos que estejam dentro dela?
+#v 25 %v Longe de ti o fazer tal, que faças morrer ao justo com o ímpio e que seja o justo tratado como o ímpio; nunca faças tal. O juiz de toda a terra, não há de fazer o que é justo?
+#v 26 %v Então respondeu o SENHOR: Se achar em Sodoma cinquenta justos dentro da cidade, perdoarei a todo este lugar por causa deles.
+#v 27 %v E Abraão replicou e disse: Eis que agora que comecei a falar a meu Senhor, ainda que sou pó e cinza:
+#v 28 %v Talvez faltarão de cinquenta justos cinco: destruirás por aqueles cinco toda a cidade? E disse: Não a destruirei, se achar ali quarenta e cinco.
+#v 29 %v E voltou a falar-lhe, e disse: Talvez se acharão ali quarenta. E respondeu: Não o farei por causa dos quarenta.
+#v 30 %v E disse: Não se ire agora meu Senhor, se falar: talvez se acharão ali trinta. E respondeu: Não o farei se achar ali trinta.
+#v 31 %v E disse: Eis que agora que me empreendi em falar a meu Senhor: talvez se acharão ali vinte. Não a destruirei, respondeu, por causa dos vinte.
+#v 32 %v E voltou a dizer: Não se ire agora meu Senhor, se falar somente uma vez: talvez se acharão ali dez. Não a destruirei, respondeu, por causa dos dez.
+#v 33 %v E foi-se o SENHOR, logo que acabou de falar a Abraão: e Abraão se voltou a seu lugar.
+
+#c 19 %c
+#v 1 %v Chegaram, pois, os dois anjos a Sodoma ao cair da tarde: e Ló estava sentado à porta de Sodoma. E vendo-os Ló, levantou-se a recebê-los, e inclinou-se até o chão;
+#v 2 %v E disse: Agora, pois, meus senhores, vos rogo que venhais à casa de vosso servo e vos hospedeis, e lavareis vossos pés: e pela manhã vos levantareis, e seguireis vosso caminho. E eles responderam: Não, que na praça nos ficaremos esta noite.
+#v 3 %v Mas ele insistiu com eles muito, e se vieram com ele, e entraram em sua casa; e fez-lhes banquete, e cozeu pães sem levedura e comeram.
+#v 4 %v E antes que se deitassem, cercaram a casa os homens da cidade, os homens de Sodoma, todo o povo junto, desde o mais jovem até o mais velho;
+#v 5 %v E chamaram a Ló, e lhe disseram: Onde estão os homens que vieram a ti esta noite? tira-os a nós, para que os conheçamos.
+#v 6 %v Então Ló saiu a eles à porta, e fechou as portas atrás de si,
+#v 7 %v E disse: Eu vos rogo, meus irmãos, que não façais tal maldade.
+#v 8 %v Eis aqui agora eu tenho duas filhas que não conheceram homem; eu as tirarei fora para vó, e fazei delas como bem vos parecer: somente a estes homens não façais nada, pois que vieram à sombra de meu telhado.
+#v 9 %v E eles responderam: Sai daí: e acrescentaram: Veio este aqui para habitar como um estrangeiro, e haverá de levantar-se como juiz? Agora te faremos mais mal que a eles. E faziam grande violência ao homem, a Ló, e se aproximaram para romper as portas.
+#v 10 %v Então os homens estenderam a mão, e meteram a Ló em casa com eles, e fecharam as portas.
+#v 11 %v E aos homens que estavam à porta da casa desde o menor até o maior, feriram com cegueira; mas eles se cansavam tentando achar a porta.
+#v 12 %v E disseram os homens a Ló: Tens aqui alguém mais? Genros, e teus filhos e tuas filhas, e tudo o que tens na cidade, tira-o deste lugar:
+#v 13 %v Porque vamos destruir este lugar, porquanto o clamor deles subiu demais diante do SENHOR; portanto o SENHOR nos enviou para destruí-lo.
+#v 14 %v Então saiu Ló, e falou a seus genros, os que haviam de tomar suas filhas, e lhes disse: Levantai-vos, saí deste lugar; porque o SENHOR vai destruir esta cidade. Mas pareceu a seus genros como que se ridicularizava.
+#v 15 %v E ao raiar a alva, os anjos davam pressa a Ló, dizendo: Levanta-te, toma tua mulher, e teus dois filhas que se acham aqui, para que não pereças no castigo da cidade.
+#v 16 %v E demorando-se ele, os homens pegaram por sua mão, e pela mão de sua mulher, e pelas mãos de suas duas filhas segundo a misericórdia do SENHOR para com ele; e o tiraram, e o puseram fora da cidade.
+#v 17 %v E foi que quando os tirou fora, disse: Escapa por tua vida; não olhes atrás de ti, nem pares toda esta planície; escapa ao monte, não seja que pereças.
+#v 18 %v E Ló lhes disse: Não, eu vos rogo, senhores meus;
+#v 19 %v Eis que agora achou teu servo favor em teus olhos, e engrandeceste tua misericórdia que fizeste comigo dando-me a vida; mas eu não poderei escapar ao monte, não seja caso que me alcance o mal e morra.
+#v 20 %v Eis que agora esta cidade está próxima para fugir ali, a qual é pequena; escaparei agora ali, (não é ela pequena?) e viverá minha alma.
+#v 21 %v E lhe respondeu: Eis que recebi também tua súplica sobre isto, e não destruirei a cidade de que falaste.
+#v 22 %v Apressa-te, escapa-te ali; porque nada poderei fazer até que ali tenhas chegado. Por isto foi chamado o nome da cidade, Zoar.
+#v 23 %v O sol saía sobre a terra, quando Ló chegou a Zoar.
+#v 24 %v Então choveu o SENHOR sobre Sodoma e sobre Gomorra enxofre e fogo da parte do SENHOR desde os céus;
+#v 25 %v E destruiu as cidades, e toda aquela planície, com todos os moradores daquelas cidades, e o fruto da terra.
+#v 26 %v Então a mulher de Ló olhou atrás, às costas dele, e se tornou estátua de sai.
+#v 27 %v E subiu Abraão pela manhã ao lugar onde havia estado diante do SENHOR:
+#v 28 %v E olhou até Sodoma e Gomorra, e até toda a terra daquela planície olhou; e eis que a fumaça subia da terra como a fumaça de um forno.
+#v 29 %v Assim foi que, quando destruiu Deus as cidades da planície, lembrou-se Deus de Abraão, e enviou fora a Ló do meio da destruição, ao assolar as cidades onde Ló estava.
+#v 30 %v Porém Ló subiu de Zoar, e assentou no monte, e suas duas filhas com ele; porque teve medo de ficar em Zoar, e se abrigou em uma caverna ele e suas duas filhas.
+#v 31 %v Então a maior disse à menor: Nosso pai é velho, e não resta homem na terra que entre a nós conforme o costume de toda a terra:
+#v 32 %v Vem, demos a beber vinho a nosso pai, e durmamos com ele, e conservaremos de nosso pai geração.
+#v 33 %v E deram a beber vinho a seu pai aquela noite: e entrou a maior, e dormiu com seu pai; mas ele não sentiu quando se deitou com ela nem quando se levantou.
+#v 34 %v O dia seguinte disse a maior à menor: Eis que eu dormi a noite passada com meu pai; demos a ele de beber vinho também esta noite, e entra e dorme com ele, para que conservemos de nosso pai geração.
+#v 35 %v E deram a beber vinho a seu pai também aquela noite: e levantou-se a menor, e dormiu com ele; mas não conseguiu perceber quando se deitou com ela, nem quando se levantou.
+#v 36 %v E conceberam as duas filhas de Ló, de seu pai.
+#v 37 %v E deu à luz a maior um filho, e chamou seu nome Moabe, o qual é pai dos moabitas até hoje.
+#v 38 %v A menor também deu à luz um filho, e chamou seu nome Ben-Ami, o qual é pai dos amonitas até hoje.
+
+#c 20 %c
+#v 1 %v De ali partiu Abraão à terra do Sul, e assentou entre Cades e Sur, e habitou como peregrino em Gerar.
+#v 2 %v E disse Abraão de Sara sua mulher: Minha irmã é. E Abimeleque, rei de Gerar, enviou e tomou a Sara.
+#v 3 %v Porém Deus veio a Abimeleque em sonhos de noite, e lhe disse: Eis que morto és por causa da mulher que tomaste, a qual é casada com marido.
+#v 4 %v Mas Abimeleque não havia chegado a ela, e disse: Senhor, matarás também a gente justa?
+#v 5 %v Não me disse ele: Minha irmã é; e ela também disse: É meu irmão? Com sinceridade de meu coração, e com limpeza de minhas mãos fiz isto.
+#v 6 %v E disse-lhe Deus em sonhos: Eu também sei que com integridade de teu coração fizeste isto; e eu também te detive de pecar contra mim, e assim não te permiti que a tocasses.
+#v 7 %v Agora, pois, volta a mulher a seu marido; porque é profeta, e orará por ti, e viverás. E se tu não a devolveres, sabe que certamente morrerás, com tudo o que for teu.
+#v 8 %v Então Abimeleque se levantou de manhã, e chamou a todos os seus servos, e disse todas estas palavras aos ouvidos deles; e temeram os homens em grande maneira.
+#v 9 %v Depois chamou Abimeleque a Abraão e lhe disse: Que nos fizeste? e em que pequei eu contra ti, que atraíste sobre mim e sobre meu reino tão grande pecado? o que não devias fazer fizeste comigo.
+#v 10 %v E disse mais Abimeleque a Abraão: Que viste para que fizesses isto?
+#v 11 %v E Abraão respondeu: Porque disse para mim: Certamente não há temor de Deus neste lugar, e me matarão por causa de minha mulher.
+#v 12 %v E na verdade também é minha irmã, filha de meu pai, mas não filha de minha mãe, e tomei-a por mulher.
+#v 13 %v E foi que, quando Deus me fez sair sem rumo da casa de meu pai, eu lhe disse: Esta é a lealdade que tu me farás, que em todos os lugares onde chegarmos, digas de mim: Meu irmão é.
+#v 14 %v Então Abimeleque tomou ovelhas e vacas, e servos e servas, e deu-o a Abraão, e devolveu-lhe a Sara sua mulher.
+#v 15 %v E disse Abimeleque: Eis que minha terra está diante de ti, habita onde bem te parecer.
+#v 16 %v E a Sara disse: Eis que dei mil moedas de prata a teu irmão; olha que ele te é por véu de olhos para todos os que estão contigo, e para com todos: assim foi repreendida.
+#v 17 %v Então Abraão orou a Deus; e Deus sanou a Abimeleque e a sua mulher, e a suas servas, e voltaram a ter filhos.
+#v 18 %v Porque havia por completo fechado o SENHOR toda madre da casa de Abimeleque, por causa de Sara mulher de Abraão.
+
+#c 21 %c
+#v 1 %v E visitou o SENHOR a Sara, como disse, e fez o SENHOR com Sara como havia falado.
+#v 2 %v E concebeu e deu à luz Sara a Abraão um filho em sua velhice, no tempo que Deus lhe havia dito.
+#v 3 %v E chamou Abraão o nome de seu filho que lhe nasceu, que lhe deu à luz Sara, Isaque.
+#v 4 %v E circuncidou Abraão a seu filho Isaque de oito dias, como Deus lhe havia mandado.
+#v 5 %v E era Abraão de cem anos, quando lhe nasceu Isaque seu filho.
+#v 6 %v Então disse Sara: Deus me fez rir, e qualquer um que o ouvir, se rirá comigo.
+#v 7 %v E acrescentou: Quem diria a Abraão que Sara havia de dar de mamar a filhos? pois que lhe dei um filho em sua velhice.
+#v 8 %v E cresceu o menino, e foi desmamado; e fez Abraão grande banquete no dia que foi desmamado Isaque.
+#v 9 %v E viu Sara ao filho de Agar a egípcia, o qual havia esta dado a Abraão, que o ridicularizava.
+#v 10 %v Portanto disse a Abraão: Expulsa a esta serva e a seu filho; que o filho desta serva não herdará com meu filho, com Isaque.
+#v 11 %v Este dito pareceu grave em grande maneira a Abraão por causa de seu filho.
+#v 12 %v Então disse Deus a Abraão: Não te pareça grave por causa do jovem e de tua serva; em tudo o que te disser Sara, ouve sua voz, porque em Isaque te será chamada descendência.
+#v 13 %v E também do filho da serva farei nação, porque é tua descendência.
+#v 14 %v Então Abraão se levantou manhã muito cedo, e tomou pão, e um odre de água, e deu-o a Agar, pondo-o sobre seu ombro, e entregou-lhe o jovem, e despediu-a. E ela partiu, e andava errante pelo deserto de Berseba.
+#v 15 %v E faltou a água do odre, e deitou ao jovem debaixo de uma árvore;
+#v 16 %v E foi-se e sentou-se em frente, afastando-se como um tiro de arco; porque dizia: Não verei quando o jovem morrer: e sentou-se em frente, e levantou sua voz e chorou.
+#v 17 %v E ouviu Deus a voz do jovem; e o anjo de Deus chamou a Agar desde o céu, e lhe disse: Que tens, Agar? Não temas; porque Deus ouviu a voz do jovem onde está.
+#v 18 %v Levanta-te, ergue ao jovem, e pegue-o por tua mão, porque em grande nação o tenho de pôr.
+#v 19 %v Então abriu Deus seus olhos, e viu uma fonte de água; e foi, e encheu o odre de água, e deu de beber ao jovem.
+#v 20 %v E foi Deus com o jovem; e cresceu, e habitou no deserto, e foi atirador de arco.
+#v 21 %v E habitou no deserto de Parã; e sua mãe lhe tomou mulher da terra do Egito.
+#v 22 %v E aconteceu naquele mesmo tempo que falou Abimeleque, e Ficol, príncipe de seu exército, a Abraão dizendo: Deus é contigo em tudo quanto fazes.
+#v 23 %v Agora, pois, jura-me aqui por Deus, que não faltarás a mim, nem a meu filho, nem a meu neto; mas sim que conforme a bondade que eu fiz contigo, farás tu comigo e com a terra onde peregrinaste.
+#v 24 %v E respondeu Abraão: Eu jurarei.
+#v 25 %v E Abraão reclamou com Abimeleque por causa de um poço de água, que os servos de Abimeleque lhe haviam tirado.
+#v 26 %v E respondeu Abimeleque: Não sei quem tenha feito isto, nem tampouco tu me fizeste saber, nem eu o ouvi até hoje.
+#v 27 %v E tomou Abraão ovelhas e vacas, e deu a Abimeleque; e fizeram ambos aliança.
+#v 28 %v E pôs Abraão sete cordeiras do rebanho à parte.
+#v 29 %v E disse Abimeleque a Abraão: Que significam essas sete cordeiras que puseste à parte?
+#v 30 %v E ele respondeu: Que estas sete cordeiras tomarás de minha mão, para que me sejam em testemunho de que eu cavei este poço.
+#v 31 %v Por isto chamou a aquele lugar Berseba; porque ali juraram ambos.
+#v 32 %v Assim fizeram aliança em Berseba: e levantaram-se Abimeleque e Ficol, príncipe de seu exército, e se voltaram à terra dos filisteus.
+#v 33 %v E plantou Abraão um bosque em Berseba, e invocou ali o nome do SENHOR Deus eterno.
+#v 34 %v E morou Abraão na terra dos filisteus muitos dias.
+
+#c 22 %c
+#v 1 %v E aconteceu depois destas coisas, que provou Deus a Abraão, e lhe disse: Abraão. E ele respondeu: Eis-me aqui.
+#v 2 %v E disse: Toma agora teu filho, teu único, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre um dos montes que eu te direi.
+#v 3 %v E Abraão se levantou manhã muito cedo, e preparou seu asno, e tomou consigo dois servos seus, e a Isaque seu filho: e cortou lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe disse.
+#v 4 %v Ao terceiro dia levantou Abraão seus olhos, e viu o lugar de longe.
+#v 5 %v Então disse Abraão a seus servos: Esperai aqui com o asno, e eu e o jovem iremos até ali, e adoraremos, e voltaremos a vós.
+#v 6 %v E tomou Abraão a lenha do holocausto, e a pôs sobre Isaque seu filho: e ele tomou em sua mão o fogo e a espada; e foram ambos juntos.
+#v 7 %v Então falou Isaque a Abraão seu pai, e disse: Meu pai. e ele respondeu: Eis-me aqui, meu filho. E ele disse: Eis aqui o fogo e a lenha; mas onde está o cordeiro para o holocausto?
+#v 8 %v E respondeu Abraão: Deus se proverá de cordeiro para o holocausto, filho meu. E iam juntos.
+#v 9 %v E quando chegaram ao lugar que Deus lhe havia dito, edificou ali Abraão um altar, e compôs a lenha, e amarrou a Isaque seu filho, e pôs-lhe no altar sobre a lenha.
+#v 10 %v E estendeu Abraão sua mão, e tomou a espada, para degolar a seu filho.
+#v 11 %v Então o anjo do SENHOR lhe gritou do céu, e disse: Abraão, Abraão. E ele respondeu: Eis-me aqui.
+#v 12 %v E disse: Não estendas tua mão sobre o jovem, nem lhe faças nada; que já conheço que temes a Deus, pois que não me recusaste o teu filho, o teu único;
+#v 13 %v Então levantou Abraão seus olhos, e olhou, e eis um carneiro a suas costas preso em um arbusto por seus chifres: e foi Abraão, e tomou o carneiro, e ofereceu-lhe em holocausto em lugar de seu filho.
+#v 14 %v E chamou Abraão o nome daquele lugar, O SENHOR proverá. Portanto se diz hoje: No monte do SENHOR se proverá.
+#v 15 %v E chamou o anjo do SENHOR a Abraão segunda vez desde o céu,
+#v 16 %v E disse: Por mim mesmo jurei, diz o SENHOR, que porquanto fizeste isto, e não me recusaste teu filho, teu único;
+#v 17 %v Certamente te abençoarei, e multiplicarei tua descendência como as estrelas do céu, e como a areia que está na beira do mar; e tua descendência possuirá as portas de seus inimigos:
+#v 18 %v Em tua descendência serão abençoadas todas as nações da terra, porquanto obedeceste à minha voz.
+#v 19 %v E voltou Abraão a seus servos, e levantaram-se e se foram juntos a Berseba; e habitou Abraão em Berseba.
+#v 20 %v E aconteceu depois destas coisas, que foi dada nova a Abraão, dizendo: Eis que também Milca havia dado à luz filhos a Naor teu irmão:
+#v 21 %v A Uz seu primogênito, e a Buz seu irmão, e a Quemuel pai de Arã.
+#v 22 %v E a Quésede, e a Hazo, e a Pildas, e a Jidlafe, e a Betuel.
+#v 23 %v E Betuel gerou a Rebeca. Estes oito deu à luz Milca a Naor, irmão de Abraão.
+#v 24 %v E sua concubina, que se chamava Reumá, deu à luz também a Tebá, e a Gaã, e a Taás, e a Maaca.
+
+#c 23 %c
+#v 1 %v E foi a vida de Sara cento e vinte e sete anos: tantos foram os anos da vida de Sara.
+#v 2 %v E morreu Sara em Quiriate-Arba, que é Hebrom, na terra de Canaã: e veio Abraão a fazer o luto a Sara e a chorar por ela.
+#v 3 %v E levantou-se Abraão de diante de sua morta, e falou aos filhos de Hete, dizendo:
+#v 4 %v Peregrino e estrangeiro sou entre vós; dá-me propriedade de sepultura convosco, e sepultarei minha morta de diante de mim.
+#v 5 %v E responderam os filhos de Hete a Abraão, e disseram-lhe:
+#v 6 %v Ouve-nos, senhor meu, és um príncipe de Deus entre nós; no melhor de nossas sepulturas sepulta a tua matou; nenhum de nós te impedirá sua sepultura, para que enterres tua morta.
+#v 7 %v E Abraão se levantou, e inclinou-se ao povo daquela terra, aos filhos de Hete;
+#v 8 %v E falou com eles, dizendo: Se tendes vontade que eu sepulte minha morta de diante de mim, ouvi-me, e intercedei por mim com Efrom, filho de Zoar,
+#v 9 %v Para que me dê a caverna de Macpela, que tem na extremidade de sua propriedade: que por seu justo preço a dê a mim, para possessão de sepultura em meio de vós.
+#v 10 %v Este Efrom achava-se entre os filhos de Hete: e respondeu Efrom Heteu a Abraão, aos ouvidos dos filhos de Hete, de todos os que entravam pela porta de sua cidade, dizendo:
+#v 11 %v Não, senhor meu, ouve-me: eu te dou a propriedade, e te dou também a caverna que está nela; diante dos filhos de meu povo a dou a ti; sepulta tua morta.
+#v 12 %v E Abraão se inclinou diante do povo da terra.
+#v 13 %v E respondeu a Efrom aos ouvidos do povo da terra, dizendo: Antes, se for do teu agrado, rogo-te que me ouças; eu darei o preço da propriedade, toma-o de mim, e sepultarei nela minha morta.
+#v 14 %v E respondeu Efrom a Abraão, dizendo-lhe:
+#v 15 %v Senhor meu, escuta-me: a terra vale quatrocentos siclos de prata: que é isto entre mim e ti? enterra pois tua morta.
+#v 16 %v Então Abraão concordou com Efrom, e pesou Abraão a Efrom o dinheiro que disse, ouvindo-o os filhos de Hete, quatrocentos siclos de prata, de boa lei entre mercadores.
+#v 17 %v E ficou a propriedade de Efrom que estava em Macpela em frente de Manre, a propriedade e a caverna que estava nela, e todas as árvores que havia na herança, e em todo o seu termo ao derredor,
+#v 18 %v Para Abraão em possessão, à vista dos filhos de Hete, e de todos os que entravam pela porta da cidade.
+#v 19 %v E depois disto sepultou Abraão a Sara sua mulher na caverna da propriedade de Macpela em frente de Manre, que é Hebrom na terra de Canaã.
+#v 20 %v E ficou a propriedade e a caverna que nela havia, para Abraão, em possessão de sepultura adquirida dos filhos de Hete.
+
+#c 24 %c
+#v 1 %v E Abraão era velho, e bem cheio de dias; e o SENHOR havia abençoado a Abraão em tudo.
+#v 2 %v E disse Abraão a um criado seu, o mais velho de sua casa, que era o que governava em tudo o que tinha: Põe agora tua mão debaixo de minha coxa,
+#v 3 %v E te juramentarei pelo SENHOR, Deus dos céus e Deus da terra, que não tomarás mulher para meu filho das filhas dos cananeus, entre os quais eu habito;
+#v 4 %v Em vez disso irás à minha terra e à minha parentela, e tomarás mulher para meu filho Isaque.
+#v 5 %v E o criado lhe respondeu: Talvez a mulher não queira vir atrás de mim a esta terra; farei voltar, pois, teu filho à terra de onde saíste?
+#v 6 %v E Abraão lhe disse: Guarda-te que não faças voltar a meu filho ali.
+#v 7 %v O SENHOR, Deus dos céus, que me tomou da casa de meu pai e da terra de minha parentela, e me falou e me jurou, dizendo: À tua descendência darei esta terra; ele enviará seu anjo diante de ti, e tu tomarás dali mulher para meu filho.
+#v 8 %v E se a mulher não quiser vir atrás de ti, serás livre deste meu juramento; somente que não faças voltar ali a meu filho.
+#v 9 %v Então o criado pôs sua mão debaixo da coxa de Abraão seu senhor, e jurou-lhe sobre este negócio.
+#v 10 %v E o criado tomou dez camelos dos camelos de seu senhor, e foi-se, pois tinha à sua disposição todos os bens de seu senhor: e posto em caminho, chegou à Mesopotâmia, à cidade de Naor.
+#v 11 %v E fez ajoelhar os camelos fora da cidade, junto a um poço de água, à hora da tarde, à hora em que saem as moças por água.
+#v 12 %v E disse: SENHOR, Deus de meu senhor Abraão, dá-me, te rogo, o ter hoje bom encontro, e faze misericórdia com meu senhor Abraão.
+#v 13 %v Eis que eu estou junto à fonte de água, e as filhas dos homens desta cidade saem por água:
+#v 14 %v Seja, pois, que a moça a quem eu disser: Baixa teu cântaro, te rogo, para que eu beba; e ela responder: Bebe, e também darei de beber a teus camelos: que seja esta a que tu destinaste para teu servo Isaque; e nisto conhecerei que haverás feito misericórdia com meu senhor.
+#v 15 %v E aconteceu que antes que ele acabasse de falar, eis que Rebeca, que havia nascido a Betuel, filho de Milca, mulher de Naor irmão de Abraão, a qual saía com seu cântaro sobre seu ombro.
+#v 16 %v E a moça era de muito belo aspecto, virgem, à que homem não havia conhecido; a qual desceu à fonte, e encheu seu cântaro, e se voltava.
+#v 17 %v Então o criado correu até ela, e disse: Rogo-te que me dês a beber um pouco de água de teu cântaro.
+#v 18 %v E ela respondeu: Bebe, meu senhor; e apressou-se a baixar seu cântaro sobre sua mão, e lhe deu a beber.
+#v 19 %v E quando acabou de dar-lhe de beber, disse: Também para teus camelos tirarei água, até que acabem de beber.
+#v 20 %v E apressou-se, e esvaziou seu cântaro no bebedouro, e correu outra vez ao poço para tirar água, e tirou para todos os seus camelos.
+#v 21 %v E o homem estava maravilhado dela, permanecendo calado, para saber se o SENHOR havia prosperado ou não sua viajem.
+#v 22 %v E foi que quando os camelos acabaram de beber, presenteou-lhe o homem um pendente de ouro que pesava meio siclo, e dois braceletes que pesavam dez:
+#v 23 %v E disse: De quem és filha? Rogo-te me digas, há lugar em casa de teu pai onde pernoitemos?
+#v 24 %v E ela respondeu: Sou filha de Betuel, filho de Milca, o qual deu à luz ela a Naor.
+#v 25 %v E acrescentou: Também há em nossa casa palha e muita forragem, e lugar para pernoitar.
+#v 26 %v O homem então se inclinou, e adorou ao SENHOR.
+#v 27 %v E disse: Bendito seja o SENHOR, Deus de meu amo Abraão, que não afastou sua misericórdia e sua verdade de meu amo, guiando-me o SENHOR no caminho à casa dos irmãos de meu amo.
+#v 28 %v E a moça correu, e fez saber na casa de sua mãe estas coisas.
+#v 29 %v E Rebeca tinha um irmão que se chamava Labão, o qual correu fora ao homem, à fonte;
+#v 30 %v E foi que quando viu o pendente e os braceletes nas mãos de sua irmã, que dizia, Assim me falou aquele homem; veio a ele: e eis que estava junto aos camelos à fonte.
+#v 31 %v E disse-lhe: Vem, bendito do SENHOR; por que estás fora? eu limpei a casa, e o lugar para os camelos.
+#v 32 %v Então o homem veio à casa, e Labão desatou os camelos; e deu-lhes palha e forragem, e água para lavar os pés dele, e os pés dos homens que com ele vinham.
+#v 33 %v E puseram diante dele comida; mas ele disse: Não comerei até que tenha dito minha mensagem. E ele lhe disse: Fala.
+#v 34 %v Então disse: Eu sou criado de Abraão;
+#v 35 %v E o SENHOR abençoou muito a meu amo, e ele se engrandeceu: e lhe deu ovelhas e vacas, prata e ouro, servos e servas, camelos e asnos.
+#v 36 %v E Sara, mulher de meu amo, deu à luz em sua velhice um filho a meu senhor, quem lhe deu tudo quanto tem.
+#v 37 %v E meu amo me fez jurar, dizendo: Não tomarás mulher para meu filho das filhas dos cananeus, em cuja terra habito;
+#v 38 %v Em vez disso irás à casa de meu pai, e à minha parentela, e tomarás mulher para meu filho.
+#v 39 %v E eu disse: Talvez a mulher não queira me seguir.
+#v 40 %v Então ele me respondeu: O SENHOR, em cuja presença tenho andado, enviará seu anjo contigo, e prosperará teu caminho; e tomarás mulher para meu filho de minha linhagem e da casa de meu pai:
+#v 41 %v Então serás livre de meu juramento, quando houveres chegado à minha linhagem; e se não a derem a ti, serás livre de meu juramento.
+#v 42 %v Cheguei, pois, hoje à fonte, e disse: SENHOR, Deus de meu senhor Abraão, se tu prosperas agora meu caminho pelo qual ando;
+#v 43 %v Eis que eu estou junto à fonte de água; seja, pois, que a virgem que sair por água, à qual disser: Dá-me de beber, te rogo, um pouco de água de teu cântaro;
+#v 44 %v E ela me responder, Bebe tu, e também para teus camelos tirarei água: esta seja a mulher que destinou o SENHOR para o filho de meu senhor.
+#v 45 %v E antes que acabasse de falar em meu coração, eis que Rebeca saía com seu cântaro sobre seu ombro; e desceu à fonte, e tirou água; e lhe disse: Rogo-te que me dês de beber.
+#v 46 %v E prontamente baixou seu cântaro de cima de si, e disse: Bebe, e também a teus camelos darei a beber. E bebi, e deu também de beber a meus camelos.
+#v 47 %v Então lhe perguntei, e disse: De quem és filha? E ela respondeu: Filha de Betuel, filho de Naor, que Milca lhe deu. Então pus nela um pendente sobre seu nariz, e braceletes sobre suas mãos:
+#v 48 %v E inclinei-me, e adorei ao SENHOR, e bendisse ao SENHOR, Deus de meu senhor Abraão, que me havia guiado pelo caminho de verdade para tomar a filha do irmão de meu senhor para seu filho.
+#v 49 %v Agora, pois, se vós fazeis misericórdia e verdade com meu senhor, declarai-o a mim; e se não, declarai-o a mim; e irei embora à direita ou à esquerda.
+#v 50 %v Então Labão e Betuel responderam e disseram: Do SENHOR saiu isto; não podemos falar-te mal nem bem.
+#v 51 %v Eis aí Rebeca diante de ti; toma-a e vai-te, e seja mulher do filho de teu senhor, como o disse o SENHOR.
+#v 52 %v E foi, que quando o criado de Abraão ouviu suas palavras, inclinou-se à terra ao SENHOR.
+#v 53 %v E o criado tirou objetos de prata, objetos de ouro e roupas, e deu a Rebeca: também deu coisas preciosas a seu irmão e a sua mãe.
+#v 54 %v E comeram e beberam ele e os homens que vinham com ele, e dormiram; e levantando-se de manhã, disse: Envia-me a meu senhor.
+#v 55 %v Então respondeu seu irmão e sua mãe: Espere a moça conosco ao menos dez dias, e depois irá.
+#v 56 %v E ele lhes disse: Não me detenhais, pois que o SENHOR fez prosperar meu caminho; despede-me para que me vá a meu senhor.
+#v 57 %v Eles responderam então: Chamemos a moça e perguntemos a ela.
+#v 58 %v E chamaram a Rebeca, e disseram-lhe: Irás tu com este homem? E ela respondeu: Sim, irei.
+#v 59 %v Então deixaram ir a Rebeca sua irmã, e à sua criada, e ao criado de Abraão e a seus homens.
+#v 60 %v E abençoaram a Rebeca, e disseram-lhe: És nossa irmã; sejas em milhares de milhares, e tua geração possua a porta de seus inimigos.
+#v 61 %v Levantou-se então Rebeca e suas moças, e subiram sobre os camelos, e seguiram ao homem; e o criado tomou a Rebeca, e foi-se.
+#v 62 %v E vinha Isaque do poço do Vivente que me vê; porque ele habitava na terra do Sul;
+#v 63 %v E havia saído Isaque a orar ao campo, à hora da tarde; e levantando seus olhos olhou, e eis os camelos que vinham.
+#v 64 %v Rebeca também levantou seus olhos, e viu a Isaque, e desceu do camelo;
+#v 65 %v Porque havia perguntado ao criado: Quem é este homem que vem pelo campo até nós? E o servo havia respondido: Este é meu senhor. Ela então tomou o véu, e cobriu-se.
+#v 66 %v Então o criado contou a Isaque tudo o que havia feito.
+#v 67 %v E trouxe-a Isaque à tenda de sua mãe Sara, e tomou a Rebeca por mulher; e amou-a: e consolou-se Isaque depois da morte de sua mãe.
+
+#c 25 %c
+#v 1 %v E Abraão tomou outra mulher, cujo nome foi Quetura;
+#v 2 %v A qual lhe deu à luz a Zinrã, e a Jocsã, e a Medã, e a Midiã, e a Jisbaque, e a Suá.
+#v 3 %v E Jocsã gerou a Seba, e a Dedã: e filhos de Dedã foram Assurim, e Letusim, e Leummim.
+#v 4 %v E filhos de Midiã: Efá, e Efer, e Enoque, e Abida, e Elda. Todos estes foram filhos de Quetura.
+#v 5 %v Mas Abraão deu tudo quanto tinha a Isaque.
+#v 6 %v E aos filhos de suas concubinas deu Abraão presentes, e enviou-os de junto Isaque seu filho, enquanto ele vivia, até o oriente, à terra oriental.
+#v 7 %v E estes foram os dias de vida que viveu Abraão: cento e setenta e cinco anos.
+#v 8 %v E expirou, e morreu Abraão em boa velhice, ancião e cheio de dias e foi unido a seu povo.
+#v 9 %v E sepultaram-no Isaque e Ismael seus filhos na caverna de Macpela, na propriedade de Efrom, filho de Zoar Heteu, que está em frente de Manre;
+#v 10 %v Herança que comprou Abraão dos filhos de Hete; ali foi Abraão sepultado, e Sara sua mulher.
+#v 11 %v E sucedeu, depois de morto Abraão, que Deus abençoou a Isaque seu filho: e habitou Isaque junto ao poço do Vivente que me vê.
+#v 12 %v E estas são as gerações de Ismael, filho de Abraão, que lhe deu à luz Agar egípcia, serva de Sara:
+#v 13 %v Estes, pois, são os nomes dos filhos de Ismael, por seus nomes, por suas linhagens: O primogênito de Ismael, Nebaiote; logo Quedar, e Adbeel, e Mibsão,
+#v 14 %v E Misma, e Dumá, e Massá,
+#v 15 %v Hadade, e Tema, e Jetur, e Nafis, e Quedemá.
+#v 16 %v Estes são os filhos de Ismael, e estes seus nomes por suas vilas e por seus acampamentos; doze príncipes por suas famílias.
+#v 17 %v E estes foram os anos da vida de Ismael, cento e trinta e sete anos: e expirou Ismael, e morreu; e foi unido a seu povo.
+#v 18 %v E habitaram desde Havilá até Sur, que está em frente do Egito vindo a Assíria; e morreu em presença de todos os seus irmãos.
+#v 19 %v E estas são as gerações de Isaque, filho de Abraão. Abraão gerou a Isaque:
+#v 20 %v E era Isaque de quarenta anos quando tomou por mulher a Rebeca, filha de Betuel arameu de Padã-Arã, irmã de Labão arameu.
+#v 21 %v E orou Isaque ao SENHOR por sua mulher, que era estéril; e aceitou-o o SENHOR, e concebeu Rebeca sua mulher.
+#v 22 %v E os filhos se combatiam dentro dela; e disse: Se é assim para que vivo eu? E foi a consultar ao SENHOR.
+#v 23 %v E respondeu-lhe o SENHOR: Duas nações há em teu ventre, E dois povos serão divididos desde tuas entranhas: E um povo será mais forte que o outro povo, e o maior servirá ao menor.
+#v 24 %v E quando se cumpriram seus dias para dar à luz, eis que havia gêmeos em seu ventre.
+#v 25 %v E saiu o primeiro ruivo, e todo ele peludo como uma veste; e chamaram seu nome Esaú.
+#v 26 %v E depois saiu seu irmão, pegando com sua mão o calcanhar de Esaú: e foi chamado seu nome Jacó. E era Isaque de idade de sessenta anos quando ela os deu à luz.
+#v 27 %v E cresceram os meninos, e Esaú foi hábil na caça, homem do campo: Jacó porém era homem quieto, que habitava em tendas.
+#v 28 %v E amou Isaque a Esaú, porque comia de sua caça; mas Rebeca amava a Jacó.
+#v 29 %v E cozinhou Jacó um guisado; e voltando Esaú do campo cansado,
+#v 30 %v Disse a Jacó: Rogo-te que me dês a comer disso vermelho, pois estou muito cansado. Portanto foi chamado seu nome Edom.
+#v 31 %v E Jacó respondeu: Vende-me neste dia tua primogenitura.
+#v 32 %v Então disse Esaú: Eis que eu me vou a morrer; para que, pois, me servirá a primogenitura?
+#v 33 %v E disse Jacó: Jura-me hoje. E ele lhe jurou, e vendeu a Jacó sua primogenitura.
+#v 34 %v Então Jacó deu a Esaú pão e do guisado das lentilhas; e ele comeu e bebeu, e levantou-se, e foi-se. Assim menosprezou Esaú a primogenitura.
+
+#c 26 %c
+#v 1 %v E houve fome na terra, além da primeira fome que foi nos dias de Abraão: e foi-se Isaque a Abimeleque rei dos filisteus, em Gerar.
+#v 2 %v E apareceu-lhe o SENHOR, e disse-lhe: Não desças ao Egito: habita na terra que eu te disser;
+#v 3 %v Habita nesta terra, e serei contigo, e te abençoarei; porque a ti e à tua descendência darei todas estas terras, e confirmarei o juramento que jurei a Abraão teu pai:
+#v 4 %v E multiplicarei tua descendência como as estrelas do céu, e darei à tua descendência todas estas terras; e todas as nações da terra serão abençoadas em tua descendência.
+#v 5 %v Porquanto ouviu Abraão minha voz, e guardou meu preceito, meus mandamentos, meus estatutos e minhas leis.
+#v 6 %v Habitou, pois, Isaque em Gerar.
+#v 7 %v E os homens daquele lugar lhe perguntaram acerca de sua mulher; e ele respondeu: É minha irmã; porque teve medo de dizer: É minha mulher; que talvez, disse, os homens do lugar me matem por causa de Rebeca; porque era de belo aspecto.
+#v 8 %v E sucedeu que, depois que ele esteve ali muitos dias, Abimeleque, rei dos filisteus, olhando por uma janela, viu a Isaque que acariciava Rebeca sua mulher.
+#v 9 %v E chamou Abimeleque a Isaque, e disse: Eis que ela é certamente tua mulher: como, pois, disseste: É minha irmã? E Isaque lhe respondeu: Porque disse: Talvez eu morra por causa dela.
+#v 10 %v E Abimeleque disse: Por que nos fizeste isto? Por pouco haveria dormido alguém do povo com tua mulher, e haverias trazido sobre nós o pecado.
+#v 11 %v Então Abimeleque mandou a todo o povo, dizendo: O que tocar a este homem ou a sua mulher, certamente morrerá.
+#v 12 %v E semeou Isaque naquela terra, e achou aquele ano cem por um: e o SENHOR o abençoou.
+#v 13 %v E o homem se engrandeceu, e foi engrandecendo-se cada vez mais, até fazer-se muito poderoso:
+#v 14 %v E teve rebanho de ovelhas, e rebanho de vacas, e grande número de servos; e os filisteus tiveram inveja dele.
+#v 15 %v E todos os poços que os criados de Abraão seu pai haviam aberto em seus dias, os filisteus os haviam fechado e enchido da terra.
+#v 16 %v E disse Abimeleque a Isaque: Aparta-te de nós, porque muito mais poderoso que nós te fizeste.
+#v 17 %v E Isaque se foi dali; e assentou suas tendas no vale de Gerar, e habitou ali.
+#v 18 %v E voltou a abrir Isaque os poços de água que haviam aberto nos dias de Abraão seu pai, e que os filisteus haviam fechado, depois de Abraão ter morrido; e chamou-os pelos nomes que seu pai os havia chamado.
+#v 19 %v E os servos de Isaque cavaram no vale, e acharam ali um poço de águas vivas.
+#v 20 %v E os pastores de Gerar brigaram com os pastores de Isaque, dizendo: A água é nossa: por isso chamou o nome do poço Eseque, porque haviam brigado com ele.
+#v 21 %v E abriram outro poço, e também brigaram sobre ele: e chamou seu nome Sitna.
+#v 22 %v E apartou-se dali, e abriu outro poço, e não brigaram sobre ele: e chamou seu nome Reobote, e disse: Porque agora nos fez alargar o SENHOR e frutificaremos na terra.
+#v 23 %v E dali subiu a Berseba.
+#v 24 %v E apareceu-lhe o SENHOR aquela noite, e disse: Eu sou o Deus de Abraão teu pai: não temas, que eu sou contigo, e eu te abençoarei, e multiplicarei tua descendência por causa de Abraão meu servo.
+#v 25 %v E edificou ali um altar, e invocou o nome do SENHOR, e estendeu ali sua tenda: e abriram ali os servos de Isaque um poço.
+#v 26 %v E Abimeleque veio a ele desde Gerar, e Auzate, amigo seu, e Ficol, capitão de seu exército.
+#v 27 %v E disse-lhes Isaque: Por que vindes a mim, pois que haveis me odiado, e me expulsastes dentre vós?
+#v 28 %v E eles responderam: Vimos que o SENHOR é contigo; e dissemos: Haja agora juramento entre nós, entre nós e ti, e faremos aliança contigo:
+#v 29 %v Que não nos faças mal, como nós não te tocamos, y como somente te fizemos bem, e te enviamos em paz: tu agora, bendito do SENHOR.
+#v 30 %v Então ele lhes fez banquete, e comeram e beberam.
+#v 31 %v E se levantaram de madrugada, e juraram um ao outro; e Isaque os despediu, e eles se partiram dele em paz.
+#v 32 %v E naquele dia sucedeu que vieram os criados de Isaque, e deram-lhe novas acerca do poço que haviam aberto, e lhe disseram: Achamos água.
+#v 33 %v E chamou-o Seba: por cuja causa o nome daquela cidade é Berseba até hoje.
+#v 34 %v E quando Esaú foi de quarenta anos, tomou por mulher a Judite filha de Beeri heteu, e a Basemate filha de Elom heteu:
+#v 35 %v E foram amargura de espírito a Isaque e a Rebeca.
+
+#c 27 %c
+#v 1 %v E aconteceu que quando havia Isaque envelhecido, e seus olhos se ofuscaram ficando sem vista, chamou a Esaú, seu filho o maior, e disse-lhe: Meu filho. E ele respondeu: Eis-me aqui.
+#v 2 %v E ele disse: Eis que já sou velho, não sei o dia de minha morte:
+#v 3 %v Toma, pois, agora tuas armas, tua aljava e teu arco, e sai ao campo, e pega-me caça;
+#v 4 %v E faze-me um guisado, como eu gosto, e traze-o a mim, e comerei: para que te abençoe minha alma antes que morra.
+#v 5 %v E Rebeca estava ouvindo, quando falava Isaque a Esaú seu filho: e foi-se Esaú ao campo para pegar a caça que havia de trazer.
+#v 6 %v Então Rebeca falou a Jacó seu filho, dizendo: Eis que eu ouvi a teu pai que falava com Esaú teu irmão, dizendo:
+#v 7 %v Traze-me caça, e faze-me um guisado, para que coma, e te abençoe diante do SENHOR antes que eu morra.
+#v 8 %v Agora, pois, filho meu, obedece à minha voz no que te mando;
+#v 9 %v Vai agora ao gado, e traze-me dali dois bons cabritos das cabras, e farei deles iguarias para teu pai, como ele gosta;
+#v 10 %v E tu as levarás a teu pai, e comerá, para que te abençoe antes de sua morte.
+#v 11 %v E Jacó disse a Rebeca sua mãe: Eis que Esaú meu irmão é homem peludo, e eu liso:
+#v 12 %v Talvez me apalpe meu pai, e me terá por enganador, e trarei sobre mim maldição e não bênção.
+#v 13 %v E sua mãe respondeu: Filho meu, sobre mim tua maldição: somente obedece à minha voz, e vai e traze-os a mim.
+#v 14 %v Então ele foi, e tomou, e trouxe-os à sua mãe: e sua mãe fez guisados, como seu pai gostava.
+#v 15 %v E tomou Rebeca as roupas de Esaú seu filho maior, os preciosos, que ela tinha em casa, e vestiu a Jacó seu filho menor:
+#v 16 %v E fez-lhe vestir sobre suas mãos e sobre o pescoço onde não tinha pelo, as peles dos cabritos das cabras;
+#v 17 %v E entregou os guisados e o pão que havia preparado, em mão de Jacó seu filho.
+#v 18 %v E ele foi a seu pai, e disse: Meu pai: e ele respondeu: Eis-me aqui, quem és, filho meu?
+#v 19 %v E Jacó disse a seu pai: Eu sou Esaú teu primogênito; fiz como me disseste: levanta-te agora, e senta, e come de minha caça, para que me abençoe tua alma.
+#v 20 %v Então Isaque disse a seu filho: Como é que a achaste tão depressa, filho meu? E ele respondeu: Porque o SENHOR teu Deus fez que se encontrasse diante de mim.
+#v 21 %v E Isaque disse a Jacó: Aproxima-te agora, e te apalparei, filho meu, par se és meu filho Esaú ou não.
+#v 22 %v E chegou-se Jacó a seu pai Isaque; e ele lhe apalpou, e disse: A voz é a voz de Jacó, mas as mãos, as mãos de Esaú.
+#v 23 %v E não lhe reconheceu, porque suas mãos eram peludas como as mãos de Esaú: e lhe abençoou.
+#v 24 %v E disse: És tu meu filho Esaú? E ele respondeu: Eu sou.
+#v 25 %v E disse: Aproxima-a a mim, e comerei da caça de meu filho, para que te abençoe minha alma; e ele a aproximou, e comeu: trouxe-lhe também vinho, e bebeu.
+#v 26 %v E disse-lhe Isaque seu pai: Aproxima-te agora, e beija-me, filho meu.
+#v 27 %v E ele se chegou, e lhe beijou; e cheirou Isaque o cheiro de suas roupas, e lhe abençoou, e disse: Olha, o cheiro de meu filho Como o cheiro do campo que o SENHOR abençoou:
+#v 28 %v Deus, pois, te dê do orvalho do céu, E das gorduras da terra, E abundância de trigo e de mosto.
+#v 29 %v Sirvam-te povos, E nações se inclinem a ti: Sê senhor de teus irmãos, e inclinem-se a ti os filhos de tua mãe; malditos os que te amaldiçoarem, e benditos os que te abençoarem.
+#v 30 %v E aconteceu, logo que havia Isaque de abençoar a Jacó, e apenas havia saído Jacó de diante de Isaque seu pai, que Esaú seu irmão veio de sua caça.
+#v 31 %v E fez ele também guisados, e trouxe a seu pai, e disse-lhe: Levante-se meu pai, e coma da caça de seu filho, para que me abençoe tua alma.
+#v 32 %v Então Isaque seu pai lhe disse: Quem és tu? E ele disse: Eu sou teu filho, teu primogênito, Esaú.
+#v 33 %v E Estremeceu-se Isaque com grande estremecimento, e disse: Quem é o que veio aqui, que agarrou caça, e me trouxe, e comi de tudo antes que viesses? Eu o abençoei, e será bendito.
+#v 34 %v Quando Esaú ouviu as palavras de seu pai clamou com uma muito grande e muito amarga exclamação, e lhe disse: Abençoa também a mim, meu pai.
+#v 35 %v E ele disse: Veio teu irmão com engano, e tomou tua bênção.
+#v 36 %v E ele respondeu: Bem chamaram seu nome Jacó, que já me enganou duas vezes; tirou minha primogenitura, e eis que agora tomou minha bênção. E disse: Não guardaste bênção para mim?
+#v 37 %v Isaque respondeu e disse a Esaú: Eis que eu o pus por senhor teu, e lhe dei por servos a todos os seus irmãos: de trigo e de vinho lhe provi: que, pois, farei a ti agora, filho meu?
+#v 38 %v E Esaú respondeu a seu pai: Não tens mais que uma só bênção, meu pai? Abençoa também a mim, meu pai. E levantou Esaú sua voz, e chorou.
+#v 39 %v Então Isaque seu pai falou e disse-lhe: Eis que será tua habitação sem gorduras da terra, E sem orvalho dos céus de acima;
+#v 40 %v E por tua espada viverás, e a teu irmão servirás: E sucederá quando te dominares, Que descarregarás seu jugo de teu pescoço.
+#v 41 %v E odiou Esaú a Jacó pela bênção com que lhe havia abençoado, e disse em seu coração: Chegarão os dias do luto de meu pai, e eu matarei a Jacó meu irmão.
+#v 42 %v E foram ditas a Rebeca as palavras de Esaú seu filho mais velho: e ela enviou e chamou a Jacó seu filho mais novo, e disse-lhe: Eis que, Esaú teu irmão se consola acerca de ti com a ideia de matar-te.
+#v 43 %v Agora, pois, filho meu, obedece à minha voz; levanta-te, e foge-te a Labão meu irmão, a Harã.
+#v 44 %v E mora com ele alguns dias, até que a ira de teu irmão se diminua;
+#v 45 %v Até que se aplaque a ira de teu irmão contra ti, e se esqueça do que lhe fizeste: eu enviarei então, e te trarei dali: por que serei privada de vós ambos em um dia?
+#v 46 %v E disse Rebeca a Isaque: Desgosto tenho de minha vida, por causa das filhas de Hete. Se Jacó toma mulher das filhas de Hete, como estas, das filhas desta terra, para que quero a vida?
+
+#c 28 %c
+#v 1 %v Então Isaque chamou a Jacó, e o abençoou, e mandou-lhe dizendo: Não tomes mulher das filhas de Canaã.
+#v 2 %v Levanta-te, vai a Padã-Arã, à casa de Betuel, pai de tua mãe, e toma ali mulher das filhas de Labão, irmão de tua mãe.
+#v 3 %v E o Deus Todo-Poderoso te abençoe e te faça frutificar, e te multiplique, até vir a ser congregação de povos;
+#v 4 %v E te dê a bênção de Abraão, e à tua descendência contigo, para que herdes a terra de tuas peregrinações, que Deus deu a Abraão.
+#v 5 %v Assim enviou Isaque a Jacó, o qual foi a Padã-Arã, a Labão, filho de Betuel arameu, irmão de Rebeca, mãe de Jacó e de Esaú.
+#v 6 %v E viu Esaú como Isaque havia abençoado a Jacó, e lhe havia enviado a Padã-Arã, para tomar para si mulher dali; e que quando lhe abençoou, lhe havia mandado, dizendo: Não tomarás mulher das filhas de Canaã;
+#v 7 %v E que Jacó havia obedecido a seu pai e a sua mãe, e se havia ido a Padã-Arã.
+#v 8 %v Viu também Esaú que as filhas de Canaã pareciam mal a Isaque seu pai;
+#v 9 %v E foi-se Esaú a Ismael, e tomou para si por mulher a Maalate, filha de Ismael, filho de Abraão, irmã de Nebaiote, além de suas outras mulheres.
+#v 10 %v E saiu Jacó de Berseba, e foi a Harã;
+#v 11 %v E encontrou com um lugar, e dormiu ali porque já o sol se havia posto: e tomou das pedras daquele lugar e pôs à sua cabeceira, e deitou-se naquele lugar.
+#v 12 %v E sonhou, e eis uma escada que estava apoiada em terra, e seu topo tocava no céu: e eis que anjos de Deus subiam e desciam por ela.
+#v 13 %v E eis que, o SENHOR estava no alto dela, o qual disse: Eu sou o SENHOR, o Deus de Abraão teu pai, e o Deus de Isaque: a terra em que estás deitado a darei a ti e à tua descendência.
+#v 14 %v E será tua descendência como o pó da terra, e te estenderás ao ocidente, e ao oriente, e ao norte, e ao sul; e todas as famílias da terra serão abençoadas em ti e em tua descendência.
+#v 15 %v E eis que, eu sou contigo, e te guardarei por onde quer que fores, e te farei voltar a esta terra; porque não te deixarei até tanto que tenha feito o que te disse.
+#v 16 %v E despertou Jacó de seu sonho disse: Certamente o SENHOR está neste lugar, e eu não o sabia.
+#v 17 %v E teve medo, e disse: Quão terrível é este lugar! Não é outra coisa que casa de Deus, e porta do céu.
+#v 18 %v E levantou-se Jacó de manhã, e tomou a pedra que havia posto de cabeceira, e levantou-a por coluna, e derramou azeite encima dela.
+#v 19 %v E chamou o nome daquele lugar Betel, ainda que Luz era o nome da cidade antes.
+#v 20 %v E fez Jacó voto, dizendo: Se for Deus comigo, e me guardar nesta viagem que vou, e me der pão para comer e roupa para vestir,
+#v 21 %v E se voltar em paz à casa de meu pai, o SENHOR será meu Deus,
+#v 22 %v E esta pedra que pus por coluna, será casa de Deus; e de tudo o que me deres, o dízimo o separarei para ti.
+
+#c 29 %c
+#v 1 %v E seguiu Jacó seu caminho, e foi à terra dos orientais.
+#v 2 %v E olhou, e viu um poço no campo: e eis três rebanhos de ovelhas que jaziam próximo dele; porque daquele poço davam de beber aos gados: e havia uma grande pedra sobre a boca do poço.
+#v 3 %v E juntavam-se ali todos os rebanhos; e revolviam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e voltavam a pedra sobre a boca do poço a seu lugar.
+#v 4 %v E disse-lhes Jacó: Irmãos meus, de onde sois? E eles responderam: De Harã somos.
+#v 5 %v E ele lhes disse: Conheceis a Labão, filho de Naor? E eles disseram: Sim, nós o conhecemos.
+#v 6 %v E ele lhes disse: Tem paz? E eles disseram: Paz; e eis que Raquel sua filha vem com o gado.
+#v 7 %v E ele disse: Eis que o dia é ainda cheio; não é tempo, todavia, de recolher o gado; dai de beber às ovelhas, e ide a apascentá-las.
+#v 8 %v E eles responderam: Não podemos, até que se juntem todos os gados, e removam a pedra de sobre a boca do poço, para que demos de beber às ovelhas.
+#v 9 %v Estando ainda ele falando com eles Raquel veio com o gado de seu pai, porque ela era a pastora.
+#v 10 %v E sucedeu que, quando Jacó viu Raquel, filha de Labão irmão de sua mãe, e as ovelhas de Labão, o irmão de sua mãe, chegou-se Jacó, e removeu a pedra de sobre a boca do poço, e deu de beber ao gado de Labão irmão de sua mãe.
+#v 11 %v E Jacó beijou a Raquel, e levantou sua voz, e chorou.
+#v 12 %v E Jacó disse a Raquel como ele era irmão de seu pai, e como era filho de Rebeca: e ela correu, e deu as novas a seu pai.
+#v 13 %v E assim que ouviu Labão as novas de Jacó, filho de sua irmã, correu a recebê-lo, e abraçou-o, e beijou-o, e trouxe-lhe à sua casa: e ele contou a Labão todas estas coisas.
+#v 14 %v E Labão lhe disse: Certamente osso meu e carne minha és. E esteve com ele o tempo de um mês.
+#v 15 %v Então disse Labão a Jacó: Por ser tu meu irmão, me hás de servir de graça? Declara-me o que será teu salário.
+#v 16 %v E Labão tinha duas filhas: o nome da mais velha era Lia, e o nome da mais nova, Raquel.
+#v 17 %v E os olhos de Lia eram tenros, mas Raquel era de lindo semblante e de bela aparência.
+#v 18 %v E Jacó amou a Raquel, e disse: Eu te servirei sete anos por Raquel tua filha mais nova.
+#v 19 %v E Labão respondeu: Melhor é que a dê a ti, que não que a dê a outro homem: fica-te comigo.
+#v 20 %v Assim serviu Jacó por Raquel sete anos: e pareceram-lhe como poucos dias, porque a amava.
+#v 21 %v E disse Jacó a Labão: Dá-me minha mulher, porque meu tempo é cumprido para que me deite com ela.
+#v 22 %v Então Labão juntou a todos os homens daquele lugar, e fez banquete.
+#v 23 %v E sucedeu que à noite tomou a Lia sua filha, e a trouxe: e ele se deitou com ela.
+#v 24 %v E deu Labão sua serva Zilpa à sua filha Lia por criada.
+#v 25 %v E vinda a manhã, eis que era Lia: e ele disse a Labão: Que é isto que me fizeste? Não te servi por Raquel? Por que, pois, me enganaste?
+#v 26 %v E Labão respondeu: Não se faz assim em nosso lugar, que se dê a mais nova antes da mais velha.
+#v 27 %v Cumpre a semana desta, e se te dará também a outra, pelo serviço que fizeres comigo outros sete anos.
+#v 28 %v E fez Jacó assim, e cumpriu a semana daquela: e ele lhe deu a Raquel sua filha por mulher.
+#v 29 %v E deu Labão a Raquel sua filha por criada a sua serva Bila.
+#v 30 %v E entrou também a Raquel: e amou-a também mais que a Lia: e serviu com ele ainda outros sete anos.
+#v 31 %v E viu o SENHOR que Lia era mal-amada, e abriu sua madre; mas Raquel era estéril.
+#v 32 %v E concebeu Lia, e deu à luz um filho, e chamou seu nome Rúben, porque disse: Já que olhou o SENHOR minha aflição; agora, portanto, me amará meu marido.
+#v 33 %v E concebeu outra vez, e deu à luz um filho, e disse: Porquanto ouviu o SENHOR que eu era mal-amada, me deu também este. E chamou seu nome Simeão.
+#v 34 %v E concebeu outra vez, e deu à luz um filho, e disse: Agora esta vez se unirá meu marido comigo, porque lhe dei três filhos: portanto, chamou seu nome Levi.
+#v 35 %v E concebeu outra vez, e deu à luz um filho, e disse: Esta vez louvarei ao SENHOR: por isto chamou seu nome Judá: e deixou de dar à luz.
+
+#c 30 %c
+#v 1 %v E vendo Raquel que não dava filhos a Jacó, teve inveja de sua irmã, e dizia a Jacó: Dá-me filhos, ou senão, me morro.
+#v 2 %v E Jacó se irritava contra Raquel, e dizia: Sou eu em lugar de Deus, que te impediu o fruto de teu ventre?
+#v 3 %v E ela disse: Eis aqui minha serva Bila; entra a ela, e dará à luz sobre meus joelhos, e eu também terei filhos dela.
+#v 4 %v Assim lhe deu a Bila sua serva por mulher; e Jacó se deitou com ela.
+#v 5 %v E concebeu Bila, e deu à luz a Jacó um filho.
+#v 6 %v E disse Raquel: Julgou-me Deus, e também ouviu minha voz, e deu-me um filho. Portanto chamou seu nome Dã.
+#v 7 %v E concebeu outra vez Bila, a serva de Raquel, e deu à luz o segundo filho a Jacó.
+#v 8 %v E disse Raquel: Com lutas de Deus disputei com minha irmã, e venci. E chamou seu nome Naftali.
+#v 9 %v E vendo Lia que havia deixado de dar à luz, tomou a Zilpa sua serva, e deu-a a Jacó por mulher.
+#v 10 %v E Zilpa, serva de Lia, deu à luz a Jacó um filho.
+#v 11 %v E disse Lia: Veio a boa sorte. E chamou seu nome Gade.
+#v 12 %v E Zilpa, a sirva de Lia, deu à luz outro filho a Jacó.
+#v 13 %v E disse Lia: Para alegria minha; porque as mulheres me dirão bem-aventurada: e chamou seu nome Aser.
+#v 14 %v E foi Rúben em tempo da colheita dos trigos, e achou mandrágoras no campo, e trouxe-as a Lia sua mãe: e disse Raquel a Lia: Rogo-te que me dês das mandrágoras de teu filho.
+#v 15 %v E ela respondeu: É pouco que tenhas tomado meu marido, mas sim que também te hás de levar as mandrágoras de meu filho? E disse Raquel: Pois dormirá contigo esta noite pelas mandrágoras de teu filho.
+#v 16 %v E quando Jacó voltava do campo à tarde, saiu Lia a ele, e lhe disse: A mim hás de deitar, porque à verdade te aluguei pelas mandrágoras de meu filho. E dormiu com ela aquela noite.
+#v 17 %v E ouviu Deus a Lia: e concebeu, e deu à luz a Jacó o quinto filho.
+#v 18 %v E disse Lia: Deus me deu minha recompensa, porquanto dei minha serva a meu marido: por isso chamou seu nome Issacar.
+#v 19 %v E concebeu Lia outra vez, e deu à luz o sexto filho a Jacó.
+#v 20 %v E disse Lia: Deus me deu uma boa dádiva: agora morará comigo meu marido, porque lhe dei seis filhos: e chamou seu nome Zebulom.
+#v 21 %v E depois deu à luz uma filha, e chamou seu nome Diná.
+#v 22 %v E lembrou-se Deus de Raquel, e ouviu-a Deus, e abriu sua madre.
+#v 23 %v E concebeu, e deu à luz um filho: e disse: Tirou Deus minha humilhação:
+#v 24 %v E chamou seu nome José, dizendo: Acrescente-me o SENHOR outro filho.
+#v 25 %v E aconteceu, quando Raquel havia dado à luz a José, que Jacó disse a Labão: Envia-me, e irei a meu lugar, e à minha terra.
+#v 26 %v Dá-me minhas mulheres e meus filhos, pelas quais servi contigo, e deixa-me ir; pois tu sabes os serviços que te fiz.
+#v 27 %v E Labão lhe respondeu: Ache eu agora favor em teus olhos, e fica-te; experimentei que o SENHOR me abençoou por tua causa.
+#v 28 %v E disse: Define-me teu salário, que eu o darei.
+#v 29 %v E ele respondeu: Tu sabes como te servi, e como esteve teu gado comigo;
+#v 30 %v Porque pouco tinhas antes de minha vinda, e cresceu em grande número; e o SENHOR te abençoou com minha chegada: e agora quando tenho de fazer eu também por minha própria casa?
+#v 31 %v E ele disse: Que te darei? E respondeu Jacó: Não me dês nada: se fizeres por mim isto, voltarei a apascentar tuas ovelhas.
+#v 32 %v Eu passarei hoje por todas tuas ovelhas, pondo à parte todas as reses manchadas e de cor variada, e todas as reses de cor escura entre as ovelhas, e as manchadas e de cor variada entre as cabras; e isto será meu salário.
+#v 33 %v Assim responderá por mim minha justiça amanhã quando me vier meu salário diante de ti: toda a que não for pintada nem manchada nas cabras e de cor escura nas ovelhas minhas, se me há de ter para furto.
+#v 34 %v E disse Labão: Eis que seja como tu dizes.
+#v 35 %v Porém ele separou naquele mesmo dia os machos de bode rajados e manchados; e todas as cabras manchadas e de cor variada, e toda rês que tinha em si algo de branco, e todas as de cor escura entre as ovelhas, e as pôs em mãos de seus filhos;
+#v 36 %v E pôs três dias de caminho entre si e Jacó: e Jacó apascentava as outras ovelhas de Labão.
+#v 37 %v E tomou para si Jacó varas de álamo verdes, e de aveleira, e de plátano, e descascou nelas mondaduras brancas, descobrindo assim o branco das varas.
+#v 38 %v E pôs as varas que havia riscado nos bebedouros, diante do gado, nos bebedouros da água aonde vinham a beber as ovelhas, as quais se aqueciam vindo a beber.
+#v 39 %v E concebiam as ovelhas diante das varas, e geravam crias listradas, pintadas e salpicadas de diversas cores.
+#v 40 %v E separava Jacó os cordeiros, e os punha com seu rebanho, os listradas, e tudo o que era escuro no rebanho de Labão. E punha seu rebanho à parte, e não o punha com as ovelhas de Labão.
+#v 41 %v E sucedia que quantas vezes se aqueciam as fortes, Jacó punha as varas diante das ovelhas nos bebedouros, para que concebessem à vista das varas.
+#v 42 %v E quando vinham as ovelhas fracas, não as punha: assim eram as fracas para Labão, e as fortes para Jacó.
+#v 43 %v E cresceu o homem muito, e teve muitas ovelhas, e servas, servos, camelos, e asnos.
+
+#c 31 %c
+#v 1 %v E ouvia ele as palavras dos filhos de Labão que diziam: Jacó tomou tudo o que era de nosso pai; e do que era de nosso pai adquiriu toda esta grandeza.
+#v 2 %v Olhava também Jacó o semblante de Labão, e via que não era para com ele como antes.
+#v 3 %v Também o SENHOR disse a Jacó: Volta-te à terra de teus pais, e à tua parentela; que eu serei contigo.
+#v 4 %v E enviou Jacó, e chamou a Raquel e a Lia ao campo a suas ovelhas,
+#v 5 %v E disse-lhes: Vejo que o semblante de vosso pai não é para comigo como antes: mas o Deus de meu pai tem sido comigo.
+#v 6 %v E vós sabeis que com todas minhas forças servi a vosso pai:
+#v 7 %v E vosso pai me enganou, e me mudou o salário dez vezes: mas Deus não lhe permitiu que me fizesse mal.
+#v 8 %v Se ele dizia assim: Os pintados serão teu salário; então todas as ovelhas geravam pintados: e se dizia assim: Os listrados serão teu salário; então todas as ovelhas geravam listrados.
+#v 9 %v Assim tirou Deus o gado de vosso pai, e deu-o a mim.
+#v 10 %v E sucedeu que ao tempo que as ovelhas se aqueciam, levantei eu meus olhos e vi em sonhos, e eis que os machos que cobriam às fêmeas eram listrados, pintados e malhados.
+#v 11 %v E disse-me o anjo de Deus em sonhos: Jacó. E eu disse: Eis-me aqui.
+#v 12 %v E ele disse: Levanta agora teus olhos, e verás todos os machos que cobrem às ovelhas listradas, pintados e malhados; porque eu vi tudo o que Labão te fez.
+#v 13 %v Eu sou o Deus de Betel, onde tu ungiste a coluna, e onde me fizeste um voto. Levanta-te agora, e sai desta terra, e volta-te à terra de teu nascimento.
+#v 14 %v E respondeu Raquel e Lia, e disseram-lhe: Temos ainda parte ou herança na casa de nosso pai?
+#v 15 %v Não nos tem já como por estranhas, pois que nos vendeu, e ainda consumiu de todo nosso valor?
+#v 16 %v Porque toda a riqueza que Deus tirou a nosso pai, nossa é e de nossos filhos: agora, pois, faze tudo o que Deus te disse.
+#v 17 %v Então se levantou Jacó, e subiu seus filhos e suas mulheres sobre os camelos.
+#v 18 %v E pôs em caminho todo seu gado, e todos os seus pertences que havia adquirido, o gado de seu ganho que havia obtido em Padã-Arã, para voltar-se a Isaque seu pai na terra de Canaã.
+#v 19 %v E Labão havia ido a tosquiar suas ovelhas: e Raquel furtou os ídolos de seu pai.
+#v 20 %v E enganou Jacó o coração de Labão arameu, em não fazer-lhe saber que se fugia.
+#v 21 %v Fugiu, pois, com tudo o que tinha; e levantou-se, e passou o rio, e pôs seu rosto ao monte de Gileade.
+#v 22 %v E foi dito a Labão ao terceiro dia como Jacó se havia fugido.
+#v 23 %v Então tomou a seus irmãos consigo, e foi atrás dele caminho de sete dias, e alcançou-lhe no monte de Gileade.
+#v 24 %v E veio Deus a Labão arameu em sonhos aquela noite, e lhe disse: Guarda-te que não fales a Jacó descomedidamente.
+#v 25 %v Alcançou, pois, Labão a Jacó, e este havia fixado sua tenda no monte: e Labão pôs a sua com seus irmãos no monte de Gileade.
+#v 26 %v E disse Labão a Jacó: Que fizeste, que me furtaste o coração, e trouxeste a minhas filhas como prisioneiras de guerra?
+#v 27 %v Por que te escondeste para fugir, e me furtaste, e não me deste notícia, para que eu te enviasse com alegria e com cantares, com tamborim e harpa?
+#v 28 %v Que ainda não me deixaste beijar meus filhos e minhas filhas. Agora loucamente fizeste.
+#v 29 %v Poder há em minha mão para fazer-vos mal: mas o Deus de vosso pai me falou de noite dizendo: Guarda-te que não fales a Jacó descomedidamente.
+#v 30 %v E já que te ias, porque tinhas saudade da casa de teu pai, por que me furtaste meus deuses?
+#v 31 %v E Jacó respondeu, e disse a Labão: Fui porque tive medo; pois disse, que talvez me tirasse por força tuas filhas.
+#v 32 %v Em quem achares teus deuses, não viva: diante de nossos irmãos reconhece o que eu tiver teu, e leva-o. Jacó não sabia que Raquel havia os furtado.
+#v 33 %v E entrou Labão na tenda de Jacó, e na tenda de Lia, e na tenda das duas servas, e não os achou, e saiu da tenda de Lia, e veio à tenda de Raquel.
+#v 34 %v E tomou Raquel os ídolos, e os pôs em uma albarda de um camelo, e sentou-se sobre eles: e provou Labão toda a tenda e não os achou.
+#v 35 %v E ela disse a seu pai: Não se ire meu senhor, porque não me posso levantar diante de ti; pois estou com o costume das mulheres. E ele buscou, mas não achou os ídolos.
+#v 36 %v Então Jacó se irou, e brigou com Labão; e respondeu Jacó e disse a Labão: Que transgressão é a minha? Qual é meu pecado, que com tanto ardor vieste em perseguição meu?
+#v 37 %v Pois que apalpaste todos meus móveis, que achaste de todos os móveis de tua casa? Põe-o aqui diante de meus irmãos e teus, e julguem entre nós ambos.
+#v 38 %v Estes vinte anos ei estado contigo: tuas ovelhas e tuas cabras nunca abortaram, nem eu comi carneiro de tuas ovelhas.
+#v 39 %v Nunca te trouxe o arrebatado pelas feras; eu pagava o dano; o furtado tanto de dia como de noite, de minha mão o requerias.
+#v 40 %v De dia me consumia o calor, e de noite a geada, e o sono se fugia de meus olhos.
+#v 41 %v Assim estive vinte anos em tua casa: catorze anos te servi por tuas duas filhas, e seis anos por teu gado; e mudaste meu salário dez vezes.
+#v 42 %v Se o Deus de meu pai, o Deus de Abraão, e o temor de Isaque, não fossem comigo, certamente me enviarias agora vazio: viu Deus minha aflição e o trabalho de minhas mãos, e repreendeu-te de noite.
+#v 43 %v E respondeu Labão, e disse a Jacó: As filhas são filhas minhas, e os filhos, filhos meus são, e as ovelhas são minhas ovelhas, e tudo o que tu vês é meu: e que posso eu fazer hoje a estas minhas filhas, ou a seus filhos que elas geraram?
+#v 44 %v Vem, pois, agora, façamos aliança eu e tu; e seja em testemunho entre mim e entre ti.
+#v 45 %v Então Jacó tomou uma pedra, e levantou-a por coluna.
+#v 46 %v E disse Jacó a seus irmãos: Recolhei pedras. E tomaram pedras e fizeram um amontoado; e comeram ali sobre aquele amontoado.
+#v 47 %v E Labão o chamou Jegar-Saaduta; e Jacó o chamou Galeede.
+#v 48 %v Porque Labão disse: Este amontoado é testemunha hoje entre mim e entre ti; por isso foi chamado seu nome Galeede.
+#v 49 %v E Mispá, porquanto disse: Vigie o SENHOR entre mim e entre ti, quando nos separarmos um do outro.
+#v 50 %v Se afligires minhas filhas, ou se tomares outras mulheres além de minhas filhas, ninguém está conosco; olha, Deus é testemunha entre mim e entre ti.
+#v 51 %v Disse mais Labão a Jacó: Eis que este amontoado, e eis que esta coluna, que erigi entre mim e ti.
+#v 52 %v Testemunha seja este amontoado, e testemunha seja esta coluna, que nem eu passarei contra ti este amontoado, nem tu passarás contra mim este amontoado nem esta coluna, para o mal.
+#v 53 %v O Deus de Abraão, e o Deus de Naor julgue entre nós, o Deus de seus pais. E Jacó jurou pelo temor de Isaque seu pai.
+#v 54 %v Então Jacó imolou sacrifícios no monte, e chamou a seus irmãos a comer pão: e comeram pão, e dormiram aquela noite no monte.
+#v 55 %v E levantou-se Labão de manhã, e beijou seus filhos e suas filhas, e os abençoou; e retrocedeu e voltou a seu lugar.
+
+#c 32 %c
+#v 1 %v E Jacó se foi seu caminho, e saíram-lhe ao encontro anjos de Deus.
+#v 2 %v E disse Jacó quando os viu: O campo de Deus é este: e chamou o nome daquele lugar Maanaim.
+#v 3 %v E enviou Jacó mensageiros diante de si a Esaú seu irmão, à terra de Seir, campo de Edom.
+#v 4 %v E mandou-lhes dizendo: Assim direis a mim senhor Esaú: Assim diz teu servo Jacó: Com Labão morei, e detive-me até agora;
+#v 5 %v E tenho vacas, e asnos, e ovelhas, e servos, e servas; e envio a dizê-lo a meu senhor, para achar favor em teus olhos.
+#v 6 %v E os mensageiros voltaram a Jacó, dizendo: Viemos a teu irmão Esaú, e ele também veio a receber-te, e quatrocentos homens com ele.
+#v 7 %v Então Jacó teve grande temor, e angustiou-se; e partiu o povo que tinha consigo, e as ovelhas e as vacas e os camelos, em dois grupos;
+#v 8 %v E disse: Se vier Esaú a um grupo e o ferir, o outro grupo escapará.
+#v 9 %v E disse Jacó: Deus de meu pai Abraão, e Deus de meu pai Isaque, o SENHOR, que me disseste: Volta-te à tua terra e à tua parentela, e eu te farei bem.
+#v 10 %v Menor sou que todas as misericórdias, e que toda a verdade que usaste para com teu servo; que com meu bordão passei este Jordão, e agora estou sobre dois grupos.
+#v 11 %v Livra-me agora da mão de meu irmão, da mão de Esaú, porque o temo; não venha talvez, e me fira a mãe com os filhos.
+#v 12 %v E tu disseste: Eu te farei bem, e porei tua descendência como a areia do mar, que não se pode contar pela multidão.
+#v 13 %v E dormiu ali aquela noite, e tomou do que lhe veio à mão um presente para seu irmão Esaú.
+#v 14 %v Duzentas cabras e vinte machos de bode, duzentas ovelhas e vinte carneiros,
+#v 15 %v Trinta camelas de cria, com seus filhotes, quarenta vacas e dez novilhos, vinte asnas e dez jumentos.
+#v 16 %v E entregou-o em mão de seus servos, cada manada à parte; e disse a seus servos: Passai diante de mim, e ponde espaço entre manada e manada.
+#v 17 %v E mandou ao primeiro, dizendo: Se Esaú meu irmão te encontrar, e te perguntar, dizendo De quem és? e aonde vais? e para quem é isto que levas diante de ti?
+#v 18 %v Então dirás: Presente é de teu servo Jacó, que envia a meu senhor Esaú; e eis que também ele vem atrás de nós.
+#v 19 %v E mandou também ao segundo, e ao terceiro, e a todos os que iam atrás aquelas manadas, dizendo: Conforme isto falareis a Esaú, quando o achardes.
+#v 20 %v E direis também: Eis que teu servo Jacó vem atrás de nós. Porque disse: Apaziguarei sua ira com o presente que vai adiante de mim, e depois verei seu rosto; talvez lhe serei aceito.
+#v 21 %v E passou o presente adiante dele; e ele dormiu aquela noite no acampamento.
+#v 22 %v E levantou-se aquela noite, e tomou suas duas mulheres, e suas duas servas, e seus onze filhos, e passou o vau de Jaboque.
+#v 23 %v Tomou-os, pois, e passou-os o ribeiro, e fez passar o que tinha.
+#v 24 %v E ficou Jacó sozinho, e lutou com ele um homem até que raiava a alva.
+#v 25 %v E quando viu que não podia com ele, tocou no lugar da juntura de sua coxa, e desconjuntou-se a coxa de Jacó enquanto com ele lutava.
+#v 26 %v E disse: Deixa-me, que raia a alva. E ele disse: Não te deixarei, se não me abençoares.
+#v 27 %v E ele lhe disse: Qual é teu nome? E ele respondeu: Jacó.
+#v 28 %v E ele disse: Não se dirá mais teu nome Jacó, mas sim Israel: porque lutaste com Deus e com os homens, e venceste.
+#v 29 %v Então Jacó lhe perguntou, e disse: Declara-me agora teu nome. E ele respondeu: Por que perguntas por meu nome? E abençoou-o ali.
+#v 30 %v E chamou Jacó o nome daquele lugar Peniel: porque vi a Deus face a face, e foi livrada minha alma.
+#v 31 %v E saiu-lhe o sol quando passou a Peniel; e andava mancando de sua coxa.
+#v 32 %v Por isto até o dia de hoje os filhos de Israel não comem do tendão que se contrai, o qual está na juntura da coxa; porque o homem tocou a Jacó este lugar de sua coxa no tendão que se contrai.
+
+#c 33 %c
+#v 1 %v E levantando Jacó seus olhos, olhou, e eis que vinha Esaú, e os quatrocentos homens com ele: então repartiu ele os filhos entre Lia e Raquel e as duas servas.
+#v 2 %v E pôs as servas e seus filhos adiante; logo a Lia e a seus filhos; e a Raquel e a José os últimos.
+#v 3 %v E ele passou diante deles, e inclinou-se à terra sete vezes, até que chegou a seu irmão.
+#v 4 %v E Esaú correu a seu encontro, e abraçou-lhe, e lançou-se sobre seu pescoço, e o beijou; e choraram.
+#v 5 %v E levantou seus olhos, e viu as mulheres e os filhos, e disse: Quem são estes que estão contigo? E ele respondeu: São os filhos que Deus deu a teu servo.
+#v 6 %v E se chegaram as servas, elas e seus meninos, e inclinaram-se.
+#v 7 %v E chegou-se Lia com seus filhos, e inclinaram-se: e depois chegou José e Raquel, e também se inclinaram.
+#v 8 %v E ele disse: Que te propões com todos estes grupos que encontrei? E ele respondeu: O achar favor aos olhos de meu senhor.
+#v 9 %v E disse Esaú: Bastante tenho eu, irmão meu: seja para ti o que é teu.
+#v 10 %v E disse Jacó: Não, eu te rogo, se achei agora favor em teus olhos, toma meu presente de minha mão, pois que assim vi teu rosto, como se houvesse visto o rosto de Deus; e me aceitaste.
+#v 11 %v Toma, eu te rogo, minha dádiva que te é trazida; porque Deus me fez misericórdia, e tudo o que há aqui é meu. E insistiu com ele, e tomou-a.
+#v 12 %v E disse: Anda, e vamos; e eu irei adiante de ti.
+#v 13 %v E ele lhe disse: Meu senhor sabe que os meninos são tenros, e que tenho ovelhas e vacas de cria; e se as cansam, em um dia morrerão todas as ovelhas.
+#v 14 %v Passe agora meu senhor diante de seu servo, e eu me irei pouco a pouco ao passo do gado que vai adiante de mim, e à passagem dos meninos, até que chegue a meu senhor a Seir.
+#v 15 %v E Esaú disse: Deixarei agora contigo da gente que vem comigo. E ele disse: Para que isto? ache eu favor aos olhos de meu senhor.
+#v 16 %v Assim se voltou Esaú aquele dia por seu caminho a Seir.
+#v 17 %v E Jacó se partiu a Sucote, e edificou ali casa para si, e fez abrigos para seu gado: portanto chamou o nome daquele lugar Sucote.
+#v 18 %v E veio Jacó são à cidade de Siquém, que está na terra de Canaã, quando vinha de Padã-Arã; e acampou diante da cidade.
+#v 19 %v E comprou uma parte do campo, onde estendeu sua tenda, da mão dos filhos de Hamor, pai de Siquém, por cem peças de moeda.
+#v 20 %v E erigiu ali um altar, e chamou-lhe: O Deus de Israel.
+
+#c 34 %c
+#v 1 %v E saiu Diná a filha de Lia, a qual esta havia dado a Jacó, a ver as filhas do país.
+#v 2 %v E viu-a Siquém, filho de Hamor heveu, príncipe daquela terra, e tomou-a, e deitou-se com ela, e a desonrou.
+#v 3 %v Mas sua alma se apegou a Diná a filha de Lia, e apaixonou-se pela moça, e falou ao coração da jovem.
+#v 4 %v E falou Siquém a Hamor seu pai, dizendo: Toma-me por mulher esta moça.
+#v 5 %v E ouviu Jacó que havia Siquém violado a Diná sua filha: e estando seus filhos com seu gado no campo, calou Jacó até que eles viessem.
+#v 6 %v E dirigiu-se Hamor pai de Siquém a Jacó, para falar com ele.
+#v 7 %v E os filhos de Jacó vieram do campo quando o souberam; e se entristeceram os homens, e se irritaram muito, porque fez depravação em Israel lançando-se com a filha de Jacó, o que não se devia haver feito.
+#v 8 %v E Hamor falou com eles, dizendo: A alma de meu filho Siquém se apegou à vossa filha; rogo-vos que a deis por mulher.
+#v 9 %v E aparentai-vos conosco; dai-nos vossas filhas, e tomai vós as nossas.
+#v 10 %v E habitai conosco; porque a terra estará diante de vós; morai e negociai nela, e tomai nela possessão.
+#v 11 %v Siquém também disse a seu pai e a seus irmãos: Ache eu favor em vossos olhos, e darei o que me disserdes.
+#v 12 %v Aumentai a cargo meu muito dote e presentes, que eu darei quanto me disserdes, e dá-me a moça por mulher.
+#v 13 %v E responderam os filhos de Jacó a Siquém e a Hamor seu pai com engano; e falaram, porquanto havia violado a Diná sua irmã.
+#v 14 %v E disseram-lhes: Não podemos fazer isto de dar nossa irmã a homem que tem prepúcio; porque entre nós é abominação.
+#v 15 %v Mas com esta condição vos consentiremos: se haveis de ser como nós, que se circuncide entre vós todo homem;
+#v 16 %v Então vos daremos nossas filhas, e tomaremos nós as vossas; e habitaremos convosco, e seremos um povo.
+#v 17 %v Mas se não nos prestardes ouvido para vos circuncidar, tomaremos nossa filha, e nos iremos.
+#v 18 %v E pareceram bem seus palavras a Hamor e a Siquém, filho de Hamor.
+#v 19 %v E não tardou o jovem fazer aquilo, porque a filha de Jacó lhe havia agradado: e ele era o mais honrado de toda a casa de seu pai.
+#v 20 %v Então Hamor e Siquém seu filho vieram à porta de sua cidade, e falaram aos homens de sua cidade, dizendo:
+#v 21 %v Estes homens são pacíficos conosco, e habitarão no país, e comercializarão nele: pois eis que a terra é bastante larga para eles: nós tomaremos suas filhas por mulheres, e lhes daremos as nossas.
+#v 22 %v Mas com esta condição nos estes homens consentirão em habitar conosco, para que sejamos um povo: se se circuncidar em nós todo homem, assim como eles são circuncidados.
+#v 23 %v Seus gados, e sua riqueza e todos seus animais, serão nossas: somente concordemos com eles, e habitarão conosco.
+#v 24 %v E obedeceram a Hamor e a Siquém seu filho todos os que saíam pela porta da cidade, e circuncidaram a todo homem, dentre os que saíam pela porta de sua cidade.
+#v 25 %v E sucedeu que ao terceiro dia, quando sentiam eles a maior dor, os dois filhos de Jacó, Simeão e Levi, irmãos de Diná, tomaram cada um sua espada, e vieram contra a cidade animosamente, e mataram a todo homem.
+#v 26 %v E a Hamor e a seu filho Siquém mataram a fio de espada: e tomaram a Diná de casa de Siquém, e saíram.
+#v 27 %v E os filhos de Jacó vieram aos mortos e saquearam a cidade; porquanto haviam violado à sua irmã.
+#v 28 %v Tomaram suas ovelhas e vacas e seus asnos, e o que havia na cidade e no campo,
+#v 29 %v E todos os seus pertences; se levaram cativos a todos as suas crianças e suas mulheres, e roubaram tudo o que havia nas casas.
+#v 30 %v Então disse Jacó a Simeão e a Levi: Vós me perturbastes em fazer-me abominável aos moradores desta terra, os cananeus e os ferezeus; e tendo eu poucos homens, se juntarão contra mim, e me ferirão, e serei destruído eu e minha casa.
+#v 31 %v E eles responderam Havia ele de tratar à nossa irmã como à uma prostituta?
+
+#c 35 %c
+#v 1 %v E disse Deus a Jacó: Levanta-te, sobe a Betel, e fica ali; e faze ali um altar ao Deus que te apareceu quando fugias de teu irmão Esaú.
+#v 2 %v Então Jacó disse à sua família e a todos os que com ele estavam: Tirai os deuses alheios que há entre vós, e limpai-vos, e mudai vossas roupas.
+#v 3 %v E levantemo-nos, e subamos a Betel; e farei ali altar ao Deus que me respondeu no dia de minha angústia, e foi comigo no caminho que andei.
+#v 4 %v Assim deram a Jacó todos os deuses alheios que havia em poder deles, e os brincos que estavam em suas orelhas; e Jacó os escondeu debaixo de um carvalho, que estava junto a Siquém.
+#v 5 %v E partiram-se, e o terror de Deus foi sobre as cidades que havia em seus arredores, e não seguiram atrás dos filhos de Jacó.
+#v 6 %v E chegou Jacó a Luz, que está em terra de Canaã, (esta é Betel) ele e todo o povo que com ele estava;
+#v 7 %v E edificou ali um altar, e chamou o lugar El-Betel, porque ali lhe havia aparecido Deus, quando fugia de seu irmão.
+#v 8 %v Então morreu Débora, ama de Rebeca, e foi sepultada às raízes de Betel, debaixo de um carvalho: e chamou-se seu nome Alom-Bacute.
+#v 9 %v E apareceu-se outra vez Deus a Jacó, quando se havia voltado de Padã-Arã, e abençoou-lhe.
+#v 10 %v E disse-lhe Deus: Teu nome é Jacó; não se chamará mais teu nome Jacó, mas sim Israel será teu nome: e chamou seu nome Israel.
+#v 11 %v E disse-lhe Deus: Eu sou o Deus Todo-Poderoso: cresce e multiplica-te; uma nação e conjunto de nações procederá de ti, e reis sairão de teus lombos:
+#v 12 %v E a terra que eu dei a Abraão e a Isaque, a darei a ti: e à tua descendência depois de ti darei a terra.
+#v 13 %v E foi-se dele Deus, do lugar onde com ele havia falado.
+#v 14 %v E Jacó erigiu uma coluna no lugar onde havia falado com ele, uma coluna de pedra, e derramou sobre ela libação, e deitou sobre ela azeite.
+#v 15 %v E chamou Jacó o nome daquele lugar onde Deus havia falado com ele, Betel.
+#v 16 %v E partiram de Betel, e havia ainda como alguma distância para chegar a Efrata, quando deu à luz Raquel, e houve trabalho em seu parto.
+#v 17 %v E aconteceu, que quando havia trabalho em seu parto, disse-lhe a parteira: Não temas, que também terás este filho.
+#v 18 %v E aconteceu que ao sair dela a alma, (pois morreu) chamou seu nome Benoni; mas seu pai o chamou Benjamim.
+#v 19 %v Assim morreu Raquel, e foi sepultada no caminho de Efrata, a qual é Belém.
+#v 20 %v E pôs Jacó uma coluna sobre sua sepultura: esta é a coluna da sepultura de Raquel até hoje.
+#v 21 %v E partiu Israel, e estendeu sua tenda da outra parte de Migdal-Eder.
+#v 22 %v E aconteceu, morando Israel naquela terra, que foi Rúben e dormiu com Bila a concubina de seu pai; o qual chegou a entender Israel. Agora bem, os filhos de Israel foram doze:
+#v 23 %v Os filhos de Lia: Rúben o primogênito de Jacó, e Simeão, e Levi, e Judá, e Issacar, e Zebulom.
+#v 24 %v Os filhos de Raquel: José, e Benjamim.
+#v 25 %v E os filhos de Bila, serva de Raquel: Dã, e Naftali.
+#v 26 %v E os filhos de Zilpa, serva de Lia: Gade, e Aser. Estes foram os filhos de Jacó, que lhe nasceram em Padã-Arã.
+#v 27 %v E veio Jacó a Isaque seu pai a Manre, à cidade de Arba, que é Hebrom, onde habitaram Abraão e Isaque.
+#v 28 %v E foram os dias de Isaque cento e oitenta anos.
+#v 29 %v E expirou Isaque, e morreu, e foi recolhido a seus povos, velho e farto de dias; e sepultaram-no Esaú e Jacó seus filhos.
+
+#c 36 %c
+#v 1 %v E estas são as gerações de Esaú, o qual é Edom.
+#v 2 %v Esaú tomou suas mulheres das filhas de Canaã: a Ada, filha de Elom heteu, e a Oolibama, filha de Aná, filha de Zibeão os heveus;
+#v 3 %v E a Basemate, filha de Ismael, irmã de Nebaiote.
+#v 4 %v E Ada deu à luz de Esaú a Elifaz; e Basemate deu à luz a Reuel.
+#v 5 %v E Oolibama deu à luz a Jeús, e a Jalão, e a Corá: estes são os filhos de Esaú, que lhe nasceram na terra de Canaã.
+#v 6 %v E Esaú tomou suas mulheres, e seus filhos, e suas filhas, e todas as pessoas de sua casa, e seus gados, e todos seus animais, e todos os seus pertences que havia adquirido na terra de Canaã, e foi-se a outra terra de diante de Jacó seu irmão.
+#v 7 %v Porque a riqueza deles era grande, e não podiam habitar juntos, nem a terra de sua peregrinação os podia sustentar por causa de seus gados.
+#v 8 %v E Esaú habitou no monte de Seir: Esaú é Edom.
+#v 9 %v Estas são as linhagens de Esaú, pai de Edom, no monte de Seir.
+#v 10 %v Estes são os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú; Reuel, filho de Basemate, mulher de Esaú.
+#v 11 %v E os filhos de Elifaz foram Temã, Omar, Zefô, Gatã, e Quenaz.
+#v 12 %v E Timna foi concubina de Elifaz, filho de Esaú, a qual lhe deu à luz a Amaleque: estes são os filhos de Ada, mulher de Esaú.
+#v 13 %v E os filhos de Reuel foram Naate, Zerá, Samá, e Mizá: estes são os filhos de Basemate, mulher de Esaú.
+#v 14 %v Estes foram os filhos de Oolibama, mulher de Esaú, filha de Aná, que foi filha de Zibeão: ela deu à luz de Esaú a Jeús, Jalão, e Corá.
+#v 15 %v Estes são os duques dos filhos de Esaú. Filhos de Elifaz, primogênito de Esaú: o duque Temã, o duque Omar, o duque Zefô, o duque Quenaz,
+#v 16 %v O duque Corá, o duque Gatã, e o duque Amaleque: estes são os duques de Elifaz na terra de Edom; estes foram os filhos de Ada.
+#v 17 %v E estes são os filhos de Reuel, filho de Esaú: o duque Naate, o duque Zerá, o duque Samá, e o duque Mizá: estes são os duques da linha de Reuel na terra de Edom; estes filhos vêm de Basemate, mulher de Esaú.
+#v 18 %v E estes são os filhos de Oolibama, mulher de Esaú: o duque Jeús, o duque Jalão, e o duque Corá: estes foram os duques que saíram de Oolibama, mulher de Esaú, filha de Aná.
+#v 19 %v Estes, pois, são os filhos de Esaú, e seus duques: ele é Edom.
+#v 20 %v E estes são os filhos de Seir horeu, moradores daquela terra: Lotã, Sobal, Zibeão, Aná,
+#v 21 %v Disom, Eser, e Disã: estes são os duques dos horeus, filhos de Seir na terra de Edom.
+#v 22 %v Os filhos de Lotã foram Hori e Hemã; e Timna foi irmã de Lotã.
+#v 23 %v E os filhos de Sobal foram Alvã, Manaate, Ebal, Sefô, e Onã.
+#v 24 %v E os filhos de Zibeão foram Aiá, e Aná. Este Aná é o que descobriu as fontes termais no deserto, quando apascentava os asnos de Zibeão seu pai.
+#v 25 %v Os filhos de Aná foram Disom, e Oolibama, filha de Aná.
+#v 26 %v E estes foram os filhos de Disom: Hendã, Esbã, Itrã, e Querã.
+#v 27 %v E estes foram os filhos de Eser: Bilã, Zaavã, e Acã.
+#v 28 %v Estes foram os filhos de Disã: Uz, e Harã.
+#v 29 %v E estes foram os duques dos horeus: o duque Lotã, o duque Sobal, o duque Zibeão, o duque Aná.
+#v 30 %v O duque Disom, o duque Eser, o duque Disã: estes foram os duques dos horeus: por seus ducados na terra de Seir.
+#v 31 %v E os reis que reinaram na terra de Edom, antes que reinasse rei sobre os filhos de Israel, foram estes:
+#v 32 %v Belá, filho de Beor, reinou em Edom: e o nome de sua cidade foi Dinabá.
+#v 33 %v E morreu Belá, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra.
+#v 34 %v E morreu Jobabe, e em seu lugar reinou Husão, da terra de Temã.
+#v 35 %v E morreu Husão, e reinou em seu lugar Hadade, filho de Bedade, o que feriu a Midiã no campo de Moabe: e o nome de sua cidade foi Avite.
+#v 36 %v E morreu Hadade, e em seu lugar reinou Samlá, de Masreca.
+#v 37 %v E morreu Samlá, e reinou em seu lugar Saul, de Reobote do rio.
+#v 38 %v E morreu Saul, e em seu lugar reinou Baal-Hanã, filho de Acbor.
+#v 39 %v E morreu Baal-Hanã, filho de Acbor, e reinou Hadar em seu lugar: e o nome de sua cidade foi Paú; e o nome de sua mulher Meetabel, filha de Matrede, filha de Mezaabe.
+#v 40 %v Estes, pois, são os nomes dos duques de Esaú por suas linhagens, por seus lugares, e seus nomes: o duque Timna, o duque Alva, o duque Jetete,
+#v 41 %v O duque Oolibama, o duque Elá, o duque Pinom,
+#v 42 %v O duque Quenaz, o duque Temã, o duque Mibzar,
+#v 43 %v O duque Magdiel, e o duque Hirão. Estes foram os duques de Edom por suas habitações na terra de sua possessão. Edom é o mesmo Esaú, pai dos edomitas.
+
+#c 37 %c
+#v 1 %v E habitou Jacó na terra onde peregrinou seu pai, na terra de Canaã.
+#v 2 %v Estas foram as gerações de Jacó. José, sendo de idade de dezessete anos apascentava as ovelhas com seus irmãos; e o jovem estava com os filhos de Bila, e com os filhos de Zilpa, mulheres de seu pai: e contava José a seu pai as más notícias acerca deles.
+#v 3 %v E amava Israel a José mais que a todos os seus filhos, porque lhe havia tido em sua velhice: e lhe fez uma roupa de diversas cores.
+#v 4 %v E vendo seus irmãos que seu pai o amava mais que a todos os seus irmãos, odiavam-lhe, e não lhe podiam falar pacificamente.
+#v 5 %v E sonhou José um sonho e contou-o a seus irmãos; e eles vieram a odiar-lhe mais ainda.
+#v 6 %v E ele lhes disse: Ouvi agora este sonho que sonhei:
+#v 7 %v Eis que atávamos feixes no meio do campo, e eis que meu feixe se levantava, e estava em pé, e que vossos feixes estavam ao redor, e se inclinavam ao meu.
+#v 8 %v E responderam-lhe seus irmãos: Reinarás tu sobre nós, ou serás tu senhor sobre nós? E o odiaram ainda mais por causa de seus sonhos e de suas palavras.
+#v 9 %v E sonhou ainda outro sonho, e contou-o a seus irmãos, dizendo: Eis que sonhei outro sonho, e eis que o sol e a lua e onze estrelas se inclinavam a mim.
+#v 10 %v E contou-o a seu pai e a seus irmãos: e seu pai lhe repreendeu, e disse-lhe: Que sonho é este que sonhaste? Viremos eu e tua mãe, e teus irmãos, a nos inclinarmos a ti em terra?
+#v 11 %v E seus irmãos lhe tinham inveja, mas seu pai guardava isso em mente.
+#v 12 %v E foram seus irmãos a apascentar as ovelhas de seu pai em Siquém.
+#v 13 %v E disse Israel a José: Teus irmãos apascentam as ovelhas em Siquém: vem, e te enviarei a eles. E ele respondeu: Eis-me aqui.
+#v 14 %v E ele lhe disse: Vai agora, olha como estão teus irmãos e como estão as ovelhas, e traze-me a resposta. E enviou-o do vale de Hebrom, e chegou a Siquém.
+#v 15 %v E achou-o um homem, andando ele perdido pelo campo, e perguntou-lhe aquele homem, dizendo: Que buscas?
+#v 16 %v E ele respondeu: Busco a meus irmãos: rogo-te que me mostres onde apascentam.
+#v 17 %v E aquele homem respondeu: Já se foram daqui; eu lhes ouvi dizer: Vamos a Dotã. Então José foi atrás de seus irmãos, e achou-os em Dotã.
+#v 18 %v E quando eles o viram de longe, antes que perto deles chegasse, tramaram contra ele para matar-lhe.
+#v 19 %v E disseram um ao outro: Eis que vem o sonhador;
+#v 20 %v Agora, pois, vinde, e o matemos e o lancemos em uma cisterna, e diremos: Alguma fera selvagem o devorou: e veremos que serão seus sonhos.
+#v 21 %v E quando Rúben ouviu isto, livrou-o de suas mãos e disse: Não o matemos.
+#v 22 %v E disse-lhes Rúben: Não derrameis sangue; lançai-o nesta cisterna que está no deserto, e não ponhais mão nele; para livrá-lo assim de suas mãos, para fazê-lo virar a seu pai.
+#v 23 %v E sucedeu que, quando chegou José a seus irmãos, eles fizeram desnudar a José sua roupa, a roupa de cores que tinha sobre si;
+#v 24 %v E tomaram-no, e lançaram-lhe na cisterna; mas a cova estava vazia, não havia nela água.
+#v 25 %v E sentaram-se a comer pão: e levantando os olhos olharam, e eis uma companhia de ismaelitas que vinha de Gileade, e seus camelos traziam aromas e bálsamo e mirra, e iam a levá-lo ao Egito.
+#v 26 %v Então Judá disse a seus irmãos: Que proveito há em que matemos a nosso irmão e encubramos sua morte?
+#v 27 %v Vinde, e o vendamos aos ismaelitas, e não seja nossa mão sobre ele; que nosso irmão é nossa carne. E seus irmãos concordaram com ele.
+#v 28 %v E quando passavam os midianitas mercadores, tiraram eles a José da cisterna, e trouxeram-lhe acima, e o venderam aos ismaelitas por vinte peças de prata. E levaram a José ao Egito.
+#v 29 %v E Rúben voltou à cisterna, e não achou a José dentro, e rasgou suas roupas.
+#v 30 %v E voltou a seus irmãos e disse: O jovem não aparece; e eu, aonde irei eu?
+#v 31 %v Então eles tomaram a roupa de José, e degolaram um cabrito das cabras, e tingiram a roupa com o sangue;
+#v 32 %v E enviaram a roupa de cores e trouxeram-na a seu pai, e disseram: Achamos isto, reconhece agora se é ou não a roupa de teu filho.
+#v 33 %v E ele a reconheceu, e disse: A roupa de meu filho é; alguma fera selvagem o devorou; José foi despedaçado.
+#v 34 %v Então Jacó rasgou suas roupas, e pôs saco sobre seus lombos, e fez luto por seu filho muitos dias.
+#v 35 %v E levantaram-se todos os seus filhos e todas as suas filhas para consolá-lo; mas ele não quis tomar consolação, e disse: Porque eu tenho de descer a meu filho com luto até à sepultura. E chorou por ele seu pai.
+#v 36 %v E os midianitas o venderam no Egito a Potifar, oficial de Faraó, capitão dos da guarda.
+
+#c 38 %c
+#v 1 %v E aconteceu naquele tempo, que Judá desceu da presença de seus irmãos, e foi-se a um homem adulamita, que se chamava Hira.
+#v 2 %v E viu ali Judá a filha de um homem cananeu, o qual se chamava Sua; e tomou-a, e se deitou com ela:
+#v 3 %v A qual concebeu, e deu à luz um filho; e chamou seu nome Er.
+#v 4 %v E concebeu outra vez, e deu à luz um filho, e chamou seu nome Onã.
+#v 5 %v E voltou a conceber, e deu à luz um filho, e chamou seu nome Selá. E estava em Quezibe quando o deu à luz.
+#v 6 %v E Judá tomou mulher para seu primogênito Er, a qual se chamava Tamar.
+#v 7 %v E Er, o primogênito de Judá, foi mau aos olhos do SENHOR, e tirou-lhe o SENHOR a vida.
+#v 8 %v Então Judá disse a Onã: Deita-te com mulher de teu irmão, e casa-te com ela, e suscita descendência a teu irmão.
+#v 9 %v E sabendo Onã que a descendência não havia de ser sua, sucedia que quando se deitava com mulher de seu irmão derramava em terra, para não dar descendência a seu irmão.
+#v 10 %v E desagradou aos olhos do SENHOR o que fazia, e também tirou a ele a vida.
+#v 11 %v E Judá disse a Tamar sua nora: Fica-te viúva em casa de teu pai, até que cresça Selá meu filho; porque disse: Para que não aconteça que morra ele também como seus irmãos. E foi-se Tamar, e ficou em casa de seu pai.
+#v 12 %v E passaram muitos dias, e morreu a filha de Sua, mulher de Judá; e Judá se consolou, e subia aos tosquiadores de suas ovelhas a Timna, ele e seu amigo Hira o adulamita.
+#v 13 %v E foi dado aviso a Tamar, dizendo: Eis que teu sogro sobe a Timna a tosquiar suas ovelhas.
+#v 14 %v Então tirou ela de sobre si as roupas de sua viuvez, e cobriu-se com um véu, e envolveu-se, e se pôs à porta das águas que estão junto ao caminho de Timna; porque via que havia crescido Selá, e ela não era dada a ele por mulher.
+#v 15 %v E viu-a Judá, e teve-a por prostituta, porque havia ela coberto seu rosto.
+#v 16 %v E desviou-se do caminho até ela, e disse-lhe: Eia, pois, agora deitarei contigo; porque não sabia que era sua nora; e ela disse: Que me darás, se deitares comigo?
+#v 17 %v Ele respondeu: Eu te enviarei do gado um cabrito das cabras. E ela disse: Terás de me dar penhor até que o envies.
+#v 18 %v Então ele disse: Que penhor te darei? Ela respondeu: Teu anel, e teu manto, e teu bordão que tens em tua mão. E ele lhe deu, e se deitou com ela, a qual concebeu dele.
+#v 19 %v E levantou-se, e foi-se: e tirou o véu de sobre si, e vestiu-se das roupas de sua viuvez.
+#v 20 %v E Judá enviou o cabrito das cabras por meio de seu amigo o adulamita, para que tomasse o penhor da mão da mulher; mas não a achou.
+#v 21 %v E perguntou aos homens daquele lugar, dizendo: Onde está a prostituta das águas junto ao caminho? E eles lhe disseram: Não esteve aqui prostituta.
+#v 22 %v Então ele se voltou a Judá, e disse: Não a achei; e também os homens do lugar disseram: Aqui não esteve prostituta.
+#v 23 %v E Judá disse: Tome ela dessas coisas para si, para que não sejamos menosprezados: eis que eu enviei este cabrito, e tu não a achaste.
+#v 24 %v E aconteceu que ao fim de uns três meses foi dado aviso a Judá, dizendo: Tamar tua nora cometeu imoralidade sexual, e além disso está grávida das promiscuidades. E Judá disse: Tirai-a, e seja queimada.
+#v 25 %v E ela quando a tiravam, enviou a dizer a seu sogro: Do homem a quem pertence estas coisas, estou grávida: e disse mais: Olha agora a quem pertence estas coisas, o anel, e o manto, e o bordão.
+#v 26 %v Então Judá os reconheceu, e disse: Mais justa é que eu, porquanto não a dei a Selá meu filho. E nunca mais a conheceu.
+#v 27 %v E aconteceu que ao tempo de dar à luz, eis que havia dois em seu ventre.
+#v 28 %v E sucedeu, quando dava à luz, que tirou a mão um, e a parteira tomou e amarrou à sua mão um fio de escarlate, dizendo: Este saiu primeiro.
+#v 29 %v Porém foi que voltando ele a recolher a mão, eis que seu irmão saiu; e ela disse: Como fizeste sobre ti rompimento? E chamou seu nome Perez.
+#v 30 %v E depois saiu seu irmão, o que tinha em sua mão o fio de escarlate, e chamou seu nome Zerá.
+
+#c 39 %c
+#v 1 %v E levado José ao Egito, comprou-o Potifar, oficial de Faraó, capitão dos da guarda, homem egípcio, da mão dos ismaelitas que o haviam levado ali.
+#v 2 %v Mas o SENHOR foi com José, e foi homem próspero: e estava na casa de seu senhor o egípcio.
+#v 3 %v E viu seu senhor que o SENHOR era com ele, e que tudo o que ele fazia, o SENHOR o fazia prosperar em sua mão.
+#v 4 %v Assim achou José favor em seus olhos, e servia-lhe; e ele lhe fez mordomo de sua casa, e entregou em seu poder tudo o que tinha.
+#v 5 %v E aconteceu que, desde quando lhe deu o encargo de sua casa, e de tudo o que tinha, o SENHOR abençoou a casa do egípcio por causa de José; e a bênção do SENHOR foi sobre tudo o que tinha, tanto em casa como no campo.
+#v 6 %v E deixou tudo o que tinha em mão de José; nem com ele sabia de nada mais que do pão que comia. E era José de belo semblante e bela presença.
+#v 7 %v E aconteceu depois disto, que a mulher de seu senhor pôs seus olhos em José, e disse: Dorme comigo.
+#v 8 %v E ele não quis, e disse à mulher de seu senhor: Eis que meu senhor não sabe comigo o que há em casa, e pôs em minha mão tudo o que tem:
+#v 9 %v Não há outro maior que eu nesta casa, e nenhuma coisa me há reservado a não ser a ti, porquanto tu és sua mulher; como, pois, faria eu este grande mal e pecaria contra Deus?
+#v 10 %v E foi que falando ela a José cada dia, e não escutando-a ele para deitar-se ao lado dela, para estar com ela.
+#v 11 %v Aconteceu que entrou ele um dia em casa para fazer seu ofício, e não havia ninguém dos da casa ali em casa.
+#v 12 %v E pegou-o ela por sua roupa, dizendo: Dorme comigo. Então ele deixou sua roupa nas mãos dela, e fugiu, e saiu-se fora.
+#v 13 %v E aconteceu que quando viu ela que lhe havia deixado sua roupa em suas mãos, e havia fugido fora,
+#v 14 %v Chamou aos de casa, e falou-lhes dizendo: Olhai que ele nos trouxe um hebreu, para que fizesse zombaria de nós: veio ele a mim para dormir comigo, e eu dei grandes vozes;
+#v 15 %v E vendo que eu erguia a voz e gritava, deixou junto a mim sua roupa, e fugiu, e saiu-se fora.
+#v 16 %v E ela pôs junto a si a roupa dele, até que veio seu senhor à sua casa.
+#v 17 %v Então lhe falou ela semelhantes palavras, dizendo: O servo hebreu que nos trouxeste, veio a mim para desonrar-me;
+#v 18 %v E quando eu levantei minha voz e gritei, ele deixou sua roupa junto a mim, e fugiu fora.
+#v 19 %v E sucedeu que quando ouviu seu senhor as palavras que sua mulher lhe falara, dizendo: Assim me tratou teu servo; acendeu-se seu furor.
+#v 20 %v E tomou seu senhor a José, e pôs-lhe na casa do cárcere, onde estavam os presos do rei, e esteve ali na casa do cárcere.
+#v 21 %v Mas o SENHOR foi com José, e estendeu a ele sua misericórdia, e deu-lhe favor aos olhos do chefe da casa do cárcere.
+#v 22 %v E o chefe da casa do cárcere entregou em mão de José todos os presos que havia naquela prisão; tudo o que faziam ali, ele o fazia.
+#v 23 %v Não via o chefe do cárcere coisa alguma que em sua mão estava; porque o SENHOR era com ele, e o que ele fazia, o SENHOR o fazia prosperar.
+
+#c 40 %c
+#v 1 %v E aconteceu depois destas coisas, que o copeiro do rei do Egito e o padeiro transgrediram contra seu senhor o rei do Egito.
+#v 2 %v E irou-se Faraó contra seus dois eunucos, contra o principal dos copeiros, e contra o principal dos padeiros:
+#v 3 %v E os pôs em prisão na casa do capitão dos da guarda, na casa do cárcere onde José estava preso.
+#v 4 %v E o capitão dos da guarda deu responsabilidade deles a José, e ele lhes servia: e estiveram dias na prisão.
+#v 5 %v E ambos, o copeiro e o padeiro do rei do Egito, que estavam detidos na prisão, viram um sonho, cada um seu sonho em uma mesma noite, cada um conforme a declaração de seu sonho.
+#v 6 %v E veio a eles José pela manhã, e olhou-os, e eis que estavam tristes.
+#v 7 %v E ele perguntou àqueles oficiais de Faraó, que estavam com ele na prisão da casa de seu senhor, dizendo: Por que parecem hoje mal vossos semblantes?
+#v 8 %v E eles lhe disseram: Tivemos um sonho, e não há quem o declare. Então lhes disse José: Não são de Deus as interpretações? Contai-o a mim agora.
+#v 9 %v Então o chefe dos copeiros contou seu sonho a José, e disse-lhe: Eu sonhava que via uma vide diante de mim,
+#v 10 %v E na vide três sarmentos; e ela como que brotava, e surgia sua flor, vindo a amadurecer seus cachos de uvas:
+#v 11 %v E que o copo de Faraó estava em minha mão, e tomava eu as uvas, e as espremia no copo de Faraó, e dava eu o copo em mão de Faraó.
+#v 12 %v E disse-lhe José: Esta é sua declaração: Os três sarmentos são três dias:
+#v 13 %v Ao fim de três dias Faraó te fará levantar a cabeça, e te restituirá a teu posto: e darás o copo a Faraó em sua mão, como costumavas quando eras seu copeiro.
+#v 14 %v Lembra-te, pois, de mim para contigo quando tiveres esse bem, e rogo-te que uses comigo de misericórdia, e faças menção de mim a Faraó, e me tires desta prisão:
+#v 15 %v Porque furtado fui da terra dos hebreus; e tampouco fiz aqui para que me houvessem de pôr no cárcere.
+#v 16 %v E vendo o chefe dos padeiros que havia interpretado para o bem, disse a José: Também eu sonhava que via três cestos brancos sobre minha cabeça;
+#v 17 %v E no cesto mais alto havia de todos os alimentos de Faraó, obra de padeiro; e que as aves as comiam do cesto de sobre minha cabeça.
+#v 18 %v Então respondeu José, e disse: Esta é sua declaração: Os três cestos três dias são;
+#v 19 %v Ao fim de três dias tirará Faraó tua cabeça de sobre ti, e te fará enforcar na forca, e as aves comerão tua carne de sobre ti.
+#v 20 %v E foi o terceiro dia o dia do aniversário de Faraó, e fez banquete a todos os seus servos: e levantou a cabeça do chefe dos copeiros, e a cabeça do chefe de los padeiros, entre seus servos.
+#v 21 %v E fez voltar a seu ofício ao chefe dos copeiros; e deu ele o copo em mão de Faraó.
+#v 22 %v Mas fez enforcar ao principal dos padeiros, como lhe havia declarado José.
+#v 23 %v E o chefe dos copeiros não se lembrou de José, ao invés disso que lhe esqueceu.
+
+#c 41 %c
+#v 1 %v E aconteceu que passados dois anos teve Faraó um sonho: Parecia-lhe que estava junto ao rio;
+#v 2 %v E que do rio subiam sete vacas, belas à vista, e muito gordas, e pastavam entre os juncos:
+#v 3 %v E que outras sete vacas subiam atrás elas do rio, de feia aparência, e magras de carne, e se pararam perto das vacas belas à beira do rio:
+#v 4 %v E que as vacas de feia aparência e magras de carne devoravam as sete vacas belas e muito gordas. E despertou Faraó.
+#v 5 %v Dormiu de novo, e sonhou a segunda vez: Que sete espigas cheias e belas subiam de uma só haste:
+#v 6 %v E que outras sete espigas miúdas e abatidas do vento oriental, saíam depois delas:
+#v 7 %v E as sete espigas miúdas devoravam as sete espigas espessas e cheias. E despertou Faraó, e eis que era sonho.
+#v 8 %v E aconteceu que à manhã estava movido seu espírito; e enviou e fez chamar a todos os magos do Egito, e a todos os seus sábios: e contou-lhes Faraó seus sonhos, mas não havia quem a Faraó os interpretasse.
+#v 9 %v Então o chefe dos copeiros falou a Faraó, dizendo: Lembro-me hoje de minhas faltas:
+#v 10 %v Faraó se irou contra seus servos, e a mim me lançou à prisão da casa do capitão dos da guarda, a mim e ao chefe dos padeiros:
+#v 11 %v E eu e ele vimos um sonho uma mesma noite: cada um sonhou conforme a interpretação de seu sonho.
+#v 12 %v E estava ali conosco um jovem hebreu, servente do capitão dos da guarda; e o contamos a ele, e ele nos interpretou nossos sonhos, e interpretou a cada um conforme seu sonho.
+#v 13 %v E aconteceu que como ele nos interpretou, assim foi: a mim me fez voltar a meu posto, e fez enforcar ao outro.
+#v 14 %v Então Faraó enviou e chamou a José; e fizeram-lhe sair correndo do cárcere; e ele rapou-se a barba, mudou-se de roupas, e veio a Faraó.
+#v 15 %v E disse Faraó a José: Eu tive um sonho, e não há quem o interprete; mas ouvi dizer de ti, que ouves sonhos para os interpretar.
+#v 16 %v E respondeu José a Faraó, dizendo: Não está em mim; Deus será o que responda paz a Faraó.
+#v 17 %v Então Faraó disse a José: Em meu sonho parecia-me que estava à beira do rio:
+#v 18 %v E que do rio subiam sete vacas de gordas carnes e bela aparência, que pastavam entre os juncos:
+#v 19 %v E que outras sete vacas subiam depois delas, magras e de muito feio aspecto; tão abatidas, que não vi outras semelhantes em toda a terra do Egito em feiura:
+#v 20 %v E as vacas magras e feias devoravam as sete primeiras vacas gordas:
+#v 21 %v E entravam em suas entranhas, mas não se conhecia que houvesse entrado nelas, porque sua aparência era ainda má, como de antes. E eu despertei.
+#v 22 %v Vi também sonhando, que sete espigas subiam em uma mesma haste, cheias e belas;
+#v 23 %v E que outras sete espigas miúdas, definhadas, abatidas do vento oriental, subiam depois delas:
+#v 24 %v E as espigas miúdas devoravam as sete espigas belas: e disse-o aos magos, mas não há quem o interprete a mim.
+#v 25 %v Então respondeu José a Faraó: O sonho de Faraó é um mesmo: Deus mostrou a Faraó o que vai fazer.
+#v 26 %v As sete vacas belas sete anos são; e as espigas belas são sete anos: o sonho é um mesmo.
+#v 27 %v Também as sete vacas magras e feias que subiam atrás elas, são sete anos; e as sete espigas miúdas e definhadas do vento oriental, sete anos serão de fome.
+#v 28 %v Isto é o que respondo a Faraó. O que Deus vai fazer, mostrou-o a Faraó.
+#v 29 %v Eis que vêm sete anos de grande fartura toda a terra do Egito:
+#v 30 %v E se levantarão depois eles sete anos de fome; e toda a fartura será esquecida na terra do Egito; e a fome consumirá a terra;
+#v 31 %v E aquela abundância não mais será vista por causa da fome seguinte, a qual será gravíssima.
+#v 32 %v E o suceder o sonho a Faraó duas vezes, significa que a coisa é firme da parte de Deus, e que Deus se apressa a fazê-la.
+#v 33 %v Portanto, providencie Faraó agora um homem prudente e sábio, e ponha-o sobre a terra do Egito.
+#v 34 %v Faça isto Faraó, e ponha governadores sobre o país, e tome a quinta parte da terra do Egito nos sete anos da fartura;
+#v 35 %v E juntem toda a provisão destes bons anos que vêm, e acumulem o trigo sob a mão de Faraó para mantimento das cidades; e guardem-no.
+#v 36 %v E esteja aquela provisão em depósito para o país, para os sete anos de fome que serão na terra do Egito; e o país não perecerá de fome.
+#v 37 %v E o negócio pareceu bem a Faraó, e a seus servos.
+#v 38 %v E disse Faraó a seus servos: Acharemos outro homem como este, em quem haja espírito de Deus?
+#v 39 %v E disse Faraó a José: Pois que Deus te fez saber tudo isto, não há entendido nem sábio como tu:
+#v 40 %v Tu serás sobre minha casa, e por teu dito se governará todo o meu povo: somente no trono serei eu maior que tu.
+#v 41 %v Disse mais Faraó a José: Eis que eu te pus sobre toda a terra do Egito.
+#v 42 %v Então Faraó tirou seu anel de sua mão, e o pôs na mão de José, e fez-lhe vestir de roupas de linho finíssimo, e pôs um colar de ouro em seu pescoço;
+#v 43 %v E o fez subir em seu segundo carro, e proclamaram diante dele: Dobrai os joelhos: e pôs-lhe sobre toda a terra do Egito.
+#v 44 %v E disse Faraó a José: Eu sou Faraó; e sem ti ninguém levantará sua mão nem seu pé toda a terra do Egito.
+#v 45 %v E chamou Faraó o nome de José, Zefenate-Paneia; e deu-lhe por mulher a Azenate, filha de Potífera, sacerdote de Om. E saiu José por toda a terra do Egito.
+#v 46 %v E era José de idade de trinta anos quando foi apresentado diante de Faraó, rei do Egito: e saiu José de diante de Faraó, e transitou por toda a terra do Egito.
+#v 47 %v E fez a terra naqueles sete anos de fartura a amontoados.
+#v 48 %v E ele juntou todo o mantimento dos sete anos que foram na terra do Egito, e guardou mantimento nas cidades, pondo em cada cidade o mantimento do campo de seus arredores.
+#v 49 %v E ajuntou José trigo como areia do mar, muito em extremo, até não se poder contar, porque não tinha número.
+#v 50 %v E nasceram a José dois filhos antes que viesse o primeiro ano da fome, os quais lhe deu à luz Azenate, filha de Potífera, sacerdote de Om.
+#v 51 %v E chamou José o nome do primogênito Manassés; porque Deus (disse) me fez esquecer todo o meu sofrimento, e toda a casa de meu pai.
+#v 52 %v E o nome do segundo chamou-o Efraim; porque Deus (disse) me fez fértil na terra de minha aflição.
+#v 53 %v E cumpriram-se os sete anos da fartura, que houve na terra do Egito.
+#v 54 %v E começaram a vir os sete anos de fome, como José havia dito: e houve fome em todos os países, mas toda a terra do Egito havia pão.
+#v 55 %v E quando se sentiu a fome toda a terra do Egito, o povo clamou a Faraó por pão. E disse Faraó a todos os egípcios: Ide a José, e fazei o que ele vos disser.
+#v 56 %v E a fome estava por toda a extensão do país. Então abriu José todo depósito de grãos onde havia, e vendia aos egípcios; porque havia crescido a fome na terra do Egito.
+#v 57 %v E toda a terra vinha ao Egito para comprar de José, porque por toda a terra havia crescido a fome.
+
+#c 42 %c
+#v 1 %v E vendo Jacó que no Egito havia alimentos, disse a seus filhos: Por que estais olhando uns para os outros?
+#v 2 %v E disse: Eis que, eu ouvi que há alimentos no Egito; descei ali, e comprai dali para nós, para que possamos viver, e não nos morramos.
+#v 3 %v E desceram os dez irmãos de José a comprar trigo ao Egito.
+#v 4 %v Mas Jacó não enviou a Benjamim irmão de José com seus irmãos; porque disse: Não seja acaso que lhe aconteça algum desastre.
+#v 5 %v E vieram os filhos de Israel a comprar entre os que vinham: porque havia fome na terra de Canaã.
+#v 6 %v E José era o senhor da terra, que vendia a todo o povo da terra: e chegaram os irmãos de José, e inclinaram-se a ele rosto por terra.
+#v 7 %v E José quando viu seus irmãos, reconheceu-os; mas fez que não os conhecesse, e falou-lhes asperamente, e lhes disse: De onde viestes? Eles responderam: Da terra de Canaã a comprar alimentos.
+#v 8 %v José, pois, reconheceu a seus irmãos; mas eles não o reconheceram.
+#v 9 %v Então se lembrou José dos sonhos que havia tido deles, e disse-lhes: Espias sois; para ver o descoberto do país viestes.
+#v 10 %v E eles lhe responderam: Não, senhor meu: mas teus servos vieram a comprar alimentos.
+#v 11 %v Todos nós somos filhos de um homem: somos homens honestos: teus servos nunca foram espias.
+#v 12 %v E ele lhes disse: Não; para ver o descoberto do país viestes.
+#v 13 %v E eles responderam: Teus servos somos doze irmãos, filhos de um homem na terra de Canaã; e eis que o menor está hoje com nosso pai, e outro desapareceu.
+#v 14 %v E José lhes disse: Isso é o que vos disse, afirmando que sois espias:
+#v 15 %v Nisto sereis provados: Vive Faraó que não saireis daqui, a não ser quando vosso irmão menor aqui vier.
+#v 16 %v Enviai um de vós, e traga a vosso irmão; e vós ficai presos, e vossas palavras serão provadas, se há verdade convosco: e se não, vive Faraó, que sois espias.
+#v 17 %v E juntou-os no cárcere por três dias.
+#v 18 %v E ao terceiro dia disse-lhes José: Fazei isto, e vivei: Eu temo a Deus:
+#v 19 %v Se sois homens honestos, fique preso na casa de vosso cárcere um de vossos irmãos; e vós ide, levai o alimento para a fome de vossa casa:
+#v 20 %v Porém haveis de trazer-me a vosso irmão mais novo, e serão verificadas vossas palavras, e não morrereis. E eles o fizeram assim.
+#v 21 %v E diziam um ao outro: Verdadeiramente pecamos contra nosso irmão, que vimos a angústia de sua alma quando nos rogava, e não o ouvimos: por isso veio sobre nós esta angústia.
+#v 22 %v Então Rúben lhes respondeu, dizendo: Não vos falei eu e disse: Não pequeis contra o jovem; e não escutastes? Eis que também seu sangue é requerido.
+#v 23 %v E eles não sabiam que os entendia José, porque havia intérprete entre eles.
+#v 24 %v E apartou-se ele deles, e chorou: depois voltou a eles, e lhes falou, e tomou dentre eles a Simeão, e aprisionou-lhe à vista deles.
+#v 25 %v E mandou José que enchessem seus sacos de trigo, e devolvessem o dinheiro de cada um deles, pondo-o em seu saco, e lhes dessem comida para o caminho: e fez-se assim com eles.
+#v 26 %v E eles puseram seu trigo sobre seus asnos, e foram-se dali.
+#v 27 %v E abrindo um deles seu saco para dar de comer a seu asno no lugar de parada, viu seu dinheiro que estava na boca de seu saco.
+#v 28 %v E disse a seus irmãos: Meu dinheiro se me foi devolvido, e ainda ei-lo aqui em meu saco. Alarmou-se, então, o coração deles, e espantados disseram um ao outro: Que é isto que nos fez Deus?
+#v 29 %v E vindos a Jacó seu pai em terra de Canaã, contaram-lhe tudo o que lhes havia acontecido, dizendo:
+#v 30 %v Aquele homem, senhor da terra, nos falou asperamente, e nos tratou como espias da terra:
+#v 31 %v E nós lhe dissemos: Somos homens honestos, nunca fomos espias:
+#v 32 %v Somos doze irmãos, filhos de nosso pai; um desapareceu, e o menor está hoje com nosso pai na terra de Canaã.
+#v 33 %v E aquele homem, senhor da terra, nos disse: Nisto conhecerei que sois homens honestos; deixai comigo um de vossos irmãos, e tomai para a fome de vossas casas, e ide,
+#v 34 %v E trazei-me a vosso irmão o mais novo, para que eu saiba que não sois espias, mas sim homens honestos: assim vos darei a vosso irmão, e negociareis na terra.
+#v 35 %v E aconteceu que esvaziando eles seus sacos, eis que no saco de cada um estava o pacote de seu dinheiro: e vendo eles e seu pai os pacotes de seu dinheiro, tiveram temor.
+#v 36 %v Então seu pai Jacó lhes disse: Vós me privastes de meus filhos; José desapareceu, nem Simeão tampouco, e a Benjamim o levareis: contra mim são todas estas coisas.
+#v 37 %v E Rúben falou a seu pai, dizendo: Farás morrer a meus dois filhos, se eu não o devolver a ti; entrega-o em minha mão, que eu o devolverei a ti.
+#v 38 %v E ele disse: Não descerá meu filho convosco; que seu irmão é morto, e ele somente restou; e se lhe acontecer algum desastre no caminho por onde vades, fareis descer minhas cãs com dor ao mundo dos mortos.
+
+#c 43 %c
+#v 1 %v E a fome era grande na terra.
+#v 2 %v E aconteceu que quando acabaram de comer o trigo que trouxeram do Egito, disse-lhes seu pai: Voltai, e comprai para nós um pouco de alimento.
+#v 3 %v E respondeu Judá, dizendo: Aquele homem nos advertiu com ânimo decidido, dizendo: Não vereis meu rosto sem vosso irmão convosco.
+#v 4 %v Se enviares a nosso irmão conosco, desceremos e te compraremos alimento:
+#v 5 %v Porém se não lhe enviares, não desceremos: porque aquele homem nos disse: Não vereis meu rosto sem vosso irmão convosco.
+#v 6 %v E disse Israel: Por que me fizestes tanto mal, declarando ao homem que tínheis mais irmão?
+#v 7 %v E eles responderam: Aquele homem nos perguntou expressamente por nós, e por nossa parentela, dizendo: Vive ainda vosso pai? Tendes outro irmão? E lhe declaramos conforme estas palavras. Podíamos nós saber que havia de dizer: Fazei vir a vosso irmão?
+#v 8 %v Então Judá disse a Israel seu pai: Envia ao jovem comigo, e nos levantaremos e iremos, a fim que vivamos e não morramos nós, e tu, e nossos filhos.
+#v 9 %v Eu sou fiador dele; a mim me pedirás conta dele; se eu não o devolver a ti e o puser diante de ti, serei para ti o culpado todos os dias:
+#v 10 %v Que se não nos tivéssemos detido, certo agora teríamos já voltado duas vezes.
+#v 11 %v Então Israel seu pai lhes respondeu: Pois que assim é, fazei-o; tomai do melhor da terra em vossos vasos, e levai àquele homem um presente, um pouco de bálsamo, e um pouco de mel, aromas e mirra, nozes e amêndoas.
+#v 12 %v E tomai em vossas mãos dobrado dinheiro, e levai em vossa mão o dinheiro que voltou nas bocas de vossos sacos; talvez tenha sido erro.
+#v 13 %v Tomai também a vosso irmão, e levantai-vos, e voltai àquele homem.
+#v 14 %v E o Deus Todo-Poderoso vos dê misericórdias diante daquele homem, e vos solte ao outro vosso irmão, e a este Benjamim. E se eu tiver de ser privado de meus filhos, assim seja.
+#v 15 %v Então tomaram aqueles homens o presente, e tomaram em sua mão dobrado dinheiro, e a Benjamim; e se levantaram, e desceram ao Egito, e apresentaram-se diante de José.
+#v 16 %v E viu José a Benjamim com eles, e disse ao mordomo de sua casa: Mete em casa a esses homens, e degola um animal, e prepara-o; porque estes homens comerão comigo ao meio-dia.
+#v 17 %v E fez o homem como José disse; e meteu aquele homem aos homens em casa de José.
+#v 18 %v E aqueles homens tiveram temor, quando foram metidos na casa de José, e diziam: Pelo dinheiro que voltou em nossos sacos a primeira vez nos trouxeram aqui, para virem contra nós, e nos atacar, e tomar por servos a nós, e a nossos asnos.
+#v 19 %v E aproximaram-se do mordomo da casa de José, e lhe falaram à entrada da casa.
+#v 20 %v E disseram: Ai, senhor meu, nós em realidade de verdade descemos ao princípio a comprar alimentos:
+#v 21 %v E aconteceu que quando viemos ao lugar de parada e abrimos nossos sacos, eis que o dinheiro de cada um estava na boca de seu saco, nosso dinheiro em seu justo peso; e o devolvemos em nossas mãos.
+#v 22 %v Trouxemos também em nossas mãos outro dinheiro para comprar alimentos: nós não sabemos quem pôs nosso dinheiro em nossos sacos.
+#v 23 %v E ele respondeu: Paz a vós, não temais; vosso Deus e o Deus de vosso pai vos deu o tesouro em vossos sacos: vosso dinheiro veio a mim. E tirou a Simeão a eles.
+#v 24 %v E aquele homem levou àqueles homens na casa de José: e deu-lhes água, e lavaram seus pés: e deu de comer a seus asnos.
+#v 25 %v E eles prepararam o presente antes que viesse José ao meio-dia, porque haviam ouvido que ali haviam de comer pão.
+#v 26 %v E veio José a casa, e eles lhe trouxeram o presente que tinham em sua mão dentro de casa, e inclinaram-se a ele em terra.
+#v 27 %v Então ele lhes perguntou como estavam, e disse: Vosso pai, o ancião que dissestes, passa bem? Vive ainda?
+#v 28 %v E eles responderam: Bem vai a teu servo nosso pai; ainda vive. E se inclinaram, e fizeram reverência.
+#v 29 %v E levantando ele seus olhos viu Benjamim seu irmão, filho de sua mãe, e disse: É este vosso irmão mais novo, de quem me falastes? E disse: Deus tenha misericórdia de ti, filho meu.
+#v 30 %v Então José se apressou, porque se comoveram suas entranhas por causa de seu irmão, e procurou onde chorar: e entrou-se em sua câmara, e chorou ali.
+#v 31 %v E lavou seu rosto, e saiu fora, e controlou-se, e disse: Ponde pão.
+#v 32 %v E puseram para ele à parte, e separadamente para eles, e à parte para os egípcios que com ele comiam: porque os egípcios não podem comer pão com os hebreus, o qual é abominação aos egípcios.
+#v 33 %v E sentaram-se diante dele, o mais velho conforme sua primogenitura, e o mais novo conforme sua idade menor; e estavam aqueles homens atônitos olhando-se um ao outro.
+#v 34 %v E ele tomou iguarias de diante de si para eles; mas a porção de Benjamim era cinco vezes como qualquer uma das deles. E beberam, e alegraram-se com ele.
+
+#c 44 %c
+#v 1 %v E mandou José ao mordomo de sua casa, dizendo: Enche os sacos destes homens de alimentos, quanto puderem levar, e põe o dinheiro de cada um na boca de seu saco:
+#v 2 %v E porás meu copo, o copo de prata, na boca do saco do mais novo, com o dinheiro de seu trigo. E ele fez como disse José.
+#v 3 %v Vinda a manhã, os homens foram despedidos com seus asnos.
+#v 4 %v Havendo eles saído da cidade, da qual ainda não haviam se afastado, disse José a seu mordomo: Levanta-te, e segue a esses homens; e quando os alcançares, dize-lhes: Por que retribuístes com o mal pelo bem?
+#v 5 %v Não é isto no que bebe meu senhor, e pelo que costuma adivinhar? Fizestes mal no que fizestes.
+#v 6 %v E quando ele os alcançou, disse-lhes estas palavras.
+#v 7 %v E eles lhe responderam: Por que diz meu senhor tais coisas? Nunca tal façam teus servos.
+#v 8 %v Eis que, o dinheiro que achamos na boca de nossos sacos, o voltamos a trazer a ti desde a terra de Canaã; como, pois, havíamos de furtar da casa de teu senhor prata nem ouro?
+#v 9 %v Aquele de teus servos em quem for achado o copo, que morra, e ainda nós seremos servos de meu senhor.
+#v 10 %v E ele disse: Também agora seja conforme vossas palavras; aquele em quem se achar, será meu servo, e vós sereis sem culpa.
+#v 11 %v Eles então se deram pressa, e derrubando cada um seu saco em terra, abriu cada qual o seu saco.
+#v 12 %v E buscou; desde o mais velho começou, e acabou no mais novo; e o copo foi achado no saco de Benjamim.
+#v 13 %v Então eles rasgaram suas roupas, e carregou cada um seu asno, e voltaram à cidade.
+#v 14 %v E chegou Judá com seus irmãos à casa de José, que ainda estava ali, e prostraram-se diante dele em terra.
+#v 15 %v E disse-lhes José: Que obra é esta que fizestes? Não sabeis que um homem como eu sabe adivinhar?
+#v 16 %v Então disse Judá: Que diremos a meu senhor? Que falaremos? Ou com que nos justificaremos? Deus achou a maldade de teus servos: eis que, nós somos servos de meu senhor, nós, e também aquele em cujo poder foi achado o copo.
+#v 17 %v E ele respondeu: Nunca eu tal faça: o homem em cujo poder foi achado o copo, ele será meu servo; vós ide em paz a vosso pai.
+#v 18 %v Então Judá se chegou a ele, e disse: Ai senhor meu, rogo-te que fale teu servo uma palavra aos ouvidos de meu senhor, e não se acenda tua ira contra teu servo, pois que tu és como Faraó.
+#v 19 %v Meu senhor perguntou a seus servos, dizendo: Tendes pai ou irmão?
+#v 20 %v E nós respondemos a meu senhor: Temos um pai ancião, e um jovem que lhe nasceu em sua velhice, pequeno ainda; e um irmão seu morreu, e ele restou sozinho de sua mãe, e seu pai o ama.
+#v 21 %v E tu disseste a teus servos: Trazei-o a mim, e porei meus olhos sobre ele.
+#v 22 %v E nós dissemos a meu senhor: O jovem não pode deixar a seu pai, porque se o deixar, seu pai morrerá.
+#v 23 %v E disseste a teus servos: Se vosso irmão mais novo não descer convosco, não vejais mais meu rosto.
+#v 24 %v Aconteceu, pois, que quando chegamos a meu pai teu servo, nós lhe contamos as palavras de meu senhor.
+#v 25 %v E disse nosso pai: Voltai a comprar-nos um pouco de alimento.
+#v 26 %v E nós respondemos: Não podemos ir: se nosso irmão for conosco, iremos; porque não podemos ver o rosto do homem, não estando conosco nosso irmão o mais novo.
+#v 27 %v Então teu servo meu pai nos disse: Vós sabeis que dois me deu minha mulher;
+#v 28 %v E um saiu de minha presença, e penso certamente que foi despedaçado, e até agora não o vi;
+#v 29 %v E se tomardes também este de diante de mim, e lhe acontecer algum desastre, fareis descer minhas cãs com dor ao mundo dos mortos.
+#v 30 %v Agora, pois, quando chegar eu a teu servo meu pai, e o jovem não for comigo, como sua alma está ligada à alma dele,
+#v 31 %v Sucederá que quando perceber a ausência do jovem, morrerá; e teus servos farão descer as cãs de teu servo nosso pai com dor ao mundo dos mortos.
+#v 32 %v Como teu servo saiu por fiador do jovem com meu pai, dizendo: Se eu não o devolver a ti, então eu serei culpável para meu pai todos os dias;
+#v 33 %v Rogo-te, portanto, que fique agora teu servo pelo jovem por servo de meu senhor, e que o jovem vá com seus irmãos.
+#v 34 %v Porque como irei eu a meu pai sem o jovem? Não poderei, por não ver o mal que sobrevirá a meu pai.
+
+#c 45 %c
+#v 1 %v Não podia já José se conter diante de todos os que estavam ao seu lado, e clamou: Fazei sair de minha presença a todos. E não ficou ninguém com ele, ao dar-se a conhecer José a seus irmãos.
+#v 2 %v Então se deu a chorar por voz em grito; e ouviram os egípcios, e ouviu também a casa de Faraó.
+#v 3 %v E disse José a seus irmãos: Eu sou José: vive ainda meu pai? E seus irmãos não puderam lhe responder, porque estavam perturbados diante dele.
+#v 4 %v Então disse José a seus irmãos: Achegai-vos agora a mim. E eles se achegaram. E ele disse: Eu sou José vosso irmão o que vendestes para o Egito.
+#v 5 %v Agora, pois, não vos entristeçais, nem vos pese de haver me vendido aqui; que para preservação de vida me enviou Deus diante de vós:
+#v 6 %v Que já houve dois anos de fome em meio da terra, e ainda restam cinco anos em que nem haverá arada nem colheita.
+#v 7 %v E Deus me enviou adiante de vós, para que vós restásseis na terra, e para vos dar vida por meio de grande salvamento.
+#v 8 %v Assim, pois, não me enviastes vós aqui, mas sim Deus, que me pôs por pai de Faraó, e por senhor de toda sua casa, e por governador de toda a terra do Egito.
+#v 9 %v Apressai-vos, ide a meu pai e dizei-lhe: Assim diz teu filho José: Deus me pôs por senhor de todo Egito; vem a mim, não te detenhas:
+#v 10 %v E habitarás na terra de Gósen, e estarás perto de mim, tu e teus filhos, e os filhos de teus filhos, teus gados e tuas vacas, e tudo o que tens.
+#v 11 %v E ali te alimentarei, pois ainda restam cinco anos de fome, para que não pereças de pobreza tu e tua casa, e tudo o que tens:
+#v 12 %v E eis que, vossos olhos veem, e os olhos de meu irmão Benjamim, que meu boca vos fala.
+#v 13 %v Fareis pois saber a meu pai toda minha glória no Egito, e tudo o que vistes: e apressai-vos, e trazei a meu pai aqui.
+#v 14 %v E lançou-se sobre o pescoço de Benjamim seu irmão, e chorou; e também Benjamim chorou sobre seu pescoço.
+#v 15 %v E beijou a todos os seus irmãos, e chorou sobre eles: e depois seus irmãos falaram com ele.
+#v 16 %v E ouviu-se a notícia na casa de Faraó, dizendo: Os irmãos de José vieram. E pareceu bem aos olhos de Faraó e de seus servos.
+#v 17 %v E disse Faraó a José: Dize a teus irmãos: Fazei isto: carregai vossos animais, e ide, voltai à terra de Canaã;
+#v 18 %v E tomai a vosso pai e vossas famílias, e vinde a mim, que eu vos darei o bom da terra do Egito e comereis a gordura da terra.
+#v 19 %v E tu manda: Fazei isto: tomai para vós da terra do Egito carros para vossos filhos e vossas mulheres; e tomai a vosso pai, e vinde.
+#v 20 %v E não se vos dê nada de vossos pertences, porque o bem da terra do Egito será vosso.
+#v 21 %v E fizeram-no assim os filhos de Israel: e deu-lhes José carros conforme a ordem de Faraó, e deu alimentos para o caminho.
+#v 22 %v A cada um de todos eles deu mudas de roupas, e a Benjamim deu trezentas peças de prata, e cinco mudas de roupas.
+#v 23 %v E a seu pai enviou isto: dez asnos carregados do melhor do Egito, e dez asnas carregadas de trigo, e pão e comida, para seu pai no caminho.
+#v 24 %v E despediu a seus irmãos, e foram-se. E ele lhes disse: Não brigais pelo caminho.
+#v 25 %v E subiram do Egito, e chegaram à terra de Canaã a Jacó seu pai.
+#v 26 %v E deram-lhe as novas, dizendo: José vive ainda; e ele é senhor toda a terra do Egito. E seu coração se desmaiou; pois não cria neles.
+#v 27 %v E eles lhe contaram todas as palavras de José, que ele lhes havia falado; e vendo ele os carros que José enviava para levá-lo, o espírito de Jacó seu pai reviveu.
+#v 28 %v Então disse Israel: Basta; José meu filho vive ainda: irei, e lhe verei antes que eu morra.
+
+#c 46 %c
+#v 1 %v E partiu-se Israel com tudo o que tinha, e veio a Berseba, e ofereceu sacrifícios ao Deus de seu pai Isaque.
+#v 2 %v E falou Deus a Israel em visões de noite, e disse: Jacó, Jacó. E ele respondeu: Eis-me aqui.
+#v 3 %v E disse: Eu sou Deus, o Deus de teu pai; não temas de descer ao Egito, porque eu te farei ali em grande nação.
+#v 4 %v Eu descerei contigo ao Egito, e eu também te farei voltar; e José porá sua mão sobre teus olhos.
+#v 5 %v E levantou-se Jacó de Berseba; e tomaram os filhos de Israel a seu pai Jacó, e a seus filhos, e a suas mulheres, nos carros que Faraó havia enviado para levá-lo.
+#v 6 %v E tomaram seus gados, e sua riqueza que havia adquirido na terra de Canaã, e vieram-se ao Egito, Jacó, e toda sua descendência consigo;
+#v 7 %v Seus filhos, e os filhos de seus filhos consigo; suas filhas, e as filhas de seus filhos, e a toda sua descendência trouxe consigo ao Egito.
+#v 8 %v E estes são os nomes dos filhos de Israel, que entraram no Egito, Jacó e seus filhos: Rúben, o primogênito de Jacó.
+#v 9 %v E os filhos de Rúben: Enoque, e Palu, e Hezrom, e Carmi.
+#v 10 %v E os filhos de Simeão: Jemuel, e Jamim, e Oade, e Jaquim, e Zoar, e Saul, filho da cananeia.
+#v 11 %v E os filhos de Levi: Gérson, Coate, e Merari.
+#v 12 %v E os filhos de Judá: Er, e Onã, e Selá, e Perez, e Zerá: mas Er e Onã, morreram na terra de Canaã. E os filhos de Perez foram Hezrom e Hamul.
+#v 13 %v E os filhos de Issacar: Tola, e Puva, e Jó, e Sinrom.
+#v 14 %v E os filhos de Zebulom: Serede e Elom, e Jaleel.
+#v 15 %v Estes foram os filhos de Lia, os que deu a Jacó em Padã-Arã, e além de sua filha Diná: trinta e três as almas todas de seus filhos e filhas.
+#v 16 %v E os filhos de Gade: Zifiom, e Hagi, e Suni, e Ezbom, e Eri, e Arodi, e Areli.
+#v 17 %v E os filhos de Aser: Imna, e Isva, e Isvi y Berias, e Sera, irmã deles. Os filhos de Berias: Héber, e Malquiel.
+#v 18 %v Estes foram os filhos de Zilpa, a que Labão deu a sua filha Lia, e deu estes a Jacó; todas dezesseis almas.
+#v 19 %v E os filhos de Raquel, mulher de Jacó: José e Benjamim.
+#v 20 %v E nasceram a José na terra do Egito Manassés e Efraim, os que lhe deu Azenate, filha Potífera, sacerdote de Om.
+#v 21 %v E os filhos de Benjamim foram Belá, e Bequer e Asbel, e Gera, e Naamã, e Eí, e Rôs e Mupim, e Hupim, e Arde.
+#v 22 %v Estes foram os filhos de Raquel, que nasceram a Jacó: ao todo, catorze almas.
+#v 23 %v E os filhos de Dã: Husim.
+#v 24 %v E os filhos de Naftali: Jazeel, e Guni, e Jezer, e Silém.
+#v 25 %v Estes foram os filhos de Bila, a que deu Labão a Raquel sua filha, e ela deu à luz estes a Jacó; todas sete almas.
+#v 26 %v Todas as pessoas que vieram com Jacó ao Egito, procedentes de seus lombos, sem as mulheres dos filhos de Jacó, todas as pessoas foram sessenta e seis.
+#v 27 %v E os filhos de José, que lhe nasceram no Egito, duas pessoas. Todas as almas da casa de Jacó, que entraram no Egito, foram setenta.
+#v 28 %v E enviou a Judá adiante de si a José, para que lhe viesse a ver a Gósen; e chegaram à terra de Gósen.
+#v 29 %v E José preparou seu carro e veio a receber a Israel seu pai a Gósen; e se manifestou a ele, e lançou-se sobre seu pescoço, e chorou sobre seu pescoço bastante.
+#v 30 %v Então Israel disse a José: Morra eu agora, já que vi teu rosto, pois ainda vives.
+#v 31 %v E José disse a seus irmãos, e à casa de seu pai: Subirei e farei saber a Faraó, e lhe direi: Meus irmãos e a casa de meu pai, que estavam na terra de Canaã, vieram a mim;
+#v 32 %v E os homens são pastores de ovelhas, porque são homens criadores de gado: e trouxeram suas ovelhas e suas vacas, e tudo o que tinham.
+#v 33 %v E quando Faraó vos chamar e disser: qual é vosso ofício?
+#v 34 %v Então direis: Homens de criação de gado foram teus servos desde nossa juventude até agora, nós e nossos pais; a fim que moreis na terra de Gósen, porque os egípcios abominam todo pastor de ovelhas.
+
+#c 47 %c
+#v 1 %v E José veio, e fez saber a Faraó, e disse: Meu pai e meus irmãos, e suas ovelhas e suas vacas, com tudo o que têm, vieram da terra de Canaã, e eis que, estão na terra de Gósen.
+#v 2 %v E dentre seus irmãos tomou cinco homens, e os apresentou diante de Faraó.
+#v 3 %v E Faraó disse a seus irmãos: Qual é vosso ofício? E eles responderam a Faraó: Pastores de ovelhas são teus servos, tanto nós como nossos pais.
+#v 4 %v Disseram ademais a Faraó: Por morar nesta terra viemos; porque não há pasto para as ovelhas de teus servos, pois a fome é grave na terra de Canaã: portanto, te rogamos agora que habitem teus servos na terra de Gósen.
+#v 5 %v Então Faraó falou a José, dizendo: Teu pai e teus irmãos vieram a ti;
+#v 6 %v A terra do Egito diante de ti está; no melhor da terra faze habitar a teu pai e a teus irmãos; habitem na terra de Gósen; e se entendes que há entre eles homens competentes, põe-os por administradores do meu gado.
+#v 7 %v E José introduziu a seu pai, e apresentou-o diante de Faraó; e Jacó abençoou a Faraó.
+#v 8 %v E disse Faraó a Jacó: Quantos são os dias dos anos de tua vida?
+#v 9 %v E Jacó respondeu a Faraó: Os dias dos anos de minha peregrinação são cento e trinta anos; poucos e maus foram os dias dos anos de minha vida, e não chegaram aos dias dos anos da vida de meus pais nos dias de sua peregrinação.
+#v 10 %v E Jacó abençoou a Faraó, e saiu-se de diante de Faraó.
+#v 11 %v Assim José fez habitar a seu pai e a seus irmãos, e deu-lhes possessão na terra do Egito, no melhor da terra, na terra de Ramessés como mandou Faraó.
+#v 12 %v E alimentava José a seu pai e a seus irmãos, e a toda a casa de seu pai, de pão, segundo o número de seus filhos.
+#v 13 %v E não havia pão toda a terra, e a fome era muito grave; pelo que desfaleceu de fome a terra do Egito e a terra de Canaã.
+#v 14 %v E recolheu José todo o dinheiro que se achou na terra do Egito e na terra de Canaã, pelos alimentos que dele compravam; e meteu José o dinheiro na casa de Faraó.
+#v 15 %v E acabado o dinheiro da terra do Egito e da terra de Canaã, veio todo Egito a José dizendo: Dá-nos pão: por que morreremos diante de ti, por haver-se acabado o dinheiro?
+#v 16 %v E José disse: Dai vossos gados, e eu vos darei por vossos gados, se se acabou o dinheiro.
+#v 17 %v E eles trouxeram seus gados a José; e José lhes deu alimentos por cavalos, e pelo rebanho das ovelhas, e pelo rebanho das vacas, e por asnos: e sustentou-os de pão por todos os seus gados aquele ano.
+#v 18 %v E acabado aquele ano, vieram a ele o segundo ano, e lhe disseram: Não encobriremos a nosso senhor que o dinheiro certamente se acabou; também o gado é já de nosso senhor; nada restou diante de nosso senhor a não ser nossos corpos e nossa terra.
+#v 19 %v Por que morreremos diante de teus olhos, tanto nós como nossa terra? Compra a nós e a nossa terra por pão, e seremos nós e nossa terra servos de Faraó; e dá-nos semente para que vivamos e não morramos, e não seja assolada a terra.
+#v 20 %v Então comprou José toda a terra do Egito para Faraó; pois os egípcios venderam cada um suas terras, porque se agravou a fome sobre eles: e a terra veio a ser de Faraó.
+#v 21 %v E ao povo o fez passar às cidades desde um fim do termo do Egito até o outro fim.
+#v 22 %v Somente a terra dos sacerdotes não comprou, porquanto os sacerdotes tinham ração de Faraó, e eles comiam sua ração que Faraó lhes dava: por isso não venderam sua terra.
+#v 23 %v E José disse ao povo: Eis que comprei hoje vós e vossa terra para Faraó: vede aqui semente, e semeareis a terra.
+#v 24 %v E será que dos frutos dareis o quinto a Faraó, e as quatro partes serão vossas para semear as terras, e para vosso mantimento, e dos que estão em vossas casas, e para que comam vossos meninos.
+#v 25 %v E eles responderam: A vida nos deste: achemos favor aos olhos de meu senhor, e sejamos servos de Faraó.
+#v 26 %v Então José o pôs por estatuto até hoje sobre a terra do Egito, assinalando para Faraó o quinto; exceto somente a terra dos sacerdotes, que não foi de Faraó.
+#v 27 %v Assim habitou Israel na terra do Egito, na terra de Gósen; e apossaram-se nela, y se aumentaram, e multiplicaram em grande maneira.
+#v 28 %v E viveu Jacó na terra do Egito dezessete anos: e foram os dias de Jacó, os anos de sua vida, cento quarenta e sete anos.
+#v 29 %v E achegaram-se os dias de Israel para morrer, e chamou a José seu filho, e lhe disse: Se achei agora favor em teus olhos, rogo-te que ponhas tua mão debaixo de minha coxa, e farás comigo misericórdia e verdade; rogo-te que não me enterres no Egito;
+#v 30 %v Mas quando dormir com meus pais, me levarás de Egito, e me sepultarás no sepulcro deles. E ele respondeu: Eu farei como tu dizes.
+#v 31 %v E ele disse: Jura-me isso. E ele lhe jurou. Então Israel se inclinou sobre a cabeceira da cama.
+
+#c 48 %c
+#v 1 %v E sucedeu depois destas coisas que foi dito a José: Eis que teu pai está enfermo. E ele tomou consigo seus dois filhos Manassés e Efraim.
+#v 2 %v E se fez saber a Jacó, dizendo: Eis que teu filho José vem a ti. Então se esforçou Israel, e sentou-se sobre a cama;
+#v 3 %v E disse a José: O Deus Todo-Poderoso me apareceu em Luz na terra de Canaã, e me abençoou,
+#v 4 %v E disse-me: Eis que, eu te farei crescer, e te multiplicarei, e te porei por conjunto de povos: e darei esta terra à tua descendência depois de ti por herança perpétua.
+#v 5 %v E agora teus dois filhos Efraim e Manassés, que te nasceram na terra do Egito, antes que viesse a ti à terra do Egito, meus são; como Rúben e Simeão, serão meus:
+#v 6 %v E os que depois deles geraste, serão teus; pelo nome de seus irmãos serão chamados em suas propriedades.
+#v 7 %v Porque quando eu vinha de Padã-Arã, se me morreu Raquel na terra de Canaã, no caminho, como certa distância vindo a Efrata; e sepultei-a ali no caminho de Efrata, que é Belém.
+#v 8 %v E viu Israel os filhos de José, e disse: Quem são estes?
+#v 9 %v E respondeu José a seu pai: São meus filhos, que Deus me deu aqui. E ele disse: Achegai-os agora a mim, e os abençoarei.
+#v 10 %v E os olhos de Israel estavam tão agravados da velhice, que não podia ver. Fez-lhes, pois, chegar a ele, e ele os beijou e abraçou.
+#v 11 %v E disse Israel a José: Não pensava eu ver teu rosto, e eis que Deus me fez ver também tua descendência.
+#v 12 %v Então José os tirou dentre seus joelhos, e inclinou-se à terra.
+#v 13 %v E tomou-os José a ambos, Efraim à sua direita, à esquerda de Israel; e a Manassés à sua esquerda, à direita de Israel; e fez-lhes chegar a ele.
+#v 14 %v Então Israel estendeu sua mão direita, e a pôs sobre a cabeça de Efraim, que era o mais novo, e sua esquerda sobre a cabeça de Manassés, colocando assim suas mãos propositadamente, ainda que Manassés era o primogênito.
+#v 15 %v E abençoou a José, e disse: O Deus em cuja presença andaram meus pais Abraão e Isaque, o Deus que me mantém desde que eu sou até hoje,
+#v 16 %v O Anjo que me liberta de todo mal abençoe a estes moços: e meu nome seja chamado neles, e o nome de meus pais Abraão e Isaque: e multipliquem em grande maneira em meio da terra.
+#v 17 %v Então vendo José que seu pai punha a direita sobre a cabeça de Efraim, causou-lhe isto desgosto; e pegou a mão de seu pai, para mudá-la de sobre a cabeça de Efraim à cabeça de Manassés.
+#v 18 %v E disse José a seu pai: Não assim, meu pai, porque este é o primogênito; põe tua mão direita sobre sua cabeça.
+#v 19 %v Mas seu pai não quis, e disse: Eu sei, meu filho, eu sei: também ele virá a ser um povo, e será também acrescentado; porém seu irmão mais novo será maior que ele, e sua descendência será plenitude de povos.
+#v 20 %v E abençoou-os aquele dia, dizendo: Em ti abençoará Israel, dizendo: Ponha-te Deus como a Efraim e como a Manassés. E pôs a Efraim diante de Manassés.
+#v 21 %v E disse Israel a José: Eis que, eu morro, mas Deus será convosco, e vos fará voltar à terra de vossos pais.
+#v 22 %v E eu dei a ti uma parte sobre teus irmãos, a qual tomei eu da mão dos amorreus com minha espada e com meu arco.
+
+#c 49 %c
+#v 1 %v E chamou Jacó a seus filhos, e disse: Juntai-vos, e vos declararei o que vos há de acontecer nos últimos dias.
+#v 2 %v Juntai-vos e ouvi, filhos de Jacó; E escutai a vosso pai Israel.
+#v 3 %v Rúben, tu és meu primogênito, minha força, e o princípio do meu vigor; Principal em dignidade, principal em poder.
+#v 4 %v Corrente como as águas, não sejas o principal; Porquanto subiste ao leito de teu pai: Então te contaminaste, subindo a meu estrado.
+#v 5 %v Simeão e Levi, irmãos: Armas de violência são suas armas.
+#v 6 %v Em seu secreto não entre minha alma, nem minha honra se junte em sua companhia; Que em seu furor mataram homem, E em sua vontade aleijaram bois.
+#v 7 %v Maldito seu furor, que foi bravio; E sua ira, que foi dura: Eu os dividirei em Jacó, E os espalharei em Israel.
+#v 8 %v Judá, teus irmãos te louvarão: Tua mão esterá sobre o pescoço de teus inimigos: Os filhos de teu pai se inclinarão a ti.
+#v 9 %v Jovem leão é Judá: Da presa subiste, filho meu: Encurvou-se, lançou-se como leão, Assim como leão velho; quem o despertará?
+#v 10 %v Não será tirado o cetro de Judá, E o legislador dentre seus pés, Até que venha Siló; E a ele se congregarão os povos.
+#v 11 %v Atando à vide seu jumentinho, E à videira o filho de sua jumenta, Lavou no veio sua roupa, E no sangue de uvas seu manto:
+#v 12 %v Seus olhos mais vermelhos que o vinho, E os dentes mais brancos que o leite.
+#v 13 %v Zebulom em portos de mar habitará, E será para porto de navios; E seu termo até Sídon.
+#v 14 %v Issacar, asno de forte estrutura Deitado entre dois apriscos:
+#v 15 %v E viu que o descanso era bom, E que a terra era deleitosa; E baixou seu ombro para levar, E serviu em tributo.
+#v 16 %v Dã julgará a seu povo, Como uma das tribos de Israel.
+#v 17 %v Será Dã serpente junto ao caminho, Víbora junto à vereda, Que morde os calcanhares dos cavalos, E faz cair por detrás ao cavaleiro deles.
+#v 18 %v Tua salvação espero, ó SENHOR.
+#v 19 %v Gade, exército o atacará; Mas ele atacará ao fim.
+#v 20 %v O pão de Aser será espesso, E ele dará deleites ao rei.
+#v 21 %v Naftali, serva solta, Que diz belas coisas.
+#v 22 %v Ramo frutífero é José, Ramo frutífero é junto à fonte, cujos ramos se estendem sobre o muro.
+#v 23 %v E causaram-lhe amargura, E flecharam-lhe, E odiaram-no os arqueiros:
+#v 24 %v Mas seu arco manteve-se forte, E os braços de suas mãos se fortaleceram pelas mãos do Forte de Jacó, (Dali é o Pastor, e a Pedra de Israel,)
+#v 25 %v Do Deus de teu pai, o qual te ajudará, E do Todo-Poderoso, o qual te abençoará Com bênçãos dos céus de acima, Com bênçãos do abismo que está abaixo, Com bênçãos do seio e da madre.
+#v 26 %v As bênçãos de teu pai Foram maiores que as bênçãos de meus progenitores: Até o termo das colinas eternas serão sobre a cabeça de José, E sobre o topo da cabeça do que foi separado de seus irmãos.
+#v 27 %v Benjamim, lobo arrebatador: À manhã comerá a presa, E à tarde repartirá os despojos.
+#v 28 %v Todos estes foram as doze tribos de Israel: e isto foi o que seu pai lhes disse, e os abençoou; a cada um por sua bênção os abençoou.
+#v 29 %v Mandou-lhes logo, e disse-lhes: Eu vou a ser reunido com meu povo: sepultai-me com meus pais na caverna que está no campo de Efrom os heteus;
+#v 30 %v Na caverna que está no campo de Macpela, que está diante de Manre na terra de Canaã, a qual comprou Abraão com o mesmo campo de Efrom os heteus, para herança de sepultura.
+#v 31 %v Ali sepultaram a Abraão e a Sara sua mulher; ali sepultaram a Isaque e a Rebeca sua mulher; ali também sepultei Lia.
+#v 32 %v O campo e a cova que nele está foram comprados dos filhos de Hete.
+#v 33 %v E quando acabou Jacó de dar ordens a seus filhos, encolheu seus pés na cama, e expirou: e foi reunido com seus pais.
+
+#c 50 %c
+#v 1 %v Então se lançou José sobre o rosto de seu pai, e chorou sobre ele, e o beijou.
+#v 2 %v E mandou José a seus servos médicos que embalsamassem a seu pai; e os médicos embalsamaram a Israel.
+#v 3 %v E cumpriam-lhe quarenta dias, porque assim cumpriam os dias dos embalsamados, e choraram-no os egípcios setenta dias.
+#v 4 %v E passados os dias de seu luto, falou José aos da casa de Faraó, dizendo: Se achei agora favor em vossos olhos, vos rogo que faleis aos ouvidos de Faraó, dizendo:
+#v 5 %v Meu pai me fez jurar dizendo: Eis que eu morro; em meu sepulcro que eu cavei para mim na terra de Canaã, ali me sepultarás; rogo, pois, que vá eu agora, e sepultarei a meu pai, e voltarei.
+#v 6 %v E Faraó disse: Vai, e sepulta a teu pai, como ele te fez jurar.
+#v 7 %v Então José subiu a sepultar a seu pai; e subiram com ele todos os servos de Faraó, os anciãos de sua casa, e todos os anciãos da terra do Egito.
+#v 8 %v E toda a casa de José, e seus irmãos, e a casa de seu pai: somente deixaram na terra de Gósen seus filhos, e suas ovelhas e suas vacas.
+#v 9 %v E subiram também com ele carros e cavaleiros, e fez-se um esquadrão muito grande.
+#v 10 %v E chegaram até a eira de Atade, que está à outra parte do Jordão, e lamentaram ali com grande e muito grave lamentação: e José fez a seu pai luto por sete dias.
+#v 11 %v E vendo os moradores da terra, os cananeus, o pranto na eira de Atade, disseram: Pranto grande é este dos egípcios: por isso foi chamado seu nome Abel-Mizraim, que está à outra parte do Jordão.
+#v 12 %v Fizeram, pois, seus filhos com ele, segundo lhes havia mandado:
+#v 13 %v Pois seus filhos o levaram à terra de Canaã, e o sepultaram na caverna do campo de Macpela, a que havia comprado Abraão com o mesmo campo, para herança de sepultura, de Efrom o heteu, diante de Manre.
+#v 14 %v E voltou José ao Egito, ele e seus irmãos, e todos os que subiram com ele a sepultar a seu pai, depois que o sepultou.
+#v 15 %v E vendo os irmãos de José que seu pai era morto, disseram: Talvez José nos odeie, e nos retribua de todo o mal que lhe fizemos.
+#v 16 %v E enviaram a dizer a José: Teu pai mandou antes de sua morte, dizendo:
+#v 17 %v Assim direis a José: Rogo-te que perdoes agora a maldade de teus irmãos e seu pecado, porque mal te trataram: portanto agora te rogamos que perdoes a maldade dos servos do Deus de teu pai. E José chorou enquanto falavam.
+#v 18 %v E vieram também seus irmãos, e prostraram-se diante dele, e disseram: Eis-nos aqui por teus servos.
+#v 19 %v E respondeu-lhes José: Não temais: estou eu em lugar de Deus?
+#v 20 %v Vós pensastes mal sobre mim, mas Deus o encaminhou para o bem, para fazer o que vemos hoje, para manter em vida a muito povo.
+#v 21 %v Agora, pois, não tenhais medo; eu sustentarei a vós e a vossos filhos. Assim os consolou, e lhes falou ao coração.
+#v 22 %v E esteve José no Egito, ele e a casa de seu pai: e viveu José cento dez anos.
+#v 23 %v E viu José os filhos de Efraim até a terceira geração: também os filhos de Maquir, filho de Manassés, foram criados sobre os joelhos de José.
+#v 24 %v E José disse a seus irmãos: Eu me morro; mas Deus certamente vos visitará, e vos fará subir desta terra à terra que jurou a Abraão, a Isaque, e a Jacó.
+#v 25 %v E fez jurar José aos filhos de Israel, dizendo: Deus certamente vos visitará, e fareis levar daqui meus ossos.
+#v 26 %v E morreu José da idade de cento e dez anos; e embalsamaram-no, e foi posto em um caixão no Egito.

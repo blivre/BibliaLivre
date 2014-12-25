@@ -1,0 +1,34 @@
+﻿#header
+#name Carta Universal de Judas %name
+#ver 20131018 %ver
+#abbr Jd %abbr
+%header
+
+#c 1 %c
+#v 1 %v Judas, servo de Jesus Cristo, e irmão de Tiago, para aqueles #ad que foram %ad chamados, {tr,rp:santificados}{n4:amados}{trnc: #fn _c N4: amados %fn }{n4: #fn _c TR, RP: santificados %fn } por Deus Pai, e guardados por Jesus Cristo.
+#v 2 %v Misericórdia a vós, e a paz e o amor #ad vos %ad sejam multiplicados.
+#v 3 %v Amados, procurando eu vos escrever com todo empenho sobre a #ad nossa %ad salvação comum, eu tive por necessário vos escrever e exortar a batalhar pela fé que de uma vez foi entregue aos santos.
+#v 4 %v Porque alguns entraram disfarçadamente entre vós, que desde antes estavam escritos para a condenação; homens perversos, que distorcem a graça de Deus em perversão, e negam ao único Soberano Deus e nosso Senhor Jesus Cristo.
+#v 5 %v Mas eu quer vos lembrar, sabendo vós {tr,rp:disto}{n4:tudo}{trnc: #fn _c N4: tudo %fn } de uma vez por todas: que o Senhor, tendo liberto o povo para fora da terra do Egito, depois destruiu os que não creram.
+#v 6 %v E aos anjos que não guardaram sua origem, mas deixaram sua própria habitação, ele os reservou debaixo de grande escuridão em prisões eternas até o julgamento do grande dia.
+#v 7 %v Assim como Sodoma e Gomorra, e as cidades circunvizinhas, que como aquelas, tendo cometido pecados sexuais, e seguido uma carne ilícita, foram postas como exemplo, recebendo a punição do fogo eterno.
+#v 8 %v Porém estes, também semelhantemente adormecidos, contaminam a carne, e rejeitam a soberania, e insultam as #ad coisas dignas de %ad glórias.
+#v 9 %v Mas Miguel, o arcanjo, quando ele discutia com o diabo, e disputava por causa do corpo de Moisés, não ousou contra #ad ele %ad pronunciar juízo de maldição, porém disse:
+ O Senhor te repreenda.
+#v 10 %v Mas estes insultam tudo aquilo que não conhecem; e tudo o que eles entendem naturalmente, como animais irracionais, nisso eles se corrompem.
+#v 11 %v Ai deles; porque eles entraram pelo caminho de Caim, e se dispuseram ao engano de Balaão por interesse por #ad interesse de %ad lucro, e pereceram pela rebelião de Coré.
+#v 12 %v Estes são manchas em vossas demonstrações de amor, participando dos banquetes convosco, apascentando a si mesmos sem temor; eles são nuvens sem água, levadas pelos ventos sem direção; são como árvores murchas, infrutíferas, duas vezes mortas e arrancadas pela raiz;
+#v 13 %v Ondas furiosas do mar, que espumam suas próprias vergonhas; estrelas errantes, para as quais a escuridão das trevas está reservada eternamente.
+#v 14 %v E Enoque, o sétimo depois de Adão, também profetizou sobre estes, dizendo:
+ Eis que o Senhor veio, com dezenas de milhares de seus santos;
+#v 15 %v Para fazer julgamento contra todos, e reprovar a todos os perversos entre eles, por todas as suas obras de perversão, que perversamente cometeram, e por todas as duras #ad palavras %ad que os perversos pecadores falaram contra ele.
+#v 16 %v Estes são murmuradores, reclamadores, que andam segundo seus próprios maus desejos; e sua #ad s %ad boca #ad s %ad fala #ad m %ad palavras de arrogância, mostrando admiração às pessoas para #ad tirarem %ad proveito.
+#v 17 %v Mas vós, amados, lembrai-vos das palavras que foram preditas pelos apóstolos de nosso Senhor Jesus Cristo;
+#v 18 %v Como eles vos diziam: que no último tempo haveria escarnecedores, que andariam segundo seus próprios perversos desejos.
+#v 19 %v Estes são os que separam a si mesmos, mundanos, que não têm o Espírito.
+#v 20 %v Mas vós, amados, edificai a vós mesmos em vossa santíssima fé, orando no Espírito Santo.
+#v 21 %v Conservai a vós mesmos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna.
+#v 22 %v E tende misericórdia de alguns{tr,rp:, usando de discernimento;}{n4: que estão em dúvida; salvai #ad -os %ad , arrancando #ad -os %ad do fogo}{trnc: #fn _c TR, RP: usando de discernimento – N4: que estão em dúvida; salvai #ad -os %ad , arrancando #ad -os %ad do fogo %fn }
+#v 23 %v Mas a outros {tr,rp:salvai em temor, arrancando #ad -os %ad do fogo,}{n4:tende misericórdia em temor,}{trnc: #fn _c TR, RP: salvai em temor, arrancando #ad -os %ad do fogo – N4: tende misericórdia em temor %fn } odiando até a roupa contaminada pela carne.
+#v 24 %v E para aquele que é poderoso para vos guardar de tropeçar, e vos apresentar irrepreensíveis com alegria diante de sua glória;
+#v 25 %v Ao único{tr,rp: sábio}{trnc: #fn _c N4 omite “sábio” %fn } Deus,{n4: #fn _c TR, RP: “sábio Deus” %fn } nosso Salvador,{n4: por meio de Jesus Cristo nosso Senhor,}{trnc: #fn _c N4 acrescenta “por meio de Jesus Cristo nosso Senhor” %fn }{n4: #fn _c TR, RP omitem “por meio de Jesus Cristo nosso Senhor” %fn } #ad seja %ad a glória e majestade, poder e autoridade, agora, e para todo o sempre, Amém!

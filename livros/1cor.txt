@@ -1,0 +1,496 @@
+﻿#header
+#name Primeira Carta de Paulo aos Coríntios %name
+#ver 20131005 %ver
+#abbr 1Co %abbr
+%header
+
+#c 1 %c
+#v 1 %v Paulo, chamado apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,
+#v 2 %v À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, #ad Senhor %ad deles, e nosso;
+#v 3 %v Graça #ad seja %ad convosco, e #ad também %ad a paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+#v 4 %v Sempre dou graças a meu Deus por causa de vós, pela graça de Deus, que é dada a vós em Cristo Jesus.
+#v 5 %v Que em todas as coisas vós estais enriquecidos nele, em toda palavra, e em todo conhecimento;
+#v 6 %v Assim como o testemunho de Jesus Cristo foi confirmado entre vós.
+#v 7 %v De maneira que nenhum dom vos falta, esperando a manifestação de nosso Senhor Jesus Cristo,
+#v 8 %v A quem também vos confirmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
+#v 9 %v Deus é fiel, por quem fostes chamados para a comunhão de seu Filho Jesus Cristo nosso Senhor.
+#v 10 %v Mas eu vos rogo, irmãos, pelo nome de nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com a mesmo entendimento, e com a mesma opinião.
+#v 11 %v Porque, irmãos meus, me foi informado de vós, pelos #ad da casa %ad de Cloé, que há brigas entre vós.
+#v 12 %v E digo isto, que cada um de vós diz: “Eu sou de Paulo” e “Eu #ad sou %ad de Apolo” e “Eu #ad sou %ad de Cefas” e “Eu #ad sou %ad de Cristo”.
+#v 13 %v Cristo está dividido? Paulo foi crucificado por vós? Ou vós fostes batizados no nome de Paulo?
+#v 14 %v Eu dou graças a Deus, que batizei a nenhum de vós, a não ser Crispo e Gaio;
+#v 15 %v Para que ninguém diga que eu tenha batizado em meu nome.
+#v 16 %v Eu também batizei aos da casa de Estefanas; além desses, não sei se batizei a algum outro.
+#v 17 %v Porque Cristo não me enviou para batizar, mas para Evangelizar; não com sabedoria de palavras, para que a cruz de Cristo não se torne inútil.
+#v 18 %v Porque a palavra da cruz é loucura para os que perecem; mas para os que se salvam é poder de Deus.
+#v 19 %v Porque está escrito:
+ Destruirei a sabedoria dos sábios, e aniquilarei a inteligência dos inteligentes.
+#v 20 %v Onde está o sábio? Onde está o escriba? Onde está o questionador destes tempos? Por acaso Deus não fez de loucura a sabedoria deste mundo?
+#v 21 %v Porque já que, na sabedoria de Deus, o mundo não conheceu a Deus pela sabedoria, Deus se agradou de salvar aos crentes pela loucura da pregação.
+#v 22 %v Porque os judeus pedem sinal, e os gregos buscam sabedoria.
+#v 23 %v Mas nós pregamos a Cristo crucificado, #ad que é %ad escândalo para os Judeus, e loucura para os gregos.
+#v 24 %v Porém aos que são chamados, tanto judeus como gregos, Cristo #ad é %ad poder de Deus e sabedoria de Deus.
+#v 25 %v Porque a loucura de Deus é mais sábia que os seres humanos; e a fraqueza de Deus é mais forte que os seres humanos.
+#v 26 %v Vede, pois, o vosso chamado, irmãos; pois dentre vós não #ad há %ad muitos sábios segundo a carne, nem muitos poderosos, nem muitos da elite.
+#v 27 %v Mas Deus escolheu as coisas loucas deste mundo, para confundir às sábias; e Deus escolheu as fracas deste mundo, para confundir às fortes.
+#v 28 %v E Deus escolheu as coisas desprezíveis deste mundo, e as sem valor, e as que não são, para aniquilar as que são.
+#v 29 %v Para que nenhuma carne orgulhe de si diante dele.
+#v 30 %v Mas vós sois dele em Jesus Cristo, o qual de Deus nos foi feito sabedoria, e justiça, e santificação, e resgate.
+#v 31 %v Para que, como está escrito:
+ Aquele que se gloria, que se glorie por causa do Senhor.
+
+#c 2 %c
+#v 1 %v E eu, irmãos, quando vim a vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
+#v 2 %v Porque eu não quis saber coisa alguma entre vós, a não ser a Jesus Cristo, e sua crucificação.
+#v 3 %v E eu estive convosco em fraqueza, e em temor, e em grande tremor.
+#v 4 %v E minha palavra e minha pregação não foi em {tr,n4:palavras persuasivas}{rp:persuasão} de sabedoria{tr: humana}, mas em demonstração do Espírito e de poder.
+#v 5 %v Para que vossa fé não fosse em sabedoria humana, mas sim em poder de Deus.
+#v 6 %v Contudo falamos sabedoria entre os maduros, porém uma sabedoria não deste mundo, nem dos líderes deste mundo, que perecem.
+#v 7 %v Mas falamos a sabedoria de Deus, escondida em mistério, a qual Deus ordenou antes dos tempos para nossa glória.
+#v 8 %v A qual nenhum dos líderes deste mundo conheceu. Porque se a tivessem conhecido, nunca crucificariam ao Senhor da glória.
+#v 9 %v Porém, assim como está escrito:
+ As coisas que o olho não viu, e que no coração humano não subiram, #ad são %ad as que Deus preparou para os que o amam.
+#v 10 %v Mas Deus as revelou para nós pelo seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
+#v 11 %v Pois quem dentre os seres humanos sabe as coisas que são do ser humano, senão o espírito do ser humano que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
+#v 12 %v Porém nós não recebemos o espírito do mundo, mas o Espírito que é de Deus; para que saibamos as coisas que nos são dadas por Deus.
+#v 13 %v As quais também falamos, não com palavras que a sabedoria ensina, mas com as que o Espírito Santo ensina, interpretando #ad coisas %ad espirituais por #ad meios %ad espirituais.
+#v 14 %v Mas o ser humano natural não compreende as coisas que são do Espírito de Deus, porque lhe são loucura; e não as pode entender, porque se discernem espiritualmente.
+#v 15 %v Porém aquele #ad que é %ad espiritual discerne todas as coisas, mas ele é discernido por ninguém.
+#v 16 %v Porque quem conheceu a mente do Senhor, para que o possa instruir? Mas nós temos a mente de Cristo.
+
+#c 3 %c
+#v 1 %v E eu, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.
+#v 2 %v Com leite eu vos criei, e não com alimento sólido, porque não podíeis; nem mesmo agora ainda podeis;
+#v 3 %v Porque ainda sois carnais. Porque havendo entre vós inveja, e brigas, e divisões, por acaso não sois carnais, e #ad ainda %ad andais fazendo conforme o costume humano?
+#v 4 %v Porque dizendo um: “Eu sou de Paulo”, e outro: “Eu #ad sou %ad de Apolo”, por acaso não sois carnais?
+#v 5 %v Ora, quem é Paulo, e quem é Apolo, senão ministros, pelos quais crestes, conforme o Senhor deu a cada um?
+#v 6 %v Eu plantei; Apolo regou; mas Deus deu o crescimento.
+#v 7 %v De maneira que nem o que planta é algo, nem o que rega; mas sim Deus, que dá o crescimento.
+#v 8 %v E o que planta, e o que rega, são um; mas cada um receberá sua recompensa segundo seu trabalho.
+#v 9 %v Porque somos cooperadores de Deus; vós sois a plantação de Deus, #ad e %ad o edifício de Deus.
+#v 10 %v Segundo a graça de Deus que me foi dada, eu pus como sábio construtor o fundamento; e outro edifica sobre ele; mas olhe cada um como constrói sobre ele.
+#v 11 %v Porque ninguém pode pôr fundamento diferente do que já está posto, o qual é Jesus Cristo.
+#v 12 %v E se alguém sobre este fundamento edificar ouro, prata, pedras preciosas, madeira, feno, palha,
+#v 13 %v A obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de cada um, o fogo fará a prova.
+#v 14 %v Se a obra de alguém que construiu sobre ele permanecer, receberá recompensa.
+#v 15 %v Se a obra de alguém se queimar, o #ad construtor %ad sofrerá perda; porém o tal se salvará, contudo, como que #ad passado %ad pelo fogo.
+#v 16 %v Não sabeis vós, que sois o templo de Deus? E #ad que %ad o Espírito de Deus habita em vós?
+#v 17 %v Se alguém destruir o templo de Deus, Deus ao tal destruirá; porque o templo de Deus é santo, o qual sois vós.
+#v 18 %v Ninguém se engane; se alguém entre vós nestes tempos pensa ser sábio, que se faça de louco, para que seja sábio.
+#v 19 %v Pois a sabedoria deste mundo é loucura para Deus; porque está escrito:
+ Ele toma aos sábios pela sua própria astúcia.
+#v 20 %v E outra vez:
+ O Senhor conhece os pensamentos dos sábios, que são vãos.
+#v 21 %v Portanto ninguém se glorie em seres humanos; porque tudo é vosso,
+#v 22 %v Seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro; tudo é vosso.
+#v 23 %v Mas vós #ad sois %ad de Cristo, e Cristo #ad é %ad de Deus.
+
+#c 4 %c
+#v 1 %v Que as pessoas nos reconheçam como trabalhadores de Cristo, e guardiões dos mistérios de Deus.
+#v 2 %v E além disso, se exige dos guardiões que cada um seja fiel.
+#v 3 %v Mas a mim, pouco me importa de ser julgado por vós, ou por qualquer juízo humano; nem eu julgo a mim mesmo.
+#v 4 %v Porque em nada me sinto culpável; mas nem por isso estou justificado; porém o que me julga é o Senhor.
+#v 5 %v Então nada julgueis antes do tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas nas trevas, e manifestará os conselhos dos corações; e então cada um receberá aprovação de Deus.
+#v 6 %v E isto, irmãos, fiz a comparação relativa a mim e a Apolo por causa de vós; para que em nós aprendais a não fazer suposições além do que está escrito; para que não fiqueis arrogantes por preferir um contra o outro.
+#v 7 %v Porque quem te discerne? E o que tens tu, que não tenhas recebido? E se o recebeste, por que te orgulhas, como se não o tivesse recebido?
+#v 8 %v Vós já estais fartos, já estais ricos, e reinastes sem nós; e bom seria se vós reinásseis, para que também nós reinássemos convosco.
+#v 9 %v Pois acho que Deus mostrou a nós, os apóstolos, por último, como postos à morte; pois somos como espetáculo ao mundo, tanto aos anjos como aos seres humanos.
+#v 10 %v Nós #ad somos %ad loucos por causa de Cristo, mas vós sábios em Cristo; nós fracos, mas vós fortes; vós ilustres, mas nós desonrados.
+#v 11 %v Até esta presente hora sofremos fome e sede, e estamos nus, e somos golpeados, e não temos morada certa.
+#v 12 %v E ficamos exaustos, trabalhando com nossas próprias mãos; somos insultados, e bendizemos; somos perseguidos, e nós toleramos.
+#v 13 %v Somos blasfemados, e pedimos conciliação; somos feitos como a escória do mundo, e como o lixo de todos, até agora.
+#v 14 %v Não escrevo estas coisas para vos envergonhar; mas #ad vos %ad advertir como a meus amados filhos.
+#v 15 %v Porque ainda que tivésseis dez mil tutores em Cristo, contudo não #ad tendes %ad muitos pais. Porque eu tornei vosso pai em Cristo Jesus por meio do Evangelho.
+#v 16 %v Portanto eu vos chamo para que sejais meus imitadores.
+#v 17 %v Por isto eu vos enviei a Timóteo, que é meu amado e fiel filho no Senhor; o qual vos lembrará meus caminhos em Cristo, como por todas os lugares ensino em cada igreja.
+#v 18 %v Mas alguns andam arrogantes, como seu eu não viesse a vos.
+#v 19 %v Porém logo virei a vós, se o Senhor quiser; e #ad então %ad conhecerei, não as palavras dos que andam arrogantes, mas sim o poder.
+#v 20 %v Porque o Reino de Deus não #ad consiste %ad de palavras, mas sim de poder.
+#v 21 %v Que quereis? Virei a vós com vara #ad de repreensão %ad , ou com amor e espírito de mansidão?
+
+#c 5 %c
+#v 1 %v Totalmente se ouve #ad que há %ad entre vós pecados sexuais, e tais pecados sexuais que nem mesmo entre os gentios{tr,rp: se nomeia}{n4: #ad há %ad },{trnc: #fn _c N4 omite “se nomeia” %fn }{n4: #fn _c TR, RP: “nem mesmo entre os gentios se nomeia” %fn } como alguém que tomou como mulher a esposa de seu pai.
+#v 2 %v E vós estais orgulhosos! Ao invés disso, vós não deveríeis se entristecer, para que fosse tirado do meio de vós o que cometeu esta atitude?
+#v 3 %v Porque eu, #ad agindo %ad como ausente de corpo, porém presente de espírito, já julguei como se estivesse presente, aquele que fez isto,
+#v 4 %v No nome do nosso Senhor Jesus Cristo, quando vós vos reunirdes, e o meu espírito junto de vós, com o poder de nosso Senhor Jesus Cristo,
+#v 5 %v De ao tal entregar a Satanás, para destruição da carne, para que o espírito seja salvo, no dia do Senhor Jesus.
+#v 6 %v Vosso orgulho não é bom. Não sabeis que um pouco de fermento faz levedar toda a massa?
+#v 7 %v Limpai pois o velho fermento, para que sejais nova massa, assim como vós sois #ad de fato %ad sem fermento. Porque Cristo, nosso #ad cordeiro da %ad páscoa, foi sacrificado por nós.
+#v 8 %v Portanto façamos festa, não no velho fermento, nem no fermento do mal e da perversão, mas em pães não levedados de sinceridade e de verdade.
+#v 9 %v Eu já vos escrevi por carta, que não vos mistureis com pecadores sexuais.
+#v 10 %v Porém não totalmente com os pecadores deste mundo, ou com os gananciosos, ou ladrões, ou #ad com os %ad idólatras; porque então vos seria necessário sair do mundo.
+#v 11 %v Mas agora vos escrevo, que não vos mistureis se alguém, chamando a si de irmão, for pecador sexual, ou ganancioso, ou idólatra, ou maldizente, ou beberrão, ou ladrão. Com o tal nem mesmo comais.
+#v 12 %v Por que eu tenho que julgar também aos que estão de fora? Não julgais vós aos que estão de dentro?
+#v 13 %v Mas Deus julga aos que estão de fora. Tirai pois dentre vós a este maligno.
+
+#c 6 %c
+#v 1 %v Algum de vós, tendo um assunto contra outro, ousa ir a juízo perante os injustos, e não perante os santos?
+#v 2 %v Não sabeis que os santos julgarão ao mundo? E se o mundo é julgado por vós, por acaso sois vós indignos de julgar as coisas mínimas?
+#v 3 %v Não sabeis que julgaremos aos anjos? Quanto mais as coisas desta vida!
+#v 4 %v Pois se tiverdes assuntos em juízo, relativos a coisas desta vida, vós pondes como juízes aos que são menos estimados pela igreja?
+#v 5 %v Eu digo #ad isto %ad para vos envergonhar. Não há entre vós algum sábio, nem pelo menos um, que não possa julgar entre seus irmãos?
+#v 6 %v Mas irmão vai a juízo contra outro irmão, e isto perante incrédulos?
+#v 7 %v Porém já é uma falta entre vós, por entre vós haverdes disputas. Por que não aceitais serdes injustiçados? Por que não aceitais o prejuízo?
+#v 8 %v Mas vós #ad mesmos %ad injustiçais e prejudicais, e isto aos irmãos.
+#v 9 %v Ou não sabeis que os injustos não herdarão o Reino de Deus? Não erreis: nem os pecadores sexuais, nem os idólatras, nem os adúlteros, nem os sexualmente efeminados, nem os homens que fazem sexo com homens,
+#v 10 %v Nem os ladrões, nem os gananciosos, nem os beberrões, nem os maldizentes, nem os extorsores herdarão o Reino de Deus.
+#v 11 %v E isto alguns de vós éreis. Mas #ad já %ad estais lavados, e santificados, e justificados no nome do Senhor Jesus, e pelo Espírito de nosso Deus.
+#v 12 %v Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são lícitas, porém eu não deixarei me sujeitar por coisa alguma.
+#v 13 %v A comida é para o estômago, e o estômago é para a comida; mas Deus os aniquilará, tanto a um, como ao outro. Porém o corpo não é para o pecado sexual, mas para o Senhor, e o Senhor #ad é %ad para o corpo.
+#v 14 %v E Deus ressuscitou ao Senhor, e também por seu poder nos ressuscitará.
+#v 15 %v Não sabeis vós que vossos corpos são membros de Cristo? Tomarei pois os membros de Cristo, e os farei membros de uma prostituta? De maneira nenhuma!
+#v 16 %v Ou não sabeis que o que se junta #ad sexualmente %ad com uma prostituta se torna um #ad só %ad corpo #ad com ela %ad ? Porque #ad a Escritura %ad diz:
+ Os dois serão uma #ad só %ad carne.
+#v 17 %v Mas o que se junta com o Senhor, #ad com ele %ad se torna um #ad só %ad espírito.
+#v 18 %v Fugi do pecado sexual. Todo pecado que o ser humano comete é fora do corpo; mas o que pratica pecado sexual, peca contra seu próprio corpo.
+#v 19 %v Ou não sabeis que vosso corpo é templo do Espírito Santo, o qual está em vós, o qual tendes de Deus, e #ad que %ad não sois de vós mesmos?
+#v 20 %v Porque vós fostes comprados por alto preço; então glorificai a Deus em vosso corpo{tr,rp:, e em vosso espírito, que são de Deus}.{trnc: #fn _c N4 omite: “e em vosso espírito, que são de Deus” %fn }{n4: #fn _c TR, RP acrescentam: “e em vosso espírito, que são de Deus” %fn }
+
+#c 7 %c
+#v 1 %v E sobre as coisas que me escrevestes, bom é para o homem não tocar mulher.
+#v 2 %v Mas por causa dos pecados sexuais, tenha cada um sua própria mulher, e cada uma tenha seu próprio marido.
+#v 3 %v Que o marido satisfaça sua mulher como devido, e semelhantemente a mulher ao marido.
+#v 4 %v A mulher não tem poder sobre seu próprio corpo, mas sim o marido; e também da mesma maneira o marido não tem poder sobre seu próprio corpo, mas sim a mulher.
+#v 5 %v Não vos priveis um ao outro, a não ser por consentimento #ad de ambos %ad por algum tempo, para que vos ocupeis com jejum, e para a oração; e voltai-vos outra vez a se juntarem, para que Satanás não vos tente, por causa de vossa falta de domínio próprio.
+#v 6 %v Mas isto vos digo como permissão, não como mandamento.
+#v 7 %v Porque eu queria que todos fossem como eu mesmo; mas cada um tem seu próprio dom de Deus, um de um jeito assim, e outro de um jeito diferente.
+#v 8 %v Mas digo aos solteiros, e às viúvas que lhes é bom se permanecessem como eu estou.
+#v 9 %v Mas se não podem se conter, casem-se; porque é melhor se casar do que se inflamar.
+#v 10 %v Porém aos casados eu mando, não eu, mas o Senhor, que a mulher não se separe do marido.
+#v 11 %v E se se separar, fique sem casar, ou se reconcilie com o marido; e que o marido não deixe a mulher.
+#v 12 %v Mas aos outros digo eu, não o Senhor: se algum irmão tem mulher descrente, e ela consente em habitar com ele, não a deixe.
+#v 13 %v E se alguma mulher tem marido descrente, e ele consente em habitar com ela, não o deixe.
+#v 14 %v Porque o marido descrente é santificado pela mulher; e a mulher descrente é santificada pelo marido. Pois de outra maneira vossos filhos seriam impuros; porém agora são santos.
+#v 15 %v Mas se o descrente se separar, separe-se #ad também %ad . Em tal #ad situação %ad o irmão ou a irmã não estão sujeitos à servidão; mas Deus vos chamou para a paz.
+#v 16 %v Porque o que tu sabes, mulher, se salvarás ao marido? Ou o que tu sabes, marido, se salvarás a mulher?
+#v 17 %v Porém cada um ande assim como Deus lhe repartiu, cada um como o Senhor o chamou; e assim ordeno em todas as igrejas.
+#v 18 %v É alguém chamado, estando já circunciso? Não desfaça a circuncisão. É alguém chamado estando ainda incircunciso? Não se circuncide.
+#v 19 %v A circuncisão nada vale, e a incircuncisão nada vale; mas #ad o que vale %ad é a obediência aos mandamentos de Deus.
+#v 20 %v Cada um fique no propósito em que foi chamado.
+#v 21 %v Foste tu chamado sendo escravo? Não te preocupes com #ad isto %ad ; mas se tu podes te tornares livre, aproveita.
+#v 22 %v Porque o que foi chamado no Senhor enquanto era escravo, para o Senhor é livre; da mesma maneira também, o que foi chamado, sendo livre, se torna escravo de Cristo.
+#v 23 %v Vós fostes comprados por alto preço; #ad portanto %ad não vos façais escravos dos seres humanos.
+#v 24 %v Irmãos, cada um continue com Deus #ad no estado %ad em que foi chamado.
+#v 25 %v E quanto às virgens, não tenho mandamento do Senhor; porém eu dou #ad minha %ad opinião, dado que tenho recebido misericórdia do Senhor para que eu seja confiável.
+#v 26 %v Considero pois isto como bom, por causa da necessidade atual, que é bom à pessoa continuar assim como está.
+#v 27 %v Estás ligado à mulher, não busques se separar. Estás livre de mulher, não busques mulher.
+#v 28 %v Mas se também te casares, não pecas; e se a virgem se casar, não peca. Porém os tais terão aflições na carne, que eu #ad gostaria %ad de livrá-los.
+#v 29 %v Porém digo isto, irmãos, porque o tempo que resta é breve; para que também os que tem mulheres, sejam como se não as tivessem;
+#v 30 %v E os que choram, como se não chorassem; e os que se alegram, como se não se alegrassem; e os que compram, como se não possuíssem.
+#v 31 %v E os que usam #ad das coisas %ad deste mundo, como se #ad delas %ad não abusassem; porque a aparência deste mundo é passageira.
+#v 32 %v E eu queria que estivésseis sem preocupações. O solteiro se preocupa com as coisas do Senhor, como irá agradar ao Senhor;
+#v 33 %v Porém o que é casado se preocupa com as coisas do mundo, como irá agradar à mulher.
+#v 34 %v A mulher casada e a virgem são diferentes: a que está para casar tem preocupação com as coisas do Senhor, para ser santa, tanto de corpo como de Espírito; mas a casada tem preocupação com as coisas do mundo, como irá agradar ao marido.
+#v 35 %v Porém digo isto para vosso próprio proveito; não para vos enlaçar, mas para #ad vos guiar %ad ao que é decente, e servirem ao Senhor sem distração.
+#v 36 %v Mas se alguém lhe parece que indecentemente trata com sua virgem, se ela passar da idade da juventude, e assim convier se fazer, que tal faça o que quiser, não peca, casem-se.
+#v 37 %v Porém o que está firme em #ad seu %ad coração, não tendo necessidade, mas tem poder sobre sua própria vontade, e isto decidiu em seu próprio coração, de guardar sua virgem, faz bem.
+#v 38 %v Portanto, o que #ad a dá %ad em casamento, faz bem; mas o que não a dá em casamento, faz melhor.
+#v 39 %v A mulher casada está ligada pela Lei todo o tempo em que seu marido vive; mas se seu marido morrer, fica livre para se casar com quem quiser, contanto #ad que seja %ad no Senhor.
+#v 40 %v Porém mais bem-aventurada é, se assim continuar, segundo minha opinião. E também eu penso, que tenho o Espírito de Deus.
+
+#c 8 %c
+#v 1 %v E quanto às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento incha #ad de orgulho %ad , mas o amor edifica.
+#v 2 %v E se alguém acha saber alguma coisa, ainda nada conhece como se deve conhecer.
+#v 3 %v Mas se alguém ama a Deus, o tal dele é conhecido.
+#v 4 %v Portanto, quanto ao comer das coisas sacrificadas aos ídolos: sabemos que o ídolo nada é no mundo, e que não há qualquer outro Deus, a não ser um.
+#v 5 %v Porque, ainda que também haja #ad alguns %ad que se chamem deuses, seja no céu, seja na terra (como há muitos deuses e muitos senhores),
+#v 6 %v Todavia para nós há #ad só %ad um Deus, o Pai, do qual #ad são %ad todas as coisas, e nós para ele; e um #ad só %ad Senhor Jesus Cristo, pelo qual #ad são %ad todas as coisas, e nós por ele.
+#v 7 %v Mas não há em todos #ad este %ad conhecimento; porém alguns até agora comem com consciência do ídolo, como se #ad fossem %ad sacrificadas aos ídolos; e sendo sua consciência fraca, fica contaminada.
+#v 8 %v Ora, a comida não nos faz agradáveis a Deus. Porque seja o que comamos, nada temos de mais; e seja o que não comamos, nada nos falta.
+#v 9 %v Mas tomai cuidado para que esta vossa liberdade não seja de maneira alguma escândalo para os fracos.
+#v 10 %v Porque se alguém vir a ti, que tens #ad este %ad conhecimento, sentado #ad à mesa %ad no templo dos ídolos, não será a consciência do que é fraco induzida a comer das coisas sacrificadas aos ídolos?
+#v 11 %v E por causa de teu conhecimento, perecerá assim o irmão fraco, pelo qual Cristo morreu?
+#v 12 %v Assim que, pecando contra os irmãos e ferindo sua fraca consciência, pecais contra Cristo.
+#v 13 %v Portanto, se a comida escandalizar a meu irmão, nunca mais comerei carne, para que eu não escandalize a meu irmão.
+
+#c 9 %c
+#v 1 %v Não sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo nosso Senhor? Não sois vós minha obra no Senhor?
+#v 2 %v Se para os outros não sou apóstolo, ao menos para vós eu o sou; porque vós sois o selo de meu apostolado no Senhor.
+#v 3 %v Esta é a minha defesa para com os que me condenam.
+#v 4 %v Não temos nós poder de comer e de beber?
+#v 5 %v Não temos nós direito de trazer #ad conosco %ad uma mulher irmã, como também os demais apóstolos, e os irmãos do Senhor, e Cefas?
+#v 6 %v Ou só eu, e Barnabé, não temos direito de não trabalhar?
+#v 7 %v Quem vai para a guerra a seu próprio custo? Quem planta a vinha, e não come do seu fruto? Ou quem apascenta o gado, e não come do leite do gado?
+#v 8 %v Digo eu isto segundo a lógica humana? Ou não diz a Lei também o mesmo?
+#v 9 %v Porque na Lei de Moisés está escrito: ao boi que trilha não atarás a boca. Por acaso Deus tem preocupação com os bois?
+#v 10 %v Ou totalmente diz por nós? Porque por nós isto está escrito; porque o que lavra, com esperança deve lavrar; e o que trilha com esperança, de sua esperança #ad deve %ad ser participante.
+#v 11 %v Se nós vos semeamos as coisas espirituais, é muito que ceifemos as vossas #ad coisas %ad carnais?
+#v 12 %v Se outros são participantes deste poder sobre vós, #ad porque %ad não tanto mais nós? Mas nós não usamos deste poder; antes tudo suportamos, para não darmos impedimento algum ao Evangelho de Cristo.
+#v 13 %v Não sabeis vós, que os que administram as coisas sagradas, comem #ad daquilo que é %ad sagrado? E os que continuamente estão junto ao altar, com o altar participam?
+#v 14 %v Assim também ordenou o Senhor, aos que anunciam o Evangelho, que vivam do Evangelho.
+#v 15 %v Porém eu de nenhuma destas coisas usei; e nem isto escrevi, para que assim se faça comigo; porque melhor me seria morrer, do que esvaecer este meu orgulho.
+#v 16 %v Porque se anunciar o Evangelho, para mim não é orgulho, pois a obrigação me é imposta. E ai de mim, se não anunciar o Evangelho!
+#v 17 %v Porque se eu faço de boa mente, tenho recompensa; mas se eu fizer de má vontade, a responsabilidade me é confiada.
+#v 18 %v Então que recompensa tenho? Que evangelizando, proponha o Evangelho de Cristo sem receber nada de volta, para não abusar do meu poder no Evangelho.
+#v 19 %v Porque, estando eu livre de todos, me fiz servo de todos, para ganhar #ad ainda %ad mais.
+#v 20 %v E me fiz como judeu para os judeus, para ganhar aos judeus; como que estivesse debaixo da Lei,{n4:, ainda que eu mesmo não esteja debaixo da Lei #fn _c TR, RP omitem: “ainda que eu mesmo não esteja debaixo da Lei” %fn }{trnc: #fn _c N4 acrescenta: “ainda que eu mesmo não esteja debaixo da Lei” %fn } para os que estão debaixo da Lei, para ganhar aos que estão debaixo da Lei.
+#v 21 %v Ao que estão sem Lei, como se estivesse sem Lei ( #ad porém %ad não estando sem Lei para com Deus; mas para com Cristo debaixo da Lei), para ganhar os que estão sem Lei.
+#v 22 %v Me fiz de fraco para os fracos, para ganhar aos fracos; tudo me fiz para todos, para por todos os meios vir a salvar a alguns.
+#v 23 %v E isto eu faço por causa do Evangelho, para que eu também dele seja participante.
+#v 24 %v Não sabeis vós que os que correm nas competições, realmente todos correm, mas somente um leva o prêmio? Correi de tal maneira, que o alcanceis.
+#v 25 %v E todo aquele que luta, tenha domínio próprio sobre tudo. Pois aqueles fazem para receber uma coroa corruptível, porém nós #ad para %ad uma incorruptível.
+#v 26 %v Então assim eu corro, não como #ad para um lugar %ad incerto; assim luto, não como que dando socos no ar.
+#v 27 %v Em vez disso, eu subjugo meu corpo, e o reduzo à servidão, para que quando estiver pregando para os outros, eu mesmo não seja reprovado.
+
+#c 10 %c
+#v 1 %v Ora, irmãos, eu não quero que ignoreis que todos os nossos pais estiveram debaixo da nuvem, e todos pelo mar passaram;
+#v 2 %v E todos foram batizados na nuvem e no mar em Moisés;
+#v 3 %v E todos comeram de um mesmo alimento espiritual;
+#v 4 %v E todos beberam de uma mesma bebida espiritual; porque bebiam da pedra espiritual que #ad os %ad seguia; e a pedra era Cristo.
+#v 5 %v Mas da maioria deles Deus não se agradou; por isso foram deixados no deserto.
+#v 6 %v E estas coisas nos servem de exemplos, para que não desejemos coisas ruins, como eles desejaram.
+#v 7 %v E não sejais idólatras, como alguns deles #ad foram %ad , como está escrito:
+ O povo se sentou para comer, e para beber, e levantaram-se para se alegrarem.
+#v 8 %v E não pequemos sexualmente, como alguns deles assim pecaram, e em um dia vinte e três mil caíram.
+#v 9 %v E não tentemos a Cristo, como também alguns deles tentaram, e pereceram pelas serpentes.
+#v 10 %v E não murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor.
+#v 11 %v E todas estas coisas lhes aconteceram como exemplos, e estão escritas para nosso aviso, em quem os fins dos tempos têm chegado.
+#v 12 %v Portanto, aquele que pensa estar de pé, olhe para que não caia.
+#v 13 %v Nenhuma tentação vos veio, que não fosse humana; porém Deus é fiel; que não vos deixará tentar mais do que o que podeis, antes com a tentação também dará a saída, para que a possais suportar.
+#v 14 %v Portanto, meus amados, fugi da idolatria.
+#v 15 %v Eu vos falo como que para prudentes; jugai vós #ad mesmos %ad o que eu digo.
+#v 16 %v Por acaso o copo da bênção, que nós bendizemos, não é a comunhão do sangue de Cristo? O pão que partimos, não é a comunhão do corpo de Cristo?
+#v 17 %v Porque #ad assim como há %ad um #ad só %ad pão, nós muitos somos um #ad só %ad corpo; porque todos participamos de um #ad só %ad pão.
+#v 18 %v Vede a Israel segundo a carne: por acaso os que comem os sacrifícios não são participantes do altar?
+#v 19 %v Então o que eu digo? Que o ídolo é alguma coisa? Ou que o sacrifício ao ídolo seja alguma coisa?
+#v 20 %v Mas eu digo, que as coisas que os gentios sacrificam, são sacrificadas para os demônios, e não a Deus. E não quero que sejais participantes dos demônios.
+#v 21 %v Não podeis beber o copo do Senhor e o copo dos demônios; não podeis ser participantes da mesa do Senhor e da mesa dos demônios.
+#v 22 %v  #ad Tentamos %ad provocar ciúmes ao Senhor? Somos nós mais fortes que ele?
+#v 23 %v Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são licitas, mas nem todas as coisas edificam.
+#v 24 %v Ninguém busque para si próprio, antes cada um #ad busque o bem %ad do outro.
+#v 25 %v De tudo o que se vende no açougue, comei, sem vos questionar por causa da consciência.
+#v 26 %v Porque a terra é do Senhor, e #ad também %ad sua plenitude.
+#v 27 %v E se alguém dos descrentes vos convidar, e quiserdes ir, comei de tudo o que for posto diante de vós, sem vos questionar por causa da consciência.
+#v 28 %v Mas se alguém vos disser: “Isto é sacrifício a ídolos”, não comais, por causa daquele que #ad vos %ad advertiu, e #ad por causa %ad da consciência. Porque a terra e sua plenitude pertencem ao Senhor.
+#v 29 %v Mas digo da consciência do outro, não a tua. Por que, então, minha liberdade é julgada pela consciência do outro?
+#v 30 %v E se eu participo #ad da comida %ad pela graça, por que sou ofendido naquilo que dou graças?
+#v 31 %v Portanto, ao comer, ou ao beber, ou ao fazer qualquer coisa, fazei tudo para a glória de Deus.
+#v 32 %v Sede sem escândalo, nem a judeus, nem a gregos, nem à Igreja de Deus.
+#v 33 %v Assim como eu também agrado a todos em tudo, não buscando meu próprio proveito, mas sim o de muitos, para que assim possam se salvar.
+
+#c 11 %c
+#v 1 %v Sede meus imitadores, assim como eu também sou de Cristo.
+#v 2 %v Eu vos louvo, irmãos, de que em tudo vos lembrais de mim, e retendes #ad minhas %ad ordens, assim como eu vos entreguei.
+#v 3 %v Mas quero que saibais, que a cabeça de todo homem é Cristo; e a cabeça da mulher é o homem; e a cabeça de Cristo é Deus.
+#v 4 %v Todo homem que ora ou profetiza, tendo #ad alguma coisa %ad sobre a cabeça, desonra sua própria cabeça.
+#v 5 %v Mas toda mulher que ora ou profetiza com a cabeça descoberta, desonra sua própria cabeça; porque é o mesmo que se a tivesse raspada.
+#v 6 %v Porque se a mulher não se cobre, raspe-se também; mas se para a mulher é vergonhoso se cortar ou se raspar, que se cubra.
+#v 7 %v Porque o homem não deve cobrir a cabeça, pois é a imagem e a glória de Deus; mas a mulher é a glória do homem.
+#v 8 %v Porque o homem não provem da mulher, mas sim a mulher do homem.
+#v 9 %v Porque também o homem não foi criado por causa da mulher, mas a mulher #ad foi criada %ad por causa do homem.
+#v 10 %v Portanto a mulher deve ter sobre a cabeça sinal de autoridade, por causa dos anjos.
+#v 11 %v Porém, nem o homem é sem a mulher, nem a mulher sem o homem, no Senhor.
+#v 12 %v Porque assim como a mulher vem do homem, assim também é o homem pela mulher; porém tudo #ad vem %ad de Deus.
+#v 13 %v Julgai-vos entre vós mesmos: é decente que a mulher ore a Deus descoberta?
+#v 14 %v Ou não vos ensina a mesma natureza, que ter cabelo longo é desonra para o homem?
+#v 15 %v Mas a mulher ter cabelo longo, lhe é honra, porque os cabelos lhe são dados por cobertura?
+#v 16 %v Porém se alguém parece ser inclinado a disputas, nós não temos tal costume, nem as igrejas de Deus.
+#v 17 %v Mas isto eu vos declaro, que não vos louvo, porque vós vos ajuntais, não para melhor, mas para pior.
+#v 18 %v Porque, em primeiro lugar, eu ouço que, quando vos ajuntais, há divisões entre vós; e em parte eu acredito.
+#v 19 %v Porque é necessário que haja diferenças de opinião #fn _c diferenças de opinião – ou: facções. Tradicionalmente: heresias %fn entre vós, para que os que são aprovados sejam evidenciados entre vós.
+#v 20 %v Quando, pois, vós vos reunis, não é para comer da ceia do Senhor;
+#v 21 %v Porque cada um, comendo antes, toma sua própria ceia; e um fica com fome, e outro fica bêbado.
+#v 22 %v Por acaso não tendes casas para comer e para beber? Ou desprezais a Igreja de Deus, e envergonhais os que não têm? Que vos direi? Eu vos elogiarei? Nisto eu não #ad vos %ad elogio.
+#v 23 %v Porque eu recebi do Senhor o que também vos entreguei; que o Senhor Jesus, na noite em que foi traído, tomou o pão;
+#v 24 %v E tendo dado graças, o partiu, e disse:
+ Tomai, comei; isto é o meu corpo, que é partido por vós; fazei isto em memória de mim.
+#v 25 %v Semelhantemente também, depois de cear, #ad tomou %ad o copo, dizendo:
+ Este copo é o novo Testamento em meu sangue. Fazei isto todas as vezes que #ad o %ad beberdes, em memória de mim.
+#v 26 %v Porque todas as vezes que comerdes deste pão, e beberdes deste copo, anunciai a morte do Senhor, até que ele venha.
+#v 27 %v Portanto quem comer deste pão, ou beber deste copo do Senhor indignamente, será culpado do corpo e do sangue do Senhor.
+#v 28 %v Portanto examine-se cada um a si mesmo, e assim coma deste pão, e beba deste copo.
+#v 29 %v Porque quem come e bebe indignamente, para si mesmo come e bebe condenação, não discernindo o corpo do Senhor.
+#v 30 %v Por esta causa há entre vós muitos fracos e doentes, e muitos que dormem. #fn _c muitos que dormem = i.e. muitos que morrem %fn 
+#v 31 %v Porque se nós julgássemos a nós mesmos, não seríamos julgados.
+#v 32 %v Mas quando somos julgados, somos repreendidos pelo Senhor; para que não sejamos condenados com o mundo.
+#v 33 %v Portanto, meus irmãos, quando vos ajuntardes para comer, esperai uns aos outros.
+#v 34 %v Porém se alguém tiver fome, coma em casa; para que não vos ajunteis para #ad sofrerdes %ad julgamento. Quanto às demais coisas, as ordenarei quando vier.
+
+#c 12 %c
+#v 1 %v E quanto aos #ad dons %ad espirituais, irmãos, não quero que sejais ignorantes.
+#v 2 %v Vós sabeis que éreis gentios, vós vos desviáveis para os ídolos mudos, conforme éreis guiados.
+#v 3 %v Por isso eu vos deixo claro que ninguém que fala pelo Espírito de Deus chama a Jesus de maldito; #fn _c maldito = equiv. anátema %fn e ninguém pode dizer #ad que %ad Jesus #ad é %ad o Senhor, a não ser pelo Espírito Santo.
+#v 4 %v E há variedade de dons, mas o Espírito é o mesmo.
+#v 5 %v E há variedade de trabalhos #ad na Igreja %ad , mas o Senhor é o mesmo.
+#v 6 %v E há variedade de operações, mas é o mesmo Deus que opera tudo em todos.
+#v 7 %v Mas a cada um é dada a manifestação do Espírito, para o que for conveniente.
+#v 8 %v Porque a um é dada, pelo Espírito, palavra de sabedoria; e a outro palavra de conhecimento, pelo mesmo Espírito.
+#v 9 %v e a outro fé pelo mesmo Espírito; e a outro dons de curas, pelo mesmo Espírito.
+#v 10 %v E a outro operações de milagres; e a outro profecia; e a outro o #ad dom de %ad discernir aos espíritos; e a outro variedade de línguas; e a outro interpretação de línguas.
+#v 11 %v Mas todas estas coisas #ad quem %ad opera #ad é %ad um e o mesmo Espírito, repartindo particularmente a cada um como quer.
+#v 12 %v Porque assim como o corpo é um, e tem muitos membros, e todos os membros deste único corpo, sendo muitos, compõem um só corpo; assim também é Cristo.
+#v 13 %v Porque também todos nós somos batizados em um #ad só %ad Espírito, para um #ad só %ad corpo, quer judeus, quer gregos, quer servos, quer livres; e para todos nós foi dado de beber um #ad só %ad Espírito.
+#v 14 %v Porque também o corpo não é um #ad só %ad membro, mas muitos.
+#v 15 %v Se o pé disser:
+ Por eu não ser mão, não sou do corpo;
+Por isso, ele não é do corpo?
+#v 16 %v E se a orelha disser:
+ Por eu não ser olho, não sou do corpo;
+Por isso, ela não é do corpo?
+#v 17 %v Se todo o corpo fosse olho, onde #ad estaria %ad o ouvido? Se #ad fosse %ad todo ouvido, onde #ad estaria %ad o olfato?
+#v 18 %v Mas agora Deus pôs os membros no corpo, a cada qual deles como ele quis.
+#v 19 %v Porque se todos fossem um #ad só %ad membro, onde #ad estaria %ad o corpo?
+#v 20 %v Mas há agora muitos membros, porém um #ad só %ad corpo.
+#v 21 %v E o olho não pode dizer à mão:
+ Não tenho necessidade de ti;
+Nem a cabeça aos pés:
+ Não tenho necessidade de vós;
+#v 22 %v Antes até os membros do corpo que #ad nos %ad parecem ser os mais fracos, são muito mais necessários.
+#v 23 %v E os que pensamos serem os menos honrados do corpo, a esses muito mais honramos; e os nossos mais desprezíveis têm muito mais respeito.
+#v 24 %v Porém os nosso mais respeitáveis não têm #ad tanta %ad necessidade; mas #ad assim %ad Deus juntou o corpo, dando muito mais honra ao que tinha falta #ad dela %ad .
+#v 25 %v Para que não haja divisão no corpo, mas que os membros tenham igual cuidado uns com os outros.
+#v 26 %v E seja que, #ad caso %ad um membro sofra, #ad também %ad os membros sofrem juntos; e #ad caso %ad um membro seja honrado, todos os membros se alegram juntos.
+#v 27 %v E vós sois o corpo de Cristo, e membros em particular.
+#v 28 %v E Deus pôs a uns na Igreja: em primeiro lugar apóstolos, em segundo profetas, em terceiro mestres; depois milagres, dons de curas, socorros, lideranças, variedades de línguas.
+#v 29 %v Por acaso são todos apóstolos? São todos profetas? São todos mestres? São todos com dons de milagres?
+#v 30 %v Tem todos dons de curas? Falam todos #ad várias %ad línguas? Interpretam todos?
+#v 31 %v Porém desejai com zelo pelos melhores dons; e eu vos mostro um caminho ainda mais excelente.
+
+#c 13 %c
+#v 1 %v Ainda que eu falasse as línguas dos seres humanos e dos anjos, e não tivesse amor, seria como o metal que soa, ou como o sino que retine.
+#v 2 %v E ainda que tivesse #ad o dom %ad de profecia, e soubesse todos os mistérios, e todo o conhecimento; e ainda que tivesse toda a fé, de tal maneira que movesse os montes de lugar, e não tivesse amor, nada seria.
+#v 3 %v E ainda que eu distribuísse todos os meus bens para alimentar #ad aos pobres %ad , e ainda que entregasse meu corpo para ser queimado, e não tivesse amor, nada me aproveitaria.
+#v 4 %v O amor é paciente, é bondoso; o amor não é invejoso; o amor não é orgulhoso, não é arrogante.
+#v 5 %v O amor não trata mal; não busca os próprios #ad interesses %ad , não se ira, não é rancoroso.
+#v 6 %v Não se alegra com a injustiça, mas se alegra com a verdade.
+#v 7 %v Tudo aguenta, tudo crê, tudo espera, tudo suporta.
+#v 8 %v O amor nunca falha. Porém as profecias serão aniquiladas; as línguas acabarão, e o conhecimento será aniquilado.
+#v 9 %v Porque em parte conhecemos, e em parte profetizamos;
+#v 10 %v Mas quando vier o #ad que é %ad perfeito, então o que é em parte será aniquilado.
+#v 11 %v Quando eu era menino, falava como menino, sentia como menino, pensava como menino; mas quando me tornei homem, aniquilei as coisas de menino.
+#v 12 %v Porque agora vemos por espelho em enigma, mas então #ad veremos %ad face a face; agora conheço em parte, mas então conhecerei assim como sou conhecido.
+#v 13 %v E agora continuam a fé, a esperança, #ad e %ad o amor, estes três; porém o maior destes é o amor.
+
+#c 14 %c
+#v 1 %v Segui o amor, e desejai com zelo pelos #ad dons %ad espirituais; porém principalmente que profetizeis.
+#v 2 %v Porque o que fala língua #ad estranha %ad , não fala aos seres humanos, mas sim a Deus; porque ninguém #ad o %ad entende, mas em espírito fala mistérios.
+#v 3 %v Mas o que profetiza, fala aos seres humanos #ad para %ad edificação, convencimento, e consolação.
+#v 4 %v O que fala língua #ad estranha %ad edifica a si mesmo; mas o que profetiza edifica à igreja.
+#v 5 %v E eu quero que todos vós faleis línguas, porém mais #ad ainda %ad que profetizeis; porque o que profetiza é maior que o que fala línguas, a não ser que #ad também %ad interprete, para que a igreja receba edificação.
+#v 6 %v E agora irmãos, se eu viesse até vos falando línguas, o que vos aproveitaria, se não vos falasse ou por revelação, ou por conhecimento, ou por profecia, ou por doutrina?
+#v 7 %v E até as coisas inanimadas, que produzem som, seja flauta, seja harpa, se não derem distinção de sons, como saberá o que se toca com a flauta, ou com a harpa?
+#v 8 %v Porque também se a trombeta der som incerto, quem se preparará para a guerra?
+#v 9 %v Assim #ad mesmo %ad também vós, se com a língua não derdes palavra compreensível, como se entenderá o que se diz? Porque estareis falando para o ar.
+#v 10 %v Por exemplo, há tantos tipos de vozes no mundo, e nenhuma delas é muda.
+#v 11 %v Portanto, se eu não souber o propósito da voz, serei estrangeiro para o que fala, e o que fala será estrangeiro para mim.
+#v 12 %v Assim também vós, dado que desejais os dons espirituais, procurai #ad neles %ad abundar, para edificação da igreja.
+#v 13 %v Portanto, o que fala em língua #ad estranha %ad , ore para que possa interpretar.
+#v 14 %v Porque se eu orar em língua #ad estranha %ad , meu espírito ora, mas meu entendimento fica sem fruto.
+#v 15 %v Então é o que? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento.
+#v 16 %v De outra maneira, se tu bendisseres com o espírito, como aquele que não tem conhecimento dirá amém por teu bendizer? Pois ele não sabe o que tu dizes.
+#v 17 %v Porque em verdade tu bem dás graças; mas o outro não é edificado.
+#v 18 %v Graças dou a meu Deus, que mais línguas falo que todos vós.
+#v 19 %v Porém eu quero #ad mais %ad falar na igreja cinco palavras com meu entendimento, para que eu também possa instruir aos outros, do que dez mil palavras em língua #ad estranha %ad .
+#v 20 %v Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia, e adultos no entendimento.
+#v 21 %v Na Lei está escrito:
+ A este povo falarei por gente de outras línguas, e por outros lábios; e ainda assim não me ouvirão, diz o Senhor.
+#v 22 %v Então as línguas #ad estranhas %ad são por sinal, não para os que creem, mas para os que não creem; e a profecia não é para os que não creem, mas para os que creem.
+#v 23 %v Pois se toda a igreja se reunir, e todos falarem línguas #ad estranhas %ad , e entrarem alguns sem entendimento ou descrentes, não dirão que estais loucos?
+#v 24 %v Mas se todos profetizarem, e algum sem entendimento ou descrente entrar, por todos é convencido, #ad e %ad por todos é julgado.
+#v 25 %v E assim os segredos de seu coração ficam manifestos, e assim, lançando-se sobre #ad seu %ad rosto, adorará a Deus, reconhecendo publicamente que Deus está entre vós.
+#v 26 %v Então o que há, irmãos? Quando vos reunis, tem cada um de vós salmo, tem doutrina, tem língua #ad estranha %ad , tem revelação, tem interpretação, tudo se faça para edificação.
+#v 27 %v E se alguém falar em língua #ad estranha %ad , #ad sejam %ad dois, ou no máximo três, e alternando-se, e um que interprete.
+#v 28 %v Mas se não houver intérprete, cale-se na igreja, fale porém consigo mesmo, e com Deus.
+#v 29 %v E falem dois ou três profetas, e os outros julguem.
+#v 30 %v Mas se a outro, que estiver sentada, for revelada #ad alguma coisa %ad , cale-se o primeiro.
+#v 31 %v Porque todos vós podeis profetizar, um após o outro, para que todos aprendam, e sejam todos fortalecidos.
+#v 32 %v E os espíritos dos profetas estão sujeitos aos profetas.
+#v 33 %v Porque Deus não é de confusão, mas de paz, como em todas as igrejas dos santos.
+#v 34 %v Vossas mulheres fiquem caladas nas igrejas; porque não lhes é permitido falar, mas #ad que %ad estejam sujeitas, como também a Lei o diz.
+#v 35 %v E se quiserem aprender alguma coisa, perguntem a seus próprios maridos em casa; porque é impróprio as mulheres falarem na igreja.
+#v 36 %v Por acaso a palavra de Deus saiu de vós? Ou ela somente chegou a vós?
+#v 37 %v Se alguém pensa ser profeta, ou espiritual, reconheça que as coisas que escrevo são mandamento do Senhor.
+#v 38 %v Porém se alguém ignora, que ignore.
+#v 39 %v Portanto, irmãos, desejai com zelo profetizar, e não impeçais o falar línguas #ad estranhas %ad .
+#v 40 %v Fazei tudo decentemente e com ordem.
+
+#c 15 %c
+#v 1 %v Também irmãos, eu vos declaro o Evangelho, que já vos tenho anunciado, o qual também recebestes, no qual também estais.
+#v 2 %v Pelo qual também sois salvos, se retiverdes a palavra naquela maneira, em que eu vos tenho anunciado; a não ser se tenhais crido em vão.
+#v 3 %v Porque primeiramente vos entreguei o que também recebi, que Cristo morreu por nossos pecados, segundo as Escrituras;
+#v 4 %v E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras;
+#v 5 %v E que foi visto por Cefas, depois pelos doze.
+#v 6 %v Depois foi visto de uma fez por mais de quinhentos irmãos, dos quais a maioria #ad ainda %ad vive, e também alguns já dormem. #fn _c alguns já dormem = i.e. alguns já morreram %fn 
+#v 7 %v Depois foi visto por Tiago; depois por todos os apóstolos.
+#v 8 %v E por último de todos também foi visto por mim, como que a um nascido fora do tempo.
+#v 9 %v Porque eu sou o menor dos apóstolos, que não sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
+#v 10 %v Mas pela graça de Deus sou o que sou; e sua graça #ad concedida %ad a mim não foi vã; ao invés disso trabalhei muito mais que todos eles; porém não eu, mas a graça de Deus que está comigo.
+#v 11 %v Portanto, seja eu, sejam eles, assim pregamos, e assim crestes.
+#v 12 %v E se é pregado que Cristo ressuscitou dos mortos, como dizem alguns dentre vós, que não há ressurreição dos mortos?
+#v 13 %v E se não há ressurreição dos mortos, #ad então %ad Cristo não ressuscitou.
+#v 14 %v E se Cristo não ressuscitou, então é vã nossa pregação, e vã também é vossa fé.
+#v 15 %v E assim também somos encontrados como falsas testemunhas de Deus; pois testemunhamos de Deus, que ressuscitou a Cristo, ao qual #ad porém %ad não ressuscitou, se na verdade os mortos não ressuscitam.
+#v 16 %v Porque se os mortos não ressuscitam, #ad então %ad Cristo também não ressuscitou.
+#v 17 %v E se Cristo não ressuscitou, vossa fé é vá, #ad e %ad ainda estais em vossos pecados.
+#v 18 %v Portanto também pereceram os que dormiram em Cristo.
+#v 19 %v Se nesta vida esperamos somente em Cristo, somos os mais miseráveis de todas as pessoas.
+#v 20 %v Mas de fato Cristo ressuscitou dos mortos, #ad e %ad foi feito as primícias dos que dormiram.
+#v 21 %v Pois dado que a morte #ad veio %ad por um homem, também por um homem #ad veio %ad a ressurreição dos mortos.
+#v 22 %v Porque assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
+#v 23 %v Mas cada um em sua ordem; Cristo, as primícias; depois os que são de Cristo, em sua vinda.
+#v 24 %v Depois será o fim, quando entregar o Reino de Deus e ao Pai, quando aniquilar todo domínio, e toda autoridade e poder.
+#v 25 %v Porque convém que ele reine, até que tenha posto todos os inimigos debaixo de seus pés.
+#v 26 %v O último inimigo, que será aniquilado, #ad é %ad a morte.
+#v 27 %v Porque ele sujeitou todas as coisas debaixo de seus pés. Porém quando diz que todas as coisas #ad lhe %ad estão sujeitas, está claro que se excetua aquele que todas as coisas lhe sujeitou.
+#v 28 %v E quando todas as coisas lhe forem sujeitas, então também o mesmo Filho se sujeitará a aquele, que todas as coisas lhe sujeitou, para que Deus seja tudo em todos.
+#v 29 %v De outra maneira, que farão os que se batizam pelos mortos, se totalmente os mortos não ressuscitam? Por que, então, se batizam pelos mortos?
+#v 30 %v Por que também nós à toda hora estamos em perigo?
+#v 31 %v A cada dia eu morro pelo orgulho que tenho por vós, em Cristo Jesus nosso Senhor.
+#v 32 %v Se por motivo humano lutei contra feras em Éfeso, qual é o meu proveito? Se os mortos não ressuscitam, comamos e bebamos, que amanhã morreremos.
+#v 33 %v Não erreis. As más companhias corrompem os bons costumes.
+#v 34 %v Despertai para a justiça, e não pequeis; porque alguns #ad ainda %ad não têm o conhecimento de Deus. Eu digo isto para vossa vergonha.
+#v 35 %v Mas alguém dirá:
+ Como ressuscitarão os mortos? E com que corpo virão?
+#v 36 %v Louco, o que tu semeias não é vivificado, se #ad primeiro %ad não morrer.
+#v 37 %v E o que semeias, não semeias o corpo que irá brotar, mas o grão nu, como o de trigo, ou de qualquer outro #ad grão %ad .
+#v 38 %v Mas Deus lhe dá o corpo como quer, e a cada semente seu próprio corpo.
+#v 39 %v Toda carne não é a mesma carne; mas uma é a carne humana, e outra a carne dos animais, e outra a dos peixes, e outra a das aves.
+#v 40 %v E há corpos celestiais, e corpos terrestres; mas uma é a glória dos celestiais, e outra a dos terrestres.
+#v 41 %v Outra é a glória do Sol, e outra a glória da Lua, e outra a glória das estrelas; porque #ad uma %ad estrela difere em glória #ad de outra %ad estrela.
+#v 42 %v Assim também será a ressurreição dos mortos. Semeia-se #ad o corpo %ad em corrupção, ressuscitará em incorrupção.
+#v 43 %v Semeia-se em desonra, ressuscitará em glória. Semeia-se em fraqueza, ressuscitará em força.
+#v 44 %v Semeia-se corpo natural, ressuscitará corpo espiritual. Há corpo animal, e há corpo espiritual.
+#v 45 %v Assim também está escrito:
+ O primeiro homem, Adão, foi feito em alma vivente;
+O último Adão em espírito vivificante.
+#v 46 %v Mas não é primeiro o espiritual; mas sim o carnal, depois o espiritual.
+#v 47 %v O primeiro homem da terra #ad é %ad terrestre; o segundo homem, #ad que é %ad o Senhor, #ad é %ad do Céu.
+#v 48 %v Assim como #ad é %ad o terrestre, também #ad são %ad os terrestres; e assim como #ad é %ad o celestial, também #ad são %ad os celestiais.
+#v 49 %v E assim como trouxemos a imagem do terrestre, assim também traremos a imagem do celestial.
+#v 50 %v Porém isto digo, irmãos, que a carne e o sangue não podem herdar o Reino de Deus, nem a corrupção herda a incorrupção.
+#v 51 %v eis que eu vos digo um mistério: nem todos em verdade dormiremos; porém todos seremos transformados.
+#v 52 %v Em um momento, em um piscar de olhos, à ultima trombeta; porque a trombeta soará, e os mortos ressuscitarão incorruptíveis, e nós seremos transformados.
+#v 53 %v Porque é necessário que este #ad corpo %ad corruptível vista a incorrupção, e este #ad corpo %ad mortal vista a imortalidade.
+#v 54 %v E quando este #ad corpo %ad se vestir de incorrupção, e este #ad corpo %ad mortal se vestir de imortalidade, então se cumprirá a palavra que está escrita:
+ Na vitória, a morte é engolida.
+#v 55 %v Onde está, morte, o teu agulhão? Onde está, mundo dos mortos, a tua vitória?
+#v 56 %v O agulhão da morte é o pecado, e a força do pecado é a Lei.
+#v 57 %v Mas graças a Deus, que nos dá vitória por meio do nosso Senhor Jesus Cristo.
+#v 58 %v Portanto, meus amados irmão, sede firmes, imóveis #ad e %ad sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor.
+
+#c 16 %c
+#v 1 %v E quanto à coleta que #ad se faz %ad para os santos, fazei também como ordenei às igrejas da Galácia.
+#v 2 %v Cada primeiro #ad dia %ad da semana, cada um de vós ponha #ad alguma coisa %ad à pate, reservando #ad para isso %ad conforme a prosperidade que tiver obtido, para que, quando eu vier, não se façam coletas.
+#v 3 %v E quando eu vier, enviarei aos que por cartas aprovardes, para que levem vossa doação para Jerusalém.
+#v 4 %v E se for necessário que eu também vá, irão comigo.
+#v 5 %v Mas virei até vós, depois de passar pela Macedônia (porque passarei pela Macedônia).
+#v 6 %v E pode ser que eu fique #ad um tempo %ad convosco ou também passar o inverno, para que me envieis para onde quer que eu for.
+#v 7 %v Porque eu não quero vos ver agora #ad apenas %ad de passagem; mas espero ficar convosco por algum tempo, se o Senhor o permitir.
+#v 8 %v Porém ficarei em Éfeso até o Pentecostes.
+#v 9 %v Porque uma porta grande e eficaz se abriu para mim, e há muitos adversários.
+#v 10 %v E se vier Timóteo, olhai para que ele esteja sem temor convosco; porque assim como eu, ele também faz a obra do Senhor.
+#v 11 %v Portanto ninguém o despreze; mas enviai-o em paz, para que ele venha a mim; porque eu o espero com os irmãos.
+#v 12 %v E quanto ao irmão Apolo, muito roguei que ele viesse com os irmãos até vós; mas ele de maneira nenhuma teve vontade de vir por agora; porém oferecendo-se a ele boa oportunidade, ele virá.
+#v 13 %v Vigiai, ficai firmes na fé, sede corajosos, #ad e %ad vos esforçai.
+#v 14 %v Todas as vossas coisas sejam feitas em amor.
+#v 15 %v Vós sabeis que #ad os da %ad casa de Estéfanas foram os primeiros da Acaia, e que eles têm se dedicado ao trabalho dos santos; rogo-vos, pois, irmãos,
+#v 16 %v Que também vos sujeiteis a eles, e a todo aquele que opera e trabalha junto #ad conosco %ad .
+#v 17 %v E eu me alegro com a vinda de Estéfanas, e de Fortunato, e de Acaico, porque estes supriram o que de vossa #ad parte me %ad faltava.
+#v 18 %v Porque eles confortaram meu espírito, e #ad também %ad o vosso. Então reconhecei aos tais.
+#v 19 %v As igrejas da Ásia vos saúdam. Áquila e Priscila vos saúdam-vos afetuosamente no Senhor, e também a igreja que está na casa deles.
+#v 20 %v Todos os irmãos vos saúdam. Saudai-vos uns as outros com beijo santo.
+#v 21 %v Saudação de minha #ad própria %ad mão, de Paulo.
+#v 22 %v Se alguém não ama ao Senhor Jesus Cristo seja anátema. Vem, Senhor.
+#v 23 %v A graça do Senhor Jesus Cristo esteja convosco.
+#v 24 %v Meu amor esteja com todos vós em Cristo Jesus. Amém.
+ #ad A primeira Carta aos Coríntios foi escrita de Filipos, e enviada por Estéfanas, Fortunato, Acaico e Timóteo %ad 

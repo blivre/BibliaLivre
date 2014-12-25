@@ -1,0 +1,59 @@
+﻿#header
+#name Segunda Carta de Paulo aos Tessalonicenses %name
+#ver 20131012 %ver
+#abbr 2Ts %abbr
+%header
+
+#c 1 %c
+#v 1 %v Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo.
+#v 2 %v  #ad Haja entre vós %ad graça e paz de nosso Pai, e do Senhor Jesus Cristo.
+#v 3 %v Nós sempre devemos dar graças a Deus por vós, irmãos, como é o correto, porque vossa fé cresce muito, e o amor de cada um de todos vós pelos outros é cada vez maior;
+#v 4 %v De maneira que nós mesmos nos orgulhamos de vós nas igrejas de Deus, por causa de vossa paciência e fé, em todas as vossas perseguições aflições que suportais;
+#v 5 %v  #ad Que é %ad prova clara do justo julgamento de Deus, para que sejais considerados dignos do Reino de Deus, pelo qual também sofreis;
+#v 6 %v Pois é justo diante de Deus pagar com aflição aos que vos afligem;
+#v 7 %v E a vós que sois afligidos, alívio conosco, quando o Senhor Jesus aparecer do céu com os anjos de seu poder,
+#v 8 %v Com labareda de fogo, vingando os que não conhecem a Deus, e os que não obedecem ao Evangelho do nosso Senhor Jesus Cristo,
+#v 9 %v Os quais serão punidos com o castigo da eterna perdição, #ad longe %ad da face do Senhor, e da glória de sua força;
+#v 10 %v Quando ele vier para ser glorificado em seus santos, e naquele dia se fazer admirável em todos os que creem (porque nosso testemunho entre vós foi crido).
+#v 11 %v Por isso que também sempre rogamos por vós, que nosso Deus vos faça dignos do chamamento, e cumpra todo bom desejo e a obra da fé com poder.
+#v 12 %v Para que o nome de nosso Senhor Jesus Cristo seja glorificado em vós, e vós nele, segundo a graça de nosso Deus, e do Senhor Jesus Cristo.
+
+#c 2 %c
+#v 1 %v Ora irmãos, nós vos rogamos quanto à vinda de nosso Senhor Jesus Cristo, e à nossa reunião com ele,
+#v 2 %v Que vós não vos abaleis facilmente em #ad vosso %ad entendimento, e não #ad vos %ad perturbeis, nem por espírito, nem por palavra, nem por carta como que #ad escrita %ad por nós, como se o dia de Cristo #ad já %ad estivesse perto.
+#v 3 %v Ninguém vos engane em maneira nenhuma; porque #ad não virá esse dia %ad sem que primeiro venha a apostasia, #fn _c apostasia – ou: rebelião %fn e se manifeste o homem {tr,rp:do pecado}{n4:da injustiça},{trnc: #fn _c N4: homem da injustiça %fn }{n4: #fn _c TR, RP: homem do pecado %fn } o filho da perdição.
+#v 4 %v O qual se opõe e se levanta sobre tudo o que se chama Deus, ou #ad sobre %ad tudo que é adorado; por isso ele se sentará no templo de Deus{tr,rp:, como #ad se fosse %ad Deus},{trnc: #fn _c N4 omite “como #ad se fosse %ad Deus” %fn }{n4: #fn _c TR, RP acrescentam “como #ad se fosse %ad Deus” %fn } fazendo-se parecer Deus.
+#v 5 %v Não vos lembrais, que enquanto ainda estava convosco, eu vos dizia estas coisas?
+#v 6 %v E agora sabeis o que o detém, para que a seu próprio tempo seja manifestado.
+#v 7 %v Porque o mistério da injustiça já opera; só #ad há %ad aquele que agora o detém, até que seja #ad tirado %ad do meio.
+#v 8 %v E então será manifestado aquele injusto, ao qual o Senhor destruirá, pelo sopro de sua boca, e o aniquilará pelo aparecimento de sua vinda;
+#v 9 %v  #ad Aquele injusto %ad cuja vinda é conforme o agir de Satanás, com todo poder, e sinais, e milagres falsos.
+#v 10 %v E com todo engano de injustiça nos que perecem; porque não receberam o amor da verdade para se salvarem.
+#v 11 %v E por isso Deus lhes enviará a ação do erro, para que creiam na mentira.
+#v 12 %v Para que sejam condenados todos os que não creram na verdade, mas tiveram prazer na injustiça.
+#v 13 %v Mas sempre devemos dar graças a Deus por vós, irmãos, que sois amados pelo Senhor, pois Deus vos escolheu desde o princípio para a salvação, em santificação do Espírito, e fé na verdade;
+#v 14 %v Para a qual ele vos chamou por meio do nosso Evangelho, para a obtenção da glória de nosso Senhor Jesus Cristo.
+#v 15 %v Portanto, irmãos, ficai firmes, e retende as tradições que vos foram ensinadas, seja por palavra, seja por carta nossa.
+#v 16 %v E ele mesmo, o nosso Senhor Jesus Cristo, e nosso Deus e Pai, que nos amou e em graça nos deu uma eterna consolação e boa esperança;
+#v 17 %v Ele console vossos corações, e vos fortaleça em toda boa palavra e obra.
+
+#c 3 %c
+#v 1 %v Nas demais coisas, irmãos, rogai por nós, para que a palavra do Senhor continue seu percurso, e seja glorificada, assim como também entre vós;
+#v 2 %v E para que sejamos livres de homens corruptos e maus, porque a fé não #ad é %ad de todos.
+#v 3 %v Mas fiel é o Senhor, que vos fortalecerá e vos guardará do maligno.
+#v 4 %v E confiamos no Senhor quanto a vós, de que vós estais fazendo e continuareis a fazer o que vos mandamos.
+#v 5 %v E o Senhor guie vossos corações para o amor de Deus e a paciência de Cristo.
+#v 6 %v Mas nós vos mandamos, irmãos, no nome de nosso Senhor Jesus Cristo, que mantenhais distância de todo irmão que anda desordenadamente, e não segundo a tradição que recebeu de nós.
+#v 7 %v Porque vós mesmos sabeis como deveis nos imitar; porque nós não fomos desordenados entre vós;
+#v 8 %v Nem comemos de graça o pão de qualquer um, mas sim com trabalho e cansaço trabalhamos de noite e de dia, para não sermos incômodos a nenhum de vós.
+#v 9 %v Não porque não tivéssemos autoridade #ad para fazer isso %ad , mas sim porque nós mesmos dávamos exemplo a vós, para #ad assim %ad nos imitardes.
+#v 10 %v Porque também quando estávamos convosco, isto vos mandávamos: que se alguém não quiser trabalhar, também não coma.
+#v 11 %v Porque ouvimos que alguns entre vós andam desordenadamente, não trabalhando, mas se intrometendo no trabalho dos outros.
+#v 12 %v Mas aos tais mandamos e exortamos, por nosso Senhor Jesus Cristo, que trabalhem sem causar incômodo, e comam seu próprio pão.
+#v 13 %v E vós, irmãos, não canseis de fazer o bem.
+#v 14 %v Mas se alguém não obedecer à nossa palavra #ad contida %ad nesta carta, adverti-o, e não vos mistureis com ele, para que ele se envergonhe;
+#v 15 %v E não o considereis como inimigo, mas alertai #ad -o %ad como um irmão.
+#v 16 %v E o mesmo Senhor da paz vos dê sempre paz em toda maneira. O Senhor #ad seja %ad com todos vós.
+#v 17 %v A saudação de minha própria mão, Paulo, que é #ad minha %ad assinatura em toda carta; assim escrevo.
+#v 18 %v A graça de nosso Senhor Jesus Cristo #ad seja %ad com todos vós. Amém.
+{tr: #ad A segunda carta aos tessalonicenses foi escrita de Atenas %ad }{trnc: #fn _c RP, N4 não contêm informação de onde a carta foi escrita %fn }

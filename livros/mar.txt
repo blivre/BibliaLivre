@@ -1,0 +1,1029 @@
+﻿#header
+#name Evangelho Segundo Marcos %name
+#ver 20130919 %ver
+#abbr Mc %abbr
+%header
+
+#c 1 %c
+#v 1 %v Princípio do Evangelho de Jesus Cristo{tr:, }{n4:<aot|}Filho de Deus{n4:|aot>}.{trnc: #fn _c N4 põe entre colchetes "Filho de Deus" %fn }{n4: #fn _c Uns poucos manuscritos não contêm "Filho de Deus" %fn }
+#v 2 %v Como está escrito {tr,rp:nos profetas}{n4:no profeta Isaías}:{trnc: #fn _c TR, RP: nos profetas - N4: no profeta Isaías %fn }{n4: #fn _c RP, TR contêm: "nos profetas" no lugar de "no profeta Isaías" %fn }
+ Eis que eu envio meu mensageiro diante de tua face, que preparará teu caminho diante de ti.
+#v 3 %v Voz do que clama no deserto:
+ Preparai o caminho do Senhor, endireitai suas veredas.
+#v 4 %v João estava batizando no deserto, e pregando o batismo de arrependimento para perdão dos pecados.
+#v 5 %v E saía até ele toda a província da Judeia, e os de Jerusalém; e eram todos batizados por ele no rio Jordão, confessando seus pecados.
+#v 6 %v E João andava vestido com #ad roupa de %ad pelos de camelo, e com um cinto de couro ao redor de sua cintura; e comia gafanhotos e mel do campo.
+#v 7 %v E pregava, dizendo:
+ Após mim vem o que é mais forte que eu; ao qual eu não sou digno de me abaixar #ad para %ad desatar a tira de suas sandálias.
+#v 8 %v Eu bem vos tenho batizado com água, mas ele vos batizará com Espírito Santo.
+#v 9 %v E aconteceu naqueles dias, que veio Jesus de Nazaré, da Galileia, e foi batizado por João no Jordão.
+#v 10 %v E logo, saindo da água, viu os céus se abrirem, e ao Espírito, que como pomba descia sobre ele.
+#v 11 %v E ouviu-se uma voz dos céus, #ad que dizia %ad :
+ Tu és meu Filho amado, em quem me agrado.
+#v 12 %v E logo o Espírito o conduziu ao deserto.
+#v 13 %v E esteve ali no deserto quarenta dias, tentado por Satanás; e estava com as feras, e os anjos o serviam.
+#v 14 %v E depois que João foi entregue #ad à prisão %ad , veio Jesus para a Galileia, pregando o Evangelho do Reino de Deus;
+#v 15 %v E dizendo:
+ O tempo é cumprido, e o Reino de Deus está perto; arrependei-vos, e crede no Evangelho.
+#v 16 %v E andando junto ao mar da Galileia, viu a Simão, e a André seu irmão, que lançavam a rede ao mar (porque eram pescadores);
+#v 17 %v E disse-lhes Jesus:
+ Vinde após mim, e farei serdes pescadores de gente.
+#v 18 %v E deixando logo suas redes, o seguiram.
+#v 19 %v E passando dali um pouco mais adiante, viu a Tiago #ad filho %ad de Zebedeu, e a João seu irmão, que #ad estavam %ad no barco, consertando suas redes.
+#v 20 %v E logo os chamou; e eles deixando a seu pai Zebedeu no barco com os empregados, foram após ele.
+#v 21 %v E entraram em Cafarnaum; e logo no sábado, entrando na sinagoga, ensinava.
+#v 22 %v E espantavam-se de sua doutrina, porque os ensinava como tendo autoridade, e não como os escribas.
+#v 23 %v E estava na sinagoga deles um homem com um espírito imundo, e clamou,
+#v 24 %v Dizendo:
+ Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Bem sei quem és, o Santo de Deus.
+#v 25 %v E Jesus o repreendeu, dizendo:
+ Cala-te, e sai dele.
+#v 26 %v E o espírito imundo, fazendo convulsão nele, e clamando com grande voz, saiu dele.
+#v 27 %v E de tal maneira se espantaram todos, que perguntavam entre si, dizendo:
+ Que é isto? Que nova doutrina é esta? Com que poder ele manda até aos espíritos imundos, e eles lhe obedecem?
+#v 28 %v E logo sua fama saiu por toda a província do redor da Galileia.
+#v 29 %v E saindo logo da sinagoga, vieram à casa de Simão, e de André, com Tiago e João.
+#v 30 %v E a sogra de Simão estava deitada com febre, e logo lhe disseram sobre dela.
+#v 31 %v Então ele, chegando-se a ela, tomou-a pela mão, e a levantou; e logo a febre a deixou, e ela os servia.
+#v 32 %v E vinda a tarde, quando já o sol se punha, traziam-lhe a todos os que se achavam mal, e aos endemoninhados.
+#v 33 %v E toda a cidade se juntou à porta.
+#v 34 %v E curou a muitos, que se achavam mal de diversas enfermidades; e expulsou muitos demônios; e não deixava os demônios falarem, porque o conheciam.
+#v 35 %v E levantando-se de manhã muito #ad cedo %ad , ainda escuro, saiu, e foi para um lugar deserto, e ali orava.
+#v 36 %v E o seguiu Simão, e os que #ad estavam %ad com ele;
+#v 37 %v E achando-o, disseram-lhe:
+ Todos te buscam.
+#v 38 %v E ele lhes disse:
+ Vamos para as aldeias vizinhas, para que eu também pregue ali, porque para isso eu vim.
+#v 39 %v E pregava em suas sinagogas por toda a Galileia, e expulsava aos demônios.
+#v 40 %v E veio um leproso a ele, suplicando-lhe, e pondo-se de joelhos diante dele, e dizendo-lhe:
+ Se quiseres, tu podes me limpar.
+#v 41 %v E Jesus, comovido de íntima compaixão, estendeu a mão, e tocou-o, e disse-lhe:
+ Quero; sê limpo.
+#v 42 %v E havendo ele dito #ad isto %ad , logo a lepra saiu dele, e ficou limpo.
+#v 43 %v E advertindo-o, logo o despediu de si.
+#v 44 %v E disse-lhe:
+ Olha que não digas nada a ninguém; mas vai, mostra-te ao Sacerdote, e oferece por tua limpeza o que Moisés mandou, para que lhes haja testemunho.
+#v 45 %v Mas tendo ele saído, começou a anunciar muitas coisas, e a divulgar a palavra #ad sobre o que acontecera %ad ; de maneira que #ad Jesus %ad já não podia entrar publicamente na cidade; mas estava fora em lugares desertos, e #ad pessoas %ad de todas as partes vinham até ele.
+
+#c 2 %c
+#v 1 %v E dias depois, entrou outra vez em Cafarnaum, e ouviu-se que estava em casa.
+#v 2 %v E logo se juntaram tantos, que nem ainda junto à porta #ad os %ad cabiam; e falava a palavra para eles.
+#v 3 %v E vieram a ele #ad uns %ad que traziam um paralítico carregado por quatro.
+#v 4 %v E não podendo chegar a ele, por causa da multidão, descobriram o telhado onde estava, e fazendo um buraco, abaixaram #ad por ele %ad o leito em que jazia o paralítico.
+#v 5 %v E vendo Jesus a fé deles, disse ao paralítico:
+ Filho, teus pecados te são perdoados.
+#v 6 %v E estavam ali sentados alguns dos escribas, que questionavam em seus corações:
+#v 7 %v Por que este fala tais blasfêmias? Quem pode perdoar pecados, a não ser somente Deus?
+#v 8 %v E Jesus logo conhecendo em seu espírito, que assim se questionavam dentro de si, disse-lhes:
+ Por que questionais estas coisas em vossos corações?
+#v 9 %v O que é mais fácil? Dizer ao paralítico:
+ Teus pecados te são perdoados? 
+ ou dizer: 
+ Levanta-te, e toma teu leito, e anda?
+#v 10 %v Mas para que saibais que o Filho do homem tem poder na terra para perdoar pecados,
+(disse ao paralítico):
+#v 11 %v A ti eu te digo: levanta-te, toma teu leito, e vai para tua casa.
+#v 12 %v E logo se levantou; e tomando o leito, saiu na presença de todos; de tal maneira, que todos se espantaram, e glorificaram a Deus, dizendo:
+ Nunca vimos #ad algo %ad assim.
+#v 13 %v E voltou a sair para o mar, e toda a multidão vinha até ele, e ensinava-os.
+#v 14 %v E ele passando, viu a Levi, o #ad filho %ad de Alfeu, sentado na coletoria de impostos, e disse-lhe: Segue-me;
+e levantando-se, #ad Levi %ad o seguiu.
+#v 15 %v E aconteceu que, estando ele sentado #ad à mesa %ad em sua casa, muitos cobradores de impostos e pecadores também estavam também sentados #ad à mesa %ad com Jesus e seus discípulos; porque eram muitos, e o tinham seguido.
+#v 16 %v E os escribas e os fariseus, vendo-o comer com os cobradores de impostos e pecadores, disseram a seus discípulos:
+ Por que #ad motivo %ad que #ad Jesus %ad come e bebe com os cobradores de impostos e pecadores?
+#v 17 %v E Jesus, ouvindo, disse-lhes:
+ Os sãos não necessitam de médico, mas sim os que estão doentes; eu não vim para chamar os justos, mas sim os pecadores{tr,rp: ao arrependimento}.{trnc: #fn _c N4 omite "ao arrependimento" %fn }{n4: #fn _c RP, TR contêm: "os pecadores ao arrependimento" %fn }
+#v 18 %v E os discípulos de João e os dos fariseus jejuavam; e vieram, e lhe disseram:
+ Por que os discípulos de João e os dos fariseus jejuam, e teus discípulos não jejuam?
+#v 19 %v E Jesus lhes disse:
+ Podem os convidados #fn _c convidados – lit. filhos %fn do casamento jejuar, enquanto o noivo estiver com eles? Enquanto tiverem o noivo consigo, eles não podem jejuar.
+#v 20 %v Mas dias virão, quando o noivo lhes for tirado; e então naqueles dias jejuarão.
+#v 21 %v E ninguém costura remendo de pano novo em roupa velha; senão o remendo novo rompe o velho, e se faz pior rasgo.
+#v 22 %v E ninguém põe vinho novo em odres velhos; senão o vinho novo rompe os odres, e derrama-se o vinho, e os odres se danificam; mas o vinho novo deve ser posto em odres novos.
+#v 23 %v E aconteceu que, passando ele pelas plantações no sábado, e seus discípulos começaram a arrancar espigas #ad enquanto %ad andavam.
+#v 24 %v E disseram-lhe os fariseus:
+ Vês #ad isto %ad ? Por que fazem o que não é lícito no sábado?
+#v 25 %v E ele lhes disse:
+ Nunca lestes o que fez Davi, quando tinha necessidade e fome, ele e os que #ad estavam %ad com ele?
+#v 26 %v Como entrou na Casa de Deus, no tempo de Abiatar sumo sacerdote, e comeu os pães da proposição (dos quais não é lícito comer, a não ser aos sacerdotes), e também deu aos que estavam com ele?
+#v 27 %v E dizia-lhes:
+ O sábado foi feito por causa do ser humano, não o ser humano por causa do sábado.
+#v 28 %v Portanto o Filho do homem é Senhor até do sábado.
+
+#c 3 %c
+#v 1 %v E entrou outra vez na sinagoga; e estava ali um homem, que tinha uma mão ressequida.
+#v 2 %v E prestavam atenção nele, se no sábado o curaria, para o acusarem.
+#v 3 %v E disse ao homem que tinha a mão ressequida:
+ Levanta-te, #ad e fica %ad no meio #ad da sinagoga %ad .
+#v 4 %v E disse-lhes:
+ #ad O que %ad é lícito no sábado? Fazer o bem, ou fazer mal? Salvar uma pessoa, ou matá-la? 
+E eles calavam.
+#v 5 %v E olhando para eles ao redor com irritação, sentindo incômodo pela dureza do coração deles, disse ao homem:
+ Estende tua mão; 
+e ele estendeu; e foi sua mão restaurada sã como a outra.
+#v 6 %v E saindo os fariseus, tiveram logo conselho juntamente com os herodianos contra ele, #ad sobre %ad como o matariam.
+#v 7 %v E retirou-se Jesus com seus discípulos para o mar; e seguiu-o uma grande multidão da Galileia, e da Judeia.
+#v 8 %v E de Jerusalém, e da Idumeia, e de além do Jordão; e grande multidão dos de perto de Tiro, e de Sídon, ouvindo quão grandes coisas fazia, vieram a ele.
+#v 9 %v E disse a seus discípulos que o barquinho ficasse constantemente perto dele, por causa das multidões; para que não lhe tumultuassem.
+#v 10 %v Porque tinha curado a muitos, de tal maneira que todos quantos tinham #ad algum %ad mal, caíam sobre ele, para tocá-lo.
+#v 11 %v E os espíritos imundos, vendo-o, se prostravam diante dele, e clamavam, dizendo:
+ Tu és o Filho de Deus.
+#v 12 %v E ele os ameaçava muito, que não manifestassem #ad quem %ad ele #ad era %ad .
+#v 13 %v E subiu ao monte, e chamou a si aos que quis, e vieram a ele.
+#v 14 %v E ordenou aos doze para que estivessem com ele, e para mandá-los para pregar.
+#v 15 %v E para que tivessem poder para curarem as enfermidades, e lançarem fora aos demônios.
+#v 16 %v  #ad Ele chamou a %ad Simão, #ad a quem %ad pôs por nome, Pedro;
+#v 17 %v E a Tiago #ad filho %ad de Zebedeu, e a João, irmão de Tiago; e pôs-lhes por nome, Boanerges, que é: filhos do trovão.
+#v 18 %v E a André, e a Filipe, e a Bartolomeu, e a Mateus, e a Tomé, e a Tiago #ad filho %ad de Alfeu, e a Tadeu, e a Simão o Cananeu.
+#v 19 %v E a Judas Iscariotes, o que também o traiu.
+#v 20 %v E indo para casa, outra vez se juntou a multidão, de tal maneira, que nem sequer podiam comer pão.
+#v 21 %v E quando os seus #ad conhecidos %ad ouviram isto, saíram para prendê-lo; porque diziam:
+ Está fora de si.
+#v 22 %v E os escribas, que desceram de Jerusalém, diziam:
+ #ad Ele %ad tem a Belzebu, e pelo chefe dos demônios lança fora aos demônios.
+#v 23 %v E chamando-os a si, disse-lhes por parábolas:
+ Como pode Satanás lançar fora a Satanás?
+#v 24 %v E se algum reino contra si mesmo estiver dividido, tal reino não pode permanecer.
+#v 25 %v E se alguma casa estiver dividida contra si mesma, tal casa não pode permanecer.
+#v 26 %v E se Satanás se levantar contra si mesmo, e for dividido, não pode permanecer, mas tem fim.
+#v 27 %v Ninguém pode roubar os bens do valente, entrando em sua casa, se antes não amarrar ao valente; e então roubará sua casa.
+#v 28 %v Em verdade vos digo, que todos os pecados serão perdoados aos filhos dos homens, e todas as blasfêmias com que blasfemarem;
+#v 29 %v Porém qualquer que blasfemar contra o Espírito Santo, para sempre não tem perdão; mas é culpado do eterno juízo.
+#v 30 %v Porque diziam:
+ #ad Ele %ad tem espírito imundo.
+#v 31 %v Vieram pois seus irmãos e a sua mãe; e estando de fora, mandaram #ad avisar %ad a ele, chamando-o.
+#v 32 %v E a multidão estava sentada ao redor dele; e disseram-lhe:
+ Eis que tua mãe e teus irmãos te buscam lá fora.
+#v 33 %v E ele lhes respondeu, dizendo:
+ Quem é minha mãe, e meus irmãos?
+#v 34 %v E olhando ao redor para os que estavam sentados perto dele estavam assentados, disse:
+ Eis aqui minha mãe, e meus irmãos.
+#v 35 %v Porque qualquer que fizer a vontade de Deus, este é meu irmão, e minha irmã, e #ad minha %ad mãe.
+
+#c 4 %c
+#v 1 %v E começou outra vez a ensinar junto ao mar, e uma grande multidão se juntou a ele, de tal maneira que, entrando em um barco, se sentou no mar; e toda a multidão estava em terra junto ao mar.
+#v 2 %v E ensinava-lhes muitas coisas por parábolas; e dizia-lhes em sua doutrina:
+#v 3 %v Ouvi: eis que o semeador saiu para semear;
+#v 4 %v E aconteceu que, semeando ele, caiu uma #ad parte das sementes %ad junto ao caminho, e vieram os pássaros do céu, e a comeram.
+#v 5 %v E outra caiu em pedregais, onde não tinha muita terra; e logo nasceu, porque não tinha terra profunda.
+#v 6 %v Mas saindo o sol, queimou-se; e porque não tinha raiz, secou-se.
+#v 7 %v E outra caiu entre espinhos, e cresceram os espinhos, e sufocaram-na, e não deu fruto.
+#v 8 %v E outra caiu em boa terra, e deu fruto, que subiu, e cresceu; e deu um trinta, e outro sessenta, e outro cem.
+#v 9 %v E disse-lhes:
+ Quem tem ouvidos para ouvir, ouça.
+#v 10 %v E quando esteve só, perguntaram-lhe os que #ad estavam %ad junto a ele, com os doze, sobre a parábola.
+#v 11 %v E disse-lhes:
+ A vós é dado saber os mistérios do Reino de Deus; mas aos que #ad são %ad de fora, todas estas coisas se fazem por parábolas.
+#v 12 %v Para que vendo, vejam, e não percebam; e ouvindo, ouçam, e não entendam; para que não venham a se converter, e lhes sejam perdoados os pecados.
+#v 13 %v E disse-lhes:
+ Não sabeis esta parábola? Como pois entendereis todas as parábolas?
+#v 14 %v O semeador #ad é o que %ad semeia a palavra.
+#v 15 %v E estes são os de junto ao caminho: nos que a palavra se semeia; mas havendo a ouvido, vem logo Satanás, e tira a palavra que foi semeada em seus corações.
+#v 16 %v E semelhantemente estes são os que se semeiam em pedregais: os que havendo ouvido a palavra, logo a recebem com alegria.
+#v 17 %v Mas não têm raiz em si mesmos; antes são temporários. Depois, levantando-se a tribulação, ou perseguição por causa da palavra, logo se ofendem.
+#v 18 %v E estes são os que se semeiam entre espinhos: os que ouvem a palavra.
+#v 19 %v E as preocupações deste mundo, e o engano das riquezas, e as cobiças pelas outras coisas, entrando, sufocam a palavra, e fica sem fruto.
+#v 20 %v E estes são os que foram semeados em boa terra: os que ouvem a palavra, e a recebem, e dão fruto, um trinta, e outro sessenta, e outro cem.
+#v 21 %v E ele lhes disse:
+ Por acaso a lâmpada vem para ser posta debaixo da caixa de grãos ou debaixo da cama? Ora, não #ad é ela %ad para se pôr na luminária?
+#v 22 %v Porque não há nada encoberto que não venha a ser manifesto; nem nada se faz #ad para ficar %ad encoberto, mas para ser descoberto.
+#v 23 %v Se alguém tem ouvidos para ouvir, ouça.
+#v 24 %v E disse-lhes:
+ Prestai atenção ao que ouvis: com a medida que medirdes vos medirão; e será acrescentado a vós o que ouvis.
+#v 25 %v Porque ao que tem, lhe será dado; e ao que não tem, até o que tem lhe será tirado.
+#v 26 %v E dizia:
+ Assim é o Reino de Deus, como se o homem lançasse semente na terra.
+#v 27 %v E dormisse, e se levantasse de noite e de dia, e a semente brotasse, e crescesse, não sabendo ele como.
+#v 28 %v Porque de si mesma frutifica a terra, primeiro erva, depois espiga, depois grão cheio na espiga.
+#v 29 %v E quando já o fruto se mostra, logo lhe envia a foice, porquanto chegada é a ceifa.
+#v 30 %v E dizia:
+ A que faremos o Reino de Deus semelhante? Ou com que parábola o compararemos?
+#v 31 %v Com o grão da mostarda, que quando se semeia na terra, é o menor de todas as sementes que #ad há %ad na terra.
+#v 32 %v E sendo já semeado, cresce, e se faz a maior de todas as hortaliças, e cria grandes ramos, de tal maneira que os pássaros do céu possam fazer ninhos debaixo de sua sombra.
+#v 33 %v E com muitas tais parábolas lhes falava a palavra, segundo o que podiam ouvir.
+#v 34 %v E não lhes falava sem parábola; mas a seus discípulos declarava tudo em particular.
+#v 35 %v E disse-lhes aquele dia, vinda já a tarde:
+ Passemos para o outro lado.
+#v 36 %v E deixando a multidão, o tomaram consigo assim como estava no barco, e havia também com ele outros barquinhos.
+#v 37 %v E levantou-se uma grande tempestade de vento, e davam as ondas por cima do barco, de tal maneira que já se enchia.
+#v 38 %v E ele estava na popa dormindo sobre uma almofada, e despertaram-no, e disseram-lhe:
+ Mestre, não te preocupas de que nos perecemos?
+#v 39 %v E tendo ele despertado, repreendeu ao vento, e disse ao mar:
+ Cala-te, aquieta-te! 
+E o vento se aquietou, e fez-se grande bonança.
+#v 40 %v E disse a eles:
+ Por que sois tão covardes? Como não tendes fé?
+#v 41 %v E temeram com grande temor, e diziam uns aos outros:
+ Mas quem é este, que até o vento e o mar lhe obedecem?
+
+#c 5 %c
+#v 1 %v E vieram para o outro lado do mar, à terra dos Gadarenos.
+#v 2 %v E saindo ele do barco, logo lhe saiu ao encontro um homem das sepulturas com um espírito imundo,
+#v 3 %v Que tinha #ad sua %ad morada nas sepulturas, e ninguém podia prendê-lo, nem mesmo com cadeias.
+#v 4 %v Porque muitas vezes fora ligado com grilhões e cadeias, e as cadeias foram por ele feitas em pedaços, e os grilhões em migalhas, e ninguém o podia amansar.
+#v 5 %v E sempre dia e noite andava clamando pelos montes, e pelas sepulturas, e ferindo-se com pedras.
+#v 6 %v E quando viu a Jesus de longe, correu, e adorou-o.
+#v 7 %v E clamando com grande voz, disse:
+ Que tenho eu contigo Jesus, Filho do Deus Altíssimo? Ordeno-te por Deus, que não me atormentes.
+#v 8 %v (Porque lhe dizia:
+ Sai deste homem, espírito imundo.)
+#v 9 %v E perguntou-lhe:
+ Qual é teu nome? 
+E respondeu, dizendo: 
+ Legião é meu nome, porque somos muitos.
+#v 10 %v E suplicava-lhe muito que não os enviasse fora daquela terra.
+#v 11 %v E estava ali junto aos montes uma grande manada de porcos se alimentando.
+#v 12 %v E suplicaram-lhe todos #ad aqueles %ad demônios, dizendo:
+ Manda-nos para aqueles porcos, para que entremos neles.
+#v 13 %v E Jesus logo permitiu-lhes. E saindo aqueles espíritos imundos, entraram nos porcos; e a manada se lançou do alto abaixo no mar; (e eram quase dois mil #ad porcos %ad ) e afogaram-se no mar.
+#v 14 %v E os que alimentavam os porcos fugiram, e avisaram na cidade, e nos campos; e saíram para ver o que era aquilo que tinha acontecido.
+#v 15 %v E vieram a Jesus, e viram ao endemoninhado sentado, e vestido; e em sã consciência ao que tivera a legião; e temeram.
+#v 16 %v E os que aquilo tinham visto contaram-lhes o que acontecera ao endemoninhado, e #ad também %ad sobre os porcos.
+#v 17 %v E começaram a suplicar-lhe que se saísse dos limites de sua terra.
+#v 18 %v E entrando ele no barco, o que fora endemoninhado suplicava-lhe que #ad o deixasse %ad estar com ele.
+#v 19 %v Mas Jesus não lhe permitiu, mas disse-lhe:
+ Vai para tua casa, aos teus, e anuncia-lhes quão grandes coisas o Senhor te fez, e #ad como %ad teve misericórdia de ti.
+#v 20 %v E #ad ele %ad se foi, e começou a anunciar em Decápolis quão grandes coisas Jesus lhe fizera; e todos se maravilhavam.
+#v 21 %v E passando Jesus outra vez em um barco para o outro lado, uma grande multidão se juntou a ele; e ele estava junto ao mar.
+#v 22 %v E eis que veio um dos chefes da sinagoga, por nome Jairo; e quando o viu, prostrou-se a seus pés.
+#v 23 %v E suplicava-lhe muito, dizendo:
+ Minha filhinha está quase morta; #ad rogo-te %ad que venhas, e ponhas as mãos sobre ela, para que sare, e ela viverá.
+#v 24 %v E foi com ele, e uma grande multidão o seguia, e o apertavam.
+#v 25 %v E uma certa mulher, que tinha um fluxo de sangue havia doze anos,
+#v 26 %v E tinha sofrido muito por meio de muitos médicos, e gastado tudo quanto tinha, e nada tinha lhe dado bom resultado, mas ao invés disso ela tinha piorado.
+#v 27 %v  #ad Ela %ad , ao ouvir sobre Jesus, veio entre a multidão por detrás, e tocou a roupa dele.
+#v 28 %v Porque dizia:
+ Se tão somente tocar sua roupa, sararei.
+#v 29 %v E logo a fonte de seu sangue se secou; e sentiu em #ad seu %ad corpo que já tinha sido curada daquele flagelo.
+#v 30 %v E Jesus, logo percebendo em si mesmo a virtude que dele tinha saído, virando-se na multidão, disse:
+ Quem tocou minhas roupas?
+#v 31 %v E seus discípulos lhe disseram:
+ Eis que a multidão te aperta, e dizes: 
+ Quem me tocou?
+#v 32 %v E ele olhava ao redor, para ver quem tinha lhe feito isto.
+#v 33 %v Então a mulher temendo, e tremendo, sabendo o que havia sido feito em si, veio, e prostrou-se diante dele, e disse-lhe toda a verdade.
+#v 34 %v E ele lhe disse:
+ Filha, tua fé te salvou, vai em paz, e estejas sarada deste teu flagelo.
+#v 35 %v Estando ele ainda falando, vieram #ad alguns %ad do chefe da sinagoga, dizendo:
+ Tua filha está morta; por que ainda incomodas ao Mestre?
+#v 36 %v E Jesus, logo #ad depois de %ad ouvir esta mensagem que estava sendo falada, disse ao chefe da sinagoga:
+ Não temas, crê somente.
+#v 37 %v E não permitiu que ninguém o seguisse, a não ser Pedro, Tiago, e João o irmão de Tiago.
+#v 38 %v E veio à casa do chefe da sinagoga, e viu o tumulto, #ad e %ad os que muito choravam, e pranteavam.
+#v 39 %v E ao entrar, disse-lhes:
+ Por que vós tumultuais e chorais? A menina não está morta, mas sim está dormindo.
+#v 40 %v E riam dele. Porém ele, tendo expulsado a todos, tomou consigo ao pai e à mãe da menina, e aos que #ad estavam %ad com ele; e entrou onde a menina estava deitada.
+#v 41 %v E tomando a mão da menina, disse-lhe:
+ Talita cumi; 
+(que traduzido é: 
+ Menina, eu te digo, levanta-te).
+#v 42 %v E logo a menina se levantou, e andava, porque já era de doze anos; e espantaram-se com grande espanto.
+#v 43 %v E mandou-lhes muito, que ninguém o soubesse; e disse que dessem a ela de comer.
+
+#c 6 %c
+#v 1 %v E partiu-se dali, e veio à sua terra, e seus discípulos o seguiram.
+#v 2 %v E chegado o sábado, começou a ensinar na sinagoga; e muitos, ouvindo-o, se espantavam, dizendo:
+ De onde #ad vem %ad a este estas coisas? E que sabedoria é esta que lhe é dada? E tais maravilhas que por suas mãos se fazem?
+#v 3 %v Não é este o carpinteiro, filho de Maria, e irmão de Tiago, e de José, e de Judas, e de Simão? E não estão aqui conosco suas irmãs?
+E ofendiam-se nele.
+#v 4 %v E Jesus lhes dizia:
+ Não há profeta sem honra, a não ser em sua terra, e entre #ad seus %ad parentes, e em sua casa.
+#v 5 %v E não podia ali fazer nenhuma maravilha; somente, pondo as mãos sobre uns poucos enfermos, os curou.
+#v 6 %v E estava maravilhado da incredulidade #ad deles %ad . E percorria as aldeias do redor, ensinando.
+#v 7 %v E chamou a si aos doze, e começou a enviar de dois em dois; e deu-lhes poder sobre os espíritos imundos.
+#v 8 %v E mandou-lhes que não tomassem nada para o caminho, senão somente um bastão de apoio; nem bolsa, nem pão, nem dinheiro na cinta.
+#v 9 %v Mas que calçassem sandálias; e não se vestissem de duas túnicas.
+#v 10 %v E dizia-lhes:
+ Onde quer que entrardes em casa alguma, ficai ali até que dali saiais.
+#v 11 %v E todos aqueles que não vos receberem, nem vos ouvirem, saindo dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles.{tr,rp: Em verdade vos digo, que mais tolerável será a #ad os de %ad Sodoma ou Gomorra no dia do juízo, do que a #ad os d %ad aquela cidade}.{trnc: #fn _c N4 omite "Em verdade vos digo (...) a #ad os d %ad aquela cidade" %fn }{n4: #fn _c TR, RP, acrescentam ao final do versículo: "Em verdade vos digo, que mais tolerável será a #ad os de %ad Sodoma ou Gomorra no dia do juízo, do que a #ad os d %ad aquela cidade". Compare com Mateus 10:15 %fn }
+#v 12 %v E saindo eles, pregavam que se arrependessem.
+#v 13 %v E expulsavam a muitos demônios, e ungiam com azeite a muitos enfermos, e os curavam.
+#v 14 %v E ouviu-o o rei Herodes (porque já seu nome era notório) e disse:
+ João, o que batizava, é ressuscitado dos mortos; e portanto estas maravilhas operam nele.
+#v 15 %v Outros diziam:
+ É Elias; 
+e outros diziam: 
+ É profeta, ou #ad é %ad como algum dos profetas.
+#v 16 %v Porém ouvindo Herodes #ad isto %ad , disse:
+ Este é João, ao qual eu cortei a cabeça; #ad ele %ad é ressuscitado dos mortos.
+#v 17 %v Porque o mesmo Herodes tinha enviado, e prendido a João, e tinha o acorrentado na prisão, por causa de Herodias, mulher de Filipe seu irmão, porque se casara com ela.
+#v 18 %v Porque João dizia a Herodes:
+ Não te é lícito ter a mulher de teu irmão.
+#v 19 %v E Herodias o espiava, e o queria matar, e não podia.
+#v 20 %v Porque Herodes temia a João, sabendo que era homem justo e santo, e o estimava; e ao ouvi-lo, fazia #ad -lhe %ad muitas coisas, e o ouvia com agrado.
+#v 21 %v E vindo um dia oportuno, em que Herodes, no dia de seu nascimento, dava uma ceia a seus grandes, e comandantes, e aos chefes da galileia;
+#v 22 %v E entrando a filha da mesma Herodias, e dançando, e agradando a Herodes, e aos que estavam juntamente #ad com ele %ad ; disse o Rei à menina:
+ Pede-me quanto quiseres, e eu darei a ti.
+#v 23 %v E jurou-lhe:
+ Tudo o que me pedirdes te darei, até a metade de meu reino.
+#v 24 %v E saindo ela, disse a sua mãe:
+ Que pedirei? 
+E ela disse: 
+ A cabeça de João Batista.
+#v 25 %v E entrando ela logo apressadamente ao rei, pediu, dizendo:
+ Quero que agora logo me dês em um prato a cabeça de João Batista.
+#v 26 %v E o rei se entristeceu muito; #ad mas %ad por causa dos juramentos, e dos que juntamente à mesa estavam, não quis negar a ela.
+#v 27 %v E logo o rei, enviando o executor, mandou trazer ali sua cabeça. E ele, tendo ido, decapitou-o na prisão;
+#v 28 %v E trouxe sua cabeça em um prato, e o deu à menina; e a menina a deu a sua mãe.
+#v 29 %v E ouvindo-o seus discípulos, vieram e tomaram seu corpo morto, e o puseram em um sepulcro.
+#v 30 %v E os apóstolos #ad voltaram %ad a se juntar a Jesus, e anunciaram-lhe tudo, tanto o que tinham feito, como o que tinham ensinado.
+#v 31 %v E ele lhes disse:
+ Vinde vós aqui à parte a um lugar deserto, e repousai um pouco; porque havia muitos que iam e vinham, e não tinham lugar de comer.
+#v 32 %v E foram-se em um barco, a um lugar deserto à parte.
+#v 33 %v E as multidões os viram ir, e muitos o conheceram; e correram para lá a pé de todas as cidades, e vieram antes que eles, e chegavam-se a ele.
+#v 34 %v E saindo Jesus, viu uma grande multidão, e moveu-se a íntima misericórdia deles; porque eram como ovelhas que não têm pastor, e começou-lhes a ensinar muitas coisas.
+#v 35 %v E quando já era a hora tardia, vieram seus discípulos a ele, e disseram:
+ O lugar é deserto, e a hora já é tardia;
+#v 36 %v Despede-os, para que vão aos lugares e aldeias ao redor, e comprem pão para si; porque não têm que comer.
+#v 37 %v Porém respondendo ele, disse-lhes:
+ Dai-lhes vós de comer. 
+E eles lhe disseram: 
+ Iremos #ad pois %ad , e compraremos duzentos dinheiros de pão, e lhes daremos de comer?
+#v 38 %v E ele lhes disse:
+ Quantos pães tendes? Ide, e vede. 
+E eles sabendo-o, disseram: 
+ Cinco, e dois peixes.
+#v 39 %v E mandou-lhes que fizessem sentar a todos em grupos sobre a erva verde.
+#v 40 %v E sentaram-se repartidos de cem em cem, e de cinquenta em cinquenta.
+#v 41 %v E tomando ele os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e deu-os a seus discípulos, para que os pusessem diante deles. E os dois peixes repartiu a todos.
+#v 42 %v E comeram todos, e fartaram-se.
+#v 43 %v E levantaram dos pedaços doze cestos cheios, e dos peixes.
+#v 44 %v E eram os que comeram os pães quase cinco mil homens.
+#v 45 %v E logo ordenou a seus discípulos a subirem no barco, e ir diante para o outro lado, em Betsaida, enquanto que ele despedia a multidão.
+#v 46 %v E havendo-os despedido, foi ao monte para orar.
+#v 47 %v E vinda a tarde, estava o barco no meio do mar, e ele só em terra.
+#v 48 %v E viu que se cansavam muito remando, (porque o vento lhes era contrário); e perto da quarta vigília da noite, veio a eles andando sobre o mar, e queria passar deles.
+#v 49 %v E eles, vendo-o andar sobre o mar, pensaram que era fantasma, e deram grandes gritos.
+#v 50 %v Porque todos o viam, e se perturbaram; e logo falou com eles, e disse-lhes:
+ Tende bom ânimo, sou eu, não temais.
+#v 51 %v E subiu a eles no barco, e o vento se aquietou; e grandemente se espantavam entre si, e se maravilhavam.
+#v 52 %v Porque não tinham entendido #ad ainda o milagre %ad dos pães; porque o coração deles estava endurecido.
+#v 53 %v E quando terminaram de atravessar o mar, vieram à terra de Genesaré, e ali aportaram.
+#v 54 %v E saindo eles do barco, logo o conheceram.
+#v 55 %v  #ad E %ad correndo de toda a terra ao redor, começaram a trazer em camas os doentes, aonde quer que ouviam que estava.
+#v 56 %v E aonde quer que entrava, em lugares, ou cidades, ou aldeias, punham nas praças aos enfermos, e suplicavam-lhe que somente tocassem a borda de sua roupa; e todos os que o tocavam, saravam.
+
+#c 7 %c
+#v 1 %v E juntaram-se a ele os fariseus, e alguns dos escribas, que tinham vindo de Jerusalém.
+#v 2 %v E vendo que alguns de seus discípulos comiam pão com mãos impuras, isto é, sem lavar, repreendiam #ad -lhes %ad .
+#v 3 %v (Porque os fariseus, e todos os judeus, retendo a tradição dos antigos, se não lavarem bastante as mãos, não comem.
+#v 4 %v E #ad voltando %ad do mercado, se não se lavarem, não comem; e há muitas outras coisas, que procuram guardar, #ad como %ad o lavar dos copos, e das vasilhas, e dos vasos de metal, e das camas).
+#v 5 %v Depois lhe perguntaram os fariseus e os escribas:
+ Por que teus discípulos não andam conforme a tradição dos antigos, mas comem pão com as mãos sem lavar?
+#v 6 %v Porém respondendo ele, disse-lhes:
+ Bem profetizou Isaías sobre vós, hipócritas; como está escrito: 
+ Este povo me honra com os lábios, mas seu coração está longe de mim.
+#v 7 %v Porém #ad eles %ad me honram em vão, ensinando doutrinas #ad e %ad mandamentos humanos.
+#v 8 %v Porque, deixando o mandamento de Deus, retendes a tradição humana{tr,rp:, #ad como %ad o lavar das vasilhas, e dos copos; e fazeis outras muitas coisas semelhantes a estas}.{trnc: #fn _c N4 omite " #ad como %ad o lavar (...) semelhantes a estas %fn }{n4: #fn _c RP, TR adicionam " #ad como %ad o lavar das vasilhas, e dos copos; e fazeis outras muitas coisas semelhantes a estas" no final do versículo %fn }
+#v 9 %v E dizia-lhes:
+ Bem invalidais o mandamento de Deus, para guardardes vossa tradição.
+#v 10 %v Porque Moisés disse:
+ Honra a teu pai, e a tua mãe. E quem maldisser ao pai, ou à mãe, morrerá de morte.
+#v 11 %v Porém vós dizeis:
+ Se o homem disser ao pai ou à mãe: 
+ Tudo o que te puder aproveitar de mim é Corbã (isto é, oferta), 
+ #ad fica livre da obrigação %ad .
+#v 12 %v E não lhe deixais mais nada fazer por seu pai, ou por sua mãe.
+#v 13 %v Invalidando #ad assim %ad a palavra de Deus por vossa tradição, que vós ordenastes; e #ad fazeis %ad muitas coisas semelhantes a estas.
+#v 14 %v E chamando para si toda a multidão, disse-lhes:
+ Ouvi-me todos, e entendei:
+#v 15 %v Nada há fora do ser humano que nele entre, que o possa contaminar; mas o que dele sai, isso é o que contamina o ser humano.
+#v 16 %v {tr,rp:Se alguém tem ouvidos para ouvir, ouça.}{trnc: #fn _c N4 omite todo o versículo 16. Compare com Marcos 4:9,23 %fn }{n4:--- #fn _c N não contém o versículo 16, presente em RP e TR. Compare com Marcos 4:9,23 %fn }
+#v 17 %v E quando entrou em casa, #ad saindo %ad da multidão, seus discípulos lhe perguntaram #ad sobre %ad a parábola.
+#v 18 %v E ele lhes disse:
+ Assim vós também estais sem entendimento? Não entendeis que tudo o que de fora entra no ser humano não o pode contaminar?
+#v 19 %v Porque não entra em seu coração, mas no ventre, e sai para a privada, limpando todas as comidas.
+#v 20 %v E dizia:
+ O que sai do ser humano, isso contamina o ser humano.
+#v 21 %v Porque de dentro do coração humano saem os maus pensamentos, os adultérios, as fornicações, os homicídios,
+#v 22 %v Os furtos, as avarezas, as maldades, o engano, a depravação, o mau olho, a blasfêmia, a soberba, a estupidez.
+#v 23 %v Todos estes males de dentro procedem, e contaminam o ser humano.
+#v 24 %v E levantando-se dali, foi para os limites de Tíro e de Sídon; e entrando em uma casa, não quis que ninguém o soubesse, e #ad contudo %ad não pôde se esconder;
+#v 25 %v Porque uma mulher, cuja filhinha tinha um espírito imundo, ouvindo dele, veio, e lançou-se a seus pés.
+#v 26 %v E esta mulher era grega, de nacionalidade siro-fenícia; e suplicava-lhe que expulsasse ao demônio de sua filha.
+#v 27 %v Mas Jesus lhe disse:
+ Deixa primeiro fartar aos filhos; porque não é bom tomar o pão dos filhos, e lançá-lo aos cachorrinhos.
+#v 28 %v Porém ela respondeu, e disse-lhe:
+ Sim Senhor; mas também os cachorrinhos comem debaixo da mesa, das migalhas dos filhos.
+#v 29 %v Então ele lhe disse:
+ Por esta palavra, vai, o demônio já saiu de tua filha.
+#v 30 %v E vindo ela a sua casa, encontrou que o demônio já havia saído, e a filha deitada sobre a cama.
+#v 31 %v E voltando ele a sair dos limites de Tiro e de Sídon, veio para o mar da Galileia, por meio dos limites de Decápolis.
+#v 32 %v E trouxeram-lhe um surdo, que dificilmente falava, e rogaram-lhe que pusesse a mão sobre ele.
+#v 33 %v E tomando-o à parte da multidão, meteu-lhe seus dedos nos ouvidos, e cuspindo, tocou-lhe a língua.
+#v 34 %v E levantando os olhos ao céu, suspirou, e disse:
+ Efatá, 
+(isto é, abre-te).
+#v 35 %v E logo seus ouvidos se abriram, e o que prendia sua língua se soltou, e falava bem.
+#v 36 %v E mandou-lhes que a ninguém o dissessem; mas quanto #ad mais %ad lhes mandava, tanto mais o divulgavam.
+#v 37 %v E se espantavam muito mais, dizendo:
+ Tudo #ad ele %ad tem feito bem; e aos surdos faz ouvir, e aos mudos falar.
+
+#c 8 %c
+#v 1 %v Naqueles dias, havendo uma multidão muito grande, e não tendo que comerem, Jesus chamou seus discípulos para si, e lhes disse:
+#v 2 %v Tenho compaixão da multidão, porque já há três dias que estão comigo, e não têm o que comer.
+#v 3 %v E seu eu os deixar ir em jejum para suas casas desmaiarão no caminho; porque alguns deles têm vindo de longe.
+#v 4 %v E seus discípulos lhe responderam:
+ De onde poderá alguém fartar a estes de pão aqui no deserto?
+#v 5 %v E perguntou-lhes:
+ Quantos pães tendes? 
+E eles disseram: 
+ Sete.
+#v 6 %v E mandou à multidão que se sentassem pelo chão. E tomando os sete pães, e tendo dado graças, partiu-os, e os deu a seus discípulos, para que os pusessem diante deles. E eles os puseram diante da multidão.
+#v 7 %v E tinham uns poucos peixinhos, e tendo dado graças, disse que também os pusessem diante deles.
+#v 8 %v E comeram, e se fartaram; e levantaram, do que sobrou dos pedaços, sete cestos.
+#v 9 %v E eram os que comeram quase quatro mil; e despediu-os.
+#v 10 %v E logo entrando no barco com seus discípulos, veio para a região de Dalmanuta.
+#v 11 %v E saíram os Fariseus, e começaram a disputar com ele, pedindo-lhe sinal do céu, tentando-o.
+#v 12 %v E ele, suspirando profundamente em seu espírito, disse:
+ Por que esta geração pede sinal? Em verdade vos digo, que não se dará sinal a esta geração.
+#v 13 %v E deixando-os, voltou a entrar no barco, e foi para a outro lado #ad do mar %ad .
+#v 14 %v E #ad seus discípulos %ad tinham se esquecido de tomar pão, e nada tinham, a não ser um pão com eles no barco.
+#v 15 %v E mandou-lhes, dizendo:
+ Prestai atenção: tomai cuidado com o fermento dos fariseus, e o fermento de Herodes.
+#v 16 %v E questionavam uns com os outros, dizendo:
+ #ad Ele disse isto %ad porque não temos pão.
+#v 17 %v E Jesus, conhecendo #ad a dúvida deles %ad , disse-lhes:
+ Por que questionais que não tendes pão? Não percebeis ainda, nem entendeis? Ainda tendes vosso coração endurecido?
+#v 18 %v Tendo olhos, não vedes? E tendo ouvidos, não ouvis?
+#v 19 %v E não vos lembrais, quando parti os cinco pães entre os cinco mil, quantos cestos cheios de pedaços levantastes?
+Disseram-lhe: 
+ Doze.
+#v 20 %v  #ad Jesus disse %ad :
+ E quando #ad parti %ad os sete entre os quatro mil, quantas cestas cheias de pedaços levantastes? 
+E eles disseram: 
+ Sete.
+#v 21 %v E ele lhes disse:
+ Como não entendeis?
+#v 22 %v E veio a Betsaida, e trouxeram-lhe um cego, e suplicaram-lhe que o tocasse.
+#v 23 %v E tomando ao cego pela mão, tirou-o para fora da aldeia, e cuspindo nos olhos dele, e pondo-lhe as mãos encima, perguntou-lhe se via alguma coisa.
+#v 24 %v E levantando ele os olhos, disse:
+ Vejo as pessoas; porque vejo que andam como árvores.
+#v 25 %v Depois voltou a pôr as mãos sobre os olhos dele, e os fez olhar atentamente, e ficou restaurado, e viu de longe e claramente a todos.
+#v 26 %v E o mandou para sua casa, dizendo:
+ Não entres na aldeia, nem digas a ninguém da aldeia.
+#v 27 %v E saiu Jesus e seus discípulos para as aldeias de Cesareia de Filipe; e no caminho perguntou a seus discípulos, dizendo-lhes:
+ Quem as pessoas dizem que eu sou?
+#v 28 %v E eles responderam:
+ João Batista, e outros, Elias; e outros, algum dos Profetas.
+#v 29 %v E ele lhes disse:
+ E vós, quem dizeis que eu sou? 
+E Pedro, respondendo, disse-lhe: 
+ Tu és o Cristo.
+#v 30 %v E advertiu-lhes, que a ninguém dissessem #ad aquilo %ad dele.
+#v 31 %v E começou a ensinar-lhes que era necessário que o Filho do homem sofresse muito, e fosse rejeitado pelos anciãos, e pelos chefes dos sacerdotes e escribas, e fosse morto, e depois de três dias ressuscitasse.
+#v 32 %v E dizia abertamente esta palavra. E Pedro, tomando-o consigo, começou a repreendê-lo.
+#v 33 %v Mas ele, virando-se e olhando para seus discípulos, repreendeu a Pedro, dizendo:
+ Sai de diante de mim, satanás! Porque tu não compreendes as coisas de Deus, mas sim as coisas humanas.
+#v 34 %v E chamando para si a multidão com seus discípulos, disse-lhes:
+ Qualquer que quiser vir após mim, negue-se a si mesmo, e tome sua cruz, e siga-me:
+#v 35 %v Porque qualquer um que quiser salvar a sua vida, a perderá; mas qualquer um que perder a sua vida por causa de mim e do Evangelho, esse a salvará.
+#v 36 %v Pois que proveito haveria para alguém, se obtivesse o mundo todo, e perdesse sua alma?
+#v 37 %v Ou que daria alguém em resgate de sua alma?
+#v 38 %v Porque qualquer um que se envergonhar de mim e de minhas palavras nesta geração adúltera e pecadora, também dele o Filho do homem se envergonhará, quando vier na glória de seu Pai com os santos anjos.
+
+#c 9 %c
+#v 1 %v Dizia-lhes também:
+ Em verdade vos digo, que há alguns dos que aqui estão, que não experimentarão a morte, até que tenham visto que o reino de Deus vem com poder.
+#v 2 %v E seis dias depois, tomou Jesus consigo a Pedro, e a Tiago, e a João, e os levou à parte sós para um monte alto; e transfigurou-se diante deles.
+#v 3 %v E suas roupas se tornaram resplandescentes, mui brancos como a neve, quais lavadeiro os não pode branquear na terra.
+#v 4 %v E apareceu-lhes Elias com Moisés, e falavam com Jesus.
+#v 5 %v E respondendo Pedro, disse a Jesus:
+ Mestre, é bom que nós estejamos aqui; e façamos três cabanas: uma para ti, e uma para Moisés, e uma para Elias.
+#v 6 %v Porque não sabia o que dizia, pois estavam assombrados.
+#v 7 %v E desceu uma nuvem, que os cobriu com sua sombra, e veio uma voz da nuvem, que dizia:
+ Este é meu Filho amado; a ele ouvi.
+#v 8 %v E olhando logo ao redor, não viram mais a ninguém, a não ser só Jesus com eles.
+#v 9 %v E descendo eles do monte, mandou-lhes que contassem a ninguém o que tinham visto, até que o Filho do homem já tenha ressuscitado dos mortos.
+#v 10 %v E eles retiveram o caso entre si, perguntando uns aos outros:
+ Que seria aquilo, ressuscitar dos mortos?
+#v 11 %v E perguntaram-lhe dizendo:
+ Por que dizem os Escribas que é necessário que Elias venha primeiro?
+#v 12 %v E ele respondendo, disse-lhes:
+ Em verdade Elias virá primeiro, e todas as coisas restaurará, #ad e %ad como está escrito sobre o Filho do homem, que sofra muito, e seja aniquilado.
+#v 13 %v Porém eu vos digo, que já Elias veio, e fizeram-lhe tudo o que quiseram, como está escrito sobre ele.
+#v 14 %v E quando veio aos discípulos, ele viu uma grande multidão ao redor deles, e #ad alguns %ad escribas, que argumentavam com eles.
+#v 15 %v E logo toda a multidão, vendo-o, se espantou, e correndo a ele, o saudaram.
+#v 16 %v E perguntou aos escribas:
+ O que argumentais com eles?
+#v 17 %v E respondendo um da multidão, disse:
+ Mestre, trouxe a ti meu filho, que tem um espírito mudo.
+#v 18 %v E onde quer que #ad espírito %ad o toma, faz-lhe convulsionar, e solta espuma #ad pela boca %ad , e range os dentes, e vai se secando; e eu disse a teus discípulos que o expulsassem, e não puderam.
+#v 19 %v E respondendo-lhe ele, disse:
+ Ó geração incrédula! Até quando estarei ainda convosco? Até quando vos suportarei? Trazei-o a mim.
+#v 20 %v E trouxeram-no a ele; e quando o viu, logo o espírito o fez convulsionar, e caindo em terra, rolava a si mesmo, espumando #ad pela boca %ad .
+#v 21 %v E perguntou a seu pai:
+ Quanto tempo há que isto lhe sobreveio? 
+E ele lhe disse: 
+ Desde #ad sua %ad infância;
+#v 22 %v e muitas vezes o lançou também no fogo, e na água, para o destruir; mas se podes alguma coisa, ajuda-nos, tendo compaixão de nós.
+#v 23 %v E Jesus lhe disse:
+ Se podes crer, ao que crê tudo é possível.
+#v 24 %v E logo o pai do menino, clamando, com lágrimas, disse:
+ Creio, Senhor! Ajuda minha incredulidade.
+#v 25 %v E vendo Jesus que a multidão concorria, repreendeu ao espírito imundo, dizendo-lhe:
+ Espírito mudo e surdo, eu te mando, sai dele, e não entres nele mais!
+#v 26 %v E clamando, e fazendo-o convulsionar muito, saiu; e ficou #ad o menino %ad como morto, de tal maneira que muitos diziam que estava morto.
+#v 27 %v E tomando-o Jesus pela mão, ergueu-o, e ele se levantou.
+#v 28 %v E quando entrou em casa, seus discípulos lhe perguntaram à parte:
+ Por que nós não o pudemos expulsar?
+#v 29 %v E disse-lhes:
+ Este tipo com nada pode sair, a não ser com oração e jejum.
+#v 30 %v E partidos dali, caminharam pela Galileia, e não queria que alguém o soubesse,
+#v 31 %v Porque ensinava a seus discípulos, e lhes dizia:
+ O Filho do homem será entregue em mãos dos homens, e o matarão; e #ad estando %ad ele morto, ressuscitará ao terceiro dia.
+#v 32 %v Mas eles não entendiam esta palavra, e temiam lhe perguntar.
+#v 33 %v E veio a Cafarnaum, e entrando em casa, perguntou-lhes:
+ Que questionais entre vós pelo caminho?
+#v 34 %v Mas eles se calaram; porque eles haviam discutido uns com os outros pelo caminho, qual #ad deles seria %ad o maior.
+#v 35 %v E sentando-se ele, chamou aos doze, e disse-lhes:
+ Se alguém quiser ser o primeiro, seja o últimos de todos, e servo de todos.
+#v 36 %v E tomando um menino, ele o pôs no meio deles, e tomando-o entre seus braços, disse-lhes:
+#v 37 %v Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não #ad somente %ad recebe a mim, mas #ad também %ad ao que me enviou.
+#v 38 %v E respondeu-lhe João, dizendo:
+ Mestre, temos visto a um, que em teu nome expulsava aos demônios, o qual não nos segue; e nós o proibimos, porque não nos segue.
+#v 39 %v Porém Jesus disse:
+ Não o proibais; porque ninguém há que faça milagre em meu nome, e logo possa dizer mal de mim.
+#v 40 %v Porque quem não é contra nós, é por nós.
+#v 41 %v Porque qualquer que vos der um pequeno vaso de água para beber em meu nome, porque sois de Cristo, em verdade vos digo, que não perderá sua recompensa.
+#v 42 %v E qualquer que ofender a um destes pequenos que creem em mim, melhor lhe fora que lhe pusesse ao pescoço uma grande pedra de moinho, e que fosse lançado no mar.
+#v 43 %v E se a tua mão te ofender, corta-a; melhor te é entrar na vida mutilado, do que tendo duas mãos ir ao inferno, ao fogo que nunca se apaga.
+#v 44 %v {tr,rp:Onde seu verme não morre, e o fogo nunca se apaga.}{trnc: #fn _c N4 omite todo o versículo 44 %fn }{n4:--- #fn _c N não contém o texto "Onde seu verme não morre, e o fogo nunca se apaga.", presente em RP e TR. O mesmo em Marcos 9:46 %fn }
+#v 45 %v E se teu pé te ofender, corta-o; melhor te é entrar na vida manco, do que tendo dois pés ser lançado no inferno{tr,rp:, no fogo que nunca se apaga}.{trnc: #fn _c N não contém: "no fogo que nunca se apaga" %fn }{n4: #fn _c TR, RP acrescentam: "no fogo que nunca se apaga" ao final do versículo %fn }
+#v 46 %v {tr,rp:Onde seu verme não morre, e o fogo nunca se apaga.}{n4:---}
+#v 47 %v E se teu olho te ofender, lança-o fora; melhor te é entrar no Reino de Deus com um olho, do que tendo dois olhos ser lançado no fogo do inferno.
+#v 48 %v Onde seu verme não morre, e o fogo nunca se apaga.
+#v 49 %v Porque cada um será salgado com fogo{tr,rp:, e cada sacrifício será salgado com sal}.{trnc: #fn _c N4 omite "e cada sacrifício será salgado com sal" %fn }{n4: #fn _c TR, RP acrescentam "e cada sacrifício será salgado com sal". Compare com Levítico 2:13 %fn }
+#v 50 %v O sal é bom; mas se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos, e paz uns com os outros.
+
+#c 10 %c
+#v 1 %v E levantando-se dali, foi-se aos limites da Judeia, por dalém do Jordão; e as multidões voltaram a se juntar a ele, e voltou a lhes ensinar, como tinha de costume.
+#v 2 %v E vindo a ele os fariseus, perguntaram-lhe se era lícito ao homem deixar a #ad sua %ad mulher, tentando-o.
+#v 3 %v Mas respondendo ele, disse-lhes:
+ Que Moisés vos mandou?
+#v 4 %v E eles disseram:
+ Moisés permitiu escrever carta de divórcio, e deixá-la.
+#v 5 %v E respondendo Jesus, disse-lhes:
+ Pela dureza de vossos corações ele vos escreveu este mandamento.
+#v 6 %v Porém desde o princípio da criação, macho e fêmea Deus os fez.
+#v 7 %v Por isso, deixará o homem a seu pai e a #ad sua %ad mãe{tr,rp:, e se unirá à sua mulher}.{trnc: #fn _c N4 omite "e se unirá à sua mulher". Compare com Gênesis 2:24 e Mateus 19:5 %fn }{n4: #fn _c TR, RP acrescentam "e se unirá à sua mulher" ao final do versículo. Compare com Gênesis 2:24 e Mateus 19:5 %fn }
+#v 8 %v E os dois serão uma #ad só %ad carne; assim então já não são dois, mas sim uma #ad só %ad carne.
+#v 9 %v Portanto o que Deus juntou, não separe o homem.
+#v 10 %v E em casa voltaram os discípulos a perguntar-lhe sobre isto mesmo.
+#v 11 %v E disse-lhes:
+ Qualquer que deixar a sua mulher, e se casar com outra, adultera contra ela.
+#v 12 %v E se a mulher deixar a seu marido, e se casar com outro, adultera.
+#v 13 %v E lhe traziam crianças para que ele as tocasse, mas os discípulos repreendiam aos que #ad as %ad traziam.
+#v 14 %v Porém Jesus, vendo, indignou-se, e lhe disse:
+ Deixai vir as crianças a mim, e não as impeçais; porque das tais é o Reino de Deus.
+#v 15 %v Em verdade vos digo, que qualquer um que não receber o Reino de Deus como criança, em maneira nenhuma nele entrará.
+#v 16 %v E tomando-as entre seus braços, pondo as mãos sobre elas, ele as abençoou.
+#v 17 %v E saindo ele ao caminho, um #ad homem %ad correu até ele; e pondo-se de joelhos diante dele, perguntou-lhe:
+ Bom Mestre, que farei para herdar a vida eterna?
+#v 18 %v E Jesus lhe disse:
+ Por que me chamas bom? Ninguém é bom, a não ser um: Deus.
+#v 19 %v Sabes os mandamentos:
+ Não adulterarás; não matarás; não furtarás; não darás falso testemunho; não serás enganador; hora a teu pai, e a #ad tua %ad mãe.
+#v 20 %v Porém respondendo ele, disse-lhe:
+ Mestre, tudo isto guardei desde minha juventude.
+#v 21 %v E olhando Jesus para ele, amou-o, e disse-lhe:
+ Uma coisa te falta: vai, vende tudo quanto tens, e dá aos pobres; e terás um tesouro no céu; e vem, segue-me, toma #ad tua %ad cruz.
+#v 22 %v Mas ele, pesaroso desta palavra, foi-se triste; porque tinha muitas propriedades.
+#v 23 %v Então Jesus olhando ao redor, disse a seus discípulos:
+ Quão dificilmente entrarão os que tem riquezas no Reino de Deus!
+#v 24 %v E os discípulos se espantaram destas suas palavras; mas Jesus, voltando a responder, disse-lhes: Filhos, como é difícil{tr,rp: aos que confiam em riquezas}{trnc: #fn _c N4 omite "aos que confiam em riquezas %fn }{n4: #fn _c TR, RP contêm: "difícil aos que confiam em riquezas" %fn } entrar no Reino de Deus!
+#v 25 %v Mais fácil é passar um camelo pelo olho de uma agulha, do que entrar o rico no Reino de Deus.
+#v 26 %v E eles se espantavam ainda mais, dizendo uns para os outros:
+ Quem pois poderá se salvar?
+#v 27 %v Porém olhando Jesus para eles, disse:
+ Para os seres humanos, é impossível; mas para Deus, não; porque para Deus tudo é possível.
+#v 28 %v E começou Pedro a dizer-lhe:
+ Eis que nós deixamos tudo, e te seguimos.
+#v 29 %v E respondendo Jesus, disse:
+ Em verdade vos digo, que não há ninguém que tenha deixado casa, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou campos, por amor de mim e do Evangelho,
+#v 30 %v Que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com perseguições; e a vida eterna, no tempo que virá.
+#v 31 %v Porém muitos primeiros serão últimos, e #ad muitos %ad últimos, primeiros.
+#v 32 %v E iam pelo caminho, subindo para Jerusalém; e Jesus ia diante deles, e espantavam-se, e seguiam-no atemorizados. E voltando a tomar consigo aos doze, começou-lhes a dizer as coisas que lhe viriam a acontecer:
+#v 33 %v Eis que subimos a Jerusalém, e o Filho do homem será entregue aos chefes dos sacerdotes, e aos escribas; e o condenarão à morte, e o entregarão aos gentios.
+#v 34 %v E escarnecerão dele, e o açoitarão, e cuspirão nele, e o matarão; e ao terceiro dia ressuscitará.
+#v 35 %v E vieram a ele Tiago e João, filhos de Zebedeu, dizendo:
+ Mestre, queríamos que nos fizesses o que pedirmos.
+#v 36 %v E ele lhes disse:
+ Que quereis que eu vos faça?
+#v 37 %v E eles lhe disseram:
+ Concede-nos que em tua glória nos sentemos, um à tua direita, e outro à tua esquerda?
+#v 38 %v Mas Jesus lhes disse:
+ Não sabeis o que pedis; podeis vós beber o copo que eu bebo, e ser batizados com o batismo com que eu sou batizado?
+#v 39 %v E eles lhe disseram:
+ Podemos. 
+Porém Jesus lhes disse: 
+ Em verdade, o copo que eu bebo, bebereis; e com o batismo com que eu sou batizado, sereis batizados.
+#v 40 %v Mas sentar-se à minha direita, ou à minha esquerda, não é meu concedê-lo, mas sim, para aqueles a quem está preparado.
+#v 41 %v E quando os dez ouviram isto, começaram a se irritar contra Tiago e João.
+#v 42 %v Mas Jesus, chamando-os a si, disse-lhes:
+ Já sabeis que os que são vistos como governadores dos gentios, agem como senhores deles; e os grandes usam de autoridade sobre eles.
+#v 43 %v Mas entre vós não será assim; antes qualquer que entre vós quiser ser grande, será vosso servidor.
+#v 44 %v E qualquer que de vós quiser ser o primeiro, será servo de todos.
+#v 45 %v Porque também não veio o Filho do homem para ser servido, mas para servir, e dar sua vida #ad em %ad resgate por muitos.
+#v 46 %v E vieram a Jericó. E saindo ele, e seus discípulos, e uma grande multidão de Jericó, estava Bartimeu o cego, filho de Timeu, sentado junto ao caminho, mendigando.
+#v 47 %v E ouvindo que era Jesus o nazareno, começou a clamar, e a dizer:
+ Jesus, Filho de Davi! Tem misericórdia de mim!
+#v 48 %v E muitos o repreendiam, para que se calasse; mas ele clamava ainda mais:
+ Filho de Davi! Tem misericórdia de mim!
+#v 49 %v E parando Jesus, disse que o chamassem; e chamaram ao cego, dizendo-lhe:
+ Tem bom ânimo, levanta-te, #ad ele %ad te chama.
+#v 50 %v E lançando ele sua capa, levantou-se, e veio a Jesus.
+#v 51 %v E respondendo Jesus, disse-lhe:
+ Que queres que #ad eu %ad te faça? 
+E o cego lhe disse: 
+ Mestre, #ad quero %ad que veja.
+#v 52 %v E Jesus lhe disse:
+ Vai-te; tua fé te salvou. 
+E logo viu; e seguia a Jesus pelo caminho.
+
+#c 11 %c
+#v 1 %v E quando chegaram perto de Jerusalém, em Betfagé e Betânia, ao monte das Oliveiras, #ad Jesus %ad mandou dois de seus discípulos,
+#v 2 %v E disse-lhes:
+ Ide à aldeia, que está em fronte de vós; e logo, nela entrando, achareis um jumentinho atado, sobre o qual ninguém se sentou; soltai-o, e trazei-o.
+#v 3 %v E se alguém vos disser:
+ Por que fazeis isso?, 
+ dizei que: 
+ O Senhor precisa dele, e logo o mandará de volta para cá.
+#v 4 %v E foram, e acharam o jumentinho atado à porta, #ad do lado de %ad fora em uma esquina, e o soltaram.
+#v 5 %v E alguns dos que ali estavam, lhes disseram:
+ Que fazeis, soltando o jumentinho?
+#v 6 %v Porém eles lhes disseram como Jesus #ad lhes %ad tinha mandado, e os deixaram ir.
+#v 7 %v E trouxeram o jumentinho a Jesus, e lançaram sobre ele suas roupas, e sentou-se sobre ele.
+#v 8 %v E muitos estendiam suas roupas pelo caminho, e outros cortavam ramos das árvores, e os espalhavam pelo caminho.
+#v 9 %v E os que iam adiante, e os que seguiam, clamavam:
+ Hosana, bendito o que vem no Nome do Senhor!
+#v 10 %v Bendito o Reino de nosso Pai Davi, que vem no Nome do Senhor! Hosana nas alturas!
+#v 11 %v E Jesus entrou em Jerusalém, e no Templo; e havendo visto tudo ao redor, e sendo já tarde, saiu-se para Betânia com os doze.
+#v 12 %v E no dia seguinte, saindo eles de Betânia, teve fome.
+#v 13 %v E vendo de longe uma figueira, que tinha folhas, #ad veio ver %ad se acharia alguma coisa nela; e chegando a ela, nada achou, a não ser folhas; porque não era tempo de figos.
+#v 14 %v E respondendo Jesus, disse-lhe:
+ Nunca mais ninguém coma fruto de ti. E seus discípulos ouviram isto .
+#v 15 %v E vieram a Jerusalém; e entrando Jesus no Templo, começou a expulsar aos que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas.
+#v 16 %v E não consentia que ninguém levasse vaso #ad algum %ad pelo Templo.
+#v 17 %v E ensinava, dizendo-lhes:
+ Não está escrito: 
+ Minha casa será chamada casa de oração de todas as nações? 
+ Mas vós a tendes feito esconderijo de assaltantes!
+#v 18 %v E ouviram os escribas, e os chefes dos sacerdotes, e buscavam como o matariam; pois o temiam, porque toda a multidão estava espantada quanto a sua doutrina.
+#v 19 %v E como já era tarde, #ad Jesus %ad saiu fora da cidade.
+#v 20 %v E passando pela manhã, viram que a figueira estava seca desde as raízes.
+#v 21 %v E lembrando-se Pedro, disse-lhe:
+ Mestre, eis que a figueira, que amaldiçoaste, se secou.
+#v 22 %v E respondendo Jesus, disse-lhes:
+ Tende fé em Deus.
+#v 23 %v Porque em verdade vos digo, que qualquer que disser a este monte:
+ Levanta-te, e lança-te no mar; 
+ e não duvidar em seu coração, mas crer que se fará o que diz, tudo o que disser lhe será feito.
+#v 24 %v Portanto eu vos digo, #ad que %ad tudo o que pedirdes orando, crede que recebereis, e vós #ad o %ad tereis.
+#v 25 %v E quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que vosso Pai, que #ad está %ad nos céus, vos perdoe vossas ofensas.
+#v 26 %v {tr,rp:Mas se vós não perdoardes, também vosso Pai, que #ad está %ad nos céus, não vos perdoará vossas ofensas.}{trnc: #fn _c N4 omite todo o versículo. Compare com Mateus 6:15 %fn }{n4:--- #fn _c TR, RP contêm o versículo 26: "Mas se vós não perdoardes, também vosso Pai, que #ad está %ad nos céus, não vos perdoará vossas ofensas". Compare com Mateus 6:15 %fn }
+#v 27 %v E voltaram para Jerusalém; e andando ele pelo Templo, vieram a ele os chefes dos sacerdotes, e os escribas, e os anciãos.
+#v 28 %v E disseram-lhe:
+ Com que autoridade fazes estas coisas? E quem te deu esta autoridade, para fazerdes estas coisas?
+#v 29 %v Mas respondendo Jesus, disse-lhes:
+ Também eu vos perguntarei uma palavra, e respondei-me; e #ad então %ad vos direi com que autoridade estas coisas #ad eu %ad faço.
+#v 30 %v O batismo de João era do céu ou dos homens? Respondei-me.
+#v 31 %v E eles argumentavam entre si, dizendo:
+ Se dissermos do céu, ele #ad nos %ad dirá: 
+ Por que pois não crestes nele?
+#v 32 %v Porém se dissermos dos homens, tememos ao povo;
+porque todos consideravam que João era verdadeiramente profeta.
+#v 33 %v E respondendo, disseram a Jesus:
+ Não sabemos. 
+E respondendo Jesus, disse-lhes: 
+ Também eu não vos direi com que autoridade eu faço estas coisas.
+
+#c 12 %c
+#v 1 %v E começou a lhes dizer por parábolas:
+ Um homem plantou uma vinha, cercou-a, fundou #ad nela %ad um esmagador de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se para fora d #ad aquela %ad terra.
+#v 2 %v E chegado o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
+#v 3 %v Mas eles tomando-o, feriram #ad -no %ad , e mandaram #ad -no %ad vazio.
+#v 4 %v E voltou a mandar-lhes outro servo; e eles. apedrejando-o, feriram-no na cabeça e voltaram a mandá-lo maltratado.
+#v 5 %v E voltou a mandar outro, ao qual mataram, e #ad mandou %ad muitos outros, e a uns feriram, e a outros mataram.
+#v 6 %v Tendo ele pois ainda um, o seu filho amado, mandou-lhes também por último a este, dizendo:
+ Pelo menos terão respeito a meu filho.
+#v 7 %v Mas aqueles lavradores disseram entre si:
+ Este é o herdeiro; vinde, #ad e %ad o matemos; então a herança será nossa.
+#v 8 %v E pegando dele, mataram #ad -no %ad , e lançaram #ad -no %ad fora da vinha.
+#v 9 %v Que pois fará o senhor da vinha? Ele virá, destruirá aos lavradores, e dará a vinha a outros.
+#v 10 %v Nem ainda esta escritura tendes lido?
+ A pedra que os edificadores rejeitaram, esta foi feita por cabeça de esquina.
+#v 11 %v Pelo Senhor foi feito isto, e é maravilhoso em nossos olhos.
+#v 12 %v E procuravam prendê-lo, mas temiam a multidão; porque entendiam que dizia aquela parábola #ad referindo-se %ad a eles; e deixando-o, foram embora.
+#v 13 %v E mandaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em #ad alguma %ad palavra.
+#v 14 %v E eles, vindo, disseram-lhe:
+ Mestre, sabemos que és homem de verdade, e não te interessa #ad agradar %ad a ninguém, porque não olhas para a aparência humana, mas com verdade ensinas o caminho de Deus; é lícito pagar tributo a César, ou não? Devemos pagar, ou não devemos?
+#v 15 %v E ele, entendendo a hipocrisia deles, disse-lhes:
+ Por que me tentais? Trazei-me uma moeda, para que eu #ad a %ad veja.
+#v 16 %v E trouxeram. E disse-lhes:
+ De quem é esta imagem, e a inscrição? 
+E eles lhe disseram: 
+ De César.
+#v 17 %v E Jesus, respondendo, disse-lhes:
+ Dai pois a César o que é de César, e a Deus o que é de Deus. 
+E maravilharam-se dele.
+#v 18 %v E vieram a ele os saduceus, que dizem que não há ressurreição, e perguntaram-lhe, dizendo:
+#v 19 %v Mestre, Moisés nos escreveu, que se o irmão de alguém morresse, e deixasse mulher, e não deixasse filhos, que seu irmão tomasse sua mulher, e levantasse semente a seu irmão.
+#v 20 %v Houve pois sete irmãos, e o primeiro tomou mulher, e morrendo, não deixou semente.
+#v 21 %v Tomou-a também o segundo, e morreu; e nem este deixou semente; e o terceiro da mesma maneira.
+#v 22 %v E a tomaram #ad todos %ad os sete, e não deixaram semente. Finalmente, depois de todos, morreu também a mulher.
+#v 23 %v Na ressurreição pois, quando ressuscitarem, de qual destes será a mulher? Porque os sete a tiveram por mulher.
+#v 24 %v E respondendo Jesus, disse-lhes:
+ Não é por isso que vós errais, por não conhecerdes as Escrituras, nem o poder de Deus?
+#v 25 %v Porque quando ressuscitarem dos mortos, nem se casarão, nem se darão em casamento; mas serão como os anjos que #ad estão %ad nos céus.
+#v 26 %v E sobre os mortos que ressuscitarão, não tendes lido no livro de Moisés, como Deus lhe falou com a sarça, dizendo:
+ Eu sou o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó?
+#v 27 %v Deus não é #ad Deus %ad de mortos, mas de vivos. Portanto #ad vós %ad errais muito.
+#v 28 %v E vindo a ele um dos escribas, que os ouvira discutir, sabendo que lhes tinha bem respondido, perguntou-lhe:
+ Qual de todos é o primeiro mandamento?
+#v 29 %v E Jesus lhe respondeu:
+ O primeiro mandamento de todos os mandamentos #ad é %ad : 
+ Ouve Israel, o SENHOR nosso Deus é o único Senhor:
+#v 30 %v Amarás pois ao Senhor teu Deus de todo teu coração, e de toda tua alma, e de todo teu entendimento, e de todas tuas forças;
+ este é o primeiro mandamento.
+#v 31 %v E o segundo, semelhante #ad a este %ad é:
+ Amarás a teu próximo como a ti mesmo; 
+ não há outro mandamento maior que estes.
+#v 32 %v E o Escriba lhe disse:
+ Muito bem, Mestre, com verdade disseste, que há um só Deus, e não há outro além dele.
+#v 33 %v E #ad que %ad amá-lo de todo coração, e de todo entendimento, e de toda a alma, e de todas as forças; e amar ao próximo como a si mesmo é mais que todas as ofertas de queima e sacrifícios.
+#v 34 %v E Jesus, vendo que ele tinha respondido sabiamente, disse-lhe:
+ Tu não estás longe do Reino de Deus. 
+E ninguém mais ousava lhe perguntar.
+#v 35 %v E respondendo Jesus, dizia, enquanto ensinava no Templo:
+ Como os escribas dizem que o Cristo é Filho de Davi?
+#v 36 %v Porque o mesmo Davi disse pelo Espírito Santo:
+ Disse o Senhor a meu Senhor, senta-te à minha direita, até que ponha a teus inimigos por suporte de teus pés.
+#v 37 %v Pois #ad se %ad Davi mesmo o chama #ad seu %ad Senhor, como, pois, é seu filho?
+E a grande multidão o ouvia de boa vontade.
+#v 38 %v E dizia-lhes em sua doutrina:
+ Tomai cuidado com os escribas, que gostam de andar com roupas compridas, #ad amam %ad as saudações nas praças;
+#v 39 %v E as primeiras cadeiras nas sinagogas, e os primeiros assentos nas ceias.
+#v 40 %v Que comem as casas das viúvas, e #ad isso %ad com pretexto de longa oração. Estes receberão mais grave condenação.
+#v 41 %v E estando Jesus sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos ricos lançavam muito.
+#v 42 %v E vindo uma pobre viúva, lançou dois leptos, que são duas pequenas moedas.
+#v 43 %v E #ad Jesus %ad , chamando a si seus discípulos, disse-lhes:
+ Em verdade vos digo que esta pobre viúva lançou mais que todos os que lançaram na arca do tesouro;
+#v 44 %v Porque todos lançaram #ad nela %ad daquilo que lhes sobra; mas esta de sua pobreza lançou #ad nela %ad tudo o que tinha, todo seu sustento.
+
+#c 13 %c
+#v 1 %v E saindo ele do Templo, um de seus discípulos lhe disse:
+ Mestre, olha que pedras, e que edifícios!
+#v 2 %v E respondendo Jesus, disse-lhe:
+ Vês estes grandes edifícios? Não será deixada pedra sobre pedra, que não seja derrubada.
+#v 3 %v E sentando-se ele no monte das Oliveiras, de frente ao Templo, perguntaram-lhe à parte Pedro, e Tiago, e João, e André:
+#v 4 %v Dize-nos, quando serão estas coisas? E que sinal haverá de quando todas estas coisas se acabarão?
+#v 5 %v E respondendo-lhes Jesus, começou a dizer:
+ Olhai que ninguém vos engane;
+#v 6 %v Porque virão muitos em meu nome, dizendo:
+ Eu sou o #ad Cristo %ad , 
+ e enganarão a muitos.
+#v 7 %v E quando ouvirdes de guerras, e de rumores de guerras, não vos perturbeis; porque #ad assim %ad convém acontecer; mas ainda não será o fim.
+#v 8 %v Porque nação se levantará contra nação, e reino contra reino, e haverá terremotos de lugar em lugar, e haverá fomes, e revoltas. Estes serão princípios de dores.
+#v 9 %v Mas olhai por vós mesmos; porque vos entregarão em tribunais, e em sinagogas; sereis açoitados, e sereis apresentados ante governadores e reis, por causa de mim, para que lhes haja testemunho.
+#v 10 %v E primeiramente o Evangelho deve ser pregado entre todas as nações.
+#v 11 %v Porém, quando vos levarem a entregar, não estejais ansiosos antecipadamente do que deveis dizer, nem o penseis; mas o que naquela hora for dado, isso falai. Porque não sois vós os que falais, mas o Espírito Santo.
+#v 12 %v E o irmão entregará ao irmão à morte, e o pai ao filho; e os filhos se levantarão contra os pais, e os matarão.
+#v 13 %v E sereis odiados de todos por amor de meu nome; mas quem perseverar até o fim, esse será salvo.
+#v 14 %v E quando virdes a abominação da desolação{tr,rp:, que foi dita pelo profeta Daniel,}{trnc: #fn _c N4 omite "que foi dita pelo profeta Daniel" %fn }{n4: #fn _c TR, RP contêm: "desolação, que foi dita pelo profeta Daniel" %fn } estar onde não deve, (quem lê, entenda), então os que estiverem na Judeia, fujam para os montes.
+#v 15 %v E o que estiver sobre telhado, não desça para a casa, nem entre para tomar alguma coisa de sua casa.
+#v 16 %v E o que estiver no campo, não volte atrás, para tomar sua roupa.
+#v 17 %v Mas ai das grávidas, e das que amamentarem naqueles dias!
+#v 18 %v Orai, porém, que não aconteça vossa fuga no inverno.
+#v 19 %v Porque serão aqueles dias de tal aflição, qual nunca foi desde o princípio da criação das coisas, que Deus criou, até agora, nem tão pouco será.
+#v 20 %v E se o Senhor não encurtasse aqueles dias, nenhuma carne se salvaria; mas por causa dos escolhidos, que escolheu, ele encurtou aqueles dias.
+#v 21 %v E então se alguém vos disser:
+ Eis aqui está o Cristo; ou vede-o ali está, 
+ não creiais nele.
+#v 22 %v Porque se levantarão falsos cristos, e falsos profetas, e farão sinais e prodígios, para enganar, se fossa possível, até aos escolhidos.
+#v 23 %v Mas vós tomai cuidado, eis que vos tenho dito tudo antes.
+#v 24 %v Porém naqueles dias, depois daquela aflição, o sol se escurecerá, e a lua não dará seu brilho.
+#v 25 %v E as estrelas do céu cairão, e as forças que #ad estão %ad nos céus abalarão.
+#v 26 %v E então verão ao Filho do homem vir nas nuvens, com grande poder e glória.
+#v 27 %v E então enviará seus anjos, e juntará seus escolhidos dos quatro ventos, desde a extremidade da terra, até a extremidade do céu.
+#v 28 %v E aprendei a parábola da figueira: Quando já seu ramo se vai fazendo tenro, e brota folhas, bem sabeis que já o verão está perto.
+#v 29 %v Assim também vós, quando virdes suceder estas coisas, sabei que já está perto às portas.
+#v 30 %v Em verdade vos digo, que não passará esta geração, até que todas estas coisas aconteçam.
+#v 31 %v O céu e a terra passarão, mas minhas palavras em maneira nenhuma passarão.
+#v 32 %v Porém daquele dia e hora ninguém sabe, nem os anjos que estão no céu, nem o Filho, a não ser somente o Pai.
+#v 33 %v Olhai, vigiai, e orai; porque não sabeis quando será o tempo.
+#v 34 %v Como o homem que, partindo-se para fora de sua terra, deixou sua casa, e deu autoridade a seus servos, e a cada um seu trabalho, e mandou ao porteiro que vigiasse,
+#v 35 %v Vigiai pois, porque não sabeis quando virá o Senhor da casa; se à tarde, se à meia-noite, se ao canto do galo, se pela manhã,
+#v 36 %v Para que não venha de surpresa, e vos ache dormindo.
+#v 37 %v E as coisas que vos digo, digo a todos: Vigiai.
+
+#c 14 %c
+#v 1 %v E dali a dois dias era a Páscoa, e #ad a festa dos pães %ad asmos; e os chefes dos sacerdotes, e os escribas buscavam um meio de prendê-lo através de engano, e #ad o %ad matarem.
+#v 2 %v Diziam, porém:
+ Não na festa, para que não venha a haver tumulto entre o povo.
+#v 3 %v E estando ele em Betânia, em casa de Simão o Leproso, sentado #ad à mesa %ad , veio uma mulher, que tinha um vaso de alabastro, de óleo perfumado de nardo puro, de muito preço, e quebrando o vaso de alabastro, derramou-o sobre a cabeça dele.
+#v 4 %v E houve alguns que se irritaram em si mesmos #ad com aquilo %ad , e disseram:
+ Para que foi feito este desperdício do óleo perfumado?
+#v 5 %v Porque isto podia ter sido vendido por mais de trezentos dinheiros, e seria dado aos pobres. E reclamavam contra ela.
+#v 6 %v Porém Jesus disse:
+ Deixai-a; por que a incomodais? Ela tem me feito boa obra.
+#v 7 %v Porque pobres sempre #ad os %ad tendes convosco; e quando quiserdes, podeis lhes fazer bem; porém a mim, nem sempre me tendes.
+#v 8 %v Esta fez o que podia; se adiantou para ungir meu corpo, para #ad preparação de minha %ad sepultura.
+#v 9 %v Em verdade vos digo, que onde quer que em todo o mundo este Evangelho for pregado, também o que esta fez será dito em sua memória.
+#v 10 %v E Judas Iscariotes, um dos doze, foi aos chefes dos sacerdotes, para o entregar a eles.
+#v 11 %v E eles ouvindo, alegraram-se; e prometeram lhe dar dinheiro; e buscava como o entregaria em tempo oportuno.
+#v 12 %v E o primeiro dia dos #ad pães %ad asmos, quando sacrificavam #ad o cordeiro da %ad Páscoa, seus discípulos lhe disseram:
+ Onde queres, que vamos preparar para comerdes a Páscoa?
+#v 13 %v E mandou dois de seus discípulos, e disse-lhes:
+ Ide à cidade, e um homem que leva um cântaro de água vos encontrará, a ele segui.
+#v 14 %v E onde quer que ele entrar, dizei ao senhor da casa:
+ O Mestre diz: 
+ Onde está o cômodo onde comerei Páscoa com meus discípulos?
+#v 15 %v E ele vos mostrará um grande salão, ornado e preparado; ali preparai #ad a ceia %ad para nós.
+#v 16 %v E seus discípulos saíram, e vieram à cidade, e acharam como lhes tinha dito, e prepararam a Páscoa.
+#v 17 %v E vinda a tarde, veio com os doze.
+#v 18 %v E quando se sentaram #ad à mesa %ad , e comeram, Jesus disse:
+ Em verdade vos digo, que um de vós, que está comendo comigo, me trairá.
+#v 19 %v E eles começaram a se entristecer, e a lhe dizer um após outro:
+ Por acaso sou eu? 
+{tr,rp:E outro: 
+ Por acaso sou eu?}{trnc: #fn _c N4 omite: "E outro: Por acaso sou eu?" %fn }
+#v 20 %v Porém respondendo ele, disse-lhes:
+ #ad É %ad um dos doze, o que está molhando #ad a mão %ad comigo no prato.
+#v 21 %v Em verdade o Filho do homem vai, como está escrito sobre ele; mas ai daquele homem, por quem o Filho do homem é traído; bom lhe fosse ao tal homem não haver nascido.
+#v 22 %v E comendo eles, tomou Jesus o pão; e bendizendo partiu-o, e deu-lhes, e disse:
+ Tomai, comei, isto é o meu corpo.
+#v 23 %v E tomando o copo, e dando graças, deu-lhes; e todos beberam dele.
+#v 24 %v E disse-lhes:
+ Isto é o meu sangue, #ad o sangue %ad do{tr,rp: novo}{trnc: #fn _c N4 omite "novo" %fn } testamento,{n4: #fn _c TR, RP: novo testamento %fn } que é derramado por muitos.
+#v 25 %v Em verdade vos digo, que não beberei mais do fruto da vide, até aquele dia, quando o beber novo no Reino de Deus.
+#v 26 %v E cantando um hino, saíram para o monte das Oliveiras.
+#v 27 %v E Jesus lhes disse:
+ Todos vós vos ofendereis{tr,rp: em mim esta noite}{trnc: #fn _c N4 omite "em mim esta noite" %fn };{n4: #fn _c TR, RP: ofendereis em mim esta noite %fn } porque está escrito: 
+ Ferirei ao pastor, e as ovelhas serão dispersas.
+#v 28 %v Mas depois de eu haver ressuscitado, irei adiante de vós para a Galileia.
+#v 29 %v E Pedro lhe disse:
+ Ainda que todos se ofendam, não porém eu.
+#v 30 %v E disse-lhe Jesus:
+ Em verdade te digo, que hoje, nesta noite, antes que o galo cante duas vezes, me negarás três vezes.
+#v 31 %v Mas ele muito mais dizia:
+ Ainda que me seja necessário morrer contigo, em maneira nenhuma te negarei. 
+E todos diziam também da mesma maneira.
+#v 32 %v E vieram ao lugar, cujo nome era Getsêmani, e disse a seus discípulos:
+ Sentai-vos aqui, enquanto eu oro.
+#v 33 %v E tomou consigo a Pedro, e a Tiago, e a João, e começou a se apavorar, e a angustiar-se em grande maneira.
+#v 34 %v E disse-lhes:
+ Minha alma totalmente está triste até a morte; ficai-vos aqui, e vigiai.
+#v 35 %v E indo-se um pouco mais adiante, prostrou-se em terra; e orou, que se fosse possível, passasse dele aquela hora.
+#v 36 %v E disse:
+ Aba, Pai, todas as coisas te são possíveis; passa de mim este copo; porém não #ad se faça %ad o que eu quero, mas sim o que tu #ad queres %ad .
+#v 37 %v Então veio, e os achou dormindo; e disse a Pedro:
+ Simão, estás dormindo? Não podes vigiar uma hora?
+#v 38 %v Vigiai, e orai, para que não entreis em tentação; o espírito em verdade #ad está %ad pronto, mas a carne #ad é %ad fraca.
+#v 39 %v E indo novamente, orou, dizendo as mesmas palavras.
+#v 40 %v E voltando, achou-os outra vez dormindo; porque seus olhos estavam pesados, e não sabiam o que lhe responder.
+#v 41 %v E veio a terceira vez, e disse-lhes:
+ Dormi já e descansai. Basta, vinda é a hora. Eis que o Filho do homem é entregue em mãos dos pecadores.
+#v 42 %v Levantai-vos, vamos; eis que o que me trai está perto.
+#v 43 %v E logo, falando ele ainda, veio Judas, que era um dos doze, e com ele uma grande multidão, com espadas e bastões, da parte dos chefes dos sacerdotes, e dos escribas, e dos anciãos.
+#v 44 %v E o que o traía lhes tinha dado um sinal comum, dizendo:
+ Ao que eu beijar, é esse; prendei-o, e levai-o em segurança.
+#v 45 %v E quando veio, logo foi-se a ele, e disse-lhe:
+ Rabi, Rabi, 
+e o beijou.
+#v 46 %v E lançaram suas mãos nele, e o prenderam.
+#v 47 %v E um dos que estavam presentes ali puxando a espada, feriu ao servo do sumo sacerdote, e cortou-lhe a orelha.
+#v 48 %v E respondendo Jesus, disse-lhes:
+ Como a assaltante, com espadas e bastões, saístes para me prender?
+#v 49 %v Todo dia convosco estava no Templo ensinando, e não me prendestes; mas #ad assim se faz %ad para que as Escrituras se cumpram.
+#v 50 %v Então, deixando-o, todos fugiram.
+#v 51 %v E um certo rapaz o seguia, envolto em um lençol sobre o #ad corpo %ad nu. E os rapazes o seguraram.
+#v 52 %v E ele, largando o lençol, fugiu deles nu.
+#v 53 %v E levaram Jesus ao sumo sacerdote; e juntaram-se a ele todos os chefes dos sacerdotes, e os anciãos, e os escribas.
+#v 54 %v E Pedro o seguiu de longe até dentro da sala do sumo sacerdote, e estava sentado juntamente com os trabalhadores, e esquentando-se ao fogo.
+#v 55 %v E os chefes dos sacerdotes, e todo o tribunal buscavam #ad algum %ad testemunho contra Jesus, para o matarem, e não #ad o %ad achavam.
+#v 56 %v Porque muitos testemunhavam falsamente contra ele; mas os testemunhos não concordavam entre si.
+#v 57 %v E levantando-se uns testemunhava falsamente contra ele, dizendo:
+#v 58 %v Nós o ouvimos dizer:
+ Eu derrubarei este templo feito de mãos, e em três dias edificarei outro, feito sem mãos.
+#v 59 %v E nem assim era o testemunho deles concordante.
+#v 60 %v E levantando-se o sumo sacerdote no meio, perguntou a Jesus, dizendo:
+ Não respondes nada? Que testemunham estes contra ti?
+#v 61 %v Mas ele calava, e nada respondeu. O sumo sacerdote voltou a lhe perguntar, e disse-lhe:
+ Tu és o Cristo, o Filho do #ad Deus %ad bendito?
+#v 62 %v E Jesus disse:
+ Eu sou; e vereis ao Filho do homem sentado à direita do poder #ad de Deus %ad , e vir nas nuvens do céu.
+#v 63 %v E o sumo sacerdote, rasgando suas roupas, disse:
+ Para que mais necessitamos de testemunhas?
+#v 64 %v Tendes ouvido a blasfêmia; que vos parece?
+E todos o condenaram por culpado de morte.
+#v 65 %v E alguns começaram a cuspir nele, e a cobrir-lhe o rosto; e a dar-lhe de socos, e dizer-lhe: Profetiza.
+E os trabalhadores lhe davam bofetadas.
+#v 66 %v E estando Pedro embaixo na sala, veio uma das servas do sumo sacerdote;
+#v 67 %v E vendo a Pedro, que se sentava esquentando, olhou para ele, e disse:
+ Também tu estavas com Jesus o Nazareno.
+#v 68 %v Mas ele o negou, dizendo:
+ Não #ad o %ad conheço, nem sei o que dizes: 
+E saiu-se fora ao alpendre; e cantou o galo.
+#v 69 %v E a serva vendo-o outra vez, começou a dizer aos que ali estavam:
+ Este é um deles.
+#v 70 %v Mas ele o negou outra vez. E pouco depois disseram os que ali estavam outra vez a Pedro: Verdadeiramente tu és um deles; pois também és galileu{tr,rp:, e a tua fala é semelhante}{trnc: #fn _c N4 omite "e a tua fala é semelhante %fn }.{n4: #fn _c TR, RP acrescentam: "e a tua fala é semelhante" ao final do versículo %fn }
+#v 71 %v E ele começou a amaldiçoar e a jurar, #ad dizendo %ad :
+ Não conheço a esse homem que dizeis.
+#v 72 %v E o galo cantou a segunda vez. E Pedro se lembrou da palavra que Jesus lhe tinha dito:
+ Antes que o galo cante duas vezes, tu me negarás três vezes. 
+E retirando-se dali, chorou.
+
+#c 15 %c
+#v 1 %v E logo ao amanhecer, os sumos sacerdotes tiveram conselho com os anciãos, e com os escribas, e com todo o tribunal; e amarrando a Jesus, levaram #ad -no %ad e #ad o %ad entregaram a Pilatos.
+#v 2 %v E perguntou-lhe Pilatos:
+ És tu o Rei dos Judeus? 
+E respondendo ele, disse-lhe: 
+ Tu o dizes.
+#v 3 %v E os chefes dos sacerdotes o acusavam de muitas coisas{tr:, porém ele nada respondia}.{trnc: #fn _c RP, N4 omitem "porém ele nada respondia %fn }{rp,n4: #fn _c TR acrescenta "porém ele nada respondia" ao fim do versículo %fn }
+#v 4 %v E outra vez Pilatos lhe perguntou, dizendo:
+ Não respondes nada? Olha quantas #ad coisas %ad testemunham contra ti!
+#v 5 %v Mas Jesus nada mais respondeu; de maneira que Pilatos se maravilhava.
+#v 6 %v E na festa #ad Pilatos %ad lhes soltava um preso, qualquer que eles pedissem.
+#v 7 %v E havia um chamado Barrabás, preso com #ad outros %ad revoltosos, que em uma rebelião tinha cometido uma morte.
+#v 8 %v E a multidão, dando gritos, começou a pedir #ad que fizesse %ad como sempre lhes tinha feito.
+#v 9 %v E Pilatos lhes respondeu, dizendo:
+ Quereis que vos solte ao Rei dos Judeus?
+#v 10 %v (Porque ele sabia, que os chefes dos sacerdotes o entregaram por inveja).
+#v 11 %v Mas os Príncipes dos Sacerdotes agitaram a multidão, para que, ao invés disso, lhes soltasse a Barrabás.
+#v 12 %v E respondendo Pilatos, disse-lhes outra vez:
+ Que pois quereis que eu faça do que chamais Rei dos Judeus?
+#v 13 %v E eles voltaram a clamar:
+ Crucifica-o!
+#v 14 %v Mas Pilatos lhes disse:
+ Pois que mal ele fez? 
+E eles clamavam ainda mais: 
+ Crucifica-o!
+#v 15 %v Mas Pilatos, querendo satisfazer à multidão, soltou-lhes a Barrabás, e entregou a Jesus açoitado, para que fosse crucificado.
+#v 16 %v E os soldados o levaram para dentro da sala, que é o tribunal; e convocaram toda a tropa.
+#v 17 %v E o vestiram de vermelho; e tecendo uma coroa de espinhos, puseram-na em sua #ad cabeça %ad .
+#v 18 %v E começaram a saudá-lo, #ad dizendo %ad :
+ Alegra-te, Rei dos Judeus!
+#v 19 %v E feriram sua cabeça com uma cana, e cuspiam nele, e prostrados de joelhos, o adoravam.
+#v 20 %v E havendo o escarnecido, despiram-lhe a #ad capa %ad vermelha, e o vestiram de suas próprias roupas, e o levaram fora, para o crucificarem.
+#v 21 %v E forçaram a um Simão cireneu, que passava #ad por ali %ad , e vinha do campo, o pai de Alexandre e de Rufo, que levasse sua cruz.
+#v 22 %v E o levaram ao lugar de Gólgota, que traduzido é: o lugar da caveira.
+#v 23 %v E deram-lhe a beber vinho misturado com mirra; mas ele não #ad o %ad tomou.
+#v 24 %v E havendo o crucificado, repartiram suas roupas, lançando sortes sobre elas, quem levaria cada uma #ad delas %ad .
+#v 25 %v E era a hora terceira, e o crucificaram.
+#v 26 %v E a descrição de sua causa estava por cima #ad dele %ad escrita: O REI DOS JUDEUS.
+#v 27 %v E crucificaram com ele dois ladrões, um à sua direita, e outro à esquerda.
+#v 28 %v {tr,rp:E cumpriu-se a Escritura que diz:
+ E foi contado com os malfeitores.}{trnc: #fn _c N4 omite todo o versículo. Compare com Lucas 22:37 e Isaías 53:12 %fn }{n4:--- #fn _c TR, RP incluem no versículo o texto: "E cumpriu-se a Escritura que diz: E foi contado com os malfeitores.". Compare com Lucas 22:37 e Isaías 53:12 %fn }
+#v 29 %v E os que passavam, blasfemavam dele, balançando suas cabeças, e dizendo:
+ Ah! tu que derrubas o templo, e em três dias o edificas;
+#v 30 %v Salva-te a ti mesmo, e desce da cruz!
+#v 31 %v E da mesma maneira também os chefes dos sacerdotes, com os escribas, diziam uns para os outros, escarnecendo:
+ Ele salvou a outros, a si mesmo não pode salvar!
+#v 32 %v Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos!
+Os que estavam crucificados com ele também o insultavam.
+#v 33 %v E vinda a hora sexta, foram feitas trevas sobre toda a terra, até a hora nona.
+#v 34 %v E à hora nona, Jesus exclamou com grande voz, dizendo:
+ ELOÍ, ELOÍ, LAMÁ SABACTÂNI, 
+que traduzido é: 
+ Deus meu, Deus meu, por que me desamparaste?
+#v 35 %v E ouvindo uns dos que ali estavam, diziam:
+ Eis que ele chama a Elias.
+#v 36 %v E correu um, e encheu de vinagre uma esponja, e pondo-a em uma cana, dava-lhe de beber, dizendo:
+ Deixai, vejamos se Elias virá para tirá-lo.
+#v 37 %v E Jesus, dando uma grande voz, expirou.
+#v 38 %v E o véu do Templo se rasgou em dois do alto abaixo.
+#v 39 %v E o centurião, que estava ali em frente dele, vendo que expirara clamando assim, disse: Verdadeiramente este homem era Filho de Deus.
+#v 40 %v E também estavam ali #ad algumas %ad mulheres olhando de longe, entre as quais estava também Maria Madalena, e Maria (mãe de Tiago o menor e de José), e Salomé.
+#v 41 %v As quais também, estando ele na Galileia, o seguiam, e o serviam; e outras muitas, que tinham subido com ele a Jerusalém.
+#v 42 %v E vinda já a tarde, porque era a preparação, que é o dia antes de sábado;
+#v 43 %v Veio José de Arimateia, honrado membro do conselho, que também esperava o Reino de Deus, e com ousadia foi até Pilatos, e pediu o corpo de Jesus.
+#v 44 %v E Pilatos se maravilhou de que já fosse morto. E chamando a si ao centurião, perguntou-lhe se era morto já havia muito #ad tempo %ad .
+#v 45 %v E havendo sido explicado pelo centurião, deu o corpo a José.
+#v 46 %v O qual comprou um lençol fino, e tirando-o #ad da cruz %ad , envolveu-o no lençol fino, e o pôs em um sepulcro escavado em uma rocha, e revolveu uma pedra à porta do sepulcro.
+#v 47 %v E Maria Madalena, e Maria #ad mãe %ad de José, olhavam onde o puseram.
+
+#c 16 %c
+#v 1 %v E passado o sábado, Maria Madalena, e Maria #ad mãe %ad de Tiago, e Salomé, compraram especiarias, para virem, e o ungirem.
+#v 2 %v E manhã muito #ad cedo %ad , o primeiro dia da semana, vieram ao sepulcro, o sol já saindo.
+#v 3 %v E diziam umas às outras:
+ Quem nos revolverá a pedra da porta do sepulcro?
+#v 4 %v Porque era muito grande. E observando, viram que já a pedra estava revolta
+#v 5 %v E entrando no sepulcro, viram um rapaz sentado à direita, vestido de uma roupa comprida branca; e #ad elas %ad se espantaram.
+#v 6 %v Mas ele lhes disse:
+ Não vos espanteis; buscais a Jesus Nazareno crucificado; ele já ressuscitou; não está aqui; eis aqui o lugar onde o puseram.
+#v 7 %v Porém ide, dizei a seus discípulos e a Pedro, que ele vos vai adiante para a Galileia; ali o vereis, como ele vos disse.
+#v 8 %v E elas, saindo apressadamente, fugiram do sepulcro; porque o temor e espanto as tinha tomado; e não diziam nada a ninguém, porque temiam.{trnc,n4: #fn _c N4 não considera autêntico o conteúdo dos versículos 9 ao 20{n4:, incluso em TR e RP} %fn }
+#v 9 %v {n4:<aot|}E #ad Jesus %ad , tendo ressuscitado pela manhã, #ad n %ad o primeiro da semana, apareceu primeiramente a Maria Madalena, da qual tinha expulsado sete demônios.
+#v 10 %v Esta, tendo indo, anunciou aos que estiveram com ele, os quais estavam tristes e chorando.
+#v 11 %v E eles, ao ouvirem ouvindo que ele vivia, e #ad que %ad tinha sido visto por ela, não creram.
+#v 12 %v E depois se manifestou em outra forma a dois deles, que iam pelo caminho para o campo.
+#v 13 %v E estes, indo, anunciaram aos outros; #ad porém %ad nem ainda creram nestes #ad dois %ad .
+#v 14 %v Finalmente se manifestou aos onze, estando eles juntamente sentados, e repreendeu #ad pela %ad incredulidade e dureza de coração deles, por não terem crido nos que já o tinham visto ressuscitado.
+#v 15 %v E disse-lhes:
+ Ide por todo o mundo, pregai o Evangelho a toda criatura.
+#v 16 %v Quem crer e for batizado será salvo; mas quem não crer será condenado.
+#v 17 %v E estes sinais seguirão aos que crerem: em meu nome expulsarão demônios; falarão novas línguas;
+#v 18 %v Pegarão serpentes com as mãos; e se beberem alguma coisa mortífera, não lhes fará dano algum; porão as mãos sobre os enfermos, e sararão.
+#v 19 %v Então o Senhor, depois de ter lhes falado, foi recebido acima no céu, e sentou-se à direita de Deus.
+#v 20 %v E eles saíram e pregaram por todas as partes, o Senhor operando com eles, e confirmando a palavra com os sinais que se seguiam. Amém{|aot>}.
