@@ -1,7 +1,7 @@
 ﻿#header
 #name Evangelho Segundo Lucas %name
 #snm Lucas %snm
-#ver 20130930 %ver
+#ver 20141226 %ver
 #abbr Lc %abbr
 %header
 
@@ -1588,7 +1588,7 @@ E respondendo, ele lhe disse:
 #v 14 %v Vós me trouxestes a este homem, como que perverte o povo; e eis que eu, examinando-o em vossa presença, nenhuma culpa eu acho neste homem, das de que o acusais.
 #v 15 %v E nem também Herodes; porque a ele eu vos remeti; e eis que ele nada fez para que seja digno de morte.
 #v 16 %v Então eu o castigarei, e #ad depois %ad o soltarei.
-#v 17 %v {tr,rp:E ele tinha de soltar-lhes alguém durante a festa.}{trnc: #fn _c N4 omite: E ele tinha de soltar-lhes alguém durante a festa. Compare com Mateus 27:15 e Marcos 15:6 %fn }{n4:--- #fn _c TR, RP contém o texto: E ele tinha de soltar-lhes alguém durante a festa. Compare com Mateus 27:15 e Marcos 15:6 %fn 
+#v 17 %v {tr,rp:E ele tinha de soltar-lhes alguém durante a festa.}{trnc: #fn _c N4 omite: E ele tinha de soltar-lhes alguém durante a festa. Compare com Mateus 27:15 e Marcos 15:6 %fn }{n4:--- #fn _c TR, RP contém o texto: E ele tinha de soltar-lhes alguém durante a festa. Compare com Mateus 27:15 e Marcos 15:6 %fn }
 #v 18 %v Porém todos clamavam juntos, dizendo:
  Tirai-o daqui! E soltai Barrabás para nós!
 #v 19 %v (O qual por uma rebelião feita na cidade, e #ad por %ad uma morte, tinha sido lançado na prisão).
