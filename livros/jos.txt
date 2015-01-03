@@ -1,7 +1,7 @@
 ﻿#header
 #name Livro de Josué %name
 #snm Josué %snm
-#ver 20130107 %ver
+#ver 20150103 %ver
 #abbr Jos %abbr
 %header
 
@@ -708,5 +708,5 @@
 #v 29 %v E depois destas coisas morreu Josué, filho de Num, servo do SENHOR sendo de cento e dez anos.
 #v 30 %v E enterraram-no no termo de sua possessão em Timnate-Sera, que está no monte de Efraim, ao norte do monte de Gaás.
 #v 31 %v E serviu Israel ao SENHOR todo o tempo de Josué, e todo o tempo dos anciãos que viveram depois de Josué, e que sabiam todas as obras do SENHOR, que havia feito por Israel.
-#v 32 %v E enterraram em Siquém os ossos de José que os filhos de Israel haviam trazido do Egito, na parte do campo que Jacó comprou dos filhos de Hemor pai de Siquém, por cem peças de dinheiro; e foi em possessão aos filhos de José.
+#v 32 %v E enterraram em Siquém os ossos de José que os filhos de Israel haviam trazido do Egito, na parte do campo que Jacó comprou dos filhos de Hamor, pai de Siquém, por cem peças de prata; e foi em possessão aos filhos de José.
 #v 33 %v Também morreu Eleazar, filho de Arão; ao qual enterraram no morro de Fineias seu filho, que lhe foi dado no monte de Efraim.

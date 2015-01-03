@@ -1,7 +1,7 @@
 ﻿#header
 #name Daniel %name
 #snm Daniel %snm
-#ver 20111217 %ver
+#ver 20150103 %ver
 #abbr Dn %abbr
 %header
 
@@ -127,7 +127,7 @@ Então Arioque explicou o ocorrido a Daniel.
 Eles responderam ao rei: 
  É verdade, ó rei. 
 #v 25 %v Ele disse mais:
- Eis que eu vejo quatro homens soltos, que se passeiam dentro do fogo; e nenhum dano há neles; e o aparência do quarto é semelhante a um filho dos deuses.
+ Eis que vejo quatro homens soltos andando no meio do fogo, e não há neles dano algum; e a aparência do quarto é semelhante a um filho de deuses. #fn _k filho de deuses _c ou “ser divino”. Nas línguas bíblicas (no caso, o aramaico), o termo literalmente traduzido por “filho” tem sentido mais amplo que no português %fn
 #v 26 %v Então Nabucodonosor se aproximou da porta da fornalha de fogo ardente, e falou:
  Sadraque, Mesaque, e Abednego, servos do Deus altíssimo, saí e vinde!
 Então Sadraque, Mesaque, e Abednego saíram do meio do fogo. 

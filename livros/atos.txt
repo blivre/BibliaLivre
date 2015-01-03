@@ -1,7 +1,7 @@
 ﻿#header
 #name Atos dos Apóstolos %name
 #snm Atos %snm
-#ver 20141102 %ver
+#ver 20150103 %ver
 #abbr At %abbr
 %header
 
@@ -124,8 +124,8 @@
 #v 20 %v E ele enviar a Jesus Cristo, que já vos foi {tr,rp:pregado}{n4:designado}{trnc: #fn _c N4: designado %fn }{n4: #fn _c TR, RP: pregado %fn } anteriormente.
 #v 21 %v Ao qual convém que o céu receba até os tempos da restauração de todas as coisas, que Deus falou pela boca de todos os seus santos profetas, desde o princípio.
 #v 22 %v Porque Moisés disse aos #ad nossos %ad pais:
- O Senhor, vosso Deus, levantará, d #ad entre %ad vossos irmãos, a um profeta como a mim; e ele vós ouvireis em tudo o que ele vos falar.
-#v 23 %v E será que toda alma que não ouvir a este profeta será exterminada do povo.
+ O Senhor, vosso Deus, levantará dentre vossos irmãos um profeta como eu; a ele ouvireis em tudo o que ele vos falar.
+#v 23 %v E será que toda pessoa #fn _c Lit. alma %fn que não ouvir este profeta será exterminada do povo.
 #v 24 %v E também todos os profetas, desde Samuel e os posteriores, todos os que falaram, também anunciaram com antecedência destes dias.
 #v 25 %v Vós sois os filhos dos profetas e do pacto que Deus estabeleceu com nossos pais, dizendo a Abraão:
  E em tua semente serão abençoadas todas as famílias da terra.
