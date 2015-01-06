@@ -1,7 +1,7 @@
 ﻿#header
 #name Jó %name
 #snm Jó %snm
-#ver 20130624 %ver
+#ver 20150106 %ver
 #abbr Jo %abbr
 %header
 
@@ -234,7 +234,7 @@ Em tudo isto Jó não pecou com seus lábios.
  Nunca te vi. 
 #v 19 %v Eis que este é o prazer de seu caminho; e do solo outros brotarão.
 #v 20 %v Eis que Deus não rejeita ao íntegro, nem segura pela mão aos malfeitores.
-#v 21 %v Até que ele encha tua boca de riso, e teus lábios de júbilo.
+#v 21 %v Ainda ele encherá tua boca de riso, e teus lábios de júbilo.
 #v 22 %v Os que te odeiam se vestirão de vergonha, e nunca mais haverá tenda de perversos.
 
 #c 9 %c
