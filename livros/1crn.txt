@@ -685,11 +685,11 @@ Por isso chamaram o nome daquele lugar Baal-Perazim.
 #v 4 %v Vai e dize a Davi meu servo: Assim disse o SENHOR: Tu não me edificarás casa em que habite:
 #v 5 %v Porque não habitei em casa alguma desde o dia que tirei a os filhos de Israel até hoje; antes estive de tenda em tenda, e de tabernáculo em tabernáculo.
 #v 6 %v Em todo quanto andei com todo Israel falei uma palavra a algum dos juízes de Israel, a os quais mandei que apascentassem meu povo, para dizer-lhes: Por que não me edificais uma casa de cedro?
-#v 7 %v Por tanto, agora dirás a meu servo Davi: Assim disse o SENHOR dos exércitos: Eu te tomei da malhada, de detrás do gado, para que fosses príncipe sobre meu povo Israel;
+#v 7 %v Portanto, agora dirás a meu servo Davi: Assim disse o SENHOR dos exércitos: Eu te tomei da malhada, de detrás do gado, para que fosses príncipe sobre meu povo Israel;
 #v 8 %v E fui contigo em tudo quanto andaste, e arranquei a todos teus inimigos de diante de ti, e te fiz grande nome, como o nome dos grandes que são na terra.
 #v 9 %v Assim dispus lugar a meu povo Israel, e o plantei para que habite por si, e que não seja mais comovido: nem os filhos de iniquidade o consumirão mais, como antes,
 #v 10 %v E desde o tempo que pus os juízes sobre meu povo Israel; mas humilharei a todos teus inimigos. Faço-te ademais saber que o SENHOR te há de edificar casa.
-#v 11 %v E será que, quando teus dias forem cumpridos para ir-te com teus pais, levantarei tua semente depois de ti, a qual será de teus filhos, e afirmarei seu reino.
+#v 11 %v E será que, quando teus dias forem cumpridos para ir-te com teus pais, levantarei a tua descendência #fn _c Lit. semente %fn depois de ti, a qual será de teus filhos, e afirmarei seu reino.
 #v 12 %v Ele me edificará casa, e eu confirmarei seu trono eternamente.
 #v 13 %v Eu lhe serei por pai, e ele me será por filho: e não tirarei dele minha misericórdia, como a tirei daquele que foi antes de ti;
 #v 14 %v Mas eu o confirmarei em minha casa e em meu reino eternamente; e seu trono será firme para sempre.
@@ -699,16 +699,16 @@ Por isso chamaram o nome daquele lugar Baal-Perazim.
 #v 18 %v Que mais pode dizer Davi pedindo de ti para glorificar a tua servo? Porém tu conheces a teu servo.
 #v 19 %v Ó SENHOR, por amor de teu servo e segundo teu coração, fizeste toda esta grandeza, para fazer notórias todas as tuas grandezas.
 #v 20 %v Ó SENHOR, não há semelhante a ti, nem há Deus a não ser tu, segundo todas as coisas que ouvimos com nossos ouvidos.
-#v 21 %v E que gente há na terra como teu povo Israel, cujo Deus fosse e se redimisse um povo, para fazer-te nome com grandezas e maravilhas, lançando as nações de diante de teu povo, que tu resgataste do Egito?
+#v 21 %v E que gente há na terra como teu povo Israel, cujo Deus fosse e se redimisse um povo, para fazer-te nome com grandezas e maravilhas, expulsando as nações de diante de teu povo, que tu resgataste do Egito?
 #v 22 %v Tu constituíste a teu povo Israel por povo teu para sempre; e tu, o SENHOR, vieste a ser seu Deus.
-#v 23 %v Agora, pois, SENHOR, a palavra que falaste acerca de teu servo e de sua casa, seja firme para sempre, e face como disseste.
+#v 23 %v Agora, pois, SENHOR, a palavra que falaste acerca de teu servo e de sua casa, seja firme para sempre, e faze como disseste.
 #v 24 %v Permaneça, pois, e seja engrandecido teu nome para sempre, a fim de que se diga: o SENHOR dos exércitos, Deus de Israel, é Deus para Israel. E seja a casa de teu servo Davi firme diante de ti.
 #v 25 %v Porque tu, Deus meu, revelaste ao ouvido a teu servo que lhe edificarás casa; por isso achou teu servo motivo de orar diante de ti.
 #v 26 %v Agora, pois, o SENHOR, tu és o Deus que falaste de teu servo este bem;
 #v 27 %v E agora quiseste abençoar a casa de teu servo, para que permaneça perpetuamente diante de ti: porque tu, o SENHOR, a abençoaste, e será bendita para sempre.
 
 #c 18 %c
-#v 1 %v Depois destas coisas aconteceu que Davi feriu aos filisteus, e os humilhou; e tomou a Gate e suas vilas de mão dos filisteus.
+#v 1 %v Depois destas coisas aconteceu que Davi feriu aos filisteus, e os humilhou; e tomou Gate e suas vilas das mãos dos filisteus.
 #v 2 %v Também feriu a Moabe; e os moabitas foram servos de Davi, trazendo-lhe presentes.
 #v 3 %v Assim feriu Davi a Hadadezer, rei de Zobá, em Hamate, quando ele foi assegurar seu domínio até o rio Eufrates.
 #v 4 %v E tomou-lhes Davi mil carros, e sete mil a cavalo, e vinte mil homens a pé; e Davi aleijou os cavalos de todos os carros, exceto os de cem carros que deixou.
