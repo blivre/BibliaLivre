@@ -1,7 +1,7 @@
 ﻿#header
 #name Primeiro Livro de Crônicas %name
 #snm 1 Crônicas %snm
-#ver 20130522 %ver
+#ver 20150105 %ver
 #abbr 1Cr %abbr
 %header
 
@@ -708,47 +708,47 @@ Por isso chamaram o nome daquele lugar Baal-Perazim.
 #v 27 %v E agora quiseste abençoar a casa de teu servo, para que permaneça perpetuamente diante de ti: porque tu, o SENHOR, a abençoaste, e será bendita para sempre.
 
 #c 18 %c
-#v 1 %v Depois destas coisas aconteceu que Davi feriu a os filisteus, e os humilhou; e tomou a Gate e suas vilas de mão dos filisteus.
-#v 2 %v Também feriu a Moabe; e os moabitas foram servos de Davi trazendo-lhe presentes.
-#v 3 %v Assim feriu Davi a Hadadezer rei de Zobá, em Hamate, indo ele a assegurar seu domínio ao rio de Eufrates.
-#v 4 %v E tomou-lhes Davi mil carros, e sete mil a cavalo, e vinte mil homens a pé: e aleijou Davi os cavalos de todos os carros, exceto os de cem carros que deixou.
-#v 5 %v E vindo os sírios de Damasco em ajuda de Hadadezer rei de Zobá, Davi feriu dos sírios vinte e dois mil homens.
-#v 6 %v E pôs Davi guarnição em Síria a de Damasco, e os sírios foram feitos servos de Davi, trazendo-lhe presentes: porque o SENHOR salvava a Davi de onde quer que fosse.
+#v 1 %v Depois destas coisas aconteceu que Davi feriu aos filisteus, e os humilhou; e tomou a Gate e suas vilas de mão dos filisteus.
+#v 2 %v Também feriu a Moabe; e os moabitas foram servos de Davi, trazendo-lhe presentes.
+#v 3 %v Assim feriu Davi a Hadadezer, rei de Zobá, em Hamate, quando ele foi assegurar seu domínio até o rio Eufrates.
+#v 4 %v E tomou-lhes Davi mil carros, e sete mil a cavalo, e vinte mil homens a pé; e Davi aleijou os cavalos de todos os carros, exceto os de cem carros que deixou.
+#v 5 %v E vindo os sírios de Damasco em ajuda de Hadadezer, rei de Zobá, Davi feriu dos sírios vinte e dois mil homens.
+#v 6 %v E pôs Davi guarnição na Síria de Damasco, e os sírios foram feitos servos de Davi, trazendo-lhe presentes; porque o SENHOR salvava a Davi por onde quer que fosse.
 #v 7 %v Tomou também Davi os escudos de ouro que levavam os servos de Hadadezer, e trouxe-os a Jerusalém.
-#v 8 %v Assim de Tibate e de Cum cidades de Hadadezer, tomou Davi muito metal, de que Salomão fez o mar de bronze, as colunas, e vasos de bronze.
-#v 9 %v E ouvindo Toú rei de Hamate, que Davi havia defeito todo o exército de Hadadezer, rei de Zobá,
-#v 10 %v Enviou a Adorão seu filho ao rei Davi, a saudar-lhe e a bendizer-lhe por haver guerreado com Hadadezer, e haver lhe vencido; porque Toú tinha guerra com Hadadezer. Enviou-lhe também toda sorte de vasos de ouro, de prata e de metal;
-#v 11 %v Os quais o rei Davi dedicou a o SENHOR, com a prata e ouro que havia tomado de todas as nações, de Edom, de Moabe, dos filhos de Amom, dos filisteus, e de Amaleque.
-#v 12 %v A mais de isto Abisai filho de Zeruia feriu no vale do sal dezoito mil edomitas.
-#v 13 %v E pôs guarnição em Edom, e todos os edomitas foram servos de Davi: porque o SENHOR guardava a Davi de onde quer que fosse.
+#v 8 %v Assim de Tibate e de Cum, cidades de Hadadezer, Davi tomou muito bronze, de que Salomão fez o mar de bronze, as colunas, e vasos de bronze.
+#v 9 %v E ouvindo Toú, rei de Hamate, que Davi havia defeito todo o exército de Hadadezer, rei de Zobá,
+#v 10 %v Enviou seu filho Hdorão ao rei Davi para saudar-lhe e para bendizer-lhe por haver guerreado com Hadadezer, e haver lhe vencido; porque Toú tinha guerra com Hadadezer. Enviou-lhe também toda sorte de artigos de ouro, de prata e de metal;
+#v 11 %v os quais o rei Davi dedicou a o SENHOR, com a prata e ouro que havia tomado de todas as nações, de Edom, de Moabe, dos filhos de Amom, dos filisteus, e de Amaleque.
+#v 12 %v Além disso Abisai, filho de Zeruia, feriu no vale do sal dezoito mil edomitas.
+#v 13 %v E pôs guarnições em Edom, e todos os edomitas foram servos de Davi; porque o SENHOR guardava a Davi por onde quer que fosse.
 #v 14 %v E reinou Davi sobre todo Israel, e fazia juízo e justiça a todo seu povo.
-#v 15 %v E Joabe filho de Zeruia era general do exército; e Josafá filho de Ailude, chanceler;
-#v 16 %v E Zadoque filho de Aitube, e Abimeleque filho de Abiatar, eram sacerdotes; e Sausa, secretário;
-#v 17 %v E Benaia filho de Joiada era sobre os quereteus e peleteus; e os filhos de Davi eram os príncipes cerca do rei.
+#v 15 %v E Joabe, filho de Zeruia, era general do exército; e Josafá filho de Ailude, cronista;
+#v 16 %v E Zadoque, filho de Aitube, e Abimeleque filho de Abiatar, eram sacerdotes; e Sausa, secretário;
+#v 17 %v E Benaia, filho de Joiada, era sobre os quereteus e peleteus; e os filhos de Davi eram os principais próximos do rei.
 
 #c 19 %c
-#v 1 %v Depois destas coisas aconteceu que morreu Naás rei dos filhos de Amom, e reinou em seu lugar seu filho.
+#v 1 %v Depois destas coisas, aconteceu que morreu Naás, rei dos filhos de Amom, e seu filho reinou em seu lugar.
 #v 2 %v E disse Davi: Farei misericórdia com Hanã filho de Naás, porque também seu pai fez comigo misericórdia. Assim Davi enviou embaixadores que o consolassem da morte de seu pai. Mas vindos os servos de Davi na terra dos filhos de Amom a Hanã,
-#v 3 %v Os príncipes dos filhos de Amom disseram a Hanã: A teu parecer honra Davi a teu pai, que te enviou consoladores? Não vem antes seus servos a ti para esquadrinhar, e inquirir, e reconhecer a terra?
-#v 4 %v Então Hanã tomou os servos de Davi, e rapou-os, e cortou-lhes as vestes ao meio, até as nádegas, e despachou-os.
-#v 5 %v Foram-se, pois, e dada que foi a nova a Davi de aqueles varões, ele enviou a recebê-los, porque estavam muito afrontados. E fez-lhes dizer o rei: Ficai-vos em Jericó até que vos cresça a barba, e então voltareis.
-#v 6 %v E vendo os filhos de Amom que se haviam feito odiosos a Davi, Hanã e os filhos de Amom enviaram mil talentos de prata, para tomar a soldo carros e gente a cavalo da Síria dos rios, e da Síria de Maaca, e de Zobá.
-#v 7 %v E tomaram a soldo trinta e dois mil carros, e ao rei de Maaca e a seu povo, os quais vieram e assentaram seu campo diante de Medeba. E juntaram-se também os filhos de Amom de suas cidades, e vieram à guerra.
+#v 3 %v os príncipes dos filhos de Amom disseram a Hanã: Pensas que Davi está honrando o teu pai, de maneira que te enviou consoladores? Acaso não é que os servos dele vêm a ti para espionar, e investigar, e reconhecer a terra?
+#v 4 %v Então Hanã tomou os servos de Davi, rapou-os, e cortou-lhes as vestes ao meio, até as nádegas, e despachou-os.
+#v 5 %v Foram-se, pois, e quando foi dada a Davi a notícia acerca daqueles homens, ele mandou que fossem ao encontro deles, porque estavam muito afrontados. E o rei mandou-lhes dizer: Ficai em Jericó até que vos cresça a barba, e então voltareis.
+#v 6 %v E quando os filhos de Amom viram que se haviam feito Davi ter ódio deles, Hanã e os filhos de Amom enviaram mil talentos de prata, para alugarem carruragens e cavaleiros da Mesopotâmia, da Síria de Maaca, e de Zobá.
+#v 7 %v E alugaram trinta e dois mil carruagens, e ao rei de Maaca com o seu povo, os quais vieram e assentaram seu acampamento diante de Medeba. E juntaram-se também os filhos de Amom de suas cidades, e vieram à guerra.
 #v 8 %v Ouvindo-o Davi, enviou a Joabe com todo o exército dos homens valentes.
-#v 9 %v E os filhos de Amom saíram, e ordenaram sua tropa à entrada da cidade; e os reis que haviam vindo, estavam por si no campo.
-#v 10 %v E vendo Joabe que a face da batalha estava contra ele diante e às costas, escolheu de todos os mais avantajados que havia em Israel, e ordenou seu esquadrão contra os sírios.
-#v 11 %v Pôs logo o resto da gente em mão de Abisai seu irmão, ordenando-os em batalha contra os amonitas.
-#v 12 %v E disse: Se os sírios forem mais fortes que eu, tu me salvarás; e se os amonitas forem mais fortes que tu, eu te salvarei.
-#v 13 %v Esforça-te, e esforcemo-nos por nosso povo, e pelas cidades de nosso Deus; e faça o SENHOR o que bem lhe parecer.
-#v 14 %v Acercou-se logo Joabe e o povo que tinha consigo, para pelejar contra os sírios; mas eles fugiram diante dele.
+#v 9 %v E os filhos de Amom saíram, e ordenaram sua tropa à entrada da cidade; e os reis que haviam vindo, estavam à parte no acampamento.
+#v 10 %v E vendo Joabe que a linha da batalha estava contra ele pela frente e por trás, escolheu de todos os mais capacitados que havia em Israel, e pôs seu esquadrão em formação contra os sírios.
+#v 11 %v Depois pôs os outros nas mãos de seu irmão Abisai, que os pôes em formação de batalha contra os amonitas.
+#v 12 %v E disse: Se os sírios forem mais fortes que eu, tu me socorrerás; e se os amonitas forem mais fortes que tu, eu te socorrerei.
+#v 13 %v Esforça-te, e sejamos corajosos por nosso povo, e pelas cidades de nosso Deus; e faça o SENHOR o que bem lhe parecer.
+#v 14 %v Aproximou-se, então, Joabe e o povo que tinha consigo, para lutar contra os sírios; mas eles fugiram diante dele.
 #v 15 %v E os filhos de Amom, vendo que os sírios haviam fugido, fugiram também eles diante de Abisai seu irmão, e entraram-se na cidade. Então Joabe se voltou a Jerusalém.
 #v 16 %v E vendo os sírios que haviam caído diante de Israel, enviaram embaixadores, e trouxeram aos sírios que estavam da outra parte do rio, cujo capitão era Sofaque, general do exército de Hadadezer.
-#v 17 %v Logo que foi dado aviso a Davi, juntou a todo Israel, e passando o Jordão veio a eles, e ordenou contra eles seu exército. E como Davi havia ordenado sua tropa contra eles, lutaram com ele os sírios.
-#v 18 %v Mas o sírio fugiu diante de Israel; e matou Davi dos sírios sete mil homens dos carros, e quarenta mil homens a pé: assim matou a Sofaque, general do exército.
-#v 19 %v E vendo os sírios de Hadadezer que haviam caído diante de Israel, concertaram paz com Davi, e foram seus servos; e nunca mais quis o sírio ajudar a os filhos de Amom.
+#v 17 %v Logo que foi dado aviso a Davi, juntou a todo Israel, e passando o Jordão veio a eles, e ordenou contra eles seu exército. E como Davi havia ordenado sua tropa contra eles, os sírios lutaram com ele.
+#v 18 %v Mas os sírios fugiram diante de Israel; e Davi matou dos sírios sete mil homens das carruagens, e quarenta mil homens a pé; assim matou Sofaque, general do exército.
+#v 19 %v E vendo os sírios de Hadadezer que haviam caído diante de Israel, concordarem em fazer a paz com Davi, e foram seus servos; e nunca mais os sírios quiseram ajudar os filhos de Amom.
 
 #c 20 %c
-#v 1 %v E aconteceu à volta do ano, no tempo que costumam os reis sair à guerra, que Joabe tirou as forças do exército, e destruiu a terra dos filhos de Amom, e veio e cercou a Rabá. Mas Davi estava em Jerusalém: e Joabe bateu a Rabá, e a destruiu.
+#v 1 %v E aconteceu à volta do ano, no tempo que costumam os reis sair à guerra, que Joabe tirou as forças do exército, e destruiu a terra dos filhos de Amom, e veio e cercou a Rabá. Mas Davi estava em Jerusalém; e Joabe atacou Rabá, e a destruiu.
 #v 2 %v E tomou Davi a coroa de seu rei de encima de sua cabeça, e achou-a de peso de um talento de ouro, e havia nela pedras preciosas; e foi posta sobre a cabeça de Davi. E ademais de isto tirou da cidade um muito grande despojo.
 #v 3 %v Tirou também ao povo que estava nela, e cortou-os com serras, e com trilhos de ferro, e machados. O mesmo fez Davi a todas as cidades dos filhos de Amom. E voltou-se Davi com todo o povo a Jerusalém.
 #v 4 %v Depois de isto aconteceu que se levantou guerra em Gezer com os filisteus; e feriu Sibecai Husatita a Sipai, da linhagem dos gigantes; e foram humilhados.

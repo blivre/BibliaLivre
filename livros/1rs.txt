@@ -1,7 +1,7 @@
 ﻿#header
 #name Primeiro Livro dos Reis %name
 #snm 1 Reis %snm
-#ver 20120818 %ver
+#ver 20150104 %ver
 #abbr 1Rs %abbr
 %header
 
@@ -567,7 +567,7 @@
 
 #c 15 %c
 #v 1 %v No ano dezoito do rei Jeroboão filho de Nebate, Abião começou a reinar sobre Judá.
-#v 2 %v Reinou três anos em Jerusalém. O nome de sua mãe foi Maaca, filha de Abisalom.
+#v 2 %v Reinou três anos em Jerusalém. O nome de sua mãe era Maaca, filha #fn _c provavelmente neta. Também no v. 10 %fn de Abissalão. #fn _c Variante do nome “Absalão”. Também no v. 10 %fn
 #v 3 %v E andou em todos os pecados de seu pai, que havia este feito antes dele; e não foi seu coração perfeito com o SENHOR seu Deus, como o coração de Davi seu pai.
 #v 4 %v Mas por amor de Davi, deu-lhe o SENHOR seu Deus lâmpada em Jerusalém, levantando-lhe a seu filho depois dele, e sustentando a Jerusalém:
 #v 5 %v Porquanto Davi havia feito o que era correto diante dos olhos do SENHOR, e de nenhuma coisa que lhe mandasse se havia apartado em todos os dias de sua vida, exceto o negócio de Urias Heteu.
@@ -575,16 +575,16 @@
 #v 7 %v Os demais dos feitos de Abião, e todas as coisas que fez, não estão escritas no livro das crônicas dos reis de Judá? E havia guerra entre Abião e Jeroboão.
 #v 8 %v E dormiu Abião com seus pais, e sepultaram-no na cidade de Davi: e reinou Asa seu filho em seu lugar.
 #v 9 %v No ano vinte de Jeroboão rei de Israel, Asa começou a reinar sobre Judá.
-#v 10 %v E reinou quarenta e um anos em Jerusalém; o nome de sua mãe foi Maaca, filha de Absalão.
-#v 11 %v E Asa fez o reto ante os olhos do SENHOR, como Davi seu pai.
+#v 10 %v E reinou quarenta e um anos em Jerusalém; o nome de sua avó #fn _c Lit. mãe. Também no v. 13 %fn era Maaca, filha de Abissalão.
+#v 11 %v E Asa fez o que era reto diante dos olhos do SENHOR, como o seu pai Davi.
 #v 12 %v Porque tirou os sodomitas da terra, e tirou todas as imundícies que seus pais haviam feito.
-#v 13 %v E também privou a sua mãe Maaca de ser princesa, porque havia feito um ídolo em um bosque. Ademais destruiu Asa o ídolo de sua mãe, e queimou-o junto ao ribeiro de Cedrom.
-#v 14 %v Porém os altos não se tiraram: contudo, o coração de Asa foi perfeito para com o SENHOR toda sua vida.
-#v 15 %v Também meteu na casa do SENHOR o que seu pai havia dedicado, e o que ele dedicou: ouro, e prata, e vasos.
-#v 16 %v E havia guerra entre Asa e Baasa rei de Israel, todo o tempo de ambos.
-#v 17 %v E subiu Baasa rei de Israel contra Judá, e edificou a Ramá, para não deixar sair nem entrar a ninguém de Asa, rei de Judá.
-#v 18 %v Então tomando Asa toda a prata e ouro que havia restado nos tesouros da casa do SENHOR, e os tesouros da casa real, entregou-os nas mãos de seus servos, e enviou-os o rei Asa a Ben-Hadade, filho de Tabrimom, filho de Heziom, rei da Síria, o qual residia em Damasco, dizendo:
-#v 19 %v Aliança há entre mim e ti, e entre meu pai e o teu: eis que eu te envio um presente de prata e ouro: vai, e rompe tua aliança com Baasa rei de Israel, para que me deixe.
+#v 13 %v E também tirou de sua avó Maaca a posição de rainha-mãe, porque havia feito um ídolo num bosque. Além disso, Asa destruiu o ídolo dela, e o queimou junto ao ribeiro de Cedrom.
+#v 14 %v Porém os altos não foram tirados. Contudo, o coração de Asa foi perfeito para com o SENHOR durante toda a sua vida.
+#v 15 %v Também trouxe à casa do SENHOR o que o seu pai havia dedicado, e o que ele dedicou: ouro, e prata, e utensílios.
+#v 16 %v E havia guerra entre Asa e Baasa, rei de Israel, durante todo o tempo deles.
+#v 17 %v E Baasa, rei de Israel, subiu contra Judá, e edificou Ramá, para não deixar sair nem entrar a ninguém de Asa, rei de Judá.
+#v 18 %v Então Asa tomou toda a prata e ouro que havia restado nos tesouros da casa do SENHOR, e os tesouros da casa real, entregou-os nas mãos de seus servos, e o rei Asa os enviou a Ben-Hadade, filho de Tabrimom, filho de Heziom, rei da Síria, o qual residia em Damasco, dizendo:
+#v 19 %v Aliança há entre mim e ti, e entre meu pai e o teu; eis que eu te envio um presente de prata e ouro. Vai, e rompe a tua aliança com Baasa rei de Israel, para que me deixe.
 #v 20 %v E Ben-Hadade consentiu com o rei Asa, e enviou os príncipes dos exércitos que tinha contra as cidades de Israel, e feriu a Ijom, e a Dã, e a Abel-Bete-Maaca, e a toda Quinerete, com toda a terra de Naftali.
 #v 21 %v E ouvindo isto Baasa, deixou de edificar a Ramá, e ficou em Tirsa.
 #v 22 %v Então o rei Asa convocou a todo Judá, sem excetuar ninguém; e tiraram de Ramá a pedra e a madeira com que Baasa edificava, e edificou o rei Asa com ele a Gibeá de Benjamim, e a Mispá.
@@ -593,21 +593,21 @@
 #v 25 %v E Nadabe, filho de Jeroboão, começou a reinar sobre Israel no segundo ano de Asa rei de Judá; e reinou sobre Israel dois anos.
 #v 26 %v E fez o que era mau diante dos olhos do SENHOR, andando no caminho de seu pai, e em seus pecados com que fez pecar a Israel.
 #v 27 %v E Baasa filho de Aías, o qual era da casa de Issacar, fez conspiração contra ele: e feriu-o Baasa em Gibetom, que era dos filisteus: porque Nadabe e todo Israel tinham cercado a Gibetom.
-#v 28 %v Matou-o pois Baasa no terceiro ano de Asa rei de Judá, e reinou em lugar seu.
+#v 28 %v Matou-o, pois, Baasa no terceiro ano de Asa rei de Judá, e reinou em seu lugar.
 #v 29 %v E quando ele veio ao reino, feriu toda a casa de Jeroboão, sem deixar alma vivente dos de Jeroboão, até exterminá-lo, conforme à palavra do SENHOR que ele falou por seu servo Aías silonita;
-#v 30 %v Por os pecados de Jeroboão que ele havia cometido, e com os quais fez pecar a Israel; e por sua provocação com que provocou a ira ao SENHOR Deus de Israel.
+#v 30 %v Por causa dos pecados de Jeroboão que ele havia cometido, e com os quais fez pecar a Israel; e por sua provocação com que provocou à ira ao SENHOR Deus de Israel.
 #v 31 %v Os demais dos feitos de Nadabe, e todas as coisas que fez, não está tudo escrito no livro das crônicas dos reis de Israel?
-#v 32 %v E havia guerra entre Asa e Baasa rei de Israel, todo o tempo de ambos.
-#v 33 %v No terceiro ano de Asa rei de Judá, começou a reinar Baasa filho de Aías sobre todo Israel em Tirsa; e reinou vinte e quatro anos.
+#v 32 %v E havia guerra entre Asa e Baasa, rei de Israel, durante todo o tempo deles.
+#v 33 %v No terceiro ano de Asa, rei de Judá, começou a reinar Baasa, filho de Aías, sobre todo Israel em Tirsa; e reinou vinte e quatro anos.
 #v 34 %v E fez o que era mau aos olhos do SENHOR, e andou no caminho de Jeroboão, e em seu pecado com que fez pecar a Israel.
 
 #c 16 %c
-#v 1 %v E foi palavra do SENHOR a Jeú filho de Hanani contra Baasa, dizendo:
-#v 2 %v Pois que eu te levantei do pó, e te pus por príncipe sobre meu povo Israel, e tu andaste no caminho de Jeroboão, e fizeste pecar a meu povo Israel, provocando-me a ira com seus pecados;
-#v 3 %v Eis que eu varrerei a posteridade de Baasa, e a posteridade de sua casa: e porei tua casa como a casa de Jeroboão filho de Nebate.
-#v 4 %v O que de Baasa for morto na cidade, lhe comerão os cães; e o que dele for morto no campo, as aves do céu o comerão.
+#v 1 %v E foi palavra do SENHOR a Jeú, filho de Hanani, contra Baasa, dizendo:
+#v 2 %v Posto que te levantei do pó, e te pus por príncipe sobre meu povo Israel, e andaste no caminho de Jeroboão, e fizeste pecar a meu povo Israel, provocando-me à ira com os seus pecados;
+#v 3 %v Eis que varrerei a posteridade de Baasa, e a posteridade de sua casa; e tornarei a tua casa como a casa de Jeroboão, filho de Nebate.
+#v 4 %v O que de Baasa for morto na cidade, os cães lhe comerão; e o que dele for morto no campo, as aves do céu o comerão.
 #v 5 %v Os demais dos feitos de Baasa, e as coisas que fez, e sua fortaleza, não está tudo escrito no livro das crônicas dos reis de Israel?
-#v 6 %v E descansou Baasa com seus pais, e foi sepultado em Tirsa; e reinou em seu lugar Elá seu filho.
+#v 6 %v E descansou Baasa com seus pais, e foi sepultado em Tirsa; e reinou em seu lugar Elá, seu filho.
 #v 7 %v Porém a palavra do SENHOR por meio de Jeú profeta, filho de Hanani, havia sido contra Baasa e também contra sua casa, com motivo de todo o mal que fez aos olhos do SENHOR, provocando-lhe à ira com as obras de suas mãos, para que fosse feita como a casa de Jeroboão; e porque o havia ferido.
 #v 8 %v No ano vinte e seis de Asa rei de Judá, começou a reinar Elá filho de Baasa sobre Israel em Tirsa; e reinou dois anos.
 #v 9 %v E fez conspiração contra ele seu servo Zinri, comandante da metade dos carros. E estando ele em Tirsa, bebendo e embriagado em casa de Arsa seu mordomo em Tirsa,

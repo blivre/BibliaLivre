@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20130117 %ver
+#ver 20150104 %ver
 #abbr Gn %abbr
 %header
 
@@ -206,7 +206,7 @@
 #c 8 %c
 #v 1 %v E lembrou-se Deus de Noé, e de todos os animais, selvagens e domésticos que estavam com ele na arca; e fez passar Deus um vento sobre a terra, e diminuíram as águas.
 #v 2 %v E se fecharam as fontes do abismo, e as comportas dos céus; e a chuva dos céus foi detida.
-#v 3 %v E voltaram-se as águas de sobre a terra, indo e voltando: e decresceram as águas ao fim de cento e cinquenta dias.
+#v 3 %v E voltaram-se as águas de sobre a terra, indo e voltando; e decresceram as águas ao fim de cento e cinquenta dias.
 #v 4 %v E repousou a arca no mês sétimo, a dezessete dias do mês, sobre os montes de Ararate.
 #v 5 %v E as águas foram decrescendo até o mês décimo: no décimo, ao primeiro dia do mês, se revelaram os cumes dos montes.
 #v 6 %v E sucedeu que, ao fim de quarenta dias, abriu Noé a janela da arca que havia feito,
@@ -214,32 +214,32 @@
 #v 8 %v Enviou também de si à pomba, para ver se as águas se haviam retirado de sobre a face da terra;
 #v 9 %v E não achou a pomba onde sentar a planta de seu pé, e voltou-se a ele à arca, porque as águas estavam ainda sobre a face de toda a terra: então ele estendeu sua mão e recolhendo-a, a fez entrar consigo na arca.
 #v 10 %v E esperou ainda outros sete dias, e voltou a enviar a pomba fora da arca.
-#v 11 %v E a pomba voltou a ele à hora da tarde: e eis que trazia uma lâmina de oliveira tomada em seu bico: e entendeu Noé que as águas se haviam retirado de sobre a terra.
+#v 11 %v E a pomba voltou a ele à hora da tarde; e eis que trazia uma folha de oliveira tomada em seu bico; então Noé entendeu que as águas haviam se retirado de sobre a terra.
 #v 12 %v E esperou ainda outros sete dias, e enviou a pomba, a qual não voltou já mais a ele.
 #v 13 %v E sucedeu que no ano seiscentos e um de Noé, no mês primeiro, ao primeiro do mês, as águas se enxugaram de sobre a terra e tirou Noé a cobertura da arca, e olhou, e eis que a face da terra estava enxuta.
 #v 14 %v E no mês segundo, aos vinte e sete dias do mês, se secou a terra.
 #v 15 %v E falou Deus a Noé dizendo:
-#v 16 %v Sai da arca tu, e tua mulher, e teus filhos, e as mulheres de teus filhos contigo.
+#v 16 %v Sai da arca tu, a tua mulher, os teus filhos, e as mulheres dos teus filhos contigo.
 #v 17 %v Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que anda arrastando sobre a terra, tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra.
 #v 18 %v Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.
 #v 19 %v Todos os animais, e todo réptil e toda ave, tudo o que se move sobre a terra segundo suas espécies, saíram da arca.
 #v 20 %v E edificou Noé um altar ao SENHOR e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocausto no altar.
 #v 21 %v E percebeu o SENHOR cheiro suave; e disse o SENHOR em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz.
-#v 22 %v Todavia serão todos os tempos da terra; a sementeira e a colheita, e o frio e calor, verão e inverno, e dia e noite, não cessarão.
+#v 22 %v Enquanto a terra durar, a sementeira e a colheita, o frio e calor, verão e inverno, dia e noite, não cessarão.
 
 #c 9 %c
-#v 1 %v E abençoou Deus a Noé e a seus filhos, e disse-lhes: Frutificai, e multiplicai, e enchei a terra:
+#v 1 %v E Deus abençoou Noé e seus filhos, e disse-lhes: Frutificai, e multiplicai, e enchei a terra:
 #v 2 %v E vosso temor e vosso pavor será sobre todo animal da terra, e sobre toda ave dos céus, em tudo o que se mover na terra, e em todos os peixes do mar: em vossa mão são entregues.
 #v 3 %v Tudo o que se move e vive vos será para mantimento: assim como os legumes e ervas, vos dei disso tudo.
-#v 4 %v Porém carne com sua vida, que é seu sangue, não comereis.
+#v 4 %v Porém a carne com sua vida, que é seu sangue, não comereis.
 #v 5 %v Porque certamente exigirei o sangue de vossas vidas; da mão de todo animal o exigirei, e da mão do ser humano; da mão do homem seu irmão exigirei a vida do ser humano.
-#v 6 %v O que derramar sangue humano, pelo ser humano seu sangue será derramado; porque à imagem de Deus foi feito o ser humano.
+#v 6 %v O que derramar sangue humano, pelo ser humano seu sangue será derramado; porque à imagem de Deus o ser humano foi feito.
 #v 7 %v Mas vós frutificai, e multiplicai-vos; procriai abundantemente na terra, e multiplicai-vos nela.
 #v 8 %v E falou Deus a Noé e a seus filhos com ele, dizendo:
-#v 9 %v Eu, eis que eu estabeleço meu pacto convosco, e com vossa descendência depois de vós;
+#v 9 %v Eis que eu mesmo estabeleço meu pacto convosco, e com vossa descendência depois de vós;
 #v 10 %v E com toda alma vivente que está convosco, de aves, de animais, e de toda fera da terra que está convosco; desde todos os que saíram da arca até todo animal da terra.
 #v 11 %v Estabelecerei meu pacto convosco, e não será mais exterminada toda carne com águas de dilúvio; nem haverá mais dilúvio para destruir a terra.
-#v 12 %v E disse Deus: Este será o sinal do pacto que eu estabeleço entre mim e vós e toda alma vivente que está convosco, por tempos perpétuos:
+#v 12 %v E disse Deus: Este será o sinal do pacto que estabeleço entre mim e vós e toda alma vivente que está convosco, por tempos perpétuos:
 #v 13 %v Meu arco porei nas nuvens, o qual será por sinal de aliança entre mim e a terra.
 #v 14 %v E será que quando fizer vir nuvens sobre a terra, se deixará ver então meu arco nas nuvens.
 #v 15 %v E me lembrarei do meu pacto, que há entre mim e vós e toda alma vivente de toda carne; e não serão mais as águas por dilúvio para destruir toda carne.
@@ -247,10 +247,10 @@
 #v 17 %v Disse, pois, Deus a Noé: Este será o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra.
 #v 18 %v E os filhos de Noé que saíram da arca foram Sem, Cam e Jafé: e Cam é o pai de Canaã.
 #v 19 %v Estes três são os filhos de Noé; e deles foi cheia toda a terra.
-#v 20 %v E começou Noé a lavrar a terra, e plantou uma vinha:
-#v 21 %v E bebeu do veio, e se embriagou, e estava descoberto em meio de sua tenda.
-#v 22 %v E Cam, pai de Canaã, viu a nudez de seu pai, e disse-o a seus dois irmãos à parte de fora.
-#v 23 %v Então Sem e Jafé tomaram a roupa, e a puseram sobre seus próprios ombros, e andando até atrás, cobriram a nudez de seu pai tendo seus rostos virados, e assim não viram a nudez de seu pai.
+#v 20 %v E começou Noé a lavrar a terra, e plantou uma vinha;
+#v 21 %v E bebeu do vinho, e se embriagou, e estava descoberto dentro de sua tenda.
+#v 22 %v E Cam, pai de Canaã, viu a nudez de seu pai, e disse-o aos seus dois irmãos do lado de fora.
+#v 23 %v Então Sem e Jafé tomaram a roupa, e a puseram sobre seus próprios ombros, e andando para trás, cobriram a nudez de seu pai tendo seus rostos virados, e assim não viram a nudez de seu pai.
 #v 24 %v E despertou Noé de seu vinho, e soube o que havia feito com ele seu filho o mais jovem;
 #v 25 %v E disse: Maldito seja Canaã; Servo de servos será a seus irmãos.
 #v 26 %v Disse mais: Bendito o SENHOR o Deus de Sem, E seja-lhe Canaã servo.
@@ -294,11 +294,11 @@
 
 #c 11 %c
 #v 1 %v Era, então, toda a terra de uma língua e umas mesmas palavras.
-#v 2 %v E aconteceu que, como se partiram do oriente, acharam um vale na terra de Sinear, e assentaram ali.
+#v 2 %v E aconteceu que, quando se partiram do oriente, acharam um vale na terra de Sinear; e ali passaram a habitar.
 #v 3 %v E disseram uns aos outros: Vinde, façamos tijolos e o cozamos com fogo. E foi-lhes os tijolos em lugar de pedra, e o betume em lugar de argamassa.
 #v 4 %v E disseram: Vamos, edifiquemo-nos uma cidade e uma torre, cuja ponta chegue ao céu; e façamo-nos um nome, para que não sejamos espalhados sobre a face de toda a terra.
 #v 5 %v E desceu o SENHOR para ver a cidade e a torre que edificavam os filhos dos homens.
-#v 6 %v E disse o SENHOR: Eis que o povo é um, e todos estes têm uma língua: e começaram a agir, e nada lhes restringirá agora do que pensaram fazer.
+#v 6 %v E disse o SENHOR: Eis que o povo é um, e todos estes têm uma língua; e começaram a agir, e nada lhes restringirá agora do que pensaram fazer.
 #v 7 %v Agora, pois, desçamos, e confundamos ali suas línguas, para que ninguém entenda a fala de seu companheiro.
 #v 8 %v Assim os espalhou o SENHOR desde ali sobre a face de toda a terra, e deixaram de edificar a cidade.
 #v 9 %v Por isto foi chamado o nome dela Babel, porque ali confundiu o SENHOR a língua de toda a terra, e desde ali os espalhou sobre a face de toda a terra.
