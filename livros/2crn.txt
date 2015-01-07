@@ -1,7 +1,7 @@
 ﻿#header
 #name Segundo Livro de Crônicas %name
 #snm 2 Crônicas %snm
-#ver 20130605 %ver
+#ver 20150106 %ver
 #abbr 2Cr %abbr
 %header
 
@@ -114,7 +114,7 @@
 #v 8 %v Mas o SENHOR disse a Davi meu pai: Com respeito a haver tido em teu coração edificar casa a meu nome, bem fizeste em haver tido isto em teu coração.
 #v 9 %v Porém tu não edificarás a casa, mas sim teu filho que sairá de teus lombos, ele edificará casa a meu nome.
 #v 10 %v E o SENHOR cumpriu sua palavra que havia dito, pois eu me levantei em lugar de Davi meu pai, e sentei-me no trono de Israel, como o SENHOR havia dito, e edifiquei casa ao nome do SENHOR Deus de Israel.
-#v 11 %v E nela ei posto a arca, na qual está o pacto do SENHOR que estabeleceu com os filhos de Israel.
+#v 11 %v E nela pus a arca, na qual está o pacto do SENHOR que estabeleceu com os filhos de Israel.
 #v 12 %v Pôs-se logo Salomão diante do altar do SENHOR, em presença de toda a congregação de Israel, e estendeu suas mãos.
 #v 13 %v Porque Salomão havia feito uma plataforma de bronze, de cinco côvados de comprimento, e de cinco côvados de largura, e de altura de três côvados, e o havia posto em meio do átrio: e pôs-se sobre ela, e ficou de joelhos diante de toda a congregação de Israel, e estendendo suas mãos ao céu, disse:
 #v 14 %v Ó SENHOR Deus de Israel, não há Deus semelhante a ti no céu nem na terra, que guardas o pacto e a misericórdia a teus servos que caminham diante de ti de todo seu coração;

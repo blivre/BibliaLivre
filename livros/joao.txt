@@ -1,7 +1,7 @@
 ﻿#header
 #name Evangelho Segundo João %name
 #snm João %snm
-#ver 20131212 %ver
+#ver 20150107 %ver
 #abbr Jo %abbr
 %header
 
@@ -684,7 +684,7 @@ E ele disse:
 #v 29 %v Bem sabemos nós que Deus falou a Moisés; mas este nem de onde é, não sabemos.
 #v 30 %v Aquele homem respondeu, e disse-lhes:
  Porque nisto está a maravilha: que vós não sabeis de onde ele é; e a mim abriu meus olhos!
-#v 31 %v E bem sabemos que Deus não ouve aos pecadores; mas se alguém é temente a Deus, e faz sua vontade, a este ouve.
+#v 31 %v E bem sabemos que Deus não dá ouvidos aos pecadores; mas se alguém é temente a Deus, e faz sua vontade, a este dá ouvidos.
 #v 32 %v Desde o princípio dos tempos nunca se ouviu de que alguém que tenha aberto os olhos de um que tenha nascido cego.
 #v 33 %v Se este não fosse vindo de Deus, nada poderia fazer.
 #v 34 %v Eles responderam, e lhe disseram:

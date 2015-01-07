@@ -1,7 +1,7 @@
 ﻿#header
 #name Carta aos Hebreus %name
 #snm Hebreus %snm
-#ver 20140308 %ver
+#ver 20150106 %ver
 #abbr Hb %abbr
 %header
 
@@ -12,31 +12,31 @@
 #v 4 %v e se tornou muito superior aos anjos, assim como herdou um nome mais excelente que eles.
 #v 5 %v Pois a qual dos anjos #ad Deus %ad jamais disse:
  “Tu és meu Filho, 
- eu hoje te gerei”,
+ eu hoje te gerei”, #ref _d Salmos 2:7 %ref
 E em outra vez: 
  “Eu lhe serei por Pai, 
- e ele me será por Filho”? #fn _c Ref. Salmos 2:7 %fn #fn _c Ref. 2 Samuel 7:14, 1 Crônicas 17:13 %fn 
+ e ele me será por Filho”? #ref _d 2 Samuel 7:14, 1 Crônicas 17:13 %ref
 #v 6 %v E outra vez, quando introduz o primogênito ao mundo, diz:
- E todos os anjos de Deus o adorem. #fn _c Ref. Salmos 97:7 %fn 
+ E todos os anjos de Deus o adorem. #ref _d Salmos 97:7 %ref
 #v 7 %v Quanto aos anjos, porém, ele diz:
- Ele faz de seus anjos espíritos; e de seus trabalhadores, labareda de fogo;
+ Ele faz de seus anjos espíritos; e de seus trabalhadores, labareda de fogo; #ref _d Salmos 104:4 %ref
 #v 8 %v Mas ao Filho #ad diz %ad :
  Ó Deus, o teu trono é para todo o sempre. 
  Cetro de equidade é o cetro do teu Reino.
 #v 9 %v Amaste a justiça, e odiaste a transgressão;
  por isso, Deus, o teu Deus, te ungiu com óleo de alegria 
- mais que os teus companheiros. #fn _c Ref. Salmos 45:6-7 %fn 
+ mais que os teus companheiros. #ref _d Salmos 45:6-7 %ref 
 #v 10 %v E:
  Tu Senhor, no princípio fundaste a terra, 
  e os céus são obras de tuas mãos.
 #v 11 %v Eles perecerão, mas tu continuas.
  Todos eles como roupa se envelhecerão; 
 #v 12 %v como uma manta tu os envolverás, e{n4: como roupa #fn _c TR, RP omitem: “como roupa” %fn}{trnc: #fn _c N4 acrescenta: “como roupa” %fn} serão mudados;
- porém tu és o mesmo, e os teus anos não cessarão. #fn _c Ref. Salmos 102:25-27 %fn 
+ porém tu és o mesmo, e os teus anos não cessarão. #ref _d Salmos 102:25-27 %ref 
 #v 13 %v E a qual dos anjos ele jamais disse:
  Senta-te à minha direita, 
  até que eu ponha os teus inimigos 
- como estrado de teus pés? #fn _c Ref. Salmos 110:1 %fn 
+ como estrado de teus pés? #ref _d Salmos 110:1 %ref 
 #v 14 %v Por acaso não são todos eles espíritos servidores, enviados para auxílio dos que herdarão a salvação?
 
 #c 2 %c
@@ -52,17 +52,17 @@ E em outra vez:
  de glória e de honra o coroaste, 
 {tr: e o estabeleceste sobre as obras das tuas mãos;}{trnc: #fn _c RP, N4 omitem “e o estabeleceste sobre as obras das tuas mãos” %fn }{rp,n4: #fn _c TR acrescenta: “estabeleceste sobre as obras das tuas mãos” ao final do versículo %fn }
 #v 8 %v Sujeitaste todas as coisas debaixo de seus pés.
-Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. #fn _c Ref. Salmos 8:4-6 %fn 
+Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. #ref _d Salmos 8:4-6 %ref 
 #v 9 %v Porém vemos coroado de glória e de honra, por causa do sofrimento de morte, aquele Jesus, que havia sido feito um pouco #fn _c um pouco – ou: por um pouco #ad de tempo %ad %fn menor que os anjos, a fim de que, pela graça de Deus, experimentasse a morte por todos.
 #v 10 %v Pois convinha a aquele, para quem e por quem são todas as coisas, que, quando trouxesse muitos filhos à glória, aperfeiçoasse por meio de aflições o Autor #fn _c Autor – ou: Príncipe, Primeiro %fn da salvação deles.
 #v 11 %v Porque tanto o que santifica como os que são santificados, todos são provenientes de um; por isso ele não se envergonha de lhes chamar de irmãos,
 #v 12 %v dizendo:
  Anunciarei o teu nome aos meus irmãos, 
- cantarei louvores a ti no meio da congregação. #fn _c Ref. Salmos 22:22 %fn 
+ cantarei louvores a ti no meio da congregação. #ref _d Salmos 22:22 %ref 
 #v 13 %v E outra vez:
- Nele confiarei. 
+ Nele confiarei. #ref _d Isaías 8:17 %ref
 E outra vez: 
- Eis-me aqui, com os filhos que Deus me deu. #fn _c Ref. Isaías 8:17 %fn #fn _c Ref. Isaías 8:18 %fn 
+ Eis-me aqui, com os filhos que Deus me deu. #ref _d Ref. Isaías 8:18 %ref 
 #v 14 %v Portanto, uma vez que os filhos compartilham {tr,rp:da carne e do sangue}{n4: do sangue e da carne},{trnc: #fn _c N4 troca a ordem entre “carne” e “sangue” %fn} também ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
 #v 15 %v e libertar a todos os que, por medo da morte, estavam sujeitos à servidão durante a vida toda.
 #v 16 %v Pois, evidentemente, não é aos anjos que ele ajuda, mas sim, ajuda à descendência #fn _c descendência – lit. semente %fn de Abraão.
@@ -86,7 +86,7 @@ E outra vez:
  “Eles sempre se desviam nos corações, 
  e não conheceram os meus caminhos”;
 #v 11 %v Então jurei na minha ira:
- “Eles não entrarão no meu repouso”. #fn _c Ref. Salmos 95:7-11 %fn 
+ “Eles não entrarão no meu repouso”. #ref _d Salmos 95:7-11 %ref 
 #v 12 %v Cuidado, irmãos, para que nunca haja em algum de vós coração mau e infiel, #fn _c infiel – ou: incrédulo. Lit. coração mau de infidelidade (ou incredulidade). No grego, a fé fidelidade eram representados pela mesma palavra, ocorrendo o mesmo para os opostos %fn que se afaste do Deus vivo.
 #v 13 %v Em vez disso, encorajai-vos uns aos outros a cada dia, durante o tempo chamado “hoje”; a fim de que nenhum de vós se endureça pelo engano do pecado.
 #v 14 %v Pois nós temos nos tornado participantes de Cristo, se, de fato, mantivermos firme a confiança do princípio #fn _c confiança do princípio – lit. princípio da confiança %fn até o fim;
@@ -106,7 +106,7 @@ E outra vez:
  “Eles não entrarão no meu repouso”; 
 ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do mundo.
 #v 4 %v Pois, em certo lugar, ele disse assim a respeito do #ad dia %ad sétimo:
- E Deus repousou no sétimo dia de todas as suas obras. #fn _c Ref. Gênesis 2:2 %fn 
+ E Deus repousou no sétimo dia de todas as suas obras. #ref _d Gênesis 2:2 %ref 
 #v 5 %v E, outra vez neste #ad texto %ad :
  Não entrarão no meu repouso.
 #v 6 %v Portanto, uma vez que resta alguns entrarem no repouso, #fn _c no repouso – lit. nele %fn e que aqueles a quem primeiramente foi pregado o evangelho não entraram por causa da desobediência,
@@ -158,7 +158,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 12 %v a fim de que não vos torneis negligentes, mas sim, imitadores dos que pela fé e pela paciência herdam as promessas.
 #v 13 %v Pois Deus, quando prometeu a Abraão, como ninguém maior havia por quem jurar, jurou por si mesmo,
 #v 14 %v dizendo:
- Certamente muito te abençoarei, #fn _c muito te abençoarei – lit. abençoando te abençoarei %fn e muito te multiplicarei. #fn _c muito te multiplicarei – lit. multiplicando te multiplicarei %fn #fn _c Ref. Gênesis 22:17 %fn 
+ Certamente muito te abençoarei, #fn _c muito te abençoarei – lit. abençoando te abençoarei %fn e muito te multiplicarei. #fn _c muito te multiplicarei – lit. multiplicando te multiplicarei %fn #ref _d Gênesis 22:17 %ref 
 #v 15 %v E assim, esperando pacientemente, #ad Abraão %ad obteve a promessa.
 #v 16 %v Pois as pessoas juram por alguém maior, e o juramento como confirmação é o fim de todo conflito entre elas.
 #v 17 %v Assim Deus, querendo mostrar mais abundantemente a imutabilidade de sua intenção aos herdeiros da promessa, garantiu com um juramento;
@@ -207,7 +207,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 3 %v Pois todo sumo sacerdote é constituído para apresentar tanto ofertas como sacrifícios; por isso era necessário que também este tivesse alguma coisa a oferecer.
 #v 4 %v Mas, se ele #ad ainda %ad estivesse na terra, nem sequer seria sacerdote, já que #ad ainda %ad há os {tr,rp:sacerdotes}{trnc: #fn _c N4 omite “sacerdotes” %fn } que apresentam{n4: #fn _c TR, RP contêm: “os sacerdotes que apresentam” %fn } as ofertas segundo a Lei.
 #v 5 %v Esses servem a um esboço, uma sombra das coisas celestiais, como Moisés foi divinamente avisado, antes de construir o Tabernáculo. Porque #ad Deus %ad disse:
- Olha, faze tudo conforme o modelo que te foi mostrado no monte. #fn _c Ref. Êxodo 25:40 %fn 
+ Olha, faze tudo conforme o modelo que te foi mostrado no monte. #ref _d Êxodo 25:40 %ref 
 #v 6 %v Mas agora #ad Jesus %ad obteve um ofício #fn _c ofício – ou: ministério %fn mais relevante, #fn _c relevante – ou: excelente %fn como é também Mediador de um melhor pacto, que está firmado #fn _c firmado – ou: legalmente estabelecido %fn em melhores promessas.
 #v 7 %v Pois, se aquele primeiro tivesse sido infalível, nunca haveria se buscado lugar para o segundo.
 #v 8 %v Porque, enquanto #ad Deus %ad repreendia os do povo, #fn _c repreendia os do povo – lit. repreendia-os %fn #fn _c povo – lit. casa. O termo tradicionalmente traduzido como “casa” pode incluir vários significados, entre eles, o de povo. Neste caso, os povos formados pelos descendentes de Israel e de Judá %fn disse-lhes:
@@ -232,7 +232,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
  desde o menor deles até o maior.
 #v 12 %v Pois serei misericordioso com as suas injustiças,
  e não mais me lembrarei 
- dos seus pecados{tr,rp: e das suas transgressões}. #fn _c Ref. Jeremias 31:31-34 %fn {trnc: #fn _c N4 omite “e das suas transgressões” %fn }
+ dos seus pecados{tr,rp: e das suas transgressões}. #ref _d Jeremias 31:31-34 %ref {trnc: #fn _c N4 omite “e das suas transgressões” %fn }
 #v 13 %v Quando ele disse: “Novo #ad pacto %ad ”, ele tornou o primeiro ultrapassado. Ora, o que se torna ultrapassado e envelhece está perto de desaparecer.
 
 #c 9 %c
@@ -256,7 +256,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 18 %v Por isso o primeiro #ad testamento %ad também não foi consagrado sem sangue;
 #v 19 %v Porque, depois de Moisés haver pronunciado a todo o povo todo mandamento segundo a Lei, ele tomou o sangue de bezerros e de bodes, com água, lã purpúrea, e hissopo, e aspergiu, tanto o próprio livro, como todo o povo,
 #v 20 %v dizendo:
- Este é o sangue do pacto que Deus ordenou para vós. #fn _c Ref. Êxodo 24:8 %fn 
+ Este é o sangue do pacto que Deus ordenou para vós. #ref _d Êxodo 24:8 %ref 
 #v 21 %v E semelhantemente aspergiu com o sangue o Tabernáculo, e todos os utensílios do serviço de culto.
 #v 22 %v Segundo a Lei, quase todas as coisas são purificadas com sangue, e sem derramamento de sangue não há perdão de pecados. #fn _c perdão de pecados – tradicionalmente: remissão %fn 
 #v 23 %v Portanto era necessário que os esboços das coisas que estão nos céus fossem purificados com esses #ad sacrifícios %ad ; mas as próprias coisas celestiais, com sacrifícios melhores que esses.
@@ -277,7 +277,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 6 %v Ofertas de queima e ofertas pelo pecado não te agradaram.
 #v 7 %v Então eu disse: “Eis-me aqui;
  (no rolo do livro está escrito de mim)
- venho para fazer a tua vontade, ó Deus”. #fn _c Ref. Salmos 40:6-8 %fn 
+ venho para fazer a tua vontade, ó Deus”. #ref _d Salmos 40:6-8 %ref 
 #v 8 %v Depois de ter dito acima: “{tr,rp:Sacrifício, oferta}{n4:Sacrifícios, ofertas},{trnc: #fn _c N4: Sacrifícios, ofertas %fn } ofertas de queima, e ofertas pelo pecado não quiseste, nem te agradaram”, (os quais se oferecem segundo a Lei),
 #v 9 %v então disse: “Eis-me aqui, venho para fazer a tua vontade{tr,rp:, ó Deus”}.{trnc: #fn _c N4 omite “ó Deus” %fn } #ad Assim %ad , ele cancela #fn _c cancela – lit. tira %fn o primeiro #ad pacto %ad , para estabelecer o segundo.
 #v 10 %v Pela sua vontade somos santificados por meio da oferta sacrificial do corpo de Jesus Cristo, #ad feita %ad de uma vez por todas.
@@ -292,7 +292,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
  e as escreverei em {tr,rp:suas mentes}{n4:sua mente};{trnc: #fn _c N4: sua mente %fn } #fn _c Ref. Jeremias 31:33 %fn 
 #v 17 %v  #ad Então ele diz %ad :
  E não mais me lembrarei 
- dos seus pecados e das suas transgressões. #fn _c Ref. Jeremias 31:34 %fn 
+ dos seus pecados e das suas transgressões. #ref _d Jeremias 31:34 %ref 
 #v 18 %v Ora, onde há perdão #fn _c perdão - tradicionalmente: remissão %fn dessas coisas, não há mais oferta pelo pecado.
 #v 19 %v Portanto, irmãos, já que temos a confiança de entrar no Santuário #fn _c Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos %fn pelo sangue de Jesus,
 #v 20 %v pelo caminho novo e vivo que ele consagrou para nós através do véu, isto é, pela sua carne;
@@ -308,7 +308,7 @@ ainda que as #ad suas %ad obras já estivessem terminadas desde a fundação do 
 #v 30 %v Pois nós conhecemos aquele que disse:
  A vingança é minha; eu retribuirei{tr,rp:, diz o Senhor}.{trnc: #fn _c N4 omite “diz o Senhor” %fn } 
 E outra vez: 
- O Senhor julgará o seu povo. #fn _c Ref. Deuteronômio 32:35,36 %fn 
+ O Senhor julgará o seu povo. #ref _d Deuteronômio 32:35,36 %ref 
 #v 31 %v Cair nas mãos do Deus vivo é algo terrível.
 #v 32 %v Lembrai-vos, porém, dos dias passados, em que, depois de serdes iluminados, suportastes grande combate de aflições,
 #v 33 %v quando, em parte, fostes expostos em público tanto a insultos, como a tribulações, e em parte, fostes companheiros daqueles que assim foram tratados.
@@ -316,9 +316,9 @@ E outra vez:
 #v 35 %v Portanto, não rejeiteis a vossa confiança, que tem uma grande recompensa;
 #v 36 %v pois precisais de paciência, a fim de que, depois que houverdes feito a vontade de Deus, recebais o que foi prometido. #fn _c o que foi prometido – lit. a promessa %fn 
 #v 37 %v Pois ainda um pouquinho de tempo,
- e aquele que vem virá, e não tardará. #fn _c Ref. Isaías 26:20, Habacuque 2:3 %fn 
+ e aquele que vem virá, e não tardará. #ref _d Isaías 26:20, Habacuque 2:3 %ref 
 #v 38 %v Mas o{n4: meu} justo{trnc: #fn _c N4: meu justo %fn } viverá pela fé;
- e se ele retroceder, a minha alma não tem prazer nele. #fn _c Ref. Habacuque 2:4 %fn 
+ e se ele retroceder, a minha alma não tem prazer nele. #ref _d Habacuque 2:4 %ref 
 #v 39 %v Mas nós não somos dos que retrocedem para a perdição, mas sim dos que creem para a conservação da alma.
 
 #c 11 %c
@@ -340,7 +340,7 @@ E outra vez:
 #v 16 %v Mas agora desejam uma melhor, isto é, a celestial. Por isso Deus não se envergonha deles, de ser chamado o Deus deles, porque já lhes preparou uma cidade.
 #v 17 %v Pela fé, Abraão, quando foi provado, ofereceu Isaque; aquele que havia recebido as promessas ofereceu o #ad seu %ad único filho,
 #v 18 %v do qual foi dito:
- Em Isaque será chamada a tua descendência. #fn _c descendência – lit. semente %fn #fn _c Ref. Gênesis 21:12 %fn 
+ Em Isaque será chamada a tua descendência. #fn _c descendência – lit. semente %fn #ref _d Gênesis 21:12 %ref 
 #v 19 %v  #ad Abraão %ad considerou que Deus era poderoso até para ressuscitar #ad Isaque %ad dos mortos; de onde também, de forma figurada, ele o recuperou.
 #v 20 %v Pela fé, Isaque abençoou Jacó e Esaú quanto às coisas futuras.
 #v 21 %v Pela fé, Jacó, enquanto morria, abençoou a cada um dos filhos de José, e adorou #ad apoiado %ad sobre a ponta do seu cajado.
@@ -373,7 +373,7 @@ E outra vez:
  Meu filho, não desprezes a disciplina do Senhor, 
  nem te canses de ser reprendido por ele;
 #v 6 %v pois o Senhor disciplina a quem ama,
- e açoita a todo filho a quem recebe. #fn _c Ref. 3:11-12 %fn 
+ e açoita a todo filho a quem recebe. #ref _d 3:11-12 %ref 
 #v 7 %v {tr:Se suportais a disciplina,}{rp,n4:É para a disciplina que suportais.}{trnc: #fn _c RP, N4: É para a disciplina que suportais %fn } Deus vos trata como filhos; pois que filho há a quem o pai não discipline?
 #v 8 %v Mas se estais sem disciplina, da qual todos são feitos participantes, sois então ilegítimos, e não filhos.
 #v 9 %v Além disso, tivemos os pais de nossa carne como disciplinadores, e nós os respeitávamos. Por acaso não nos sujeitaremos muito mais ao Pai dos espíritos, a fim de vivermos?
@@ -388,9 +388,9 @@ E outra vez:
 #v 18 %v Porque não chegastes a {tr,rp:um monte}{n4:algo}{trnc: #fn _c N4 omite “um monte” %fn } palpável, aceso com fogo, e à escuridão, às trevas, e à tempestade;
 #v 19 %v ao som da trombeta, e à voz das palavras, que os que a ouviam, rogaram que não mais se lhes falasse palavra alguma;
 #v 20 %v (pois não podiam suportar o que #ad lhes %ad era ordenado:
- Se até um animal tocar o monte, seja apedrejado{tr: ou perfurado com um dardo}. #fn _c Ref. Êxodo 19:12,13 %fn {trnc: #fn _c RP, N4 omitem “ou perfurado com um dardo” %fn }{rp,n4: #fn _c TR acrescenta: “ou perfurado com um dado” ao final do versículo %fn }
+ Se até um animal tocar o monte, seja apedrejado{tr: ou perfurado com um dardo}. #ref _d Êxodo 19:12,13 %ref {trnc: #fn _c RP, N4 omitem “ou perfurado com um dardo” %fn }{rp,n4: #fn _c TR acrescenta: “ou perfurado com um dado” ao final do versículo %fn }
 #v 21 %v E a visão era tão terrível, que Moisés disse:
- Estou assombrado e tremendo). #fn _c Ref. Deuteronômio 9:19 %fn 
+ Estou assombrado e tremendo). #ref _d Deuteronômio 9:19 %ref 
 #v 22 %v Mas vós chegastes ao monte Sião, à cidade do Deus vivo, a Jerusalém celestial, e aos muitos milhares de anjos,
 #v 23 %v à universal congregação e igreja dos primogênitos inscritos nos Céus, e a Deus, o Juiz de todos, e aos espíritos dos justos já aperfeiçoados;
 #v 24 %v e a Jesus, o Mediador de um Novo Testamento, e ao sangue da aspersão, que fala {tr:melhores coisas}{rp,n4:melhor coisa}{trnc: #fn _c RP, N4: melhor coisa %fn} que #ad o de %ad Abel.
@@ -399,7 +399,7 @@ E outra vez:
  Ainda uma vez {tr,rp:faço}{n4:farei} tremer{trnc: #fn _c N4: farei tremer %fn } não somente a terra, mas também o Céu. #fn _c Ref. Ageu 2:6 %fn 
 #v 27 %v Esta #ad expressão %ad , “Ainda uma vez”, mostra a remoção das coisas abaladas, como coisas criadas, para que as inabaláveis permaneçam.
 #v 28 %v Por isso, já que recebemos um Reino inabalável, mantenhamos a graça, #fn _c graça - ou: gratidão %fn {tr,n4:e por ela sirvamos}{rp:pela qual servimos}{trnc: #fn _c RP: pela qual servimsos %fn } a Deus de maneira que o agrade, com reverência e temor, #fn _c temor - ou: devoção %fn 
-#v 29 %v pois o nosso Deus é um fogo consumidor. #fn _c Ref. Deuteronômio 4:24 %fn 
+#v 29 %v pois o nosso Deus é um fogo consumidor. #ref _d Deuteronômio 4:24 %ref 
 
 #c 13 %c
 #v 1 %v Permaneça o amor fraternal.
@@ -407,10 +407,10 @@ E outra vez:
 #v 3 %v Lembrai-vos dos prisoneiros, como se estivésseis presos com eles; e dos que são maltratados, como se vós mesmos também estivessem sendo em #ad vossos %ad corpos.
 #v 4 %v O matrimônio seja honrado entre todos, e o leito conjugal sem contaminação; {tr,rp:mas}{n4:pois}{trnc: #fn _c N4:pois %fn } Deus julgará os pecadores sexuais e os adúlteros.
 #v 5 %v O #ad vosso %ad modo de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse:
- Não te deixarei, nem te desampararei. #fn _c Ref. Deuteronômio 31:6 %fn 
+ Não te deixarei, nem te desampararei. #ref _d Deuteronômio 31:6 %ref 
 #v 6 %v De maneira que devemos ter a confiança de dizer:
  O Senhor é meu ajudador; 
- não temerei o que o ser humano poderá fazer a mim. #fn _c Ref. Salmos 118:6 %fn #fn _c Ou: O Senhor é meu ajudador, não temerei. O que poderá o ser humano fazer a mim? %fn 
+ não temerei o que o ser humano poderá fazer a mim. #ref _d Salmos 118:6 %ref #fn _c Ou: O Senhor é meu ajudador, não temerei. O que poderá o ser humano fazer a mim? %fn 
 #v 7 %v Lembrai-vos de vossos líderes, que vos falaram a palavra de Deus. Observai o resultado da maneira como viveram, e imitai a fé deles.
 #v 8 %v Jesus Cristo é o mesmo ontem, hoje, e eternamente.
 #v 9 %v Não vos deixeis levar por doutrinas várias e estranhas. Pois bom ao coração é ser fortificado pela graça, e não por alimentos, que não resultaram em proveito algum aos que com eles se {tr,rp:ocuparam}{n4:ocupam}.{trnc: #fn _c N4: ocupam %fn }

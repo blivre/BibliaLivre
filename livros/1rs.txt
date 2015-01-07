@@ -1,7 +1,7 @@
 ﻿#header
 #name Primeiro Livro dos Reis %name
 #snm 1 Reis %snm
-#ver 20150104 %ver
+#ver 20150105 %ver
 #abbr 1Rs %abbr
 %header
 
@@ -567,7 +567,7 @@
 
 #c 15 %c
 #v 1 %v No ano dezoito do rei Jeroboão filho de Nebate, Abião começou a reinar sobre Judá.
-#v 2 %v Reinou três anos em Jerusalém. O nome de sua mãe era Maaca, filha #fn _c provavelmente neta. Também no v. 10 %fn de Abissalão. #fn _c Variante do nome “Absalão”. Também no v. 10 %fn
+#v 2 %v Reinou três anos em Jerusalém. O nome de sua mãe era Maaca, filha #fn _c provavelmente neta. Também no v. 10 %fn de Absalão. #fn _c Escrito no texto-base na variante “Abissalão”. Também no v. 10 %fn
 #v 3 %v E andou em todos os pecados de seu pai, que havia este feito antes dele; e não foi seu coração perfeito com o SENHOR seu Deus, como o coração de Davi seu pai.
 #v 4 %v Mas por amor de Davi, deu-lhe o SENHOR seu Deus lâmpada em Jerusalém, levantando-lhe a seu filho depois dele, e sustentando a Jerusalém:
 #v 5 %v Porquanto Davi havia feito o que era correto diante dos olhos do SENHOR, e de nenhuma coisa que lhe mandasse se havia apartado em todos os dias de sua vida, exceto o negócio de Urias Heteu.
@@ -575,8 +575,8 @@
 #v 7 %v Os demais dos feitos de Abião, e todas as coisas que fez, não estão escritas no livro das crônicas dos reis de Judá? E havia guerra entre Abião e Jeroboão.
 #v 8 %v E dormiu Abião com seus pais, e sepultaram-no na cidade de Davi: e reinou Asa seu filho em seu lugar.
 #v 9 %v No ano vinte de Jeroboão rei de Israel, Asa começou a reinar sobre Judá.
-#v 10 %v E reinou quarenta e um anos em Jerusalém; o nome de sua avó #fn _c Lit. mãe. Também no v. 13 %fn era Maaca, filha de Abissalão.
-#v 11 %v E Asa fez o que era reto diante dos olhos do SENHOR, como o seu pai Davi.
+#v 10 %v E reinou quarenta e um anos em Jerusalém; o nome de sua avó #fn _c Lit. mãe. Também no v. 13 %fn era Maaca, filha de Absalão.
+#v 11 %v E Asa fez o que era correto diante dos olhos do SENHOR, como o seu pai Davi.
 #v 12 %v Porque tirou os sodomitas da terra, e tirou todas as imundícies que seus pais haviam feito.
 #v 13 %v E também tirou de sua avó Maaca a posição de rainha-mãe, porque havia feito um ídolo num bosque. Além disso, Asa destruiu o ídolo dela, e o queimou junto ao ribeiro de Cedrom.
 #v 14 %v Porém os altos não foram tirados. Contudo, o coração de Asa foi perfeito para com o SENHOR durante toda a sua vida.
