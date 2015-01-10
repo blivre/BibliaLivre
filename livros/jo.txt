@@ -1,7 +1,7 @@
 ﻿#header
 #name Jó %name
 #snm Jó %snm
-#ver 20150106 %ver
+#ver 20150110 %ver
 #abbr Jo %abbr
 %header
 
@@ -663,7 +663,7 @@ Em tudo isto Jó não pecou com seus lábios.
 #v 3 %v Ah se eu soubesse como poderia achá-lo! #ad Então %ad eu me chegaria até seu trono.
 #v 4 %v Apresentaria minha causa diante dele, e encheria minha boca de argumentos.
 #v 5 %v Eu saberia as palavras que ele me responderia, e entenderia o que me diria.
-#v 6 %v Por acaso ele brigaria comigo com sua grande? Não, ao contrário, ele me daria atenção.
+#v 6 %v Por acaso ele brigaria comigo com seu grande poder? Não, pelo contrário, ele me daria atenção.
 #v 7 %v Ali o íntegro pleitearia com ele, e eu me livraria para sempre de meu Juiz.
 #v 8 %v Eis que se eu for ao oriente, ele não está ali; #ad se for %ad ao ocidente, e não o percebo;
 #v 9 %v Se ao norte ele opera, eu não #ad o %ad vejo; se ele se esconde ao sul, não #ad o %ad enxergo.
