@@ -509,7 +509,7 @@ E ele lhe disse:
  Creio{tr,rp:, Senhor}!{trnc: #fn _c N4 omite “Senhor” %fn } Ajuda-me na minha incredulidade.
 #v 25 %v Quando Jesus viu que a multidão corria e se ajuntava, repreendeu o espírito imundo, dizendo-lhe:
  Espírito mudo e surdo, eu te ordeno, sai dele, e nunca mais entres nele!
-#v 26 %v Então #ad o espírito %ad , gritando, e fazendo-o ter convulsão, saiu. E #ad o menino %ad ficou como morto, de maneira que muitos diziam que estava morto.
+#v 26 %v Então #ad o espírito %ad , gritando, e fazendo-o ter muita convulsão, saiu. E #ad o menino %ad ficou como morto, de maneira que muitos diziam que estava morto.
 #v 27 %v Então Jesus o tomou pela mão, e o ergueu; e ele se levantou.
 #v 28 %v E quando entrou em casa, seus discípulos lhe perguntaram à parte:
  Por que nós não conseguimos o expulsar?
