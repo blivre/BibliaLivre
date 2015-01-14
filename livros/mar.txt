@@ -1,7 +1,7 @@
 ﻿#header
 #name Evangelho Segundo Marcos %name
 #snm Marcos %snm
-#ver 20141218 %ver
+#ver 20150113 %ver
 #abbr Mc %abbr
 %header
 
@@ -505,18 +505,18 @@ E ele lhe disse:
 #v 22 %v E muitas vezes o lançou também no fogo e na água para o destruir. Mas, se podes algo, tem compaixão de nós, e ajuda-nos.
 #v 23 %v E Jesus lhe disse:
  {tr,rp:Se podes crer, tudo}{n4:Se podes? Tudo} é possível {trnc: #fn _c N4: Se podes? Tudo é possível %} ao que crê.
-
-#v 24 %v E logo o pai do menino, clamando, com lágrimas, disse:
- Creio, Senhor! Ajuda minha incredulidade.
-#v 25 %v E vendo Jesus que a multidão concorria, repreendeu ao espírito imundo, dizendo-lhe:
- Espírito mudo e surdo, eu te mando, sai dele, e não entres nele mais!
-#v 26 %v E clamando, e fazendo-o convulsionar muito, saiu; e ficou #ad o menino %ad como morto, de tal maneira que muitos diziam que estava morto.
-#v 27 %v E tomando-o Jesus pela mão, ergueu-o, e ele se levantou.
+#v 24 %v Logo o pai do menino, clamando, {tr,rp:com lágrimas,}{trnc: #fn _c N4 omite “com lágrimas” %fn } disse:
+ Creio{tr,rp:, Senhor}!{trnc: #fn _c N4 omite “Senhor” %fn } Ajuda-ne na minha incredulidade.
+#v 25 %v Quando Jesus viu que a multidão corria e se ajuntava, repreendeu o espírito imundo, dizendo-lhe:
+ Espírito mudo e surdo, eu te ordeno, sai dele, e nunca mais entres nele!
+#v 26 %v Então #ad o espírito %ad , gritando, e fazendo-o ter convulsão, saiu. E #ad o menino %ad ficou como morto, de maneira que muitos diziam que estava morto.
+#v 27 %v Então Jesus o tomou pela mão, e o ergueu; e ele se levantou.
 #v 28 %v E quando entrou em casa, seus discípulos lhe perguntaram à parte:
- Por que nós não o pudemos expulsar?
-#v 29 %v E disse-lhes:
- Este tipo com nada pode sair, a não ser com oração e jejum.
-#v 30 %v E partidos dali, caminharam pela Galileia, e não queria que alguém o soubesse,
+ Por que nós não conseguimos o expulsar?
+#v 29 %v E lhes respondeu:
+ Este tipo não pode sair por coisa alguma, a não ser com oração {tr,rp: e jejum}. {trnc: #fn _c N4 omite “e jejum” %fn } {n4: #fn _c TR, RP acrescentam “e jejum” %fn }
+#v 30 %v Depois partiram dali, e caminharam pela Galileia. Mas #ad Jesus %ad não queria que ninguém soubesse,
+
 #v 31 %v Porque ensinava a seus discípulos, e lhes dizia:
  O Filho do homem será entregue em mãos dos homens, e o matarão; e #ad estando %ad ele morto, ressuscitará ao terceiro dia.
 #v 32 %v Mas eles não entendiam esta palavra, e temiam lhe perguntar.
