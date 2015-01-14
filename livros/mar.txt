@@ -506,7 +506,7 @@ E ele lhe disse:
 #v 23 %v E Jesus lhe disse:
  {tr,rp:Se podes crer, tudo}{n4:Se podes? Tudo} é possível {trnc: #fn _c N4: Se podes? Tudo é possível %} ao que crê.
 #v 24 %v Logo o pai do menino, clamando, {tr,rp:com lágrimas,}{trnc: #fn _c N4 omite “com lágrimas” %fn } disse:
- Creio{tr,rp:, Senhor}!{trnc: #fn _c N4 omite “Senhor” %fn } Ajuda-ne na minha incredulidade.
+ Creio{tr,rp:, Senhor}!{trnc: #fn _c N4 omite “Senhor” %fn } Ajuda-me na minha incredulidade.
 #v 25 %v Quando Jesus viu que a multidão corria e se ajuntava, repreendeu o espírito imundo, dizendo-lhe:
  Espírito mudo e surdo, eu te ordeno, sai dele, e nunca mais entres nele!
 #v 26 %v Então #ad o espírito %ad , gritando, e fazendo-o ter convulsão, saiu. E #ad o menino %ad ficou como morto, de maneira que muitos diziam que estava morto.
