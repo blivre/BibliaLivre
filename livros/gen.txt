@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150104 %ver
+#ver 20150118 %ver
 #abbr Gn %abbr
 %header
 
@@ -354,7 +354,7 @@
 #v 3 %v E voltou por suas jornadas da parte do Sul até Betel, até o lugar onde havia estado antes sua tenda entre Betel e Ai;
 #v 4 %v Ao lugar do altar que havia feito ali antes: e invocou ali Abrão o nome do SENHOR.
 #v 5 %v E também Ló, que andava com Abrão, tinha ovelhas, e vacas, e tendas.
-#v 6 %v E a terra não podia dar-lhes para que habitassem juntos: porque sua riqueza era muita, e não podiam morar em um mesmo lugar.
+#v 6 %v E a terra não os podia sustentar para que habitassem juntos; porque a riqueza deles era muita, e não podiam morar num mesmo lugar.
 #v 7 %v E houve briga entre os pastores do gado de Abrão e os pastores do gado de Ló: e os cananeus e os ferezeus habitavam então na terra.
 #v 8 %v Então Abrão disse a Ló: Não haja agora briga entre mim e ti, entre meus pastores e os teus, porque somos irmãos.
 #v 9 %v Não está toda a terra diante de ti? Eu te rogo que te separes de mim. Se fores à esquerda, eu irei à direita: e se tu à direita, eu irei à esquerda.
@@ -379,8 +379,8 @@
 #v 8 %v E saiu o rei de Sodoma, e o rei de Gomorra, e o rei de Admá, e o rei de Zeboim, e o rei de Belá, que é Zoar, e ordenaram contra eles batalha no vale de Sidim;
 #v 9 %v A saber, contra Quedorlaomer, rei de Elão, e Tidal, rei de nações, e Anrafel, rei de Sinear, e Arioque, rei de Elasar; quatro reis contra cinco.
 #v 10 %v E o vale de Sidim estava cheio de poços de betume: e fugiram o rei de Sodoma e o de Gomorra, e caíram ali; e os demais fugiram ao monte.
-#v 11 %v E tomaram toda a riqueza de Sodoma e de Gomorra, e todas seus víveres, e se foram.
-#v 12 %v Tomaram também a Ló, filho do irmão de Abrão, que morava em Sodoma, e sua riqueza, e se foram.
+#v 11 %v E tomaram toda a riqueza de Sodoma e de Gomorra, e todos os seus mantimentos, e se foram.
+#v 12 %v Tomaram também Ló, filho do irmão de Abrão, que morava em Sodoma, e sua riqueza, e se foram.
 #v 13 %v E veio um dos que escaparam, e denunciou-o a Abrão o hebreu, que habitava no vale de Manre, amorreu, irmão de Escol e irmão de Aner, os quais tinham feito pacto com Abrão.
 #v 14 %v E ouviu Abrão que seu irmão estava prisioneiro, e armou seus criados, os criados de sua casa, trezentos e dezoito, e seguiu-os até Dã.
 #v 15 %v E derramou-se sobre eles de noite ele e seus servos, e feriu-os, e foi os seguindo até Hobá, que está à esquerda de Damasco.
@@ -392,26 +392,26 @@
 #v 21 %v Então o rei de Sodoma disse a Abrão: Dá-me as pessoas, e toma para ti a riqueza.
 #v 22 %v E respondeu Abrão ao rei de Sodoma: Levantei minha mão ao SENHOR Deus altíssimo, possuidor dos céus e da terra,
 #v 23 %v Que desde um fio até a correia de um calçado, nada tomarei de tudo o que é teu, para que não digas: Eu enriqueci a Abrão:
-#v 24 %v Tirando somente o que comeram os rapazes, e a porção dos homens que foram comigo, Aner, Escol, e Manre; os quais tomarão sua parte.
+#v 24 %v Tirando somente o que os rapazes comeram, e a porção dos homens que foram comigo, Aner, Escol, e Manre; eles tomem a sua parte.
 
 #c 15 %c
-#v 1 %v Depois destas coisas foi a palavra do SENHOR a Abrão em visão, dizendo: Não temas, Abrão; eu sou teu escudo, e tua recompensa muito grande.
-#v 2 %v E respondeu Abrão: Senhor DEUS que me darás, sendo assim que ando sem filho, e o mordomo de minha casa é esse Damasceno Eliézer?
-#v 3 %v Disse mais Abrão: Eis que não me deste descendência, e eis que é meu herdeiro um nascido em minha casa.
-#v 4 %v E logo a palavra do SENHOR foi a ele dizendo: Não te herdará este, mas sim o que sairá de tuas entranhas será o que te herdará.
+#v 1 %v Depois destas coisas a palavra do SENHOR veio a Abrão em visão, dizendo: Não temas, Abrão; eu sou o teu escudo; a tua recompensa será muito grande #fn _c Ou: eu sou o teu escudo, e tua muito grande recompensa %fn
+#v 2 %v Abrão respondeu: Senhor DEUS, que me darás, sendo que não tenho filho, e o herdeiro #fn _c Ou: mordomo %fn da minha casa é Eliézer de Damasco?
+#v 3 %v Disse mais Abrão: Eis que não me deste descendência, e eis que meu herdeiro é um nascido em minha casa.
+#v 4 %v E logo a palavra do SENHOR veio a ele dizendo: Não esse não herdará de ti, mas sim o que sairá de tuas entranhas será o que de ti herdará.
 #v 5 %v E tirou-lhe fora, e disse: Olha agora aos céus, e conta as estrelas, se as podes contar. E lhe disse: Assim será tua descendência.
 #v 6 %v E creu ao SENHOR, e contou-lhe por justiça.
 #v 7 %v E disse-lhe: Eu sou o SENHOR, que te tirei de Ur dos caldeus, para dar-te a herdar esta terra.
-#v 8 %v E ele respondeu: Senhor DEUS em que conhecerei que a tenho de herdar?
+#v 8 %v E ele respondeu: Senhor DEUS, com que saberei que a vou herdar?
 #v 9 %v E lhe disse: Separa-me uma bezerra de três anos, e uma cabra de três anos, e um carneiro de três anos, uma rolinha também, e um pombinho.
 #v 10 %v E tomou ele todas estas coisas, e partiu-as pela metade, e pôs cada metade uma em frente de outra; mas não partiu as aves.
 #v 11 %v E desciam aves sobre os corpos mortos, e enxotava-as Abrão.
-#v 12 %v Mas à queda do sol veio o sono a Abrão, e eis que o pavor de uma grande escuridão caiu sobre ele.
-#v 13 %v Então disse a Abrão: Tem por certo que tua descendência será peregrina em terra não sua, e servirá aos dali, e serão por eles afligidos quatrocentos anos.
-#v 14 %v Mas também à gente a quem servirão, julgarei eu; e depois disto sairão com grande riqueza.
-#v 15 %v E tu virás a teus pais em paz, e serás sepultado em boa velhice.
-#v 16 %v E na quarta geração voltarão aqui: porque ainda não está completa a maldade dos amorreus até aqui.
-#v 17 %v E sucedeu que posto o sol, e já escurecido, deixou-se ver um forno fumegando, e uma tocha de fogo que passou por entre os animais divididos.
+#v 12 %v Mas ao pôr do sol veio o sono a Abrão, e eis que o pavor de uma grande escuridão caiu sobre ele.
+#v 13 %v Então disse a Abrão: Tem certeza que a tua descendência será peregrina em terra que não é sua, e serão escravizados e afligidos por quatrocentos anos.
+#v 14 %v Mas também a nação a quem servirão, eu julgarei; e depois disto sairão com grande riqueza.
+#v 15 %v Tu, porém, virás aos teus pais em paz, e serás sepultado em boa velhice.
+#v 16 %v E na quarta geração voltarão para cá; porque ainda não está completa a maldade dos amorreus até aqui.
+#v 17 %v E sucedeu que, depois de posto o sol, e já estando escuro, apareceu um fogo fumegando, e uma tocha de fogo que passou por entre os animais divididos.
 #v 18 %v Naquele dia fez o SENHOR um pacto com Abrão dizendo: À tua descendência darei esta terra desde o rio do Egito até o rio grande, o rio Eufrates;
 #v 19 %v Os queneus, e os quenezeus, e os cadmoneus,
 #v 20 %v E os heteus, e os perizeus, e os refains,
@@ -422,14 +422,14 @@
 #v 2 %v Disse, pois, Sarai a Abrão: Já vês que o SENHOR me fez estéril: rogo-te que entres a minha serva; talvez terei filhos dela. E atendeu Abrão ao dito de Sarai.
 #v 3 %v E Sarai, mulher de Abrão, tomou a Agar sua serva egípcia, ao fim de dez anos que havia habitado Abrão na terra de Canaã, e deu-a a Abrão seu marido por mulher.
 #v 4 %v E ele se deitou com Agar, a qual concebeu: e quando viu que havia concebido, olhava com desprezo à sua senhora.
-#v 5 %v Então Sarai disse a Abrão: Minha afronta seja sobre ti: eu pus minha serva em teu seio, e vendo-se grávida, me olha com desprezo; julgue o SENHOR entre mim e ti.
-#v 6 %v E respondeu Abrão a Sarai: Eis aí tua serva em tua mão, faze com ela o que bem te parecer. E quando Sarai a afligiu, fugiu-se de sua presença.
-#v 7 %v E achou-a o anjo do SENHOR junto a uma fonte de água no deserto, junto à fonte que está no caminho de Sur.
+#v 5 %v Então Sarai disse a Abrão: Minha afronta seja sobre ti; eu pus minha serva em teus braços, e vendo-se grávida, me olha com desprezo; julgue o SENHOR entre mim e ti.
+#v 6 %v E respondeu Abrão a Sarai: Eis aí tua serva em tua mão, faze com ela o que bem te parecer. E quando Sarai a afligiu, fugiu de sua presença.
+#v 7 %v E o anjo do SENHOR a achou junto a uma fonte de água no deserto, junto à fonte que está no caminho de Sur.
 #v 8 %v E lhe disse: Agar, serva de Sarai, de onde vens tu, e para onde vais? E ela respondeu: Fujo de diante de Sarai, minha senhora.
-#v 9 %v E disse-lhe o anjo do SENHOR: Volta-te a tua senhora, e põe-te submissa sob sua mão.
+#v 9 %v E disse-lhe o anjo do SENHOR: Volta à tua senhora, e põe-te submissa sob a mão dela.
 #v 10 %v Disse-lhe também o anjo do SENHOR: Multiplicarei tanto tua linhagem, que não será contada por causa da multidão.
-#v 11 %v Disse-lhe ainda o anjo do SENHOR: Eis que concebeste, e darás à luz um filho, e chamarás seu nome Ismael, porque ouviu o SENHOR tua aflição.
-#v 12 %v E ele será homem bravio; sua mão contra todos, e as mãos de todos contra ele, e diante de todos os seus irmãos habitará.
+#v 11 %v Disse-lhe ainda o anjo do SENHOR: Eis que concebeste, e darás à luz um filho, e chamarás seu nome Ismael, porque o SENHOR ouviu a tua aflição.
+#v 12 %v E ele será homem como um jumento selvagem; sua mão será contra todos, as mãos de todos serão contra ele, e habitará à margem #fn _c Ou: em oposição %fn de todos os seus irmãos.
 #v 13 %v Então chamou o nome do SENHOR que com ela falava: Tu és o Deus da vista; porque disse: Não vi também aqui ao que me vê?
 #v 14 %v Pelo qual chamou ao poço, Poço do Vivente que me vê. Eis que está entre Cades e Berede.
 #v 15 %v E deu à luz Agar a Abrão um filho e chamou Abrão o nome de seu filho que lhe deu à luz Agar, Ismael.
@@ -437,9 +437,9 @@
 
 #c 17 %c
 #v 1 %v E sendo Abrão de idade de noventa e nove anos, apareceu-lhe o SENHOR, e lhe disse: Eu sou o Deus Todo-Poderoso; anda diante de mim, e sê perfeito.
-#v 2 %v E porei meu pacto entre mim e ti, e te multiplicarei muito em grande maneira.
-#v 3 %v Então Abrão caiu sobre seu rosto, e Deus falou com ele dizendo:
-#v 4 %v Eu, eis aqui meu pacto contigo: Serás pai de multidão de nações:
+#v 2 %v E constituirei meu pacto entre mim e ti, e te multiplicarei em grandíssima maneira.
+#v 3 %v Então Abrão prostrou-se com o rosto ao chão, e Deus falou com ele, dizendo:
+#v 4 %v Quanto a mim, este é o meu pacto contigo: Serás pai de multidão de nações:
 #v 5 %v E não se chamará mais teu nome Abrão, mas sim que será teu nome Abraão, porque te pus por pai de multidão de nações.
 #v 6 %v E te multiplicarei muito em grande maneira, e te porei em nações, e reis sairão de ti.
 #v 7 %v E estabelecerei meu pacto entre mim e ti, e tua descendência depois de ti em suas gerações, por aliança perpétua, para ser para ti por Deus, e à tua descendência depois de ti.
@@ -451,12 +451,12 @@
 #v 13 %v Deve ser circuncidado o nascido em tua casa, e o comprado por teu dinheiro: e estará meu pacto em vossa carne para aliança perpétua.
 #v 14 %v E o macho incircunciso que não houver circuncidado a carne de seu prepúcio, aquela pessoa será exterminada de seu povo; violou meu pacto.
 #v 15 %v Disse também Deus a Abraão: A Sarai tua mulher não a chamarás Sarai, mas Sara será seu nome.
-#v 16 %v E a abençoarei, e também te darei dela filho; si, a abençoarei, e virá a ser mãe de nações; reis de povos serão dela.
-#v 17 %v Então Abraão caiu sobre seu rosto, e riu-se, e disse em seu coração: A homem de cem anos há de nascer filho? e Sara, já de noventa anos, há de dar à luz?
-#v 18 %v E disse Abraão a Deus: Bom seria se Ismael viva diante de ti.
+#v 16 %v E a abençoarei, e também te darei dela filho; sim, a abençoarei, e virá a ser mãe de nações; dela surgirão reis de povos.
+#v 17 %v Então Abraão postrou-se com o rosto ao chão, riu, e disse em seu coração: A um homem de cem anos nasceráfilho? E Sara, já de noventa anos, há de dar à luz?
+#v 18 %v E disse Abraão a Deus: Que Ismael viva diante de ti!
 #v 19 %v E respondeu Deus: Certamente Sara tua mulher te dará à luz um filho, e chamarás seu nome Isaque; e confirmarei meu pacto com ele por aliança perpétua para sua descendência depois dele.
-#v 20 %v E quanto a Ismael, também te ouvi: eis que o abençoarei, e lhe farei frutificar e multiplicar muito em grande maneira: doze príncipes gerará, e o porei por grande nação.
-#v 21 %v Mas eu estabelecerei meu pacto com Isaque, ao qual te dará à luz Sara por este tempo o ano seguinte.
+#v 20 %v E quanto a Ismael, também te ouvi; eis que o abençoarei, e lhe farei frutificar e multiplicar em grandíssima maneira; doze príncipes gerará, e dele farei grande nação.
+#v 21 %v Mas meu pacto estabelecerei com Isaque, ao qual Sara te dará à luz por este tempo no ano seguinte.
 #v 22 %v E acabou de falar com ele, e subiu Deus de com Abraão.
 #v 23 %v Então tomou Abraão a Ismael seu filho, e a todos os servos nascidos em sua casa, e a todos os comprados por seu dinheiro, a todo homem entre os domésticos da casa de Abraão, e circuncidou a carne do prepúcio deles naquele mesmo dia, como Deus lhe havia dito.
 #v 24 %v Era Abraão de idade de noventa e nove anos quando circuncidou a carne de seu prepúcio.
