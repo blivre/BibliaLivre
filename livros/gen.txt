@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150118 %ver
+#ver 20150119 %ver
 #abbr Gn %abbr
 %header
 
@@ -488,15 +488,15 @@
 #v 21 %v Descerei agora, e verei se consumaram sua obra segundo o clamor que veio até mim; e se não, eu o saberei.
 #v 22 %v E apartaram-se dali os homens, e foram até Sodoma: mas Abraão estava ainda diante do SENHOR.
 #v 23 %v E aproximou-se Abraão e disse: Destruirás também ao justo com o ímpio?
-#v 24 %v Talvez há cinquenta justos dentro da cidade: destruirás também e não perdoarás ao lugar por cinquenta justos que estejam dentro dela?
+#v 24 %v Talvez haja cinquenta justos dentro da cidade: destruirás também e não perdoarás ao lugar por cinquenta justos que estejam dentro dela?
 #v 25 %v Longe de ti o fazer tal, que faças morrer ao justo com o ímpio e que seja o justo tratado como o ímpio; nunca faças tal. O juiz de toda a terra, não há de fazer o que é justo?
 #v 26 %v Então respondeu o SENHOR: Se achar em Sodoma cinquenta justos dentro da cidade, perdoarei a todo este lugar por causa deles.
 #v 27 %v E Abraão replicou e disse: Eis que agora que comecei a falar a meu Senhor, ainda que sou pó e cinza:
-#v 28 %v Talvez faltarão de cinquenta justos cinco: destruirás por aqueles cinco toda a cidade? E disse: Não a destruirei, se achar ali quarenta e cinco.
+#v 28 %v Talvez faltem de cinquenta justos cinco; destruirás por aqueles cinco toda a cidade? E disse: Não a destruirei, se achar ali quarenta e cinco.
 #v 29 %v E voltou a falar-lhe, e disse: Talvez se acharão ali quarenta. E respondeu: Não o farei por causa dos quarenta.
-#v 30 %v E disse: Não se ire agora meu Senhor, se falar: talvez se acharão ali trinta. E respondeu: Não o farei se achar ali trinta.
-#v 31 %v E disse: Eis que agora que me empreendi em falar a meu Senhor: talvez se acharão ali vinte. Não a destruirei, respondeu, por causa dos vinte.
-#v 32 %v E voltou a dizer: Não se ire agora meu Senhor, se falar somente uma vez: talvez se acharão ali dez. Não a destruirei, respondeu, por causa dos dez.
+#v 30 %v E disse: Não se ire agora meu Senhor, se falar: talvez se achem ali trinta. E respondeu: Não o farei se achar ali trinta.
+#v 31 %v E disse: Eis que agora que me empreendi em falar a meu Senhor: talvez se achem ali vinte. Não a destruirei, respondeu, por causa dos vinte.
+#v 32 %v E voltou a dizer: Não se ire agora meu Senhor, se falar somente uma vez: talvez se achem ali dez. Não a destruirei, respondeu, por causa dos dez.
 #v 33 %v E foi-se o SENHOR, logo que acabou de falar a Abraão: e Abraão se voltou a seu lugar.
 
 #c 19 %c
@@ -507,13 +507,13 @@
 #v 5 %v E chamaram a Ló, e lhe disseram: Onde estão os homens que vieram a ti esta noite? tira-os a nós, para que os conheçamos.
 #v 6 %v Então Ló saiu a eles à porta, e fechou as portas atrás de si,
 #v 7 %v E disse: Eu vos rogo, meus irmãos, que não façais tal maldade.
-#v 8 %v Eis aqui agora eu tenho duas filhas que não conheceram homem; eu as tirarei fora para vó, e fazei delas como bem vos parecer: somente a estes homens não façais nada, pois que vieram à sombra de meu telhado.
+#v 8 %v Eis aqui agora eu tenho duas filhas que não conheceram homem; eu as tirarei fora para vós, e fazei delas como bem vos parecer: somente a estes homens não façais nada, pois que vieram à sombra de meu telhado.
 #v 9 %v E eles responderam: Sai daí: e acrescentaram: Veio este aqui para habitar como um estrangeiro, e haverá de levantar-se como juiz? Agora te faremos mais mal que a eles. E faziam grande violência ao homem, a Ló, e se aproximaram para romper as portas.
 #v 10 %v Então os homens estenderam a mão, e meteram a Ló em casa com eles, e fecharam as portas.
 #v 11 %v E aos homens que estavam à porta da casa desde o menor até o maior, feriram com cegueira; mas eles se cansavam tentando achar a porta.
 #v 12 %v E disseram os homens a Ló: Tens aqui alguém mais? Genros, e teus filhos e tuas filhas, e tudo o que tens na cidade, tira-o deste lugar:
 #v 13 %v Porque vamos destruir este lugar, porquanto o clamor deles subiu demais diante do SENHOR; portanto o SENHOR nos enviou para destruí-lo.
-#v 14 %v Então saiu Ló, e falou a seus genros, os que haviam de tomar suas filhas, e lhes disse: Levantai-vos, saí deste lugar; porque o SENHOR vai destruir esta cidade. Mas pareceu a seus genros como que se ridicularizava.
+#v 14 %v Então saiu Ló, e falou a seus genros, os que haviam de se casar com suas filhas, e lhes disse: Levantai-vos, saí deste lugar; porque o SENHOR vai destruir esta cidade. Mas pareceu a seus genros como que se ridicularizava.
 #v 15 %v E ao raiar a alva, os anjos davam pressa a Ló, dizendo: Levanta-te, toma tua mulher, e teus dois filhas que se acham aqui, para que não pereças no castigo da cidade.
 #v 16 %v E demorando-se ele, os homens pegaram por sua mão, e pela mão de sua mulher, e pelas mãos de suas duas filhas segundo a misericórdia do SENHOR para com ele; e o tiraram, e o puseram fora da cidade.
 #v 17 %v E foi que quando os tirou fora, disse: Escapa por tua vida; não olhes atrás de ti, nem pares toda esta planície; escapa ao monte, não seja que pereças.
@@ -541,26 +541,26 @@
 
 #c 20 %c
 #v 1 %v De ali partiu Abraão à terra do Sul, e assentou entre Cades e Sur, e habitou como peregrino em Gerar.
-#v 2 %v E disse Abraão de Sara sua mulher: Minha irmã é. E Abimeleque, rei de Gerar, enviou e tomou a Sara.
+#v 2 %v E disse Abraão de Sara sua mulher: É minha irmã. E Abimeleque, rei de Gerar, enviou e tomou a Sara.
 #v 3 %v Porém Deus veio a Abimeleque em sonhos de noite, e lhe disse: Eis que morto és por causa da mulher que tomaste, a qual é casada com marido.
 #v 4 %v Mas Abimeleque não havia chegado a ela, e disse: Senhor, matarás também a gente justa?
-#v 5 %v Não me disse ele: Minha irmã é; e ela também disse: É meu irmão? Com sinceridade de meu coração, e com limpeza de minhas mãos fiz isto.
+#v 5 %v Não me disse ele: É minha irmã; e ela também disse: É meu irmão? Com sinceridade de meu coração, e com limpeza de minhas mãos fiz isto.
 #v 6 %v E disse-lhe Deus em sonhos: Eu também sei que com integridade de teu coração fizeste isto; e eu também te detive de pecar contra mim, e assim não te permiti que a tocasses.
-#v 7 %v Agora, pois, volta a mulher a seu marido; porque é profeta, e orará por ti, e viverás. E se tu não a devolveres, sabe que certamente morrerás, com tudo o que for teu.
+#v 7 %v Agora, pois, devolve a mulher a seu marido; porque é profeta, e orará por ti, e viverás. E se tu não a devolveres, sabe que certamente morrerás, com tudo o que for teu.
 #v 8 %v Então Abimeleque se levantou de manhã, e chamou a todos os seus servos, e disse todas estas palavras aos ouvidos deles; e temeram os homens em grande maneira.
 #v 9 %v Depois chamou Abimeleque a Abraão e lhe disse: Que nos fizeste? e em que pequei eu contra ti, que atraíste sobre mim e sobre meu reino tão grande pecado? o que não devias fazer fizeste comigo.
 #v 10 %v E disse mais Abimeleque a Abraão: Que viste para que fizesses isto?
 #v 11 %v E Abraão respondeu: Porque disse para mim: Certamente não há temor de Deus neste lugar, e me matarão por causa de minha mulher.
 #v 12 %v E na verdade também é minha irmã, filha de meu pai, mas não filha de minha mãe, e tomei-a por mulher.
-#v 13 %v E foi que, quando Deus me fez sair sem rumo da casa de meu pai, eu lhe disse: Esta é a lealdade que tu me farás, que em todos os lugares onde chegarmos, digas de mim: Meu irmão é.
+#v 13 %v E foi que, quando Deus me fez sair sem rumo da casa de meu pai, eu lhe disse: Esta é a lealdade que tu me farás, que em todos os lugares onde chegarmos, digas de mim: É meu irmão.
 #v 14 %v Então Abimeleque tomou ovelhas e vacas, e servos e servas, e deu-o a Abraão, e devolveu-lhe a Sara sua mulher.
 #v 15 %v E disse Abimeleque: Eis que minha terra está diante de ti, habita onde bem te parecer.
 #v 16 %v E a Sara disse: Eis que dei mil moedas de prata a teu irmão; olha que ele te é por véu de olhos para todos os que estão contigo, e para com todos: assim foi repreendida.
 #v 17 %v Então Abraão orou a Deus; e Deus sanou a Abimeleque e a sua mulher, e a suas servas, e voltaram a ter filhos.
-#v 18 %v Porque havia por completo fechado o SENHOR toda madre da casa de Abimeleque, por causa de Sara mulher de Abraão.
+#v 18 %v Porque havia por completo fechado o SENHOR toda madre da casa de Abimeleque, por causa de Sara, mulher de Abraão.
 
 #c 21 %c
-#v 1 %v E visitou o SENHOR a Sara, como disse, e fez o SENHOR com Sara como havia falado.
+#v 1 %v E o SENHOR visitou Sara, como disse, e o SENHOR fez com Sara como havia falado.
 #v 2 %v E concebeu e deu à luz Sara a Abraão um filho em sua velhice, no tempo que Deus lhe havia dito.
 #v 3 %v E chamou Abraão o nome de seu filho que lhe nasceu, que lhe deu à luz Sara, Isaque.
 #v 4 %v E circuncidou Abraão a seu filho Isaque de oito dias, como Deus lhe havia mandado.
@@ -571,18 +571,18 @@
 #v 9 %v E viu Sara ao filho de Agar a egípcia, o qual havia esta dado a Abraão, que o ridicularizava.
 #v 10 %v Portanto disse a Abraão: Expulsa a esta serva e a seu filho; que o filho desta serva não herdará com meu filho, com Isaque.
 #v 11 %v Este dito pareceu grave em grande maneira a Abraão por causa de seu filho.
-#v 12 %v Então disse Deus a Abraão: Não te pareça grave por causa do jovem e de tua serva; em tudo o que te disser Sara, ouve sua voz, porque em Isaque te será chamada descendência.
-#v 13 %v E também do filho da serva farei nação, porque é tua descendência.
+#v 12 %v Então disse Deus a Abraão: Não te pareça grave por causa do jovem e de tua serva; em tudo o que te disser Sara, ouve sua voz, porque em Isaque será chamada tua descendência.
+#v 13 %v E também do filho da serva farei nação, porque é descendência tua.
 #v 14 %v Então Abraão se levantou manhã muito cedo, e tomou pão, e um odre de água, e deu-o a Agar, pondo-o sobre seu ombro, e entregou-lhe o jovem, e despediu-a. E ela partiu, e andava errante pelo deserto de Berseba.
 #v 15 %v E faltou a água do odre, e deitou ao jovem debaixo de uma árvore;
 #v 16 %v E foi-se e sentou-se em frente, afastando-se como um tiro de arco; porque dizia: Não verei quando o jovem morrer: e sentou-se em frente, e levantou sua voz e chorou.
 #v 17 %v E ouviu Deus a voz do jovem; e o anjo de Deus chamou a Agar desde o céu, e lhe disse: Que tens, Agar? Não temas; porque Deus ouviu a voz do jovem onde está.
-#v 18 %v Levanta-te, ergue ao jovem, e pegue-o por tua mão, porque em grande nação o tenho de pôr.
+#v 18 %v Levanta-te, ergue ao jovem, e pegue-o por tua mão, porque farei dele uma grande nação.
 #v 19 %v Então abriu Deus seus olhos, e viu uma fonte de água; e foi, e encheu o odre de água, e deu de beber ao jovem.
 #v 20 %v E foi Deus com o jovem; e cresceu, e habitou no deserto, e foi atirador de arco.
 #v 21 %v E habitou no deserto de Parã; e sua mãe lhe tomou mulher da terra do Egito.
 #v 22 %v E aconteceu naquele mesmo tempo que falou Abimeleque, e Ficol, príncipe de seu exército, a Abraão dizendo: Deus é contigo em tudo quanto fazes.
-#v 23 %v Agora, pois, jura-me aqui por Deus, que não faltarás a mim, nem a meu filho, nem a meu neto; mas sim que conforme a bondade que eu fiz contigo, farás tu comigo e com a terra onde peregrinaste.
+#v 23 %v Agora, pois, jura-me aqui por Deus, que não tratarás com falsidade a mim, nem a meu filho, nem a meu neto; mas sim que conforme a bondade que eu fiz contigo, farás tu comigo e com a terra onde peregrinaste.
 #v 24 %v E respondeu Abraão: Eu jurarei.
 #v 25 %v E Abraão reclamou com Abimeleque por causa de um poço de água, que os servos de Abimeleque lhe haviam tirado.
 #v 26 %v E respondeu Abimeleque: Não sei quem tenha feito isto, nem tampouco tu me fizeste saber, nem eu o ouvi até hoje.
@@ -590,10 +590,10 @@
 #v 28 %v E pôs Abraão sete cordeiras do rebanho à parte.
 #v 29 %v E disse Abimeleque a Abraão: Que significam essas sete cordeiras que puseste à parte?
 #v 30 %v E ele respondeu: Que estas sete cordeiras tomarás de minha mão, para que me sejam em testemunho de que eu cavei este poço.
-#v 31 %v Por isto chamou a aquele lugar Berseba; porque ali juraram ambos.
+#v 31 %v Por isto chamou a aquele lugar Berseba; porque ali ambos juraram.
 #v 32 %v Assim fizeram aliança em Berseba: e levantaram-se Abimeleque e Ficol, príncipe de seu exército, e se voltaram à terra dos filisteus.
 #v 33 %v E plantou Abraão um bosque em Berseba, e invocou ali o nome do SENHOR Deus eterno.
-#v 34 %v E morou Abraão na terra dos filisteus muitos dias.
+#v 34 %v E morou Abraão na terra dos filisteus por muitos dias.
 
 #c 22 %c
 #v 1 %v E aconteceu depois destas coisas, que provou Deus a Abraão, e lhe disse: Abraão. E ele respondeu: Eis-me aqui.
