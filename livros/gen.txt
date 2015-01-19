@@ -467,19 +467,19 @@
 #c 18 %c
 #v 1 %v E apareceu-lhe o SENHOR nos carvalhos de Manre, estando ele sentado à porta de sua tenda no calor do dia.
 #v 2 %v E levantou seus olhos e olhou, e eis que três homens que estavam junto a ele: e quando os viu, saiu correndo da porta de sua tenda a recebê-los, e inclinou-se até a terra,
-#v 3 %v E disse: Senhor, se agora achei favor em teus olhos, rogo-te que não passes de teu servo.
+#v 3 %v E disse: Senhor, se agora achei favor aos teus olhos, rogo-te que não passes de teu servo.
 #v 4 %v Que se traga agora um pouco de água, e lavai vossos pés; e recostai-vos debaixo de uma árvore,
-#v 5 %v E trarei um bocado de pão, e confortai vosso coração; depois passareis: porque por isso passastes perto de vosso servo. E eles disseram: Faze assim como disseste.
+#v 5 %v E trarei um bocado de pão, e confortai vosso coração; depois passareis; pois por isso passastes perto de vosso servo. E eles disseram: Faze assim como disseste.
 #v 6 %v Então Abraão foi depressa à tenda a Sara, e lhe disse: Toma logo três medidas de flor de farinha, amassa e faze pães cozidos debaixo das cinzas.
 #v 7 %v E correu Abraão às vacas, e tomou um bezerro tenro e bom, e deu-o ao jovem, e deu-se este pressa a prepará-lo.
 #v 8 %v Tomou também manteiga e leite, e o bezerro que havia preparado, e o pôs diante deles; e ele estava junto a eles debaixo da árvore; e comeram.
 #v 9 %v E lhe disseram: Onde está Sara tua mulher? E ele respondeu: Aqui na tenda.
 #v 10 %v Então disse: De certo voltarei a ti segundo o tempo da vida, e eis que, terá um filho Sara tua mulher. E Sara escutava à porta da tenda, que estava detrás dele.
-#v 11 %v E Abraão e Sara eram velhos, entrados em dias: a Sara havia cessado já o costume das mulheres.
-#v 12 %v Riu-se, pois, Sara entre si, dizendo: Depois que envelheci terei deleite, sendo também meu senhor já velho?
-#v 13 %v Então o SENHOR disse a Abraão: Por que se riu Sara dizendo: Será certo que darei à luz sendo já velha?
+#v 11 %v Abraão e Sara eram velhos, avançados em dias; a Sara já havia cessado o costume das mulheres.
+#v 12 %v Riu, pois, Sara consigo mesma, dizendo: Depois que envelheci terei prazer, sendo também meu senhor já velho?
+#v 13 %v Então o SENHOR disse a Abraão: Por que Sara riu dizendo: Será verdade que darei à luz, sendo já velha?
 #v 14 %v Há para Deus alguma coisa difícil? Ao tempo assinalado voltarei a ti, segundo o tempo da vida, e Sara terá um filho.
-#v 15 %v Então Sara negou dizendo: Não me ri; porque tive medo. E ele disse: Não é assim, mas sim que te riste.
+#v 15 %v Então Sara negou dizendo: Não ri; pois teve medo. Mas ele disse: Não é assim, mas riste.
 #v 16 %v E os homens se levantaram dali, e olharam até Sodoma: e Abraão ia com eles acompanhando-os.
 #v 17 %v E o SENHOR disse: Encobrirei eu a Abraão o que vou a fazer,
 #v 18 %v Havendo de ser Abraão em uma nação grande e forte, e havendo de ser benditas nele todas as nações da terra?
