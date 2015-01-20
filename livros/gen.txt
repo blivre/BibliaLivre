@@ -670,7 +670,7 @@
 #v 24 %v E ela respondeu: Sou filha de Betuel, filho de Milca, o qual deu à luz ela a Naor.
 #v 25 %v E acrescentou: Também há em nossa casa palha e muita forragem, e lugar para passar a noite.
 #v 26 %v O homem então se inclinou, e adorou ao SENHOR.
-#v 27 %v E disse: Bendito seja o SENHOR, Deus de meu senhor Abraão, que não afastou sua misericórdia e sua verdade de meu amo, guiando-me o SENHOR no caminho à casa dos irmãos de meu senhor.
+#v 27 %v E disse: Bendito seja o SENHOR, Deus de meu senhor Abraão, que não afastou sua misericórdia e sua verdade de meu senhor, guiando-me o SENHOR no caminho à casa dos irmãos de meu senhor.
 #v 28 %v E a moça correu, e fez saber na casa de sua mãe estas coisas.
 #v 29 %v E Rebeca tinha um irmão que se chamava Labão, o qual correu fora ao homem, à fonte;
 #v 30 %v E foi que quando viu o pendente e os braceletes nas mãos de sua irmã, que dizia, Assim me falou aquele homem; veio a ele: e eis que estava junto aos camelos à fonte.
@@ -679,7 +679,7 @@
 #v 33 %v E puseram diante dele comida; mas ele disse: Não comerei até que tenha dito minha mensagem. E ele lhe disse: Fala.
 #v 34 %v Então disse: Eu sou criado de Abraão;
 #v 35 %v E o SENHOR abençoou muito a meu senhor, e ele se engrandeceu: e lhe deu ovelhas e vacas, prata e ouro, servos e servas, camelos e asnos.
-#v 36 %v E Sara, mulher de meu amo, deu à luz em sua velhice um filho a meu senhor, quem lhe deu tudo quanto tem.
+#v 36 %v E Sara, mulher de meu senhor, deu à luz em sua velhice um filho a meu senhor, quem lhe deu tudo quanto tem.
 #v 37 %v E meu senhor me fez jurar, dizendo: Não tomarás mulher para meu filho das filhas dos cananeus, em cuja terra habito;
 #v 38 %v Em vez disso irás à casa de meu pai, e à minha parentela, e tomarás mulher para meu filho.
 #v 39 %v E eu disse: Talvez a mulher não queira me seguir.
