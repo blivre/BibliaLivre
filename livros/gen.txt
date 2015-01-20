@@ -615,36 +615,36 @@
 #v 17 %v Certamente te abençoarei, e multiplicarei tua descendência como as estrelas do céu, e como a areia que está na beira do mar; e tua descendência possuirá as portas de seus inimigos:
 #v 18 %v Em tua descendência serão abençoadas todas as nações da terra, porquanto obedeceste à minha voz.
 #v 19 %v E voltou Abraão a seus servos, e levantaram-se e se foram juntos a Berseba; e habitou Abraão em Berseba.
-#v 20 %v E aconteceu depois destas coisas, que foi dada nova a Abraão, dizendo: Eis que também Milca havia dado à luz filhos a Naor teu irmão:
+#v 20 %v E aconteceu depois destas coisas, que foi dada notícia a Abraão, dizendo: Eis que também Milca havia dado à luz filhos a Naor teu irmão:
 #v 21 %v A Uz seu primogênito, e a Buz seu irmão, e a Quemuel pai de Arã.
 #v 22 %v E a Quésede, e a Hazo, e a Pildas, e a Jidlafe, e a Betuel.
 #v 23 %v E Betuel gerou a Rebeca. Estes oito deu à luz Milca a Naor, irmão de Abraão.
 #v 24 %v E sua concubina, que se chamava Reumá, deu à luz também a Tebá, e a Gaã, e a Taás, e a Maaca.
 
 #c 23 %c
-#v 1 %v E foi a vida de Sara cento e vinte e sete anos: tantos foram os anos da vida de Sara.
-#v 2 %v E morreu Sara em Quiriate-Arba, que é Hebrom, na terra de Canaã: e veio Abraão a fazer o luto a Sara e a chorar por ela.
+#v 1 %v E foi a vida de Sara cento e vinte e sete anos; estes foram os anos da vida de Sara.
+#v 2 %v E morreu Sara em Quiriate-Arba, que é Hebrom, na terra de Canaã; e Abraão veio para ficar de luto por Sara e para chorar por ela.
 #v 3 %v E levantou-se Abraão de diante de sua morta, e falou aos filhos de Hete, dizendo:
-#v 4 %v Peregrino e estrangeiro sou entre vós; dá-me propriedade de sepultura convosco, e sepultarei minha morta de diante de mim.
+#v 4 %v Peregrino e estrangeiro sou entre vós; dá-me propriedade de sepultura convosco, e sepultarei minha falecida de diante de mim.
 #v 5 %v E responderam os filhos de Hete a Abraão, e disseram-lhe:
-#v 6 %v Ouve-nos, senhor meu, és um príncipe de Deus entre nós; no melhor de nossas sepulturas sepulta a tua matou; nenhum de nós te impedirá sua sepultura, para que enterres tua morta.
+#v 6 %v Ouve-nos, senhor meu, és um príncipe de Deus entre nós; no melhor de nossas sepulturas sepulta a tua falecida; nenhum de nós te impedirá sua sepultura, para que enterres tua falecida.
 #v 7 %v E Abraão se levantou, e inclinou-se ao povo daquela terra, aos filhos de Hete;
-#v 8 %v E falou com eles, dizendo: Se tendes vontade que eu sepulte minha morta de diante de mim, ouvi-me, e intercedei por mim com Efrom, filho de Zoar,
+#v 8 %v E falou com eles, dizendo: Se queres que eu sepulte minha falecida de diante de mim, ouvi-me, e intercedei por mim com Efrom, filho de Zoar,
 #v 9 %v Para que me dê a caverna de Macpela, que tem na extremidade de sua propriedade: que por seu justo preço a dê a mim, para possessão de sepultura em meio de vós.
 #v 10 %v Este Efrom achava-se entre os filhos de Hete: e respondeu Efrom Heteu a Abraão, aos ouvidos dos filhos de Hete, de todos os que entravam pela porta de sua cidade, dizendo:
-#v 11 %v Não, senhor meu, ouve-me: eu te dou a propriedade, e te dou também a caverna que está nela; diante dos filhos de meu povo a dou a ti; sepulta tua morta.
+#v 11 %v Não, senhor meu, ouve-me: eu te dou a propriedade, e te dou também a caverna que está nela; diante dos filhos de meu povo a dou a ti; sepulta tua falecida.
 #v 12 %v E Abraão se inclinou diante do povo da terra.
-#v 13 %v E respondeu a Efrom aos ouvidos do povo da terra, dizendo: Antes, se for do teu agrado, rogo-te que me ouças; eu darei o preço da propriedade, toma-o de mim, e sepultarei nela minha morta.
+#v 13 %v E respondeu a Efrom aos ouvidos do povo da terra, dizendo: Antes, se for do teu agrado, rogo-te que me ouças; eu darei o preço da propriedade, toma-o de mim, e sepultarei nela minha falecida.
 #v 14 %v E respondeu Efrom a Abraão, dizendo-lhe:
-#v 15 %v Senhor meu, escuta-me: a terra vale quatrocentos siclos de prata: que é isto entre mim e ti? enterra pois tua morta.
-#v 16 %v Então Abraão concordou com Efrom, e pesou Abraão a Efrom o dinheiro que disse, ouvindo-o os filhos de Hete, quatrocentos siclos de prata, de boa lei entre mercadores.
+#v 15 %v Senhor meu, escuta-me: a terra vale quatrocentos siclos de prata: que é isto entre mim e ti? Enterra, pois, tua falecida.
+#v 16 %v Então Abraão concordou com Efrom, e pesou Abraão a Efrom o dinheiro que disse, ouvindo-o os filhos de Hete, quatrocentos siclos de prata, de acordo com o padrão dos mercadores.
 #v 17 %v E ficou a propriedade de Efrom que estava em Macpela em frente de Manre, a propriedade e a caverna que estava nela, e todas as árvores que havia na herança, e em todo o seu termo ao derredor,
 #v 18 %v Para Abraão em possessão, à vista dos filhos de Hete, e de todos os que entravam pela porta da cidade.
-#v 19 %v E depois disto sepultou Abraão a Sara sua mulher na caverna da propriedade de Macpela em frente de Manre, que é Hebrom na terra de Canaã.
+#v 19 %v E depois disto sepultou Abraão a Sara, sua mulher, na caverna da propriedade de Macpela em frente de Manre, que é Hebrom na terra de Canaã.
 #v 20 %v E ficou a propriedade e a caverna que nela havia, para Abraão, em possessão de sepultura adquirida dos filhos de Hete.
 
 #c 24 %c
-#v 1 %v E Abraão era velho, e bem cheio de dias; e o SENHOR havia abençoado a Abraão em tudo.
+#v 1 %v E Abraão era velho, e cheio de dias; e o SENHOR havia abençoado a Abraão em tudo.
 #v 2 %v E disse Abraão a um criado seu, o mais velho de sua casa, que era o que governava em tudo o que tinha: Põe agora tua mão debaixo de minha coxa,
 #v 3 %v E te juramentarei pelo SENHOR, Deus dos céus e Deus da terra, que não tomarás mulher para meu filho das filhas dos cananeus, entre os quais eu habito;
 #v 4 %v Em vez disso irás à minha terra e à minha parentela, e tomarás mulher para meu filho Isaque.
@@ -664,13 +664,13 @@
 #v 18 %v E ela respondeu: Bebe, meu senhor; e apressou-se a baixar seu cântaro sobre sua mão, e lhe deu a beber.
 #v 19 %v E quando acabou de dar-lhe de beber, disse: Também para teus camelos tirarei água, até que acabem de beber.
 #v 20 %v E apressou-se, e esvaziou seu cântaro no bebedouro, e correu outra vez ao poço para tirar água, e tirou para todos os seus camelos.
-#v 21 %v E o homem estava maravilhado dela, permanecendo calado, para saber se o SENHOR havia prosperado ou não sua viajem.
-#v 22 %v E foi que quando os camelos acabaram de beber, presenteou-lhe o homem um pendente de ouro que pesava meio siclo, e dois braceletes que pesavam dez:
-#v 23 %v E disse: De quem és filha? Rogo-te me digas, há lugar em casa de teu pai onde pernoitemos?
+#v 21 %v E o homem estava maravilhado dela, permanecendo calado, para saber se o SENHOR havia prosperado ou não sua viagem.
+#v 22 %v E foi que quando os camelos acabaram de beber, presenteou-lhe o homem um pendente de ouro que pesava meio siclo, e dois braceletes que pesavam dez;
+#v 23 %v E disse: De quem és filha? Rogo-te me digas, há lugar em casa de teu pai onde possamos passar a noite?
 #v 24 %v E ela respondeu: Sou filha de Betuel, filho de Milca, o qual deu à luz ela a Naor.
-#v 25 %v E acrescentou: Também há em nossa casa palha e muita forragem, e lugar para pernoitar.
+#v 25 %v E acrescentou: Também há em nossa casa palha e muita forragem, e lugar para passar a noite.
 #v 26 %v O homem então se inclinou, e adorou ao SENHOR.
-#v 27 %v E disse: Bendito seja o SENHOR, Deus de meu amo Abraão, que não afastou sua misericórdia e sua verdade de meu amo, guiando-me o SENHOR no caminho à casa dos irmãos de meu amo.
+#v 27 %v E disse: Bendito seja o SENHOR, Deus de meu senhor Abraão, que não afastou sua misericórdia e sua verdade de meu amo, guiando-me o SENHOR no caminho à casa dos irmãos de meu senhor.
 #v 28 %v E a moça correu, e fez saber na casa de sua mãe estas coisas.
 #v 29 %v E Rebeca tinha um irmão que se chamava Labão, o qual correu fora ao homem, à fonte;
 #v 30 %v E foi que quando viu o pendente e os braceletes nas mãos de sua irmã, que dizia, Assim me falou aquele homem; veio a ele: e eis que estava junto aos camelos à fonte.
@@ -678,35 +678,35 @@
 #v 32 %v Então o homem veio à casa, e Labão desatou os camelos; e deu-lhes palha e forragem, e água para lavar os pés dele, e os pés dos homens que com ele vinham.
 #v 33 %v E puseram diante dele comida; mas ele disse: Não comerei até que tenha dito minha mensagem. E ele lhe disse: Fala.
 #v 34 %v Então disse: Eu sou criado de Abraão;
-#v 35 %v E o SENHOR abençoou muito a meu amo, e ele se engrandeceu: e lhe deu ovelhas e vacas, prata e ouro, servos e servas, camelos e asnos.
+#v 35 %v E o SENHOR abençoou muito a meu senhor, e ele se engrandeceu: e lhe deu ovelhas e vacas, prata e ouro, servos e servas, camelos e asnos.
 #v 36 %v E Sara, mulher de meu amo, deu à luz em sua velhice um filho a meu senhor, quem lhe deu tudo quanto tem.
-#v 37 %v E meu amo me fez jurar, dizendo: Não tomarás mulher para meu filho das filhas dos cananeus, em cuja terra habito;
+#v 37 %v E meu senhor me fez jurar, dizendo: Não tomarás mulher para meu filho das filhas dos cananeus, em cuja terra habito;
 #v 38 %v Em vez disso irás à casa de meu pai, e à minha parentela, e tomarás mulher para meu filho.
 #v 39 %v E eu disse: Talvez a mulher não queira me seguir.
-#v 40 %v Então ele me respondeu: O SENHOR, em cuja presença tenho andado, enviará seu anjo contigo, e prosperará teu caminho; e tomarás mulher para meu filho de minha linhagem e da casa de meu pai:
+#v 40 %v Então ele me respondeu: O SENHOR, em cuja presença tenho andado, enviará seu anjo contigo, e fará teu caminho ser bem-sucedido; e tomarás mulher para meu filho de minha linhagem e da casa de meu pai;
 #v 41 %v Então serás livre de meu juramento, quando houveres chegado à minha linhagem; e se não a derem a ti, serás livre de meu juramento.
-#v 42 %v Cheguei, pois, hoje à fonte, e disse: SENHOR, Deus de meu senhor Abraão, se tu prosperas agora meu caminho pelo qual ando;
+#v 42 %v Cheguei, pois, hoje à fonte, e disse: SENHOR, Deus de meu senhor Abraão, se tu fazes bem-sucedido agora meu caminho pelo qual ando;
 #v 43 %v Eis que eu estou junto à fonte de água; seja, pois, que a virgem que sair por água, à qual disser: Dá-me de beber, te rogo, um pouco de água de teu cântaro;
 #v 44 %v E ela me responder, Bebe tu, e também para teus camelos tirarei água: esta seja a mulher que destinou o SENHOR para o filho de meu senhor.
 #v 45 %v E antes que acabasse de falar em meu coração, eis que Rebeca saía com seu cântaro sobre seu ombro; e desceu à fonte, e tirou água; e lhe disse: Rogo-te que me dês de beber.
 #v 46 %v E prontamente baixou seu cântaro de cima de si, e disse: Bebe, e também a teus camelos darei a beber. E bebi, e deu também de beber a meus camelos.
-#v 47 %v Então lhe perguntei, e disse: De quem és filha? E ela respondeu: Filha de Betuel, filho de Naor, que Milca lhe deu. Então pus nela um pendente sobre seu nariz, e braceletes sobre suas mãos:
+#v 47 %v Então lhe perguntei, e disse: De quem és filha? E ela respondeu: Filha de Betuel, filho de Naor, que Milca lhe deu. Então pus nela um pendente sobre seu nariz, e braceletes sobre suas mãos;
 #v 48 %v E inclinei-me, e adorei ao SENHOR, e bendisse ao SENHOR, Deus de meu senhor Abraão, que me havia guiado pelo caminho de verdade para tomar a filha do irmão de meu senhor para seu filho.
 #v 49 %v Agora, pois, se vós fazeis misericórdia e verdade com meu senhor, declarai-o a mim; e se não, declarai-o a mim; e irei embora à direita ou à esquerda.
 #v 50 %v Então Labão e Betuel responderam e disseram: Do SENHOR saiu isto; não podemos falar-te mal nem bem.
 #v 51 %v Eis aí Rebeca diante de ti; toma-a e vai-te, e seja mulher do filho de teu senhor, como o disse o SENHOR.
 #v 52 %v E foi, que quando o criado de Abraão ouviu suas palavras, inclinou-se à terra ao SENHOR.
 #v 53 %v E o criado tirou objetos de prata, objetos de ouro e roupas, e deu a Rebeca: também deu coisas preciosas a seu irmão e a sua mãe.
-#v 54 %v E comeram e beberam ele e os homens que vinham com ele, e dormiram; e levantando-se de manhã, disse: Envia-me a meu senhor.
+#v 54 %v E comeram e beberam ele e os homens que vinham com ele, e dormiram; e levantando-se de manhã, disse: Autorizai-me voltar a meu senhor.
 #v 55 %v Então respondeu seu irmão e sua mãe: Espere a moça conosco ao menos dez dias, e depois irá.
 #v 56 %v E ele lhes disse: Não me detenhais, pois que o SENHOR fez prosperar meu caminho; despede-me para que me vá a meu senhor.
 #v 57 %v Eles responderam então: Chamemos a moça e perguntemos a ela.
 #v 58 %v E chamaram a Rebeca, e disseram-lhe: Irás tu com este homem? E ela respondeu: Sim, irei.
 #v 59 %v Então deixaram ir a Rebeca sua irmã, e à sua criada, e ao criado de Abraão e a seus homens.
 #v 60 %v E abençoaram a Rebeca, e disseram-lhe: És nossa irmã; sejas em milhares de milhares, e tua geração possua a porta de seus inimigos.
-#v 61 %v Levantou-se então Rebeca e suas moças, e subiram sobre os camelos, e seguiram ao homem; e o criado tomou a Rebeca, e foi-se.
+#v 61 %v Levantou-se então Rebeca e suas moças, e subiram sobre os camelos, e seguiram ao homem; e o criado tomou a Rebeca, e foi embora.
 #v 62 %v E vinha Isaque do poço do Vivente que me vê; porque ele habitava na terra do Sul;
-#v 63 %v E havia saído Isaque a orar ao campo, à hora da tarde; e levantando seus olhos olhou, e eis os camelos que vinham.
+#v 63 %v E havia saído Isaque a orar ao campo, à hora da tarde; e levantando seus olhos, olhou, e eis os camelos que vinham.
 #v 64 %v Rebeca também levantou seus olhos, e viu a Isaque, e desceu do camelo;
 #v 65 %v Porque havia perguntado ao criado: Quem é este homem que vem pelo campo até nós? E o servo havia respondido: Este é meu senhor. Ela então tomou o véu, e cobriu-se.
 #v 66 %v Então o criado contou a Isaque tudo o que havia feito.
