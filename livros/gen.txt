@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150119 %ver
+#ver 20150120 %ver
 #abbr Gn %abbr
 %header
 
@@ -718,12 +718,12 @@
 #v 3 %v E Jocsã gerou a Seba, e a Dedã: e filhos de Dedã foram Assurim, e Letusim, e Leummim.
 #v 4 %v E filhos de Midiã: Efá, e Efer, e Enoque, e Abida, e Elda. Todos estes foram filhos de Quetura.
 #v 5 %v Mas Abraão deu tudo quanto tinha a Isaque.
-#v 6 %v E aos filhos de suas concubinas deu Abraão presentes, e enviou-os de junto Isaque seu filho, enquanto ele vivia, até o oriente, à terra oriental.
+#v 6 %v E aos filhos de suas concubinas deu Abraão presentes, e enviou-os para longe de Isaque seu filho, enquanto ele vivia, até o oriente, à terra oriental.
 #v 7 %v E estes foram os dias de vida que viveu Abraão: cento e setenta e cinco anos.
 #v 8 %v E expirou, e morreu Abraão em boa velhice, ancião e cheio de dias e foi unido a seu povo.
 #v 9 %v E sepultaram-no Isaque e Ismael seus filhos na caverna de Macpela, na propriedade de Efrom, filho de Zoar Heteu, que está em frente de Manre;
 #v 10 %v Herança que comprou Abraão dos filhos de Hete; ali foi Abraão sepultado, e Sara sua mulher.
-#v 11 %v E sucedeu, depois de morto Abraão, que Deus abençoou a Isaque seu filho: e habitou Isaque junto ao poço do Vivente que me vê.
+#v 11 %v E sucedeu, depois de morto Abraão, que Deus abençoou a Isaque seu filho: e habitou Isaque junto a Beer-Laai-Roi #fn _c Isto é, o poço do Vivente que me vê (16:14) %fn
 #v 12 %v E estas são as gerações de Ismael, filho de Abraão, que lhe deu à luz Agar egípcia, serva de Sara:
 #v 13 %v Estes, pois, são os nomes dos filhos de Ismael, por seus nomes, por suas linhagens: O primogênito de Ismael, Nebaiote; logo Quedar, e Adbeel, e Mibsão,
 #v 14 %v E Misma, e Dumá, e Massá,
@@ -734,7 +734,7 @@
 #v 19 %v E estas são as gerações de Isaque, filho de Abraão. Abraão gerou a Isaque:
 #v 20 %v E era Isaque de quarenta anos quando tomou por mulher a Rebeca, filha de Betuel arameu de Padã-Arã, irmã de Labão arameu.
 #v 21 %v E orou Isaque ao SENHOR por sua mulher, que era estéril; e aceitou-o o SENHOR, e concebeu Rebeca sua mulher.
-#v 22 %v E os filhos se combatiam dentro dela; e disse: Se é assim para que vivo eu? E foi a consultar ao SENHOR.
+#v 22 %v E os filhos se combatiam dentro dela; e disse: Se é assim para que vivo eu? E foi consultar ao SENHOR.
 #v 23 %v E respondeu-lhe o SENHOR: Duas nações há em teu ventre, E dois povos serão divididos desde tuas entranhas: E um povo será mais forte que o outro povo, e o maior servirá ao menor.
 #v 24 %v E quando se cumpriram seus dias para dar à luz, eis que havia gêmeos em seu ventre.
 #v 25 %v E saiu o primeiro ruivo, e todo ele peludo como uma veste; e chamaram seu nome Esaú.
@@ -744,7 +744,7 @@
 #v 29 %v E cozinhou Jacó um guisado; e voltando Esaú do campo cansado,
 #v 30 %v Disse a Jacó: Rogo-te que me dês a comer disso vermelho, pois estou muito cansado. Portanto foi chamado seu nome Edom.
 #v 31 %v E Jacó respondeu: Vende-me neste dia tua primogenitura.
-#v 32 %v Então disse Esaú: Eis que eu me vou a morrer; para que, pois, me servirá a primogenitura?
+#v 32 %v Então disse Esaú: Eis que vou morrer; para que, pois, me servirá a primogenitura?
 #v 33 %v E disse Jacó: Jura-me hoje. E ele lhe jurou, e vendeu a Jacó sua primogenitura.
 #v 34 %v Então Jacó deu a Esaú pão e do guisado das lentilhas; e ele comeu e bebeu, e levantou-se, e foi-se. Assim menosprezou Esaú a primogenitura.
 
@@ -759,7 +759,7 @@
 #v 8 %v E sucedeu que, depois que ele esteve ali muitos dias, Abimeleque, rei dos filisteus, olhando por uma janela, viu a Isaque que acariciava Rebeca sua mulher.
 #v 9 %v E chamou Abimeleque a Isaque, e disse: Eis que ela é certamente tua mulher: como, pois, disseste: É minha irmã? E Isaque lhe respondeu: Porque disse: Talvez eu morra por causa dela.
 #v 10 %v E Abimeleque disse: Por que nos fizeste isto? Por pouco haveria dormido alguém do povo com tua mulher, e haverias trazido sobre nós o pecado.
-#v 11 %v Então Abimeleque mandou a todo o povo, dizendo: O que tocar a este homem ou a sua mulher, certamente morrerá.
+#v 11 %v Então Abimeleque mandou a todo o povo, dizendo: O que tocar a este homem ou a sua mulher certamente morrerá.
 #v 12 %v E semeou Isaque naquela terra, e achou aquele ano cem por um: e o SENHOR o abençoou.
 #v 13 %v E o homem se engrandeceu, e foi engrandecendo-se cada vez mais, até fazer-se muito poderoso:
 #v 14 %v E teve rebanho de ovelhas, e rebanho de vacas, e grande número de servos; e os filisteus tiveram inveja dele.
@@ -772,7 +772,7 @@
 #v 21 %v E abriram outro poço, e também brigaram sobre ele: e chamou seu nome Sitna.
 #v 22 %v E apartou-se dali, e abriu outro poço, e não brigaram sobre ele: e chamou seu nome Reobote, e disse: Porque agora nos fez alargar o SENHOR e frutificaremos na terra.
 #v 23 %v E dali subiu a Berseba.
-#v 24 %v E apareceu-lhe o SENHOR aquela noite, e disse: Eu sou o Deus de Abraão teu pai: não temas, que eu sou contigo, e eu te abençoarei, e multiplicarei tua descendência por causa de Abraão meu servo.
+#v 24 %v E apareceu-lhe o SENHOR aquela noite, e disse: Eu sou o Deus de Abraão teu pai: não temas, que eu sou contigo, e eu te abençoarei, e multiplicarei tua descendência por causa do meu servo Abraão.
 #v 25 %v E edificou ali um altar, e invocou o nome do SENHOR, e estendeu ali sua tenda: e abriram ali os servos de Isaque um poço.
 #v 26 %v E Abimeleque veio a ele desde Gerar, e Auzate, amigo seu, e Ficol, capitão de seu exército.
 #v 27 %v E disse-lhes Isaque: Por que vindes a mim, pois que haveis me odiado, e me expulsastes dentre vós?
@@ -780,7 +780,7 @@
 #v 29 %v Que não nos faças mal, como nós não te tocamos, y como somente te fizemos bem, e te enviamos em paz: tu agora, bendito do SENHOR.
 #v 30 %v Então ele lhes fez banquete, e comeram e beberam.
 #v 31 %v E se levantaram de madrugada, e juraram um ao outro; e Isaque os despediu, e eles se partiram dele em paz.
-#v 32 %v E naquele dia sucedeu que vieram os criados de Isaque, e deram-lhe novas acerca do poço que haviam aberto, e lhe disseram: Achamos água.
+#v 32 %v E naquele dia sucedeu que vieram os criados de Isaque, e deram-lhe notícias acerca do poço que haviam aberto, e lhe disseram: Achamos água.
 #v 33 %v E chamou-o Seba: por cuja causa o nome daquela cidade é Berseba até hoje.
 #v 34 %v E quando Esaú foi de quarenta anos, tomou por mulher a Judite filha de Beeri heteu, e a Basemate filha de Elom heteu:
 #v 35 %v E foram amargura de espírito a Isaque e a Rebeca.
