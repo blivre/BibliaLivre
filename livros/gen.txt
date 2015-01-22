@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150120 %ver
+#ver 20150121 %ver
 #abbr Gn %abbr
 %header
 
@@ -797,26 +797,26 @@
 #v 9 %v Vai agora ao gado, e traze-me dali dois bons cabritos das cabras, e farei deles iguarias para teu pai, como ele gosta;
 #v 10 %v E tu as levarás a teu pai, e comerá, para que te abençoe antes de sua morte.
 #v 11 %v E Jacó disse a Rebeca sua mãe: Eis que Esaú meu irmão é homem peludo, e eu liso:
-#v 12 %v Talvez me apalpe meu pai, e me terá por enganador, e trarei sobre mim maldição e não bênção.
+#v 12 %v Talvez meu pai me apalpe, e me terá por enganador, e trarei sobre mim maldição e não bênção.
 #v 13 %v E sua mãe respondeu: Filho meu, sobre mim tua maldição: somente obedece à minha voz, e vai e traze-os a mim.
 #v 14 %v Então ele foi, e tomou, e trouxe-os à sua mãe: e sua mãe fez guisados, como seu pai gostava.
-#v 15 %v E tomou Rebeca as roupas de Esaú seu filho maior, os preciosos, que ela tinha em casa, e vestiu a Jacó seu filho menor:
+#v 15 %v E tomou Rebeca as roupas de Esaú seu filho maior, as melhores, que ela tinha em casa, e vestiu a Jacó seu filho menor:
 #v 16 %v E fez-lhe vestir sobre suas mãos e sobre o pescoço onde não tinha pelo, as peles dos cabritos das cabras;
 #v 17 %v E entregou os guisados e o pão que havia preparado, em mão de Jacó seu filho.
 #v 18 %v E ele foi a seu pai, e disse: Meu pai: e ele respondeu: Eis-me aqui, quem és, filho meu?
 #v 19 %v E Jacó disse a seu pai: Eu sou Esaú teu primogênito; fiz como me disseste: levanta-te agora, e senta, e come de minha caça, para que me abençoe tua alma.
 #v 20 %v Então Isaque disse a seu filho: Como é que a achaste tão depressa, filho meu? E ele respondeu: Porque o SENHOR teu Deus fez que se encontrasse diante de mim.
-#v 21 %v E Isaque disse a Jacó: Aproxima-te agora, e te apalparei, filho meu, par se és meu filho Esaú ou não.
+#v 21 %v E Isaque disse a Jacó: Aproxima-te agora, e te apalparei, filho meu, para #ad que eu saiba %ad se és meu filho Esaú ou não.
 #v 22 %v E chegou-se Jacó a seu pai Isaque; e ele lhe apalpou, e disse: A voz é a voz de Jacó, mas as mãos, as mãos de Esaú.
 #v 23 %v E não lhe reconheceu, porque suas mãos eram peludas como as mãos de Esaú: e lhe abençoou.
 #v 24 %v E disse: És tu meu filho Esaú? E ele respondeu: Eu sou.
 #v 25 %v E disse: Aproxima-a a mim, e comerei da caça de meu filho, para que te abençoe minha alma; e ele a aproximou, e comeu: trouxe-lhe também vinho, e bebeu.
 #v 26 %v E disse-lhe Isaque seu pai: Aproxima-te agora, e beija-me, filho meu.
-#v 27 %v E ele se chegou, e lhe beijou; e cheirou Isaque o cheiro de suas roupas, e lhe abençoou, e disse: Olha, o cheiro de meu filho Como o cheiro do campo que o SENHOR abençoou:
-#v 28 %v Deus, pois, te dê do orvalho do céu, E das gorduras da terra, E abundância de trigo e de mosto.
+#v 27 %v E ele se chegou, e lhe beijou; e cheirou Isaque o cheiro de suas roupas, e lhe abençoou, e disse: Eis que o cheiro de meu filho é como o cheiro do campo que o SENHOR abençoou;
+#v 28 %v Deus, pois, te dê do orvalho do céu, e das gorduras da terra, e abundância de trigo e de mosto.
 #v 29 %v Sirvam-te povos, E nações se inclinem a ti: Sê senhor de teus irmãos, e inclinem-se a ti os filhos de tua mãe; malditos os que te amaldiçoarem, e benditos os que te abençoarem.
 #v 30 %v E aconteceu, logo que havia Isaque de abençoar a Jacó, e apenas havia saído Jacó de diante de Isaque seu pai, que Esaú seu irmão veio de sua caça.
-#v 31 %v E fez ele também guisados, e trouxe a seu pai, e disse-lhe: Levante-se meu pai, e coma da caça de seu filho, para que me abençoe tua alma.
+#v 31 %v E também ele fez guisado, e trouxe a seu pai, e disse-lhe: Levante-se meu pai, e coma da caça de seu filho, para que me abençoe tua alma.
 #v 32 %v Então Isaque seu pai lhe disse: Quem és tu? E ele disse: Eu sou teu filho, teu primogênito, Esaú.
 #v 33 %v E Estremeceu-se Isaque com grande estremecimento, e disse: Quem é o que veio aqui, que agarrou caça, e me trouxe, e comi de tudo antes que viesses? Eu o abençoei, e será bendito.
 #v 34 %v Quando Esaú ouviu as palavras de seu pai clamou com uma muito grande e muito amarga exclamação, e lhe disse: Abençoa também a mim, meu pai.
@@ -846,32 +846,32 @@
 #v 10 %v E saiu Jacó de Berseba, e foi a Harã;
 #v 11 %v E encontrou com um lugar, e dormiu ali porque já o sol se havia posto: e tomou das pedras daquele lugar e pôs à sua cabeceira, e deitou-se naquele lugar.
 #v 12 %v E sonhou, e eis uma escada que estava apoiada em terra, e seu topo tocava no céu: e eis que anjos de Deus subiam e desciam por ela.
-#v 13 %v E eis que, o SENHOR estava no alto dela, o qual disse: Eu sou o SENHOR, o Deus de Abraão teu pai, e o Deus de Isaque: a terra em que estás deitado a darei a ti e à tua descendência.
+#v 13 %v E eis que o SENHOR estava no alto dela, o qual disse: Eu sou o SENHOR, o Deus de Abraão teu pai, e o Deus de Isaque: a terra em que estás deitado a darei a ti e à tua descendência.
 #v 14 %v E será tua descendência como o pó da terra, e te estenderás ao ocidente, e ao oriente, e ao norte, e ao sul; e todas as famílias da terra serão abençoadas em ti e em tua descendência.
-#v 15 %v E eis que, eu sou contigo, e te guardarei por onde quer que fores, e te farei voltar a esta terra; porque não te deixarei até tanto que tenha feito o que te disse.
+#v 15 %v E eis que eu sou contigo, e te guardarei por onde quer que fores, e te farei voltar a esta terra; porque não te deixarei até tanto que tenha feito o que te disse.
 #v 16 %v E despertou Jacó de seu sonho disse: Certamente o SENHOR está neste lugar, e eu não o sabia.
 #v 17 %v E teve medo, e disse: Quão terrível é este lugar! Não é outra coisa que casa de Deus, e porta do céu.
-#v 18 %v E levantou-se Jacó de manhã, e tomou a pedra que havia posto de cabeceira, e levantou-a por coluna, e derramou azeite encima dela.
-#v 19 %v E chamou o nome daquele lugar Betel, ainda que Luz era o nome da cidade antes.
+#v 18 %v E levantou-se Jacó de manhã, e tomou a pedra que havia posto de cabeceira, e levantou-a por coluna, e derramou azeite sobre ela.
+#v 19 %v E chamou o nome daquele lugar Betel, ainda que o nome da cidade antes era Luz.
 #v 20 %v E fez Jacó voto, dizendo: Se for Deus comigo, e me guardar nesta viagem que vou, e me der pão para comer e roupa para vestir,
 #v 21 %v E se voltar em paz à casa de meu pai, o SENHOR será meu Deus,
-#v 22 %v E esta pedra que pus por coluna, será casa de Deus; e de tudo o que me deres, o dízimo o separarei para ti.
+#v 22 %v E esta pedra que pus por coluna, será casa de Deus; e de tudo o que me deres, darei o dízimo a ti.
 
 #c 29 %c
 #v 1 %v E seguiu Jacó seu caminho, e foi à terra dos orientais.
-#v 2 %v E olhou, e viu um poço no campo: e eis três rebanhos de ovelhas que jaziam próximo dele; porque daquele poço davam de beber aos gados: e havia uma grande pedra sobre a boca do poço.
+#v 2 %v E olhou, e viu um poço no campo: e eis três rebanhos de ovelhas que estavam deitados próximo dele; porque daquele poço davam de beber aos gados: e havia uma grande pedra sobre a boca do poço.
 #v 3 %v E juntavam-se ali todos os rebanhos; e revolviam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e voltavam a pedra sobre a boca do poço a seu lugar.
 #v 4 %v E disse-lhes Jacó: Irmãos meus, de onde sois? E eles responderam: De Harã somos.
 #v 5 %v E ele lhes disse: Conheceis a Labão, filho de Naor? E eles disseram: Sim, nós o conhecemos.
-#v 6 %v E ele lhes disse: Tem paz? E eles disseram: Paz; e eis que Raquel sua filha vem com o gado.
-#v 7 %v E ele disse: Eis que o dia é ainda cheio; não é tempo, todavia, de recolher o gado; dai de beber às ovelhas, e ide a apascentá-las.
+#v 6 %v E ele lhes disse: Ele está bem? E eles disseram: Está bem; e eis que Raquel sua filha vem com o gado.
+#v 7 %v E ele disse: Eis que ainda é cedo do dia; não é hora de recolher o gado; dai de beber às ovelhas, e ide apascentá-las.
 #v 8 %v E eles responderam: Não podemos, até que se juntem todos os gados, e removam a pedra de sobre a boca do poço, para que demos de beber às ovelhas.
 #v 9 %v Estando ainda ele falando com eles Raquel veio com o gado de seu pai, porque ela era a pastora.
 #v 10 %v E sucedeu que, quando Jacó viu Raquel, filha de Labão irmão de sua mãe, e as ovelhas de Labão, o irmão de sua mãe, chegou-se Jacó, e removeu a pedra de sobre a boca do poço, e deu de beber ao gado de Labão irmão de sua mãe.
 #v 11 %v E Jacó beijou a Raquel, e levantou sua voz, e chorou.
 #v 12 %v E Jacó disse a Raquel como ele era irmão de seu pai, e como era filho de Rebeca: e ela correu, e deu as novas a seu pai.
 #v 13 %v E assim que ouviu Labão as novas de Jacó, filho de sua irmã, correu a recebê-lo, e abraçou-o, e beijou-o, e trouxe-lhe à sua casa: e ele contou a Labão todas estas coisas.
-#v 14 %v E Labão lhe disse: Certamente osso meu e carne minha és. E esteve com ele o tempo de um mês.
+#v 14 %v E Labão lhe disse: Certamente és osso meu e carne minha. E esteve com ele durante um mês.
 #v 15 %v Então disse Labão a Jacó: Por ser tu meu irmão, me hás de servir de graça? Declara-me o que será teu salário.
 #v 16 %v E Labão tinha duas filhas: o nome da mais velha era Lia, e o nome da mais nova, Raquel.
 #v 17 %v E os olhos de Lia eram tenros, mas Raquel era de lindo semblante e de bela aparência.
@@ -880,23 +880,23 @@
 #v 20 %v Assim serviu Jacó por Raquel sete anos: e pareceram-lhe como poucos dias, porque a amava.
 #v 21 %v E disse Jacó a Labão: Dá-me minha mulher, porque meu tempo é cumprido para que me deite com ela.
 #v 22 %v Então Labão juntou a todos os homens daquele lugar, e fez banquete.
-#v 23 %v E sucedeu que à noite tomou a Lia sua filha, e a trouxe: e ele se deitou com ela.
+#v 23 %v E sucedeu que à noite tomou sua filha Lia, e a trouxe; e ele se deitou com ela.
 #v 24 %v E deu Labão sua serva Zilpa à sua filha Lia por criada.
 #v 25 %v E vinda a manhã, eis que era Lia: e ele disse a Labão: Que é isto que me fizeste? Não te servi por Raquel? Por que, pois, me enganaste?
 #v 26 %v E Labão respondeu: Não se faz assim em nosso lugar, que se dê a mais nova antes da mais velha.
-#v 27 %v Cumpre a semana desta, e se te dará também a outra, pelo serviço que fizeres comigo outros sete anos.
-#v 28 %v E fez Jacó assim, e cumpriu a semana daquela: e ele lhe deu a Raquel sua filha por mulher.
+#v 27 %v Cumpre a semana desta, e se te dará também a outra, pelo serviço que fizeres comigo por outros sete anos.
+#v 28 %v E fez Jacó assim, e cumpriu a semana daquela; e ele lhe deu a sua filha Raquel por mulher.
 #v 29 %v E deu Labão a Raquel sua filha por criada a sua serva Bila.
-#v 30 %v E entrou também a Raquel: e amou-a também mais que a Lia: e serviu com ele ainda outros sete anos.
+#v 30 %v E deitou-se também com Raquel: e amou-a também mais que a Lia: e serviu a ele ainda outros sete anos.
 #v 31 %v E viu o SENHOR que Lia era mal-amada, e abriu sua madre; mas Raquel era estéril.
-#v 32 %v E concebeu Lia, e deu à luz um filho, e chamou seu nome Rúben, porque disse: Já que olhou o SENHOR minha aflição; agora, portanto, me amará meu marido.
+#v 32 %v E concebeu Lia, e deu à luz um filho, e chamou seu nome Rúben, porque disse: Já que olhou o SENHOR minha aflição; agora, portanto, meu marido me amará.
 #v 33 %v E concebeu outra vez, e deu à luz um filho, e disse: Porquanto ouviu o SENHOR que eu era mal-amada, me deu também este. E chamou seu nome Simeão.
-#v 34 %v E concebeu outra vez, e deu à luz um filho, e disse: Agora esta vez se unirá meu marido comigo, porque lhe dei três filhos: portanto, chamou seu nome Levi.
-#v 35 %v E concebeu outra vez, e deu à luz um filho, e disse: Esta vez louvarei ao SENHOR: por isto chamou seu nome Judá: e deixou de dar à luz.
+#v 34 %v E concebeu outra vez, e deu à luz um filho, e disse: Agora esta vez meu marido se apegará a mim, porque lhe dei três filhos; portanto, chamou seu nome Levi.
+#v 35 %v E concebeu outra vez, e deu à luz um filho, e disse: Esta vez louvarei ao SENHOR; por isto chamou seu nome Judá; e deixou de dar à luz.
 
 #c 30 %c
 #v 1 %v E vendo Raquel que não dava filhos a Jacó, teve inveja de sua irmã, e dizia a Jacó: Dá-me filhos, ou senão, me morro.
-#v 2 %v E Jacó se irritava contra Raquel, e dizia: Sou eu em lugar de Deus, que te impediu o fruto de teu ventre?
+#v 2 %v E Jacó se irritava contra Raquel, e dizia: Estou eu em lugar de Deus, que te impediu o fruto de teu ventre?
 #v 3 %v E ela disse: Eis aqui minha serva Bila; entra a ela, e dará à luz sobre meus joelhos, e eu também terei filhos dela.
 #v 4 %v Assim lhe deu a Bila sua serva por mulher; e Jacó se deitou com ela.
 #v 5 %v E concebeu Bila, e deu à luz a Jacó um filho.
