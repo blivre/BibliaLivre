@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150121 %ver
+#ver 20150122 %ver
 #abbr Gn %abbr
 %header
 
@@ -14,7 +14,7 @@
 #v 6 %v E disse Deus: Haja expansão em meio das águas, e separe as águas das águas.
 #v 7 %v E fez Deus a expansão, e separou as águas que estavam debaixo da expansão, das águas que estavam sobre a expansão: e foi assim.
 #v 8 %v E chamou Deus à expansão Céus: e foi a tarde e a manhã o dia segundo.
-#v 9 %v E disse Deus: Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca: e foi assim.
+#v 9 %v E disse Deus: Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca; e foi assim.
 #v 10 %v E chamou Deus à porção seca Terra, e à reunião das águas chamou Mares; e viu Deus que era bom.
 #v 11 %v E disse Deus: Produza a terra erva verde, erva que dê semente; árvore de fruto que dê fruto segundo a sua espécie, que sua semente esteja nela, sobre a terra: e foi assim.
 #v 12 %v E produziu a terra erva verde, erva que dá semente segundo sua natureza, e árvore que dá fruto, cuja semente está nele, segundo a sua espécie; e viu Deus que era bom.
@@ -895,9 +895,9 @@
 #v 35 %v E concebeu outra vez, e deu à luz um filho, e disse: Esta vez louvarei ao SENHOR; por isto chamou seu nome Judá; e deixou de dar à luz.
 
 #c 30 %c
-#v 1 %v E vendo Raquel que não dava filhos a Jacó, teve inveja de sua irmã, e dizia a Jacó: Dá-me filhos, ou senão, me morro.
+#v 1 %v E vendo Raquel que não dava filhos a Jacó, teve inveja de sua irmã, e dizia a Jacó: Dá-me filhos, ou senão, morro.
 #v 2 %v E Jacó se irritava contra Raquel, e dizia: Estou eu em lugar de Deus, que te impediu o fruto de teu ventre?
-#v 3 %v E ela disse: Eis aqui minha serva Bila; entra a ela, e dará à luz sobre meus joelhos, e eu também terei filhos dela.
+#v 3 %v E ela disse: Eis aqui minha serva Bila; deita-te com ela, e dará à luz sobre meus joelhos, e eu também terei filhos por meio dela.
 #v 4 %v Assim lhe deu a Bila sua serva por mulher; e Jacó se deitou com ela.
 #v 5 %v E concebeu Bila, e deu à luz a Jacó um filho.
 #v 6 %v E disse Raquel: Julgou-me Deus, e também ouviu minha voz, e deu-me um filho. Portanto chamou seu nome Dã.
@@ -907,25 +907,25 @@
 #v 10 %v E Zilpa, serva de Lia, deu à luz a Jacó um filho.
 #v 11 %v E disse Lia: Veio a boa sorte. E chamou seu nome Gade.
 #v 12 %v E Zilpa, a sirva de Lia, deu à luz outro filho a Jacó.
-#v 13 %v E disse Lia: Para alegria minha; porque as mulheres me dirão bem-aventurada: e chamou seu nome Aser.
-#v 14 %v E foi Rúben em tempo da colheita dos trigos, e achou mandrágoras no campo, e trouxe-as a Lia sua mãe: e disse Raquel a Lia: Rogo-te que me dês das mandrágoras de teu filho.
-#v 15 %v E ela respondeu: É pouco que tenhas tomado meu marido, mas sim que também te hás de levar as mandrágoras de meu filho? E disse Raquel: Pois dormirá contigo esta noite pelas mandrágoras de teu filho.
-#v 16 %v E quando Jacó voltava do campo à tarde, saiu Lia a ele, e lhe disse: A mim hás de deitar, porque à verdade te aluguei pelas mandrágoras de meu filho. E dormiu com ela aquela noite.
-#v 17 %v E ouviu Deus a Lia: e concebeu, e deu à luz a Jacó o quinto filho.
-#v 18 %v E disse Lia: Deus me deu minha recompensa, porquanto dei minha serva a meu marido: por isso chamou seu nome Issacar.
+#v 13 %v E disse Lia: Para alegria minha; porque as mulheres me chamarão de feliz; #fn _c ou: bem-aventurada %fn e chamou seu nome Aser.
+#v 14 %v E foi Rúben em tempo da colheita dos trigos, e achou mandrágoras no campo, e trouxe-as a sua mãe Lia; e disse Raquel a Lia: Rogo-te que me dês das mandrágoras de teu filho.
+#v 15 %v E ela respondeu: É pouco que tenhas tomado meu marido, mas também levarás as mandrágoras de meu filho? E disse Raquel: Ele, pois, dormirá contigo esta noite pelas mandrágoras de teu filho.
+#v 16 %v E quando Jacó voltava do campo à tarde, Lia saiu ao encontro dele, e lhe disse: Deitarás comigo, porque em verdade te aluguei em troca das mandrágoras de meu filho. E dormiu com ela naquela noite.
+#v 17 %v E ouviu Deus a Lia; e concebeu, e deu à luz a Jacó o quinto filho.
+#v 18 %v E disse Lia: Deus me deu minha recompensa, porque dei minha serva a meu marido; por isso chamou seu nome Issacar.
 #v 19 %v E concebeu Lia outra vez, e deu à luz o sexto filho a Jacó.
-#v 20 %v E disse Lia: Deus me deu uma boa dádiva: agora morará comigo meu marido, porque lhe dei seis filhos: e chamou seu nome Zebulom.
+#v 20 %v E disse Lia: Deus me deu uma boa dádiva: agora meu marido morará comigo, porque lhe dei seis filhos; e chamou seu nome Zebulom.
 #v 21 %v E depois deu à luz uma filha, e chamou seu nome Diná.
-#v 22 %v E lembrou-se Deus de Raquel, e ouviu-a Deus, e abriu sua madre.
-#v 23 %v E concebeu, e deu à luz um filho: e disse: Tirou Deus minha humilhação:
+#v 22 %v E lembrou-se Deus de Raquel, e Deus a ouviu, e abriu sua madre.
+#v 23 %v E concebeu, e deu à luz um filho: e disse: Deus tirou minha humilhação;
 #v 24 %v E chamou seu nome José, dizendo: Acrescente-me o SENHOR outro filho.
-#v 25 %v E aconteceu, quando Raquel havia dado à luz a José, que Jacó disse a Labão: Envia-me, e irei a meu lugar, e à minha terra.
+#v 25 %v E aconteceu, quando Raquel havia dado à luz a José, que Jacó disse a Labão: Permite-me ir embora, e irei a meu lugar, e à minha terra.
 #v 26 %v Dá-me minhas mulheres e meus filhos, pelas quais servi contigo, e deixa-me ir; pois tu sabes os serviços que te fiz.
 #v 27 %v E Labão lhe respondeu: Ache eu agora favor em teus olhos, e fica-te; experimentei que o SENHOR me abençoou por tua causa.
 #v 28 %v E disse: Define-me teu salário, que eu o darei.
 #v 29 %v E ele respondeu: Tu sabes como te servi, e como esteve teu gado comigo;
 #v 30 %v Porque pouco tinhas antes de minha vinda, e cresceu em grande número; e o SENHOR te abençoou com minha chegada: e agora quando tenho de fazer eu também por minha própria casa?
-#v 31 %v E ele disse: Que te darei? E respondeu Jacó: Não me dês nada: se fizeres por mim isto, voltarei a apascentar tuas ovelhas.
+#v 31 %v E ele disse: Que te darei? E respondeu Jacó: Não me dês nada; se fizeres por mim isto, voltarei a apascentar tuas ovelhas.
 #v 32 %v Eu passarei hoje por todas tuas ovelhas, pondo à parte todas as reses manchadas e de cor variada, e todas as reses de cor escura entre as ovelhas, e as manchadas e de cor variada entre as cabras; e isto será meu salário.
 #v 33 %v Assim responderá por mim minha justiça amanhã quando me vier meu salário diante de ti: toda a que não for pintada nem manchada nas cabras e de cor escura nas ovelhas minhas, se me há de ter para furto.
 #v 34 %v E disse Labão: Eis que seja como tu dizes.
@@ -951,50 +951,50 @@
 #v 9 %v Assim tirou Deus o gado de vosso pai, e deu-o a mim.
 #v 10 %v E sucedeu que ao tempo que as ovelhas se aqueciam, levantei eu meus olhos e vi em sonhos, e eis que os machos que cobriam às fêmeas eram listrados, pintados e malhados.
 #v 11 %v E disse-me o anjo de Deus em sonhos: Jacó. E eu disse: Eis-me aqui.
-#v 12 %v E ele disse: Levanta agora teus olhos, e verás todos os machos que cobrem às ovelhas listradas, pintados e malhados; porque eu vi tudo o que Labão te fez.
+#v 12 %v E ele disse: Levanta agora teus olhos, e verás todos os machos que cobrem às ovelhas são listrados, pintados e malhados; porque eu vi tudo o que Labão te fez.
 #v 13 %v Eu sou o Deus de Betel, onde tu ungiste a coluna, e onde me fizeste um voto. Levanta-te agora, e sai desta terra, e volta-te à terra de teu nascimento.
 #v 14 %v E respondeu Raquel e Lia, e disseram-lhe: Temos ainda parte ou herança na casa de nosso pai?
 #v 15 %v Não nos tem já como por estranhas, pois que nos vendeu, e ainda consumiu de todo nosso valor?
 #v 16 %v Porque toda a riqueza que Deus tirou a nosso pai, nossa é e de nossos filhos: agora, pois, faze tudo o que Deus te disse.
 #v 17 %v Então se levantou Jacó, e subiu seus filhos e suas mulheres sobre os camelos.
 #v 18 %v E pôs em caminho todo seu gado, e todos os seus pertences que havia adquirido, o gado de seu ganho que havia obtido em Padã-Arã, para voltar-se a Isaque seu pai na terra de Canaã.
-#v 19 %v E Labão havia ido a tosquiar suas ovelhas: e Raquel furtou os ídolos de seu pai.
-#v 20 %v E enganou Jacó o coração de Labão arameu, em não fazer-lhe saber que se fugia.
+#v 19 %v E Labão havia ido tosquiar suas ovelhas; e Raquel furtou os ídolos de seu pai.
+#v 20 %v E enganou Jacó o coração de Labão arameu, em não lhe fazer saber que se fugia.
 #v 21 %v Fugiu, pois, com tudo o que tinha; e levantou-se, e passou o rio, e pôs seu rosto ao monte de Gileade.
-#v 22 %v E foi dito a Labão ao terceiro dia como Jacó se havia fugido.
+#v 22 %v E foi dito a Labão ao terceiro dia como Jacó havia fugido.
 #v 23 %v Então tomou a seus irmãos consigo, e foi atrás dele caminho de sete dias, e alcançou-lhe no monte de Gileade.
 #v 24 %v E veio Deus a Labão arameu em sonhos aquela noite, e lhe disse: Guarda-te que não fales a Jacó descomedidamente.
 #v 25 %v Alcançou, pois, Labão a Jacó, e este havia fixado sua tenda no monte: e Labão pôs a sua com seus irmãos no monte de Gileade.
 #v 26 %v E disse Labão a Jacó: Que fizeste, que me furtaste o coração, e trouxeste a minhas filhas como prisioneiras de guerra?
 #v 27 %v Por que te escondeste para fugir, e me furtaste, e não me deste notícia, para que eu te enviasse com alegria e com cantares, com tamborim e harpa?
 #v 28 %v Que ainda não me deixaste beijar meus filhos e minhas filhas. Agora loucamente fizeste.
-#v 29 %v Poder há em minha mão para fazer-vos mal: mas o Deus de vosso pai me falou de noite dizendo: Guarda-te que não fales a Jacó descomedidamente.
+#v 29 %v Poder há em minha mão para fazer-vos mal; mas o Deus de vosso pai me falou de noite dizendo: Guarda-te que não fales a Jacó descomedidamente.
 #v 30 %v E já que te ias, porque tinhas saudade da casa de teu pai, por que me furtaste meus deuses?
-#v 31 %v E Jacó respondeu, e disse a Labão: Fui porque tive medo; pois disse, que talvez me tirasse por força tuas filhas.
+#v 31 %v E Jacó respondeu, e disse a Labão: Pois tive medo; porque disse, que talvez me tirasse à força tuas filhas.
 #v 32 %v Em quem achares teus deuses, não viva: diante de nossos irmãos reconhece o que eu tiver teu, e leva-o. Jacó não sabia que Raquel havia os furtado.
 #v 33 %v E entrou Labão na tenda de Jacó, e na tenda de Lia, e na tenda das duas servas, e não os achou, e saiu da tenda de Lia, e veio à tenda de Raquel.
 #v 34 %v E tomou Raquel os ídolos, e os pôs em uma albarda de um camelo, e sentou-se sobre eles: e provou Labão toda a tenda e não os achou.
 #v 35 %v E ela disse a seu pai: Não se ire meu senhor, porque não me posso levantar diante de ti; pois estou com o costume das mulheres. E ele buscou, mas não achou os ídolos.
-#v 36 %v Então Jacó se irou, e brigou com Labão; e respondeu Jacó e disse a Labão: Que transgressão é a minha? Qual é meu pecado, que com tanto ardor vieste em perseguição meu?
-#v 37 %v Pois que apalpaste todos meus móveis, que achaste de todos os móveis de tua casa? Põe-o aqui diante de meus irmãos e teus, e julguem entre nós ambos.
-#v 38 %v Estes vinte anos ei estado contigo: tuas ovelhas e tuas cabras nunca abortaram, nem eu comi carneiro de tuas ovelhas.
-#v 39 %v Nunca te trouxe o arrebatado pelas feras; eu pagava o dano; o furtado tanto de dia como de noite, de minha mão o requerias.
+#v 36 %v Então Jacó se irou, e brigou com Labão; e respondeu Jacó e disse a Labão: Que transgressão é a minha? Qual é meu pecado, que com tanto ardor vieste a me perseguir?
+#v 37 %v Depois que apalpaste todos os meus móveis, acaso achaste algum dos objetos de tua casa? Põe-o aqui diante de meus irmãos e teus, e julguem entre nós ambos.
+#v 38 %v Estes vinte anos estive contigo; tuas ovelhas e tuas cabras nunca abortaram, nem eu comi carneiro de tuas ovelhas.
+#v 39 %v Nunca te trouxe o arrebatado pelas feras; eu pagava o dano; o furtado tanto de dia como de noite, de minha mão o exigias.
 #v 40 %v De dia me consumia o calor, e de noite a geada, e o sono se fugia de meus olhos.
 #v 41 %v Assim estive vinte anos em tua casa: catorze anos te servi por tuas duas filhas, e seis anos por teu gado; e mudaste meu salário dez vezes.
-#v 42 %v Se o Deus de meu pai, o Deus de Abraão, e o temor de Isaque, não fossem comigo, certamente me enviarias agora vazio: viu Deus minha aflição e o trabalho de minhas mãos, e repreendeu-te de noite.
-#v 43 %v E respondeu Labão, e disse a Jacó: As filhas são filhas minhas, e os filhos, filhos meus são, e as ovelhas são minhas ovelhas, e tudo o que tu vês é meu: e que posso eu fazer hoje a estas minhas filhas, ou a seus filhos que elas geraram?
-#v 44 %v Vem, pois, agora, façamos aliança eu e tu; e seja em testemunho entre mim e entre ti.
+#v 42 %v Se o Deus de meu pai, o Deus de Abraão, e o temor de Isaque, não fossem comigo, certamente me enviarias agora vazio; Deus viu minha aflição e o trabalho de minhas mãos, e repreendeu-te de noite.
+#v 43 %v E respondeu Labão, e disse a Jacó: As filhas são filhas minhas, e os filhos, filhos meus são, e as ovelhas são minhas ovelhas, e tudo o que tu vês é meu; e que posso eu fazer hoje a estas minhas filhas, ou a seus filhos que elas geraram?
+#v 44 %v Vem, pois, agora, façamos aliança eu e tu; e seja em testemunho entre mim e ti.
 #v 45 %v Então Jacó tomou uma pedra, e levantou-a por coluna.
 #v 46 %v E disse Jacó a seus irmãos: Recolhei pedras. E tomaram pedras e fizeram um amontoado; e comeram ali sobre aquele amontoado.
 #v 47 %v E Labão o chamou Jegar-Saaduta; e Jacó o chamou Galeede.
 #v 48 %v Porque Labão disse: Este amontoado é testemunha hoje entre mim e entre ti; por isso foi chamado seu nome Galeede.
 #v 49 %v E Mispá, porquanto disse: Vigie o SENHOR entre mim e entre ti, quando nos separarmos um do outro.
-#v 50 %v Se afligires minhas filhas, ou se tomares outras mulheres além de minhas filhas, ninguém está conosco; olha, Deus é testemunha entre mim e entre ti.
+#v 50 %v Se afligires minhas filhas, ou se tomares outras mulheres além de minhas filhas, ninguém está conosco; olha, Deus é testemunha entre mim e ti.
 #v 51 %v Disse mais Labão a Jacó: Eis que este amontoado, e eis que esta coluna, que erigi entre mim e ti.
 #v 52 %v Testemunha seja este amontoado, e testemunha seja esta coluna, que nem eu passarei contra ti este amontoado, nem tu passarás contra mim este amontoado nem esta coluna, para o mal.
 #v 53 %v O Deus de Abraão, e o Deus de Naor julgue entre nós, o Deus de seus pais. E Jacó jurou pelo temor de Isaque seu pai.
-#v 54 %v Então Jacó imolou sacrifícios no monte, e chamou a seus irmãos a comer pão: e comeram pão, e dormiram aquela noite no monte.
-#v 55 %v E levantou-se Labão de manhã, e beijou seus filhos e suas filhas, e os abençoou; e retrocedeu e voltou a seu lugar.
+#v 54 %v Então Jacó ofereceu sacrifícios no monte, e chamou seus parentes para comer pão; e comeram pão, e dormiram aquela noite no monte.
+#v 55 %v E levantou-se Labão de manhã, beijou seus filhos e suas filhas, e os abençoou; e retrocedeu e voltou a seu lugar.
 
 #c 32 %c
 #v 1 %v E Jacó se foi seu caminho, e saíram-lhe ao encontro anjos de Deus.
