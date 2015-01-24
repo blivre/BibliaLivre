@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150122 %ver
+#ver 20150124 %ver
 #abbr Gn %abbr
 %header
 
@@ -998,7 +998,7 @@
 
 #c 32 %c
 #v 1 %v E Jacó se foi seu caminho, e saíram-lhe ao encontro anjos de Deus.
-#v 2 %v E disse Jacó quando os viu: O campo de Deus é este: e chamou o nome daquele lugar Maanaim.
+#v 2 %v E disse Jacó quando os viu: Este é o acampamento de Deus; e chamou o nome daquele lugar Maanaim.
 #v 3 %v E enviou Jacó mensageiros diante de si a Esaú seu irmão, à terra de Seir, campo de Edom.
 #v 4 %v E mandou-lhes dizendo: Assim direis a mim senhor Esaú: Assim diz teu servo Jacó: Com Labão morei, e detive-me até agora;
 #v 5 %v E tenho vacas, e asnos, e ovelhas, e servos, e servas; e envio a dizê-lo a meu senhor, para achar favor em teus olhos.
@@ -1008,12 +1008,12 @@
 #v 9 %v E disse Jacó: Deus de meu pai Abraão, e Deus de meu pai Isaque, o SENHOR, que me disseste: Volta-te à tua terra e à tua parentela, e eu te farei bem.
 #v 10 %v Menor sou que todas as misericórdias, e que toda a verdade que usaste para com teu servo; que com meu bordão passei este Jordão, e agora estou sobre dois grupos.
 #v 11 %v Livra-me agora da mão de meu irmão, da mão de Esaú, porque o temo; não venha talvez, e me fira a mãe com os filhos.
-#v 12 %v E tu disseste: Eu te farei bem, e porei tua descendência como a areia do mar, que não se pode contar pela multidão.
+#v 12 %v E tu disseste: Eu te farei bem, e tornarei tua descendência como a areia do mar, que não se pode contar de tão numerosa.
 #v 13 %v E dormiu ali aquela noite, e tomou do que lhe veio à mão um presente para seu irmão Esaú.
 #v 14 %v Duzentas cabras e vinte machos de bode, duzentas ovelhas e vinte carneiros,
 #v 15 %v Trinta camelas de cria, com seus filhotes, quarenta vacas e dez novilhos, vinte asnas e dez jumentos.
 #v 16 %v E entregou-o em mão de seus servos, cada manada à parte; e disse a seus servos: Passai diante de mim, e ponde espaço entre manada e manada.
-#v 17 %v E mandou ao primeiro, dizendo: Se Esaú meu irmão te encontrar, e te perguntar, dizendo De quem és? e aonde vais? e para quem é isto que levas diante de ti?
+#v 17 %v E mandou ao primeiro, dizendo: Se meu irmão Esaú  te encontrar, e te perguntar, dizendo De quem és? E: Para onde vais? E: para quem é isto que levas diante de ti?
 #v 18 %v Então dirás: Presente é de teu servo Jacó, que envia a meu senhor Esaú; e eis que também ele vem atrás de nós.
 #v 19 %v E mandou também ao segundo, e ao terceiro, e a todos os que iam atrás aquelas manadas, dizendo: Conforme isto falareis a Esaú, quando o achardes.
 #v 20 %v E direis também: Eis que teu servo Jacó vem atrás de nós. Porque disse: Apaziguarei sua ira com o presente que vai adiante de mim, e depois verei seu rosto; talvez lhe serei aceito.
@@ -1038,34 +1038,34 @@
 #v 5 %v E levantou seus olhos, e viu as mulheres e os filhos, e disse: Quem são estes que estão contigo? E ele respondeu: São os filhos que Deus deu a teu servo.
 #v 6 %v E se chegaram as servas, elas e seus meninos, e inclinaram-se.
 #v 7 %v E chegou-se Lia com seus filhos, e inclinaram-se: e depois chegou José e Raquel, e também se inclinaram.
-#v 8 %v E ele disse: Que te propões com todos estes grupos que encontrei? E ele respondeu: O achar favor aos olhos de meu senhor.
-#v 9 %v E disse Esaú: Bastante tenho eu, irmão meu: seja para ti o que é teu.
-#v 10 %v E disse Jacó: Não, eu te rogo, se achei agora favor em teus olhos, toma meu presente de minha mão, pois que assim vi teu rosto, como se houvesse visto o rosto de Deus; e me aceitaste.
+#v 8 %v E ele disse: Qual é a tua intenção com todos estes grupos que encontrei? E ele respondeu: Achar favor aos olhos de meu senhor.
+#v 9 %v E disse Esaú: Tenho o bastante, meu irmão; seja para ti o que é teu.
+#v 10 %v E disse Jacó: Não, eu te rogo, se achei agora favor em teus olhos, toma meu presente de minha mão, pois vi teu rosto como se houvesse visto o rosto de Deus; e me aceitaste.
 #v 11 %v Toma, eu te rogo, minha dádiva que te é trazida; porque Deus me fez misericórdia, e tudo o que há aqui é meu. E insistiu com ele, e tomou-a.
 #v 12 %v E disse: Anda, e vamos; e eu irei adiante de ti.
 #v 13 %v E ele lhe disse: Meu senhor sabe que os meninos são tenros, e que tenho ovelhas e vacas de cria; e se as cansam, em um dia morrerão todas as ovelhas.
 #v 14 %v Passe agora meu senhor diante de seu servo, e eu me irei pouco a pouco ao passo do gado que vai adiante de mim, e à passagem dos meninos, até que chegue a meu senhor a Seir.
 #v 15 %v E Esaú disse: Deixarei agora contigo da gente que vem comigo. E ele disse: Para que isto? ache eu favor aos olhos de meu senhor.
 #v 16 %v Assim se voltou Esaú aquele dia por seu caminho a Seir.
-#v 17 %v E Jacó se partiu a Sucote, e edificou ali casa para si, e fez abrigos para seu gado: portanto chamou o nome daquele lugar Sucote.
+#v 17 %v E Jacó se partiu a Sucote, e edificou ali casa para si, e fez abrigos para seu gado; por isso chamou o nome daquele lugar Sucote.
 #v 18 %v E veio Jacó são à cidade de Siquém, que está na terra de Canaã, quando vinha de Padã-Arã; e acampou diante da cidade.
 #v 19 %v E comprou uma parte do campo, onde estendeu sua tenda, da mão dos filhos de Hamor, pai de Siquém, por cem peças de moeda.
-#v 20 %v E erigiu ali um altar, e chamou-lhe: O Deus de Israel.
+#v 20 %v E erigiu ali um altar, e chamou-lhe: Deus, o Deus de Israel. #fn _c Hebraico: El-Eloé-Israel %fn
 
 #c 34 %c
-#v 1 %v E saiu Diná a filha de Lia, a qual esta havia dado a Jacó, a ver as filhas do país.
+#v 1 %v E saiu Diná a filha de Lia, a qual esta havia dado a Jacó, para ver as mulheres nativas.
 #v 2 %v E viu-a Siquém, filho de Hamor heveu, príncipe daquela terra, e tomou-a, e deitou-se com ela, e a desonrou.
 #v 3 %v Mas sua alma se apegou a Diná a filha de Lia, e apaixonou-se pela moça, e falou ao coração da jovem.
 #v 4 %v E falou Siquém a Hamor seu pai, dizendo: Toma-me por mulher esta moça.
-#v 5 %v E ouviu Jacó que havia Siquém violado a Diná sua filha: e estando seus filhos com seu gado no campo, calou Jacó até que eles viessem.
+#v 5 %v E ouviu Jacó que havia Siquém violado a Diná sua filha: e estando seus filhos com seu gado no campo, Jacó ficou em silêncio até que eles viessem.
 #v 6 %v E dirigiu-se Hamor pai de Siquém a Jacó, para falar com ele.
-#v 7 %v E os filhos de Jacó vieram do campo quando o souberam; e se entristeceram os homens, e se irritaram muito, porque fez depravação em Israel lançando-se com a filha de Jacó, o que não se devia haver feito.
+#v 7 %v E os filhos de Jacó vieram do campo quando o souberam; e se entristeceram os homens, e se irritaram muito, porque fez depravação em Israel por ter se deitado com a filha de Jacó, o que não se devia haver feito.
 #v 8 %v E Hamor falou com eles, dizendo: A alma de meu filho Siquém se apegou à vossa filha; rogo-vos que a deis por mulher.
 #v 9 %v E aparentai-vos conosco; dai-nos vossas filhas, e tomai vós as nossas.
 #v 10 %v E habitai conosco; porque a terra estará diante de vós; morai e negociai nela, e tomai nela possessão.
 #v 11 %v Siquém também disse a seu pai e a seus irmãos: Ache eu favor em vossos olhos, e darei o que me disserdes.
-#v 12 %v Aumentai a cargo meu muito dote e presentes, que eu darei quanto me disserdes, e dá-me a moça por mulher.
-#v 13 %v E responderam os filhos de Jacó a Siquém e a Hamor seu pai com engano; e falaram, porquanto havia violado a Diná sua irmã.
+#v 12 %v Aumentai muito a exigência de meu dote e presentes, que eu darei quanto me disserdes, e dá-me a moça por mulher.
+#v 13 %v E responderam os filhos de Jacó a Siquém e a Hamor seu pai com engano; e falaram, porquanto havia violado a sua irmã Diná.
 #v 14 %v E disseram-lhes: Não podemos fazer isto de dar nossa irmã a homem que tem prepúcio; porque entre nós é abominação.
 #v 15 %v Mas com esta condição vos consentiremos: se haveis de ser como nós, que se circuncide entre vós todo homem;
 #v 16 %v Então vos daremos nossas filhas, e tomaremos nós as vossas; e habitaremos convosco, e seremos um povo.
@@ -1073,16 +1073,16 @@
 #v 18 %v E pareceram bem seus palavras a Hamor e a Siquém, filho de Hamor.
 #v 19 %v E não tardou o jovem fazer aquilo, porque a filha de Jacó lhe havia agradado: e ele era o mais honrado de toda a casa de seu pai.
 #v 20 %v Então Hamor e Siquém seu filho vieram à porta de sua cidade, e falaram aos homens de sua cidade, dizendo:
-#v 21 %v Estes homens são pacíficos conosco, e habitarão no país, e comercializarão nele: pois eis que a terra é bastante larga para eles: nós tomaremos suas filhas por mulheres, e lhes daremos as nossas.
+#v 21 %v Estes homens são pacíficos conosco, e habitarão no país, e comercializarão nele; pois eis que a terra é bastante ampla para eles; nós tomaremos suas filhas por mulheres, e lhes daremos as nossas.
 #v 22 %v Mas com esta condição nos estes homens consentirão em habitar conosco, para que sejamos um povo: se se circuncidar em nós todo homem, assim como eles são circuncidados.
-#v 23 %v Seus gados, e sua riqueza e todos seus animais, serão nossas: somente concordemos com eles, e habitarão conosco.
+#v 23 %v Seus gados, e sua riqueza e todos seus animais, serão nossas; somente concordemos com eles, e habitarão conosco.
 #v 24 %v E obedeceram a Hamor e a Siquém seu filho todos os que saíam pela porta da cidade, e circuncidaram a todo homem, dentre os que saíam pela porta de sua cidade.
 #v 25 %v E sucedeu que ao terceiro dia, quando sentiam eles a maior dor, os dois filhos de Jacó, Simeão e Levi, irmãos de Diná, tomaram cada um sua espada, e vieram contra a cidade animosamente, e mataram a todo homem.
-#v 26 %v E a Hamor e a seu filho Siquém mataram a fio de espada: e tomaram a Diná de casa de Siquém, e saíram.
+#v 26 %v E a Hamor e a seu filho Siquém mataram a fio de espada; e tomaram a Diná de casa de Siquém, e saíram.
 #v 27 %v E os filhos de Jacó vieram aos mortos e saquearam a cidade; porquanto haviam violado à sua irmã.
 #v 28 %v Tomaram suas ovelhas e vacas e seus asnos, e o que havia na cidade e no campo,
 #v 29 %v E todos os seus pertences; se levaram cativos a todos as suas crianças e suas mulheres, e roubaram tudo o que havia nas casas.
-#v 30 %v Então disse Jacó a Simeão e a Levi: Vós me perturbastes em fazer-me abominável aos moradores desta terra, os cananeus e os ferezeus; e tendo eu poucos homens, se juntarão contra mim, e me ferirão, e serei destruído eu e minha casa.
+#v 30 %v Então disse Jacó a Simeão e a Levi: Vós me perturbastes em fazer-me detestável aos moradores desta terra, os cananeus e os ferezeus; e tendo eu poucos homens, se juntarão contra mim, e me ferirão, e serei destruído eu e minha casa.
 #v 31 %v E eles responderam Havia ele de tratar à nossa irmã como à uma prostituta?
 
 #c 35 %c
