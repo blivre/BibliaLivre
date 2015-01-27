@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150124 %ver
+#ver 20150126 %ver
 #abbr Gn %abbr
 %header
 
@@ -1185,7 +1185,7 @@
 #v 21 %v E quando Rúben ouviu isto, livrou-o de suas mãos e disse: Não o matemos.
 #v 22 %v E disse-lhes Rúben: Não derrameis sangue; lançai-o nesta cisterna que está no deserto, e não ponhais mão nele; para livrá-lo assim de suas mãos, para fazê-lo virar a seu pai.
 #v 23 %v E sucedeu que, quando chegou José a seus irmãos, eles fizeram desnudar a José sua roupa, a roupa de cores que tinha sobre si;
-#v 24 %v E tomaram-no, e lançaram-lhe na cisterna; mas a cova estava vazia, não havia nela água.
+#v 24 %v E tomaram-no, e lançaram-lhe na cisterna; mas a cisterna estava vazia, não havia nela água.
 #v 25 %v E sentaram-se a comer pão: e levantando os olhos olharam, e eis uma companhia de ismaelitas que vinha de Gileade, e seus camelos traziam aromas e bálsamo e mirra, e iam a levá-lo ao Egito.
 #v 26 %v Então Judá disse a seus irmãos: Que proveito há em que matemos a nosso irmão e encubramos sua morte?
 #v 27 %v Vinde, e o vendamos aos ismaelitas, e não seja nossa mão sobre ele; que nosso irmão é nossa carne. E seus irmãos concordaram com ele.
@@ -1276,15 +1276,15 @@
 #v 17 %v E no cesto mais alto havia de todos os alimentos de Faraó, obra de padeiro; e que as aves as comiam do cesto de sobre minha cabeça.
 #v 18 %v Então respondeu José, e disse: Esta é sua declaração: Os três cestos três dias são;
 #v 19 %v Ao fim de três dias tirará Faraó tua cabeça de sobre ti, e te fará enforcar na forca, e as aves comerão tua carne de sobre ti.
-#v 20 %v E foi o terceiro dia o dia do aniversário de Faraó, e fez banquete a todos os seus servos: e levantou a cabeça do chefe dos copeiros, e a cabeça do chefe de los padeiros, entre seus servos.
+#v 20 %v E foi o terceiro dia o dia do aniversário de Faraó, e fez banquete a todos os seus servos: e levantou a cabeça do chefe dos copeiros, e a cabeça do chefe dos padeiros, entre seus servos.
 #v 21 %v E fez voltar a seu ofício ao chefe dos copeiros; e deu ele o copo em mão de Faraó.
 #v 22 %v Mas fez enforcar ao principal dos padeiros, como lhe havia declarado José.
-#v 23 %v E o chefe dos copeiros não se lembrou de José, ao invés disso que lhe esqueceu.
+#v 23 %v E o chefe dos copeiros não se lembrou de José, ao invés disso lhe esqueceu.
 
 #c 41 %c
 #v 1 %v E aconteceu que passados dois anos teve Faraó um sonho: Parecia-lhe que estava junto ao rio;
 #v 2 %v E que do rio subiam sete vacas, belas à vista, e muito gordas, e pastavam entre os juncos:
-#v 3 %v E que outras sete vacas subiam atrás elas do rio, de feia aparência, e magras de carne, e se pararam perto das vacas belas à beira do rio:
+#v 3 %v E que outras sete vacas subiam depois delas do rio, de feia aparência, e magras de carne, e pararam perto das vacas belas à beira do rio;
 #v 4 %v E que as vacas de feia aparência e magras de carne devoravam as sete vacas belas e muito gordas. E despertou Faraó.
 #v 5 %v Dormiu de novo, e sonhou a segunda vez: Que sete espigas cheias e belas subiam de uma só haste:
 #v 6 %v E que outras sete espigas miúdas e abatidas do vento oriental, saíam depois delas:
@@ -1307,8 +1307,8 @@
 #v 23 %v E que outras sete espigas miúdas, definhadas, abatidas do vento oriental, subiam depois delas:
 #v 24 %v E as espigas miúdas devoravam as sete espigas belas: e disse-o aos magos, mas não há quem o interprete a mim.
 #v 25 %v Então respondeu José a Faraó: O sonho de Faraó é um mesmo: Deus mostrou a Faraó o que vai fazer.
-#v 26 %v As sete vacas belas sete anos são; e as espigas belas são sete anos: o sonho é um mesmo.
-#v 27 %v Também as sete vacas magras e feias que subiam atrás elas, são sete anos; e as sete espigas miúdas e definhadas do vento oriental, sete anos serão de fome.
+#v 26 %v As sete vacas belas são sete anos, e as espigas belas são sete anos; o sonho é um mesmo.
+#v 27 %v Também as sete vacas magras e feias que subiam atrás elas, são sete anos; e as sete espigas miúdas e definhadas do vento oriental serão sete anos de fome.
 #v 28 %v Isto é o que respondo a Faraó. O que Deus vai fazer, mostrou-o a Faraó.
 #v 29 %v Eis que vêm sete anos de grande fartura toda a terra do Egito:
 #v 30 %v E se levantarão depois eles sete anos de fome; e toda a fartura será esquecida na terra do Egito; e a fome consumirá a terra;
@@ -1321,10 +1321,10 @@
 #v 37 %v E o negócio pareceu bem a Faraó, e a seus servos.
 #v 38 %v E disse Faraó a seus servos: Acharemos outro homem como este, em quem haja espírito de Deus?
 #v 39 %v E disse Faraó a José: Pois que Deus te fez saber tudo isto, não há entendido nem sábio como tu:
-#v 40 %v Tu serás sobre minha casa, e por teu dito se governará todo o meu povo: somente no trono serei eu maior que tu.
-#v 41 %v Disse mais Faraó a José: Eis que eu te pus sobre toda a terra do Egito.
+#v 40 %v Tu serás sobre minha casa, e pelo que disseres se governará todo o meu povo; somente no trono serei eu maior que tu.
+#v 41 %v Disse mais Faraó a José: Eis que te pus sobre toda a terra do Egito.
 #v 42 %v Então Faraó tirou seu anel de sua mão, e o pôs na mão de José, e fez-lhe vestir de roupas de linho finíssimo, e pôs um colar de ouro em seu pescoço;
-#v 43 %v E o fez subir em seu segundo carro, e proclamaram diante dele: Dobrai os joelhos: e pôs-lhe sobre toda a terra do Egito.
+#v 43 %v E o fez subir em seu segundo carro, e proclamaram diante dele: Dobrai os joelhos; e pôs-lhe sobre toda a terra do Egito.
 #v 44 %v E disse Faraó a José: Eu sou Faraó; e sem ti ninguém levantará sua mão nem seu pé toda a terra do Egito.
 #v 45 %v E chamou Faraó o nome de José, Zefenate-Paneia; e deu-lhe por mulher a Azenate, filha de Potífera, sacerdote de Om. E saiu José por toda a terra do Egito.
 #v 46 %v E era José de idade de trinta anos quando foi apresentado diante de Faraó, rei do Egito: e saiu José de diante de Faraó, e transitou por toda a terra do Egito.
@@ -1332,13 +1332,13 @@
 #v 48 %v E ele juntou todo o mantimento dos sete anos que foram na terra do Egito, e guardou mantimento nas cidades, pondo em cada cidade o mantimento do campo de seus arredores.
 #v 49 %v E ajuntou José trigo como areia do mar, muito em extremo, até não se poder contar, porque não tinha número.
 #v 50 %v E nasceram a José dois filhos antes que viesse o primeiro ano da fome, os quais lhe deu à luz Azenate, filha de Potífera, sacerdote de Om.
-#v 51 %v E chamou José o nome do primogênito Manassés; porque Deus (disse) me fez esquecer todo o meu sofrimento, e toda a casa de meu pai.
-#v 52 %v E o nome do segundo chamou-o Efraim; porque Deus (disse) me fez fértil na terra de minha aflição.
+#v 51 %v E chamou José o nome do primogênito Manassés; porque disse: Deus me fez esquecer todo o meu sofrimento, e toda a casa de meu pai.
+#v 52 %v E o nome do segundo chamou-o Efraim; porque disse: Deus me fez fértil na terra de minha aflição.
 #v 53 %v E cumpriram-se os sete anos da fartura, que houve na terra do Egito.
-#v 54 %v E começaram a vir os sete anos de fome, como José havia dito: e houve fome em todos os países, mas toda a terra do Egito havia pão.
+#v 54 %v E começaram a vir os sete anos de fome, como José havia dito: e houve fome em todos os países, mas em toda a terra do Egito havia pão.
 #v 55 %v E quando se sentiu a fome toda a terra do Egito, o povo clamou a Faraó por pão. E disse Faraó a todos os egípcios: Ide a José, e fazei o que ele vos disser.
 #v 56 %v E a fome estava por toda a extensão do país. Então abriu José todo depósito de grãos onde havia, e vendia aos egípcios; porque havia crescido a fome na terra do Egito.
-#v 57 %v E toda a terra vinha ao Egito para comprar de José, porque por toda a terra havia crescido a fome.
+#v 57 %v E toda a terra vinha ao Egito para comprar de José, porque por toda a terra havia aumentado a fome.
 
 #c 42 %c
 #v 1 %v E vendo Jacó que no Egito havia alimentos, disse a seus filhos: Por que estais olhando uns para os outros?
@@ -1347,28 +1347,28 @@
 #v 4 %v Mas Jacó não enviou a Benjamim irmão de José com seus irmãos; porque disse: Não seja acaso que lhe aconteça algum desastre.
 #v 5 %v E vieram os filhos de Israel a comprar entre os que vinham: porque havia fome na terra de Canaã.
 #v 6 %v E José era o senhor da terra, que vendia a todo o povo da terra: e chegaram os irmãos de José, e inclinaram-se a ele rosto por terra.
-#v 7 %v E José quando viu seus irmãos, reconheceu-os; mas fez que não os conhecesse, e falou-lhes asperamente, e lhes disse: De onde viestes? Eles responderam: Da terra de Canaã a comprar alimentos.
+#v 7 %v E José quando viu seus irmãos, reconheceu-os; mas fez que não os conhecesse, e falou-lhes asperamente, e lhes disse: De onde viestes? Eles responderam: Da terra de Canaã, para comprar alimentos.
 #v 8 %v José, pois, reconheceu a seus irmãos; mas eles não o reconheceram.
-#v 9 %v Então se lembrou José dos sonhos que havia tido deles, e disse-lhes: Espias sois; para ver o descoberto do país viestes.
-#v 10 %v E eles lhe responderam: Não, senhor meu: mas teus servos vieram a comprar alimentos.
-#v 11 %v Todos nós somos filhos de um homem: somos homens honestos: teus servos nunca foram espias.
-#v 12 %v E ele lhes disse: Não; para ver o descoberto do país viestes.
+#v 9 %v Então se lembrou José dos sonhos que havia tido deles, e disse-lhes: Sois espias; viestes ver a fraqueza do país.
+#v 10 %v E eles lhe responderam: Não, meu senhor; teus servos vieram comprar alimentos.
+#v 11 %v Todos nós somos filhos de um homem; somos homens honestos; teus servos nunca foram espias.
+#v 12 %v E ele lhes disse: Não; viestes ver a fraqueza do país.
 #v 13 %v E eles responderam: Teus servos somos doze irmãos, filhos de um homem na terra de Canaã; e eis que o menor está hoje com nosso pai, e outro desapareceu.
-#v 14 %v E José lhes disse: Isso é o que vos disse, afirmando que sois espias:
-#v 15 %v Nisto sereis provados: Vive Faraó que não saireis daqui, a não ser quando vosso irmão menor aqui vier.
+#v 14 %v E José lhes disse: Isso é o que vos disse, afirmando que sois espias;
+#v 15 %v Nisto sereis provados: Vive Faraó que não saireis daqui, a não ser quando vosso irmão menor vier aqui.
 #v 16 %v Enviai um de vós, e traga a vosso irmão; e vós ficai presos, e vossas palavras serão provadas, se há verdade convosco: e se não, vive Faraó, que sois espias.
 #v 17 %v E juntou-os no cárcere por três dias.
-#v 18 %v E ao terceiro dia disse-lhes José: Fazei isto, e vivei: Eu temo a Deus:
-#v 19 %v Se sois homens honestos, fique preso na casa de vosso cárcere um de vossos irmãos; e vós ide, levai o alimento para a fome de vossa casa:
-#v 20 %v Porém haveis de trazer-me a vosso irmão mais novo, e serão verificadas vossas palavras, e não morrereis. E eles o fizeram assim.
-#v 21 %v E diziam um ao outro: Verdadeiramente pecamos contra nosso irmão, que vimos a angústia de sua alma quando nos rogava, e não o ouvimos: por isso veio sobre nós esta angústia.
-#v 22 %v Então Rúben lhes respondeu, dizendo: Não vos falei eu e disse: Não pequeis contra o jovem; e não escutastes? Eis que também seu sangue é requerido.
+#v 18 %v E ao terceiro dia disse-lhes José: Fazei isto, e vivei; eu temo a Deus;
+#v 19 %v Se sois homens honestos, fique preso na casa de vosso cárcere um de vossos irmãos; e vós ide, levai o alimento para a fome de vossa casa;
+#v 20 %v Porém haveis de trazer-me a vosso irmão mais novo, e serão comprovadas vossas palavras, e não morrereis. E eles o fizeram assim.
+#v 21 %v E diziam um ao outro: Verdadeiramente pecamos contra nosso irmão, que vimos a angústia de sua alma quando nos rogava, e não o ouvimos; por isso veio sobre nós esta angústia.
+#v 22 %v Então Rúben lhes respondeu, dizendo: Não vos falei eu e disse: Não pequeis contra o jovem; e não escutastes? Eis que também o sangue dele é requerido.
 #v 23 %v E eles não sabiam que os entendia José, porque havia intérprete entre eles.
 #v 24 %v E apartou-se ele deles, e chorou: depois voltou a eles, e lhes falou, e tomou dentre eles a Simeão, e aprisionou-lhe à vista deles.
-#v 25 %v E mandou José que enchessem seus sacos de trigo, e devolvessem o dinheiro de cada um deles, pondo-o em seu saco, e lhes dessem comida para o caminho: e fez-se assim com eles.
+#v 25 %v E mandou José que enchessem seus sacos de trigo, e devolvessem o dinheiro de cada um deles, pondo-o em seu saco, e lhes dessem comida para o caminho; e fez-se assim com eles.
 #v 26 %v E eles puseram seu trigo sobre seus asnos, e foram-se dali.
 #v 27 %v E abrindo um deles seu saco para dar de comer a seu asno no lugar de parada, viu seu dinheiro que estava na boca de seu saco.
-#v 28 %v E disse a seus irmãos: Meu dinheiro se me foi devolvido, e ainda ei-lo aqui em meu saco. Alarmou-se, então, o coração deles, e espantados disseram um ao outro: Que é isto que nos fez Deus?
+#v 28 %v E disse a seus irmãos: Meu dinheiro se me foi devolvido, e ainda ei-lo aqui em meu saco. Alarmou-se, então, o coração deles e, espantados, disseram um ao outro: Que é isto que Deus nos fez?
 #v 29 %v E vindos a Jacó seu pai em terra de Canaã, contaram-lhe tudo o que lhes havia acontecido, dizendo:
 #v 30 %v Aquele homem, senhor da terra, nos falou asperamente, e nos tratou como espias da terra:
 #v 31 %v E nós lhe dissemos: Somos homens honestos, nunca fomos espias:
@@ -1376,8 +1376,8 @@
 #v 33 %v E aquele homem, senhor da terra, nos disse: Nisto conhecerei que sois homens honestos; deixai comigo um de vossos irmãos, e tomai para a fome de vossas casas, e ide,
 #v 34 %v E trazei-me a vosso irmão o mais novo, para que eu saiba que não sois espias, mas sim homens honestos: assim vos darei a vosso irmão, e negociareis na terra.
 #v 35 %v E aconteceu que esvaziando eles seus sacos, eis que no saco de cada um estava o pacote de seu dinheiro: e vendo eles e seu pai os pacotes de seu dinheiro, tiveram temor.
-#v 36 %v Então seu pai Jacó lhes disse: Vós me privastes de meus filhos; José desapareceu, nem Simeão tampouco, e a Benjamim o levareis: contra mim são todas estas coisas.
-#v 37 %v E Rúben falou a seu pai, dizendo: Farás morrer a meus dois filhos, se eu não o devolver a ti; entrega-o em minha mão, que eu o devolverei a ti.
+#v 36 %v Então seu pai Jacó lhes disse: Vós me privastes de meus filhos; José desapareceu, nem Simeão tampouco, e a Benjamim o levareis; contra mim são todas estas coisas.
+#v 37 %v E Rúben falou a seu pai, dizendo: Podes matar meus dois filhos, se eu não o devolver a ti; entrega-o em minha mão, que eu o devolverei a ti.
 #v 38 %v E ele disse: Não descerá meu filho convosco; que seu irmão é morto, e ele somente restou; e se lhe acontecer algum desastre no caminho por onde vades, fareis descer minhas cãs com dor ao mundo dos mortos.
 
 #c 43 %c
