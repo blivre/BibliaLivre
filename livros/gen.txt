@@ -1,7 +1,7 @@
 ﻿#header
 #name Gênesis %name
 #snm Gênesis %snm
-#ver 20150126 %ver
+#ver 20150129 %ver
 #abbr Gn %abbr
 %header
 
@@ -1571,8 +1571,8 @@
 #v 17 %v Então vendo José que seu pai punha a direita sobre a cabeça de Efraim, causou-lhe isto desgosto; e pegou a mão de seu pai, para mudá-la de sobre a cabeça de Efraim à cabeça de Manassés.
 #v 18 %v E disse José a seu pai: Não assim, meu pai, porque este é o primogênito; põe tua mão direita sobre sua cabeça.
 #v 19 %v Mas seu pai não quis, e disse: Eu sei, meu filho, eu sei: também ele virá a ser um povo, e será também acrescentado; porém seu irmão mais novo será maior que ele, e sua descendência será plenitude de povos.
-#v 20 %v E abençoou-os aquele dia, dizendo: Em ti abençoará Israel, dizendo: Ponha-te Deus como a Efraim e como a Manassés. E pôs a Efraim diante de Manassés.
-#v 21 %v E disse Israel a José: Eis que, eu morro, mas Deus será convosco, e vos fará voltar à terra de vossos pais.
+#v 20 %v E abençoou-os aquele dia, dizendo: Em ti Israel abençoará, dizendo: Deus faça de ti Deus como a Efraim e como a Manassés. E pôs a Efraim diante de Manassés.
+#v 21 %v E disse Israel a José: Eis que eu morro, mas Deus será convosco, e vos fará voltar à terra de vossos pais.
 #v 22 %v E eu dei a ti uma parte sobre teus irmãos, a qual tomei eu da mão dos amorreus com minha espada e com meu arco.
 
 #c 49 %c
@@ -1589,26 +1589,26 @@
 #v 11 %v Atando à vide seu jumentinho, E à videira o filho de sua jumenta, Lavou no veio sua roupa, E no sangue de uvas seu manto:
 #v 12 %v Seus olhos mais vermelhos que o vinho, E os dentes mais brancos que o leite.
 #v 13 %v Zebulom em portos de mar habitará, E será para porto de navios; E seu termo até Sídon.
-#v 14 %v Issacar, asno de forte estrutura Deitado entre dois apriscos:
+#v 14 %v Issacar, asno de forte estrutura deitado entre dois apriscos:
 #v 15 %v E viu que o descanso era bom, E que a terra era deleitosa; E baixou seu ombro para levar, E serviu em tributo.
 #v 16 %v Dã julgará a seu povo, Como uma das tribos de Israel.
-#v 17 %v Será Dã serpente junto ao caminho, Víbora junto à vereda, Que morde os calcanhares dos cavalos, E faz cair por detrás ao cavaleiro deles.
+#v 17 %v Será Dã serpente junto ao caminho, víbora junto à vereda, que morde os calcanhares dos cavalos, e faz cair por detrás ao cavaleiro deles.
 #v 18 %v Tua salvação espero, ó SENHOR.
-#v 19 %v Gade, exército o atacará; Mas ele atacará ao fim.
+#v 19 %v Gade, exército o atacará; mas ele contra-atacará ao fim.
 #v 20 %v O pão de Aser será espesso, E ele dará deleites ao rei.
-#v 21 %v Naftali, serva solta, Que diz belas coisas.
-#v 22 %v Ramo frutífero é José, Ramo frutífero é junto à fonte, cujos ramos se estendem sobre o muro.
-#v 23 %v E causaram-lhe amargura, E flecharam-lhe, E odiaram-no os arqueiros:
+#v 21 %v Naftali, serva solta, que diz belas coisas.
+#v 22 %v Ramo frutífero é José, ramo frutífero é junto à fonte, cujos ramos se estendem sobre o muro;
+#v 23 %v E causaram-lhe amargura, e flecharam-lhe, e os arqueiros o odiaram;
 #v 24 %v Mas seu arco manteve-se forte, E os braços de suas mãos se fortaleceram pelas mãos do Forte de Jacó, (Dali é o Pastor, e a Pedra de Israel,)
-#v 25 %v Do Deus de teu pai, o qual te ajudará, E do Todo-Poderoso, o qual te abençoará Com bênçãos dos céus de acima, Com bênçãos do abismo que está abaixo, Com bênçãos do seio e da madre.
+#v 25 %v Do Deus de teu pai, o qual te ajudará, E do Todo-Poderoso, o qual te abençoará com bênçãos dos céus de acima, com bênçãos do abismo que está abaixo, Com bênçãos do seio e da madre.
 #v 26 %v As bênçãos de teu pai Foram maiores que as bênçãos de meus progenitores: Até o termo das colinas eternas serão sobre a cabeça de José, E sobre o topo da cabeça do que foi separado de seus irmãos.
-#v 27 %v Benjamim, lobo arrebatador: À manhã comerá a presa, E à tarde repartirá os despojos.
+#v 27 %v Benjamim, lobo arrebatador; de manhã comerá a presa, e à tarde repartirá os despojos.
 #v 28 %v Todos estes foram as doze tribos de Israel: e isto foi o que seu pai lhes disse, e os abençoou; a cada um por sua bênção os abençoou.
 #v 29 %v Mandou-lhes logo, e disse-lhes: Eu vou a ser reunido com meu povo: sepultai-me com meus pais na caverna que está no campo de Efrom os heteus;
 #v 30 %v Na caverna que está no campo de Macpela, que está diante de Manre na terra de Canaã, a qual comprou Abraão com o mesmo campo de Efrom os heteus, para herança de sepultura.
 #v 31 %v Ali sepultaram a Abraão e a Sara sua mulher; ali sepultaram a Isaque e a Rebeca sua mulher; ali também sepultei Lia.
 #v 32 %v O campo e a cova que nele está foram comprados dos filhos de Hete.
-#v 33 %v E quando acabou Jacó de dar ordens a seus filhos, encolheu seus pés na cama, e expirou: e foi reunido com seus pais.
+#v 33 %v E quando acabou Jacó de dar ordens a seus filhos, encolheu seus pés na cama, e expirou; e foi reunido com seus pais.
 
 #c 50 %c
 #v 1 %v Então se lançou José sobre o rosto de seu pai, e chorou sobre ele, e o beijou.
@@ -1630,10 +1630,10 @@
 #v 17 %v Assim direis a José: Rogo-te que perdoes agora a maldade de teus irmãos e seu pecado, porque mal te trataram: portanto agora te rogamos que perdoes a maldade dos servos do Deus de teu pai. E José chorou enquanto falavam.
 #v 18 %v E vieram também seus irmãos, e prostraram-se diante dele, e disseram: Eis-nos aqui por teus servos.
 #v 19 %v E respondeu-lhes José: Não temais: estou eu em lugar de Deus?
-#v 20 %v Vós pensastes mal sobre mim, mas Deus o encaminhou para o bem, para fazer o que vemos hoje, para manter em vida a muito povo.
+#v 20 %v Vós pensastes mal sobre mim, mas Deus o encaminhou para o bem, para fazer o que vemos hoje, para manter em vida muito povo.
 #v 21 %v Agora, pois, não tenhais medo; eu sustentarei a vós e a vossos filhos. Assim os consolou, e lhes falou ao coração.
-#v 22 %v E esteve José no Egito, ele e a casa de seu pai: e viveu José cento dez anos.
+#v 22 %v E esteve José no Egito, ele e a casa de seu pai; e viveu José cento dez anos.
 #v 23 %v E viu José os filhos de Efraim até a terceira geração: também os filhos de Maquir, filho de Manassés, foram criados sobre os joelhos de José.
 #v 24 %v E José disse a seus irmãos: Eu me morro; mas Deus certamente vos visitará, e vos fará subir desta terra à terra que jurou a Abraão, a Isaque, e a Jacó.
 #v 25 %v E fez jurar José aos filhos de Israel, dizendo: Deus certamente vos visitará, e fareis levar daqui meus ossos.
-#v 26 %v E morreu José da idade de cento e dez anos; e embalsamaram-no, e foi posto em um caixão no Egito.
+#v 26 %v E morreu José da idade de cento e dez anos; e embalsamaram-no, e foi posto  num caixão no Egito.
