@@ -67,7 +67,7 @@
 #v 4 %v E quando o SENHOR viu que ia ver, Deus o chamou do meio da sarça, e disse: Moisés, Moisés! E ele respondeu: Eis-me aqui.
 #v 5 %v E disse: Não te aproximes daqui; tira teus calçados de teus pés, porque o lugar em que estás é terra santa.
 #v 6 %v E disse: Eu sou o Deus de teu pai, Deus de Abraão, Deus de Isaque, Deus de Jacó. Então Moisés cobriu seu rosto, porque teve medo de olhar a Deus.
-#v 7 %v E disse o SENHOR: Vi a aflição de meu povo que está em Egito, e ouvi seu clamor por causa de seus opressores; pois conheço suas angústias;
+#v 7 %v E disse o SENHOR: Vi a aflição de meu povo que está no Egito, e ouvi seu clamor por causa de seus opressores; pois conheço suas angústias;
 #v 8 %v E desci para livrá-los da mão dos egípcios, e tirá-los daquela terra a uma terra boa e larga, a terra que flui leite e mel, aos lugares dos cananeus, dos heteus, dos amorreus, dos perizeus, dos heveus, e dos jebuseus.
 #v 9 %v O clamor, pois, dos filhos de Israel veio diante de mim, e também vi a opressão com que os egípcios os oprimem.
 #v 10 %v Vem, portanto, agora, e te enviarei a Faraó, para que tires a meu povo, os filhos de Israel, do Egito.
