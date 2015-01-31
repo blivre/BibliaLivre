@@ -1,7 +1,7 @@
 ﻿#header
 #name Livro do Êxodo %name
 #snm Êxodo %snm
-#ver 20130523 %ver
+#ver 20150131 %ver
 #abbr Ex %abbr
 %header
 
@@ -58,23 +58,23 @@
 #v 22 %v A qual lhe deu à luz um filho, e ele lhe pôs por nome Gérson: porque disse: Peregrino sou em terra alheia.
 #v 23 %v E aconteceu que depois de muitos dias morreu o rei do Egito, e os filhos de Israel suspiraram por causa da servidão, e clamaram: e subiu a Deus o clamor deles com motivo de sua servidão.
 #v 24 %v E ouviu Deus o gemido deles, e lembrou-se de seu pacto com Abraão, Isaque e Jacó.
-#v 25 %v E olhou Deus aos filhos de Israel, e reconheceu-os Deus.
+#v 25 %v Deus olhou os filhos de Israel, e Deus os reconheceu.
 
 #c 3 %c
-#v 1 %v E apascentando Moisés as ovelhas de Jetro seu sogro, sacerdote de Midiã, levou as ovelhas detrás do deserto, e veio a Horebe, monte de Deus.
+#v 1 %v E apascentando Moisés as ovelhas de Jetro seu sogro, sacerdote de Midiã, levou as ovelhas ao outro lado do deserto, e veio a Horebe, monte de Deus.
 #v 2 %v E apareceu-lhe o anjo do SENHOR em uma chama de fogo em meio de uma sarça: e ele olhou, e viu que a sarça ardia em fogo, e a sarça não se consumia.
 #v 3 %v Então Moisés disse: Irei eu agora, e verei esta grande visão, por que causa a sarça não se queima.
-#v 4 %v E vendo o SENHOR que ia a ver, chamou-o Deus do meio da sarça, e disse: Moisés, Moisés! E ele respondeu: Eis-me aqui.
-#v 5 %v E disse: Não te chegues aqui: tira teus sapatos de teus pés, porque o lugar em que tu estás, terra santa é.
+#v 4 %v E quando o SENHOR viu que ia ver, Deus o chamou do meio da sarça, e disse: Moisés, Moisés! E ele respondeu: Eis-me aqui.
+#v 5 %v E disse: Não te aproximes daqui; tira teus calçados de teus pés, porque o lugar em que estás é terra santa.
 #v 6 %v E disse: Eu sou o Deus de teu pai, Deus de Abraão, Deus de Isaque, Deus de Jacó. Então Moisés cobriu seu rosto, porque teve medo de olhar a Deus.
-#v 7 %v E disse o SENHOR: Bem vi a aflição de meu povo que está em Egito, e ouvi seu clamor por causa de seus opressores; pois conheço suas angústias:
+#v 7 %v E disse o SENHOR: Vi a aflição de meu povo que está em Egito, e ouvi seu clamor por causa de seus opressores; pois conheço suas angústias;
 #v 8 %v E desci para livrá-los da mão dos egípcios, e tirá-los daquela terra a uma terra boa e larga, a terra que flui leite e mel, aos lugares dos cananeus, dos heteus, dos amorreus, dos perizeus, dos heveus, e dos jebuseus.
 #v 9 %v O clamor, pois, dos filhos de Israel veio diante de mim, e também vi a opressão com que os egípcios os oprimem.
 #v 10 %v Vem, portanto, agora, e te enviarei a Faraó, para que tires a meu povo, os filhos de Israel, do Egito.
 #v 11 %v Então Moisés respondeu a Deus: Quem sou eu, para que vá a Faraó, e tire do Egito aos filhos de Israel?
 #v 12 %v E ele lhe respondeu: Vai, porque eu serei contigo; e isto te será por sinal de que eu te enviei: logo que houveres tirado este povo do Egito, servireis a Deus sobre este monte.
-#v 13 %v E disse Moisés a Deus: Eis que chego eu aos filhos de Israel, e lhes digo, O Deus de vossos pais me enviou a vós; se eles me perguntarem: Qual é seu nome? que lhes responderei?
-#v 14 %v E respondeu Deus a Moisés: EU SOU O QUE SOU. E disse: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.
+#v 13 %v E disse Moisés a Deus: Eis que, quando eu chegar aos filhos de Israel, e lhes disser, O Deus de vossos pais me enviou a vós; se eles me perguntarem: Qual é seu nome? que lhes responderei?
+#v 14 %v Deus respondeu a Moisés: EU SOU O QUE SOU. E disse: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.
 #v 15 %v E disse mais Deus a Moisés: Assim dirás aos filhos de Israel: o SENHOR, o Deus de vossos pais, o Deus de Abraão, Deus de Isaque e Deus de Jacó, me enviou a vós. Este é meu nome para sempre, este é meu memorial por todos os séculos.
 #v 16 %v Vai, e junta os anciãos de Israel, e dize-lhes: O SENHOR, o Deus de vossos pais, o Deus de Abraão, de Isaque, e de Jacó, me apareceu, dizendo: Certamente vos visitei, e vi o que se faz convosco no Egito;
 #v 17 %v E disse: Eu vos tirarei da aflição do Egito à terra dos cananeus, e dos heteus, e dos amorreus, e dos perizeus, e dos heveus, e dos jebuseus, a uma terra que flui leite e mel.
