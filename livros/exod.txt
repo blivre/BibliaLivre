@@ -85,21 +85,21 @@
 #v 22 %v Em vez disso pedirá cada mulher à sua vizinha e à sua visitante vasos de prata, vasos de ouro, e roupas; os quais poreis sobre vossos filhos e vossas filhas, e despojareis ao Egito.
 
 #c 4 %c
-#v 1 %v Então Moisés respondeu, e disse: Eis que eles não crerão em mim, nem ouvirão minha voz; porque dirão: Não te apareceu o SENHOR.
+#v 1 %v Então Moisés respondeu, e disse: Eis que eles não crerão em mim, nem ouvirão minha voz; porque dirão: O SENHOR não apareceu a ti.
 #v 2 %v E o SENHOR disse: Que é isso que tens em tua mão? E ele respondeu: Uma vara.
 #v 3 %v E ele lhe disse: Lança-a em terra. E ele a lançou em terra, e tornou-se uma cobra: e Moisés fugia dela.
 #v 4 %v Então disse o SENHOR a Moisés: Estende tua mão, e toma-a pela cauda. E ele estendeu sua mão, e tomou-a, e tornou-se vara em sua mão.
 #v 5 %v Por isto crerão que se te apareceu o SENHOR, o Deus de teus pais, o Deus de Abraão, Deus de Isaque, e Deus de Jacó.
 #v 6 %v E disse-lhe mais o SENHOR: Mete agora tua mão em teu peito. E ele meteu a mão em seu peito; e quando a tirou, eis que sua mão estava leprosa como a neve.
-#v 7 %v E disse: Volta a meter tua mão em teu peito: e ele voltou a meter sua mão em seu peito; e voltando-a a tirar do peito, eis que se havia voltado como a outra carne.
+#v 7 %v E disse: Volta a meter tua mão em teu peito; e ele voltou a meter sua mão em seu peito; e voltando-a a tirar do peito, eis que se havia voltado como a outra carne.
 #v 8 %v Se acontecer, que não te crerem, nem obedecerem à voz do primeiro sinal, crerão à voz do último.
-#v 9 %v E se ainda não crerem a estes dois sinais, nem ouvirem tua voz, tomarás das águas do rio, e as derramará em terra; e se tornarão aquelas águas que tomarás do rio, se tornarão sangue na terra.
+#v 9 %v E se ainda não crerem nestes dois sinais, nem ouvirem tua voz, tomarás das águas do rio, e as derramará em terra; e se tornarão aquelas águas que tomarás do rio, se tornarão sangue na terra.
 #v 10 %v Então disse Moisés ao SENHOR: Ai Senhor! Eu não sou homem de palavras de ontem nem de anteontem, nem ainda desde que tu falas a teu servo; porque sou lento no fala e incômodo de língua.
-#v 11 %v E o SENHOR lhe respondeu: Quem deu a boca ao homem? Ou quem fez ao mudo e ao surdo, ao que vai e ao cego? não sou eu o SENHOR?
+#v 11 %v E o SENHOR lhe respondeu: Quem deu a boca ao homem? Ou quem fez ao mudo e ao surdo, ao que vai e ao cego? não sou eu, o SENHOR?
 #v 12 %v Agora pois, vai, que eu serei em tua boca, e te ensinarei o que tenhas de falar.
 #v 13 %v E ele disse: Ai Senhor! envia por meio do que hás de enviar.
-#v 14 %v Então o SENHOR se irou contra Moisés, e disse: Não conheço eu a tua irmão Arão, levita, e que ele falará? E ainda eis que ele te sairá a receber, e em vendo-te, se alegrará em seu coração.
-#v 15 %v Tu falarás a ele, e porás em sua boca as palavras, e eu serei em tua boca e na sua, e vos ensinarei o que tenhais de fazer.
+#v 14 %v Então o SENHOR se irou contra Moisés, e disse: Não conheço eu a teu irmão Arão, levita, e que ele fala bem? E ainda eis que ele sairá para te receber, e vendo-te, se alegrará em seu coração.
+#v 15 %v Tu falarás a ele, e porás em sua boca as palavras, e eu serei em tua boca e na sua, e vos ensinarei o que deveis fazer.
 #v 16 %v E ele falará por ti ao povo; e ele te será a ti em lugar de boca, e tu serás para ele em lugar de Deus.
 #v 17 %v E tomarás esta vara em tua mão, com a qual farás os sinais.
 #v 18 %v Assim se foi Moisés, e voltando a seu sogro Jetro, disse-lhe: Irei agora, e voltarei a meus irmãos que estão em Egito, para ver se ainda vivem. E Jetro disse a Moisés: Vai em paz.
@@ -108,23 +108,23 @@
 #v 21 %v E disse o SENHOR a Moisés: Quando houverdes voltado ao Egito, olha que faças diante de Faraó todas as maravilhas que pus em tua mão: eu, porém, endurecerei seu coração, de modo que não deixará ir ao povo.
 #v 22 %v E dirás a Faraó: O SENHOR disse assim: Israel é meu filho, meu primogênito.
 #v 23 %v Já te disse que deixes ir a meu filho, para que me sirva, mas não quiseste deixá-lo ir: eis que eu vou a matar a teu filho, o teu primogênito.
-#v 24 %v E aconteceu no caminho, que em uma parada lhe saiu ao encontro o SENHOR, e quis matá-lo.
-#v 25 %v Então Zípora agarrou uma pedra afiada, e cortou o prepúcio de seu filho, e lançou-o a seus pés, dizendo: À verdade tu me és um esposo de sangue.
+#v 24 %v E aconteceu no caminho, que em uma parada o SENHOR lhe saiu ao encontro, e quis matá-lo.
+#v 25 %v Então Zípora agarrou uma pedra afiada, e cortou o prepúcio de seu filho, e lançou-o a seus pés, dizendo: Em verdade tu me és um esposo de sangue.
 #v 26 %v Assim lhe deixou logo ir. E ela disse: Esposo de sangue, por causa da circuncisão.
-#v 27 %v E o SENHOR disse a Arão: Vai a receber a Moisés ao deserto. E ele foi, e encontrou-o no monte de Deus, e beijou-lhe.
+#v 27 %v E o SENHOR disse a Arão: Vai receber a Moisés ao deserto. E ele foi, e encontrou-o no monte de Deus, e beijou-lhe.
 #v 28 %v Então contou Moisés a Arão todas as palavras do SENHOR que lhe enviava, e todas o sinais que lhe havia dado.
 #v 29 %v E foram Moisés e Arão, e juntaram todos os anciãos dos filhos de Israel:
 #v 30 %v E falou Arão todas as palavras que o SENHOR havia dito a Moisés, e fez o sinais diante dos olhos do povo.
-#v 31 %v E o povo creu: e ouvindo que o SENHOR havia visitado os filhos de Israel, e que havia visto sua aflição, inclinaram-se e adoraram.
+#v 31 %v E o povo creu; e ouvindo que o SENHOR havia visitado os filhos de Israel, e que havia visto sua aflição, inclinaram-se e adoraram.
 
 #c 5 %c
-#v 1 %v Depois entraram Moisés e Arão a Faraó, e lhe disseram: O SENHOR, o Deus de Israel, disse assim: Deixa ir a meu povo a celebrar-me festa no deserto.
-#v 2 %v E Faraó respondeu: Quem é o SENHOR, para que eu ouça sua voz e deixe ir a Israel? Eu não conheço ao SENHOR, nem tampouco deixarei ir a Israel.
+#v 1 %v Depois entraram Moisés e Arão a Faraó, e lhe disseram: O SENHOR, o Deus de Israel, disse assim: Deixa ir meu povo a celebrar-me festa no deserto.
+#v 2 %v E Faraó respondeu: Quem é o SENHOR, para que eu ouça sua voz e deixe ir a Israel? Não conheço o SENHOR, nem tampouco deixarei Israel ir.
 #v 3 %v E eles disseram: O Deus dos hebreus nos encontrou: iremos, pois, agora caminho de três dias pelo deserto, e sacrificaremos ao SENHOR nosso Deus; para que não venha sobre nós com pestilência ou com espada.
-#v 4 %v Então o rei do Egito lhes disse: Moisés e Arão, por que fazeis cessar ao povo de sua obra? ide a vossas cargas.
+#v 4 %v Então o rei do Egito lhes disse: Moisés e Arão, por que fazeis cessar ao povo de sua obra? Ide a vossas cargas.
 #v 5 %v Disse também Faraó: Eis que o povo da terra é agora muito, e vós lhes fazeis cessar de suas cargas.
 #v 6 %v E mandou Faraó aquele mesmo dia aos capatazes do povo que o tinham à sua responsabilidade, e a seus governadores, dizendo:
-#v 7 %v De aqui adiante não dareis palha ao povo para fazer tijolos, como ontem e antes de ontem; vão eles e recolham por si mesmos a palha:
+#v 7 %v De aqui adiante não dareis palha ao povo para fazer tijolos, como ontem e antes de ontem; vão eles e recolham por si mesmos a palha;
 #v 8 %v E haveis de pôr-lhes a tarefa dos tijolos que faziam antes, e não lhes diminuireis nada; porque estão ociosos, e por isso levantam a voz dizendo: Vamos e sacrificaremos a nosso Deus.
 #v 9 %v Agrave-se a servidão sobre eles, para que se ocupem nela, e não atendam a palavras de mentira.
 #v 10 %v E saindo os capatazes do povo e seus governadores, falaram ao povo, dizendo: Assim disse Faraó: Eu não vos dou palha.
@@ -140,7 +140,7 @@
 #v 20 %v E encontrando a Moisés e a Arão, que estavam à vista deles quando saíam de Faraó,
 #v 21 %v Disseram-lhes: Olhe o SENHOR sobre vós, e julgue; pois nos fizestes repulsivos diante de Faraó e de seus servos, dando-lhes a espada nas mãos para que nos matem.
 #v 22 %v Então Moisés se voltou ao SENHOR, e disse: Senhor, por que afliges a este povo? para que me enviaste?
-#v 23 %v Porque desde que eu vim a Faraó para falar-lhe em teu nome, afligiu a este povo; e tu tampouco livraste a teu povo.
+#v 23 %v Porque desde que vim a Faraó para falar-lhe em teu nome, afligiu a este povo; e tu tampouco livraste a teu povo.
 
 #c 6 %c
 #v 1 %v O SENHOR respondeu a Moisés: Agora verás o que eu farei a Faraó; porque com mão forte os deixará ir; e com mão forte os expulsará de sua terra.
@@ -154,7 +154,7 @@
 #v 9 %v Desta maneira falou Moisés aos filhos de Israel: mas eles não escutavam a Moisés por causa da angústia de espírito, e da dura servidão.
 #v 10 %v E falou o SENHOR a Moisés, dizendo:
 #v 11 %v Entra, e fala a Faraó rei do Egito, que deixe ir de sua terra aos filhos de Israel.
-#v 12 %v E respondeu Moisés diante do SENHOR, dizendo: Eis que, os filhos de Israel não me escutam: como, pois, me escutará Faraó, mormente sendo eu incircunciso de lábios?
+#v 12 %v E respondeu Moisés diante do SENHOR, dizendo: Eis que os filhos de Israel não me escutam: como, pois, me escutará Faraó, ainda mais sendo eu incircunciso de lábios?
 #v 13 %v Então o SENHOR falou a Moisés e a Arão, e deu-lhes mandamento para os filhos de Israel, e para Faraó rei do Egito, para que tirassem aos filhos de Israel da terra do Egito.
 #v 14 %v Estes são os chefes das famílias de seus pais. Os filhos de Rúben, o primogênito de Israel: Enoque e Palu, Hezrom e Carmi: estas são as famílias de Rúben.
 #v 15 %v Os filhos de Simeão: Jemuel, e Jamim, e Oade, e Jaquim, e Zoar, e Saul, filho de uma cananeia: estas são as famílias de Simeão.
@@ -172,7 +172,7 @@
 #v 27 %v Estes são os que falaram a Faraó rei do Egito, para tirar do Egito aos filhos de Israel. Moisés e Arão foram estes.
 #v 28 %v Quando o SENHOR falou a Moisés na terra do Egito,
 #v 29 %v Então o SENHOR falou a Moisés, dizendo: Eu sou o SENHOR; dize a Faraó rei do Egito todas as coisas que eu te digo.
-#v 30 %v E Moisés respondeu diante do SENHOR: Eis que, eu sou incircunciso de lábios, como, pois, me ouvirá Faraó?
+#v 30 %v E Moisés respondeu diante do SENHOR: Eis que sou incircunciso de lábios; como, pois, Faraó me ouvirá? 
 
 #c 7 %c
 #v 1 %v O SENHOR disse a Moisés: Olha, eu te constituí como um deus para Faraó, e teu irmão Arão será teu profeta.
