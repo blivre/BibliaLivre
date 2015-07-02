@@ -1,7 +1,7 @@
 ﻿#header
 #name Atos dos Apóstolos %name
 #snm Atos %snm
-#ver 20150103 %ver
+#ver 20150702 %ver
 #abbr At %abbr
 %header
 
@@ -391,7 +391,7 @@ E respondendo ele, disse:
 #c 9 %c
 #v 1 %v E Saulo, ainda assoprando ameaças e mortes contra os discípulos do Senhor, foi ao chefe dos sacerdotes.
 #v 2 %v E pediu-lhe cartas para Damasco, para as sinagogas, para que se achasse alguns deste caminho, tanto homens como mulheres, ele #ad os %ad trouxesse presos a Jerusalém.
-#v 3 %v E indo, aconteceu que chegando perto de Damas, repentinamente brilhou ao redor dele uma luz do céu.
+#v 3 %v E indo, aconteceu que chegando perto de Damasco, repentinamente brilhou ao redor dele uma luz do céu.
 #v 4 %v E caindo em terra, ouviu ma voz lhe dizendo:
  Saulo, Saulo, por que me persegues?
 #v 5 %v E ele disse:
@@ -402,8 +402,8 @@ E {tr,rp:o Senhor disse}{n4:ele #ad disse %ad #fn _c TR, RP contêm: “E o Senh
  Senhor, que queres que eu faça?
 E o Senhor lhe #ad disse %ad :}{trnc: #fn _c RP, N4 omitem: “E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe #ad disse %ad :” %fn }
  {tr:Levanta-te}{rp,n4:mas levanta-te #fn _c TR acrescenta: “E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe #ad disse %ad :” ao início do versículo %fn }, e entra na cidade; e #ad ali %ad te será dito o que deves fazer.
-#v 7 %v E os homens que viajavam com ele pararam emudecidos, ouvindo, de fato, a voz, porém vendo a ninguém.
-#v 8 %v E Saulo se levantou da terra e, tendo aberto seus olhos, via ninguém; e sendo guiado pela mão, levaram-no a Damasco.
+#v 7 %v E os homens que viajavam com ele pararam emudecidos, ouvindo, de fato, a voz, porém não vendo ninguém.
+#v 8 %v E Saulo se levantou da terra e, tendo aberto seus olhos, não via ninguém; e sendo guiado pela mão, levaram-no a Damasco.
 #v 9 %v E ele estava três dias sem ver; e não comeu, nem bebeu.
 #v 10 %v E havia em Damasco um certo discípulo, de nome Ananias; e disse-lhe o Senhor em visão:
  Ananias!

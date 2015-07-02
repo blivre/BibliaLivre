@@ -1,7 +1,7 @@
 ﻿#header
 #name Levítico %name
 #snm Levítico %snm
-#ver 20120209 %ver
+#ver 20150618 %ver
 #abbr Lv %abbr
 %header
 
@@ -620,22 +620,22 @@
 #v 1 %v E falou o SENHOR a Moisés dizendo:
 #v 2 %v Dirás também aos filhos de Israel: Qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam em Israel, que der de sua descendência a Moloque, certamente morrerá: o povo da terra o apedrejará com pedras.
 #v 3 %v E eu porei meu rosto contra o tal homem, e o cortarei dentre seu povo; porquanto deu de sua descendência a Moloque, contaminando meu santuário, e profanando meu santo nome.
-#v 4 %v Que se esconder o povo da terra seus olhos daquele homem que houver dado de sua descendência a Moloque, para não matar-lhe,
-#v 5 %v Então eu porei meu rosto contra aquele homem, e contra sua família, e lhe eliminarei dentre seu povo, com todos os que se prostituíram depois dele, prostituindo-se com Moloque.
+#v 4 %v E se o povo da terra esconder seus olhos daquele homem que houver dado de sua descendência a Moloque, para não matar-lhe,
+#v 5 %v então eu porei meu rosto contra aquele homem, e contra sua família, e lhe eliminarei dentre seu povo, com todos os que se prostituíram depois dele, prostituindo-se com Moloque.
 #v 6 %v E a pessoa que der atenção a encantadores ou adivinhos, para prostituir-se atrás deles, eu porei meu rosto contra a tal pessoa, e a eliminarei dentre seu povo.
 #v 7 %v Santificai-vos, pois, e sede santos, porque eu o SENHOR sou vosso Deus.
 #v 8 %v E guardai meus estatutos, e ponde-os por obra: Eu sou o SENHOR que vos santifico.
 #v 9 %v Porque homem que amaldiçoar a seu pai ou a sua mãe, certamente morrerá: a seu pai ou a sua mãe amaldiçoou; seu sangue será sobre ele.
 #v 10 %v E o homem que adulterar com a mulher de outro, o que cometer adultério com a mulher de seu próximo, inevitavelmente se fará morrer ao adúltero e à adúltera.
-#v 11 %v E qualquer um que se deixar com a mulher de seu pai, a nudez de seu pai revelou; ambos hão de ser mortos; seu sangue será sobre eles.
-#v 12 %v E qualquer um que dormir com sua nora, ambos hão de morrer: fizeram confusão; seu sangue será sobre eles.
-#v 13 %v E qualquer um que tiver ajuntamento com homem como com mulher, abominação fizeram: entre ambos hão de ser mortos; sobre eles será seu sangue.
-#v 14 %v E o que tomar mulher e à mãe dela, comete depravação: queimarão em fogo a ele e a elas, para que não haja depravação entre vós.
-#v 15 %v E qualquer um que tiver relação sexual com animal, será morto; e matareis à animal.
-#v 16 %v E a mulher que se achegar a algum animal, para ter ajuntamento com ele, à mulher e ao animal matarás: morrerão inevitavelmente; será seu sangue sobre eles.
-#v 17 %v E qualquer um que tomar a sua irmã, filha de seu pai ou filha de sua mãe, e vir sua nudez, e ela vir a sua, coisa é execrável; portanto serão mortos à vista dos filhos de seu povo: revelou a nudez de sua irmã; seu pecado levará.
-#v 18 %v E qualquer um que dormir com mulher menstruada, e descobrir sua nudez, sua fonte descobriu, e ela descobriu a fonte de seu sangue: ambos serão eliminados dentre seu povo.
-#v 19 %v A nudez da irmã de tua mãe, ou da irmã de teu pai, não descobrirás: porquanto descobriu seu parente, sua iniquidade levarão.
+#v 11 %v Qualquer um que se deitar com a mulher de seu pai terá revelou a nudez de seu pai; ambos serão mortos; seu sangue será sobre eles.
+#v 12 %v Qualquer um que dormir com a sua nora, ambos terão de morrer; fizeram confusão; seu sangue será sobre eles.
+#v 13 %v Qualquer um que tiver ajuntamento com homem como se fosse com mulher, abominação fizeram entre ambos; terão de ser mortos; sobre eles será seu sangue.
+#v 14 %v E o que tomar uma mulher e a mãe dela comete depravação; queimarão em fogo ele e elas, para que não haja depravação entre vós.
+#v 15 %v Qualquer um que tiver relação sexual com animal, será morto; e matareis ao animal.
+#v 16 %v E a mulher que se achegar a algum animal, para ter ajuntamento com ele, à mulher e ao animal matarás; morrerão inevitavelmente; seu sangue será sobre eles.
+#v 17 %v Qualquer um que tomar a sua irmã, filha de seu pai ou filha de sua mãe, e vir sua nudez, e ela vir a sua, coisa é execrável; portanto serão mortos à vista dos filhos de seu povo: revelou a nudez de sua irmã; seu pecado levará.
+#v 18 %v Qualquer um que dormir com mulher menstruada, e descobrir sua nudez, sua fonte descobriu, e ela descobriu a fonte de seu sangue: ambos serão eliminados dentre seu povo.
+#v 19 %v A nudez da irmã de tua mãe, ou da irmã de teu pai, não descobrirás; uma vez que descobriu sua parente, sua iniquidade levarão.
 #v 20 %v E qualquer um que dormir com a mulher do irmão de seu pai, a nudez do irmão de seu pai descobriu; seu pecado levarão; morrerão sem filhos.
 #v 21 %v E o que tomar a mulher de seu irmão, é imundícia; a nudez de seu irmão descobriu; sem filhos serão.
 #v 22 %v Guardai, pois, todos meus estatutos e todos meus regulamentos, e ponde-os por obra: e não vos vomitará a terra, na qual eu vos introduzo para que habiteis nela.
@@ -647,11 +647,11 @@
 
 #c 21 %c
 #v 1 %v E o SENHOR disse a Moisés: Fala aos sacerdotes filhos de Arão, e dize-lhes que não se contaminem por um morto em seus povos.
-#v 2 %v Mas por seu parente próximo a si, por sua mãe, ou por seu pai, ou por seu filho, ou por seu irmão,
-#v 3 %v Ou por sua irmã virgem, a ele próxima, a qual não tenha tido marido, por ela se contaminará.
-#v 4 %v Não se contaminará, porque é líder em seus povos, fazendo-se impuro.
+#v 2 %v A não ser por seu parente próximo a si, por sua mãe, ou por seu pai, ou por seu filho, ou por seu irmão,
+#v 3 %v ou por sua irmã virgem, a ele próxima, a qual não tenha tido marido, por ela se contaminará.
+#v 4 %v Porque é líder #fn _c Ou: Por ser parente ligado por casamento %fn em seu povo, não se contaminará, fazendo-se impuro.
 #v 5 %v Não farão calva em sua cabeça, nem raparão a ponta de sua barba, nem em sua carne farão cortes.
-#v 6 %v Santos serão a seu Deus, e não profanarão o nome de seu Deus; porque os fogos do SENHOR e o pão de seu Deus oferecem: portanto serão santos.
+#v 6 %v Santos serão a seu Deus, e não profanarão o nome de seu Deus; porque oferecem os fogos do SENHOR e o pão de seu Deus; portanto, serão santos.
 #v 7 %v Mulher prostituta ou infame não tomarão: nem tomarão mulher repudiada de seu marido: porque é santo a seu Deus.
 #v 8 %v O santificarás portanto, pois o pão de teu Deus oferece: santo será para ti, porque santo sou eu o SENHOR vosso santificador.
 #v 9 %v E a filha do homem sacerdote, se começar a se prostituir, a seu pai profana: queimada será ao fogo.

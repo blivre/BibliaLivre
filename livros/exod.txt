@@ -1,7 +1,7 @@
 ﻿#header
 #name Livro do Êxodo %name
 #snm Êxodo %snm
-#ver 20150131 %ver
+#ver 20150202 %ver
 #abbr Ex %abbr
 %header
 
@@ -176,64 +176,64 @@
 
 #c 7 %c
 #v 1 %v O SENHOR disse a Moisés: Olha, eu te constituí como um deus para Faraó, e teu irmão Arão será teu profeta.
-#v 2 %v Tu dirás todas as coisas que eu te mandarei, e Arão teu irmão falará a Faraó, para que deixe ir de sua terra aos filhos de Israel.
+#v 2 %v Tu dirás todas as coisas que eu te mandarei, e Arão teu irmão falará a Faraó, para que deixe os filhos de Israel saírem de sua terra.
 #v 3 %v E eu endurecerei o coração de Faraó, e multiplicarei na terra do Egito meus sinais e minhas maravilhas.
-#v 4 %v E Faraó não vos ouvirá; mas eu porei minha mão sobre o Egito, e tirarei a meus exércitos, meu povo, os filhos de Israel, da terra do Egito, com grandes juízos.
-#v 5 %v E saberão os egípcios que eu sou o SENHOR, quando estenderei minha mão sobre o Egito, e tirarei os filhos de Israel do meio deles.
-#v 6 %v E fez Moisés e Arão como o SENHOR lhes mandou: fizeram-no assim.
+#v 4 %v E Faraó não vos ouvirá; mas eu porei minha mão sobre o Egito, e tirarei meus exércitos, meu povo, os filhos de Israel, da terra do Egito, com grandes juízos.
+#v 5 %v E os egípcios saberão que eu sou o SENHOR, quando eu estender minha mão sobre o Egito, e tirar os filhos de Israel do meio deles.
+#v 6 %v E fez Moisés e Arão como o SENHOR lhes mandou; fizeram-no assim.
 #v 7 %v E era Moisés de idade de oitenta anos, e Arão de idade de oitenta e três, quando falaram a Faraó.
 #v 8 %v E falou o SENHOR a Moisés e a Arão, dizendo:
 #v 9 %v Se Faraó vos responder dizendo, Mostrai milagre; dirás a Arão: Toma tua vara, e lança-a diante de Faraó, para que se torne cobra.
-#v 10 %v Vieram, pois, Moisés e Arão a Faraó, e fizeram como o SENHOR o havia mandado: e lançou Arão sua vara diante de Faraó e de seus servos, e tornou-se cobra.
-#v 11 %v Então chamou também Faraó sábios e encantadores; e fizeram também o mesmo os encantadores do Egito com seus encantamentos;
-#v 12 %v Pois lançou cada um sua vara, as quais se tornaram cobras: mas a vara de Arão devorou as varas deles.
+#v 10 %v Vieram, pois, Moisés e Arão a Faraó, e fizeram como o SENHOR o havia mandado; e Arão lançou sua vara diante de Faraó e de seus servos, e tornou-se cobra.
+#v 11 %v Então Faraó chamou também sábios e encantadores; e os encantadores do Egito com seus encantamentos fizeram também o mesmo;
+#v 12 %v Pois lançou cada um sua vara, as quais se tornaram cobras; mas a vara de Arão devorou as varas deles.
 #v 13 %v E o coração de Faraó se endureceu, e não os escutou; como o SENHOR o havia dito.
-#v 14 %v Então o SENHOR disse a Moisés: O coração de Faraó está endurecido, que não quer deixar ir ao povo.
-#v 15 %v Vai pela manhã a Faraó, eis que ele sai às águas; e tu põe-te à beira do rio diante dele, e toma em tua mão a vara que se tornou cobra,
-#v 16 %v E dize-lhe: O SENHOR o Deus dos hebreus me enviou a ti, dizendo: Deixa ir a meu povo, para que me sirvam no deserto; e eis que até agora não quiseste ouvir.
-#v 17 %v Assim disse o SENHOR: Nisto conhecerás que eu sou o SENHOR: eis que eu ferirei com a vara que tenho em minha mão a água que está no rio, e se converterá em sangue:
-#v 18 %v E os peixes que há no rio morrerão, e federá o rio, e terão asco os egípcios de beber a água do rio.
+#v 14 %v Então o SENHOR disse a Moisés: O coração de Faraó está endurecido, que não quer deixar o povo ir.
+#v 15 %v Vai pela manhã a Faraó, eis que ele estará saindo às águas; e põe-te à beira do rio diante dele, e toma em tua mão a vara que se tornou cobra,
+#v 16 %v E dize-lhe: O SENHOR, o Deus dos hebreus, me enviou a ti, dizendo: Deixa meu povo ir, para que me sirvam no deserto; e eis que até agora não quiseste ouvir.
+#v 17 %v Assim disse o SENHOR: Nisto conhecerás que eu sou o SENHOR: eis que ferirei com a vara que tenho em minha mão a água que está no rio, e se converterá em sangue:
+#v 18 %v E os peixes que há no rio morrerão, e federá o rio, e os egípcios terão asco de beber a água do rio.
 #v 19 %v E o SENHOR disse a Moisés: Dize a Arão: Toma tua vara, e estende tua mão sobre as águas do Egito, sobre seus rios, sobre seus ribeiros e sobre seus tanques, e sobre todos os seus depósitos de águas, para que se convertam em sangue, e haja sangue por toda a região do Egito, tanto nos vasos de madeira como nos de pedra.
 #v 20 %v E Moisés e Arão fizeram como o SENHOR havia mandado; e levantando a vara feriu as águas que havia no rio, em presença de Faraó e de seus servos; e todas as águas que havia no rio se converteram em sangue.
-#v 21 %v Assim os peixes que havia no rio morreram; e o rio se contaminou, que os egípcios não podiam beber dele: e houve sangue por toda a terra do Egito.
+#v 21 %v Assim os peixes que havia no rio morreram; e o rio se contaminou, que os egípcios não podiam beber dele; e houve sangue por toda a terra do Egito.
 #v 22 %v E os encantadores do Egito fizeram o mesmo com seus encantamentos: e o coração de Faraó se endureceu, e não os escutou; como o SENHOR o havia dito.
-#v 23 %v E tornando Faraó voltou-se a sua casa, e não pôs seu coração ainda em isto.
-#v 24 %v E ao todo Egito fizeram poços ao redor do rio para beber, porque não podiam beber das águas do rio.
+#v 23 %v E Faraó, tornando, voltou-se a sua casa, e não pôs seu coração ainda nisto.
+#v 24 %v E por todo o Egito fizeram poços ao redor do rio para beber, porque não podiam beber das águas do rio.
 #v 25 %v E cumpriram-se sete dias depois que o SENHOR feriu o rio.
 
 #c 8 %c
-#v 1 %v Então o SENHOR disse a Moisés: Entra à presença de Faraó, e dize-lhe: O SENHOR disse assim: Deixa ir a meu povo, para que me sirvam.
-#v 2 %v E se não o quiseres deixar ir, eis que eu ferirei com rãs todos os teus termos:
-#v 3 %v E o rio criará rãs, as quais subirão, e entrarão em tua casa, e na câmara de tua cama, e sobre tua cama, e nas casas de teus servos, e em teu povo, e em teus fornos, e em tuas amassadeiras:
+#v 1 %v Então o SENHOR disse a Moisés: Entra à presença de Faraó, e dize-lhe: O SENHOR disse assim: Deixa meu povo ir, para que me sirvam.
+#v 2 %v E se não o quiseres deixar ir, eis que ferirei com rãs todo os teu território;
+#v 3 %v E o rio criará rãs, que subirão, e entrarão em tua casa, e no teu quarto, e sobre tua cama, e nas casas de teus servos, e em teu povo, e em teus fornos, e em tuas amassadeiras;
 #v 4 %v E as rãs subirão sobre ti, e sobre teu povo, e sobre todos os teus servos.
 #v 5 %v E o SENHOR disse a Moisés: Dize a Arão: Estende tua mão com tua vara sobre os rios, ribeiros, e tanques, para que faça vir rãs sobre a terra do Egito.
 #v 6 %v Então Arão estendeu sua mão sobre as águas do Egito, e subiram rãs que cobriram a terra do Egito.
 #v 7 %v E os encantadores fizeram o mesmo com seus encantamentos, e fizeram vir rãs sobre a terra do Egito.
-#v 8 %v Então Faraó chamou a Moisés e a Arão, e disse-lhes: Orai ao SENHOR que tire as rãs de mim e de meu povo; e deixarei ir ao povo, para que sacrifique ao SENHOR.
-#v 9 %v E disse Moisés a Faraó: Gloria-te sobre mim: quando orarei por ti, e por teus servos, e por teu povo, para que as rãs sejam tiradas de ti, e de tuas casas, e que somente se restem no rio?
-#v 10 %v E ele disse: Amanhã. E Moisés respondeu: Se fará conforme tua palavra, para que conheças que não há como o SENHOR nosso Deus:
+#v 8 %v Então Faraó chamou Moisés e Arão, e disse-lhes: Orai ao SENHOR que tire as rãs de mim e de meu povo; e deixarei ir ao povo, para que sacrifique ao SENHOR.
+#v 9 %v E disse Moisés a Faraó: Tem a honra em meu lugar #ad de dizer %ad quando orarei por ti, e por teus servos, e por teu povo, para que as rãs sejam tiradas de ti, e de tuas casas, e que somente se restem no rio.
+#v 10 %v E ele disse: Amanhã. E Moisés respondeu: Será feito conforme tua palavra, para que conheças que não há ninguém como o SENHOR nosso Deus;
 #v 11 %v E as rãs se irão de ti, e de tuas casas, e de teus servos, e de teu povo, e somente se ficarão no rio.
-#v 12 %v Então saíram Moisés e Arão da presença de Faraó, e clamou Moisés ao SENHOR sobre o negócio das rãs que havia posto a Faraó.
-#v 13 %v E fez o SENHOR conforme a palavra de Moisés, e morreram as rãs das casas, dos pátios, e dos campos.
+#v 12 %v Então saíram Moisés e Arão da presença de Faraó, e clamou Moisés ao SENHOR acerca das rãs que havia posto a Faraó.
+#v 13 %v E o SENHOR fez conforme a palavra de Moisés, e morreram as rãs das casas, dos pátios, e dos campos.
 #v 14 %v E as juntaram em amontoados, e faziam cheirar mal a terra.
 #v 15 %v E vendo Faraó que lhe haviam dado repouso, agravou seu coração, e não os escutou; como o SENHOR o havia dito.
 #v 16 %v Então o SENHOR disse a Moisés: Dize a Arão: Estende tua vara, e fere o pó da terra, para que se voltem piolhos por todo o país do Egito.
 #v 17 %v E eles o fizeram assim; e Arão estendeu sua mão com sua vara, e feriu o pó da terra, o qual se tornou piolhos, tanto nos homens como nos animais: todo o pó da terra se tornou piolhos ao todo o país do Egito.
-#v 18 %v E os encantadores fizeram assim também, para tirar piolhos com seus encantamentos; mas não puderam. E havia piolhos tanto nos homens como nos animais.
+#v 18 %v E os encantadores tentaram fizeram assim também, para tirar piolhos com seus encantamentos; mas não puderam. E havia piolhos tanto nos homens como nos animais.
 #v 19 %v Então os magos disseram a Faraó: Dedo de Deus é este. Mas o coração de Faraó se endureceu, e não os escutou; como o SENHOR o havia dito.
-#v 20 %v E o SENHOR disse a Moisés: Levanta-te de manhã e põe-te diante de Faraó, eis que ele sai às águas; e dize-lhe: o SENHOR disse assim: Deixa ir a meu povo, para que me sirva.
-#v 21 %v Porque se não deixares ir a meu povo, eis que eu enviarei sobre ti, e sobre teus servos, e sobre teu povo, e sobre tuas casas toda variedade de moscas; e as casas dos egípcios se encherão de toda variedade de moscas, e também a terra onde eles estiverem.
-#v 22 %v E aquele dia eu separarei a terra de Gósen, na qual meu povo habita, para que nenhuma variedade de moscas haja nela; a fim de que saibas que eu sou o SENHOR em meio da terra.
+#v 20 %v E o SENHOR disse a Moisés: Levanta-te de manhã e põe-te diante de Faraó, eis que ele estará saindo às águas; e dize-lhe: o SENHOR disse assim: Deixa meu povo ir, para que me sirva.
+#v 21 %v Porque se não deixares meu povo ir, eis que enviarei sobre ti, e sobre teus servos, e sobre teu povo, e sobre tuas casas toda variedade de moscas; e as casas dos egípcios se encherão de toda variedade de moscas, e também a terra onde eles estiverem.
+#v 22 %v E naquele dia separarei a terra de Gósen, na qual meu povo habita, para que nenhuma variedade de moscas haja nela; a fim de que saibas que eu sou o SENHOR no meio da terra.
 #v 23 %v E eu porei remissão entre meu povo e o teu. Amanhã será este sinal.
-#v 24 %v E o SENHOR o fez assim: que veio toda variedade de moscas incômodas sobre a casa de Faraó, e sobre as casas de seus servos, e sobre todo o país do Egito; e a terra foi contaminada por causa delas.
-#v 25 %v Então Faraó chamou a Moisés e a Arão, e disse-lhes: Andai, sacrificai a vosso Deus na terra.
+#v 24 %v E o SENHOR o fez assim: veio toda variedade de moscas incômodas sobre a casa de Faraó, e sobre as casas de seus servos, e sobre todo o país do Egito; e a terra foi contaminada por causa delas.
+#v 25 %v Então Faraó chamou a Moisés e a Arão, e disse-lhes: Andai, sacrificai a vosso Deus nesta terra.
 #v 26 %v E Moisés respondeu: Não convém que façamos assim, porque sacrificaríamos ao SENHOR nosso Deus a abominação dos egípcios. Eis que, se sacrificássemos a abominação dos egípcios diante deles, não nos apedrejariam?
 #v 27 %v Caminho de três dias iremos pelo deserto, e sacrificaremos ao SENHOR nosso Deus, como ele nos dirá.
-#v 28 %v E disse Faraó: Eu vos deixarei ir para que sacrifiqueis ao SENHOR vosso Deus no deserto, contanto que não vades mais longe: orai por mim.
-#v 29 %v E respondeu Moisés: Eis que, em saindo eu de tua presença, rogarei ao SENHOR que as diversas variedades de moscas se vão de Faraó, e de seus servos, e de seu povo amanhã; contanto que Faraó não falte mais, não deixando ir ao povo a sacrificar ao SENHOR.
+#v 28 %v E disse Faraó: Eu vos deixarei ir para que sacrifiqueis ao SENHOR vosso Deus no deserto, contanto que não vades mais longe; orai por mim.
+#v 29 %v E respondeu Moisés: Eis que, quando eu sair de tua presença, rogarei ao SENHOR que as diversas variedades de moscas se afastem de Faraó, e de seus servos, e de seu povo amanhã; contanto que Faraó não falte mais, não deixando o povo ir sacrificar ao SENHOR.
 #v 30 %v Então Moisés saiu da presença de Faraó, e orou ao SENHOR.
 #v 31 %v E o SENHOR fez conforme a palavra de Moisés; e tirou todas aquelas moscas de Faraó, e de seus servos, e de seu povo, sem que restasse uma.
-#v 32 %v Mas Faraó agravou ainda esta vez seu coração, e não deixou ir ao povo.
+#v 32 %v Mas Faraó agravou ainda esta vez seu coração, e não deixou o povo ir.
 
 #c 9 %c
 #v 1 %v Então o SENHOR disse a Moisés: Entra a Faraó, e dize-lhe: o SENHOR, o Deus dos hebreus, diz assim: Deixa ir a meu povo, para que me sirvam;
@@ -273,92 +273,92 @@
 #v 35 %v E o coração de Faraó se endureceu, e não deixou ir aos filhos de Israel; como o SENHOR o havia dito por meio de Moisés.
 
 #c 10 %c
-#v 1 %v E o SENHOR disse a Moisés: Entra à presença de Faraó; porque eu agravei seu coração, e o coração de seus servos, para dar entre eles estes meus sinais;
-#v 2 %v E para que contes a teus filhos e a teus netos as coisas que eu fiz em Egito, e meus sinais que dei entre eles; e para que saibais que eu sou o SENHOR.
-#v 3 %v Então vieram Moisés e Arão a Faraó, e lhe disseram: O SENHOR, o Deus dos hebreus disse assim: Até quando não quererás humilhar-te diante de mim? Deixa ir a meu povo para que me sirvam.
-#v 4 %v E se ainda recusas deixá-lo ir, eis que eu trarei amanhã gafanhotos em teus termos,
-#v 5 %v Os quais cobrirão a face da terra, de modo que não se possa ver a terra; e ela comerá o que restou salvo, o que vos restou do granizo; comerá também toda árvore que vos produz fruto no campo:
-#v 6 %v E se encherão tuas casas, e as casas de todos os teus servos, e as casas de todos os egípcios, qual nunca viram teus pais nem teus avós, desde que eles foram sobre a terra até hoje. E voltou-se, e saiu da presença de Faraó.
-#v 7 %v Então os servos de Faraó lhe disseram: Até quando nos será este por laço? Deixa ir a estes homens, para que sirvam ao SENHOR seu Deus; ainda não sabes que Egito está destruído?
+#v 1 %v E o SENHOR disse a Moisés: Vai à presença de Faraó; porque agravei o coração dele, e o coração de seus servos, para fazer entre eles estes meus sinais;
+#v 2 %v e para que contes a teus filhos e a teus netos as coisas que eu fiz em Egito, e meus sinais que realizei entre eles; e para que saibais que eu sou o SENHOR.
+#v 3 %v Então vieram Moisés e Arão a Faraó, e lhe disseram: O SENHOR, o Deus dos hebreus disse assim: Até quando não quererás te humilhar diante de mim? Deixa ir a meu povo para que me sirvam.
+#v 4 %v E se ainda recusas deixá-lo ir, eis que trarei amanhã gafanhotos em teu território,
+#v 5 %v os quais cobrirão a face da terra, de modo que não se possa ver a terra; e ela comerá o que restou salvo, o que vos restou do granizo; comerão também toda árvore que vos produz fruto no campo;
+#v 6 %v e encherão tuas casas, e as casas de todos os teus servos, e as casas de todos os egípcios, que nunca viram teus pais nem teus avós, desde que eles existiram sobre a terra até hoje. E voltou-se, e saiu da presença de Faraó.
+#v 7 %v Então os servos de Faraó lhe disseram: Até quando este nos será por laço? Deixa ir a estes homens, para que sirvam ao SENHOR seu Deus; ainda não sabes que Egito está destruído?
 #v 8 %v E Moisés e Arão voltaram a ser chamados a Faraó, o qual lhes disse: Andai, servi ao SENHOR vosso Deus. Quem e quem são os que irão?
-#v 9 %v E Moisés respondeu: Iremos com nossos meninos e com nossos velhos, com nossos filhos e com nossas filhas: com nossas ovelhas e com nossas vacas temos de ir; porque temos solenidade do SENHOR.
-#v 10 %v E ele lhes disse: Assim seja o SENHOR convosco como eu vos deixarei ir a vós e a vossos meninos: olhai como o mal está diante de vosso rosto.
-#v 11 %v Não será assim: ide agora vós os homens, e servi ao SENHOR: pois isto é o que vós pedistes. E expulsaram-nos de diante de Faraó.
+#v 9 %v E Moisés respondeu: Iremos com nossos meninos e com nossos idosos, com nossos filhos e com nossas filhas; iremos com nossas ovelhas e com nossas vacas, porque temos solenidade do SENHOR.
+#v 10 %v E ele lhes disse: Assim esteja o SENHOR convosco se eu vos deixar ir a vós e a vossos meninos; olhai como o mal está diante de vosso rosto.
+#v 11 %v Não será assim: ide agora vós, os homens, e servi ao SENHOR; pois isto é o que vós pedistes. E eles foram expulsos de diante de Faraó.
 #v 12 %v Então o SENHOR disse a Moisés: Estende tua mão sobre a terra do Egito para gafanhotos, a fim de que subam sobre o país do Egito, e consumam tudo o que o granizo deixou.
-#v 13 %v E estendeu Moisés sua vara sobre a terra do Egito, e o SENHOR trouxe um vento oriental sobre o país todo aquele dia e toda aquela noite; e à manhã o vento oriental trouxe os gafanhotos:
-#v 14 %v E os gafanhotos subiram sobre toda a terra do Egito, e pousaram em todos os termos do Egito, em grande maneira grave: antes dela não houve gafanhotos semelhantes, nem depois deles vieram outros tais;
-#v 15 %v E cobriram a face de todo o país, e escureceu-se a terra; e consumiram toda a erva da terra, e todo o fruto das árvores que havia deixado o granizo; que não restou coisa verde em árvores nem em erva do campo, por toda a terra do Egito.
+#v 13 %v E estendeu Moisés sua vara sobre a terra do Egito, e o SENHOR trouxe um vento oriental sobre o país todo aquele dia e toda aquela noite; e na manhã o vento oriental trouxe os gafanhotos;
+#v 14 %v E os gafanhotos subiram sobre toda a terra do Egito, e pousaram em todos os termos do Egito, em gravíssima maneira; antes dela não houve gafanhotos semelhantes, nem depois deles vieram outros tais;
+#v 15 %v E cobriram a face de todo o país, e escureceu-se a terra; e consumiram toda a erva da terra, e todo o fruto das árvores que o granizo havia deixado; que não restou coisa verde em árvores nem em erva do campo, por toda a terra do Egito.
 #v 16 %v Então Faraó fez chamar depressa a Moisés e a Arão, e disse: Pequei contra o SENHOR vosso Deus, e contra vós.
 #v 17 %v Mas rogo agora que perdoes meu pecado somente esta vez, e que oreis ao SENHOR vosso Deus que tire de mim somente esta morte.
 #v 18 %v E saiu da presença de Faraó, e orou ao SENHOR.
-#v 19 %v E o SENHOR voltou um vento ocidental fortíssimo, e tirou os gafanhotos, e lançou-os no mar Vermelho: nem um gafanhoto restou ao todo o termo do Egito.
+#v 19 %v E o SENHOR voltou um vento ocidental fortíssimo, e tirou os gafanhotos, e lançou-os ao mar Vermelho; nem um gafanhoto restou ao todo o território do Egito.
 #v 20 %v Mas o SENHOR endureceu o coração de Faraó; e não permitiu a saída dos filhos de Israel.
-#v 21 %v E o SENHOR disse a Moisés: Estende tua mão até o céu, para que haja trevas sobre a terra do Egito, tais que qualquer um as apalpe.
-#v 22 %v E estendeu Moisés sua mão até o céu, e houve densas trevas três dias por toda a terra do Egito.
-#v 23 %v Nenhum viu a seu próximo, nem ninguém se levantou de seu lugar em três dias; mas todos os filhos de Israel tinham luz em suas habitações.
-#v 24 %v Então Faraó fez chamar a Moisés, e disse: Ide, servi ao SENHOR; somente restem vossas ovelhas e vossas vacas: vão também vossos meninos convosco.
-#v 25 %v E Moisés respondeu: Tu também nos entregarás sacrifícios e holocaustos que sacrifiquemos ao SENHOR nosso Deus.
-#v 26 %v Nossos gados irão também conosco; não ficará nem uma una; porque deles tomaremos para servir ao SENHOR nosso Deus; e não sabemos com que serviremos ao SENHOR, até que cheguemos ali.
+#v 21 %v E o SENHOR disse a Moisés: Estende tua mão até o céu, para que haja trevas sobre a terra do Egito, tão intensas que qualquer um as apalpe.
+#v 22 %v E estendeu Moisés sua mão até o céu, e houve densas durante trevas três dias por toda a terra do Egito.
+#v 23 %v Nenhum podia ver seu próximo, nem ninguém se levantou de seu lugar em três dias; mas todos os filhos de Israel tinham luz em suas habitações.
+#v 24 %v Então Faraó fez chamar a Moisés, e disse: Ide, servi ao SENHOR; somente restem vossas ovelhas e vossas vacas; vão também vossas crianças convosco.
+#v 25 %v E Moisés respondeu: Tu também nos entregarás sacrifícios e holocaustos para que sacrifiquemos ao SENHOR nosso Deus.
+#v 26 %v Nossos gados irão também conosco; não ficará nem uma casco; porque deles tomaremos para servir ao SENHOR nosso Deus; e não sabemos com que serviremos ao SENHOR, até que cheguemos ali.
 #v 27 %v Mas o SENHOR endureceu o coração de Faraó, e não quis deixá-los ir.
-#v 28 %v E disse-lhe Faraó: Retira-te de mim: guarda-te que não vejas mais meu rosto, porque em qualquer dia que vires meu rosto, morrerás.
+#v 28 %v E disse-lhe Faraó: Retira-te de mim; guarda-te que não vejas mais meu rosto, porque em qualquer dia que vires meu rosto, morrerás.
 #v 29 %v E Moisés respondeu: Bem disseste; não verei mais teu rosto.
 
 #c 11 %c
 #v 1 %v E o SENHOR disse a Moisés: Uma praga trarei ainda sobre Faraó, e sobre o Egito; depois da qual ele vos deixará ir daqui; e seguramente vos expulsará daqui de todo.
 #v 2 %v Fala agora ao povo, e que cada um peça a seu vizinho, e cada uma à sua vizinha, objetos de prata e de ouro.
-#v 3 %v E o SENHOR deu favor ao povo nos olhos dos egípcios. Também Moisés era muito grande homem na terra do Egito, aos olhos dos servos de Faraó, e aos olhos do povo.
+#v 3 %v E o SENHOR fez o povo ser favorecido aos olhos dos egípcios. Também Moisés era muito grande homem na terra do Egito, aos olhos dos servos de Faraó, e aos olhos do povo.
 #v 4 %v E disse Moisés: o SENHOR disse assim: À meia noite eu sairei por meio do Egito,
-#v 5 %v E morrerá todo primogênito em terra do Egito, desde o primogênito de Faraó que se assenta em seu trono, até o primogênito da serva que está atrás do moinho; e todo primogênito dos animais.
+#v 5 %v E morrerá todo primogênito na terra do Egito, desde o primogênito de Faraó que se assenta em seu trono, até o primogênito da serva que está atrás do moinho; e todo primogênito dos animais.
 #v 6 %v E haverá grande clamor por toda a terra do Egito, qual nunca foi, nem jamais será.
-#v 7 %v Mas entre todos os filhos de Israel, desde o homem até o animal, nem um cão moverá sua língua: para que saibais que fará diferença o SENHOR entre os egípcios e os israelitas.
+#v 7 %v Mas entre todos os filhos de Israel, desde o homem até o animal, nem um cão moverá sua língua; para que saibais que o SENHOR fará diferença entre os egípcios e os israelitas.
 #v 8 %v E descerão a mim todos estes teus servos, e inclinados diante de mim dirão: Sai tu, e todo o povo que está abaixo de ti; e depois disto eu sairei. E saiu-se muito irado da presença de Faraó.
 #v 9 %v E o SENHOR disse a Moisés: Faraó não vos ouvirá, para que minhas maravilhas se multipliquem na terra do Egito.
-#v 10 %v E Moisés e Arão fizeram todos estes prodígios diante de Faraó: mas o SENHOR havia endurecido o coração de Faraó, e não enviou aos filhos de Israel fora de seu país.
+#v 10 %v E Moisés e Arão fizeram todos estes prodígios diante de Faraó: mas o SENHOR havia endurecido o coração de Faraó, e não permitiu que os filhos de Israel saíssem de seu país.
 
 #c 12 %c
 #v 1 %v E falou o SENHOR a Moisés e a Arão na terra do Egito, dizendo:
-#v 2 %v Este mês vos será princípio dos meses; será este para vós o primeiro nos meses do ano.
-#v 3 %v Falai a toda a congregação de Israel, dizendo: No dez deste mês tome para si cada um um cordeiro pelas famílias dos pais, um cordeiro por família:
-#v 4 %v Mas se a família for pequena que não baste a comer o cordeiro, então tomará a seu vizinho imediato à sua casa, e segundo o número das pessoas, cada um conforme seu comer, lançareis a conta sobre o cordeiro.
-#v 5 %v O cordeiro será sem defeito, macho de ano: vós o tomareis das ovelhas ou das cabras:
-#v 6 %v E haveis de guardá-lo até o dia catorze deste mês; e o imolará toda a congregação do povo de Israel entre as duas tardes.
-#v 7 %v E tomarão do sangue, e porão nos dois postes e na verga das casas em que o comerão.
-#v 8 %v E aquela noite comerão a carne assada ao fogo, e pães sem levedura: com ervas amargas o comerão.
+#v 2 %v Este mês vos será o princípio dos meses; será este para vós o primeiro nos meses do ano.
+#v 3 %v Falai a toda a congregação de Israel, dizendo: No #ad dia %ad dez deste mês tome para si cada um um cordeiro pelas famílias dos pais, um cordeiro por família:
+#v 4 %v Mas se a família for pequena que não seja capaz de comer o cordeiro inteiro, então tomará a seu vizinho imediato à sua casa, e segundo o número das pessoas, cada um conforme seu comer, fareis a conta sobre o cordeiro.
+#v 5 %v O cordeiro será sem defeito, macho de um ano; vós o tomareis das ovelhas ou das cabras:
+#v 6 %v E o guardareis até o dia catorze desse mês; e toda a congregação do povo de Israel o imolará ao entardecer. #fn _c Lit. entre as duas tardes %fn
+#v 7 %v E tomarão do sangue, e o porão nos dois postes e na verga das casas em que o comerão.
+#v 8 %v E naquela noite comerão a carne assada ao fogo, e pães sem levedura; com ervas amargas o comerão.
 #v 9 %v Nenhuma coisa comereis dele crua, nem cozida em água, mas sim assada ao fogo; sua cabeça com seus pés e seus intestinos.
-#v 10 %v Nenhuma coisa deixareis dele até a manhã; e o que haverá restado até a manhã, queimareis no fogo.
-#v 11 %v E assim haveis de comê-lo: cingidos vossos lombos, vossos sapatos em vossos pés, e vosso bordão em vossa mão; e o comereis apressadamente: é a Páscoa do SENHOR.
-#v 12 %v Pois eu passarei aquela noite pela terra do Egito, e ferirei a todo primogênito na terra do Egito, tanto nos homens como nos animais: e farei juízos em todos os deuses do Egito. EU SOU O SENHOR.
+#v 10 %v Nenhuma coisa deixareis dele até a manhã; e o que houver restado até a manhã, queimareis no fogo.
+#v 11 %v E assim tereis de comê-lo: cingidos vossos lombos, vossos calçados em vossos pés, e vosso bordão em vossa mão; e o comereis apressadamente: é a Páscoa do SENHOR.
+#v 12 %v Pois eu passarei naquela noite pela terra do Egito, e ferirei todo primogênito na terra do Egito, tanto nos homens como nos animais; e executarei juízos em todos os deuses do Egito. EU SOU O SENHOR.
 #v 13 %v E o sangue vos será por sinal nas casas onde vós estejais; e verei o sangue, e passarei de vós, e não haverá em vós praga de mortandade, quando ferirei a terra do Egito.
-#v 14 %v E hoje vos será em memória, e haveis de celebrá-lo como solene ao SENHOR durante vossas gerações: por estatuto perpétuo o celebrareis.
-#v 15 %v Sete dias comereis pães sem levedura; e assim o primeiro dia fareis que não haja levedura em vossas casas: porque qualquer um que comer levedado desde o primeiro dia até o sétimo, aquela alma será cortada de Israel.
-#v 16 %v O primeiro dia haverá santa convocação, e também no sétimo dia tereis uma santa convocação: nenhuma obra se fará neles, exceto somente que prepareis o que cada qual houver de comer.
+#v 14 %v E hoje vos será em memória, e tereis de celebrá-lo como solenidade ao SENHOR durante vossas gerações; por estatuto perpétuo o celebrareis.
+#v 15 %v Sete dias comereis pães sem levedura; e assim o primeiro dia fareis que não haja levedura em vossas casas; porque qualquer um que comer levedado desde o primeiro dia até o sétimo, aquela alma será eliminada de Israel.
+#v 16 %v No primeiro dia haverá santa convocação, e também no sétimo dia tereis uma santa convocação; nenhuma obra se fará neles, exceto somente que prepareis o que cada qual houver de comer.
 #v 17 %v E guardareis a festa dos pães ázimos, porque em este mesmo dia tirei vossos exércitos da terra do Egito: portanto guardareis hoje em vossas gerações por costume perpétuo.
 #v 18 %v No mês primeiro, o dia catorze do mês pela tarde, comereis os pães sem levedura, até o vinte e um do mês pela tarde.
-#v 19 %v Por sete dias não se achará levedura em vossas casas, porque qualquer um que comer levedado, tanto estrangeiro como natural do país, aquela alma será cortada da congregação de Israel.
+#v 19 %v Por sete dias não se achará levedura em vossas casas, porque qualquer um que comer algo levedado, tanto estrangeiro como natural do país, aquela alma será eliminada da congregação de Israel.
 #v 20 %v Nenhuma coisa levedada comereis; em todas as vossas habitações comereis pães sem levedura.
 #v 21 %v E Moisés convocou a todos os anciãos de Israel, e disse-lhes: Tirai, e tomai para vós cordeiros por vossas famílias, e sacrificai a páscoa.
 #v 22 %v E tomai um molho de hissopo, e molhai-lhe no sangue que estará em uma bacia, e untai a verga e os dois postes com o sangue que estará na bacia; e nenhum de vós saia das portas de sua casa até a manhã.
-#v 23 %v Porque o SENHOR passará ferindo aos egípcios; e quando vir o sangue na verga e nos dois postes, passará o SENHOR aquela porta, e não deixará entrar ao feridor em vossas casas para ferir.
+#v 23 %v Porque o SENHOR passará ferindo os egípcios; e quando vir o sangue na verga e nos dois postes, passará o SENHOR aquela porta, e não deixará entrar o feridor em vossas casas para ferir.
 #v 24 %v E guardareis isto por estatuto para vós e para vossos filhos para sempre.
-#v 25 %v E será, quando houverdes entrado na terra que o SENHOR vos dará, como tem falado, que guardareis este rito.
-#v 26 %v E quando vos disserem vossos filhos: Que rito é este vosso?
-#v 27 %v Vós respondereis: É o sacrifício da Páscoa do SENHOR, o qual passou as casas dos filhos de Israel no Egito, quando feriu aos egípcios, e livrou nossas casas. Então o povo se inclinou e adorou.
-#v 28 %v E os filhos de Israel se foram, e fizeram exatamente assim; como o SENHOR havia mandado a Moisés e a Arão.
-#v 29 %v E aconteceu que à meia-noite o SENHOR feriu a todo primogênito na terra do Egito, desde o primogênito de Faraó que se sentava sobre seu trono, até o primogênito do cativo que estava no cárcere, e todo primogênito dos animais.
-#v 30 %v E levantou-se aquela noite Faraó, ele e todos os seus servos, e todos os egípcios; e havia um grande clamor no Egito, porque não havia casa onde não houvesse morto.
+#v 25 %v E será que quando houverdes entrado na terra que o SENHOR vos dará, como tem falado, que guardareis este rito.
+#v 26 %v E quando vos perguntarem vossos filhos: Que rito é este vosso?
+#v 27 %v Respondereis: É o sacrifício da Páscoa do SENHOR, que passou nas casas dos filhos de Israel no Egito, quando feriu os egípcios, e livrou nossas casas. Então o povo se inclinou e adorou.
+#v 28 %v E os filhos de Israel se foram, e fizeram exatamente assim, como o SENHOR havia mandado a Moisés e a Arão.
+#v 29 %v E aconteceu que à meia-noite o SENHOR feriu todo primogênito na terra do Egito, desde o primogênito de Faraó que se sentava sobre seu trono, até o primogênito do prisioneiro que estava no cárcere, e todo primogênito dos animais.
+#v 30 %v E levantou-se naquela noite Faraó, ele e todos os seus servos, e todos os egípcios; e havia um grande clamor no Egito, porque não havia casa onde não houvesse morto.
 #v 31 %v E fez chamar a Moisés e a Arão de noite, e disse-lhes: Saí do meio de meu povo vós, e os filhos de Israel; e ide, servi ao SENHOR, como dissestes.
 #v 32 %v Tomai também vossas ovelhas e vossas vacas, como dissestes, e ide; e abençoai também a mim.
-#v 33 %v E os egípcios apressavam ao povo, dando pressa a expulsá-los da terra; porque diziam: Todos somos mortos.
+#v 33 %v E os egípcios apressavam ao povo, dando pressa a expulsá-los da terra; porque diziam: Todos seremos mortos.
 #v 34 %v E levou o povo sua massa antes que se levedasse, suas massas envoltas em suas mantas sobre seus ombros.
 #v 35 %v E fizeram os filhos de Israel conforme o mandamento de Moisés, pedindo aos egípcios objetos de prata, e objetos de ouro, e roupas.
-#v 36 %v E o SENHOR deu favor ao povo diante dos egípcios, e deram-lhes; e eles despojaram aos egípcios.
+#v 36 %v E o SENHOR deu favor ao povo diante dos egípcios, e deram-lhes; e eles despojaram os egípcios.
 #v 37 %v E partiram os filhos de Israel de Ramessés a Sucote, como seiscentos mil homens a pé, sem contar os meninos.
 #v 38 %v E também subiu com eles grande multidão de diversa variedade de gentes; e ovelhas, e gados muito muitos.
 #v 39 %v E cozeram tortas sem levedura da massa que haviam tirado do Egito; porque não havia levedado, porquanto expulsando-os os egípcios, não haviam podido deter-se, nem ainda preparar para si comida.
-#v 40 %v O tempo que os filhos de Israel habitaram no Egito, foi quatrocentos trinta anos.
-#v 41 %v E passados quatrocentos trinta anos, no mesmo dia saíram todos os exércitos do SENHOR da terra do Egito.
+#v 40 %v O tempo que os filhos de Israel habitaram no Egito foi quatrocentos e trinta anos.
+#v 41 %v E passados quatrocentos e trinta anos, no mesmo dia saíram todos os exércitos do SENHOR da terra do Egito.
 #v 42 %v É noite de guardar ao SENHOR, por havê-los tirado nela da terra do Egito. Esta noite devem guardar ao SENHOR todos os filhos de Israel em suas gerações.
-#v 43 %v E o SENHOR disse a Moisés e a Arão: Esta é a ordenança da Páscoa: Nenhum estrangeiro comerá dela:
+#v 43 %v E o SENHOR disse a Moisés e a Arão: Esta é a ordenança da Páscoa: Nenhum estrangeiro comerá dela;
 #v 44 %v Mas todo servo humano comprado por dinheiro, comerá dela depois que o houveres circuncidado.
 #v 45 %v O estrangeiro e o assalariado não comerão dela.
 #v 46 %v Em uma casa se comerá, e não levarás daquela carne fora de casa, nem quebrareis osso seu.
@@ -366,7 +366,7 @@
 #v 48 %v Mas se algum estrangeiro peregrinar contigo, e quiser fazer a páscoa ao SENHOR, seja-lhe circuncidado todo homem, e então se chegará a fazê-la, e será como o natural da terra; mas nenhum incircunciso comerá dela.
 #v 49 %v A mesma lei será para o natural e para o estrangeiro que peregrinar entre vós.
 #v 50 %v Assim o fizeram todos os filhos de Israel; como mandou o SENHOR a Moisés e a Arão, assim o fizeram.
-#v 51 %v E naquele mesmo dia tirou o SENHOR aos filhos de Israel da terra do Egito por seus esquadrões.
+#v 51 %v E naquele mesmo dia o SENHOR tirou os filhos de Israel da terra do Egito, agrupados em seus esquadrões.
 
 #c 13 %c
 #v 1 %v E o SENHOR falou a Moisés, dizendo:

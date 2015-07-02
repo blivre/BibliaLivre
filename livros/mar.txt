@@ -1,7 +1,7 @@
 ﻿#header
 #name Evangelho Segundo Marcos %name
 #snm Marcos %snm
-#ver 20150113 %ver
+#ver 20150617 %ver
 #abbr Mc %abbr
 %header
 
@@ -334,7 +334,7 @@ Quando souberam, disseram:
  Cinco, e dois peixes.
 #v 39 %v E mandou-lhes que fizessem sentar a todos em grupos sobre a grama verde.
 #v 40 %v E sentaram-se repartidos de cem em cem, e de cinquenta em cinquenta.
-#v 41 %v Ele tomous os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos {tr,rp:seus}{trnc: #fn _c N4 omite “seus” %fn } discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos.
+#v 41 %v Ele tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos {tr,rp:seus}{trnc: #fn _c N4 omite “seus” %fn } discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos.
 #v 42 %v Todos comeram e se saciaram.
 #v 43 %v E dos pedaços de pão e dos peixes levantaram doze cestos cheios.
 #v 44 %v Os que comeram os pães eram {tr:quase}{trnc: #fn _c RP, N4 omitem “quase” %fn} cinco mil homens.
@@ -348,31 +348,31 @@ Quando souberam, disseram:
 #v 51 %v E subiu a eles no barco, e o vento se aquietou. Eles ficaram muito espantados {tr,rp:e maravilhados}{trnc: #fn _c N4 omite “maravilhados” %fn} entre si,
 #v 52 %v pois não haviam entendido o que tinha acontecido com os pães, {tr,rp:porque}{n4:em vez disso} o coração deles estava endurecido.
 #v 53 %v Eles terminaram de atravessar o mar, chegaram à terra de Genesaré, e ali aportaram.
-#v 54 %v E saindo eles do barco, logo o reconheceram.
+#v 54 %v Quando eles saíram do barco, logo #ad as pessoas %ad o reconheceram.
 #v 55 %v Então gente de toda a região em redor veio correndo, e começaram a trazer em camas os doentes, aonde quer que ouviam que ele estava.
-#v 56 %v E aonde quer que ele entrava, em povoados, cidades, ou aldeias, punham os enfermos nas praças, e rogavam-lhe que ao menos tocassem a borda de sua roupa; e todos os que o tocavam, saravam.
+#v 56 %v E aonde quer que ele entrava, em povoados, cidades, ou aldeias, colocavam os enfermos nas praças, e rogavam-lhe que ao menos tocassem a borda de sua roupa; e todos os que o tocavam ficavam sarados.
 
 #c 7 %c
-#v 1 %v Reuniram-se com ele os fariseus, e alguns dos escribas, que tinham vindo de Jerusalém.
+#v 1 %v Os fariseus, e alguns dos escribas, que tinham vindo de Jerusalém, reuniram-se com ele.
 #v 2 %v E{tr,rp:, quando} viram que alguns dos discípulos dele comiam pão com mãos impuras, isto é, sem lavar{tr,rp:, repreendiam-lhes}.{trnc: #fn _c N4 omite “repreendiam-lhes” %fn}
 #v 3 %v (Pois os fariseus, e todos os judeus, mantendo a tradição dos antigos, se não lavarem bastante as mãos, não comem.
-#v 4 %v E, quando voltam da rua, se não se lavarem, não comem; e há muitas outras coisas que se encarregam deguardar, #ad como %ad lavar os copos, as vasilhas, {n4: e} os utensílios de metal{tr,rp:, e os leitos}). {trnc: #fn _c N4 omite “e os leitos” %fn }
+#v 4 %v E, quando voltam da rua, se não se lavarem, não comem; e há muitas outras coisas que se encarregam de guardar, #ad como %ad lavar os copos, as vasilhas, {n4: e} os utensílios de metal{tr,rp:, e os leitos}). {trnc: #fn _c N4 omite “e os leitos” %fn }
 #v 5 %v Depois os fariseus e os escribas lhe perguntaram:
  Por que os teus discípulos não andam conforme a tradição dos antigos, em vez de comerem pão com as mãos {tr,rp:sem lavar}{n4:impuras}?{trnc: #fn _c TR, RP: sem lavar - N4: impuras %fn}
 #v 6 %v E ele lhes respondeu:
  Bem profetizou Isaías acerca de vós, hipócritas! Como está escrito: 
  Este povo me honra com os lábios, mas o seu coração está longe de mim.
-#v 7 %v Eles, porém, me honram em vão, ensinando #ad como %ad doutrinas mandamentos humanos. #ref _d Isaías 29:13 %ref
+#v 7 %v Eles, porém, me honram em vão, ensinando como doutrinas mandamentos humanos. #ref _d Isaías 29:13 %ref
 #v 8 %v {tr,rp:Pois{trnc: #fn _c N4 omite “Pois” %fn} vós}{n4:Vós} deixais o mandamento de Deus, e mantendes a tradição humana{tr,rp:, #ad como %ad lavar as vasilhas e os copos; e fazeis muitas outras  coisas semelhantes a estas}.{trnc: #fn _c N4 omite " #ad como %ad o lavar (...) semelhantes a estas %fn }{n4: #fn _c RP, TR adicionam “ #ad como %ad o lavar das vasilhas, e dos copos; e fazeis outras muitas coisas semelhantes a estas” no final do versículo %fn }
 #v 9 %v E dizia-lhes:
  Vós dispensais o mandamento de Deus para guardardes a vossa tradição;
 #v 10 %v porque Moisés disse:
- Honra o teu pai, e a tua mãe. E quem maldisser ao pai ou à mãe terá de morrer.
+ Honra o teu pai e a tua mãe. E quem maldisser ao pai ou à mãe terá de morrer.
 #v 11 %v Mas vós dizeis:
  Se o homem disser ao pai ou à mãe: 
  Tudo o que te puder aproveitar de mim é corbã (isto é, oferta), 
 #v 12 %v então não lhe deixais mais nada fazer por seu pai ou por sua mãe.
-#v 13 %v Assim dispensais a palavra de Deus por vossa tradição, que vós ordenastes; e #ad fazeis %ad muitas coisas semelhantes a estas.
+#v 13 %v Assim invalidaias a palavra de Deus por vossa tradição, que ordenastes; e #ad fazeis %ad muitas coisas semelhantes a estas.
 #v 14 %v E chamando para si toda a multidão, disse-lhes:
  Ouvi-me todos, e entendei:
 #v 15 %v Nada há fora do ser humano que nele entre que o possa contaminar; mas o que dele sai, isso é o que contamina o ser humano.
@@ -380,7 +380,7 @@ Quando souberam, disseram:
 #v 17 %v Quando #ad Jesus % deixou a multidão e entrou em casa, seus discípulos lhe perguntaram sobre a parábola.
 #v 18 %v E ele lhes disse:
  Também vós estais assim sem entendimento? Não entendeis que tudo o que de fora entra no ser humano não o pode contaminar?
-#v 19 %v Pois não entra no seu coração, mas, sim, no ventre, e sai para a privada; portanto, todas as comidas são “limpas”.
+#v 19 %v Pois não entra no seu coração, mas, sim, no ventre, e sai para a privada. (Assim, ele declarou como limpas todas as comidas).
 #v 20 %v E dizia:
  O que sai do ser humano, isso contamina o ser humano.
 #v 21 %v Pois é de dentro do coração humano que vêm os maus pensamentos, {tr,rp:os adultérios,} os pecados sexuais, {n4:os roubos, } os homicídios, {n4:os adultérios,}
@@ -392,7 +392,7 @@ Quando souberam, disseram:
 #v 27 %v Mas {n4:#ad} Jesus {n4:%ad}{trnc: #fn _c N4 omite “Jesus” %fn } lhe disse:
  Deixa primeiro que os filhos se fartem; porque não é bom tomar o pão dos filhos, e lançá-lo aos cachorrinhos.
 #v 28 %v Porém ela lhe respondeu:
- Sim Senhor; mas também os cachorrinhos comem debaixo da mesa, das migalhas dos filhos.
+ Sim Senhor; mas também os cachorrinhos comem debaixo da mesa, das migalhas que os filhos deixam.
 #v 29 %v Então ele lhe disse:
  Por esta palavra, vai, o demônio já saiu da tua filha.
 #v 30 %v Quando ela chegou à sua casa, encontrou que o demônio já havia saído, e a {tr,rp:filha}{n4:criança}{trnc: #fn _c N4: criança  %fn } estava deitada sobre a cama.
@@ -410,16 +410,16 @@ Quando souberam, disseram:
 #c 8 %c
 #v 1 %v Naqueles dias, quando havia {n4:de novo} uma multidão {tr,rp:muito grande}{trnc: #fn _c TR, RP: multidão muito grande - N4: de novo uma multidão %fn}, e não tinham o que comer, {n4:#ad} Jesus {n4:%ad} {trnc: #fn _c N4 omite “Jesus” %fn } chamou os {tr,rp:seus}{trnc: #fn _c N4 omite “seus” %fn} discípulos a si, e disse-lhes:
 #v 2 %v Tenho compaixão da multidão, porque já há três dias que estão comigo, e não têm o que comer.
-#v 3 %v E seu eu os deixar ir sem comer para suas casas desmaiarão no caminho; {tr,rp:porque}{n4:e}{trnc: #fn _c N4:e %fn } alguns deles vieram de longe.
+#v 3 %v E se eu os deixar ir sem comer para suas casas desmaiarão no caminho; {tr,rp:porque}{n4:e}{trnc: #fn _c N4:e %fn } alguns deles vieram de longe.
 #v 4 %v Os seus discípulos lhe responderam:
  De onde poderá alguém saciar estes de pão aqui no deserto?
 #v 5 %v #ad Jesus %ad lhes perguntou:
  Quantos pães tendes? 
 E eles disseram: 
  Sete.
-#v 6 %v Então mandou à multidão que se sentassem pelo chão. Em seguida, tomou os sete pães, e tendo dado graças, partiu-os, e os deu a seus discípulos, para que os pusessem diante deles. E eles os puseram diante da multidão.
+#v 6 %v Então mandou à multidão que se sentassem no chão. Em seguida, tomou os sete pães, e tendo dado graças, partiu-os, e os deu a seus discípulos, para que os pusessem diante deles. E eles os puseram diante da multidão.
 #v 7 %v E tinham uns poucos peixinhos, e havendo dado graças, disse que também os pusessem diante deles.
-#v 8 %v Eles comeram, e se fartaram; e levantaram, do que sobrou dos pedaços, sete cestos.
+#v 8 %v Eles comeram, e se saciaram; e levantaram, do que sobrou dos pedaços, sete cestos.
 #v 9 %v Os que comeram eram quase quatro mil. Depois os despediu.
 #v 10 %v E logo entrou no barco com os seus discípulos, e veio para a região de Dalmanuta.
 #v 11 %v Os fariseus vieram, e começaram a disputar com ele, pedindo-lhe sinal do céu, para o testar.
@@ -461,7 +461,7 @@ Pedro lhe respondeu:
 #v 31 %v E começou a lhes ensinar que era necessário que o Filho do homem sofresse muito, e fosse rejeitado pelos anciãos e pelos chefes dos sacerdotes e escribas, e que fosse morto, e depois de três dias ressuscitasse.
 #v 32 %v Ele dizia essa palavra abertamente. Então Pedro o tomou à parte, e começou a repreendê-lo.
 #v 33 %v Mas #ad Jesus %ad virou-se e, olhando para os seus discípulos, repreendeu Pedro, dizendo:
- Sai de diante de mim, Satanás! Pois tu não compreendes as coisas de Deus, mas sim as humanas.
+ Sai de diante de mim, satanás! Pois tu não compreendes as coisas de Deus, mas sim as humanas.
 #v 34 %v Então chamou a si a multidão com os seus discípulos, e disse-lhes:
  {tr,rp:Quem}{n4:Se alguém}{trnc: #fn _c N4: Se algúem %fn} quiser {tr:vir após mim}{rp,n4:me seguir}, {trnc: #fn _c RP, N4: me seguir %fn} negue a si mesmo, tome a sua cruz, e siga-me;
 #v 35 %v pois quem quiser salvar a sua vida, a perderá; mas quem perder a sua vida por causa de mim e do Evangelho, esse a salvará.
@@ -484,7 +484,7 @@ Pedro lhe respondeu:
 #v 9 %v Enquanto desciam do monte, #ad Jesus %ad lhes mandou que a ninguém contassem o que haviam visto, até que o Filho do homem ressuscitasse dos mortos.
 #v 10 %v E eles guardaram o caso entre si, perguntando uns aos outros o que seria aquilo de “ressuscitar dos mortos”.
 #v 11 %v Então lhe perguntaram:
- Por que os Escribas dizem que Elias tem que vir primeiro?
+ Por que os escribas dizem que Elias tem que vir primeiro?
 #v 12 %v E ele lhes respondeu:
  De fato Elias vem primeiro, e restaura todas as coisas. Então, como está escrito sobre o Filho do homem tem que sofrer muito, e ser desprezado?
 #v 13 %v Porém eu vos digo que Elias já veio, e fizeram-lhe tudo o que quiseram, como está escrito sobre ele.
@@ -516,87 +516,86 @@ E ele lhe disse:
 #v 29 %v E lhes respondeu:
  Este tipo não pode sair por coisa alguma, a não ser com oração {tr,rp: e jejum}. {trnc: #fn _c N4 omite “e jejum” %fn } {n4: #fn _c TR, RP acrescentam “e jejum” %fn }
 #v 30 %v Depois partiram dali, e caminharam pela Galileia. Mas #ad Jesus %ad não queria que ninguém soubesse,
-
 #v 31 %v Porque ensinava a seus discípulos, e lhes dizia:
- O Filho do homem será entregue em mãos dos homens, e o matarão; e #ad estando %ad ele morto, ressuscitará ao terceiro dia.
+ O Filho do homem será entregue em mãos de homens, e o matarão; e #ad estando %ad ele morto, ressuscitará ao terceiro dia.
 #v 32 %v Mas eles não entendiam esta palavra, e temiam lhe perguntar.
 #v 33 %v E veio a Cafarnaum, e entrando em casa, perguntou-lhes:
- Que questionais entre vós pelo caminho?
+ Que indagais entre vós pelo caminho?
 #v 34 %v Mas eles se calaram; porque eles haviam discutido uns com os outros pelo caminho, qual #ad deles seria %ad o maior.
 #v 35 %v E sentando-se ele, chamou aos doze, e disse-lhes:
  Se alguém quiser ser o primeiro, seja o últimos de todos, e servo de todos.
 #v 36 %v E tomando um menino, ele o pôs no meio deles, e tomando-o entre seus braços, disse-lhes:
 #v 37 %v Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não #ad somente %ad recebe a mim, mas #ad também %ad ao que me enviou.
 #v 38 %v E respondeu-lhe João, dizendo:
- Mestre, temos visto a um, que em teu nome expulsava aos demônios, o qual não nos segue; e nós o proibimos, porque não nos segue.
+ Mestre, vimos um que em teu nome expulsava os demônios, e ele não nos segue. Então o proibimos, porque não nos segue.
 #v 39 %v Porém Jesus disse:
- Não o proibais; porque ninguém há que faça milagre em meu nome, e logo possa dizer mal de mim.
-#v 40 %v Porque quem não é contra nós, é por nós.
-#v 41 %v Porque qualquer que vos der um pequeno vaso de água para beber em meu nome, porque sois de Cristo, em verdade vos digo, que não perderá sua recompensa.
+ Não o proibais; porque ninguém há que faça milagre em meu nome, e logo possa falar mal de mim.
+#v 40 %v Pois quem não é contra nós, é por nós.
+#v 41 %v Porque qualquer que vos der um copo d'água para beber em meu nome, porque sois de Cristo, em verdade vos digo, que não perderá sua recompensa.
 #v 42 %v E qualquer que ofender a um destes pequenos que creem em mim, melhor lhe fora que lhe pusesse ao pescoço uma grande pedra de moinho, e que fosse lançado no mar.
-#v 43 %v E se a tua mão te ofender, corta-a; melhor te é entrar na vida mutilado, do que tendo duas mãos ir ao inferno, ao fogo que nunca se apaga.
+#v 43 %v E se a tua mão te faz pecar, #fn _c tradicionalmente "escandalizar". Também nos vv. 45 e 47 %fn corta-a; melhor te é entrar na vida mutilado, do que tendo duas mãos ir ao inferno, ao fogo que nunca se apaga.
 #v 44 %v {tr,rp:Onde seu verme não morre, e o fogo nunca se apaga.}{trnc: #fn _c N4 omite todo o versículo 44 %fn }{n4:--- #fn _c N não contém o texto "Onde seu verme não morre, e o fogo nunca se apaga.", presente em RP e TR. O mesmo em Marcos 9:46 %fn }
-#v 45 %v E se teu pé te ofender, corta-o; melhor te é entrar na vida manco, do que tendo dois pés ser lançado no inferno{tr,rp:, no fogo que nunca se apaga}.{trnc: #fn _c N não contém: "no fogo que nunca se apaga" %fn }{n4: #fn _c TR, RP acrescentam: "no fogo que nunca se apaga" ao final do versículo %fn }
+#v 45 %v E se teu pé te faz pecar, corta-o; melhor te é entrar na vida manco, do que tendo dois pés ser lançado no inferno{tr,rp:, no fogo que nunca se apaga}.{trnc: #fn _c N não contém: "no fogo que nunca se apaga" %fn }{n4: #fn _c TR, RP acrescentam: "no fogo que nunca se apaga" ao final do versículo %fn }
 #v 46 %v {tr,rp:Onde seu verme não morre, e o fogo nunca se apaga.}{n4:---}
-#v 47 %v E se teu olho te ofender, lança-o fora; melhor te é entrar no Reino de Deus com um olho, do que tendo dois olhos ser lançado no fogo do inferno.
-#v 48 %v Onde seu verme não morre, e o fogo nunca se apaga.
+#v 47 %v E se teu olho te faz pecar, lança-o fora; melhor te é entrar no Reino de Deus com um olho, do que tendo dois olhos ser lançado no fogo do inferno,
+#v 48 %v onde seu verme não morre, e o fogo nunca se apaga.
 #v 49 %v Porque cada um será salgado com fogo{tr,rp:, e cada sacrifício será salgado com sal}.{trnc: #fn _c N4 omite "e cada sacrifício será salgado com sal" %fn }{n4: #fn _c TR, RP acrescentam "e cada sacrifício será salgado com sal". Compare com Levítico 2:13 %fn }
 #v 50 %v O sal é bom; mas se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos, e paz uns com os outros.
 
 #c 10 %c
-#v 1 %v E levantando-se dali, foi-se aos limites da Judeia, por dalém do Jordão; e as multidões voltaram a se juntar a ele, e voltou a lhes ensinar, como tinha de costume.
-#v 2 %v E vindo a ele os fariseus, perguntaram-lhe se era lícito ao homem deixar a #ad sua %ad mulher, tentando-o.
-#v 3 %v Mas respondendo ele, disse-lhes:
- Que Moisés vos mandou?
+#v 1 %v E levantando-se dali, #ad Jesus %ad se foi aos limites da Judeia, por dalém do Jordão; e as multidões voltaram a se juntar a ele, e voltou a lhes ensinar, como tinha costume.
+#v 2 %v E vindo a ele os fariseus, perguntaram-lhe se era lícito ao homem deixar a #ad sua %ad mulher, testando-o.
+#v 3 %v Mas ele lhes respondeu:
+ O que Moisés vos mandou?
 #v 4 %v E eles disseram:
  Moisés permitiu escrever carta de divórcio, e deixá-la.
-#v 5 %v E respondendo Jesus, disse-lhes:
- Pela dureza de vossos corações ele vos escreveu este mandamento.
-#v 6 %v Porém desde o princípio da criação, macho e fêmea Deus os fez.
+#v 5 %v E Jesus lhes respondeu:
+ Foi pela dureza dos vossos corações que ele vos escreveu este mandamento.
+#v 6 %v Porém, desde o princípio da criação, macho e fêmea Deus os fez.
 #v 7 %v Por isso, deixará o homem a seu pai e a #ad sua %ad mãe{tr,rp:, e se unirá à sua mulher}.{trnc: #fn _c N4 omite "e se unirá à sua mulher". Compare com Gênesis 2:24 e Mateus 19:5 %fn }{n4: #fn _c TR, RP acrescentam "e se unirá à sua mulher" ao final do versículo. Compare com Gênesis 2:24 e Mateus 19:5 %fn }
-#v 8 %v E os dois serão uma #ad só %ad carne; assim então já não são dois, mas sim uma #ad só %ad carne.
-#v 9 %v Portanto o que Deus juntou, não separe o homem.
-#v 10 %v E em casa voltaram os discípulos a perguntar-lhe sobre isto mesmo.
+#v 8 %v E os dois serão uma #ad só %ad carne; assim, já não são dois, mas sim uma #ad só %ad carne.
+#v 9 %v Portanto, o que Deus juntou, não separe o homem.
+#v 10 %v E em casa os discípulos voltaram a lhe perguntar sobre isto mesmo.
 #v 11 %v E disse-lhes:
- Qualquer que deixar a sua mulher, e se casar com outra, adultera contra ela.
-#v 12 %v E se a mulher deixar a seu marido, e se casar com outro, adultera.
+ Qualquer um que deixar a sua mulher, e se casar com outra, adultera contra ela.
+#v 12 %v E se a mulher deixar seu marido, e se casar com outro, adultera.
 #v 13 %v E lhe traziam crianças para que ele as tocasse, mas os discípulos repreendiam aos que #ad as %ad traziam.
 #v 14 %v Porém Jesus, vendo, indignou-se, e lhe disse:
- Deixai vir as crianças a mim, e não as impeçais; porque das tais é o Reino de Deus.
+ Deixai vir as crianças a mim, e não as impeçais; porque delas é o Reino de Deus.
 #v 15 %v Em verdade vos digo, que qualquer um que não receber o Reino de Deus como criança, em maneira nenhuma nele entrará.
-#v 16 %v E tomando-as entre seus braços, pondo as mãos sobre elas, ele as abençoou.
-#v 17 %v E saindo ele ao caminho, um #ad homem %ad correu até ele; e pondo-se de joelhos diante dele, perguntou-lhe:
+#v 16 %v Então, tomando-as entre seus braços, e pondo as mãos sobre elas, ele as abençoou.
+#v 17 %v E quando ele saiu para caminhar, um #ad homem %ad correu até ele; e pondo-se de joelhos diante dele, perguntou-lhe:
  Bom Mestre, que farei para herdar a vida eterna?
 #v 18 %v E Jesus lhe disse:
  Por que me chamas bom? Ninguém é bom, a não ser um: Deus.
 #v 19 %v Sabes os mandamentos:
- Não adulterarás; não matarás; não furtarás; não darás falso testemunho; não serás enganador; hora a teu pai, e a #ad tua %ad mãe.
-#v 20 %v Porém respondendo ele, disse-lhe:
- Mestre, tudo isto guardei desde minha juventude.
+ Não adulterarás; não matarás; não furtarás; não darás falso testemunho; não serás enganador; honra o teu pai e a #ad tua %ad mãe.
+#v 20 %v Porém ele lhe respondeu:
+ Mestre, tudo isto guardei desde a minha juventude.
 #v 21 %v E olhando Jesus para ele, amou-o, e disse-lhe:
  Uma coisa te falta: vai, vende tudo quanto tens, e dá aos pobres; e terás um tesouro no céu; e vem, segue-me, toma #ad tua %ad cruz.
 #v 22 %v Mas ele, pesaroso desta palavra, foi-se triste; porque tinha muitas propriedades.
 #v 23 %v Então Jesus olhando ao redor, disse a seus discípulos:
- Quão dificilmente entrarão os que tem riquezas no Reino de Deus!
+ Como é difícil aos que têm riquezas entrar no Reino de Deus!
 #v 24 %v E os discípulos se espantaram destas suas palavras; mas Jesus, voltando a responder, disse-lhes: Filhos, como é difícil{tr,rp: aos que confiam em riquezas}{trnc: #fn _c N4 omite "aos que confiam em riquezas %fn }{n4: #fn _c TR, RP contêm: "difícil aos que confiam em riquezas" %fn } entrar no Reino de Deus!
-#v 25 %v Mais fácil é passar um camelo pelo olho de uma agulha, do que entrar o rico no Reino de Deus.
+#v 25 %v Mais fácil é passar um camelo pelo olho de uma agulha, do que entrar um rico no Reino de Deus.
 #v 26 %v E eles se espantavam ainda mais, dizendo uns para os outros:
- Quem pois poderá se salvar?
-#v 27 %v Porém olhando Jesus para eles, disse:
+ Quem, pois, poderá se salvar?
+#v 27 %v Porém, olhando Jesus para eles, disse:
  Para os seres humanos, é impossível; mas para Deus, não; porque para Deus tudo é possível.
-#v 28 %v E começou Pedro a dizer-lhe:
+#v 28 %v E Pedro começou a lhe dizer:
  Eis que nós deixamos tudo, e te seguimos.
-#v 29 %v E respondendo Jesus, disse:
+#v 29 %v Jesus respondeu:
  Em verdade vos digo, que não há ninguém que tenha deixado casa, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou campos, por amor de mim e do Evangelho,
-#v 30 %v Que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com perseguições; e a vida eterna, no tempo que virá.
-#v 31 %v Porém muitos primeiros serão últimos, e #ad muitos %ad últimos, primeiros.
+#v 30 %v que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com perseguições; e a vida eterna, no tempo que virá.
+#v 31 %v Porém muitos primeiros serão últimos, e últimos, primeiros.
 #v 32 %v E iam pelo caminho, subindo para Jerusalém; e Jesus ia diante deles, e espantavam-se, e seguiam-no atemorizados. E voltando a tomar consigo aos doze, começou-lhes a dizer as coisas que lhe viriam a acontecer:
 #v 33 %v Eis que subimos a Jerusalém, e o Filho do homem será entregue aos chefes dos sacerdotes, e aos escribas; e o condenarão à morte, e o entregarão aos gentios.
 #v 34 %v E escarnecerão dele, e o açoitarão, e cuspirão nele, e o matarão; e ao terceiro dia ressuscitará.
 #v 35 %v E vieram a ele Tiago e João, filhos de Zebedeu, dizendo:
  Mestre, queríamos que nos fizesses o que pedirmos.
 #v 36 %v E ele lhes disse:
- Que quereis que eu vos faça?
+ O que quereis que eu vos faça?
 #v 37 %v E eles lhe disseram:
  Concede-nos que em tua glória nos sentemos, um à tua direita, e outro à tua esquerda?
 #v 38 %v Mas Jesus lhes disse:
@@ -611,7 +610,7 @@ Porém Jesus lhes disse:
  Já sabeis que os que são vistos como governadores dos gentios, agem como senhores deles; e os grandes usam de autoridade sobre eles.
 #v 43 %v Mas entre vós não será assim; antes qualquer que entre vós quiser ser grande, será vosso servidor.
 #v 44 %v E qualquer que de vós quiser ser o primeiro, será servo de todos.
-#v 45 %v Porque também não veio o Filho do homem para ser servido, mas para servir, e dar sua vida #ad em %ad resgate por muitos.
+#v 45 %v Porque também não veio o Filho do homem para ser servido, mas para servir, e dar sua vida em resgate por muitos.
 #v 46 %v E vieram a Jericó. E saindo ele, e seus discípulos, e uma grande multidão de Jericó, estava Bartimeu o cego, filho de Timeu, sentado junto ao caminho, mendigando.
 #v 47 %v E ouvindo que era Jesus o nazareno, começou a clamar, e a dizer:
  Jesus, Filho de Davi! Tem misericórdia de mim!

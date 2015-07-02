@@ -859,7 +859,7 @@ Do que te rebaixem perante a face do príncipe, a quem teus olhos viram.
 #v 4 %v O furor é cruel, e a ira impetuosa; mas quem resistirá firme perante à inveja?
 #v 5 %v Melhor é a repreensão clara do que o amor escondido.
 #v 6 %v Fiéis são as feridas #ad feitas %ad por um amigo, mas os beijos de um inimigo são enganosos.
-#v 7 %v A alma saciada atropela o favo de mel; mas para a alma faminta, toda coisa amarga é doce.
+#v 7 %v A alma saciada recusa #fn _c lit. pisoteia %fn o favo de mel; mas para a alma faminta, toda coisa amarga é doce.
 #v 8 %v Como a ave, que vagueia de seu ninho, assim é o homem que anda vagueando de seu lugar.
 #v 9 %v O óleo e o perfume alegram ao coração; assim é a doçura de um amigo com um conselho sincero.
 #v 10 %v Não abandones o teu amigo, nem o amigo de teu pai; nem entres na casa de teu irmão no dia de tua adversidade; melhor é o vizinho que está perto do que o irmão que está longe.
@@ -874,9 +874,9 @@ Do que te rebaixem perante a face do príncipe, a quem teus olhos viram.
 #v 19 %v Assim como a água reflete o rosto, assim também o coração reflete o ser humano.
 #v 20 %v O mundo dos mortos e a destruição nunca estão fartos; assim também os olhos do homem nunca estão satisfeitos.
 #v 21 %v  #ad Como %ad o crisol é para a prata, e o forno para o ouro, assim o homem #ad é provado %ad pelos louvores que lhe dizem.
-#v 22 %v Ainda que esmagues ao tolo em um pilão junto com os grãos, ainda assim não se iria dele sua loucura.
+#v 22 %v Ainda que esmagues ao tolo em um pilão junto com os grãos, ainda assim sua loucura não se separaria dele.
 #v 23 %v Procura conhecer a condição de tuas ovelhas; põe teu coração sobre o gado;
-#v 24 %v Porque o tesouro não #ad dura %ad para sempre; nem uma coroa #ad dura %ad de geração em geração.
+#v 24 %v porque o tesouro não #ad dura %ad para sempre; nem uma coroa #ad dura %ad de geração em geração.
 #v 25 %v Quando a erva aparecer, e surgirem a folhagem, e se juntarem as ervas dos montes,
 #v 26 %v Os cordeiros serão para tuas roupas, e os bodes para o preço do campo;
 #v 27 %v E o leite das cabras será o suficiente para tua alimentação, para a alimentação de tua casa, e para o sustento de tuas servas.
@@ -914,7 +914,7 @@ Do que te rebaixem perante a face do príncipe, a quem teus olhos viram.
 #v 28 %v Quando os perversos ganham poder, os homens se escondem; mas quando perecem, os justos se multiplicam.
 
 #c 29 %c
-#v 1 %v O homem que endurece o pescoço #ad , insistindo no erro %ad depois de muitas repreensões será tão destruído que não terá mais cura.
+#v 1 %v O homem que age com teimosia, #fn _c Lit. endurece o pescoço %fn mesmo depois de muitas repreensões, será tão destruído que não terá mais cura.
 #v 2 %v Quando os justos se engrandecem, o povo se alegra; mas quando o perverso domina, o povo geme.
 #v 3 %v O homem que ama a sabedoria alegra a seu pai; mas o companheiro de prostitutas gasta os bens.
 #v 4 %v O rei por meio da justiça firma a terra; mas o amigo de subornos a transtorna.
