@@ -1,59 +1,59 @@
 ﻿#header
 #name Segundo Livro dos Reis %name
 #snm 2 Reis %snm
-#ver 20120914 %ver
+#ver 20150702 %ver
 #abbr 2Rs %abbr
 %header
 
 #c 1 %c
 #v 1 %v Depois da morte de Acabe rebelou-se Moabe contra Israel.
 #v 2 %v E Acazias caiu pela sacada de uma sala da casa que tinha em Samaria; e estando enfermo enviou mensageiros, e disse-lhes: Ide, e consultai a Baal-Zebube deus de Ecrom, se sararei desta minha enfermidade.
-#v 3 %v Então o anjo do SENHOR falou a Elias Tisbita, dizendo: Levanta-te, e sobe a encontrar-te com os mensageiros do rei de Samaria, e lhes dirás: Não há Deus em Israel, que vós vades a consultar a Baal-Zebube deus de Ecrom?
-#v 4 %v Portanto assim disse o SENHOR: Do leito em que subiste não descerás, antes morrerás certamente. E Elias se foi.
-#v 5 %v E quando os mensageiros se voltaram ao rei, ele lhes disse: Por que, pois, voltastes?
-#v 6 %v E eles lhe responderam: Encontramos um homem que nos disse: Ide, e voltai-vos ao rei que vos enviou, e dizei-lhe: Assim disse o SENHOR: Não há Deus em Israel, que tu envias a consultar a Baal-Zebube deus de Ecrom? Portanto, do leito em que subiste não descerás, em vez disso certamente morrerás.
-#v 7 %v Então ele lhes disse: Que roupa era o daquele homem que encontrastes, e vos disse tais palavras?
+#v 3 %v Então o anjo do SENHOR falou a Elias Tisbita, dizendo: Levanta-te, e sobe a encontrar-te com os mensageiros do rei de Samaria, e lhes dirás: Acaso não há Deus em Israel, para que vades a consultar Baal-Zebube, deus de Ecrom?
+#v 4 %v Portanto assim disse o SENHOR: Do leito em que subiste não descerás, antes certamente morrerás. E Elias se foi.
+#v 5 %v E quando os mensageiros voltaram ao rei, ele lhes disse: Por que, pois, voltastes?
+#v 6 %v E eles lhe responderam: Encontramos um homem que nos disse: Ide, e voltai ao rei que vos enviou, e dizei-lhe: Assim disse o SENHOR: Acaso não há Deus em Israel, para que tu envias a consultar Baal-Zebube, deus de Ecrom? Portanto, do leito em que subiste não descerás, antes certamente morrerás.
+#v 7 %v Então ele lhes disse: Qual era a roupa daquele homem que encontrastes, e que vos disse tais palavras?
 #v 8 %v E eles lhe responderam: Um homem vestido de pelos, e cingia seus lombos com um cinto de couro. Então ele disse: É Elias, o tisbita.
 #v 9 %v E enviou logo a ele um capitão de cinquenta com seus cinquenta, o qual subiu a ele; e eis que ele estava sentado no cume do monte. E ele lhe disse: Homem de Deus, o rei disse que desças.
 #v 10 %v E Elias respondeu, e disse ao capitão de cinquenta: Se eu sou homem de Deus, desça fogo do céu, e consuma-te com teus cinquenta. E desceu fogo do céu, que o consumiu a ele e a seus cinquenta.
 #v 11 %v Voltou o rei a enviar a ele outro capitão de cinquenta com seus cinquenta; e falou-lhe, e disse: Homem de Deus, o rei disse assim: Desce logo.
 #v 12 %v E respondeu-lhe Elias, e disse: Se eu sou homem de Deus, desça fogo do céu, e consuma-te com teus cinquenta. E desceu fogo do céu, que o consumiu a ele e a seus cinquenta.
-#v 13 %v E voltou a enviar o terceiro capitão de cinquenta com seus cinquenta: e subindo aquele terceiro capitão de cinquenta, ficou de joelhos diante de Elias, e rogou-lhe, dizendo: Homem de Deus, rogo-te que seja de valor diante de teus olhos minha vida e a vida destes teus cinquenta servos.
-#v 14 %v Eis que desceu fogo do céu, e consumiu os dois primeiros capitães de cinquenta, com seus cinquenta; seja agora minha vida de valor diante de teus olhos.
+#v 13 %v E voltou a enviar o terceiro capitão de cinquenta com seus cinquenta; e subindo aquele terceiro capitão de cinquenta, ficou de joelhos diante de Elias, e rogou-lhe, dizendo: Homem de Deus, rogo-te que diante dos teus olhos seja preciosa minha vida e a vida destes teus cinquenta servos.
+#v 14 %v Eis que desceu fogo do céu, e consumiu os dois primeiros capitães de cinquenta, com seus cinquenta; seja agora minha vida preciosa diante de teus olhos.
 #v 15 %v Então o anjo do SENHOR disse a Elias: Desce com ele; não tenhas dele medo. E ele se levantou, e desceu com ele ao rei.
-#v 16 %v E disse-lhe: Assim disse o SENHOR: Pois que enviaste mensageiros a consultar a Baal-Zebube deus de Ecrom, não há Deus em Israel para consultar em sua palavra? Não descerás, portanto, do leito em que subiste, antes morrerás de certo.
-#v 17 %v E morreu conforme à palavra do SENHOR que havia falado Elias; e reinou em seu lugar Jorão, no segundo ano de Jeorão, filho de Josafá rei de Judá; porque Acazias não tinha filho.
+#v 16 %v E disse-lhe: Assim disse o SENHOR: Por que enviaste mensageiros a consultar Baal-Zebube, deus de Ecrom? Acaso não há Deus em Israel para consultar a sua palavra? Não descerás, portanto, do leito em que subiste, antes certamente morrerás.
+#v 17 %v E morreu conforme à palavra do SENHOR que Elias havia falado; e reinou em seu lugar Jorão, no segundo ano de Jeorão, filho de Josafá rei de Judá; porque Acazias não tinha filho.
 #v 18 %v E os demais dos feitos de Acazias, não estão escrito no livro das crônicas dos reis de Israel?
 
 #c 2 %c
-#v 1 %v E aconteceu que, quando quis o SENHOR erguer a Elias em um turbilhão ao céu, Elias vinha com Eliseu de Gilgal.
+#v 1 %v E aconteceu que, quando quis o SENHOR erguer Elias num turbilhão ao céu, Elias vinha com Eliseu de Gilgal.
 #v 2 %v E disse Elias a Eliseu: Fica-te agora aqui, porque o SENHOR me enviou a Betel. E Eliseu disse: Vive o SENHOR, e vive tua alma, que não te deixarei. Desceram pois a Betel.
-#v 3 %v E saindo a Eliseu os filhos dos profetas que estavam em Betel, disseram-lhe: Sabes como o SENHOR tirará hoje a teu senhor de tua cabeça? E ele disse: Sim, eu o sei; calai.
+#v 3 %v E saindo a Eliseu os filhos dos profetas que estavam em Betel, disseram-lhe: Sabes como o SENHOR tirará hoje o teu senhor de tua cabeça? E ele disse: Sim, eu o sei; calai.
 #v 4 %v E Elias lhe voltou a dizer: Eliseu, fica-te aqui agora, porque o SENHOR me enviou a Jericó. E ele disse: Vive o SENHOR, e vive tua alma, que não te deixarei. Vieram, pois, a Jericó.
-#v 5 %v E achegaram-se a Eliseu os filhos dos profetas que estavam em Jericó, e disseram-lhe: Sabes como o SENHOR tirará hoje a teu senhor de tua cabeça? E ele respondeu: Sim, eu o sei; calai.
+#v 5 %v E achegaram-se a Eliseu os filhos dos profetas que estavam em Jericó, e disseram-lhe: Sabes como o SENHOR tirará hoje o teu senhor de tua cabeça? E ele respondeu: Sim, eu o sei; calai.
 #v 6 %v E Elias lhe disse: Rogo-te que te fiques aqui, porque o SENHOR me enviou ao Jordão. E ele disse: Vive o SENHOR, e vive tua alma, que não te deixarei. Foram, pois, ambos.
 #v 7 %v E vieram cinquenta homens dos filhos dos profetas, e pararam-se em frente a o longe: e eles dois se pararam junto ao Jordão.
 #v 8 %v Tomando então Elias seu manto, dobrou-o, e feriu as águas, as quais se apartaram a um e a outro lado, e passaram ambos em seco.
 #v 9 %v E quando houveram passado, Elias disse a Eliseu: Pede o que queres que faça por ti, antes que seja tirado de contigo. E disse Eliseu: Rogo-te que a porção dobrada de teu espírito seja sobre mim.
 #v 10 %v E ele lhe disse: Coisa difícil pediste. Se me vires quando for tirado de ti, te será assim feito; mas se não, não.
-#v 11 %v E aconteceu que, indo eles falando, eis que um carro de fogo com cavalos de fogo separou os dois: e Elias subiu ao céu em um turbilhão.
+#v 11 %v E aconteceu que, indo eles falando, eis que um carro de fogo com cavalos de fogo separou os dois; e Elias subiu ao céu num turbilhão.
 #v 12 %v E vendo-o Eliseu, clamava: Meu pai, meu pai! Carro de Israel e seus cavaleiros! E nunca mais lhe viu, e segurando de suas roupas, rompeu-os em duas partes.
 #v 13 %v Levantou logo o manto de Elias que se lhe havia caído, e voltou, e parou-se à beira do Jordão.
 #v 14 %v E tomando o manto de Elias que se lhe havia caído, feriu as águas, e disse: Onde está o SENHOR, o Deus de Elias? E assim que houve do mesmo modo ferido as águas, apartaram-se a um e a outro lado, e passou Eliseu.
 #v 15 %v E vendo-lhe os filhos dos profetas que estavam em Jericó da outra parte, disseram: O espírito de Elias repousou sobre Eliseu. E vieram-lhe a receber, e inclinaram-se a ele até a terra.
-#v 16 %v E disseram-lhe: Eis que há com teus servos cinquenta homens fortes: vão agora e busquem ao teu senhor; talvez o espírito do SENHOR o levantou, e o lançou em algum monte ou em algum vale. E ele lhes disse: Não envieis.
+#v 16 %v E disseram-lhe: Eis que há com teus servos cinquenta homens fortes; vão agora e busquem o teu senhor; talvez o Espírito do SENHOR o levantou, e o lançou em algum monte ou em algum vale. E ele lhes disse: Não envieis.
 #v 17 %v Mas eles lhe importunaram, até que envergonhando-se, disse: Enviai. Então eles enviaram cinquenta homens, os quais o buscaram três dias, mas não o acharam.
 #v 18 %v E quando voltaram a ele, que se havia restado em Jericó, ele lhes disse: Não vos disse eu que não fôsseis?
 #v 19 %v E os homens da cidade disseram a Eliseu: Eis que o assento desta cidade é bom, como meu senhor vai; mas as águas são más, e a terra enferma.
 #v 20 %v Então ele disse: Trazei-me uma botija nova, e ponde nela sal. E trouxeram-na.
 #v 21 %v E saindo ele aos mananciais das águas, lançou dentro o sal, e disse: Assim disse o SENHOR: Eu sarei estas águas, e não haverá mais nelas morte nem enfermidade.
 #v 22 %v E foram saradas as águas até hoje, conforme a palavra que falou Eliseu.
-#v 23 %v Depois subiu dali a Betel; e subindo pelo caminho, saíram os meninos da cidade, e se ridicularizavam dele, dizendo: Sobe, calvo! Sobe, Calvo!
+#v 23 %v Depois subiu dali a Betel; e subindo pelo caminho, saíram os meninos da cidade, e se ridicularizavam dele, dizendo: Sobe, calvo! Sobe, calvo!
 #v 24 %v E olhando ele atrás, viu-os, e amaldiçoou-os no nome do SENHOR. E duas ursas saíram da floresta, e despedaçaram deles quarenta e dois meninos.
 #v 25 %v De ali foi ao monte de Carmelo, e dali voltou a Samaria.
 
 #c 3 %c
-#v 1 %v E Jorão filho de Acabe começou a reinar em Samaria sobre Israel o ano dezoito de Josafá rei de Judá; e reinou doze anos.
+#v 1 %v E Jorão, filho de Acabe, começou a reinar em Samaria sobre Israel o ano dezoito de Josafá rei de Judá; e reinou doze anos.
 #v 2 %v E fez o que era mau aos olhos do SENHOR, ainda que não como seu pai e sua mãe; porque tirou as estátuas de Baal que seu pai havia feito.
 #v 3 %v Mas achegou-se aos pecados de Jeroboão, filho de Nebate, que fez pecar a Israel; e não se separou deles.
 #v 4 %v Então Messa rei de Moabe era proprietário de gados, e pagava ao rei de Israel cem mil cordeiros e cem mil carneiros com suas lãs.
@@ -76,20 +76,20 @@
 #v 21 %v E todos os de Moabe, quando ouviram que os reis subiam a lutar contra eles, juntaram-se desde todos os que cingiam armas de guerra acima, e puseram-se na fronteira.
 #v 22 %v E quando se levantaram pela manhã, e luziu o sol sobre as águas, viram os de Moabe desde longe as águas vermelhas como sangue;
 #v 23 %v E disseram: Sangue é este de espada! Os reis se revoltaram, e cada um matou a seu companheiro. Agora, pois, Moabe, à presa!
-#v 24 %v Mas quando chegaram ao campo de Israel, levantaram-se os israelitas e feriram aos de Moabe, os quais fugiram diante deles: seguiram, porém, ferindo todavia aos de Moabe.
-#v 25 %v E assolaram as cidades, e em todas as propriedades férteis lançou cada um sua pedra, e as encheram; fecharam também todas as fontes das águas, e derrubaram todas as boas árvores; até que em Quir-Haresete somente deixaram suas pedras; porque os fundeiros a cercaram e a feriram.
-#v 26 %v E quando o rei de Moabe viu que a batalha o vencia, tomou consigo setecentos homens que tiravam espada, para romper contra o rei de Edom: mas não puderam.
+#v 24 %v Mas quando chegaram ao campo de Israel, levantaram-se os israelitas e feriram aos de Moabe, os quais fugiram diante deles; seguiram, porém, ferindo aos de Moabe.
+#v 25 %v E assolaram as cidades, e em todas as propriedades férteis lançou cada um sua pedra, e as encheram; fecharam também todas as fontes das águas, e derrubaram todas as boas árvores; até que em Quir-Haresete somente deixaram suas pedras; porque os atiradores de funda a cercaram e a feriram.
+#v 26 %v E quando o rei de Moabe viu que a batalha o vencia, tomou consigo setecentos homens que tiravam espada, para romper contra o rei de Edom, mas não conseguiram.
 #v 27 %v Então arrebatou a seu primogênito que havia de reinar em seu lugar, e sacrificou-lhe em holocausto sobre o muro. E havia grande ira em Israel; e retiraram-se dele, e voltaram a sua terra.
 
 #c 4 %c
-#v 1 %v Uma mulher, das mulheres dos filhos dos profetas, clamou a Eliseu, dizendo: Teu servo meu marido é morto; e tu sabes que teu servo era temeroso do SENHOR: e veio o credor para tomar-se dois filhos meus por servos.
-#v 2 %v E Eliseu lhe disse: Que te farei eu? Declara-me que tens em casa. E ela disse: Tua serva nenhuma coisa tem em casa, a não ser uma botija de azeite.
+#v 1 %v Uma mulher, das mulheres dos filhos dos profetas, clamou a Eliseu, dizendo: Teu servo, meu marido, é morto; e tu sabes que teu servo era temeroso ao SENHOR; e veio o credor para tomar-se dois filhos meus por servos.
+#v 2 %v E Eliseu lhe disse: que te farei eu? Declara-me o que tens em casa. E ela disse: Tua serva nenhuma coisa tem em casa, a não ser uma botija de azeite.
 #v 3 %v E ele lhe disse: Vai, e pede para ti vasos emprestados de todos teus vizinhos, vasos vazios, não poucos.
 #v 4 %v Entra logo, e fecha a porta atrás de ti e atrás teus filhos; e deita em todos os vasos, e em estando um cheio, põe-o à parte.
 #v 5 %v E partiu-se a mulher dele, e fechou a porta atrás si e atrás seus filhos; e eles lhe traziam os vasos, e ela deitava do azeite.
 #v 6 %v E quando os vasos foram cheios, disse a um filho seu: Traze-me ainda outro vaso. E ele disse: Não há mais vasos. Então cessou o azeite.
 #v 7 %v Veio ela logo, e contou-o ao homem de Deus, o qual disse: Vai, e vende o azeite, e paga a teus credores; e tu e teus filhos vivei do que restar.
-#v 8 %v E aconteceu também que um dia passava Eliseu por Suném; e havia ali uma mulher principal, a qual lhe constrangeu a que comesse do pão: e quando por ali passava, vinha-se à sua casa a comer do pão.
+#v 8 %v E aconteceu também que um dia passava Eliseu por Suném; e havia ali uma mulher rica, a qual lhe constrangeu a que comesse do pão; e quando por ali passava, vinha-se à sua casa a comer do pão.
 #v 9 %v E ela disse a seu marido: Eis que agora, eu entendo que este que sempre passa por nossa casa, é homem de Deus santo.
 #v 10 %v Eu te rogo que faças uma pequena câmara de paredes, e ponhamos nela cama, e mesa, e cadeira, e candelabro, para que quando vier a nós, se recolha nela.
 #v 11 %v E aconteceu que um dia veio ele por ali, e recolheu-se naquela câmara, e dormiu nela.
@@ -120,11 +120,11 @@
 #v 36 %v Então ele chamou a Geazi, e disse-lhe: Chama a esta sunamita. E ele a chamou. E entrando ela, ele lhe disse: Toma teu filho.
 #v 37 %v E assim que ela entrou, lançou-se a seus pés, e inclinou-se a terra: depois tomou seu filho, e saiu-se.
 #v 38 %v E Eliseu se voltou a Gilgal. Havia então grande fome na terra. E os filhos dos profetas estavam com ele, pelo que disse a seu criado: Põe uma grande caçarola, e faze sopa para os filhos dos profetas.
-#v 39 %v E saiu um ao campo a colher ervas, e achou uma como parreira selvagem, e agarrou dela uma capa de frutos silvestres: e voltou, e cortou-as na caçarola da sopa: porque não sabia o que era.
-#v 40 %v Serviu depois para que comessem os homens; mas sucedeu que comendo eles daquele guisado, deram vozes, dizendo: Homem de Deus, a morte na caçarola! E não o puderam comer.
+#v 39 %v E saiu um ao campo a colher ervas, e achou uma como parreira selvagem, e agarrou dela uma capa de frutos silvestres; e voltou, e cortou-as na caçarola da sopa: porque não sabia o que era.
+#v 40 %v Serviu depois para que comessem os homens; mas sucedeu que comendo eles daquele guisado, deram vozes, dizendo: Homem de Deus, há morte na caçarola! E não o puderam comer.
 #v 41 %v Ele então disse: Trazei farinha. E espalhou-a na caçarola, e disse: Dá de comer à gente. E não houve mais mal na caçarola.
-#v 42 %v Veio então um homem de Baal-Salisa, o qual trouxe ao homem de Deus pães de primícias, vinte pães de cevada, e trigo novo em sua espiga. E ele disse: Da à gente para que comam.
-#v 43 %v E respondeu seu servente: Como porei isto diante de cem homens? Mas ele voltou a dizer: Da à gente para que comam, porque assim disse o SENHOR: Comerão, e sobrará.
+#v 42 %v Veio então um homem de Baal-Salisa, o qual trouxe ao homem de Deus pães de primícias, vinte pães de cevada, e trigo novo em sua espiga. E ele disse: Da ao povo, para que comam.
+#v 43 %v E respondeu seu servente: Como porei isto diante de cem homens? Mas ele voltou a dizer: Da ao povo para que comam, porque assim disse o SENHOR: Comerão, e sobrará.
 #v 44 %v Então ele o pôs diante deles, e comeram, e sobrou-lhes, conforme a palavra do SENHOR.
 
 #c 5 %c
