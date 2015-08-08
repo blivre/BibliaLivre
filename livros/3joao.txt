@@ -1,23 +1,23 @@
-﻿#header
-#name Terceira Carta de João %name
-#snm 3 João %snm
-#ver 20131126 %ver
-#abbr 3Jo %abbr
-%header
+﻿#header|
+#name|Terceira Carta de João %name|
+#snm|3 João %snm|
+#ver| 20131126 %ver|
+#abbr|3Jo %abbr|
+%header|
 
-#c 1 %c
-#v 1 %v O ancião, ao amado Gaio, a quem amo em verdade.
-#v 2 %v Amado, eu desejo que estejas bem em todas as coisas, e que tenhas saúde, assim como bem está a tua alma.
-#v 3 %v Pois muito me alegrei quando irmãos chegaram, e testemunharam da tua verdade, como tu andas na verdade.
-#v 4 %v Não tenho maior alegria do que esta: #ad a de %ad ouvir que meus filhos andam na verdade.
-#v 5 %v Amado, tu ages fielmente em tudo o que fazes aos irmãos, inclusive aos forasteiros.
-#v 6 %v Estes, diante da igreja, testemunharam do teu amor; aos quais, tu agirás bem ao supri-los de modo digno #ad da vontade %ad de Deus.
-#v 7 %v Pois foi por causa do Nome {rp,n4:[}dele{rp,n4:]}{trnc: #fn _c N4 omite “dele” %fn} que partiram em jornada, sem nada aceitar dos gentios. #fn _c gentios – i.e., dos gentios não-cristãos %fn 
-#v 8 %v Portanto devemos {tr,rp:acolher}{n4:apoiar}{trnc: #fn _c TR,RP: acolher – N4: apoiar %fn} tais pessoas, para que sejamos cooperadores da verdade.
-#v 9 %v Eu tenho escrito {n4:algo}{trnc: #fn _c N4 adiciona: “algo” %fn} aos da igreja; #fn _c aos da igreja – lit. à igreja %fn porém Diótrefes, que busca ser o comandante deles, não nos recebe.
-#v 10 %v Por isso, se eu vier, trarei à memória os seus feitos, falando ele contra nós com palavras maliciosas; e não satisfeito com isso, não recebe aos irmãos, proíbe aos que se dispõem a fazer, e os expulsa da igreja.
-#v 11 %v Amado, não imites o mal, mas sim o bem. Quem faz o bem é de Deus, mas quem faz o mal nunca viu Deus.
-#v 12 %v Demétrio tem alcançado #ad bom %ad testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e {tr,rp:vós sabeis}{n4:tu sabes}{tr,rp,trnc: #fn _c N4: tu sabes %fn }{n4: #fn _c TR, RP: vós sabeis %fn} que o nosso testemunho é verdadeiro.
-#v 13 %v Eu tinha muitas coisas para escrever, porém não quero escrever a ti #ad sobre elas %ad com tinta e pena;
-#v 14 %v mas espero te ver em breve, e falaremos face a face.
-#v 15 %v Paz seja contigo. Os amigos #ad daqui %ad te saúdam. Saúda os amigos #ad daí %ad , cada um por nome.
+#c|1 %c|
+#v|1 %v|O ancião, ao amado Gaio, a quem amo em verdade.
+#v|2 %v|Amado, eu desejo que estejas bem em todas as coisas, e que tenhas saúde, assim como bem está a tua alma.
+#v|3 %v|Pois muito me alegrei quando irmãos chegaram, e testemunharam da tua verdade, como tu andas na verdade.
+#v|4 %v|Não tenho maior alegria do que esta: #ad|a de%ad| ouvir que meus filhos andam na verdade.
+#v|5 %v|Amado, tu ages fielmente em tudo o que fazes aos irmãos, inclusive aos forasteiros.
+#v|6 %v|Estes, diante da igreja, testemunharam do teu amor; aos quais, tu agirás bem ao supri-los de modo digno #ad|da vontade%ad| de Deus.
+#v|7 %v|Pois foi por causa do Nome {rp,n4:[}dele{rp,n4:]}{trnc: #fn|_c|N4 omite “dele” %fn|} que partiram em jornada, sem nada aceitar dos gentios. #fn|_c|gentios – i.e., dos gentios não-cristãos %fn|
+#v|8 %v|Portanto devemos {tr,rp:acolher}{n4:apoiar}{trnc: #fn|_c|TR,RP: acolher – N4: apoiar %fn|} tais pessoas, para que sejamos cooperadores da verdade.
+#v|9 %v|Eu tenho escrito {n4:algo}{trnc: #fn|_c|N4 adiciona: “algo” %fn|} aos da igreja; #fn|_c|aos da igreja – lit. à igreja %fn|porém Diótrefes, que busca ser o comandante deles, não nos recebe.
+#v|10 %v|Por isso, se eu vier, trarei à memória os seus feitos, falando ele contra nós com palavras maliciosas; e não satisfeito com isso, não recebe aos irmãos, proíbe aos que se dispõem a fazer, e os expulsa da igreja.
+#v|11 %v|Amado, não imites o mal, mas sim o bem. Quem faz o bem é de Deus, mas quem faz o mal nunca viu Deus.
+#v|12 %v|Demétrio tem alcançado #ad|bom%ad| testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e {tr,rp:vós sabeis}{n4:tu sabes}{tr,rp,trnc: #fn|_c|N4: tu sabes %fn|}{n4: #fn|_c|TR, RP: vós sabeis %fn|} que o nosso testemunho é verdadeiro.
+#v|13 %v|Eu tinha muitas coisas para escrever, porém não quero escrever a ti #ad|sobre elas%ad| com tinta e pena;
+#v|14 %v|mas espero te ver em breve, e falaremos face a face.
+#v|15 %v|Paz seja contigo. Os amigos #ad|daqui%ad| te saúdam. Saúda os amigos #ad|daí%ad| , cada um por nome.

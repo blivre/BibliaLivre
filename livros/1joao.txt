@@ -1,125 +1,125 @@
-﻿#header
-#name Primeira Carta Universal de João %name
-#snm 1 João %snm
-#ver 20131212 %ver
-#abbr 1Jo %abbr
-%header
+﻿#header|
+#name|Primeira Carta Universal de João %name|
+#snm|1 João %snm|
+#ver| 20131212 %ver|
+#abbr|1Jo %abbr|
+%header|
 
-#c 1 %c
-#v 1 %v O que era desde o princípio, o que ouvimos, o que vimos com nossos olhos, o que nós temos observado, e nossas mãos tocaram, da Palavra da vida;
-#v 2 %v (Porque a vida já se manifestou, e nós a vimos, e testemunhamos, e vos anunciamos a vida eterna, que estava com o Pai, e se manifestou a nós)
-#v 3 %v Nós vos anunciamos aquilo que vimos e ouvimos, para que também vós tenhais comunhão conosco, e esta nossa comunhão também #ad seja %ad com o Pai, e com Seu Filho Jesus Cristo.
-#v 4 %v E nós escrevemos estas coisas para vós, para que sejais cheios de alegria.
-#v 5 %v E este é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
-#v 6 %v Se dissermos que temos comunhão com ele, e andarmos em trevas, estamos mentindo, e não praticamos a verdade.
-#v 7 %v Porém, se andamos na luz, assim como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos limpa de todo pecado.
-#v 8 %v Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós.
-#v 9 %v Se confessarmos nossos pecados, ele é fiel e justo, para que nos perdoe os pecados, e nos limpe de toda injustiça.
-#v 10 %v Se dissermos que não pecamos, nós o fazemos de mentiroso, e a palavra dele não está em nós.
+#c|1 %c|
+#v|1 %v|O que era desde o princípio, o que ouvimos, o que vimos com nossos olhos, o que nós temos observado, e nossas mãos tocaram, da Palavra da vida;
+#v|2 %v|(Porque a vida já se manifestou, e nós a vimos, e testemunhamos, e vos anunciamos a vida eterna, que estava com o Pai, e se manifestou a nós)
+#v|3 %v|Nós vos anunciamos aquilo que vimos e ouvimos, para que também vós tenhais comunhão conosco, e esta nossa comunhão também #ad|seja%ad| com o Pai, e com Seu Filho Jesus Cristo.
+#v|4 %v|E nós escrevemos estas coisas para vós, para que sejais cheios de alegria.
+#v|5 %v|E este é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
+#v|6 %v|Se dissermos que temos comunhão com ele, e andarmos em trevas, estamos mentindo, e não praticamos a verdade.
+#v|7 %v|Porém, se andamos na luz, assim como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos limpa de todo pecado.
+#v|8 %v|Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós.
+#v|9 %v|Se confessarmos nossos pecados, ele é fiel e justo, para que nos perdoe os pecados, e nos limpe de toda injustiça.
+#v|10 %v|Se dissermos que não pecamos, nós o fazemos de mentiroso, e a palavra dele não está em nós.
 
-#c 2 %c
-#v 1 %v Meus filhinhos, eu vos escrevo estas coisas para que não pequeis; mas se alguém pecar, temos um advogado junto do Pai, #ad que é %ad Jesus Cristo, o justo.
-#v 2 %v E ele é o sacrifício para o perdão de nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
-#v 3 %v E nisto sabemos que nós o temos conhecido: se obedecemos aos seus mandamentos.
-#v 4 %v Aquele que diz:
+#c|2 %c|
+#v|1 %v|Meus filhinhos, eu vos escrevo estas coisas para que não pequeis; mas se alguém pecar, temos um advogado junto do Pai, #ad|que é%ad| Jesus Cristo, o justo.
+#v|2 %v|E ele é o sacrifício para o perdão de nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
+#v|3 %v|E nisto sabemos que nós o temos conhecido: se obedecemos aos seus mandamentos.
+#v|4 %v|Aquele que diz:
  Eu o conheço,
 E não obedece aos seus mandamentos, é mentiroso, e a verdade não está nele.
-#v 5 %v Mas quem obedece à sua palavra, nele verdadeiramente o amor de Deus tem se aperfeiçoado; nisto conhecemos que nele estamos.
-#v 6 %v Quem diz que está nele, também deve andar como ele andou.
-#v 7 %v Irmãos, eu não estou vos escrevendo um mandamento novo, mas sim o mandamento antigo, que já tivestes desde o princípio. Este mandamento antigo é a palavra que ouvistes desde o princípio.
-#v 8 %v Mas eu também estou vos escrevendo um mandamento novo, o que é verdadeiro nele, #ad seja %ad também em vós; porque as trevas passam, e a verdadeira luz já ilumina.
-#v 9 %v Aquele que diz que está na luz, e odeia a seu irmão, está até agora nas trevas.
-#v 10 %v Aquele que ama a seu irmão está na luz, e não há ofensa contra ele.
-#v 11 %v Mas aquele que odeia a seu irmão está nas trevas, e anda em trevas, e não sabe para onde vai; porque as trevas lhe cegaram os olhos.
-#v 12 %v Filhinhos, eu vos escrevo, porque os vossos pecados são perdoados por causa do nome dele.
-#v 13 %v Pais, eu vos escrevo, porque já conheceis aquele que #ad é %ad desde o princípio. Jovens, eu escrevo para vós, porque já vencestes ao maligno. Crianças, eu vos escrevo, porque já conheceis ao Pai.
-#v 14 %v Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Jovens, eu vos escrevi, porque sois fortes, e a palavra de Deus está em vós, e já vencestes ao maligno.
-#v 15 %v Não ameis ao mundo, nem as coisas que #ad há %ad no mundo; se alguém ama ao mundo, o amor do Pai não está nele.
-#v 16 %v Porque tudo o que há no mundo, #ad como %ad o mau desejo da carne, o mau desejo dos olhos, e a vanglória da vida, não é do Pai, mas é do mundo.
-#v 17 %v E o mundo passa, e também seu mau desejo; mas aquele que faz a vontade de Deus permanece para sempre.
-#v 18 %v Filhinhos, #ad já %ad é a última hora. E como já ouvistes que o anticristo vem, também agora muitos anticristos já chegaram. Por isto conhecemos que #ad já %ad é a última hora.
-#v 19 %v Eles saíram dentre nós, porém não eram dos nossos, porque se fossem dos nossos, eles teriam continuado conosco; mas #ad saíram %ad para que fosse manifesto que eles todos não eram dos nossos.
-#v 20 %v Mas vós tendes a unção daquele que é Santo, e {tr,rp:sabeis todas as coisas}{n4:todos vós tendes conhecimento}.{trnc: #fn _c TR, RP: sabeis todas as coisas – N4: todos vós tendes conhecimento %fn }
-#v 21 %v Eu não vos escrevi porque vós não conhecíeis a verdade; mas porque a conheceis, e porque nenhuma mentira pode vir da verdade.
-#v 22 %v Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Este é o anticristo, que nega ao Pai, e ao Filho.
-#v 23 %v Todo aquele que nega ao Filho, também não tem o Pai{tr,n4:; aquele que confessa ao filho tem também o Pai}.{trnc: #fn _c RP omite “aquele que confessa ao filho tem também o Pai” %fn }{rp: #fn _c TR, N4 acrescentam: “aquele que confessa ao filho tem também o Pai” ao final do versículo %fn }
-#v 24 %v Portanto, o que ouvistes desde o princípio, permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, também permanecereis no Filho e no Pai.
-#v 25 %v E esta é a promessa, que ele nos prometeu: a vida eterna.
-#v 26 %v Estas coisas eu vos escrevi #ad para falar %ad sobre aqueles que vos enganam.
-#v 27 %v E a unção que dele recebeste continua em vós, e não tendes necessidade de que alguém vos ensine; mas dado que a mesma unção vos ensina tudo, e é verdadeira, e não é mentira, #ad então %ad também, assim como ela tem vos ensinado, #ad assim %ad nele permanecereis.
-#v 28 %v E agora, filhinhos, nele permanecei; para que, quando ele se manifestar, tenhamos confiança, e não fiquemos envergonhados diante dele na sua vinda.
-#v 29 %v Se sabeis que ele é justo, #ad também %ad sabeis, que todo aquele que pratica a justiça, dele é nascido.
+#v|5 %v|Mas quem obedece à sua palavra, nele verdadeiramente o amor de Deus tem se aperfeiçoado; nisto conhecemos que nele estamos.
+#v|6 %v|Quem diz que está nele, também deve andar como ele andou.
+#v|7 %v|Irmãos, eu não estou vos escrevendo um mandamento novo, mas sim o mandamento antigo, que já tivestes desde o princípio. Este mandamento antigo é a palavra que ouvistes desde o princípio.
+#v|8 %v|Mas eu também estou vos escrevendo um mandamento novo, o que é verdadeiro nele, #ad|seja%ad| também em vós; porque as trevas passam, e a verdadeira luz já ilumina.
+#v|9 %v|Aquele que diz que está na luz, e odeia a seu irmão, está até agora nas trevas.
+#v|10 %v|Aquele que ama a seu irmão está na luz, e não há ofensa contra ele.
+#v|11 %v|Mas aquele que odeia a seu irmão está nas trevas, e anda em trevas, e não sabe para onde vai; porque as trevas lhe cegaram os olhos.
+#v|12 %v|Filhinhos, eu vos escrevo, porque os vossos pecados são perdoados por causa do nome dele.
+#v|13 %v|Pais, eu vos escrevo, porque já conheceis aquele que #ad|é%ad| desde o princípio. Jovens, eu escrevo para vós, porque já vencestes ao maligno. Crianças, eu vos escrevo, porque já conheceis ao Pai.
+#v|14 %v|Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Jovens, eu vos escrevi, porque sois fortes, e a palavra de Deus está em vós, e já vencestes ao maligno.
+#v|15 %v|Não ameis ao mundo, nem as coisas que #ad|há%ad| no mundo; se alguém ama ao mundo, o amor do Pai não está nele.
+#v|16 %v|Porque tudo o que há no mundo, #ad|como%ad| o mau desejo da carne, o mau desejo dos olhos, e a vanglória da vida, não é do Pai, mas é do mundo.
+#v|17 %v|E o mundo passa, e também seu mau desejo; mas aquele que faz a vontade de Deus permanece para sempre.
+#v|18 %v|Filhinhos, #ad|já%ad| é a última hora. E como já ouvistes que o anticristo vem, também agora muitos anticristos já chegaram. Por isto conhecemos que #ad|já%ad| é a última hora.
+#v|19 %v|Eles saíram dentre nós, porém não eram dos nossos, porque se fossem dos nossos, eles teriam continuado conosco; mas #ad|saíram%ad| para que fosse manifesto que eles todos não eram dos nossos.
+#v|20 %v|Mas vós tendes a unção daquele que é Santo, e {tr,rp:sabeis todas as coisas}{n4:todos vós tendes conhecimento}.{trnc: #fn|_c|TR, RP: sabeis todas as coisas – N4: todos vós tendes conhecimento %fn|}
+#v|21 %v|Eu não vos escrevi porque vós não conhecíeis a verdade; mas porque a conheceis, e porque nenhuma mentira pode vir da verdade.
+#v|22 %v|Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Este é o anticristo, que nega ao Pai, e ao Filho.
+#v|23 %v|Todo aquele que nega ao Filho, também não tem o Pai{tr,n4:; aquele que confessa ao filho tem também o Pai}.{trnc: #fn|_c|RP omite “aquele que confessa ao filho tem também o Pai” %fn|}{rp: #fn|_c|TR, N4 acrescentam: “aquele que confessa ao filho tem também o Pai” ao final do versículo %fn|}
+#v|24 %v|Portanto, o que ouvistes desde o princípio, permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, também permanecereis no Filho e no Pai.
+#v|25 %v|E esta é a promessa, que ele nos prometeu: a vida eterna.
+#v|26 %v|Estas coisas eu vos escrevi #ad|para falar%ad| sobre aqueles que vos enganam.
+#v|27 %v|E a unção que dele recebeste continua em vós, e não tendes necessidade de que alguém vos ensine; mas dado que a mesma unção vos ensina tudo, e é verdadeira, e não é mentira, #ad|então%ad| também, assim como ela tem vos ensinado, #ad|assim%ad| nele permanecereis.
+#v|28 %v|E agora, filhinhos, nele permanecei; para que, quando ele se manifestar, tenhamos confiança, e não fiquemos envergonhados diante dele na sua vinda.
+#v|29 %v|Se sabeis que ele é justo, #ad|também%ad| sabeis, que todo aquele que pratica a justiça, dele é nascido.
 
-#c 3 %c
-#v 1 %v Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus.{n4: E nós somos. #fn _c TR, RP omitem “E nós somos” %fn }{trnc: #fn _c N4 acrescenta: “E nós somos” %fn } Por isso o mundo não nos conhece, porque #ad o mundo %ad não o conheceu.
-#v 2 %v Amados, agora somos filhos de Deus, e ainda não está manifesto o que iremos ser. Porém sabemos que, quando #ad ele %ad se manifestar, nós seremos como ele, porque nós o veremos assim como ele é.
-#v 3 %v E todo aquele que tem esta esperança nele, purifica a si mesmo, assim como ele é puro.
-#v 4 %v Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é injustiça.
-#v 5 %v E vós sabeis que ele se manifestou para tirar nossos pecados; e nele não há pecado.
-#v 6 %v Todo aquele que permanece nele não pratica o pecado; todo aquele que continua sendo pecador, não o viu, nem o conheceu.
-#v 7 %v Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como ele #ad , Jesus %ad , é justo.
-#v 8 %v Quem pratica o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou, para desfazer as obras do diabo.
-#v 9 %v Todo aquele que é nascido de Deus não pratica o pecado; porque sua semente permanece nele; e não pode pecar, porque é nascido de Deus.
-#v 10 %v Nisto são manifestos os filhos de Deus, e os filhos do diabo: todo aquele que não pratica a justiça, e não ama a seu irmão, não é de Deus;
-#v 11 %v Porque esta é a mensagem que ouvistes desde o princípio: que amemos uns aos outros.
-#v 12 %v Não como Caim, #ad que %ad era do maligno, e matou a seu irmão. E por que o matou? Porque suas obras eram más, e as de seu irmão, justas.
-#v 13 %v Meus irmãos, não vos maravilheis se o mundo vos odeia.
-#v 14 %v Nós sabemos que já passamos da morte para a vida, dado que amamos aos irmãos. Quem não ama a #ad seu %ad irmão continua na morte.
-#v 15 %v Todo aquele que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem consigo a vida eterna.
-#v 16 %v Nisto conhecemos o amor: que ele deu sua vida por nós; e nós #ad também %ad devemos dar #ad nossas %ad vidas por #ad nossos %ad irmãos.
-#v 17 %v Quem pois tiver os bens do mundo, e vir seu irmão passar necessidade, e não se compadecer dele, como o amor de Deus está nele?
-#v 18 %v Meus filhinhos, amemos não de palavra, nem de língua, mas por meio de ações e de verdade.
-#v 19 %v E nisto conhecemos que somos da verdade, e diante dele teremos confiança nos nossos corações.
-#v 20 %v Porque, se nosso coração #ad nos %ad condena, Deus é maior que nosso coração, e conhece tudo.
-#v 21 %v Amados, se nosso coração não nos condena, #ad então %ad temos confiança diante de Deus.
-#v 22 %v E qualquer coisa que pedirmos, dele receberemos; porque obedecemos a seus mandamentos, e fizemos o que lhe era agradável.
-#v 23 %v E este é seu mandamento: que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, assim como ele nos mandou.
-#v 24 %v E a pessoa que obedece a seus mandamentos, nele está, e ele #ad está %ad nesta pessoa. E nisto conhecemos que ele está em nós: pelo Espírito que ele tem nos dado.
+#c|3 %c|
+#v|1 %v|Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus.{n4: E nós somos. #fn|_c|TR, RP omitem “E nós somos” %fn|}{trnc: #fn|_c|N4 acrescenta: “E nós somos” %fn|} Por isso o mundo não nos conhece, porque #ad|o mundo%ad| não o conheceu.
+#v|2 %v|Amados, agora somos filhos de Deus, e ainda não está manifesto o que iremos ser. Porém sabemos que, quando #ad|ele%ad| se manifestar, nós seremos como ele, porque nós o veremos assim como ele é.
+#v|3 %v|E todo aquele que tem esta esperança nele, purifica a si mesmo, assim como ele é puro.
+#v|4 %v|Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é injustiça.
+#v|5 %v|E vós sabeis que ele se manifestou para tirar nossos pecados; e nele não há pecado.
+#v|6 %v|Todo aquele que permanece nele não pratica o pecado; todo aquele que continua sendo pecador, não o viu, nem o conheceu.
+#v|7 %v|Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como ele #ad|, Jesus%ad| , é justo.
+#v|8 %v|Quem pratica o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou, para desfazer as obras do diabo.
+#v|9 %v|Todo aquele que é nascido de Deus não pratica o pecado; porque sua semente permanece nele; e não pode pecar, porque é nascido de Deus.
+#v|10 %v|Nisto são manifestos os filhos de Deus, e os filhos do diabo: todo aquele que não pratica a justiça, e não ama a seu irmão, não é de Deus;
+#v|11 %v|Porque esta é a mensagem que ouvistes desde o princípio: que amemos uns aos outros.
+#v|12 %v|Não como Caim, #ad|que%ad| era do maligno, e matou a seu irmão. E por que o matou? Porque suas obras eram más, e as de seu irmão, justas.
+#v|13 %v|Meus irmãos, não vos maravilheis se o mundo vos odeia.
+#v|14 %v|Nós sabemos que já passamos da morte para a vida, dado que amamos aos irmãos. Quem não ama a #ad|seu%ad| irmão continua na morte.
+#v|15 %v|Todo aquele que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem consigo a vida eterna.
+#v|16 %v|Nisto conhecemos o amor: que ele deu sua vida por nós; e nós #ad|também%ad| devemos dar #ad|nossas%ad| vidas por #ad|nossos%ad| irmãos.
+#v|17 %v|Quem pois tiver os bens do mundo, e vir seu irmão passar necessidade, e não se compadecer dele, como o amor de Deus está nele?
+#v|18 %v|Meus filhinhos, amemos não de palavra, nem de língua, mas por meio de ações e de verdade.
+#v|19 %v|E nisto conhecemos que somos da verdade, e diante dele teremos confiança nos nossos corações.
+#v|20 %v|Porque, se nosso coração #ad|nos%ad| condena, Deus é maior que nosso coração, e conhece tudo.
+#v|21 %v|Amados, se nosso coração não nos condena, #ad|então%ad| temos confiança diante de Deus.
+#v|22 %v|E qualquer coisa que pedirmos, dele receberemos; porque obedecemos a seus mandamentos, e fizemos o que lhe era agradável.
+#v|23 %v|E este é seu mandamento: que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, assim como ele nos mandou.
+#v|24 %v|E a pessoa que obedece a seus mandamentos, nele está, e ele #ad|está%ad| nesta pessoa. E nisto conhecemos que ele está em nós: pelo Espírito que ele tem nos dado.
 
-#c 4 %c
-#v 1 %v Amados, não creiais em todo espírito, mas provai aos espíritos, se #ad eles %ad são de Deus; porque muitos falsos profetas têm surgido no mundo.
-#v 2 %v Nisto conhecereis ao Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus.
-#v 3 %v E todo espírito que não confessa {tr,rp:que }Jesus{tr,rp: Cristo veio em carne}{trnc: #fn _c TR, RP: “que Jesus Cristo veio em Carne” - N4: “Jesus” %fn } não é de Deus; e este é o #ad espírito %ad do anticristo, do qual já ouvistes que virá, e que já agora está no mundo.
-#v 4 %v Filhinhos, vós sois de Deus, e #ad já %ad tendes os vencido; porque maior é o que está em vós do que o que está no mundo.
-#v 5 %v Eles são do mundo; por isso falam do mundo, e o mundo os ouve.
-#v 6 %v Nós somos de Deus. Aquele que conhece a Deus nos ouve; aquele que não é de Deus não nos ouve. Nisto nós conhecemos ao Espírito da verdade, e ao espírito do erro.
-#v 7 %v Amados, amemos uns aos outros; porque o amor é de Deus, e todo aquele que ama é nascido de Deus, e conhece a Deus.
-#v 8 %v Aquele que não ama não conhece a Deus; porque Deus é amor.
-#v 9 %v Nisto o amor de Deus se manifestou por nós: que Deus enviou a seu Filho unigênito ao mundo, para que vivamos por meio dele.
-#v 10 %v Nisto está o amor, não que nós tenhamos amado a Deus, mas que ele nos amou, e enviou a seu Filho como sacrifício para o perdão de nossos pecados.
-#v 11 %v Amados, se Deus assim nos amou, também devemos amar uns aos outros.
-#v 12 %v Ninguém jamais viu a Deus; se amamos uns aos outros, Deus está em nós, e o amor dele é aperfeiçoado em nós.
-#v 13 %v Nisto conhecemos que estamos nele, e ele em nós, porque eles nos deu do seu Espírito.
-#v 14 %v E nós o vimos, e testemunhamos de que o Pai enviou a #ad seu %ad Filho #ad para ser %ad o Salvador do mundo.
-#v 15 %v Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.
-#v 16 %v E conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem está no amor está em Deus, e Deus #ad está %ad nele.
-#v 17 %v Nisto o amor tem se aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, porque assim como ele é, assim também somos nós neste mundo.
-#v 18 %v No amor não há medo, porém o amor perfeito lança fora ao medo; porque o medo tem a ver com a punição; e o que teme não tem seu amor aperfeiçoado.
-#v 19 %v Nós o amamos, porque ele nos amou primeiro.
-#v 20 %v Se alguém diz:
+#c|4 %c|
+#v|1 %v|Amados, não creiais em todo espírito, mas provai aos espíritos, se #ad|eles%ad| são de Deus; porque muitos falsos profetas têm surgido no mundo.
+#v|2 %v|Nisto conhecereis ao Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus.
+#v|3 %v|E todo espírito que não confessa {tr,rp:que }Jesus{tr,rp: Cristo veio em carne}{trnc: #fn|_c|TR, RP: “que Jesus Cristo veio em Carne” - N4: “Jesus” %fn|} não é de Deus; e este é o #ad|espírito%ad| do anticristo, do qual já ouvistes que virá, e que já agora está no mundo.
+#v|4 %v|Filhinhos, vós sois de Deus, e #ad|já%ad| tendes os vencido; porque maior é o que está em vós do que o que está no mundo.
+#v|5 %v|Eles são do mundo; por isso falam do mundo, e o mundo os ouve.
+#v|6 %v|Nós somos de Deus. Aquele que conhece a Deus nos ouve; aquele que não é de Deus não nos ouve. Nisto nós conhecemos ao Espírito da verdade, e ao espírito do erro.
+#v|7 %v|Amados, amemos uns aos outros; porque o amor é de Deus, e todo aquele que ama é nascido de Deus, e conhece a Deus.
+#v|8 %v|Aquele que não ama não conhece a Deus; porque Deus é amor.
+#v|9 %v|Nisto o amor de Deus se manifestou por nós: que Deus enviou a seu Filho unigênito ao mundo, para que vivamos por meio dele.
+#v|10 %v|Nisto está o amor, não que nós tenhamos amado a Deus, mas que ele nos amou, e enviou a seu Filho como sacrifício para o perdão de nossos pecados.
+#v|11 %v|Amados, se Deus assim nos amou, também devemos amar uns aos outros.
+#v|12 %v|Ninguém jamais viu a Deus; se amamos uns aos outros, Deus está em nós, e o amor dele é aperfeiçoado em nós.
+#v|13 %v|Nisto conhecemos que estamos nele, e ele em nós, porque eles nos deu do seu Espírito.
+#v|14 %v|E nós o vimos, e testemunhamos de que o Pai enviou a #ad|seu%ad| Filho #ad|para ser%ad| o Salvador do mundo.
+#v|15 %v|Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.
+#v|16 %v|E conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem está no amor está em Deus, e Deus #ad|está%ad| nele.
+#v|17 %v|Nisto o amor tem se aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, porque assim como ele é, assim também somos nós neste mundo.
+#v|18 %v|No amor não há medo, porém o amor perfeito lança fora ao medo; porque o medo tem a ver com a punição; e o que teme não tem seu amor aperfeiçoado.
+#v|19 %v|Nós o amamos, porque ele nos amou primeiro.
+#v|20 %v|Se alguém diz:
  Eu amo a Deus,
-E odeia a seu irmão, #ad então %ad é mentiroso; porque quem não ama a seu irmão, que #ad já %ad viu, como pode amar a Deus, que nunca viu?
-#v 21 %v E nós temos este mandamento dele: que quem ama a Deus, ame também a seu irmão.
+E odeia a seu irmão, #ad|então%ad| é mentiroso; porque quem não ama a seu irmão, que #ad|já%ad| viu, como pode amar a Deus, que nunca viu?
+#v|21 %v|E nós temos este mandamento dele: que quem ama a Deus, ame também a seu irmão.
 
-#c 5 %c
-#v 1 %v Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que gerou, também ama ao que dele é nascido.
-#v 2 %v Nisto conhecemos que amamos aos filhos de Deus: quando amamos a Deus, e obedecemos a seus mandamentos;
-#v 3 %v Porque este é o amor de Deus: que guardemos seus mandamentos. E seus mandamentos não são pesados,
-#v 4 %v Porque todo aquele que é nascido de Deus vence ao mundo; e esta é a vitória que vence ao mundo: a nossa fé.
-#v 5 %v Quem é que vence ao mundo, senão aquele que crê que Jesus é o Filho de Deus?
-#v 6 %v Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e #ad pelo %ad sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
-#v 7 %v Porque são três os que testemunham no céu:{tr: o Pai, a Palavra, e o Espírito Santo; e estes três são um}.{rp,n4: #fn _c TR acrescenta: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra: %fn }
-#v 8 %v {tr:E três são os que testemunham na terra:}{trnc: #fn _c RP, N4 omitem, desde o versículo 7: “o Pai o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra:” %fn } o Espírito, a água e o sangue; e estes três estão em unidade.
-#v 9 %v Se recebemos testemunho dos homens, o testemunho de Deus é maior; porque este é o testemunho de Deus, que testemunhou de seu Filho.
-#v 10 %v Quem crê no Filho de Deus tem testemunho em si mesmo; quem não crê no #ad testemunho de %ad Deus, o fez de mentiroso; porque não creu no testemunho que Deus testemunhou de seu Filho.
-#v 11 %v E este é o testemunho: que Deus nos deu a vida eterna; e esta vida está em seu Filho.
-#v 12 %v Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
-#v 13 %v Estas coisas escrevi para vós, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna{tr,rp:, e para que continueis a crer no nome do Filho de Deus}.{trnc: #fn _c N4 omite “e para que continueis a crer no nome do Filho de Deus” %fn }{n4: #fn _c TR, RP acrescentam: “e para que continueis a crer no nome do Filho de Deus” %fn }
-#v 14 %v E esta é a confiança que temos nele: que se alguma coisa pedirmos segundo sua vontade, ele nos ouve.
-#v 15 %v E se sabemos que tudo o que #ad lhe %ad pedimos ele nos ouve, #ad então %ad sabemos que alcançamos os pedidos que fizermos a ele.
-#v 16 %v Se alguém vir o seu irmão pecar um pecado que não é para a morte, orará, e #ad Deus %ad lhe dará vida, para aqueles que não pecarem para a morte. Há pecado para a morte, pelo qual eu digo que não ore.
-#v 17 %v Toda injustiça é pecado; porém há pecado que não é para a morte.
-#v 18 %v Sabemos que todo aquele que é nascido de Deus não pratica o pecado; mas o que é gerado de Deus guarda a si mesmo, e o maligno não o toca.
-#v 19 %v Sabemos que somos de Deus, e que todo o mundo jaz no maligno.
-#v 20 %v E sabemos que o Filho de Deus já veio, e nos deu entendimento, para conhecer ao Verdadeiro; e nós estamos no verdadeiro: em seu Filho Jesus Cristo. Este é o verdadeiro Deus, e a vida eterna.
-#v 21 %v Filhinhos, guardai-vos dos ídolos. Amém.
+#c|5 %c|
+#v|1 %v|Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que gerou, também ama ao que dele é nascido.
+#v|2 %v|Nisto conhecemos que amamos aos filhos de Deus: quando amamos a Deus, e obedecemos a seus mandamentos;
+#v|3 %v|Porque este é o amor de Deus: que guardemos seus mandamentos. E seus mandamentos não são pesados,
+#v|4 %v|Porque todo aquele que é nascido de Deus vence ao mundo; e esta é a vitória que vence ao mundo: a nossa fé.
+#v|5 %v|Quem é que vence ao mundo, senão aquele que crê que Jesus é o Filho de Deus?
+#v|6 %v|Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e #ad|pelo%ad| sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
+#v|7 %v|Porque são três os que testemunham no céu:{tr: o Pai, a Palavra, e o Espírito Santo; e estes três são um}.{rp,n4: #fn|_c|TR acrescenta: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra: %fn|}
+#v|8 %v|{tr:E três são os que testemunham na terra:}{trnc: #fn|_c|RP, N4 omitem, desde o versículo 7: “o Pai o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra:” %fn|} o Espírito, a água e o sangue; e estes três estão em unidade.
+#v|9 %v|Se recebemos testemunho dos homens, o testemunho de Deus é maior; porque este é o testemunho de Deus, que testemunhou de seu Filho.
+#v|10 %v|Quem crê no Filho de Deus tem testemunho em si mesmo; quem não crê no #ad|testemunho de%ad| Deus, o fez de mentiroso; porque não creu no testemunho que Deus testemunhou de seu Filho.
+#v|11 %v|E este é o testemunho: que Deus nos deu a vida eterna; e esta vida está em seu Filho.
+#v|12 %v|Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
+#v|13 %v|Estas coisas escrevi para vós, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna{tr,rp:, e para que continueis a crer no nome do Filho de Deus}.{trnc: #fn|_c|N4 omite “e para que continueis a crer no nome do Filho de Deus” %fn|}{n4: #fn|_c|TR, RP acrescentam: “e para que continueis a crer no nome do Filho de Deus” %fn|}
+#v|14 %v|E esta é a confiança que temos nele: que se alguma coisa pedirmos segundo sua vontade, ele nos ouve.
+#v|15 %v|E se sabemos que tudo o que #ad|lhe%ad| pedimos ele nos ouve, #ad|então%ad| sabemos que alcançamos os pedidos que fizermos a ele.
+#v|16 %v|Se alguém vir o seu irmão pecar um pecado que não é para a morte, orará, e #ad|Deus%ad| lhe dará vida, para aqueles que não pecarem para a morte. Há pecado para a morte, pelo qual eu digo que não ore.
+#v|17 %v|Toda injustiça é pecado; porém há pecado que não é para a morte.
+#v|18 %v|Sabemos que todo aquele que é nascido de Deus não pratica o pecado; mas o que é gerado de Deus guarda a si mesmo, e o maligno não o toca.
+#v|19 %v|Sabemos que somos de Deus, e que todo o mundo jaz no maligno.
+#v|20 %v|E sabemos que o Filho de Deus já veio, e nos deu entendimento, para conhecer ao Verdadeiro; e nós estamos no verdadeiro: em seu Filho Jesus Cristo. Este é o verdadeiro Deus, e a vida eterna.
+#v|21 %v|Filhinhos, guardai-vos dos ídolos. Amém.

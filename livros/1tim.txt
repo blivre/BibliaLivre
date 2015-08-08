@@ -1,135 +1,135 @@
-﻿#header
-#name Primeira Carta de Paulo a Timóteo %name
-#snm 1 Timóteo %snm
-#ver 20131012 %ver
-#abbr 1Tm %abbr
-%header
+﻿#header|
+#name|Primeira Carta de Paulo a Timóteo %name|
+#snm|1 Timóteo %snm|
+#ver| 20131012 %ver|
+#abbr|1Tm %abbr|
+%header|
 
-#c 1 %c
-#v 1 %v Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
-#v 2 %v Para Timóteo, #ad meu %ad verdadeiro filho na fé. #ad Haja em ti %ad graça, misericórdia #ad e %ad paz de Deus nosso Pai, e de Cristo Jesus nosso Senhor.
-#v 3 %v Assim como te roguei quando eu ia para a Macedônia, que ficasse em Éfeso, #ad assim também faço agora %ad , para que mandes a alguns não ensinarem outra doutrina;
-#v 4 %v Nem se detenham a mitos, nem a genealogias intermináveis, que mais produzem questionamentos do que a {tr:edificação}{rp,n4:execução do plano} de Deus{trnc: #fn _c RP, N4 contêm: “execução do plano de Deus” %fn }{n4: #fn _c TR contém: edificação de Deus %fn } na fé.
-#v 5 %v Mas o fim do mandamento é o amor #ad proveniente %ad de um coração puro, e de uma boa consciência, e de uma fé não fingida;
-#v 6 %v Das quais, tendo alguns se desviado, voltaram-se para o vão uso de palavras;
-#v 7 %v Querendo ser mestres da Lei, #ad e %ad não entendendo, nem o que dizem, nem o que confirmam.
-#v 8 %v Mas nós sabemos que a Lei é boa, se alguém usá-la dela legitimamente;
-#v 9 %v Sabendo isto: que a Lei não é posta para o justo, mas sim para os injustos e insubordinados, para os perversos e pecadores, para os maus e profanos, para os matam os pais e as mães, para os homicidas,
-#v 10 %v Para os que cometem pecados sexuais, para os machos que se deitam com machos, para os que capturam pessoas para escravizá-las, para os mentirosos, para os que juram falsamente, e os que fazem alguma outra coisa contrária à sã doutrina,
-#v 11 %v Segundo o Evangelho da glória do bem-aventurado Deus, que foi confiado a mim.
-#v 12 %v E eu dou graças ao que tem me fortalecido, a Cristo Jesus nosso Senhor, que me considerou fiel, pondo #ad -me %ad neste trabalho.
-#v 13 %v  #ad Eu %ad que antes era um blasfemador e perseguidor, e opressor; porém me foi feita misericórdia, porque agi com infidelidade por ignorância.
-#v 14 %v Mas a graça de nosso Senhor Jesus Cristo foi ainda mais abundante, com a fé e amor que há em Cristo Jesus.
-#v 15 %v Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal.
-#v 16 %v Mas por isso me foi feita misericórdia, para que Jesus Cristo em mim, que sou o principal #ad pecador %ad , mostrasse toda a sua grande paciência como exemplo para os que nele vierem a crer para a vida eterna;
-#v 17 %v E ao Rei de todos os tempos, incorruptível, invisível, o único Deus sábio, #ad seja %ad a honra, e glória, para todo o sempre, amém!
-#v 18 %v Eu te ordeno este mandamento, Timóteo #ad meu %ad filho, que segundo as profecias anteriormente feitas quanto a ti, batalhes nelas a boa batalha;
-#v 19 %v Retendo a fé, a boa consciência, a qual alguns, rejeitando, naufragaram da fé.
-#v 20 %v Dentre os quais está Himeneu e Alexandre, os quais eu entreguei a Satanás, para que aprendam a não #ad mais %ad blasfemar.
+#c|1 %c|
+#v|1 %v|Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
+#v|2 %v|Para Timóteo, #ad|meu%ad| verdadeiro filho na fé. #ad|Haja em ti%ad| graça, misericórdia #ad|e%ad| paz de Deus nosso Pai, e de Cristo Jesus nosso Senhor.
+#v|3 %v|Assim como te roguei quando eu ia para a Macedônia, que ficasse em Éfeso, #ad|assim também faço agora%ad| , para que mandes a alguns não ensinarem outra doutrina;
+#v|4 %v|Nem se detenham a mitos, nem a genealogias intermináveis, que mais produzem questionamentos do que a {tr:edificação}{rp,n4:execução do plano} de Deus{trnc: #fn|_c|RP, N4 contêm: “execução do plano de Deus” %fn|}{n4: #fn|_c|TR contém: edificação de Deus %fn|} na fé.
+#v|5 %v|Mas o fim do mandamento é o amor #ad|proveniente%ad| de um coração puro, e de uma boa consciência, e de uma fé não fingida;
+#v|6 %v|Das quais, tendo alguns se desviado, voltaram-se para o vão uso de palavras;
+#v|7 %v|Querendo ser mestres da Lei, #ad|e%ad| não entendendo, nem o que dizem, nem o que confirmam.
+#v|8 %v|Mas nós sabemos que a Lei é boa, se alguém usá-la dela legitimamente;
+#v|9 %v|Sabendo isto: que a Lei não é posta para o justo, mas sim para os injustos e insubordinados, para os perversos e pecadores, para os maus e profanos, para os matam os pais e as mães, para os homicidas,
+#v|10 %v|Para os que cometem pecados sexuais, para os machos que se deitam com machos, para os que capturam pessoas para escravizá-las, para os mentirosos, para os que juram falsamente, e os que fazem alguma outra coisa contrária à sã doutrina,
+#v|11 %v|Segundo o Evangelho da glória do bem-aventurado Deus, que foi confiado a mim.
+#v|12 %v|E eu dou graças ao que tem me fortalecido, a Cristo Jesus nosso Senhor, que me considerou fiel, pondo #ad|-me%ad| neste trabalho.
+#v|13 %v| #ad|Eu%ad| que antes era um blasfemador e perseguidor, e opressor; porém me foi feita misericórdia, porque agi com infidelidade por ignorância.
+#v|14 %v|Mas a graça de nosso Senhor Jesus Cristo foi ainda mais abundante, com a fé e amor que há em Cristo Jesus.
+#v|15 %v|Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal.
+#v|16 %v|Mas por isso me foi feita misericórdia, para que Jesus Cristo em mim, que sou o principal #ad|pecador%ad| , mostrasse toda a sua grande paciência como exemplo para os que nele vierem a crer para a vida eterna;
+#v|17 %v|E ao Rei de todos os tempos, incorruptível, invisível, o único Deus sábio, #ad|seja%ad| a honra, e glória, para todo o sempre, amém!
+#v|18 %v|Eu te ordeno este mandamento, Timóteo #ad|meu%ad| filho, que segundo as profecias anteriormente feitas quanto a ti, batalhes nelas a boa batalha;
+#v|19 %v|Retendo a fé, a boa consciência, a qual alguns, rejeitando, naufragaram da fé.
+#v|20 %v|Dentre os quais está Himeneu e Alexandre, os quais eu entreguei a Satanás, para que aprendam a não #ad|mais%ad| blasfemar.
 
-#c 2 %c
-#v 1 %v Portanto eu te exorto para que se façam pedidos, orações, intercessões #ad e %ad ações de graça por todos os homens;
-#v 2 %v Pelos reis, e #ad por %ad todos os que estão em posição superior, para que tenhamos uma vida quieta e sossegada, em toda santidade e respeitabilidade.
-#v 3 %v Porque isto é bom e agradável diante de Deus nosso Salvador;
-#v 4 %v O qual quer que todos os homens se salvem e venham a conhecer a verdade.
-#v 5 %v Porque há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus;
-#v 6 %v O qual deu a si mesmo #ad como %ad resgate por todos, #ad dando %ad testemunho a seu tempo;
-#v 7 %v Para o qual eu fui posto como pregador e apóstolo (eu estou dizendo a verdade em Cristo, não mentindo) instrutor dos gentios em fé e verdade.
-#v 8 %v Portanto eu quero que os homens orem em todo lugar, levantando mãos santas, sem ira nem discussão.
-#v 9 %v Semelhantemente também, que as mulheres se adornem com roupa respeitável, com pudor e prudência, não com cabelo trançado, ou ouro, ou pérolas, ou roupas caras;
-#v 10 %v Mas sim com o que é conveniente para mulheres que declaram servir a Deus: com boas obras.
-#v 11 %v A mulher aprenda sem alta voz, com toda submissão.
-#v 12 %v Mas não permito que a mulher ensine, nem use de autoridade sobre o homem, mas sim que esteja em silêncio.
-#v 13 %v Porque Adão foi formado primeiro, #ad e %ad depois Eva.
-#v 14 %v E Adão não foi enganado; mas a mulher, sendo enganada, caiu em transgressão.
-#v 15 %v Mas ela se salvará tendo filhos, se permanecer na fé, amor e santificação com prudência.
+#c|2 %c|
+#v|1 %v|Portanto eu te exorto para que se façam pedidos, orações, intercessões #ad|e%ad| ações de graça por todos os homens;
+#v|2 %v|Pelos reis, e #ad|por%ad| todos os que estão em posição superior, para que tenhamos uma vida quieta e sossegada, em toda santidade e respeitabilidade.
+#v|3 %v|Porque isto é bom e agradável diante de Deus nosso Salvador;
+#v|4 %v|O qual quer que todos os homens se salvem e venham a conhecer a verdade.
+#v|5 %v|Porque há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus;
+#v|6 %v|O qual deu a si mesmo #ad|como%ad| resgate por todos, #ad|dando%ad| testemunho a seu tempo;
+#v|7 %v|Para o qual eu fui posto como pregador e apóstolo (eu estou dizendo a verdade em Cristo, não mentindo) instrutor dos gentios em fé e verdade.
+#v|8 %v|Portanto eu quero que os homens orem em todo lugar, levantando mãos santas, sem ira nem discussão.
+#v|9 %v|Semelhantemente também, que as mulheres se adornem com roupa respeitável, com pudor e prudência, não com cabelo trançado, ou ouro, ou pérolas, ou roupas caras;
+#v|10 %v|Mas sim com o que é conveniente para mulheres que declaram servir a Deus: com boas obras.
+#v|11 %v|A mulher aprenda sem alta voz, com toda submissão.
+#v|12 %v|Mas não permito que a mulher ensine, nem use de autoridade sobre o homem, mas sim que esteja em silêncio.
+#v|13 %v|Porque Adão foi formado primeiro, #ad|e%ad| depois Eva.
+#v|14 %v|E Adão não foi enganado; mas a mulher, sendo enganada, caiu em transgressão.
+#v|15 %v|Mas ela se salvará tendo filhos, se permanecer na fé, amor e santificação com prudência.
 
-#c 3 %c
-#v 1 %v  #ad Esta %ad palavra é fiel: se alguém deseja ser supervisor, #fn _c supervisor = equiv. bispo – também v. 2 %fn deseja uma excelente obra.
-#v 2 %v Convém, portanto, que o supervisor seja irrepreensível, marido de uma mulher, sóbrio, prudente, de comportamento decente, hospitaleiro, apto para ensinar;
-#v 3 %v Não dado ao vinho, não violento{tr,rp:, não ganancioso},{trnc: #fn _c N4 omite “não ganancioso” %fn }{n4: #fn _c TR, RP adicionam “não ganancioso” %fn } mas sim moderado, não disposto a brigas, sem cobiça pelo dinheiro;
-#v 4 %v que governe bem sua própria casa, tendo a #ad seus %ad filhos em sujeição com toda dignidade.
-#v 5 %v (Porque se alguém não sabe governar sua própria casa, como cuidará da igreja de Deus?)
-#v 6 %v Não novo #ad na fé %ad ; para que não fique arrogante e caia na condenação do diabo.
-#v 7 %v É necessário também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação e #ad em %ad laço do diabo.
-#v 8 %v Semelhantemente os servidores #fn _c servidores = equiv. diáconos %fn  #ad sejam %ad respeitáveis, não #ad mentirosos %ad de duas conversas, não dados a muito vinho, não cobiçosos de ganância,
-#v 9 %v retendo o mistério da fé em uma pura consciência.
-#v 10 %v E estes também sejam primeiro provados, #ad e %ad depois sirvam, aqueles que forem irrepreensíveis.
-#v 11 %v Semelhantemente as mulheres #ad sejam %ad respeitáveis, não maldizentes, sóbrias, #ad e %ad fiéis em todas as coisas.
-#v 12 %v Os diáconos sejam maridos de uma mulher, que governem bem #ad seus %ad filhos, e suas próprias casas.
-#v 13 %v Porque os que servirem bem, obtêm para si um bom conceito, e muita confiança na fé que há em Cristo Jesus.
-#v 14 %v Eu te escrevo estas coisas esperando que em breve eu venha a ti;
-#v 15 %v Mas seu eu demorar, para que saibais como se deve andar na casa de Deus, que é a igreja do Deus vivo, a coluna e alicerce da verdade.
-#v 16 %v E sem dúvida nenhuma, grande é o mistério da santidade: {tr,rp:Deus}{n4:Ele}{trnc: #fn _c N4 substitui “Deus” por “Ele” %fn }{n4: #fn _c TR, RP substituem “Ele” por “Deus” %fn } foi manifesto em carne, justificado em Espírito, visto pelos anjos, anunciado aos gentios, crido no mundo, #ad e %ad recebido acima em glória.
+#c|3 %c|
+#v|1 %v| #ad|Esta%ad| palavra é fiel: se alguém deseja ser supervisor, #fn|_c|supervisor = equiv. bispo – também v. 2 %fn|deseja uma excelente obra.
+#v|2 %v|Convém, portanto, que o supervisor seja irrepreensível, marido de uma mulher, sóbrio, prudente, de comportamento decente, hospitaleiro, apto para ensinar;
+#v|3 %v|Não dado ao vinho, não violento{tr,rp:, não ganancioso},{trnc: #fn|_c|N4 omite “não ganancioso” %fn|}{n4: #fn|_c|TR, RP adicionam “não ganancioso” %fn|} mas sim moderado, não disposto a brigas, sem cobiça pelo dinheiro;
+#v|4 %v|que governe bem sua própria casa, tendo a #ad|seus%ad| filhos em sujeição com toda dignidade.
+#v|5 %v|(Porque se alguém não sabe governar sua própria casa, como cuidará da igreja de Deus?)
+#v|6 %v|Não novo #ad|na fé%ad| ; para que não fique arrogante e caia na condenação do diabo.
+#v|7 %v|É necessário também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação e #ad|em%ad| laço do diabo.
+#v|8 %v|Semelhantemente os servidores #fn|_c|servidores = equiv. diáconos %fn| #ad|sejam%ad| respeitáveis, não #ad|mentirosos%ad| de duas conversas, não dados a muito vinho, não cobiçosos de ganância,
+#v|9 %v|retendo o mistério da fé em uma pura consciência.
+#v|10 %v|E estes também sejam primeiro provados, #ad|e%ad| depois sirvam, aqueles que forem irrepreensíveis.
+#v|11 %v|Semelhantemente as mulheres #ad|sejam%ad| respeitáveis, não maldizentes, sóbrias, #ad|e%ad| fiéis em todas as coisas.
+#v|12 %v|Os diáconos sejam maridos de uma mulher, que governem bem #ad|seus%ad| filhos, e suas próprias casas.
+#v|13 %v|Porque os que servirem bem, obtêm para si um bom conceito, e muita confiança na fé que há em Cristo Jesus.
+#v|14 %v|Eu te escrevo estas coisas esperando que em breve eu venha a ti;
+#v|15 %v|Mas seu eu demorar, para que saibais como se deve andar na casa de Deus, que é a igreja do Deus vivo, a coluna e alicerce da verdade.
+#v|16 %v|E sem dúvida nenhuma, grande é o mistério da santidade: {tr,rp:Deus}{n4:Ele}{trnc: #fn|_c|N4 substitui “Deus” por “Ele” %fn|}{n4: #fn|_c|TR, RP substituem “Ele” por “Deus” %fn|} foi manifesto em carne, justificado em Espírito, visto pelos anjos, anunciado aos gentios, crido no mundo, #ad|e%ad| recebido acima em glória.
 
-#c 4 %c
-#v 1 %v Mas o Espírito diz expressamente que nos últimos tempos alguns se afastarão da fé, dando atenção a espíritos enganadores, e a doutrina de demônios.
-#v 2 %v Pela hipocrisia de faladores de mentiras, tendo cauterizado sua própria consciência;
-#v 3 %v Proibindo se casar, e #ad mandando %ad se abster das comidas que Deus criou para os fiéis e para os que conheceram a verdade para as receberem com ações de graças.
-#v 4 %v Porque toda criatura de Deus é boa, e #ad não há %ad nada para se rejeitar, se for tomada com ações de graças.
-#v 5 %v Porque ela é santificada pela palavra de Deus e #ad pela %ad oração.
-#v 6 %v Se tu propores estas coisas aos irmãos, tu serás bom trabalhador a serviço de Jesus Cristo, nutrido pelas palavras da fé, e de boa doutrina, as quais tu tens seguido.
-#v 7 %v Mas rejeita os mitos profanos e #ad histórias %ad de velhas; e exercita a ti mesmo em santificação.
-#v 8 %v Porque o exercício corporal tem pouco proveito; mas a santificação é proveitosa para tudo, tendo as promessas da vida atual e da futura.
-#v 9 %v  #ad Esta %ad palavra é fiel, e digna de toda aceitação.
-#v 10 %v Porque para isto também trabalhamos e {tr,rp:somos insultados}{n4:lutamos},{trnc: #fn _c TR, RP: “somos insultados” - N4: “lutamos” %fn }{n4: #fn _c N4: “lutamos” - TR, RP: “somos insultados” %fn } porque esperamos o Deus vivo, que é o Salvador de todos os homens, e em especial dos crentes.
-#v 11 %v Ordena e ensina tu estas coisas
-#v 12 %v Ninguém te despreze por seres jovem, mas sim, sê exemplo para os crentes, em palavra, em comportamento, em amor, em espírito, em fé, #ad e %ad em pureza.
-#v 13 %v Persiste na leitura, na exortação e no ensino, até que eu venha.
-#v 14 %v Não desprezes o dom que está em ti, o qual te foi dado por profecia, com a imposição das mãos dos presbíteros.
-#v 15 %v Medita #ad n %ad estas coisas, #ad e %ad nelas te ocupa; para que teu aperfeiçoamento seja visível por todos.
-#v 16 %v Tem cuidado de ti mesmo, e da doutrina; persevera nestas coisas; porque, se ao fazer isto, tu salvarás tanto a ti mesmo, como aos que te ouvem.
+#c|4 %c|
+#v|1 %v|Mas o Espírito diz expressamente que nos últimos tempos alguns se afastarão da fé, dando atenção a espíritos enganadores, e a doutrina de demônios.
+#v|2 %v|Pela hipocrisia de faladores de mentiras, tendo cauterizado sua própria consciência;
+#v|3 %v|Proibindo se casar, e #ad|mandando%ad| se abster das comidas que Deus criou para os fiéis e para os que conheceram a verdade para as receberem com ações de graças.
+#v|4 %v|Porque toda criatura de Deus é boa, e #ad|não há%ad| nada para se rejeitar, se for tomada com ações de graças.
+#v|5 %v|Porque ela é santificada pela palavra de Deus e #ad|pela%ad| oração.
+#v|6 %v|Se tu propores estas coisas aos irmãos, tu serás bom trabalhador a serviço de Jesus Cristo, nutrido pelas palavras da fé, e de boa doutrina, as quais tu tens seguido.
+#v|7 %v|Mas rejeita os mitos profanos e #ad|histórias%ad| de velhas; e exercita a ti mesmo em santificação.
+#v|8 %v|Porque o exercício corporal tem pouco proveito; mas a santificação é proveitosa para tudo, tendo as promessas da vida atual e da futura.
+#v|9 %v| #ad|Esta%ad| palavra é fiel, e digna de toda aceitação.
+#v|10 %v|Porque para isto também trabalhamos e {tr,rp:somos insultados}{n4:lutamos},{trnc: #fn|_c|TR, RP: “somos insultados” - N4: “lutamos” %fn|}{n4: #fn|_c|N4: “lutamos” - TR, RP: “somos insultados” %fn|} porque esperamos o Deus vivo, que é o Salvador de todos os homens, e em especial dos crentes.
+#v|11 %v|Ordena e ensina tu estas coisas
+#v|12 %v|Ninguém te despreze por seres jovem, mas sim, sê exemplo para os crentes, em palavra, em comportamento, em amor, em espírito, em fé, #ad|e%ad| em pureza.
+#v|13 %v|Persiste na leitura, na exortação e no ensino, até que eu venha.
+#v|14 %v|Não desprezes o dom que está em ti, o qual te foi dado por profecia, com a imposição das mãos dos presbíteros.
+#v|15 %v|Medita #ad|n%ad| estas coisas, #ad|e%ad| nelas te ocupa; para que teu aperfeiçoamento seja visível por todos.
+#v|16 %v|Tem cuidado de ti mesmo, e da doutrina; persevera nestas coisas; porque, se ao fazer isto, tu salvarás tanto a ti mesmo, como aos que te ouvem.
 
-#c 5 %c
-#v 1 %v Não repreendas asperamente aos velhos, mas advirta #ad -os %ad como a pais; aos rapazes, como a irmãos;
-#v 2 %v E às #ad mais %ad velhas, como a mães; e as moças, como a irmãs, em toda pureza.
-#v 3 %v Honra às viúvas que verdadeiramente são viúvas.
-#v 4 %v Mas se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercitar piedade para com sua própria casa, e a recompensar a seus pais; porque isto é bom e agradável diante de Deus.
-#v 5 %v E a que é verdadeiramente viúva, e deixada sozinha, espera em Deus, e persevera de noite e de dia em rogos e orações.
-#v 6 %v Mas a que segue sua sensualidade, #ad ainda que esteja %ad vivendo, está morta.
-#v 7 %v Ordena pois estas coisas, para que sejam irrepreensíveis.
-#v 8 %v Mas se alguém não tem cuidado dos seus, e principalmente dos de sua própria casa, #ad então %ad tem negado a fé, e é pior que o incrédulo.
-#v 9 %v A viúva, para ser registrada, não #ad deve ter %ad menos de sessenta anos, #ad e %ad que tenha sido mulher de um marido.
-#v 10 %v Tendo testemunho de boas obras, se criou filhos, se foi hospitaleira, se lavou os pés dos santos, se socorreu aos aflitos, se seguiu em toda boa obra.
-#v 11 %v Mas não admitas as viúvas mais jovens; porque, quando tiverem desejos sensuais contra Cristo, elas querem se casar;
-#v 12 %v Tendo #ad já %ad a condenação #ad delas %ad , por elas terem anulado #ad sua %ad primeira fé.
-#v 13 %v E ao mesmo tempo também aprendem ociosamente a andar de casa em casa; e não somente ociosas, mas também fofoqueiras e curiosas, falando o que não se deve.
-#v 14 %v Quero, portanto, que as mais jovens se casem, gerem filhos, administrem a casa, #ad e %ad não deem nenhuma oportunidade para o adversário ao maldizer.
-#v 15 %v Porque algumas já se desviaram, #ad indo %ad atrás de Satanás.
-#v 16 %v Se algum crente ou alguma crente tem viúvas, presta assistência a elas, e não passe a responsabilidade para a igreja, para que #ad a igreja %ad possa prestar assistência às que verdadeiramente são viúvas.
-#v 17 %v Os presbíteros #ad ou seja, os anciãos %ad que lideram bem, sejam estimados como dignos de honra dobrada, principalmente os que trabalham na palavra e #ad na %ad doutrina.
-#v 18 %v Porque a Escritura diz:
+#c|5 %c|
+#v|1 %v|Não repreendas asperamente aos velhos, mas advirta #ad|-os%ad| como a pais; aos rapazes, como a irmãos;
+#v|2 %v|E às #ad|mais%ad| velhas, como a mães; e as moças, como a irmãs, em toda pureza.
+#v|3 %v|Honra às viúvas que verdadeiramente são viúvas.
+#v|4 %v|Mas se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercitar piedade para com sua própria casa, e a recompensar a seus pais; porque isto é bom e agradável diante de Deus.
+#v|5 %v|E a que é verdadeiramente viúva, e deixada sozinha, espera em Deus, e persevera de noite e de dia em rogos e orações.
+#v|6 %v|Mas a que segue sua sensualidade, #ad|ainda que esteja%ad| vivendo, está morta.
+#v|7 %v|Ordena pois estas coisas, para que sejam irrepreensíveis.
+#v|8 %v|Mas se alguém não tem cuidado dos seus, e principalmente dos de sua própria casa, #ad|então%ad| tem negado a fé, e é pior que o incrédulo.
+#v|9 %v|A viúva, para ser registrada, não #ad|deve ter%ad| menos de sessenta anos, #ad|e%ad| que tenha sido mulher de um marido.
+#v|10 %v|Tendo testemunho de boas obras, se criou filhos, se foi hospitaleira, se lavou os pés dos santos, se socorreu aos aflitos, se seguiu em toda boa obra.
+#v|11 %v|Mas não admitas as viúvas mais jovens; porque, quando tiverem desejos sensuais contra Cristo, elas querem se casar;
+#v|12 %v|Tendo #ad|já%ad| a condenação #ad|delas%ad| , por elas terem anulado #ad|sua%ad| primeira fé.
+#v|13 %v|E ao mesmo tempo também aprendem ociosamente a andar de casa em casa; e não somente ociosas, mas também fofoqueiras e curiosas, falando o que não se deve.
+#v|14 %v|Quero, portanto, que as mais jovens se casem, gerem filhos, administrem a casa, #ad|e%ad| não deem nenhuma oportunidade para o adversário ao maldizer.
+#v|15 %v|Porque algumas já se desviaram, #ad|indo%ad| atrás de Satanás.
+#v|16 %v|Se algum crente ou alguma crente tem viúvas, presta assistência a elas, e não passe a responsabilidade para a igreja, para que #ad|a igreja%ad| possa prestar assistência às que verdadeiramente são viúvas.
+#v|17 %v|Os presbíteros #ad|ou seja, os anciãos%ad| que lideram bem, sejam estimados como dignos de honra dobrada, principalmente os que trabalham na palavra e #ad|na%ad| doutrina.
+#v|18 %v|Porque a Escritura diz:
  Ao boi que estiver debulhando, não amarrarás a boca;
 e:
  Digno é o trabalhador de seu salário.
-#v 19 %v Não aceites acusação contra o presbítero, a não ser com duas ou três testemunhas.
-#v 20 %v Aos que pecarem, repreenda #ad -os %ad na presença de todos, para que os outros também tenham temor.
-#v 21 %v Eu #ad te %ad ordeno sob juramento, diante de Deus, e do Senhor Jesus Cristo, e dos anjos escolhidos, que guardes estas coisas sem prejulgamentos, fazendo nada por favoritismo.
-#v 22 %v A ninguém imponhas as mãos apressadamente, nem sejas coparticipante em pecados alheios; conserva puro a ti mesmo.
-#v 23 %v Não bebas mais #ad somente %ad água, mas usa #ad também %ad de um pouco de vinho, por causa do teu estômago, e de tuas frequentes enfermidades.
-#v 24 %v Os pecados de alguns homens são claramente manifestos, e vão adiante #ad deles %ad para #ad sua %ad condenação, mas para alguns, eles seguem depois.
-#v 25 %v Semelhantemente também as boas obras são manifestas com antecedência; e as que são de outra maneira não podem se esconder.
+#v|19 %v|Não aceites acusação contra o presbítero, a não ser com duas ou três testemunhas.
+#v|20 %v|Aos que pecarem, repreenda #ad|-os%ad| na presença de todos, para que os outros também tenham temor.
+#v|21 %v|Eu #ad|te%ad| ordeno sob juramento, diante de Deus, e do Senhor Jesus Cristo, e dos anjos escolhidos, que guardes estas coisas sem prejulgamentos, fazendo nada por favoritismo.
+#v|22 %v|A ninguém imponhas as mãos apressadamente, nem sejas coparticipante em pecados alheios; conserva puro a ti mesmo.
+#v|23 %v|Não bebas mais #ad|somente%ad| água, mas usa #ad|também%ad| de um pouco de vinho, por causa do teu estômago, e de tuas frequentes enfermidades.
+#v|24 %v|Os pecados de alguns homens são claramente manifestos, e vão adiante #ad|deles%ad| para #ad|sua%ad| condenação, mas para alguns, eles seguem depois.
+#v|25 %v|Semelhantemente também as boas obras são manifestas com antecedência; e as que são de outra maneira não podem se esconder.
 
-#c 6 %c
-#v 1 %v Todos os servos, que estão debaixo de jugo, estimem a seus próprios senhores como dignos de toda honra; para que o nome de Deus e #ad sua %ad doutrina não sejam blasfemados.
-#v 2 %v E os que tem Senhores crentes, não os desprezem, por serem irmãos; mas sim, muito mais os sirvam, porque aqueles que recebem este benefício são crentes e amados. Ensina e exorta estas coisas.
-#v 3 %v Se alguém ensina de outra maneira, e não concorda com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é conforme à devoção #ad a Deus %ad ;
-#v 4 %v  #ad e %ad é presunçoso, e nada sabe, mas se interessa de forma doentia por questões e disputas de palavras, das quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
-#v 5 %v Perversas discussões de homens corruptos de entendimento, e privados da verdade, pensando que a devoção #ad a Deus %ad é #ad um meio de se obter %ad lucro.{tr,rp: Afasta-te dos tais.}{trnc: #fn _c N4 omite “Afasta-te dos tais” %fn }{n4: #fn _c TR, RP acrescentam: “Afasta-te dos tais” ao final do versículo %fn }
-#v 6 %v Mas a devoção #ad a Deus %ad com contentamento é um grande lucro.
-#v 7 %v Porque nada trouxemos ao mundo, e #ad nos é %ad conhecido que nada podemos levar dele.
-#v 8 %v Mas tendo alimento, e algo para nos cobrirmos, estejamos contentes com isso.
-#v 9 %v Mas os que querem se enriquecer caem em tentação, e #ad em %ad armadilha, e #ad em %ad muitas loucos e nocivos maus desejos, que afundam os homens em perdição e ruína.
-#v 10 %v Porque o amor ao dinheiro é a raiz de todos os males; pelo qual, alguns cobiçando, desviaram-se da fé, e perfuraram a si mesmos com muitas dores.
-#v 11 %v Mas tu, ó homem de Deus, foge destas coisas, e segue a justiça, a devoção #ad a Deus %ad , a fé, o amor, a paciência #ad e %ad a mansidão.
-#v 12 %v Luta tu a boa luta da fé; agarra a vida eterna, para a qual também és chamado, e #ad já %ad confessaste a boa confissão diante de muitas testemunhas.
-#v 13 %v Eu te mando, diante de Deus que vivifica todas as coisas, e de Cristo Jesus, que testemunhou a boa confissão diante de Pôncio Pilatos,
-#v 14 %v Que guardes este mandamento irrepreensível, sem nenhuma mancha #ad de erro %ad , até o aparecimento de nosso Senhor Jesus Cristo.
-#v 15 %v A qual ao seus tempos #ad devidos %ad mostrará o bem-aventurado e único poderoso Senhor, Rei dos reis, e Senhor dos Senhores;
-#v 16 %v O qual #ad é %ad o único a ter imortalidade, e habita em uma luz inacessível; a quem nenhum dos homens viu, nem pode ver; ao qual seja a honra, e poder para sempre, Amém.
-#v 17 %v Manda aos ricos neste mundo, que não sejam soberbos, nem ponham #ad sua %ad confiança na incerteza das riquezas, mas sim no Deus vivo, que nos dá todas as coisas abundantemente, para #ad nossa %ad alegria.
-#v 18 %v Que façam o bem, enriqueçam em boas obras, e compartilhem com boa vontade, #ad e %ad sejam bons distribuidores.
-#v 19 %v Acumulando para si mesmos um bom fundamento para o futuro, para que possam obter a {tr,rp:vida eterna}{n4:verdadeira vida}.{trnc: #fn _c TR, RP: vida eterna – N4: verdadeira vida %fn }{n4: #fn _c N4: verdadeira vida – TR, RP: vida eterna %fn }
-#v 20 %v Timóteo, guarda o depósito #ad que foi %ad confiado #ad a ti %ad , retirando-te de conversas vãs e profanas, e das oposições que falsamente são chamadas de conhecimento;
-#v 21 %v Ao qual alguns, ao professarem, se desviaram da fé. A graça #ad seja %ad contigo. Amém.
-{tr: #ad A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana %ad .}{trnc: #fn _c RP, N4 não contêm informação de onde a carta foi escrita %fn }
+#c|6 %c|
+#v|1 %v|Todos os servos, que estão debaixo de jugo, estimem a seus próprios senhores como dignos de toda honra; para que o nome de Deus e #ad|sua%ad| doutrina não sejam blasfemados.
+#v|2 %v|E os que tem Senhores crentes, não os desprezem, por serem irmãos; mas sim, muito mais os sirvam, porque aqueles que recebem este benefício são crentes e amados. Ensina e exorta estas coisas.
+#v|3 %v|Se alguém ensina de outra maneira, e não concorda com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é conforme à devoção #ad|a Deus%ad| ;
+#v|4 %v| #ad|e%ad| é presunçoso, e nada sabe, mas se interessa de forma doentia por questões e disputas de palavras, das quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
+#v|5 %v|Perversas discussões de homens corruptos de entendimento, e privados da verdade, pensando que a devoção #ad|a Deus%ad| é #ad|um meio de se obter%ad| lucro.{tr,rp: Afasta-te dos tais.}{trnc: #fn|_c|N4 omite “Afasta-te dos tais” %fn|}{n4: #fn|_c|TR, RP acrescentam: “Afasta-te dos tais” ao final do versículo %fn|}
+#v|6 %v|Mas a devoção #ad|a Deus%ad| com contentamento é um grande lucro.
+#v|7 %v|Porque nada trouxemos ao mundo, e #ad|nos é%ad| conhecido que nada podemos levar dele.
+#v|8 %v|Mas tendo alimento, e algo para nos cobrirmos, estejamos contentes com isso.
+#v|9 %v|Mas os que querem se enriquecer caem em tentação, e #ad|em%ad| armadilha, e #ad|em%ad| muitas loucos e nocivos maus desejos, que afundam os homens em perdição e ruína.
+#v|10 %v|Porque o amor ao dinheiro é a raiz de todos os males; pelo qual, alguns cobiçando, desviaram-se da fé, e perfuraram a si mesmos com muitas dores.
+#v|11 %v|Mas tu, ó homem de Deus, foge destas coisas, e segue a justiça, a devoção #ad|a Deus%ad| , a fé, o amor, a paciência #ad|e%ad| a mansidão.
+#v|12 %v|Luta tu a boa luta da fé; agarra a vida eterna, para a qual também és chamado, e #ad|já%ad| confessaste a boa confissão diante de muitas testemunhas.
+#v|13 %v|Eu te mando, diante de Deus que vivifica todas as coisas, e de Cristo Jesus, que testemunhou a boa confissão diante de Pôncio Pilatos,
+#v|14 %v|Que guardes este mandamento irrepreensível, sem nenhuma mancha #ad|de erro%ad| , até o aparecimento de nosso Senhor Jesus Cristo.
+#v|15 %v|A qual ao seus tempos #ad|devidos%ad| mostrará o bem-aventurado e único poderoso Senhor, Rei dos reis, e Senhor dos Senhores;
+#v|16 %v|O qual #ad|é%ad| o único a ter imortalidade, e habita em uma luz inacessível; a quem nenhum dos homens viu, nem pode ver; ao qual seja a honra, e poder para sempre, Amém.
+#v|17 %v|Manda aos ricos neste mundo, que não sejam soberbos, nem ponham #ad|sua%ad| confiança na incerteza das riquezas, mas sim no Deus vivo, que nos dá todas as coisas abundantemente, para #ad|nossa%ad| alegria.
+#v|18 %v|Que façam o bem, enriqueçam em boas obras, e compartilhem com boa vontade, #ad|e%ad| sejam bons distribuidores.
+#v|19 %v|Acumulando para si mesmos um bom fundamento para o futuro, para que possam obter a {tr,rp:vida eterna}{n4:verdadeira vida}.{trnc: #fn|_c|TR, RP: vida eterna – N4: verdadeira vida %fn|}{n4: #fn|_c|N4: verdadeira vida – TR, RP: vida eterna %fn|}
+#v|20 %v|Timóteo, guarda o depósito #ad|que foi%ad| confiado #ad|a ti%ad| , retirando-te de conversas vãs e profanas, e das oposições que falsamente são chamadas de conhecimento;
+#v|21 %v|Ao qual alguns, ao professarem, se desviaram da fé. A graça #ad|seja%ad| contigo. Amém.
+{tr: #ad|A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana%ad| .}{trnc: #fn|_c|RP, N4 não contêm informação de onde a carta foi escrita %fn|}
