@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Jeremias %name|
 #snm|Jeremias %snm|
-#ver| 20131211 %ver|
+#ver| 20150815 %ver|
 #abbr|Jr %abbr|
 %header|
 
@@ -1010,7 +1010,7 @@ E eu disse:
 #v|19 %v|A Faraó rei do Egito, e a seus servos, seus príncipes, e a todo o seu povo;
 #v|20 %v|E a todas os #ad|povos ali%ad| misturados; e a todos os reis da terra de Uz, e a todos os reis da terra dos filisteus, e a Asquelom, Gaza, e Ecrom; e aos restantes de Asdode;
 #v|21 %v|A Edom, Moabe, e aos filhos de Amom;
-#v|22 %v|E a todos os reis de Tiro, e a todos os reis da Sídon, e aos reis das terras litorâneas que estão além do mar;
+#v|22 %v|E a todos os reis de Tiro, e a todos os reis da Sidom, e aos reis das terras litorâneas que estão além do mar;
 #v|23 %v|E a Dedã, e Tema, e Buz, e a todos os dos cantos mais distantes. #fn|_c|os dos cantos mais distantes – trad. alt. os que cortam os cantos da cabeça %fn|
 #v|24 %v|E a todos os reis de Arábia, e a todos os reis dos povos misturados que habitam no deserto;
 #v|25 %v|E a todos os reis de Zinri, e a todos os reis de Elão, e a todos os reis de Média;
@@ -1071,24 +1071,24 @@ E juntou-se todo o povo contra Jeremias na casa do SENHOR.
 #v|21 %v|E quando ouviu suas palavras o rei Jeoaquim, e todos seus grandes, e todos seus príncipes, então o rei procurou matá-lo; e Urias, ao ouvir #ad|isso%ad| , teve medo, fugiu, e foi ao Egito;
 #v|22 %v|Porém o rei Jeoaquim enviou #ad|alguns%ad| homens a Egito: Elnatã filho de Acbor, e #ad|outros%ad| homens com ele, ao Egito;
 #v|23 %v|Os quais tiraram a Urias do Egito, e o trouxeram ao rei Jeoaquim, que o feriu à espada, e lançou seu cadáver nas sepulturas do povo comum.
-#v|24 %v|Porém a mão porém de Aicã, filho de Safã foi com Jeremias, para que não o entregassem nas mãos do povo para o matarem.
+#v|24 %v|Porém a mão de Aicã, filho de Safã, foi com Jeremias, para que não o entregassem nas mãos do povo para o matarem.
 
 #c|27 %c|
 #v|1 %v|No princípio do reinado de Jeoaquim ,filho de Josias, rei de Judá, veio do SENHOR esta palavra a Jeremias, dizendo:
 #v|2 %v|Assim me disse o SENHOR: Faz para ti amarras e jugos, e os põe sobre teu pescoço;
-#v|3 %v|E envia-os ao rei de Edom, ao rei de Moabe, ao rei dos filhos de Amom, ao rei de Tiro, e ao rei de Sídon, pelas mãos dos mensageiros que vêm a Jerusalém a Zedequias, rei de Judá.
+#v|3 %v|E envia-os ao rei de Edom, ao rei de Moabe, ao rei dos filhos de Amom, ao rei de Tiro, e ao rei de Sidom, pelas mãos dos mensageiros que vêm a Jerusalém a Zedequias, rei de Judá.
 #v|4 %v|E manda-lhes que digam a seus senhores:
  Assim diz o SENHOR dos exércitos, Deus de Israel: 
  Assim direis a vossos senhores: 
 #v|5 %v|Eu fiz a terra, o homem, e os animais que estão sobre a face da terra, com meu grande poder e com meu braço estendido, e a dou a quem for do meu agrado. #fn|_c|for do meu agrado – lit. for bom aos meus olhos %fn|
 #v|6 %v|E agora dei todas estas terras na mão de Nabucodonosor, rei de Babilônia, meu servo, e até mesmo os animais do campo eu lhe dei, para que o sirvam.
-#v|7 %v|E todas as nações servirão a ele, a seu filho, e ao filho de seu filho, até que também venha o tempo de sua própria terra; e muitas nações e grandes reis o servirão.
+#v|7 %v|E todas as nações servirão a ele, a seu filho, e ao filho de seu filho, até que também venha o tempo de sua própria terra; então servirá a muitas nações e grandes reis.
 #v|8 %v|E será que a nação e o reino que não servir a Nabucodonosor, rei da Babilônia, e que não puser seu pescoço sob do jugo do rei de Babilônia, então com espada, com fome e com pestilência castigarei tal nação,
  diz o SENHOR, 
  até que eu os consuma por meio de sua mão. 
 #v|9 %v|E vós não deis ouvidos a vossos profetas, nem a vossos adivinhos, nem a vossos sonhos, nem a vossos videntes, nem a vossos encantadores, que vos falam, dizendo: Não servireis ao rei da Babilônia.
 #v|10 %v|Pois eles vos profetizam mentiras, para vos afastardes de vossa terra, e para que eu vos afugente, e pereçais.
-#v|11 %v|Mas a nação que pôr seu pescoço sob o jugo do rei da Babilônia, e o servir, a essa eu deixarei ficar em seu terra, e a lavrará, e nela habitará
+#v|11 %v|Mas a nação que pôr seu pescoço sob o jugo do rei da Babilônia, e o servir, a essa eu deixarei ficar em seu terra, e a cultivará, e nela habitará
  diz o SENHOR.
 #v|12 %v|E falei também a Zedequias, rei de Judá, conforme todas estas palavras, dizendo:
  Ponde vossos pescoços sob o jugo do rei da Babilônia, e servi a ele e a seu povo; então vivereis. 
@@ -1105,23 +1105,23 @@ E juntou-se todo o povo contra Jeremias na casa do SENHOR.
  Eis que os vasos da casa do SENHOR voltarão da Babilônia em breve. 
  Pois eles vos profetizam mentiras.
 #v|17 %v|Não escuteis a eles; servi ao rei de Babilônia, e então vivereis; por que se tornaria esta cidade em deserto?
-#v|18 %v|Porém se eles são profetas, e se a palavra do SENHOR é com eles, orem agora ao SENHOR dos exércitos, que os vasos que restaram na casa do SENHOR, na casa do rei de Judá, e em Jerusalém, não vão para a Babilônia.
-#v|19 %v|Porque assim diz o SENHOR dos exércitos quanto às colunas, ao mar, às bases, e ao restante dos vasos que restaram nesta cidade,
+#v|18 %v|Porém se eles são profetas, e se a palavra do SENHOR é com eles, orem agora ao SENHOR dos exércitos, que os objetos de valor que restaram na casa do SENHOR, na casa do rei de Judá, e em Jerusalém, não vão para a Babilônia.
+#v|19 %v|Porque assim diz o SENHOR dos exércitos quanto às colunas, ao mar, às bases, e ao restante dos objetos de valor que restaram nesta cidade,
 #v|20 %v|Que Nabucodonosor, rei da Babilônia, não tomou, quando levou cativo de Jerusalém a Babilônia a Jeconias, filho de Jeoaquim, rei de Judá, e a todos os nobres de Judá e de Jerusalém;
-#v|21 %v|Assim pois diz o SENHOR dos exércitos, Deus de Israel, quanto aos vasos que restaram #ad|na%ad| casa do SENHOR, e #ad|na%ad| casa do rei de Judá, e #ad|em%ad| Jerusalém:
+#v|21 %v|Assim pois diz o SENHOR dos exércitos, Deus de Israel, quanto aos objetos de valor que restaram #ad|na%ad| casa do SENHOR, e #ad|na%ad| casa do rei de Judá, e #ad|em%ad| Jerusalém:
 #v|22 %v|Para a Babilônia serão levados, e ali ficarão até o dia em que eu os punirei, diz o SENHOR; então depois eu os farei subir, e os restituirei a este lugar.
 
 #c|28 %c|
 #v|1 %v|E aconteceu no mesmo ano, no princípio do reinado de Zedequias, rei de Judá, no quarto ano, no quinto mês, que Hananias, filho de Azur, profeta que era de Gibeom, falou para mim na casa do SENHOR diante dos sacerdotes e de todo o povo, dizendo:
 #v|2 %v|Assim fala o SENHOR dos exércitos, Deus de Israel, dizendo:
  Quebrarei o jugo do rei da Babilônia. 
-#v|3 %v|Dentro do tempo de dois anos, trarei de volta a este lugar todos os vasos da casa do SENHOR, que Nabucodonosor, rei da Babilônia, tomou deste lugar para os levar à Babilônia;
+#v|3 %v|Dentro do tempo de dois anos, trarei de volta a este lugar todos os objetos de valor da casa do SENHOR, que Nabucodonosor, rei da Babilônia, tomou deste lugar para os levar à Babilônia;
 #v|4 %v|E eu trarei de volta a este lugar a Jeconias filho de Jeoaquim, rei de Judá, e a todos os levados cativos de Judá que entraram na Babilônia,
  diz o SENHOR; 
  pois quebrarei o jugo do rei da Babilônia. 
 #v|5 %v|Então o profeta Jeremias disse ao profeta Hananias, diante dos sacerdotes e diante de todo o povo que estava na casa do SENHOR.
 #v|6 %v|Disse, pois, o profeta Jeremias:
- Amém! Assim o faça o SENHOR! Que o SENHOR confirme as tuas palavras, com que profetizaste; para que os vasos da casa do SENHOR, e todos os cativos sejam trazidos de volta da Babilônia para este lugar. 
+ Amém! Assim o faça o SENHOR! Que o SENHOR confirme as tuas palavras, com que profetizaste; para que os objetos de valor da casa do SENHOR, e todos os cativos sejam trazidos de volta da Babilônia para este lugar. 
 #v|7 %v|Porém ouve agora esta palavra, que eu falo aos teus ouvidos e aos ouvidos de todo o povo:
 #v|8 %v|Os profetas que foram antes de mim e antes de ti, desde os tempos antigos, profetizaram contra muitas terras e grandes reinos, guerra, aflição, e pestilência.
 #v|9 %v|O profeta que profetizar paz, quando suceder a palavra daquele profeta, será reconhecido tal profeta, que o SENHOR verdadeiramente o enviou.
@@ -1129,7 +1129,7 @@ E juntou-se todo o povo contra Jeremias na casa do SENHOR.
 #v|11 %v|E falou Hananias diante dos olhos de todo o povo, dizendo:
  Assim diz o SENHOR: 
  Desta maneira quebrarei o jugo de Nabucodonosor, rei da Babilônia, dentro do tempo de dois anos, de sobre o pescoço de todas as nações. 
-E Jeremias foi embora. #fn|_c|foi embora – lit. foi #ad|em%ad| seu caminho %fn|
+E Jeremias saiu dali. #fn|_c|saiu dali – lit. foi em seu caminho %fn|
 #v|12 %v|Mas depois que o profeta Hananias quebrou o jugo do pescoço do profeta Jeremias, veio a palavra do SENHOR a Jeremias, dizendo:
 #v|13 %v|Vai, e fala a Hananias, dizendo:
  Assim diz o SENHOR: 
@@ -1144,7 +1144,7 @@ E Jeremias foi embora. #fn|_c|foi embora – lit. foi #ad|em%ad| seu caminho %fn
 
 #c|29 %c|
 #v|1 %v|Estas são as palavras da carta que o profeta Jeremias enviou de Jerusalém ao restante dos anciãos levados cativos, como também aos sacerdotes e aos profetas, e a todo o povo, que Nabucodonosor havia transportado de Jerusalém para a Babilônia,
-#v|2 %v|Depois da saída do rei Jeconias, da rainha, dos príncipes de Judá e Jerusalém, e dos carpinteiros e ferreiros de Jerusalém,
+#v|2 %v|Depois da saída do rei Jeconias, da rainha-mãe, dos príncipes de Judá e Jerusalém, e dos carpinteiros e ferreiros de Jerusalém,
 #v|3 %v| #ad|Enviada%ad| pela mão de Elasá, filho de Safã, e de Gemarias, filho de Hilquias, os quais Zedequias rei de Judá enviou a Nabucodonosor rei da Babilônia, dizendo:
 #v|4 %v|Assim diz o SENHOR dos exércitos, Deus de Israel, a todos os levados cativos, os quais fiz transportar de Jerusalém à Babilônia:
 #v|5 %v|Edificai casas, e #ad|nelas%ad| habitai; plantai hortas, e comei o fruto delas.
@@ -1167,7 +1167,7 @@ E Jeremias foi embora. #fn|_c|foi embora – lit. foi #ad|em%ad| seu caminho %fn
  diz o SENHOR; 
  e vos farei voltar ao lugar de onde vos fiz serem levados. 
 #v|15 %v|Visto que dizeis:
- O SENHOR tem nos levantado profetas em Babilônia. 
+ O SENHOR tem nos levantado profetas na Babilônia. 
 #v|16 %v|Portanto assim diz o SENHOR, quanto ao rei que se senta sobre o trono de Davi, e quanto a todo o povo que mora nesta cidade: a vossos irmãos que não saíram convosco em cativeiro;
 #v|17 %v|Assim diz o SENHOR dos exércitos:
  Eis que enviarei contra eles espada, fome, e pestilência; e farei deles como a figos podres, que de tão ruins não podem ser comidos. 
@@ -1179,20 +1179,20 @@ E Jeremias foi embora. #fn|_c|foi embora – lit. foi #ad|em%ad| seu caminho %fn
 #v|20 %v|Ouvi vós, pois, a palavra do SENHOR, vós todos os levados cativos que enviei de Jerusalém à Babilônia.
 #v|21 %v|Assim diz o SENHOR dos exércitos, Deus de Israel, quanto a Acabe filho de Colaías, e quanto a Zedequias filho de Maaseias, que vos profetizam falsamente em meu nome:
  Eis que os entregarei na mão de Nabucodonosor rei da Babilônia, e ele os ferirá diante de vossos olhos. 
-#v|22 %v|E todos os transportados de Judá que estão em Babilônia, tomarão #ad|por causa%ad| deles maldição, dizendo:
- Ponha-te o SENHOR como a Zedequias e como a Acabe, aos quais o rei de Babilônia assou no fogo;
-#v|23 %v|Porque fizeram loucura em Israel, e cometeram adultério com as mulheres de seus próximos; e falaram falsamente em meu nome palavra que não lhes mandei; e disso eu sei, e sou testemunha,
+#v|22 %v|E todos os exilados de Judá que estão na Babilônia, os usarão como objeto de maldição, dizendo:
+ Que o SENHOR faça a ti como a Zedequias e como a Acabe, aos quais o rei de Babilônia assou no fogo;
+#v|23 %v|porque fizeram loucura em Israel, e cometeram adultério com as mulheres de seus próximos; e falaram falsamente em meu nome palavra que não lhes mandei; e disso eu sei, e sou testemunha,
  diz o SENHOR. 
 #v|24 %v|E a Semaías o neelamita falarás, dizendo:
 #v|25 %v|Assim diz o SENHOR dos exércitos, Deus de Israel, dizendo:
  Enviaste em teu nome cartas a todo o povo que está em Jerusalém, e a Sofonias, filho do sacerdote Maaseias, e a todos os sacerdotes, dizendo: 
-#v|26 %v|O SENHOR te pôs por sacerdote em lugar do sacerdote Joiada, para que sejas supervisor #ad|na%ad| casa do SENHOR sobre todo homem furioso e profetizante, para o lançares na prisão e no tronco.
+#v|26 %v|O SENHOR te pôs por sacerdote em lugar do sacerdote Joiada, para que sejas supervisor na casa do SENHOR sobre todo homem furioso e profetizante, para o lançares na prisão e no tronco.
 #v|27 %v|Agora, pois, por que não repreendeste a Jeremias de Anatote, que vos profetiza?
 #v|28 %v|Porque por isso ele nos mandou dizer na Babilônia:
- Duradouro será #ad|o cativeiro%ad| ; edificai casas, e #ad|nelas%ad| morai; plantai hortas, e comei o fruto delas. 
+ #ad|O cativeiro%ad| será duradouro; edificai casas, e #ad|nelas%ad| morai; plantai hortas, e comei o fruto delas. 
 #v|29 %v|E o sacerdote Sofonias leu esta carta aos ouvidos do profeta Jeremias.
 #v|30 %v|Então veio a palavra do SENHOR a Jeremias, dizendo:
-#v|31 %v|Manda dizer a todos os que foram levados:
+#v|31 %v|Manda dizer a todos os que foram exilados:
  Assim diz o SENHOR quanto a Semaías, o neelamita: 
  Visto que Semaías vos profetizou, sem que eu tenha o enviado, e vos fez confiar em mentiras; 
 #v|32 %v|Portanto assim diz o SENHOR:
@@ -1859,7 +1859,7 @@ diz o SENHOR;
 #v|2 %v|Assim diz o SENHOR:
  Eis que águas sobem do norte, e se tornarão em correnteza transbordante, e inundarão a terra e sua plenitude, as cidades, e moradores delas; os homens gritarão, e todos os moradores da terra uivarão, 
 #v|3 %v|Ao ruído dos cascos de seus fortes #ad|cavalos%ad| , o tremor de suas caruagens, e o estrondo de suas rodas; os pais não olharão para os filhos por causa da fraqueza das mãos.
-#v|4 %v|Por causa do dia que vem, para arruinar a todos os filisteus, para cortar a Tiro e a Sídon todo ajudador que restar; pois o SENHOR destruirá aos filisteus, ao resto da ilha de Caftor. #fn|_c|Caftor – trad. alt. Creta %fn|
+#v|4 %v|Por causa do dia que vem, para arruinar a todos os filisteus, para cortar a Tiro e a Sidom todo ajudador que restar; pois o SENHOR destruirá aos filisteus, ao resto da ilha de Caftor. #fn|_c|Caftor – trad. alt. Creta %fn|
 #v|5 %v|Veio calvície sobre Gaza; Ascalom e o resto de seu vale foram cortados fora. Até quando te ferirás com arranhões?
 #v|6 %v|Ah, espada do SENHOR! Até quando não te aquietarás? Volta-te em tua bainha, descansa, e aquieta-te.
 #v|7 %v|Como te aquietarias? Pois o SENHOR lhe deu mandado contra Ascalom, e contra o litoral, #ad|e%ad| ali ele a ordenou.
