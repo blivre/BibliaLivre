@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Marcos %name|
 #snm|Marcos %snm|
-#ver| 20150617 %ver|
+#ver| 20150829 %ver|
 #abbr|Mc %abbr|
 %header|
 
@@ -377,7 +377,7 @@ Quando souberam, disseram:
  Ouvi-me todos, e entendei:
 #v|15 %v|Nada há fora do ser humano que nele entre que o possa contaminar; mas o que dele sai, isso é o que contamina o ser humano.
 #v|16 %v|{tr,rp:Se alguém tem ouvidos para ouvir, ouça.}{trnc: #fn|_c|N4 omite todo o versículo 16. Compare com Marcos 4:9,23 %fn|}{n4:--- #fn|_c|N não contém o versículo 16, presente em RP e TR. Compare com Marcos 4:9,23 %fn|}
-#v|17 %v|Quando #ad|Jesus % deixou a multidão e entrou em casa, seus discípulos lhe perguntaram sobre a parábola.
+#v|17 %v|Quando #ad|Jesus%ad| deixou a multidão e entrou em casa, seus discípulos lhe perguntaram sobre a parábola.
 #v|18 %v|E ele lhes disse:
  Também vós estais assim sem entendimento? Não entendeis que tudo o que de fora entra no ser humano não o pode contaminar?
 #v|19 %v|Pois não entra no seu coração, mas, sim, no ventre, e sai para a privada. (Assim, ele declarou como limpas todas as comidas).
@@ -504,7 +504,7 @@ E ele lhe disse:
  Desde a infância.
 #v|22 %v|E muitas vezes o lançou também no fogo e na água para o destruir. Mas, se podes algo, tem compaixão de nós, e ajuda-nos.
 #v|23 %v|E Jesus lhe disse:
- {tr,rp:Se podes crer, tudo}{n4:Se podes? Tudo} é possível {trnc: #fn|_c|N4: Se podes? Tudo é possível %} ao que crê.
+ {tr,rp:Se podes crer, tudo}{n4:Se podes? Tudo} é possível {trnc: #fn|_c|N4: Se podes? Tudo é possível%fn|} ao que crê.
 #v|24 %v|Logo o pai do menino, clamando, {tr,rp:com lágrimas,}{trnc: #fn|_c|N4 omite “com lágrimas” %fn|} disse:
  Creio{tr,rp:, Senhor}!{trnc: #fn|_c|N4 omite “Senhor” %fn|} Ajuda-me na minha incredulidade.
 #v|25 %v|Quando Jesus viu que a multidão corria e se ajuntava, repreendeu o espírito imundo, dizendo-lhe:
@@ -551,15 +551,15 @@ E ele lhe disse:
  Moisés permitiu escrever carta de divórcio, e deixá-la.
 #v|5 %v|E Jesus lhes respondeu:
  Foi pela dureza dos vossos corações que ele vos escreveu este mandamento.
-#v|6 %v|Porém, desde o princípio da criação, macho e fêmea Deus os fez.
+#v|6 %v|Porém, desde o princípio da criação, macho e fêmea {tr,rp:Deus}{n4:ele}{trnc:#fn|_c|N4 omite "Deus"%fn|} os fez.#ref|_d|Gênesis 1:27%ref|
 #v|7 %v|Por isso, deixará o homem a seu pai e a #ad|sua%ad| mãe{tr,rp:, e se unirá à sua mulher}.{trnc: #fn|_c|N4 omite "e se unirá à sua mulher". Compare com Gênesis 2:24 e Mateus 19:5 %fn|}{n4: #fn|_c|TR, RP acrescentam "e se unirá à sua mulher" ao final do versículo. Compare com Gênesis 2:24 e Mateus 19:5 %fn|}
 #v|8 %v|E os dois serão uma #ad|só%ad| carne; assim, já não são dois, mas sim uma #ad|só%ad| carne.
 #v|9 %v|Portanto, o que Deus juntou, não separe o homem.
-#v|10 %v|E em casa os discípulos voltaram a lhe perguntar sobre isto mesmo.
+#v|10 %v|E em casa {tr,rp:seus}{n4:os}{trnc:#fn|_c|N4 omite "seus"%fn|} discípulos voltaram a lhe perguntar sobre isto mesmo.
 #v|11 %v|E disse-lhes:
  Qualquer um que deixar a sua mulher, e se casar com outra, adultera contra ela.
-#v|12 %v|E se a mulher deixar seu marido, e se casar com outro, adultera.
-#v|13 %v|E lhe traziam crianças para que ele as tocasse, mas os discípulos repreendiam aos que #ad|as%ad| traziam.
+#v|12 %v|E se {tr,rp:a mulher}{n4:ela}{trnc:#fn|_c|TR, RP: "a mulher" - N4: "ela"%fn|} deixar o seu marido, e se casar com outro, adultera.
+#v|13 %v|E lhe traziam crianças para que ele as tocasse, mas os discípulos repreendiam{tr,rp: aos que #ad|as%ad| traziam}{n4:-lhes}{trnc:#fn|_c|N4: repreendiam-lhes%fn|}.
 #v|14 %v|Porém Jesus, vendo, indignou-se, e lhe disse:
  Deixai vir as crianças a mim, e não as impeçais; porque delas é o Reino de Deus.
 #v|15 %v|Em verdade vos digo, que qualquer um que não receber o Reino de Deus como criança, em maneira nenhuma nele entrará.
@@ -586,64 +586,82 @@ E ele lhe disse:
 #v|28 %v|E Pedro começou a lhe dizer:
  Eis que nós deixamos tudo, e te seguimos.
 #v|29 %v|Jesus respondeu:
- Em verdade vos digo, que não há ninguém que tenha deixado casa, ou irmãos, ou irmãs, ou pai, ou mãe, ou mulher, ou filhos, ou campos, por amor de mim e do Evangelho,
-#v|30 %v|que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com perseguições; e a vida eterna, no tempo que virá.
+ Em verdade vos digo, que não há ninguém que tenha deixado casa, ou irmãos, ou irmãs, {tr,rp:ou pai, ou mãe, ou esposa}
+{n4:ou mãe, ou pai},{trnc:#fn|_c|N4 põe "mãe" antes de "pai", e omite "ou esposa"%fn|} ou filhos, ou campos, por amor de mim e 
+do Evangelho,
+#v|30 %v|que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com 
+perseguições; e a vida eterna, no tempo que virá.
 #v|31 %v|Porém muitos primeiros serão últimos, e últimos, primeiros.
-#v|32 %v|E iam pelo caminho, subindo para Jerusalém; e Jesus ia diante deles, e espantavam-se, e seguiam-no atemorizados. E voltando a tomar consigo aos doze, começou-lhes a dizer as coisas que lhe viriam a acontecer:
+#v|32 %v|E iam pelo caminho, subindo para Jerusalém; e Jesus ia diante deles, e espantavam-se, e seguiam-no atemorizados. 
+E voltando a tomar consigo aos doze, começou-lhes a dizer as coisas que lhe viriam a acontecer:
 #v|33 %v|Eis que subimos a Jerusalém, e o Filho do homem será entregue aos chefes dos sacerdotes, e aos escribas; e o condenarão à morte, e o entregarão aos gentios.
-#v|34 %v|E escarnecerão dele, e o açoitarão, e cuspirão nele, e o matarão; e ao terceiro dia ressuscitará.
-#v|35 %v|E vieram a ele Tiago e João, filhos de Zebedeu, dizendo:
+#v|34 %v|E escarnecerão dele, e {tr,rp:o açoitarão, e cuspirão nele}{n4:cuspirão nele, e o açoitarão},
+{trnc:#fn|_c|N4 põe "cuspirão nele" antes de "o açoitarão"%fn|} e o matarão; e {tr,rp:ao 
+terceiro dia}{n4:três dias depois}{trnc:#fn|_c|N4: três dias depois%fn|} ressuscitará.
+#v|35 %v|E vieram a ele Tiago e João, filhos de Zebedeu, dizendo{n4:-lhe}:{trnc:#fn|_c|N4: dizendo-lhe%fn|}
  Mestre, queríamos que nos fizesses o que pedirmos.
 #v|36 %v|E ele lhes disse:
  O que quereis que eu vos faça?
 #v|37 %v|E eles lhe disseram:
  Concede-nos que em tua glória nos sentemos, um à tua direita, e outro à tua esquerda?
 #v|38 %v|Mas Jesus lhes disse:
- Não sabeis o que pedis; podeis vós beber o copo que eu bebo, e ser batizados com o batismo com que eu sou batizado?
+ Não sabeis o que pedis; podeis vós beber o copo que eu bebo, {tr,rp:e}{n4:ou} ser 
+batizados{trnc:#fn|_c|N4:ou ser batizados%fn|} com o batismo com que eu sou batizado?
 #v|39 %v|E eles lhe disseram:
  Podemos. 
 Porém Jesus lhes disse: 
  Em verdade, o copo que eu bebo, bebereis; e com o batismo com que eu sou batizado, sereis batizados.
-#v|40 %v|Mas sentar-se à minha direita, ou à minha esquerda, não é meu concedê-lo, mas sim, para aqueles a quem está preparado.
+#v|40 %v|Mas sentar-se à minha direita, {tr,rp:e}{n4:ou}{trnc:#fn|_c|N4: e%fn|} à minha esquerda, não é meu concedê-lo, mas 
+sim, para aqueles a quem está preparado.
 #v|41 %v|E quando os dez ouviram isto, começaram a se irritar contra Tiago e João.
 #v|42 %v|Mas Jesus, chamando-os a si, disse-lhes:
  Já sabeis que os que são vistos como governadores dos gentios, agem como senhores deles; e os grandes usam de autoridade sobre eles.
 #v|43 %v|Mas entre vós não será assim; antes qualquer que entre vós quiser ser grande, será vosso servidor.
 #v|44 %v|E qualquer que de vós quiser ser o primeiro, será servo de todos.
 #v|45 %v|Porque também não veio o Filho do homem para ser servido, mas para servir, e dar sua vida em resgate por muitos.
-#v|46 %v|E vieram a Jericó. E saindo ele, e seus discípulos, e uma grande multidão de Jericó, estava Bartimeu o cego, filho de Timeu, sentado junto ao caminho, mendigando.
+#v|46 %v|E vieram a Jericó. E saindo ele, e seus discípulos, e uma grande multidão de Jericó, estava Bartimeu, 
+{tr,rp:um cego}{n4:um mendigo cego}, {trnc:#fn|_c|N4%: um mendigo cegofn|}
+filho de Timeu, sentado junto ao caminho{tn,rp:, mendigando}.{trnc:#fn|_c|N4 omite "mendigando"%fn|}
 #v|47 %v|E ouvindo que era Jesus o nazareno, começou a clamar, e a dizer:
  Jesus, Filho de Davi! Tem misericórdia de mim!
 #v|48 %v|E muitos o repreendiam, para que se calasse; mas ele clamava ainda mais:
  Filho de Davi! Tem misericórdia de mim!
-#v|49 %v|E parando Jesus, disse que o chamassem; e chamaram ao cego, dizendo-lhe:
- Tem bom ânimo, levanta-te, #ad|ele%ad| te chama.
-#v|50 %v|E lançando ele sua capa, levantou-se, e veio a Jesus.
-#v|51 %v|E respondendo Jesus, disse-lhe:
- Que queres que #ad|eu%ad| te faça? 
+#v|49 %v|Jesus parou, e disse{tr,rp: que o chamassem}{n4::chamai-o}.{trnc:#fn|_c|N4: "e disse: chamai-o"%fn|} Então 
+chamaram ao cego, dizendo-lhe:
+ Tem bom ânimo, levanta-te, ele está te chamando.
+#v|50 %v|Então ele lançou sua capa, {tr,rp:levantou-se}{n4:deu um salto}, e veio a Jesus.
+#v|51 %v|Jesus, lhe perguntou:
+ Que queres que eu te faça? 
 E o cego lhe disse: 
- Mestre, #ad|quero%ad| que veja.
-#v|52 %v|E Jesus lhe disse:
- Vai-te; tua fé te salvou. 
-E logo viu; e seguia a Jesus pelo caminho.
+ Mestre, que eu veja.
+#v|52 %v|Jesus lhe disse:
+ Vai; a tua fé te salvou. 
+E logo consegiu ver. Então seguiu {tr,rp:Jesus}{n4:#ad|Jesus%ad|#fn|_c|Lit. seguia-o%fn|}{trnc:#fn|_c|TR, RP: seguia Jesus - 
+N4: seguia-o%fn|} pelo caminho.
 
 #c|11 %c|
-#v|1 %v|E quando chegaram perto de Jerusalém, em Betfagé e Betânia, ao monte das Oliveiras, #ad|Jesus%ad| mandou dois de seus discípulos,
-#v|2 %v|E disse-lhes:
- Ide à aldeia, que está em fronte de vós; e logo, nela entrando, achareis um jumentinho atado, sobre o qual ninguém se sentou; soltai-o, e trazei-o.
+#v|1 %v|E quando se aproximaram de Jerusalém, de Betfagé, e de Betânia, junto ao monte das Oliveiras, 
+#ad|Jesus%ad| enviou dois de seus discípulos,
+#v|2 %v|dizendo-lhes:
+ Ide ao vilarejo que está adiante de vós; e assim que nela entrardes, achareis um jumentinho amarrado, sobre o qual ninguém 
+se sentou; soltai-o, e trazei-o.
 #v|3 %v|E se alguém vos disser:
  Por que fazeis isso?, 
- dizei que: 
- O Senhor precisa dele, e logo o mandará de volta para cá.
-#v|4 %v|E foram, e acharam o jumentinho atado à porta, #ad|do lado de%ad| fora em uma esquina, e o soltaram.
-#v|5 %v|E alguns dos que ali estavam, lhes disseram:
+ dizei: 
+ O Senhor precisa dele, e logo o devolverá para cá.
+#v|4 %v|Eles foram, e acharam {tr,rp:o}{n4:um}{trnc:#fn|_c|N4:um%fn|} jumentinho amarrado à porta, do lado de fora em uma 
+esquina, e o soltaram.
+#v|5 %v|E alguns dos que ali estavam lhes perguntaram:
  Que fazeis, soltando o jumentinho?
-#v|6 %v|Porém eles lhes disseram como Jesus #ad|lhes%ad| tinha mandado, e os deixaram ir.
-#v|7 %v|E trouxeram o jumentinho a Jesus, e lançaram sobre ele suas roupas, e sentou-se sobre ele.
-#v|8 %v|E muitos estendiam suas roupas pelo caminho, e outros cortavam ramos das árvores, e os espalhavam pelo caminho.
+#v|6 %v|Eles lhes disseram como Jesus #ad|lhes%ad| havia {tr,rp:mandado}{n4:dito},{trnc:#fn|_c|N4:dito%fn|} e os deixaram ir.
+#v|7 %v|Então trouxeram o jumentinho a Jesus. Lançaram sobre ele suas roupas, e #ad|Jesus%ad| sentou-se sobre ele.
+#v|8 %v|Muitos estendiam suas roupas pelo caminho, e outros {tr,rp:cortavam ramos das árvores, e os espalhavam pelo caminho.}
+{n4:#ad|espalhavam%ad|ramos que haviam cortado dos campos}.{trnc:#fn|_c|TR, RP: cortavam ramos das árvores, e os espalhavam 
+pelo caminho - N4: #ad|espalhavam%ad| ramos que haviam cortado dos campos%fn|}
 #v|9 %v|E os que iam adiante, e os que seguiam, clamavam:
  Hosana, bendito o que vem no Nome do Senhor!
-#v|10 %v|Bendito o Reino de nosso Pai Davi, que vem no Nome do Senhor! Hosana nas alturas!
+#v|10 %v|Bendito o Reino que vem{tr,rp: no Nome do Senhor},{trnc:#fn|_c|N4 omite "no Nome do Senhor"%fn|} #ad|o Reino%ad| do 
+nosso pai Davi! Hosana nas alturas!
 #v|11 %v|E Jesus entrou em Jerusalém, e no Templo; e havendo visto tudo ao redor, e sendo já tarde, saiu-se para Betânia com os doze.
 #v|12 %v|E no dia seguinte, saindo eles de Betânia, teve fome.
 #v|13 %v|E vendo de longe uma figueira, que tinha folhas, #ad|veio ver%ad| se acharia alguma coisa nela; e chegando a ela, nada achou, a não ser folhas; porque não era tempo de figos.
