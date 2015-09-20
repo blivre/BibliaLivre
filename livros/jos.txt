@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Livro de Josué %name|
 #snm|Josué %snm|
-#ver| 20150103 %ver|
+#ver| 20150920 %ver|
 #abbr|Jos %abbr|
 %header|
 
@@ -16,14 +16,14 @@
 #v|8 %v|O livro desta lei nunca se apartará de tua boca: antes de dia e de noite meditarás nele, para que guardes e faças conforme tudo o que nele está escrito: porque então farás prosperar teu caminho, e tudo te sairá bem.
 #v|9 %v|Olha que te mando que te esforces e sejas valente: não temas nem desmaies, porque o SENHOR teu Deus será contigo onde quer que fores.
 #v|10 %v|E Josué mandou aos oficiais do povo, dizendo:
-#v|11 %v|Passai por meio do acampamento, e mandai ao povo, dizendo: Preveni-vos de comida; porque dentro de três dias passareis o Jordão, para que entreis a possuir a terra que o SENHOR vosso Deus vos dá para que a possuais.
+#v|11 %v|Passai por meio do acampamento, e mandai ao povo, dizendo: Abastecei-vos de comida; porque dentro de três dias passareis o Jordão, para que entreis a possuir a terra que o SENHOR vosso Deus vos dá para que a possuais.
 #v|12 %v|Também falou Josué aos rubenitas e gaditas, e à meia tribo de Manassés, dizendo:
 #v|13 %v|Lembrai-vos da palavra que Moisés, servo do SENHOR, vos mandou dizendo: o SENHOR vosso Deus vos deu repouso, e vos deu esta terra.
 #v|14 %v|Vossas mulheres e vossos meninos e vossas animais, ficarão na terra que Moisés vos deu desta parte do Jordão; mas vós, todos os valentes e fortes, passareis armados diante de vossos irmãos, e lhes ajudareis;
 #v|15 %v|Até tanto que o SENHOR tenha dado repouso a vossos irmãos como a vós, e que eles também possuam a terra que o SENHOR vosso Deus lhes dá: e depois voltareis vós à terra de vossa herança, a qual Moisés servo do SENHOR vos deu, desta parte do Jordão até o oriente; e a possuireis.
 #v|16 %v|Então responderam a Josué, dizendo: Nós faremos todas as coisas que nos mandaste, e iremos aonde quer que nos mandares.
 #v|17 %v|Da maneira que obedecemos a Moisés em todas as coisas, assim obedeceremos a ti: somente o SENHOR teu Deus seja contigo, como foi com Moisés.
-#v|18 %v|Qualquer um que for rebelde a tua mandamento, e não obedecer a tuas palavras em todas as coisas que lhe mandares, que morra; somente que te esforces, e sejas valente.
+#v|18 %v|Qualquer um que for rebelde ao teu mandamento, e não obedecer às tuas palavras em todas as coisas que lhe mandares, que morra; somente que te esforces, e sejas valente.
 
 #c|2 %c|
 #v|1 %v|E Josué, filho de Num, enviou desde Sitim dois espias secretamente, dizendo-lhes: Andai, reconhecei a terra, e a Jericó. Os quais foram, e entraram em casa de uma mulher prostituta que se chamava Raabe, e passaram a noite ali.
@@ -39,7 +39,7 @@
 #v|11 %v|Ouvindo isto, desmaiou nosso coração; nem restou mais espírito em alguém por causa de vós: porque o SENHOR vosso Deus é Deus acima nos céus e abaixo na terra.
 #v|12 %v|Rogo-vos, pois, agora, me jureis pelo SENHOR, que como fiz misericórdia convosco, assim a fareis vós com a casa de meu pai, do qual me dareis um sinal certo;
 #v|13 %v|E que salvareis a vida a meu pai e a minha mãe, e a meus irmãos e irmãs, e a todo o que for seu; e que livrareis nossas vidas da morte.
-#v|14 %v|E eles lhe responderam: Nossa alma por vós até a morte, se não denunciardes este nosso negócio: e quando o SENHOR nos houver dado a terra, nós faremos contigo misericórdia e verdade.
+#v|14 %v|E eles lhe responderam: Nossa vida esteja pela vossa até a morte, se não denunciardes este nosso negócio; e quando o SENHOR houver nos dado a terra, nós a trataremos com misericórdia e fidelidade.
 #v|15 %v|Então ela os fez descer com uma corda pela janela; porque sua casa estava à parede do muro, e ela vivia no muro.
 #v|16 %v|E disse-lhes: Marchai-vos ao monte, porque os que foram atrás vós não vos encontrem; e estai escondidos ali três dias, até que os que vos seguem tenham voltado; e depois vos ireis vosso caminho.
 #v|17 %v|E eles lhe disseram: Nós seremos desobrigados deste juramento com que nos hás conjurado.

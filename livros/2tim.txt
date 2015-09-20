@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Segunda Carta de Paulo a Timóteo %name|
 #snm|2 Timóteo %snm|
-#ver| 20131012 %ver|
+#ver| 20150920 %ver|
 #abbr|2Tm %abbr|
 %header|
 
@@ -36,7 +36,7 @@
 #v|8 %v|Lembra-te de Jesus Cristo, ressuscitado dos mortos, da semente de Davi, segundo meu Evangelho;
 #v|9 %v|Pelo qual até as prisões, como criminoso, sofro aflições; mas a palavra de Deus não está presa.
 #v|10 %v|Por isso sofro tudo por causa dos escolhidos, para que também eles obtenham a salvação que está em Cristo Jesus com glória eterna.
-#v|11 %v|Fiel #ad|é esta%ad| palavra: porque morrermos com #ad|ele%ad| , também com #ad|ele%ad| viveremos;
+#v|11 %v|Fiel #ad|é esta%ad| palavra: porque se morrermos com #ad|ele%ad|, também com #ad|ele%ad| viveremos;
 #v|12 %v|Se sofrermos, também com #ad|ele%ad| reinaremos; se o negarmos, ele também nos negará;
 #v|13 %v|Se formos infiéis, ele continua fiel; #ad|porque%ad| ele não pode negar a si mesmo.
 #v|14 %v|Traze estas coisas à memória #ad|deles%ad| , ordenando sob juramento diante do Senhor, que não tenham brigas por meio de palavras, que para nada aproveitam, #ad|a não ser%ad| para a perversão dos ouvintes.
@@ -47,7 +47,7 @@
 #v|19 %v|Porém o firme fundamento de Deus continua, tendo este selo: o Senhor conhece os que são dele, e qualquer um que declara o nome de Cristo, que se afaste da injustiça.
 #v|20 %v|Mas em uma grande casa não há somente vasos de ouro e de prata, mas também de madeira e de barro; e uns para honra, mas outros para desonra.
 #v|21 %v|Portanto se alguém se purifica destas coisas, será vaso para honra, santificado e adequado para uso do Dono, #ad|e%ad| preparado para toda boa obra.
-#v|22 %v|Mas foge dos desejos da juventude; e prossegue #ad|na%ad| justiça, fé, amor paz, com os que de coração puro chamam ao Senhor.
+#v|22 %v|Mas foge dos desejos da juventude; e segue a justiça, a fé, o amor, #ad|e%ad| a paz, com os que de coração puro chamam ao Senhor.
 #v|23 %v|Rejeita as questões sem sentido e desprovidas de instrução, sabendo que elas produzem brigas.
 #v|24 %v|E não convém ao servo do Senhor brigar, mas sim ser gentil para com todos, apto para ensinar e suportar o mal;
 #v|25 %v|Instruindo com mansidão aos que se opõem, a fim de que talvez Deus lhes dê arrependimento para conhecerem a verdade;
