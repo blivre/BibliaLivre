@@ -1,58 +1,58 @@
 ﻿#header|
 #name|Evangelho Segundo Lucas %name|
 #snm|Lucas %snm|
-#ver| 20141226 %ver|
+#ver| 20150926 %ver|
 #abbr|Lc %abbr|
 %header|
 
 #c|1 %c|
 #v|1 %v|Uma vez que muitos empreenderam pôr em ordem o relato das coisas que se cumpriram entre nós,
-#v|2 %v|Assim como eles, os que desde os princípio viram #ad|tais coisas%ad| , e foram ministros das palavra, nos entregaram,
+#v|2 %v|Assim como eles, os que desde o princípio viram #ad|tais coisas%ad| , e foram ministros das palavra, nos entregaram,
 #v|3 %v|Pareceu-me bom que também eu, que tenho me informado com exatidão desde o princípio, escrevesse #ad|estas coisas%ad| em ordem para ti, excelentíssimo Teófilo,
-#v|4 %v|Para que conheças a certeza das coisas de que foste ensinado.
+#v|4 %v|Para que tenhas a certeza das coisas de que foste ensinado.
 #v|5 %v|Houve nos dias de Herodes, rei da Judeia, um sacerdote, por nome Zacarias, da ordem de Abias; e sua mulher das filhas de Arão, e #ad|era%ad| seu nome Isabel.
 #v|6 %v|E eram ambos justos diante de Deus, andando em todos os mandamentos e preceitos do Senhor sem repreensão.
 #v|7 %v|E não tinham filhos, porque Isabel era estéril, e ambos tinham muitos anos de vida. #fn|_c|tinham muitos anos de vida – lit. eram avançados em dias %fn|
 #v|8 %v|E aconteceu que, fazendo ele o trabalho sacerdotal diante de Deus, na ordem de sua vez,
-#v|9 %v|Conforme o costume do sacerdócio, lhe caiu em sorte entrar no Templo do Senhor, para oferecer o incenso.
+#v|9 %v|Conforme o costume do sacerdócio, lhe caiu em sorte entrar no santuário do Senhor, para oferecer o incenso.
 #v|10 %v|E toda a multidão do povo estava fora orando, na hora do incenso.
-#v|11 %v|E apareceu-lhe um anjo do Senhor, estando à direita do altar do incenso.
-#v|12 %v|E Zacarias vendo #ad|-o%ad| , ficou perturbado, e caiu medo sobre ele.
+#v|11 %v|E apareceu-lhe um anjo do Senhor, em pé, à direita do altar do incenso.
+#v|12 %v|Quando Zacarias #ad|o%ad| viu, ficou perturbado, e foi tomado pelo medo.
 #v|13 %v|Mas o anjo lhe disse:
  Zacarias, não temas, porque tua oração foi ouvida, e tua mulher Isabel dará a ti um filho, e chamarás seu nome João.
 #v|14 %v|E terás prazer e alegria, e muitos se alegrarão de seu nascimento.
-#v|15 %v|Porque #ad|ele%ad| será grande diante do Senhor, e não beberá vinho, nem bebida alcoólica, e será cheio do Espírito Santo, até desde o ventre de sua mãe.
+#v|15 %v|Porque ele será grande diante do Senhor, e não beberá vinho, nem bebida alcoólica, e será cheio do Espírito Santo, já desde o ventre de sua mãe.
 #v|16 %v|E #ad|ele%ad| converterá a muitos dos filhos de Israel ao Senhor Deus deles.
 #v|17 %v|E irá diante dele no espírito e virtude de Elias, para converter os corações dos pais aos filhos, e os rebeldes à prudência dos justos; para preparar um povo pronto para o Senhor.
 #v|18 %v|E disse Zacarias ao anjo:
- Como conhecerei isto? Pois eu sou velho, e a minha mulher avançada em dias.
+ Como terei certeza disso? Pois eu sou velho, e a minha mulher de idade avançada.#fn|_k|idade avançada|_c|Lit. avançada em dias%fn|
 #v|19 %v|E respondendo o anjo, disse-lhe:
  Eu sou Gabriel, que fico presente diante de Deus, e fui mandado para falar a ti, e para te dar estas boas notícias.
 #v|20 %v|E eis que tu ficarás mudo, e não poderás falar, até o dia em que estas coisas aconteçam, porque não creste nas minhas palavras, que se cumprirão a seu tempo.
 #v|21 %v|E o povo estava esperando a Zacarias, e maravilhavam-se de que demorava no Templo.
-#v|22 %v|E saindo ele, não lhes podia falar; e entenderam, que tinha visto alguma visão no Templo. E #ad|apenas%ad| lhes fazia gestos, e ficou mudo.
+#v|22 %v|Quando ele saiu, não podia lhes falar; e entenderam que havia tido alguma visão no santuário. E #ad|apenas%ad| lhes fazia gestos, e ficou mudo.
 #v|23 %v|E sucedeu que, cumpridos os dias de seu serviço, veio para sua casa.
 #v|24 %v|E depois daqueles dias sua mulher Isabel concebeu, e #ad|ela%ad| se escondia por cinco meses, dizendo:
 #v|25 %v|Porque isto me fez o Senhor nos dias em que #ad|ele me%ad| observou , para tirar minha humilhação entre as pessoas.
-#v|26 %v|E no sexto mês o anjo Gabriel foi enviado de Deus a uma cidade da Galileia, chamada Nazaré;
+#v|26 %v|E no sexto mês o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré;
 #v|27 %v|A uma virgem prometida em casamento com um homem, cujo nome era José, da casa de Davi; e o nome da virgem era Maria.
 #v|28 %v|E entrando o anjo #ad|onde%ad| ela #ad|estava%ad| , disse:
  Tenhas alegria, agraciada; o Senhor #ad|é%ad| contigo{tr,rp:, bendita #ad|és%ad| tu entre as mulheres}.{trnc: #fn|_c|N4 omite "bendita #ad|és%ad| tu entre as mulheres" %fn|}{n4: #fn|_c|TR, RP acrescentam "bendita #ad|és%ad| tu entre as mulheres" ao final do versículo. %fn|}
-#v|29 %v|E ela, vendo #ad|-o%ad| ela, perturbou-se muito por suas palavras, e perguntava a si mesma que saudação seria esta.
-#v|30 %v|E disse-lhe o anjo:
+#v|29 %v|Quando ela #ad|o%ad| viu, perturbou-se muito por suas palavras, e perguntava a si mesma que saudação seria esta.
+#v|30 %v|E o anjo disse-lhe:
  Maria, não temas, porque encontraste graça diante de Deus.
 #v|31 %v|E eis que ficarás grávida, e farás nascer um filho, e chamarás seu nome Jesus.
 #v|32 %v|Este será grande, e será chamado Filho do Altíssimo; e o Senhor Deus lhe dará o trono de seu pai Davi.
-#v|33 %v|E reinará na casa de Jacó eternamente, e de seu Reino não terá fim.
+#v|33 %v|E reinará na casa de Jacó eternamente, e o Reino dele não terá fim.
 #v|34 %v|E disse Maria ao anjo:
  Como será isto? Pois não conheço o íntimo de homem algum.
 #v|35 %v|E respondendo o anjo, disse-lhe:
  O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra. Por isso o Santo que nascerá de ti será chamado Filho de Deus.
-#v|36 %v|E eis que Isabel, tua prima, também tem concebido um filho em sua velhice; e este é o sexto mês daquela que era chamada a estéril.
+#v|36 %v|E eis que Isabel, tua prima, também concebeu um filho em sua velhice; e este é o sexto mês daquela que era chamada a estéril.
 #v|37 %v|Porque para Deus nenhuma palavra será impossível.
 #v|38 %v|Então disse Maria:
- Eis aqui a serva do Senhor; cumpra-se em mim segundo tua palavra. 
-E o Anjo saiu de #ad|onde%ad| ela #ad|estava%ad| .
+ Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra. 
+E o anjo saiu de onde ela estava.
 #v|39 %v|E levantando-se Maria naqueles dias, foi-se apressadamente às montanhas, a uma cidade de Judá.
 #v|40 %v|E entrou na casa de Zacarias, e saudou a Isabel.
 #v|41 %v|E aconteceu que, quando Isabel ouviu a saudação de Maria, a criança saltou em seu ventre, e Isabel foi cheia do Espírito Santo.
@@ -74,20 +74,20 @@ E o Anjo saiu de #ad|onde%ad| ela #ad|estava%ad| .
 #v|55 %v|Como falou a nossos pais, a Abraão, e à sua semente, para sempre.
 #v|56 %v|E Maria ficou com ela quase três meses: e #ad|depois%ad| voltou para sua casa.
 #v|57 %v|E a Isabel se lhe cumpriu o tempo do parto, e fez nascer um filho.
-#v|58 %v|E os vizinhos e seus parentes ouviram que o Senhor tinha usado de grande misericórdia com ela; e alegraram-se com ela.
+#v|58 %v|E os vizinhos e seus parentes ouviram que o Senhor havia lhe sido grandemente misericordioso; e alegraram-se com ela.
 #v|59 %v|E aconteceu que ao oitavo dia vieram para circuncidarem ao menino; e o chamavam do nome de seu pai, Zacarias.
 #v|60 %v|E respondendo sua mãe, disse:
  Não, mas #ad|ele%ad| será chamado João.
 #v|61 %v|E disseram-lhe:
  Ninguém há entre teus parentes que se chame deste nome.
 #v|62 %v|E fizeram gestos a seu pai, #ad|perguntando%ad| como queria que lhe chamassem.
-#v|63 %v|E pedindo ele a tábua de escrever, escreveu, dizendo:
- João é seu nome. 
+#v|63 %v|E pedindo ele uma tábua, escreveu:
+ João é o nome dele. 
 E todos se maravilharam.
 #v|64 %v|E logo sua boca se abriu, e sua língua se #ad|soltou%ad| ; e #ad|ele%ad| falava, louvando a Deus.
 #v|65 %v|E veio um temor sobre todos seus vizinhos; e em todas as regiões montanhosas da Judeia foram divulgadas todas estas coisas.
 #v|66 %v|E todos os que #ad|as%ad| ouviam, colocavam #ad|-nas%ad| em seus corações, dizendo:
- Quem será ora este menino? 
+ Ora, quem será este menino? 
 E a mão do Senhor era com ele.
 #v|67 %v|E Zacarias seu pai foi cheio do Espírito Santo, e profetizou, dizendo:
 #v|68 %v|Bendito o Senhor Deus de Israel, porque visitou, e redimiu a seu povo;

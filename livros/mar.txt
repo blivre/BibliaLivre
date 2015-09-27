@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Marcos %name|
 #snm|Marcos %snm|
-#ver| 20150829 %ver|
+#ver| 20150926 %ver|
 #abbr|Mc %abbr|
 %header|
 
@@ -231,7 +231,7 @@ E respondeu:
 #v|12 %v|E {tr,rp:todos} #ad|aqueles {tr,rp:%ad| } demônios {n4:%ad| } rogaram-lhe, dizendo:
  Manda-nos para aqueles porcos, para que entremos neles.
 #v|13 %v|{tr,rp:Imediatamente Jesus}{n4: #ad|Jesus%ad| }{trnc: #fn|_c|N4 omite “Imediatamente Jesus” %fn|} lhes permitiu. Então aqueles espíritos imundos saíram para entrar nos porcos; e a manada lançou-se abaixo no mar; (eram quase dois mil) e afogaram-se no mar.
-#v|14 %v|Os que {n4: os } apascentavam {tr,rp: os porcos} {trnc: #fn|_c|N4 omite “os porcos” %fn|} fugiram, e avisaram na cidade e nos campos; e #as pessoas%ad| foram ver o que havia acontecido.
+#v|14 %v|Os que {n4: os } apascentavam {tr,rp: os porcos} {trnc: #fn|_c|N4 omite “os porcos” %fn|} fugiram, e avisaram na cidade e nos campos; e #ad|as pessoas%ad| foram ver o que havia acontecido.
 #v|15 %v|Então aproximaram-se de Jesus, e viram o endemoninhado sentado, vestido, e em sã consciência o que tivera a legião; e ficaram apavorados.
 #v|16 %v|E os que haviam visto contaram-lhes o que acontecera ao endemoninhado, e sobre os porcos.
 #v|17 %v|Então começaram a rogar-lhe que saísse do território deles.
@@ -620,7 +620,7 @@ sim, para aqueles a quem está preparado.
 #v|44 %v|E qualquer que de vós quiser ser o primeiro, será servo de todos.
 #v|45 %v|Porque também não veio o Filho do homem para ser servido, mas para servir, e dar sua vida em resgate por muitos.
 #v|46 %v|E vieram a Jericó. E saindo ele, e seus discípulos, e uma grande multidão de Jericó, estava Bartimeu, 
-{tr,rp:um cego}{n4:um mendigo cego}, {trnc:#fn|_c|N4%: um mendigo cegofn|}
+{tr,rp:um cego}{n4:um mendigo cego}, {trnc:#fn|_c|N4: um mendigo cego%fn|}
 filho de Timeu, sentado junto ao caminho{tn,rp:, mendigando}.{trnc:#fn|_c|N4 omite "mendigando"%fn|}
 #v|47 %v|E ouvindo que era Jesus o nazareno, começou a clamar, e a dizer:
  Jesus, Filho de Davi! Tem misericórdia de mim!

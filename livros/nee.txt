@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Neemias %name|
 #snm|Neemias %snm|
-#ver| 20130107 %ver|
+#ver| 20150926 %ver|
 #abbr|Ne %abbr|
 %header|
 
@@ -82,7 +82,7 @@ Assim esforçaram suas mãos para uma boa obra.
 #v|19 %v|Ao seu lado reparou Ezer filho de Jesua, líder de Mispá, outra medida; em frente da subida à casa de armas da esquina.
 #v|20 %v|Depois dele reparou com grande fervor Baruque filho de Zabai a outra medida; desde a esquina até a porta da casa de Eliasibe, o sumo sacerdote.
 #v|21 %v|Depois dele reparou Meremote filho de Urias filho de Coz a outra medida, desde a entrada da casa de Eliasibe, até o fim da casa de Eliasibe.
-#v|22 %v|E depois dele repararam os sacerdotes, os que habitavam na planície.
+#v|22 %v|E depois dele repararam os sacerdotes, os que habitavam na vizinhança.
 #v|23 %v|Depois deles repararam Benjamim e Hassube, em frente da casa deles; e depois deles reparou Azarias, filho de Maaseias, filho de Ananias, perto de sua casa.
 #v|24 %v|Depois dele reparou Binui filho de Henadade, outra medida; desde a casa de Azarias até a esquina, e até o canto.
 #v|25 %v|Palal, filho de Uzai, em frente da esquina e a torre que sai da casa superior do rei, que está junto ao pátio da prisão. Depois dele, Pedaías filho de Parós.
@@ -195,7 +195,7 @@ Esforça pois minhas mãos, #ad|ó Deus%ad| .
 
 #c|7 %c|
 #v|1 %v|Sucedeu, pois, que, quando o muro já havia sido edificado, e já tinha posto as portas, e sido estabelecidos os porteiros, os cantores e os Levitas,
-#v|2 %v|Mandei a meu irmão Hanani, e a Hananias, chefe do palácio de Jerusalém (porque era um homem fiel e temente a Deus, mais que muitos),
+#v|2 %v|Mandei o meu irmão Hanani, e Hananias, chefe do palácio de Jerusalém (porque era um homem fiel e temente a Deus, mais que muitos),
 #v|3 %v|E disse-lhes:
  Não se abram as portas de Jerusalém até que o sol aqueça; e enquanto ainda estiverem presentes, fechem as portas, e #ad|as%ad| trancai. E ponham-se guardas dos moradores de Jerusalém, cada um em sua guarda, e cada um diante de sua casa.
 #v|4 %v|E a cidade era espaçosa e grande, porém pouca gente havia dentro dela, e as casas #ad|ainda%ad| não tinham sido reconstruídas.
