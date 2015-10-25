@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Lucas %name|
 #snm|Lucas %snm|
-#ver| 20150926 %ver|
+#ver| 20151025 %ver|
 #abbr|Lc %abbr|
 %header|
 
@@ -109,20 +109,20 @@ E a mão do Senhor era com ele.
 #v|2 %v|(Este registro foi feita pela primeira vez sendo Cirênio o governador da Síria.)
 #v|3 %v|E iam todos para se registrarem, cada qual à sua própria cidade.
 #v|4 %v|E José também subiu da Galileia, da cidade de Nazaré à Judeia, à cidade de Davi, que se chama Belém; (porque #ad|ele%ad| era da casa e família de Davi.)
-#v|5 %v|Para se registrar com Maria sua mulher, com ele desposada, a qual estava grávida.
+#v|5 %v|Para se registrar com Maria sua mulher, com ele prometida em casamento, estando ela grávida.
 #v|6 %v|E aconteceu que, estando eles ali, se cumpriram os dias do seu parto.
-#v|7 %v|E ela gerou a seu filho, o primogênito, e o envolveu em panos, e o deitou em uma manjedoura; porque não havia lugar para eles no lugar onde iriam se hospedar.
-#v|8 %v|E havia pastores naquela mesma localidade, que estavam no campo, e guardavam as vigias da noite sobre seu rebanho.
-#v|9 %v|E eis que um anjo do Senhor veio sobre eles, e a glória do Senhor lhes resplandeceu, e temeram com grande temor.
+#v|7 %v|E ela gerou o seu filho, o primogênito, e o envolveu em panos, e o deitou em uma manjedoura; porque não havia lugar para eles onde iriam se hospedar.
+#v|8 %v|E havia pastores naquela mesma localidade, que estavam no campo, e guardavam o seu rebanho durante as vigílias da noite.
+#v|9 %v|E eis que um anjo do Senhor veio sobre eles, e a glória do Senhor lhes resplandeceu, e temeram grandemente.
 #v|10 %v|E o anjo lhes disse:
  Não temais; porque eis que vos dou boas notícias de grande alegria, que será para todo o povo;
 #v|11 %v|Que hoje vos é nascido o Salvador, que é Cristo o Senhor, na cidade de Davi.
 #v|12 %v|E isto vos será #ad|por%ad| sinal: achareis ao menino envolto em panos, #ad|e%ad| deitado em uma manjedoura.
 #v|13 %v|E no mesmo instante houve com o anjo uma multidão de exércitos celestiais, que louvavam a Deus, e diziam:
 #v|14 %v|Glória nas alturas a Deus, paz na {tr,rp:terra, #ad|e%ad| aos seres humanos boa vontade}{n4:terra aos seres humanos de quem ele se agrada}.{trnc: #fn|_c|N4: terra aos terra aos seres humanos de quem ele se agrada %fn|}{n4: #fn|_c|TR, RP, contêm "paz na terra, #ad|e%ad| aos seres humanos boa vontade" %fn|}
-#v|15 %v|E aconteceu que, quando os anjos se partiram deles para o céu, os pastores disseram uns aos outros:
- Passemos pois até Belém, e vejamos isto que aconteceu, e o Senhor nos informou.
-#v|16 %v|E vieram apressadamente, e acharam a Maria, e a José, e ao menino deitado na manjedoura.
+#v|15 %v|E aconteceu que, quando os anjos partiram-se da presença deles rumo ao céu, os pastores disseram uns aos outros: 
+ Vamos, pois, até Belém, e vejamos isto que aconteceu, e o Senhor nos informou.
+#v|16 %v|E foram apressadamente, e acharam a Maria, e a José, e ao menino deitado na manjedoura.
 #v|17 %v|E vendo #ad|-o%ad| , contaram a palavra que lhes havia sido dita sobre o menino.
 #v|18 %v|E todos os que a ouviram, se maravilharam do que os pastores lhes diziam.
 #v|19 %v|Mas Maria guardava todas estas palavras, conferindo #ad|-as%ad| em seu coração.
@@ -134,9 +134,9 @@ E a mão do Senhor era com ele.
 #v|24 %v|E para darem a oferta, segundo o que está dito na Lei do Senhor, um par de rolas, ou dois pombinhos.
 #v|25 %v|E eis que havia um homem em Jerusalém, cujo nome era Simeão; e este homem era justo, e temente a Deus, e esperava a consolação de Israel; e o Espírito Santo estava sobre ele.
 #v|26 %v|E lhe fora revelado pelo Espírito Santo, que não veria a morte, antes que visse ao Cristo do Senhor.
-#v|27 %v|E veio pelo Espírito ao Templo; e quando os pais levaram para dentro ao menino Jesus, para com ele fazerem segundo o costume da Lei;
-#v|28 %v|Então ele o tomou em seus braços, e louvou a Deus, e disse:
-#v|29 %v|Agora despedes, Senhor, em paz a teu servo, segundo a tua palavra;
+#v|27 %v|E veio pelo Espírito ao Templo; e quando os pais trouxeram o menino Jesus, para com ele fazerem segundo o costume da Lei;
+#v|28 %v|Então #ad|Simeão%ad| o tomou em seus braços, louvou a Deus, e disse:
+#v|29 %v|Agora, Senhor, despedes o teu servo em paz, segundo a tua palavra;
 #v|30 %v|Pois meus olhos já têm visto tua salvação.
 #v|31 %v|A qual preparaste perante a face de todos os povos.
 #v|32 %v|Luz para iluminação dos gentios, e para glória de teu povo Israel.
@@ -166,8 +166,8 @@ E a mão do Senhor era com ele.
 
 #c|3 %c|
 #v|1 %v|E no ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Galileia, e seu irmão Filipe o tetrarca da Itureia, e da província de Traconites, e Lisânias o tetrarca de Abilene;
-#v|2 %v|Sendo Anás e Caifás os sumos sacerdotes, foi feita a palavra de Deus a João, filho de Zacarias, no deserto.
-#v|3 %v|E #ad|ele%ad| veio por toda a terra do redor do Jordão, pregando o batismo de arrependimento, para perdão dos pecados.
+#v|2 %v|Sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus foi a João, filho de Zacarias, no deserto.
+#v|3 %v|E #ad|ele%ad| foi por toda a terra do redor do Jordão, pregando o batismo de arrependimento, para perdão dos pecados.
 #v|4 %v|Como está escrito no livro das palavras do profeta Isaías, que diz:
  Voz do que clama no deserto: 
  Preparai o caminho do Senhor, endireitai suas veredas.
@@ -182,23 +182,23 @@ E a mão do Senhor era com ele.
 #v|10 %v|E as multidões lhe perguntavam, dizendo:
  Que faremos, então?
 #v|11 %v|E respondendo ele, disse-lhes:
- Quem tiver duas túnicas, parta para o que não tem; e quem tiver alimentos, faça da mesma maneira.
+ Quem tiver duas túnicas, reparta com quem não tem; e quem tiver alimentos, faça da mesma maneira.
 #v|12 %v|E vieram também #ad|a ele%ad| os cobradores de impostos, para serem batizados; e disseram-lhe: Mestre, que faremos?
 #v|13 %v|E ele lhes disse:
- Não peçais mais do que vos está ordenado.
-#v|14 %v|E perguntaram-lhe também os soldados, dizendo:
+ Não exijais mais do que vos está ordenado.
+#v|14 %v|E perguntaram-lhe também os soldados, dizendo: 
  E nós, que faremos? 
 E ele lhes disse: 
  Não trateis mal a ninguém, nem a ninguém acuseis falsamente; e contentai-vos com vossos salários.
-#v|15 %v|E enquanto o povo estava esperando, e todos imaginavam em seus corações, se talvez João fosse o Cristo,
+#v|15 %v|E, enquanto o povo estava esperando, com todos imaginando em seus corações, se talvez João fosse o Cristo,
 #v|16 %v|João respondeu a todos, dizendo:
  Eu bem vos batizo com água, mas vem o que é mais forte do que eu, de quem eu não sou digno de atar-lhe a tira das sandálias; este vos batizará com Espírito Santo e com fogo.
 #v|17 %v|Cuja pá está em sua mão, e limpará sua eira, e juntará o trigo em seu celeiro; porém a palha queimará com fogo que nunca se apaga.
-#v|18 %v|Assim que instruindo também em muitas outras coisas, anunciava o Evangelho ao povo.
-#v|19 %v|Sendo porém Herodes Tetrarca repreendido por ele por causa de Herodias, mulher de seu irmão Filipe, e por todas as #ad|demais%ad| maldades que Herodes tinha feito;
-#v|20 %v|Acrescentou ainda esta sobre todas, que a João encerrou na prisão.
+#v|18 %v|Assim, instruindo também em muitas outras coisas, #ad|João%ad| anunciava o Evangelho ao povo.
+#v|19 %v|Sendo, porém, Herodes, o tetrarca, repreendido por ele por causa de Herodias, mulher do seu irmão Filipe, e por todas as #ad|demais%ad| maldades que Herodes havia feito,
+#v|20 %v|Acrescentou ainda sobre todas esta: que encarcerou João na prisão.
 #v|21 %v|E aconteceu que, enquanto todo o povo se batizava, e Jesus #ad|também%ad| sendo batizado, e orando, o céu se abriu;
-#v|22 %v|E desceu o Espírito Santo sobre ele em forma corporal, como pomba; e fez-se uma voz do céu, que dizia:
+#v|22 %v|E desceu o Espírito Santo sobre ele em forma corporal, como pomba; e surgiu uma voz do céu que dizia: 
  Tu és o meu amado filho, em ti me agrado.
 #v|23 %v|E o mesmo Jesus começava a ser como de trinta anos, sendo (como se cuidava) filho de José, #ad|filho%ad| de Eli,
 #v|24 %v| #ad|Filho%ad| de Matate, #ad|filho%ad| de Levi, #ad|filho%ad| de Melqui, #ad|filho%ad| de Janai, #ad|filho%ad| de José.

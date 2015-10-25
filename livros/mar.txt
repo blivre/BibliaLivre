@@ -662,50 +662,51 @@ pelo caminho - N4: #ad|espalhavam%ad| ramos que haviam cortado dos campos%fn|}
  Hosana, bendito o que vem no Nome do Senhor!
 #v|10 %v|Bendito o Reino que vem{tr,rp: no Nome do Senhor},{trnc:#fn|_c|N4 omite "no Nome do Senhor"%fn|} #ad|o Reino%ad| do 
 nosso pai Davi! Hosana nas alturas!
-#v|11 %v|E Jesus entrou em Jerusalém, e no Templo; e havendo visto tudo ao redor, e sendo já tarde, saiu-se para Betânia com os doze.
-#v|12 %v|E no dia seguinte, saindo eles de Betânia, teve fome.
-#v|13 %v|E vendo de longe uma figueira, que tinha folhas, #ad|veio ver%ad| se acharia alguma coisa nela; e chegando a ela, nada achou, a não ser folhas; porque não era tempo de figos.
-#v|14 %v|E respondendo Jesus, disse-lhe:
- Nunca mais ninguém coma fruto de ti. E seus discípulos ouviram isto .
-#v|15 %v|E vieram a Jerusalém; e entrando Jesus no Templo, começou a expulsar aos que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas.
-#v|16 %v|E não consentia que ninguém levasse vaso #ad|algum%ad| pelo Templo.
-#v|17 %v|E ensinava, dizendo-lhes:
+#v|11 %v|Jesus entrou em Jerusalém, e no Templo. E depois que ter visto tudo em redor, e sendo já tarde, ele saiu para Betânia com os doze.
+#v|12 %v|E no dia seguinte, quando saíram de Betânia, ele teve fome.
+#v|13 %v|E vendo de longe uma figueira que tinha folhas, #ad|veio ver%ad| se acharia alguma coisa nela; mas ao chegar perto dela, nada achou, a não ser folhas, pois não era o tempo de figos.
+#v|14 %v|Então Jesus lhe disse:
+ Nunca mais ninguém coma fruto de ti! 
+E seus discípulos ouviram isso.
+#v|15 %v|Depois vieram a Jerusalém. E entrando Jesus no Templo, começou a expulsar os que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas.
+#v|16 %v|E não consentia que ninguém levasse vaso algum pelo Templo.
+#v|17 %v|E ensinava, dizendo-lhes: 
  Não está escrito: 
- Minha casa será chamada casa de oração de todas as nações? 
- Mas vós a tendes feito esconderijo de assaltantes!
-#v|18 %v|E ouviram os escribas, e os chefes dos sacerdotes, e buscavam como o matariam; pois o temiam, porque toda a multidão estava espantada quanto a sua doutrina.
+ Minha casa será chamada casa de oração de todas as nações? #ref|_d|Isaías 56:7%ref|
+ Mas vós fizestes dela esconderijo de ladrões!
+#v|18 %v|Os escribas e os chefes dos sacerdotes ouviram isso, e buscavam uma maneira de o matar; pois o temiam, porque toda a multidão estava admirada do ensino dele.
 #v|19 %v|E como já era tarde, #ad|Jesus%ad| saiu fora da cidade.
 #v|20 %v|E passando pela manhã, viram que a figueira estava seca desde as raízes.
-#v|21 %v|E lembrando-se Pedro, disse-lhe:
- Mestre, eis que a figueira, que amaldiçoaste, se secou.
+#v|21 %v|Pedro se lembrou disso, e disse-lhe:
+ Mestre, eis que a figueira que amaldiçoaste, se secou.
 #v|22 %v|E respondendo Jesus, disse-lhes:
  Tende fé em Deus.
-#v|23 %v|Porque em verdade vos digo, que qualquer que disser a este monte:
+#v|23 %v|Porque em verdade vos digo que qualquer um que disser a este monte:
  Levanta-te, e lança-te no mar; 
  e não duvidar em seu coração, mas crer que se fará o que diz, tudo o que disser lhe será feito.
-#v|24 %v|Portanto eu vos digo, #ad|que%ad| tudo o que pedirdes orando, crede que recebereis, e vós #ad|o%ad| tereis.
-#v|25 %v|E quando estiverdes orando, perdoai, se tendes alguma coisa contra alguém, para que vosso Pai, que #ad|está%ad| nos céus, vos perdoe vossas ofensas.
-#v|26 %v|{tr,rp:Mas se vós não perdoardes, também vosso Pai, que #ad|está%ad| nos céus, não vos perdoará vossas ofensas.}{trnc: #fn|_c|N4 omite todo o versículo. Compare com Mateus 6:15 %fn|}{n4:--- #fn|_c|TR, RP contêm o versículo 26: "Mas se vós não perdoardes, também vosso Pai, que #ad|está%ad| nos céus, não vos perdoará vossas ofensas". Compare com Mateus 6:15 %fn|}
-#v|27 %v|E voltaram para Jerusalém; e andando ele pelo Templo, vieram a ele os chefes dos sacerdotes, e os escribas, e os anciãos.
+#v|24 %v|Portanto eu vos digo que tudo o que pedirdes orando, crede que recebereis, e vós #ad|o%ad| tereis.
+#v|25 %v|E quando estiverdes orando, perdoai, se tendes algo contra alguém, para que o vosso Pai, que #ad|está%ad| nos céus, vos perdoe vossas ofensas.
+#v|26 %v|{tr,rp:Mas se vós não perdoardes, também o vosso Pai, que #ad|está%ad| nos céus, não vos perdoará vossas ofensas.}{trnc: #fn|_c|N4 omite todo o versículo. Compare com Mateus 6:15 %fn|}{n4:--- #fn|_c|TR, RP contêm o versículo 26: "Mas se vós não perdoardes, também vosso Pai, que #ad|está%ad| nos céus, não vos perdoará vossas ofensas". Compare com Mateus 6:15 %fn|}
+#v|27 %v|Depois voltaram a Jerusalém; e, enquanto ele andava pelo Templo, vieram a ele os chefes dos sacerdotes, os escribas, e os anciãos.
 #v|28 %v|E disseram-lhe:
  Com que autoridade fazes estas coisas? E quem te deu esta autoridade, para fazerdes estas coisas?
-#v|29 %v|Mas respondendo Jesus, disse-lhes:
- Também eu vos perguntarei uma palavra, e respondei-me; e #ad|então%ad| vos direi com que autoridade estas coisas #ad|eu%ad| faço.
+#v|29 %v|Jesus lhes respondeu:
+ Também eu vos farei uma pergunta, e respondei-me; então vos direi com que autoridade faço estas coisas.
 #v|30 %v|O batismo de João era do céu ou dos homens? Respondei-me.
 #v|31 %v|E eles argumentavam entre si, dizendo:
- Se dissermos do céu, ele #ad|nos%ad| dirá: 
- Por que pois não crestes nele?
-#v|32 %v|Porém se dissermos dos homens, tememos ao povo;
+ Se dissermos do céu, ele dirá: 
+ Por que, pois, não crestes nele?
+#v|32 %v|Porém, se dissermos dos homens, tememos ao povo, 
 porque todos consideravam que João era verdadeiramente profeta.
-#v|33 %v|E respondendo, disseram a Jesus:
+#v|33 %v|Então responderam a Jesus:
  Não sabemos. 
-E respondendo Jesus, disse-lhes: 
- Também eu não vos direi com que autoridade eu faço estas coisas.
+E Jesus lhes replicou: 
+ Também eu não vos direi com que autoridade faço estas coisas.
 
 #c|12 %c|
-#v|1 %v|E começou a lhes dizer por parábolas:
- Um homem plantou uma vinha, cercou-a, fundou #ad|nela%ad| um esmagador de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se para fora d #ad|aquela%ad| terra.
-#v|2 %v|E chegado o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
+#v|1 %v|Então #ad|Jesus%ad| começou a lhes dizer por parábolas:
+ Um homem plantou uma vinha, cercou-a, fundou #ad|nela%ad| um esmagador de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se d#ad|aquela%ad| terra.
+#v|2 %v|E, quando chegou o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
 #v|3 %v|Mas eles tomando-o, feriram #ad|-no%ad| , e mandaram #ad|-no%ad| vazio.
 #v|4 %v|E voltou a mandar-lhes outro servo; e eles. apedrejando-o, feriram-no na cabeça e voltaram a mandá-lo maltratado.
 #v|5 %v|E voltou a mandar outro, ao qual mataram, e #ad|mandou%ad| muitos outros, e a uns feriram, e a outros mataram.
