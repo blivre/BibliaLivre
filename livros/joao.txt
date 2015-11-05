@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo João %name|
 #snm|João %snm|
-#ver| 20150107 %ver|
+#ver| 20151105 %ver|
 #abbr|Jo %abbr|
 %header|
 
@@ -154,7 +154,7 @@ Então levaram.
  Em verdade, em verdade te digo, que aquele que não nascer de água e #ad|do%ad| Espírito, não pode entrar no Reino de Deus.
 #v|6 %v|O que é nascido de carne, carne é; e o que é nascido do Espírito, espírito é.
 #v|7 %v|Não te maravilhes de que te disse: necessário vos é voltar a nascer.
-#v|8 %v|O vento sopra onde quer, e ouves teu ruído; porém não sabes de onde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito.
+#v|8 %v|O vento sopra onde quer, e ouves o seu som; porém não sabes de onde vem, nem para onde vai; assim é todo aquele que é nascido do Espírito.
 #v|9 %v|Nicodemos respondeu, e disse-lhe:
  Como pode isto acontecer?
 #v|10 %v|Jesus respondeu, e disse-lhe:

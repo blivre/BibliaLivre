@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Marcos %name|
 #snm|Marcos %snm|
-#ver| 20150926 %ver|
+#ver| 20151030 %ver|
 #abbr|Mc %abbr|
 %header|
 
@@ -662,26 +662,26 @@ pelo caminho - N4: #ad|espalhavam%ad| ramos que haviam cortado dos campos%fn|}
  Hosana, bendito o que vem no Nome do Senhor!
 #v|10 %v|Bendito o Reino que vem{tr,rp: no Nome do Senhor},{trnc:#fn|_c|N4 omite "no Nome do Senhor"%fn|} #ad|o Reino%ad| do 
 nosso pai Davi! Hosana nas alturas!
-#v|11 %v|Jesus entrou em Jerusalém, e no Templo. E depois que ter visto tudo em redor, e sendo já tarde, ele saiu para Betânia com os doze.
+#v|11 %v|{tr,rp:Jesus}{n4:#ad|Jesus%ad|}{trnc:#fn|_c|N4 omite "Jesus"%fn|} entrou em Jerusalém, e no Templo. E depois que ter visto tudo em redor, e sendo já tarde, ele saiu para Betânia com os doze.
 #v|12 %v|E no dia seguinte, quando saíram de Betânia, ele teve fome.
 #v|13 %v|E vendo de longe uma figueira que tinha folhas, #ad|veio ver%ad| se acharia alguma coisa nela; mas ao chegar perto dela, nada achou, a não ser folhas, pois não era o tempo de figos.
-#v|14 %v|Então Jesus lhe disse:
+#v|14 %v|Então {tr,rp:Jesus}{n4:#ad|Jesus%ad|}{trnc:#fn|_c|N4 omite "Jesus"%fn|} lhe disse:
  Nunca mais ninguém coma fruto de ti! 
 E seus discípulos ouviram isso.
-#v|15 %v|Depois vieram a Jerusalém. E entrando Jesus no Templo, começou a expulsar os que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas.
+#v|15 %v|Depois vieram a Jerusalém. E entrando {tr,rp:Jesus}{n4:#ad|Jesus%ad|}{trnc:#fn|_c|N4 omite "Jesus"%fn|} no Templo, começou a expulsar os que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas.
 #v|16 %v|E não consentia que ninguém levasse vaso algum pelo Templo.
 #v|17 %v|E ensinava, dizendo-lhes: 
  Não está escrito: 
  Minha casa será chamada casa de oração de todas as nações? #ref|_d|Isaías 56:7%ref|
  Mas vós fizestes dela esconderijo de ladrões!
-#v|18 %v|Os escribas e os chefes dos sacerdotes ouviram isso, e buscavam uma maneira de o matar; pois o temiam, porque toda a multidão estava admirada do ensino dele.
-#v|19 %v|E como já era tarde, #ad|Jesus%ad| saiu fora da cidade.
+#v|18 %v|Os {tr,rp:escribas e os chefes dos sacerdotes}{n4:chefes dos sacerdotes e os escribas}{trnc:#fn|_c|N4 inverte a ordem entre "chefes dos sacerdotes" e "escribas"%fn|} ouviram isso, e buscavam uma maneira de o matar; pois o temiam, porque toda a multidão estava admirada do ensino dele.
+#v|19 %v|E como já era tarde, {tr,rp:#ad|Jesus%ad| saiu}{n4:eles saíram}{trnc:#fn|_c|N4 troca "ele (Jesus) saiu" por "eles saíram"%fn|}fora da cidade.
 #v|20 %v|E passando pela manhã, viram que a figueira estava seca desde as raízes.
 #v|21 %v|Pedro se lembrou disso, e disse-lhe:
  Mestre, eis que a figueira que amaldiçoaste, se secou.
 #v|22 %v|E respondendo Jesus, disse-lhes:
  Tende fé em Deus.
-#v|23 %v|Porque em verdade vos digo que qualquer um que disser a este monte:
+#v|23 %v|{tr,rp:Porque em}{n4:Em}{trnc:#fn|_c|N4 omite "Porque"%fn|} verdade vos digo que qualquer um que disser a este monte:
  Levanta-te, e lança-te no mar; 
  e não duvidar em seu coração, mas crer que se fará o que diz, tudo o que disser lhe será feito.
 #v|24 %v|Portanto eu vos digo que tudo o que pedirdes orando, crede que recebereis, e vós #ad|o%ad| tereis.
@@ -689,7 +689,7 @@ E seus discípulos ouviram isso.
 #v|26 %v|{tr,rp:Mas se vós não perdoardes, também o vosso Pai, que #ad|está%ad| nos céus, não vos perdoará vossas ofensas.}{trnc: #fn|_c|N4 omite todo o versículo. Compare com Mateus 6:15 %fn|}{n4:--- #fn|_c|TR, RP contêm o versículo 26: "Mas se vós não perdoardes, também vosso Pai, que #ad|está%ad| nos céus, não vos perdoará vossas ofensas". Compare com Mateus 6:15 %fn|}
 #v|27 %v|Depois voltaram a Jerusalém; e, enquanto ele andava pelo Templo, vieram a ele os chefes dos sacerdotes, os escribas, e os anciãos.
 #v|28 %v|E disseram-lhe:
- Com que autoridade fazes estas coisas? E quem te deu esta autoridade, para fazerdes estas coisas?
+ Com que autoridade fazes estas coisas? {tr,rp:E}{n4:Ou}{trnc:#fn|_c|TR, RP: E - N4: Ou%fn|} quem te deu esta autoridade, para fazerdes estas coisas?
 #v|29 %v|Jesus lhes respondeu:
  Também eu vos farei uma pergunta, e respondei-me; então vos direi com que autoridade faço estas coisas.
 #v|30 %v|O batismo de João era do céu ou dos homens? Respondei-me.
@@ -707,47 +707,47 @@ E Jesus lhes replicou:
 #v|1 %v|Então #ad|Jesus%ad| começou a lhes dizer por parábolas:
  Um homem plantou uma vinha, cercou-a, fundou #ad|nela%ad| um esmagador de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se d#ad|aquela%ad| terra.
 #v|2 %v|E, quando chegou o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
-#v|3 %v|Mas eles tomando-o, feriram #ad|-no%ad| , e mandaram #ad|-no%ad| vazio.
-#v|4 %v|E voltou a mandar-lhes outro servo; e eles. apedrejando-o, feriram-no na cabeça e voltaram a mandá-lo maltratado.
+#v|3 %v|Mas eles, tomando-o à força, feriram-no, e mandaram-no vazio.
+#v|4 %v|E voltou a lhes mandar outro servo; e eles{tr,rp:, apedrejando-o,}{trnc:#fn|_c|N4 omite “apedrejando-o”%fn|} feriram-no na cabeça e {tr,rp:voltaram a mandá-lo maltratado}{n4:maltrataram-no}{trnc:#fn|_c|TR,RP: voltaram a mandá-lo maltratado - N4: maltrataram-no%fn|}.
 #v|5 %v|E voltou a mandar outro, ao qual mataram, e #ad|mandou%ad| muitos outros, e a uns feriram, e a outros mataram.
-#v|6 %v|Tendo ele pois ainda um, o seu filho amado, mandou-lhes também por último a este, dizendo:
- Pelo menos terão respeito a meu filho.
-#v|7 %v|Mas aqueles lavradores disseram entre si:
- Este é o herdeiro; vinde, #ad|e%ad| o matemos; então a herança será nossa.
-#v|8 %v|E pegando dele, mataram #ad|-no%ad| , e lançaram #ad|-no%ad| fora da vinha.
-#v|9 %v|Que pois fará o senhor da vinha? Ele virá, destruirá aos lavradores, e dará a vinha a outros.
-#v|10 %v|Nem ainda esta escritura tendes lido?
- A pedra que os edificadores rejeitaram, esta foi feita por cabeça de esquina.
-#v|11 %v|Pelo Senhor foi feito isto, e é maravilhoso em nossos olhos.
-#v|12 %v|E procuravam prendê-lo, mas temiam a multidão; porque entendiam que dizia aquela parábola #ad|referindo-se%ad| a eles; e deixando-o, foram embora.
+#v|6 %v|Tendo ele, pois, ainda um, o seu filho amado, mandou-lhes também por último a este, dizendo: 
+ Pelo menos respeitarão o meu filho.
+#v|7 %v|Mas aqueles lavradores disseram entre si: 
+ Este é o herdeiro; vinde, e o matemos; então a herança será nossa.
+#v|8 %v|E pegando dele, mataram#ad|-no%ad|, e lançaram#ad|-no%ad| fora da vinha.
+#v|9 %v|Que, pois, o senhor da vinha fará? Ele virá, destruirá aos lavradores, e dará a vinha a outros.
+#v|10 %v|Acaso ainda não lestes esta escritura: 
+“A pedra que os edificadores rejeitaram, esta foi feita por cabeça de esquina. 
+#v|11 %v|Pelo Senhor foi feito isto, e é maravilhoso em nossos olhos”?#ref|_d|Salmos 118:22-23%ref|
+#v|12 %v|E buscavam prendê-lo, mas temiam a multidão; porque entendiam que era contra eles que dizia aquela parábola; então o deixaram e se retiraram.
 #v|13 %v|E mandaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em #ad|alguma%ad| palavra.
-#v|14 %v|E eles, vindo, disseram-lhe:
- Mestre, sabemos que és homem de verdade, e não te interessa #ad|agradar%ad| a ninguém, porque não olhas para a aparência humana, mas com verdade ensinas o caminho de Deus; é lícito pagar tributo a César, ou não? Devemos pagar, ou não devemos?
+#v|14 %v|Eles se aproximaram e lhe disseram: 
+ Mestre, sabemos que és homem de verdade, e não te interessa #ad|agradar%ad| a ninguém, porque não te importas com a aparência humana, mas com verdade ensinas o caminho de Deus. É lícito pagar tributo a César, ou não? Devemos pagar, ou não devemos?
 #v|15 %v|E ele, entendendo a hipocrisia deles, disse-lhes:
- Por que me tentais? Trazei-me uma moeda, para que eu #ad|a%ad| veja.
-#v|16 %v|E trouxeram. E disse-lhes:
+ Por que estais me tentando? Trazei-me uma moeda,#fn|_c|ou “denário”, moeda romana%fn| para que eu a veja.
+#v|16 %v|E trouxeram. E perguntou-lhes:
  De quem é esta imagem, e a inscrição? 
 E eles lhe disseram: 
  De César.
-#v|17 %v|E Jesus, respondendo, disse-lhes:
- Dai pois a César o que é de César, e a Deus o que é de Deus. 
-E maravilharam-se dele.
-#v|18 %v|E vieram a ele os saduceus, que dizem que não há ressurreição, e perguntaram-lhe, dizendo:
-#v|19 %v|Mestre, Moisés nos escreveu, que se o irmão de alguém morresse, e deixasse mulher, e não deixasse filhos, que seu irmão tomasse sua mulher, e levantasse semente a seu irmão.
-#v|20 %v|Houve pois sete irmãos, e o primeiro tomou mulher, e morrendo, não deixou semente.
-#v|21 %v|Tomou-a também o segundo, e morreu; e nem este deixou semente; e o terceiro da mesma maneira.
-#v|22 %v|E a tomaram #ad|todos%ad| os sete, e não deixaram semente. Finalmente, depois de todos, morreu também a mulher.
-#v|23 %v|Na ressurreição pois, quando ressuscitarem, de qual destes será a mulher? Porque os sete a tiveram por mulher.
-#v|24 %v|E respondendo Jesus, disse-lhes:
- Não é por isso que vós errais, por não conhecerdes as Escrituras, nem o poder de Deus?
-#v|25 %v|Porque quando ressuscitarem dos mortos, nem se casarão, nem se darão em casamento; mas serão como os anjos que #ad|estão%ad| nos céus.
-#v|26 %v|E sobre os mortos que ressuscitarão, não tendes lido no livro de Moisés, como Deus lhe falou com a sarça, dizendo:
- Eu sou o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó?
-#v|27 %v|Deus não é #ad|Deus%ad| de mortos, mas de vivos. Portanto #ad|vós%ad| errais muito.
-#v|28 %v|E vindo a ele um dos escribas, que os ouvira discutir, sabendo que lhes tinha bem respondido, perguntou-lhe:
- Qual de todos é o primeiro mandamento?
+#v|17 %v|Então Jesus, lhes respondeu: 
+ Dai, pois, a César o que é de César, e a Deus o que é de Deus. 
+E admiram-se dele.
+#v|18 %v|E vieram a ele os saduceus, que dizem não haver ressurreição, e perguntaram-lhe:
+#v|19 %v|Mestre, Moisés nos escreveu que, se o irmão de alguém morresse, e deixasse mulher, mas não {tr,rp:filhos}{n4:filho}{trnc:#fn|_c|N4: filho%fn|}, que seu irmão se casasse com a viúva#fn|_c|Lit. "a mulher dele" (isto é, do morto)%fn|, e gerasse descendência#fn|_c|Lit. "levantasse semente"%fn| ao seu irmão.
+#v|20 %v|Houve, pois, sete irmãos, e o primeiro casou-se com a mulher, e morrendo, não deixou descendente.#fn|_c|Lit. semente. Também nos v. 21 e 22%fn|
+#v|21 %v|Casou-se com ela também o segundo, e morreu; e nem este deixou descendente; e o terceiro da mesma maneira.
+#v|22 %v|Os sete {tr,rp:casaram-se com ela, mas}{trnc:#fn|_c|N4 omite "casaram-se com ela, mas"%fn|} não deixaram descendente. Finalmente, depois de todos, morreu também a mulher.
+#v|23 %v|Na ressurreição, pois, quando ressuscitarem, ela será a mulher de qual deles? Porque os sete a tiveram por mulher.
+#v|24 %v|E Jesus lhes respondeu: 
+ Acaso não é por isso que errais, por não conhecerdes as Escrituras, nem o poder de Deus?
+#v|25 %v|Pois, quando ressuscitarem dos mortos, nem se casarão, nem se darão em casamento; mas serão como os anjos que estão nos céus.
+#v|26 %v|E quanto aos mortos que ressuscitarão, não lestes no livro de Moisés, como Deus lhe falou com a sarça, dizendo: 
+ Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó?#ref|_d|Êxodo 3:6%ref|
+#v|27 %v|Deus não é #ad|Deus%ad| de mortos, mas de vivos. Portanto errais muito.
+#v|28 %v|Então aproximou-se dele um dos escribas, que os ouvira discutir. Como ele sabia que #ad|Jesus%ad| havia lhes respondido bem, perguntou-lhe: 
+ Qual é o primeiro mandamento de todos?
 #v|29 %v|E Jesus lhe respondeu:
- O primeiro mandamento de todos os mandamentos #ad|é%ad| : 
+ O primeiro mandamento de todos os mandamentos é: 
  Ouve Israel, o SENHOR nosso Deus é o único Senhor:
 #v|30 %v|Amarás pois ao Senhor teu Deus de todo teu coração, e de toda tua alma, e de todo teu entendimento, e de todas tuas forças;
  este é o primeiro mandamento.
