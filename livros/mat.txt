@@ -1,8 +1,8 @@
 ﻿#header|
-#name|Evangelho Segundo Mateus %name|
+#name|Evangelho Segundo Mateus%name|
 #snm|Mateus %snm|
-#ver| 20150802 %ver|
-#abbr|Mt %abbr|
+#ver|20151106%ver|
+#abbr|Mt%abbr|
 %header|
 
 #c|1 %c|
@@ -1151,7 +1151,7 @@ Eles lhe responderam:
 #v|29 %v|Ai de vós, escribas e fariseus, hipócritas! Porque edificais os sepulcros dos profetas, adornais os monumentos dos justos,
 #v|30 %v|e dizeis: “Se estivéssemos nos dias dos nossos pais, nunca teríamos sido cúmplices deles quando derramaram o sangue #fn|_c|quando derramaram o sangue – lit. no sangue %fn|dos profetas”.
 #v|31 %v|Assim vós mesmos dais testemunho de que sois filhos dos que mataram os profetas.
-#v|32 %v|Enchei, pois, a medida de vossos pais. #fn|_c|Enchei, pois, a medida de vossos pais – i.e. Completai de fazer o que vossos ancestrais começaram, (matando os justos que anunciavam a palavra de Deus, e em especial, matando Cristo %fn|)
+#v|32 %v|Completai, pois, a medida de vossos pais. #fn|_c|Completai, pois, a medida de vossos pais – i.e. Completai de fazer o que vossos ancestrais começaram, (matando os justos que anunciavam a palavra de Deus, e em especial, matando Cristo)%fn|
 #v|33 %v|Serpentes, ninhada de víboras! Como escapareis da condenação do inferno?
 #v|34 %v|Por isso, eis que eu vos envio profetas, sábios, e escribas; a uns deles matareis e crucificareis, e a #ad|outros%ad| deles açoitareis em vossas sinagogas, e perseguireis de cidade em cidade;
 #v|35 %v|para que venha sobre vós todo o sangue justo que foi derramado sobre a terra, desde o sangue do justo Abel, até o sangue de Zacarias, filho de Baraquias, ao qual matastes entre o templo e o altar.
