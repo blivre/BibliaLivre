@@ -1,13 +1,13 @@
 ﻿#header|
-#name|Evangelho Segundo Lucas %name|
-#snm|Lucas %snm|
-#ver| 20151025 %ver|
+#name|Evangelho Segundo Lucas%name|
+#snm|Lucas%snm|
+#ver|20151114%ver|
 #abbr|Lc %abbr|
 %header|
 
 #c|1 %c|
 #v|1 %v|Uma vez que muitos empreenderam pôr em ordem o relato das coisas que se cumpriram entre nós,
-#v|2 %v|Assim como eles, os que desde o princípio viram #ad|tais coisas%ad| , e foram ministros das palavra, nos entregaram,
+#v|2 %v|Assim como eles, os que desde o princípio viram #ad|tais coisas%ad|, e foram ministros das palavra, nos entregaram,
 #v|3 %v|Pareceu-me bom que também eu, que tenho me informado com exatidão desde o princípio, escrevesse #ad|estas coisas%ad| em ordem para ti, excelentíssimo Teófilo,
 #v|4 %v|Para que tenhas a certeza das coisas de que foste ensinado.
 #v|5 %v|Houve nos dias de Herodes, rei da Judeia, um sacerdote, por nome Zacarias, da ordem de Abias; e sua mulher das filhas de Arão, e #ad|era%ad| seu nome Isabel.
@@ -166,8 +166,8 @@ E a mão do Senhor era com ele.
 
 #c|3 %c|
 #v|1 %v|E no ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Galileia, e seu irmão Filipe o tetrarca da Itureia, e da província de Traconites, e Lisânias o tetrarca de Abilene;
-#v|2 %v|Sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus foi a João, filho de Zacarias, no deserto.
-#v|3 %v|E #ad|ele%ad| foi por toda a terra do redor do Jordão, pregando o batismo de arrependimento, para perdão dos pecados.
+#v|2 %v|Sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus veio a João, filho de Zacarias, no deserto.
+#v|3 %v|E #ad|ele%ad| percorreu toda a terra em redor do Jordão, pregando o batismo de arrependimento, para perdão dos pecados.
 #v|4 %v|Como está escrito no livro das palavras do profeta Isaías, que diz:
  Voz do que clama no deserto: 
  Preparai o caminho do Senhor, endireitai suas veredas.
@@ -219,9 +219,9 @@ E ele lhes disse:
 
 #c|4 %c|
 #v|1 %v|E Jesus, cheio do Espírito Santo, voltou do Jordão, e foi levado pelo Espírito ao deserto.
-#v|2 %v|E por quarenta dias foi tentado pelo Diabo; e não comeu coisa nenhuma naqueles dias; e acabados esses #ad|dias%ad| , finalmente teve fome.
+#v|2 %v|E por quarenta dias foi tentado pelo diabo; e não comeu coisa nenhuma naqueles dias; e acabados esses #ad|dias%ad| , finalmente teve fome.
 #v|3 %v|E disse-lhe o diabo:
- Se tu és Filho de Deus, dize a esta pedra que se faça pão.
+ Se tu és Filho de Deus, diz a esta pedra que se torne pão.
 #v|4 %v|E Jesus lhe respondeu, dizendo:
  Está escrito que não só de pão viverá o ser humano{tr,rp:, mas de toda palavra de Deus}.{trnc: #fn|_c|N4 omite "mas de toda palavra de Deus" %fn|}{n4: #fn|_c|TR, RP acrescentam "mas de toda palavra de Deus" ao final do versículo. Compare com Mateus 4:4 e Deuteronômio 8:3 %fn|}
 #v|5 %v|E levando-o o diabo a um alto monte, mostrou-lhe todos os reinos do mundo em um momento de tempo.
@@ -230,7 +230,7 @@ E ele lhes disse:
 #v|7 %v|Portanto, se tu me adorares, tudo será teu.
 #v|8 %v|E respondendo Jesus, disse-lhe:
  {tr,rp:Para trás de mim, Satanás!{trnc: #fn|_c|N4 omite "Para trás de mim, Satanás!" %fn|} }{tr:Porque{trnc: #fn|_c|RP, N4 omitem "Porque" %fn|} está}{rp,n4:Está} escrito:{n4: #fn|_c|RP, TR contêm: "disse-lhe: Sai da minha frente, Satanás! Porque está escrito" %fn|} 
- Ao Senhor teu Deus adorarás, e a ele só servirás.
+ Ao Senhor, teu Deus, adorarás, e só a ele servirás.#ref|_d|Deuteronômio 6:13%ref|
 #v|9 %v|E levou-o a Jerusalém, e o pôs sobre a ponta da torre do Templo, e disse-lhe:
  Se tu és o Filho de Deus, lança-te daqui abaixo.
 #v|10 %v|Porque está escrito que:
@@ -238,14 +238,14 @@ E ele lhes disse:
 #v|11 %v|E que nas mãos te tomarão, para que nunca tropeces com teu pé em alguma pedra.
 #v|12 %v|E respondendo Jesus, disse-lhe:
  Dito está: 
- Não a tentarás ao Senhor teu Deus.
-#v|13 %v|E acabando o diabo toda a tentação, foi embora dele por algum tempo.
+ Não a tentarás ao Senhor, teu Deus.
+#v|13 %v|E, quando o diabo acabou toda a tentação, saiu da presença dele por algum tempo.
 #v|14 %v|E Jesus voltou no poder do Espírito para a Galileia, e saiu sua fama por toda a terra do redor.
 #v|15 %v|E ensinava em suas sinagogas, e era louvado por todos.
-#v|16 %v|E veio a Nazaré, onde fora criado, e entrou, segundo seu costume, um dia de Sábado, na sinagoga; e levantou-se para ler.
+#v|16 %v|Ele veio a Nazaré, onde havia sido criado, e entrou, segundo o seu costume, num dia de Sábado, na sinagoga; e levantou-se para ler.
 #v|17 %v|Foi-lhe dado o livro do Profeta Isaías; e quando abria o livro, achou o lugar onde estava escrito:
 #v|18 %v|O Espírito do Senhor #ad|está%ad| sobre mim, portanto me ungiu; para evangelizar aos pobres me enviou, para curar aos contritos de coração;
-#v|19 %v|Para pregar liberdade aos cativos e vista aos cegos; para enviar em liberdade a os quebrantados; para apregoar o ano agradável do Senhor.
+#v|19 %v|Para pregar liberdade aos cativos e dar vista aos cegos; para enviar em liberdade aos abatidos, para apregoar o ano agradável do Senhor.
 #v|20 %v|E fechando o livro, e tornando-o a dar ao assistente, sentou-se; e os olhos de todos na sinagoga se dirigiram a ele.
 #v|21 %v|E começou-lhes a dizer:
  Hoje se cumpriu esta escritura em vossos ouvidos.
@@ -253,35 +253,35 @@ E ele lhes disse:
  Não é este o filho de José?
 #v|23 %v|E ele lhes disse:
  Sem duvida este provérbio me direis: 
- Medico, cura a ti mesmo; de todas as coisas que ouvimos que foram feitas em Cafarnaum, faze também aqui #ad|algumas%ad| em tua pátria.
+ Médico, cura a ti mesmo; de todas as coisas que ouvimos que foram feitas em Cafarnaum, faz também aqui #ad|algumas%ad| em tua pátria.
 #v|24 %v|E disse:
- Em verdade vos digo, que nenhum profeta é agradável em sua pátria.
+ Em verdade vos digo, que nenhum profeta é aceito em sua terra.
 #v|25 %v|Porém em verdade vos digo, que muitas viúvas havia em Israel nos dias de Elias, quando o céu se fechou por três anos e seis meses; de modo que em toda a terra houve grande fome.
 #v|26 %v|E a nenhuma delas Elias foi enviado, a não ser a uma mulher viúva de Sarepta de Sídon.
 #v|27 %v|E muitos leprosos havia em Israel, no tempo do profeta Eliseu; e nenhum deles foi limpo, a não ser Naamã o sírio.
 #v|28 %v|E todos na sinagoga, ao ouvirem estas coisas, encheram-se de ira.
-#v|29 %v|E levantando-se, expulsaram-no da cidade, e o levaram até o cume do monte em que sua cidade estava edificada, para o lançarem dali do alto abaixo.
-#v|30 %v|Mas ele, passando por meio deles, foi embora.
+#v|29 %v|E levantando-se, expulsaram-no da cidade, e o levaram até o topo do monte em que sua cidade havia sido construída, para o lançarem dali do alto abaixo.
+#v|30 %v|Mas ele, passando por meio deles, retirou-se.
 #v|31 %v|E desceu a Cafarnaum, cidade de Galileia; e #ad|ali%ad| os ensinava nos sábados.
 #v|32 %v|E admiravam de sua doutrina, porque sua palavra era com autoridade.
-#v|33 %v|E estava na Sinagoga um homem que tinha um espírito de um demônio imundo, e clamou com grande voz,
-#v|34 %v|Dizendo:
- Ah, que temos contigo, Jesus Nazareno? Vieste a nos destruir? Bem sei quem és: o Santo de Deus.
+#v|33 %v|E estava na sinagoga um homem que tinha um espírito de um demônio imundo, e clamou com alta voz,
+#v|34 %v|dizendo: 
+ Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Bem sei quem és: o Santo de Deus.
 #v|35 %v|E Jesus o repreendeu, dizendo:
  Cala-te, e, sai dele. 
-E o demônio, derrubando-o no meio #ad|de todos%ad| , saiu dele, sem lhe fazer dano algum.
+E o demônio, derrubando-o no meio #ad|das pessoas%ad|, saiu dele, sem lhe fazer dano algum.
 #v|36 %v|E veio espanto sobre todos; e falavam entre si uns com os outros, dizendo:
  Que palavra é esta, que até aos espíritos imundos manda com autoridade e poder, e saem?
-#v|37 %v|E sua fama foi divulgada em todos os lugares do redor daquele território.
+#v|37 %v|E sua fama foi divulgada em todos os lugares em redor daquele território.
 #v|38 %v|E levantando-se #ad|Jesus%ad| da Sinagoga, entrou na casa de Simão; e a sogra de Simão estava enferma de uma grande febre, e rogaram-lhe por ela.
 #v|39 %v|E inclinando-se sobre ela, repreendeu a febre; e a #ad|febre a%ad| deixou. E levantando-se logo, servia-os.
-#v|40 %v|E pondo-se já o sol, todos os que estavam enfermos de varias doenças, traziam-nos a ele; e pondo as mãos sobre cada um deles, curava-os.
+#v|40 %v|E pondo-se já o sol, trouxeram todos os que estavam enfermos de varias doenças até ele; e pondo as mãos sobre cada um deles, curava-os.
 #v|41 %v|E também os demônios saíam de muitos, clamando, e dizendo:
  Tu és o Cristo, o Filho de Deus;
  e ele, reprendendo-os, não os deixava falar, porque sabiam que ele era o Cristo.
-#v|42 %v|E sendo já de dia, ele saiu, e foi para um lugar deserto; e as multidões o buscavam, e vieram a ele; e o detinham, para que não os deixasse.
-#v|43 %v|Porém ele lhes disse:
- Também é necessário que a outras cidades anuncie o Evangelho do Reino de Deus; pois para isso sou enviado.
+#v|42 %v|E sendo já dia, ele saiu, e foi para um lugar deserto; e as multidões o buscavam, e vieram a ele; e o detinham, para que não os deixasse.
+#v|43 %v|Porém ele lhes disse: 
+ Também é necessário que eu anuncie o Evangelho do Reino de Deus às outras cidades; pois para isso sou enviado.
 #v|44 %v|E ele pregava nas sinagogas da {tr,rp:Galileia}{n4:Judeia}.{trnc: #fn|_c|N4: Judeia %fn|}{n4: #fn|_c|TR, RP: Galileia %fn|}
 
 #c|5 %c|

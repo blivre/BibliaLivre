@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Marcos %name|
 #snm|Marcos %snm|
-#ver| 20151030 %ver|
+#ver| 20151115 %ver|
 #abbr|Mc %abbr|
 %header|
 
@@ -744,73 +744,71 @@ E admiram-se dele.
 #v|26 %v|E quanto aos mortos que ressuscitarão, não lestes no livro de Moisés, como Deus lhe falou com a sarça, dizendo: 
  Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó?#ref|_d|Êxodo 3:6%ref|
 #v|27 %v|Deus não é #ad|Deus%ad| de mortos, mas de vivos. Portanto errais muito.
-#v|28 %v|Então aproximou-se dele um dos escribas, que os ouvira discutir. Como ele sabia que #ad|Jesus%ad| havia lhes respondido bem, perguntou-lhe: 
+#v|28 %v|Então aproximou-se dele um dos escribas, que os havia ouvido discutir. Como ele sabia que #ad|Jesus%ad| havia lhes respondido bem, perguntou-lhe: 
  Qual é o primeiro mandamento de todos?
-#v|29 %v|E Jesus lhe respondeu:
- O primeiro mandamento de todos os mandamentos é: 
- Ouve Israel, o SENHOR nosso Deus é o único Senhor:
-#v|30 %v|Amarás pois ao Senhor teu Deus de todo teu coração, e de toda tua alma, e de todo teu entendimento, e de todas tuas forças;
- este é o primeiro mandamento.
-#v|31 %v|E o segundo, semelhante #ad|a este%ad| é:
- Amarás a teu próximo como a ti mesmo; 
- não há outro mandamento maior que estes.
-#v|32 %v|E o Escriba lhe disse:
- Muito bem, Mestre, com verdade disseste, que há um só Deus, e não há outro além dele.
-#v|33 %v|E #ad|que%ad| amá-lo de todo coração, e de todo entendimento, e de toda a alma, e de todas as forças; e amar ao próximo como a si mesmo é mais que todas as ofertas de queima e sacrifícios.
-#v|34 %v|E Jesus, vendo que ele tinha respondido sabiamente, disse-lhe:
- Tu não estás longe do Reino de Deus. 
-E ninguém mais ousava lhe perguntar.
-#v|35 %v|E respondendo Jesus, dizia, enquanto ensinava no Templo:
- Como os escribas dizem que o Cristo é Filho de Davi?
-#v|36 %v|Porque o mesmo Davi disse pelo Espírito Santo:
- Disse o Senhor a meu Senhor, senta-te à minha direita, até que ponha a teus inimigos por suporte de teus pés.
-#v|37 %v|Pois #ad|se%ad| Davi mesmo o chama #ad|seu%ad| Senhor, como, pois, é seu filho?
+#v|29 %v|E Jesus {tr,rp:lhe}{trnc:#fn|_c|N4 omite "lhe"%fn|} respondeu:
+ O primeiro {tr,rp:de todos os mandamentos}{trnc:#fn|_c|N4 omite "de todos o mandamentos"%fn|} é: 
+ "Ouve Israel, o Senhor nosso Deus é o único Senhor;
+#v|30 %v|amarás, pois, ao Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças."#ref|_d|Deuteronômio 6:4-5%ref|
+{tr,rp: Este é o primeiro mandamento.}{trnc:#fn|_c|N4 omite "Este é o primeiro mandamento"%fn|}
+#v|31 %v|E o segundo é{tr,rp: semelhante}:{trnc:#fn|_c|N4 omite "semelhante"%fn|}
+ "Amarás ao teu próximo como a ti mesmo".#ref|_d|Levítico 19:18%ref|
+Não há outro mandamento maior que estes.
+#v|32 %v|E o escriba lhe disse:
+ Muito bem, Mestre, com verdade disseste que {tr:há um só Deus}{rp,n4:ele é um só},{trnc:#fn|_c|TR: "há um só Deus" - RP, N4 "ele é um só"%fn|} e não há outro além dele.
+#v|33 %v|E que amá-lo com todo o coração, com todo o entendimento,{tr,rp: com toda a alma,}{trnc:#fn|_c|N4 omite "com toda a alma"%fn|} e com todas as forças; e amar ao próximo como a si mesmo, é mais que todas as ofertas de queima e sacrifícios.
+#v|34 %v|Jesus viu que ele havia respondido sabiamente, e disse-lhe:
+ Não estás longe do Reino de Deus. 
+E ninguém mais ousou lhe perguntar.
+#v|35 %v|E Jesus respondia e dizia, enquanto ensinava no templo:
+ Como os escribas dizem que o Cristo é filho de Davi?
+#v|36 %v|{tr,rp:Porque{trnc:#fn|_c|N4 omite "Porque"%fn|} o}{n4:O} mesmo Davi disse pelo Espírito Santo:
+ Disse o Senhor ao meu Senhor, senta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés.#ref|_d|Salmos 110:1%ref|{tr:#fn|_k|debaixo dos teus pés|_c|Lit. por escabelo (um tipo de banquinho) dos teus pés%fn|}{trnc:#fn|_c|TR, RP: por escabelo dos teus pés - N4: debaixo dos teus pés%fn|}
+#v|37 %v|Ora, #ad|se%ad| o próprio Davi o chama de Senhor, como, pois, é so eu filho?
 E a grande multidão o ouvia de boa vontade.
-#v|38 %v|E dizia-lhes em sua doutrina:
- Tomai cuidado com os escribas, que gostam de andar com roupas compridas, #ad|amam%ad| as saudações nas praças;
-#v|39 %v|E as primeiras cadeiras nas sinagogas, e os primeiros assentos nas ceias.
-#v|40 %v|Que comem as casas das viúvas, e #ad|isso%ad| com pretexto de longa oração. Estes receberão mais grave condenação.
-#v|41 %v|E estando Jesus sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos ricos lançavam muito.
-#v|42 %v|E vindo uma pobre viúva, lançou dois leptos, que são duas pequenas moedas.
-#v|43 %v|E #ad|Jesus%ad| , chamando a si seus discípulos, disse-lhes:
+#v|38 %v|E dizia{tr,rp:-lhes}{trnc:#fn|_c|N4 omite "-lhes"%fn|} em seu ensino: 
+ Cuidado com os escribas, que gostam de andar com roupas compridas, das saudações nas praças,
+#v|39 %v|das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias.
+#v|40 %v|que devoram as casas das viúvas, com pretexto de longas orações. Esses receberão mais grave condenação.
+#v|41 %v|Quando {tr,rp:Jesus}{n4:#ad|Jesus%ad|}{trnc:#fn|_c|N4: "Quando ele"%fn|} estava sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos ricos lançavam muito.
+#v|42 %v|E uma pobre viúva veio, e lançou duas pequenas moedas, de pouco valor.#fn|_k|duas pequenas moedas, de pouco valor|_c|Lit. dois leptos, que valiam um quadrante%fn|
+#v|43 %v|Então #ad|Jesus%ad| chamou a si os seus discípulos, e disse-lhes: 
  Em verdade vos digo que esta pobre viúva lançou mais que todos os que lançaram na arca do tesouro;
-#v|44 %v|Porque todos lançaram #ad|nela%ad| daquilo que lhes sobra; mas esta de sua pobreza lançou #ad|nela%ad| tudo o que tinha, todo seu sustento.
+#v|44 %v|Porque todos lançaram daquilo que lhes sobra; mas esta, da sua pobreza lançou tudo o que tinha, todo o seu sustento.
 
 #c|13 %c|
-#v|1 %v|E saindo ele do Templo, um de seus discípulos lhe disse:
- Mestre, olha que pedras, e que edifícios!
-#v|2 %v|E respondendo Jesus, disse-lhe:
- Vês estes grandes edifícios? Não será deixada pedra sobre pedra, que não seja derrubada.
-#v|3 %v|E sentando-se ele no monte das Oliveiras, de frente ao Templo, perguntaram-lhe à parte Pedro, e Tiago, e João, e André:
-#v|4 %v|Dize-nos, quando serão estas coisas? E que sinal haverá de quando todas estas coisas se acabarão?
-#v|5 %v|E respondendo-lhes Jesus, começou a dizer:
- Olhai que ninguém vos engane;
-#v|6 %v|Porque virão muitos em meu nome, dizendo:
- Eu sou o #ad|Cristo%ad| , 
+#v|1 %v|Quando ele estava saindo do templo, um de seus discípulos lhe disse: 
+Mestre, olha que pedras, e que edifícios!
+#v|2 %v|Jesus {tr,rp:respondeu, dizendo}{n4:disse}-lhe:{trnc:#fn|_c|TR, RP: respondeu, dizendo-lhe - N4: disse-lhe%fn|} 
+Vês estes grandes edifícios? Não será deixada pedra sobre pedra, que não seja derrubada.
+#v|3 %v|Depois, sentando-se ele no monte das Oliveiras, de frente ao templo, Pedro, Tiago, João, e André perguntaram-lhe à parte: 
+#v|4 %v|Dize-nos, quando serão essas coisas? E que sinal haverá de quando todas essas coisas se cumprirão?
+#v|5 %v|E Jesus, {tr,rp:respondendo-lhes},{trnc:#fn|_c|N4 omite "respondendo" e mostra "começou a dizer-lhes"%fn|} começou a dizer{n4:-lhes}: 
+ Cuidado! ninguém vos engane; 
+#v|6 %v|{tr,rp:porque}{trnc:#fn|_c|N4 omite "porque"%fn|} muitos virão em meu nome, dizendo: 
+ "Sou eu", 
  e enganarão a muitos.
-#v|7 %v|E quando ouvirdes de guerras, e de rumores de guerras, não vos perturbeis; porque #ad|assim%ad| convém acontecer; mas ainda não será o fim.
-#v|8 %v|Porque nação se levantará contra nação, e reino contra reino, e haverá terremotos de lugar em lugar, e haverá fomes, e revoltas. Estes serão princípios de dores.
-#v|9 %v|Mas olhai por vós mesmos; porque vos entregarão em tribunais, e em sinagogas; sereis açoitados, e sereis apresentados ante governadores e reis, por causa de mim, para que lhes haja testemunho.
-#v|10 %v|E primeiramente o Evangelho deve ser pregado entre todas as nações.
-#v|11 %v|Porém, quando vos levarem a entregar, não estejais ansiosos antecipadamente do que deveis dizer, nem o penseis; mas o que naquela hora for dado, isso falai. Porque não sois vós os que falais, mas o Espírito Santo.
+#v|7 %v|E quando ouvirdes de guerras e de rumores de guerras, não vos perturbeis; {tr,rp:porque}{trnc:#fn|_c|N4 omite "porque"%fn|} #ad|assim%ad| deve acontecer; mas ainda não será o fim.
+#v|8 %v|Porque nação se levantará contra nação, e reino contra reino, e haverá terremotos em muitos lugares, e haverá fomes{tr,rp: e tumultos}.{trnc:#fn|_c|N4 omite "e tumultos"%fn|} Estes serão {tr,rp:os princípios}{n4:o princípio}{trnc:#fn|_c|N4: o princípio%fn|} das dores.
+#v|9 %v|Mas cuidai de vós mesmos; porque vos entregarão em tribunais e em sinagogas; sereis açoitados, e {tr,rp:sereis levados}{n4:comparecereis} diante de governadores e reis, por causa de mim, para que lhes haja testemunho.
+#v|10 %v|Mas antes o Evangelho deve ser pregado entre todas as nações.
+#v|11 %v|Porém, quando vos levarem para vos entregar, não estejais ansiosos antecipadamente do que deveis dizer{tr,rp:, nem o planejeis};{trnc:#fn|_c|N4 omite "nem o planejeis"%fn|} mas o que naquela hora for dado, isso falai. Porque não sois vós os que falais, mas o Espírito Santo.
 #v|12 %v|E o irmão entregará ao irmão à morte, e o pai ao filho; e os filhos se levantarão contra os pais, e os matarão.
-#v|13 %v|E sereis odiados de todos por amor de meu nome; mas quem perseverar até o fim, esse será salvo.
+#v|13 %v|E sereis odiados por todos por causa do meu nome; mas quem perseverar até o fim, esse será salvo.
 #v|14 %v|E quando virdes a abominação da desolação{tr,rp:, que foi dita pelo profeta Daniel,}{trnc: #fn|_c|N4 omite "que foi dita pelo profeta Daniel" %fn|}{n4: #fn|_c|TR, RP contêm: "desolação, que foi dita pelo profeta Daniel" %fn|} estar onde não deve, (quem lê, entenda), então os que estiverem na Judeia, fujam para os montes.
-#v|15 %v|E o que estiver sobre telhado, não desça para a casa, nem entre para tomar alguma coisa de sua casa.
-#v|16 %v|E o que estiver no campo, não volte atrás, para tomar sua roupa.
+#v|15 %v|E quem estiver sobre telhado, não desça{tr,rp: para a casa}, nem entre para tomar alguma coisa de sua casa.
+#v|16 %v|E quem estiver no campo, não volte atrás, para tomar sua roupa.
 #v|17 %v|Mas ai das grávidas, e das que amamentarem naqueles dias!
-#v|18 %v|Orai, porém, que não aconteça vossa fuga no inverno.
-#v|19 %v|Porque serão aqueles dias de tal aflição, qual nunca foi desde o princípio da criação das coisas, que Deus criou, até agora, nem tão pouco será.
-#v|20 %v|E se o Senhor não encurtasse aqueles dias, nenhuma carne se salvaria; mas por causa dos escolhidos, que escolheu, ele encurtou aqueles dias.
-#v|21 %v|E então se alguém vos disser:
- Eis aqui está o Cristo; ou vede-o ali está, 
- não creiais nele.
-#v|22 %v|Porque se levantarão falsos cristos, e falsos profetas, e farão sinais e prodígios, para enganar, se fossa possível, até aos escolhidos.
-#v|23 %v|Mas vós tomai cuidado, eis que vos tenho dito tudo antes.
-#v|24 %v|Porém naqueles dias, depois daquela aflição, o sol se escurecerá, e a lua não dará seu brilho.
-#v|25 %v|E as estrelas do céu cairão, e as forças que #ad|estão%ad| nos céus abalarão.
-#v|26 %v|E então verão ao Filho do homem vir nas nuvens, com grande poder e glória.
-#v|27 %v|E então enviará seus anjos, e juntará seus escolhidos dos quatro ventos, desde a extremidade da terra, até a extremidade do céu.
+#v|18 %v|Orai, porém, para que {tr,rp:a vossa fuga}{n4:isso}{trnc:#fn|_c|N4 omite "a vossa fuga"%fn|} não aconteça no inverno.
+#v|19 %v|Porque aqueles dias serão de tal aflição, qual nunca foi desde o princípio da criação das coisas, que Deus criou, até agora, nem jamais será.
+#v|20 %v|E se o Senhor não encurtasse aqueles dias, ninguém#fn|_c|Lit. "nenhuma carne"%fn| se salvaria; mas por causa dos escolhidos, que escolheu, ele encurtou aqueles dias.
+#v|21 %v|Então se alguém vos disser: "Eis aqui o Cristo"; ou "ei-lo ali", não creiais nele.
+#v|22 %v|{tr,rp:Porque}{n4:E}{trnc:#fn|_k|Porque|_c|N4: e%fn|} se levantarão falsos cristos, e falsos profetas, que farão sinais e prodígios, para enganar, se possível, até os escolhidos.
+#v|23 %v|Vós, porém, tende cuidado;{tr,rp: eis que}{trnc:#fn|_c|N4 omite "eis que"%fn|} tenho vos dito tudo com antecedência.
+#v|24 %v|Mas naqueles dias, depois daquela aflição, o sol se escurecerá, e a lua não dará seu brilho;
+#v|25 %v|as estrelas {tr,rp:do céu cairão}{n4:cairão do céu},{trnc:#fn|_c|N4: estrelas cairão do céu%fn|} e as forças que estão nos céus se abalarão.
+#v|26 %v|Então verão o Filho do homem vir nas nuvens, com grande poder e glória.
+#v|27 %v|Ele então enviará os{tr,rp: seus} anjos, e ajuntará os seus escolhidos dos quatro ventos, desde a extremidade da terra, até a extremidade do céu.
 #v|28 %v|E aprendei a parábola da figueira: Quando já seu ramo se vai fazendo tenro, e brota folhas, bem sabeis que já o verão está perto.
 #v|29 %v|Assim também vós, quando virdes suceder estas coisas, sabei que já está perto às portas.
 #v|30 %v|Em verdade vos digo, que não passará esta geração, até que todas estas coisas aconteçam.

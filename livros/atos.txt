@@ -1,8 +1,8 @@
 ﻿#header|
-#name|Atos dos Apóstolos %name|
-#snm|Atos %snm|
-#ver| 20150702 %ver|
-#abbr|At %abbr|
+#name|Atos dos Apóstolos%name|
+#snm|Atos%snm|
+#ver|20151111%ver|
+#abbr|At%abbr|
 %header|
 
 #c|1 %c|
@@ -324,8 +324,8 @@ E ela disse:
 #v|56 %v|E disse:
  Eis que vejo os céus abertos, e o Filho do homem, que está a direita de Deus!
 #v|57 %v|Mas eles, clamando com alta voz, taparam seus próprios ouvidos, e correram juntos contra ele;
-#v|58 %v|E, lançando #ad|-o%ad| fora da cidade, #ad|o%ad| apedrejaram; e as testemunhas puseram as roupas dele junto aos pés de um rapaz chamado Saulo.
-#v|59 %v|E apedrejaram a Estêvão, que estava clamando e dizendo:
+#v|58 %v|E, lançando #ad|-o%ad| fora da cidade, #ad|o%ad| apedrejaram; e as testemunhas puseram as roupas deles junto aos pés de um rapaz chamado Saulo.
+#v|59 %v|E apedrejaram a Estêvão, que estava clamando e dizendo: 
  Senhor Jesus, recebe o meu espírito.
 #v|60 %v|E pondo-se de joelhos, clamou com alta voz:
  Senhor, não os culpes por este pecado.
