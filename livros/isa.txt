@@ -1,8 +1,8 @@
 ﻿#header|
-#name|Isaías %name|
-#snm|Isaías %snm|
-#ver| 20130713 %ver|
-#abbr|Is %abbr|
+#name|Isaías%name|
+#snm|Isaías%snm|
+#ver|20151129ver|
+#abbr|Is%abbr|
 %header|
 
 #c|1 %c|
@@ -1664,7 +1664,7 @@ assim ele se tornou o Salvador deles.
 #v|1 %v|Ah, se tu rompesses os céus, #ad|e%ad| descesses, os montes se tremeriam de diante de tua presença,
 #v|2 %v|Tal como o fogo acende a madeira, #ad|e%ad| o fogo faz ferver as águas; para #ad|assim%ad| fazeres notório o teu nome a teus adversários, #ad|de modo que%ad| as nações tremessem de tua presença!
 #v|3 %v| #ad|Como%ad| quando fazias coisas temíveis, as quais nunca esperávamos; quando tu descias, #ad|e%ad| os montes se tremiam diante de tua presença.
-#v|4 %v|Nem desde os tempos antigos se ouviu, nem com os ouvidos de percebeu, nem olho viu outro Deus além de ti, que age #ad|em favor%ad| daquele que nele espera.
+#v|4 %v|Nem desde os tempos antigos se ouviu, nem com os ouvidos se percebeu, nem olho viu outro Deus além de ti, que age #ad|em favor%ad| daquele que nele espera.
 #v|5 %v|Tu foste ao encontro do alegre, e do que pratica justiça, #ad|e%ad| aos que se lembram de ti em teus caminhos. Eis que te enfureceste porque pecamos por muito tempo. Seremos salvos?
 #v|6 %v|Porém todos nós somos como um imundo, e todas as nossas justiças são como roupas contaminadas; e todos nós caímos como uma folha, e nossas culpas nos levam como o vento.
 #v|7 %v|E ninguém há que invoque a teu nome, que se desperte para se apegar a ti; pois tu escondeste teu rosto de nós, e nos consumiste por nossas perversidades.

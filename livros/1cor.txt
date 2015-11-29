@@ -1,28 +1,28 @@
 ﻿#header|
-#name|Primeira Carta de Paulo aos Coríntios %name|
-#snm|1 Coríntios %snm|
-#ver| 20140113 %ver|
-#abbr|1Co %abbr|
+#name|Primeira Carta de Paulo aos Coríntios%name|
+#snm|1 Coríntios%snm|
+#ver|20151129%ver|
+#abbr|1Co%abbr|
 %header|
 
 #c|1 %c|
 #v|1 %v|Paulo, chamado apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,
 #v|2 %v|À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, #ad|Senhor%ad| deles, e nosso;
-#v|3 %v|Graça #ad|seja%ad| convosco, e #ad|também%ad| a paz de Deus nosso Pai, e do Senhor Jesus Cristo.
-#v|4 %v|Sempre dou graças a meu Deus por causa de vós, pela graça de Deus, que é dada a vós em Cristo Jesus.
-#v|5 %v|Que em todas as coisas vós estais enriquecidos nele, em toda palavra, e em todo conhecimento;
+#v|3 %v|Graça #ad|seja%ad| convosco, e a paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+#v|4 %v|Sempre agradeço ao meu Deus por causa de vós, pela graça de Deus, que é dada a vós em Cristo Jesus.
+#v|5 %v|Que em todas as coisas estais enriquecidos nele, em toda palavra, e em todo conhecimento;
 #v|6 %v|Assim como o testemunho de Jesus Cristo foi confirmado entre vós.
-#v|7 %v|De maneira que nenhum dom vos falta, esperando a manifestação de nosso Senhor Jesus Cristo,
-#v|8 %v|A quem também vos confirmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
-#v|9 %v|Deus é fiel, por quem fostes chamados para a comunhão de seu Filho Jesus Cristo nosso Senhor.
-#v|10 %v|Mas eu vos rogo, irmãos, pelo nome de nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com a mesmo entendimento, e com a mesma opinião.
+#v|7 %v|De maneira que nenhum dom vos falta, enquanto esperais a manifestação do nosso Senhor Jesus Cristo,
+#v|8 %v|o qual também vos firmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
+#v|9 %v|Deus é fiel, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor.
+#v|10 %v|Mas eu vos rogo, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com o mesmo entendimento, e com a mesma opinião.
 #v|11 %v|Porque, irmãos meus, me foi informado de vós, pelos #ad|da casa%ad| de Cloé, que há brigas entre vós.
 #v|12 %v|E digo isto, que cada um de vós diz: “Eu sou de Paulo” e “Eu #ad|sou%ad| de Apolo” e “Eu #ad|sou%ad| de Cefas” e “Eu #ad|sou%ad| de Cristo”.
-#v|13 %v|Cristo está dividido? Paulo foi crucificado por vós? Ou vós fostes batizados no nome de Paulo?
-#v|14 %v|Eu dou graças a Deus, que batizei a nenhum de vós, a não ser Crispo e Gaio;
-#v|15 %v|Para que ninguém diga que eu tenha batizado em meu nome.
-#v|16 %v|Eu também batizei aos da casa de Estefanas; além desses, não sei se batizei a algum outro.
-#v|17 %v|Porque Cristo não me enviou para batizar, mas para Evangelizar; não com sabedoria de palavras, para que a cruz de Cristo não se torne inútil.
+#v|13 %v|Cristo está dividido? Paulo foi crucificado por vós? Ou fostes vós batizados no nome de Paulo?
+#v|14 %v|Agradeço a Deus que batizei nenhum de vós, a não ser Crispo e Gaio;
+#v|15 %v|para que ninguém diga que eu tenha batizado em meu nome.
+#v|16 %v|Também batizei aos da casa de Estefanas; além desses, não sei se batizei algum outro.
+#v|17 %v|Porque Cristo não me enviou para batizar, mas sim, para evangelizar; não com sabedoria de palavras, para que a cruz de Cristo não se torne inútil.
 #v|18 %v|Porque a palavra da cruz é loucura para os que perecem; mas para os que se salvam é poder de Deus.
 #v|19 %v|Porque está escrito:
  Destruirei a sabedoria dos sábios, e aniquilarei a inteligência dos inteligentes.
@@ -35,79 +35,79 @@
 #v|26 %v|Vede, pois, o vosso chamado, irmãos; pois dentre vós não #ad|há%ad| muitos sábios segundo a carne, nem muitos poderosos, nem muitos da elite.
 #v|27 %v|Mas Deus escolheu as coisas loucas deste mundo, para confundir às sábias; e Deus escolheu as fracas deste mundo, para confundir às fortes.
 #v|28 %v|E Deus escolheu as coisas desprezíveis deste mundo, e as sem valor, e as que não são, para aniquilar as que são.
-#v|29 %v|Para que nenhuma carne orgulhe de si diante dele.
+#v|29 %v|Para que ninguém#fn|_c|Lit. nenhuma carne%fn| orgulhe de si diante dele.
 #v|30 %v|Mas vós sois dele em Jesus Cristo, o qual de Deus nos foi feito sabedoria, e justiça, e santificação, e resgate.
 #v|31 %v|Para que, como está escrito:
- Aquele que se gloria, que se glorie por causa do Senhor.
+ Aquele que se orgulha, orgulhe-se por causa do Senhor.
 
 #c|2 %c|
-#v|1 %v|E eu, irmãos, quando vim a vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
-#v|2 %v|Porque eu não quis saber coisa alguma entre vós, a não ser a Jesus Cristo, e sua crucificação.
-#v|3 %v|E eu estive convosco em fraqueza, e em temor, e em grande tremor.
-#v|4 %v|E minha palavra e minha pregação não foi em {tr,n4:palavras persuasivas}{rp:persuasão} de sabedoria{tr: humana}, mas em demonstração do Espírito e de poder.
-#v|5 %v|Para que vossa fé não fosse em sabedoria humana, mas sim em poder de Deus.
-#v|6 %v|Contudo falamos sabedoria entre os maduros, porém uma sabedoria não deste mundo, nem dos líderes deste mundo, que perecem.
-#v|7 %v|Mas falamos a sabedoria de Deus, escondida em mistério, a qual Deus ordenou antes dos tempos para nossa glória.
-#v|8 %v|A qual nenhum dos líderes deste mundo conheceu. Porque se a tivessem conhecido, nunca crucificariam ao Senhor da glória.
+#v|1 %v|E eu, irmãos, quando vim até vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
+#v|2 %v|Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e a sua crucificação.
+#v|3 %v|E eu estive convosco em fraqueza, em temor, e em grande tremor.
+#v|4 %v|E a minha palavra e a minha pregação não foram em {tr,n4:palavras persuasivas}{rp:persuasão} de sabedoria{tr: humana}, mas sim, em demonstração do Espírito e de poder.
+#v|5 %v|Para que a vossa fé não fosse em sabedoria humana, mas sim, em poder de Deus.
+#v|6 %v|Contudo, falamos sabedoria entre os maduros, porém uma sabedoria não deste mundo, nem dos líderes deste mundo, que perecem.
+#v|7 %v|Mas falamos a sabedoria de Deus, escondida em mistério, a qual Deus ordenou antes dos tempos para a nossa glória.
+#v|8 %v|A qual nenhum dos líderes deste mundo conheceu. Porque, se a tivessem conhecido, nunca crucificariam ao Senhor da glória.
 #v|9 %v|Porém, assim como está escrito:
  As coisas que o olho não viu, e que no coração humano não subiram, #ad|são%ad| as que Deus preparou para os que o amam.
 #v|10 %v|Mas Deus as revelou para nós pelo seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
 #v|11 %v|Pois quem dentre os seres humanos sabe as coisas que são do ser humano, senão o espírito do ser humano que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
-#v|12 %v|Porém nós não recebemos o espírito do mundo, mas o Espírito que é de Deus; para que saibamos as coisas que nos são dadas por Deus.
+#v|12 %v|Nós, porém, não recebemos o espírito do mundo, mas sim, o Espírito que é de Deus; para que saibamos as coisas que nos são dadas por Deus.
 #v|13 %v|As quais também falamos, não com palavras que a sabedoria ensina, mas com as que o Espírito Santo ensina, interpretando #ad|coisas%ad| espirituais por #ad|meios%ad| espirituais.
-#v|14 %v|Mas o ser humano natural não compreende as coisas que são do Espírito de Deus, porque lhe são loucura; e não as pode entender, porque se discernem espiritualmente.
-#v|15 %v|Porém aquele #ad|que é%ad| espiritual discerne todas as coisas, mas ele é discernido por ninguém.
-#v|16 %v|Porque quem conheceu a mente do Senhor, para que o possa instruir? Mas nós temos a mente de Cristo.
+#v|14 %v|Mas o ser humano natural não compreende as coisas que são do Espírito de Deus, porque lhe são loucura; e não as pode entender, porque se compreendem espiritualmente.
+#v|15 %v|Porém quem é espiritual compreende todas as coisas, mas não é compreendido por ninguém.
+#v|16 %v|Pois quem conheceu a mente do Senhor, para que o possa instruir? Mas nós temos a mente de Cristo.
 
 #c|3 %c|
-#v|1 %v|E eu, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.
+#v|1 %v|E eu, irmãos, não pude vos falar como a espirituais, mas como a carnais, como a meninos em Cristo.
 #v|2 %v|Com leite eu vos criei, e não com alimento sólido, porque não podíeis; nem mesmo agora ainda podeis;
-#v|3 %v|Porque ainda sois carnais. Porque havendo entre vós inveja, e brigas, e divisões, por acaso não sois carnais, e #ad|ainda%ad| andais fazendo conforme o costume humano?
+#v|3 %v|porque ainda sois carnais. Pois, havendo entre vós inveja, brigas, e divisões, por acaso não sois carnais, e andais fazendo conforme o costume humano?
 #v|4 %v|Porque dizendo um: “Eu sou de Paulo”, e outro: “Eu #ad|sou%ad| de Apolo”, por acaso não sois carnais?
-#v|5 %v|Ora, quem é Paulo, e quem é Apolo, senão ministros, pelos quais crestes, conforme o Senhor deu a cada um?
-#v|6 %v|Eu plantei; Apolo regou; mas Deus deu o crescimento.
+#v|5 %v|Ora, quem é Paulo, e quem é Apolo, senão servidores, pelos quais crestes, conforme o Senhor deu a cada um?
+#v|6 %v|Eu plantei; Apolo regou; mas foi Deus quem deu o crescimento.
 #v|7 %v|De maneira que nem o que planta é algo, nem o que rega; mas sim Deus, que dá o crescimento.
-#v|8 %v|E o que planta, e o que rega, são um; mas cada um receberá sua recompensa segundo seu trabalho.
-#v|9 %v|Porque somos cooperadores de Deus; vós sois a plantação de Deus, #ad|e%ad| o edifício de Deus.
+#v|8 %v|E o que planta, e o que rega, são um; mas cada um receberá a sua recompensa segundo o seu trabalho.
+#v|9 %v|Porque somos cooperadores de Deus; vós sois a plantação de Deus, o edifício de Deus.
 #v|10 %v|Segundo a graça de Deus que me foi dada, eu pus como sábio construtor o fundamento; e outro edifica sobre ele; mas olhe cada um como constrói sobre ele.
 #v|11 %v|Porque ninguém pode pôr fundamento diferente do que já está posto, o qual é Jesus Cristo.
 #v|12 %v|E se alguém sobre este fundamento edificar ouro, prata, pedras preciosas, madeira, feno, palha,
-#v|13 %v|A obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de cada um, o fogo fará a prova.
+#v|13 %v|a obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de cada um, o fogo fará a prova.
 #v|14 %v|Se a obra de alguém que construiu sobre ele permanecer, receberá recompensa.
 #v|15 %v|Se a obra de alguém se queimar, o #ad|construtor%ad| sofrerá perda; porém o tal se salvará, contudo, como que #ad|passado%ad| pelo fogo.
-#v|16 %v|Não sabeis vós, que sois o templo de Deus? E #ad|que%ad| o Espírito de Deus habita em vós?
+#v|16 %v|Não sabeis vós, que sois o templo de Deus? E que o Espírito de Deus habita em vós?
 #v|17 %v|Se alguém destruir o templo de Deus, Deus ao tal destruirá; porque o templo de Deus é santo, o qual sois vós.
 #v|18 %v|Ninguém se engane; se alguém entre vós nestes tempos pensa ser sábio, que se faça de louco, para que seja sábio.
 #v|19 %v|Pois a sabedoria deste mundo é loucura para Deus; porque está escrito:
  Ele toma aos sábios pela sua própria astúcia.
 #v|20 %v|E outra vez:
  O Senhor conhece os pensamentos dos sábios, que são vãos.
-#v|21 %v|Portanto ninguém se glorie em seres humanos; porque tudo é vosso,
-#v|22 %v|Seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro; tudo é vosso.
-#v|23 %v|Mas vós #ad|sois%ad| de Cristo, e Cristo #ad|é%ad| de Deus.
+#v|21 %v|Portanto ninguém se orgulhe em seres humanos; porque tudo é vosso,
+#v|22 %v|seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro; tudo é vosso.
+#v|23 %v|Mas vós sois de Cristo; e Cristo, de Deus.
 
 #c|4 %c|
-#v|1 %v|Que as pessoas nos reconheçam como trabalhadores de Cristo, e guardiões dos mistérios de Deus.
-#v|2 %v|E além disso, se exige dos guardiões que cada um seja fiel.
+#v|1 %v|Que as pessoas nos reconheçam como servidores de Cristo, e guardiões dos mistérios de Deus.
+#v|2 %v|E além disso, exige-se dos guardiões que cada um seja fiel.
 #v|3 %v|Mas a mim, pouco me importa de ser julgado por vós, ou por qualquer juízo humano; nem eu julgo a mim mesmo.
 #v|4 %v|Porque em nada me sinto culpável; mas nem por isso estou justificado; porém o que me julga é o Senhor.
-#v|5 %v|Então nada julgueis antes do tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas nas trevas, e manifestará os conselhos dos corações; e então cada um receberá aprovação de Deus.
+#v|5 %v|Então nada julgueis antes do tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas nas trevas, e manifestará as intenções dos corações; e então cada um receberá aprovação de Deus.
 #v|6 %v|E isto, irmãos, fiz a comparação relativa a mim e a Apolo por causa de vós; para que em nós aprendais a não fazer suposições além do que está escrito; para que não fiqueis arrogantes por preferir um contra o outro.
-#v|7 %v|Porque quem te discerne? E o que tens tu, que não tenhas recebido? E se o recebeste, por que te orgulhas, como se não o tivesse recebido?
-#v|8 %v|Vós já estais fartos, já estais ricos, e reinastes sem nós; e bom seria se vós reinásseis, para que também nós reinássemos convosco.
-#v|9 %v|Pois acho que Deus mostrou a nós, os apóstolos, por último, como postos à morte; pois somos como espetáculo ao mundo, tanto aos anjos como aos seres humanos.
+#v|7 %v|Pois quem te faz diferentemente superior? E o que tens tu, que não tenhas recebido? E se o recebeste, por que te orgulhas, como se não o tivesse recebido?
+#v|8 %v|Vós já estais satisfeitos, já estais ricos, e reinastes sem nós; e bom seria se vós reinásseis, para que também nós reinássemos convosco.
+#v|9 %v|Pois acho que Deus colocou a nós, os apóstolos, por último, como sentenciados à morte; pois somos como espetáculo ao mundo, tanto aos anjos como aos seres humanos.
 #v|10 %v|Nós #ad|somos%ad| loucos por causa de Cristo, mas vós sábios em Cristo; nós fracos, mas vós fortes; vós ilustres, mas nós desonrados.
 #v|11 %v|Até esta presente hora sofremos fome e sede, e estamos nus, e somos golpeados, e não temos morada certa.
-#v|12 %v|E ficamos exaustos, trabalhando com nossas próprias mãos; somos insultados, e bendizemos; somos perseguidos, e nós toleramos.
-#v|13 %v|Somos blasfemados, e pedimos conciliação; somos feitos como a escória do mundo, e como o lixo de todos, até agora.
-#v|14 %v|Não escrevo estas coisas para vos envergonhar; mas #ad|vos%ad| advertir como a meus amados filhos.
+#v|12 %v|E ficamos exaustos, trabalhando com as nossas próprias mãos; somos insultados, e bendizemos; somos perseguidos, e nós suportamos.
+#v|13 %v|Somos blasfemados, e respondemos humildemente; somos feitos como a escória do mundo, e como o lixo de todos, até agora.
+#v|14 %v|Não escrevo estas coisas para vos envergonhar; mas sim, para #ad|vos%ad| advertir como a meus amados filhos.
 #v|15 %v|Porque ainda que tivésseis dez mil tutores em Cristo, contudo não #ad|tendes%ad| muitos pais. Porque eu tornei vosso pai em Cristo Jesus por meio do Evangelho.
 #v|16 %v|Portanto eu vos chamo para que sejais meus imitadores.
-#v|17 %v|Por isto eu vos enviei a Timóteo, que é meu amado e fiel filho no Senhor; o qual vos lembrará meus caminhos em Cristo, como por todas os lugares ensino em cada igreja.
-#v|18 %v|Mas alguns andam arrogantes, como seu eu não viesse a vos.
-#v|19 %v|Porém logo virei a vós, se o Senhor quiser; e #ad|então%ad| conhecerei, não as palavras dos que andam arrogantes, mas sim o poder.
+#v|17 %v|Por isto eu enviei para vós Timóteo, que é meu amado e fiel filho no Senhor; ele vos lembrará os meus caminhos em Cristo, como por todas os lugares ensino em cada igreja.
+#v|18 %v|Mas alguns andam arrogantes, como se eu não fosse até vós.
+#v|19 %v|Porém logo irei vos visitar, se o Senhor quiser; e #ad|então%ad| conhecerei, não as palavras dos que andam arrogantes, mas sim o poder #ad|deles%ad|.
 #v|20 %v|Porque o Reino de Deus não #ad|consiste%ad| de palavras, mas sim de poder.
-#v|21 %v|Que quereis? Virei a vós com vara #ad|de repreensão%ad| , ou com amor e espírito de mansidão?
+#v|21 %v|Que quereis? Que eu venha até vós com a vara #ad|da disciplina%ad|, ou com amor e espírito de mansidão?
 
 #c|5 %c|
 #v|1 %v|Totalmente se ouve #ad|que há%ad| entre vós pecados sexuais, e tais pecados sexuais que nem mesmo entre os gentios{tr,rp: se nomeia}{n4: #ad|há%ad| },{trnc: #fn|_c|N4 omite “se nomeia” %fn|}{n4: #fn|_c|TR, RP: “nem mesmo entre os gentios se nomeia” %fn|} como alguém que tomou como mulher a esposa de seu pai.

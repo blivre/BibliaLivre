@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Atos dos Apóstolos%name|
 #snm|Atos%snm|
-#ver|20151111%ver|
+#ver|20151129%ver|
 #abbr|At%abbr|
 %header|
 
@@ -867,8 +867,8 @@ Porque ele lhes anunciava o Evangelho de Jesus e a ressurreição.
 #v|17 %v|Mas todos os gregos, tomando a Sóstenes, o chefe da sinagoga, feriram #ad|-no%ad| diante do tribunal; e a nada destas coisas Gálio dava importância.
 #v|18 %v|E Paulo, ficando ali ainda muitos dias, ele se despediu dos irmãos, e dali navegou para a Síria, e juntos com ele #ad|estavam%ad| Priscila e Áquila; tendo rapado a cabeça em Cencreia, porque ele tinha #ad|feito%ad| voto.
 #v|19 %v|E chegou a Éfeso, e os deixou ali; mas ele, entrando na sinagoga, disputava com os judeus.
-#v|20 %v|E eles, pedindo #ad|-lhe%ad| que continuasse com eles por mais #ad|algum%ad| tempo, ele não concordou.
-#v|21 %v|Mas, #ad|ao invés disso%ad| , despediu-se deles, dizendo:
+#v|20 %v|E eles, pedindo#ad|-lhe%ad| que continuasse com eles por mais #ad|algum%ad| tempo, ele não concordou.
+#v|21 %v|Porém despediu-se deles, dizendo:
  {tr,rp:De toda maneira tenho que estar na festa que vem em Jerusalém;{trnc: #fn|_c|N4 omite: “De toda maneira tenho que estar na festa que vem em Jerusalém” %fn|} mas outra}{n4:Outra #fn|_c|TR, RP acrescentam: “De toda maneira tenho que estar na festa que vem em Jerusalém” antes de “Outra” %fn|} vez, se Deus quiser, voltarei a vós.
 E ele saiu de Éfeso.
 #v|22 %v|E tendo vindo a Cesareia, subiu e, saudando à igreja, desceu a Antioquia.
@@ -880,7 +880,7 @@ E ele saiu de Éfeso.
 #v|28 %v|Porque vigorosamente ele provava publicamente os erros dos judeus, mostrando pelas Escrituras que Jesus era o Cristo.
 
 #c|19 %c|
-#v|1 %v|E enquanto Apolo estava em Corinto, aconteceu que, tendo Paulo passado por todas as regiões superiores, ele veio a Éfeso; e achando #ad|ali%ad| alguns discípulos,
+#v|1 %v|E enquanto Apolo estava em Corinto, aconteceu que, tendo Paulo passado por todas as regiões altas, ele veio a Éfeso; e achando #ad|ali%ad| alguns discípulos,
 #v|2 %v|Disse-lhes:
  Vós #ad|já%ad| recebestes o Espírito Santo #ad|desde que%ad| crestes?
 E eles lhe disseram:
@@ -891,39 +891,39 @@ E eles disseram:
  No batismo de João.
 #v|4 %v|Então Paulo disse:
  João verdadeiramente batizou #ad|com%ad| o batismo do arrependimento, dizendo ao povo que cressem naquele que viria após ele, isto é, em Jesus Cristo.
-#v|5 %v|Ao ouvirem #ad|isto%ad| , eles foram batizados no nome do Senhor Jesus.
-#v|6 %v|E Paulo, impondo-lhes as mãos, veio sobre eles o Espírito santo; e falavam em línguas, e profetizavam.
+#v|5 %v|Ao ouvirem #ad|isto%ad|, eles foram batizados no nome do Senhor Jesus.
+#v|6 %v|E Paulo, impondo-lhes as mãos, veio sobre eles o Espírito Santo; e falavam em línguas, e profetizavam.
 #v|7 %v|E todos os homens eram cerca de doze.
 #v|8 %v|E ele, entrando na sinagoga, falava ousadamente durante três meses, disputando e persuadindo as coisas do Reino de Deus.
-#v|9 %v|Mas quando alguns se endureceram, e não creram, e falando mal do Caminho #ad|de Jesus%ad| diante da multidão, ele se desviou deles; e separou aos discípulos, disputando a cada dia na escola de um certo Tirano.
+#v|9 %v|Mas quando alguns se endureceram, e não creram, e falando mal do Caminho#fn|_c|Isto é, a fé em Jesus%fn| diante da multidão, ele se desviou deles; e separou aos discípulos, disputando a cada dia na escola de um certo Tirano.
 #v|10 %v|E isto aconteceu durante dois anos; de tal maneira que todos os que habitavam na Ásia tinham ouvido a palavra do Senhor Jesus, tanto judeus como gregos.
 #v|11 %v|E Deus fazia milagres extraordinários pelas mãos de Paulo,
 #v|12 %v|De tal maneira que até os lenços e aventais de seu corpo eram levados aos enfermos, e as doenças os deixavam, e os espíritos malignos saíam deles.
 #v|13 %v|E alguns exorcistas dos judeus, itinerantes, tentaram invocar o nome do Senhor Jesus sobre os que tinham espíritos malignos, dizendo:
- Nós vos repreendemos sob juramento por Jesus, a quem Paulo prega.
+ Nós vos repreendemos por Jesus, a quem Paulo prega.
 #v|14 %v|E eram sete filhos de Ceva, judeu, chefe dos sacerdotes, os que faziam isto.
-#v|15 %v|Mas respondendo o espírito maligno, disse:
- Eu conheço a Jesus, e sei #ad|quem é%ad| Paulo; mas vós, quem sois?
-#v|16 %v|E o homem em quem estava o espírito maligno saltou sobre eles, e os dominando, foi mais forte do que eles; de tal maneira que eles fugiram nus e feridos daquela casa.
+#v|15 %v|Mas  o espírito maligno respondeu:
+ Eu conheço Jesus, e sei quem é Paulo; mas vós, quem sois?
+#v|16 %v|E o homem em quem estava o espírito maligno saltou sobre eles, e dominando-os, foi mais forte do que eles; de tal maneira que eles fugiram nus e feridos daquela casa.
 #v|17 %v|E isto se fez conhecido a todos que habitavam em Éfeso, tanto a judeus como a gregos; e caiu temor sobre todos eles; e #ad|assim%ad| foi engrandecido o nome do Senhor Jesus.
-#v|18 %v|E muitos dos que criam vinham, e declaravam os suas atitudes.
+#v|18 %v|E muitos dos que criam vinham, confessando e declararando as suas atitudes.
 #v|19 %v|Também muitos dos que praticavam ocultismo trouxeram seus livros, e #ad|os%ad| queimaram na presença de todos; e calcularam o preço deles, e acharam que #ad|custavam%ad| cinquenta mil #ad|moedas%ad| de prata.
-#v|20 %v|Assim crescia e prevalecia poderosamente a palavra do Senhor.
+#v|20 %v|Assim a palavra do Senhor crescia e prevalecia poderosamente.
 #v|21 %v|E quando se cumpriram estas coisas, Paulo propôs em espírito que, passando pela Macedônia e Acaia, ir até Jerusalém, dizendo:
  Depois de eu estar lá, também tenho que ver Roma.
 #v|22 %v|E ele, tendo enviado à Macedônia dois daqueles que o serviam, Timóteo e Erasto, ele ficou por #ad|algum%ad| tempo na Ásia.
-#v|23 %v|Mas naquele tempo aconteceu um não pequeno alvoroço quanto ao caminho #ad|de Jesus%ad| .
-#v|24 %v|Porque um certo artífice de prata, de nome Demétrio, que fazia objetos de prata para o templo de Diana ( #ad|que é Ártemis%ad| ), e dava não pouco lucro aos artesãos.
-#v|25 %v|Aos quais, tendo os reunido com os trabalhadores de semelhantes coisas, ele disse:
+#v|23 %v|Mas naquele tempo aconteceu um não pequeno alvoroço quanto ao Caminho#fn|_c|Isto é, a fé em Jesus%fn|.
+#v|24 %v|Porque um certo artífice de prata, de nome Demétrio, que fazia objetos de prata para o templo de Diana#fn|_c|Outro nome da mesma divindade era Ártemis%fn|, e dava não pouco lucro aos artesãos.
+#v|25 %v|Aos quais, tendo os reunido com os trabalhadores de semelhantes coisas, disse:
  Homens, vós sabeis que deste ofício temos nossa prosperidade.
 #v|26 %v|E vós estais vendo e ouvindo que este Paulo, não somente em Éfeso, mas até quase em toda a Ásia, tem persuadido e apartado uma grande multidão, dizendo que não são deuses os que são feitos com as mãos.
 #v|27 %v|E não somente há perigo de que isto torne #ad|nosso%ad| ofício em desprezo, mas também que #ad|até%ad| o tempo da grande deusa Diana seja considerado inútil, e que a grandiosidade dela, a quem toda a Ásia e o mundo venera, venha a ser destruída.
 #v|28 %v|E eles, ao ouvirem #ad|estas coisas%ad| , encheram-se de ira, e clamaram, dizendo:
  Grande é a Diana dos efésios!
-#v|29 %v|E toda a cidade se encheu de tumulto, e em concordância eles invadiram ao teatro, tomando consigo a Gaio e a Aristarco, macedônios, companheiros de Paulo na viagem.
-#v|30 %v|E Paulo, querendo sair ao povo, os discípulos não o permitiram.
-#v|31 %v|E também alguns dos líderes da Ásia, que eram amigos dele, enviaram-lhe #ad|aviso%ad| , rogando #ad|-lhe%ad| para que não se apresentasse no teatro.
-#v|32 %v|Então gritavam, #ad|alguns de uma maneira%ad| , outros de outra #ad|maneira%ad| ; porque o ajuntamento #ad|de pessoas%ad| era confuso; e a maioria não sabia por que causa estavam juntos.
+#v|29 %v|E toda a cidade se encheu de tumulto, e em concordância eles invadiram ao teatro, tomando consigo Gaio e Aristarco, macedônios, companheiros de Paulo na viagem.
+#v|30 %v|E Paulo, querendo comparecer diante do povo, os discípulos não o permitiram.
+#v|31 %v|E também alguns dos líderes da Ásia, que eram amigos dele, enviaram-lhe #ad|aviso%ad|, rogando#ad|-lhe%ad| para que não se apresentasse no teatro.
+#v|32 %v|Então gritavam, #ad|alguns de uma maneira%ad|, outros de outra; porque a aglomeração estava confusa; e a maioria não sabia por que causa estavam aglomerados.
 #v|33 %v|E tiraram da multidão a Alexandre, os judeus o pondo para a frente. E Alexandre, acenando com a mão, queria #ad|se%ad| defender ao povo.
 #v|34 %v|Mas ao saberem que ele era judeu, levantou-se uma voz de todos, clamando por cerca de duas horas:
  Grande é a Diana dos efésios!
