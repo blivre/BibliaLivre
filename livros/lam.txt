@@ -1,23 +1,97 @@
 ﻿#header|
-#name|Lamentações %name|
-#snm|Lamentações %snm|
-#ver| 20120914 %ver|
-#abbr|Lm %abbr|
+#name|Lamentações de Jeremias%name|
+#snm|Lamentações%snm|
+#ver|20151205%ver|
+#abbr|Lm%abbr|
 %header|
 
-#c|1 %c|
-#v|1 %v|Como se senta solitária a cidade que era tão populosa! A grande entre as nações tornou-se como viúva, a senhora de províncias tornou-se tributária.
-#v|2 %v|Amargamente chora na noite, e suas lágrimas #ad|correm%ad| em seu rosto; entre todos os seus amantes não há quem a console; todos seus amigos a traíram, tornaram-se inimigos.
-#v|3 %v|Judá foi em cativeiro com aflição e grande servidão; ela habitou entre as nações, e não achou descanso; todos os seus perseguidores a alcançaram entre lugares estreitos. #fn|_c|entre lugares estreitos – trad. alt. em angústias %fn|
-#v|4 %v|Os caminhos de Sião estão de luto, pois ninguém vem às celebrações solenes; todas as suas portas estão desertas, seus sacerdotes gemem, suas virgens se afligem, e ela sofre amargamente.
-#v|5 %v|Seus adversários estão no comando, seus inimigos prosperam; pois o SENHOR a afligiu por causa de suas muitas transgressões; suas criancinhas foram em cativeiro diante do inimigo. #fn|_c|inimigos estão no comando – inimigos tornaram-se a cabeça #ad|dela%ad| %fn|
-#v|6 %v|Foi embora toda a beleza #fn|_c|beleza – i.e., glória, esplendor %fn|da filha de Sião; seus príncipes se tornaram como cervos que não encontram pasto, que tentam fugir sem força diante do perseguidor.
-#v|7 %v|Jerusalém, nos dias de sua aflição, e de suas rebeliões, lembrou-se de todas as suas melhores coisas, que tinha nos tempos antigos; quando seu povo caiu nas mãos do adversário, não houve quem a ajudasse; os adversários a viram, #ad|e%ad| zombaram de sua queda.
-#v|8 %v|Jerusalém pecou gravemente; por isso ela se tornou impura; todos os que a honravam a desprezaram, porque viram sua nudez; e ela suspirou, e se virou para trás. #fn|_c|ela se tornou suja – obscuro – trad. alt. ela se tornou motivo de escárnio %fn|
-#v|9 %v|Sua impureza está em suas saias; nunca se lembrou de sua fim; por isso ela desceu espantosamente, sem ter consolador. Olha, SENHOR, minha aflição, porque o inimigo tem se engrandecido.
-#v|10 %v|O adversário estendeu sua mão o inimigo para #ad|tomar%ad| todas as suas coisas mais valiosas; pois ela viu que entraram no santuário as nações das quais mandaste que não entrassem em tua congregação.
-#v|11 %v|Todo o seu povo anda suspirando em busca de pão; deram todas as suas coisas mais preciosas em troca de comida para sobreviverem. #fn|_c|sobreviverem – lit. restaurarem a alma (ou vida %fn|) Olha, SENHOR, e vê que estou desprezada.
-#v|12 %v|Por acaso não vos #ad|comove%ad| , todos vós que passais pelo caminho? Olhai, e vede se há dor como a minha dor que me veio, com que o SENHOR me tem afligiu no dia do ardor de sua ira.
+#c|1%c|
+#v|1%v|
+Como se senta solitária 
+  a cidade que era tão populosa! 
+A grande entre as nações 
+  tornou-se como viúva, 
+a senhora de províncias 
+  passou a ser escrava.
+#v|2%v|
+Amargamente chora na noite, 
+  suas lágrimas em seu rosto; 
+entre todos os seus amantes 
+  não há quem a console; 
+todos os seus amigos a traíram, 
+  inimigos se tornaram.
+#v|3%v|
+Judá foi ao cativeiro 
+  com aflição e grande servidão; 
+ela habita entre as nações, 
+  mas não acha descanso; 
+todos os seus perseguidores a alcançam
+  em meio ao aperto.#fn|_c|Trad. alt. angústia%fn|
+#v|4%v|
+Os caminhos de Sião estão em pranto, 
+  pois ninguém vem aos festivais; 
+todas as suas portas estão desertas, 
+  seus sacerdotes gemem, 
+suas virgens se afligem, 
+  e ela sofre de amargura.
+#v|5%v|
+Seus oponentes estão no comando, 
+  seus inimigos prosperam; 
+pois o SENHOR a afligiu 
+  por causa das suas muitas transgressões; 
+suas crianças foram em cativeiro 
+  levadas ao adversário.
+#v|6 %v|
+Partiu-se toda a beleza 
+  da filha de Sião; 
+seus líderes estão como cervos,
+  não acham pasto algum; 
+eles andam fracos,
+  fugindo do perseguidor.
+#v|7 %v|
+Nos dias da sua aflição, 
+  e de suas andanças perdidas, 
+Jerusalém lembra-se de todas as suas preciosidades, 
+  que tinha nos tempos antigos; 
+quando seu povo caiu na mão do adversário, 
+  não houve quem a ajudasse; 
+os adversários a viram, 
+  e zombaram da sua queda.
+#v|8 %v|
+Jerusalém pecou gravemente; 
+  por isso ela se tornou impura;#fn|_k|impura|_c|obscuro; trad. alt. ela se tornou objeto de zombaria%fn| 
+todos os que a honravam a desprezam, 
+  porque viram a sua nudez; 
+ela geme, 
+  e se vira para trás. 
+#v|9 %v|
+Sua imundície estava até nas roupas;#fn|_c|Lit. "Sua imundície estava em suas saias"%fn| 
+  nunca se importou com o seu futuro#fn|_c|Lit. "fim", isto, é, suas consequências%fn|; 
+por isso caiu espantosamente, 
+  sem ter quem a consolasse. 
+Olha, SENHOR, a minha aflição, 
+  porque o inimigo está engrandecido.
+#v|10 %v|
+O adversário tomou 
+  todas as suas coisas de valor; 
+ela viu as nações 
+  entrarem no seu templo#fn|_c|o templo dela%fn| 
+- aquelas que proibiste 
+  de entrarem na tua congregação.
+#v|11 %v|
+Todo o seu povo anda suspirando 
+  em busca de pão; 
+trocaram todas os seus bens por comida 
+  a fim de sobreviverem #fn|_c|sobreviverem – lit. restaurarem a alma (ou vida) %fn| 
+Olha, SENHOR, e vê 
+  que estou desprezada.
+#v|12 %v|
+Todos vós que estais passando, não vos #ad|importais%ad|? 
+  Olhai, e vede 
+se há dor como a minha, 
+  que me foi imposta, 
+que o SENHOR me afligiu 
+  no dia da sua ira ardente.
 #v|13 %v|Desde o alto ele enviou fogo em meus ossos, o qual os dominou; ele estendeu uma rede a meus pés, fez-me voltar para trás; tornou-me assolada, sofrendo dores o dia todo.
 #v|14 %v|O jugo de minhas transgressões está amarrado por sua mão, elas estão ligadas, postas sobre o meu pescoço; ele abateu minhas forças. O Senhor me entregou nas suas mãos daqueles contra quem não posso me levantar.
 #v|15 %v|O Senhor derrotou todos os meus fortes em meio de mim; convocou contra mim um ajuntamento para quebrar os meus rapazes; o Senhor tem pisado a virgem filha de Judá como #ad|se fosse%ad| um lagar.
