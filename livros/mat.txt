@@ -216,8 +216,8 @@ Então ele o permitiu.
 #v|19 %v|Não ajunteis para vós tesouros na terra, onde e a traça e a ferrugem gastam, e onde os ladrões invadem e roubam;
 #v|20 %v|Mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem gastam, e onde os ladrões não invadem nem roubam.
 #v|21 %v|Porque onde estiver o {tr,rp:vosso}{n4:teu} tesouro, ali estará também o {tr,rp:vosso}{n4:teu} coração.{trnc: #fn|_c|N4 contém: teu tesouro, (...) teu coração %fn|}
-#v|22 %v|A lâmpada do corpo é o olho; portanto, se o teu olho for puro, todo o teu corpo será luminoso.
-#v|23 %v|Porém se o teu olho for maligno, todo o teu corpo estará em trevas. Assim, se a luz que há em ti são trevas, como são grandes #ad|essas%ad| trevas!
+#v|22 %v|A lâmpada do corpo é o olho; portanto, se o teu olho for esclarecido, todo o teu corpo será integralmente iluminado.
+#v|23 %v|Porém se o teu olho for perverso, todo o teu corpo será obscuro. Assim, se a luz que há em ti são trevas, como são grandes #ad|essas%ad| trevas!
 #v|24 %v|Ninguém pode servir a dois senhores; pois ou odiará um e amará outro; ou se apegará a um, e desprezará o outro. Não podeis servir a Deus e às riquezas. #fn|_c|riquezas – lit. “Mamom”, a personificação dos bens materiais e da ganância %fn|
 #v|25 %v|Por isso vos digo: não andeis ansiosos por vossa vida, sobre o que haveis de comer, ou que haveis de beber; nem por vosso corpo, sobre com que vos haveis de vestir. Não é a vida mais que o alimento, e o corpo #ad|mais%ad| que a roupa?
 #v|26 %v|Olhai para as aves do céu, que não semeiam, nem ceifam, nem ajuntam em celeiros; e contudo vosso Pai celestial as alimenta. Não sois vós muito mais importantes que elas?
