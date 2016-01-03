@@ -1,12 +1,10 @@
-﻿Marcos 1:1-13:27 (473) - crítica textual até 13:27
+﻿Marcos 1:1-14:48 (473) - crítica textual até 13:27
 
 {trnc:#fn|_c|_%fn|}
 
 Êxodo 1:1-22
 a1911 27
 1819  31
-
-Lamentações 1:1-12
 
 Livros completos:
 Mateus[1]
@@ -16,3 +14,16 @@ Filipenses [7] (último)
 Hebreus[4]
 1 Pedro[3]
 3 João[2]
+
+Parágrafos: até Gênesis 22
+
+#qs|  abre aspas
+#qe|  fecha aspas
+#sqs|  abre aspas simples
+#sqe|  fecha aspas simples
+#tqs|  início de citação de texto das escrituras em notas de rodapé
+#tqe|  fim de citação de texto das escrituras em notas de rodapé
+#lb|  quebra de linha
+#tas|  início de texto alternativo em notas de rodapé
+#tae|  fim de texto alternativo em notas de rodapé
+

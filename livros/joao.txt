@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo João %name|
 #snm|João %snm|
-#ver| 20151105 %ver|
+#ver|20160102%ver|
 #abbr|Jo %abbr|
 %header|
 
@@ -556,9 +556,8 @@ Respondeu Jesus:
 #v|20 %v|Estas palavras falou Jesus junto à arca do tesouro, ensinando no Templo; e ninguém o prendeu, porque sua hora ainda não era chegada.
 #v|21 %v|Disse-lhes pois Jesus outra vez:
  Eu me vou, e me buscareis, e morrereis em vosso pecado; para onde eu vou vós não podeis vir.
-#v|22 %v|Diziam, pois, os Judeus:
- Ele, por acaso, matará a si mesmo? Pois diz: 
- Para onde eu vou vós não podeis vir.
+#v|22 %v|Diziam, pois, os Judeus: 
+Ele, por acaso, matará a si mesmo? Pois diz: Para onde eu vou vós não podeis vir.
 #v|23 %v|E ele lhes dizia:
  Vós sois de baixo, eu sou de cima; vós sois deste mundo, eu não sou deste mundo.
 #v|24 %v|Por isso eu vos disse, que morrereis em vossos pecados; porque se não credes que eu sou, morrereis em vossos pecados.
@@ -566,23 +565,22 @@ Respondeu Jesus:
  Quem és tu? 
 Jesus lhes disse: 
  #ad|Sou%ad| o mesmo que desde o princípio tenho vos dito.
-#v|26 %v|Muitas coisas tenho que dizer e julgar de vós; mas verdadeiro é aquele que me enviou; e eu o que dele tenho ouvido, isso falo ao mundo.
-#v|27 %v| #ad|Mas%ad| não entenderam que ele estava lhes falando do Pai.
+#v|26 %v|Muitas coisas tenho que dizer e julgar de vós; mas verdadeiro é aquele que me enviou; e eu, o que dele tenho ouvido, isso falo ao mundo.
+#v|27 %v|#ad|Mas%ad| não entenderam que ele estava lhes falando do Pai.
 #v|28 %v|Jesus, então, lhes disse:
- Quando levantardes ao Filho do homem, então entendereis que eu sou, e #ad|que%ad| nada faço de mim mesmo; mas isto digo, como meu Pai me ensinou.
+ Quando levantardes ao Filho do homem, então entendereis que eu sou, e que nada faço de mim mesmo; mas isto digo, como meu Pai me ensinou.
 #v|29 %v|E aquele que me enviou está comigo. O Pai não me tem deixado só, porque sempre faço o que lhe agrada.
 #v|30 %v|Falando ele estas coisas, muitos creram nele.
 #v|31 %v|Dizia, pois, Jesus aos judeus que criam nele:
  Se vós permanecerdes em minha palavra, verdadeiramente sereis meus discípulos.
 #v|32 %v|E conhecereis a verdade, e a verdade vos libertará.
 #v|33 %v|Responderam-lhe:
- Somos semente de Abraão, e nunca servimos a ninguém; como, #ad|então%ad| , tu dizes: 
- Sereis livres?
+ Somos descendência#fn|_c|Lit. semente%fn| de Abraão, e nunca servimos a ninguém; como, #ad|pois%ad|, dizes: Sereis livres?
 #v|34 %v|Respondeu-lhes Jesus:
- Em verdade, em verdade vos digo, que todo aquele que faz pecado, servo é do pecado.
+ Em verdade, em verdade vos digo, que todo aquele que comete pecado é servo do pecado.
 #v|35 %v|E o servo não fica em casa para sempre; o Filho fica para sempre.
 #v|36 %v|Portanto, se o Filho vos libertar, verdadeiramente sereis livres.
-#v|37 %v|Bem sei que sois semente se Abraão; porém procurais matar-me, porque minha palavra não cabe em vós.
+#v|37 %v|Bem sei que sois descendência#fn|_c|Lit. semente%fn| de Abraão; porém procurais matar-me, porque minha palavra não encontra lugar em vós.
 #v|38 %v|Eu, o que vi junto a meu Pai, #ad|isso%ad| falo; e vós, o que também vistes junto a vosso pai #ad|isso%ad| fazeis.
 #v|39 %v|Responderam, e lhe disseram:
  Nosso pai é Abraão. 

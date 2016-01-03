@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Mateus%name|
 #snm|Mateus %snm|
-#ver|20151106%ver|
+#ver|20160103%ver|
 #abbr|Mt%abbr|
 %header|
 
@@ -216,8 +216,8 @@ Então ele o permitiu.
 #v|19 %v|Não ajunteis para vós tesouros na terra, onde e a traça e a ferrugem gastam, e onde os ladrões invadem e roubam;
 #v|20 %v|Mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem gastam, e onde os ladrões não invadem nem roubam.
 #v|21 %v|Porque onde estiver o {tr,rp:vosso}{n4:teu} tesouro, ali estará também o {tr,rp:vosso}{n4:teu} coração.{trnc: #fn|_c|N4 contém: teu tesouro, (...) teu coração %fn|}
-#v|22 %v|A lâmpada do corpo é o olho; portanto, se o teu olho for puro, todo o teu corpo será luminoso.
-#v|23 %v|Porém se o teu olho for maligno, todo o teu corpo estará em trevas. Assim, se a luz que há em ti são trevas, como são grandes #ad|essas%ad| trevas!
+#v|22 %v|A lâmpada do corpo é o olho; portanto, se o teu olho for puro,#fn|_c|Significando "sincero", "franco". A palavra grega significa literalmente "simples", "sem mistura", no caso, aplicado literalmente ao olho, seria "sem nada que impeça a passagem da luz"%fn| todo o teu corpo será cheio de luz.
+#v|23 %v|Porém se o teu olho for maligno, todo o teu corpo será cheio de trevas. Assim, se a luz que há em ti são trevas, como são grandes #ad|essas%ad| trevas!
 #v|24 %v|Ninguém pode servir a dois senhores; pois ou odiará um e amará outro; ou se apegará a um, e desprezará o outro. Não podeis servir a Deus e às riquezas. #fn|_c|riquezas – lit. “Mamom”, a personificação dos bens materiais e da ganância %fn|
 #v|25 %v|Por isso vos digo: não andeis ansiosos por vossa vida, sobre o que haveis de comer, ou que haveis de beber; nem por vosso corpo, sobre com que vos haveis de vestir. Não é a vida mais que o alimento, e o corpo #ad|mais%ad| que a roupa?
 #v|26 %v|Olhai para as aves do céu, que não semeiam, nem ceifam, nem ajuntam em celeiros; e contudo vosso Pai celestial as alimenta. Não sois vós muito mais importantes que elas?
@@ -813,7 +813,7 @@ Então os deixou, e foi embora
  Por que nós não o pudemos expulsar?
 #v|20 %v|E {n4: #ad|}Jesus{n4:%ad| }{trnc: #fn|_c|NA omite "Jesus" %fn|} lhes respondeu:
  Por causa da vossa {tr,rp:incredulidade}{n4:pouca fé};{trnc: #fn|_c|TR, RP: incredulidade - N4: pouca fé %fn|} pois em verdade vos digo, que se tivésseis fé como um grão de mostarda, diríeis a este monte: “Passa-te daqui para lá”, E ele passaria. E nada vos seria impossível.
-#v|21 %v|{tr,rp:Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum.}{n4: --- #fn|_c|TR, RP, contêm o versículo 21: Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum. Compares com Marcos 9:29 %fn|}{trnc: #fn|_c|N4 omite todo o versículo 21 %fn|}
+#v|21 %v|{tr,rp:Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum.}{n4: --- #fn|_c|TR, RP, contêm o versículo 21: Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum. Compare com Marcos 9:29 %fn|}{trnc: #fn|_c|N4 omite todo o versículo 21 %fn|}
 #v|22 %v|E enquanto eles {tr,rp:estavam}{n4:reuniam-se}{trnc: #fn|_c|N4:reuniam-se %fn|} na Galileia, Jesus lhes disse:
  O Filho do homem será entregue em mãos de homens.
 #v|23 %v|E o matarão, e ele será ressuscitado ao terceiro dia.

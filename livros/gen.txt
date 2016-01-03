@@ -1,47 +1,58 @@
 ﻿#header|
-#name|Gênesis %name|
-#snm|Gênesis %snm|
-#ver| 20150129 %ver|
-#abbr|Gn %abbr|
+#name|Gênesis%name|
+#snm|Gênesis%snm|
+#ver|20151204%ver|
+#abbr|Gn%abbr|
 %header|
 
+#p|
 #c|1 %c|
 #v|1 %v|No princípio criou Deus os céus e a terra.
 #v|2 %v|E a terra estava desordenada e vazia, e as trevas estavam sobre a face do abismo, e o Espírito de Deus se movia sobre a face das águas.
+#p|
 #v|3 %v|E disse Deus: Haja luz; e houve luz.
 #v|4 %v|E viu Deus que a luz era boa: e separou Deus a luz das trevas.
 #v|5 %v|E chamou Deus à luz Dia, e às trevas chamou Noite: e foi a tarde e a manhã o primeiro dia.
+#p|
 #v|6 %v|E disse Deus: Haja expansão em meio das águas, e separe as águas das águas.
 #v|7 %v|E fez Deus a expansão, e separou as águas que estavam debaixo da expansão, das águas que estavam sobre a expansão: e foi assim.
-#v|8 %v|E chamou Deus à expansão Céus: e foi a tarde e a manhã o dia segundo.
+#v|8 %v|E chamou Deus à expansão Céus: e foi a tarde e a manhã, o dia segundo.
+#p|
 #v|9 %v|E disse Deus: Juntem-se as águas que estão debaixo dos céus em um lugar, e descubra-se a porção seca; e foi assim.
 #v|10 %v|E chamou Deus à porção seca Terra, e à reunião das águas chamou Mares; e viu Deus que era bom.
 #v|11 %v|E disse Deus: Produza a terra erva verde, erva que dê semente; árvore de fruto que dê fruto segundo a sua espécie, que sua semente esteja nela, sobre a terra: e foi assim.
 #v|12 %v|E produziu a terra erva verde, erva que dá semente segundo sua natureza, e árvore que dá fruto, cuja semente está nele, segundo a sua espécie; e viu Deus que era bom.
-#v|13 %v|E foi a tarde e a manhã o dia terceiro.
+#v|13 %v|E foi a tarde e a manhã, o dia terceiro.
+#p|
 #v|14 %v|E disse Deus: Haja luminares na expansão dos céus para separar o dia e a noite: e sejam por sinais, e para as estações, e para dias e anos;
 #v|15 %v|E sejam por luminares na expansão dos céus para iluminar sobre a terra: e foi.
 #v|16 %v|E fez Deus os dois grandes luminares; o luminar maior para que exerça domínio no dia, e o luminar menor para que exerça domínio na noite; fez também as estrelas.
 #v|17 %v|E as pôs Deus na expansão dos céus, para iluminar sobre a terra,
 #v|18 %v|E para exercer domínio no dia e na noite, e para separar a luz e as trevas: e viu Deus que era bom.
-#v|19 %v|E foi a tarde e a manhã o dia quarto.
-#v|20 %v|E disse Deus: Produzam as águas répteis de alma vivente, e aves que voem sobre a terra, na aberta expansão dos céus.
+#v|19 %v|E foi a tarde e a manhã, o dia quarto.
+#p|
+#v|20 %v|E disse Deus: Produzam as águas répteis de alma vivente, e aves que voem sobre a terra, na expansão aberta dos céus.
 #v|21 %v|E criou Deus as grandes criaturas marinhas, e toda coisa viva que anda arrastando, que as águas produziram segundo a sua espécie, e toda ave de asas segundo sua espécie: e viu Deus que era bom.
 #v|22 %v|E Deus os abençoou dizendo: Frutificai e multiplicai, e enchei as águas nos mares, e as aves se multipliquem na terra.
-#v|23 %v|E foi a tarde e a manhã o dia quinto.
+#v|23 %v|E foi a tarde e a manhã, o dia quinto.
+#p|
 #v|24 %v|E disse Deus: Produza a terra seres viventes segundo a sua espécie, animais e serpentes e animais da terra segundo sua espécie: e foi assim.
 #v|25 %v|E fez Deus animais da terra segundo a sua espécie, e gado segundo a sua espécie, e todo animal que anda arrastando sobre a terra segundo sua espécie: e viu Deus que era bom.
+#p|
 #v|26 %v|E disse Deus: Façamos ao ser humano à nossa imagem, conforme nossa semelhança; e domine os peixes do mar, e as aves dos céus, e os animais, e toda a terra, e todo animal que anda arrastando sobre a terra.
 #v|27 %v|E criou Deus o ser humano à sua imagem, à imagem de Deus o criou; macho e fêmea os criou.
 #v|28 %v|E Deus os abençoou; e disse-lhes Deus: Frutificai e multiplicai, e enchei a terra, e subjugai-a, e dominai os peixes do mar, as aves dos céus, e todos os animais que se movem sobre a terra.
 #v|29 %v|E disse Deus: Eis que vos dei toda erva que dá semente, que está sobre a face de toda a terra; e toda árvore em que há fruto de árvore que dá semente, vos será para comer.
 #v|30 %v|E a todo animal da terra, e a todas as aves dos céus, e a tudo o que se move sobre a terra, em que há vida, toda erva verde lhes será para comer: e foi assim.
-#v|31 %v|E viu Deus tudo o que havia feito, e eis que era bom em grande maneira. E foi a tarde e a manhã o dia sexto.
+#p|
+#v|31 %v|E viu Deus tudo o que havia feito, e eis que era bom em grande maneira. E foi a tarde e a manhã, o dia sexto.
 
+#p|
 #c|2 %c|
-#v|1 %v|E foram acabados os céus e a terra, e tudo o que neles há.
+#v|1 %v|E foram concluídos os céus e a terra, e tudo o que neles há.
 #v|2 %v|E acabou Deus no dia sétimo sua obra que fez, e repousou o dia sétimo de toda sua obra que havia feito.
 #v|3 %v|E abençoou Deus ao dia sétimo, e o santificou, porque nele repousou de toda sua obra que havia Deus criado e feito.
+#p|
 #v|4 %v|Estas são as origens dos céus e da terra quando foram criados, no dia que o SENHOR Deus fez a terra e os céus,
 #v|5 %v|E antes que toda planta do campo existisse na terra, e antes que toda erva do campo nascesse; porque ainda não havia o SENHOR Deus feito chover sobre a terra, nem havia homem para que lavrasse a terra;
 #v|6 %v|Mas subia da terra um vapor, que regava toda a face da terra.
@@ -56,6 +67,7 @@
 #v|15 %v|Tomou, pois, o SENHOR Deus ao homem, e o pôs no jardim de Éden, para que o lavrasse e o guardasse.
 #v|16 %v|E mandou o SENHOR Deus ao homem, dizendo: De toda árvore do jardim comerás;
 #v|17 %v|Mas da árvore do conhecimento do bem e do mal não comerás dela; porque no dia que dela comeres, morrerás.
+#p|
 #v|18 %v|E disse o SENHOR Deus: Não é bom que o homem esteja só; farei para ele ajuda idônea para ele.
 #v|19 %v|Formou, pois, o SENHOR Deus da terra todo animal do campo, e toda ave dos céus, e trouxe-os a Adão, para que visse como lhes havia de chamar; e tudo o que Adão chamou aos animais viventes, esse é seu nome.
 #v|20 %v|E pôs Adão nomes a todo animal e ave dos céus e a todo animal do campo: mas para Adão não achou ajuda que estivesse idônea para ele.
@@ -65,32 +77,43 @@
 #v|24 %v|Portanto, deixará o homem a seu pai e a sua mãe, e se achegará à sua mulher, e serão uma só carne.
 #v|25 %v|E estavam ambos nus, Adão e sua mulher, e não se envergonhavam.
 
+#p|
 #c|3 %c|
 #v|1 %v|Porém a serpente era astuta, mais que todos os animais do campo que o SENHOR Deus havia feito; a qual disse à mulher: Deus vos disse: Não comais de toda árvore do jardim?
+#p|
 #v|2 %v|E a mulher respondeu à serpente: Do fruto das árvores do jardim comemos;
 #v|3 %v|Mas do fruto da árvore que está em meio do jardim disse Deus: Não comereis dele, nem o tocareis, para que não morrais.
+#p|
 #v|4 %v|Então a serpente disse à mulher: Não morrereis;
 #v|5 %v|Mas sabe Deus que no dia que comerdes dele, serão abertos vossos olhos, e sereis como deuses sabendo o bem e o mal.
+#p|
 #v|6 %v|E viu a mulher que a árvore era boa para comer, e que era agradável aos olhos, e árvore cobiçável para alcançar a sabedoria; e tomou de seu fruto, e comeu; e deu também a seu marido, o qual comeu assim como ela.
 #v|7 %v|E foram abertos os olhos de ambos, e conheceram que estavam nus: então coseram folhas de figueira, e fizeram para si aventais.
 #v|8 %v|E ouviram a voz do SENHOR Deus que se passeava no jardim ao esfriar do dia: e escondeu-se o homem e sua mulher da presença do SENHOR Deus entre as árvores do jardim.
+#p|
 #v|9 %v|E chamou o SENHOR Deus ao homem, e lhe disse: Onde estás?
 #v|10 %v|E ele respondeu: Ouvi tua voz no jardim, e tive medo, porque estava nu; e me escondi.
 #v|11 %v|E disse-lhe: Quem te ensinou que estavas nu? Comeste da árvore de que eu te mandei não comesses?
 #v|12 %v|E o homem respondeu: A mulher que me deste por companheira me deu da árvore, e eu comi.
 #v|13 %v|Então o SENHOR Deus disse à mulher: Que é o que fizeste? E disse a mulher: A serpente me enganou, e comi.
+#p|
 #v|14 %v|E o SENHOR Deus disse à serpente: Porquanto isto fizeste, maldita serás entre todos os animais selvagens e entre todos os animais do campo; sobre teu peito andarás, e pó comerás todos os dias de tua vida:
 #v|15 %v|E inimizade porei entre ti e a mulher, e entre tua descendência e a descendência dela; esta te ferirá na cabeça, e tu lhe ferirás no calcanhar.
+#p|
 #v|16 %v|À mulher disse: Multiplicarei em grande maneira tuas dores e teus sofrimentos de parto; com dor darás à luz os filhos; e a teu marido será teu desejo, e ele exercerá domínio sobre ti.
+#p|
 #v|17 %v|E ao homem disse: Porquanto obedeceste à voz de tua mulher, e comeste da árvore de que te mandei dizendo, Não comerás dela; maldita será a terra por causa de ti; com dor comerás dela todos os dias de tua vida;
 #v|18 %v|Espinhos e cardos te produzirá, e comerás erva do campo;
 #v|19 %v|No suor de teu rosto comerás o pão até que voltes à terra; porque dela foste tomado: pois pó és, e ao pó voltarás.
+#p|
 #v|20 %v|E chamou o homem o nome de sua mulher, Eva; porquanto ela era mãe de todos o viventes.
 #v|21 %v|E o SENHOR Deus fez ao homem e à sua mulher túnicas de peles, e vestiu-as.
+#p|
 #v|22 %v|E disse o SENHOR Deus: Eis que o homem é como um de Nos sabendo o bem e o mal: agora, pois, para que não estenda sua mão, e tome também da árvore da vida, e coma, e viva para sempre:
 #v|23 %v|E tirou-o o SENHOR do jardim de Éden, para que lavrasse a terra de que foi tomado.
 #v|24 %v|Lançou, pois, fora ao homem, e pôs ao oriente do jardim de Éden querubins, e uma espada acesa que se revolvia a todos os lados, para guardar o caminho da árvore da vida.
 
+#p|
 #c|4 %c|
 #v|1 %v|E conheceu Adão a sua mulher Eva, a qual concebeu e deu à luz a Caim, e disse: Adquiri um homem pelo SENHOR.
 #v|2 %v|E depois deu à luz a seu irmão Abel. E foi Abel pastor de ovelhas, e Caim foi lavrador da terra.
@@ -100,13 +123,17 @@
 #v|6 %v|Então o SENHOR disse a Caim: Por que te irritaste, e por que se mudou teu rosto?
 #v|7 %v|Se bem fizeres, não serás aceito? E se não fizeres bem, o pecado está à porta; contra ti será o seu desejo, porém tu deves dominá-lo.
 #v|8 %v|E falou Caim a seu irmão Abel; e aconteceu que estando eles no campo, Caim se levantou contra seu irmão Abel, e o matou.
+#p|
 #v|9 %v|E o SENHOR disse a Caim: Onde está Abel teu irmão? E ele respondeu: Não sei; sou eu guarda de meu irmão?
+#p|
 #v|10 %v|E ele lhe disse: Que fizeste? A voz do sangue de teu irmão clama a mim desde a terra.
 #v|11 %v|Agora, pois, maldito sejas tu da terra que abriu sua boca para receber o sangue de teu irmão de tua mão:
 #v|12 %v|Quando lavrares a terra, não te voltará a dar sua força: errante e fugitivo serás na terra.
+#p|
 #v|13 %v|E disse Caim ao SENHOR: Grande é minha iniquidade para ser perdoada.
 #v|14 %v|Eis que me expulsas hoje da face da terra, e de tua presença me esconderei; e serei errante e fugitivo na terra; e sucederá que qualquer um que me achar, me matará.
 #v|15 %v|E respondeu-lhe o SENHOR: Certo que qualquer um que matar a Caim, sete vezes será castigado. Então o SENHOR pôs sinal em Caim, para que não o ferisse qualquer um que o achasse.
+#p|
 #v|16 %v|E saiu Caim de diante do SENHOR, e habitou na terra de Node, ao oriente de Éden.
 #v|17 %v|E conheceu Caim a sua mulher, a qual concebeu e deu à luz a Enoque: e edificou uma cidade, e chamou o nome da cidade do nome de seu filho, Enoque.
 #v|18 %v|E a Enoque nasceu Irade, e Irade gerou a Meujael, e Meujael gerou a Metusael, e Metusael gerou a Lameque.
@@ -116,56 +143,71 @@
 #v|22 %v|E Zilá também deu à luz a Tubalcaim, feitor de toda obra de bronze e de ferro: e a irmã de Tubalcaim foi Naamá.
 #v|23 %v|E disse Lameque a suas mulheres: Ada e Zilá, ouvi minha voz; Mulheres de Lameque, escutai meu dito: Que matei um homem por ter me ferido, E um rapaz por ter me golpeado:
 #v|24 %v|Se sete vezes será vingado Caim, Lameque em verdade setenta vezes sete o será.
+#p|
 #v|25 %v|E conheceu de novo Adão à sua mulher, a qual deu à luz um filho, e chamou seu nome Sete: Porque Deus (disse ela) me substituiu outra descendência em lugar de Abel, a quem matou Caim.
 #v|26 %v|E a Sete também lhe nasceu um filho, e chamou seu nome Enos. Então os homens começaram a invocar o nome do SENHOR.
 
+#p|
 #c|5 %c|
 #v|1 %v|Este é o livro das gerações de Adão. No dia em que criou Deus ao ser humano, à semelhança de Deus o fez;
 #v|2 %v|Macho e fêmea os criou; e os abençoou, e chamou o nome deles Adão, no dia em que foram criados.
 #v|3 %v|E viveu Adão cento e trinta anos, e gerou um filho à sua semelhança, conforme sua imagem, e chamou seu nome Sete.
 #v|4 %v|E foram os dias de Adão, depois que gerou a Sete, oitocentos anos: e gerou filhos e filhas.
 #v|5 %v|E foram todos os dias que viveu Adão novecentos e trinta anos, e morreu.
+#p|
 #v|6 %v|E viveu Sete cento e cinco anos, e gerou a Enos.
 #v|7 %v|E viveu Sete, depois que gerou a Enos, oitocentos e sete anos: e gerou filhos e filhas.
 #v|8 %v|E foram todos os dias de Sete novecentos e doze anos; e morreu.
+#p|
 #v|9 %v|E viveu Enos noventa anos, e gerou a Cainã.
 #v|10 %v|E viveu Enos depois que gerou a Cainã, oitocentos e quinze anos: e gerou filhos e filhas.
 #v|11 %v|E foram todos os dias de Enos novecentos e cinco anos; e morreu.
+#p|
 #v|12 %v|E viveu Cainã setenta anos, e gerou a Maalalel.
 #v|13 %v|E viveu Cainã, depois que gerou a Maalalel, oitocentos e quarenta anos: e gerou filhos e filhas.
 #v|14 %v|E foram todos os dias de Cainã novecentos e dez anos; e morreu.
+#p|
 #v|15 %v|E viveu Maalalel sessenta e cinco anos, e gerou a Jarede.
 #v|16 %v|E viveu Maalalel, depois que gerou a Jarede, oitocentos e trinta anos: e gerou filhos e filhas.
 #v|17 %v|E foram todos os dias de Maalalel oitocentos noventa e cinco anos; e morreu.
+#p|
 #v|18 %v|E viveu Jarede cento e sessenta e dois anos, e gerou a Enoque.
 #v|19 %v|E viveu Jarede, depois que gerou a Enoque, oitocentos anos: e gerou filhos e filhas.
 #v|20 %v|E foram todos os dias de Jarede novecentos e sessenta e dois anos; e morreu.
+#p|
 #v|21 %v|E viveu Enoque sessenta e cinco anos, e gerou a Matusalém.
 #v|22 %v|E caminhou Enoque com Deus, depois que gerou a Matusalém, trezentos anos: e gerou filhos e filhas.
 #v|23 %v|E foram todos os dias de Enoque trezentos sessenta e cinco anos.
 #v|24 %v|Caminhou, pois, Enoque com Deus, e desapareceu, porque Deus o levou.
+#p|
 #v|25 %v|E viveu Matusalém cento e oitenta e sete anos, e gerou a Lameque.
 #v|26 %v|E viveu Matusalém, depois que gerou a Lameque, setecentos e oitenta e dois anos: e gerou filhos e filhas.
 #v|27 %v|Foram, pois, todos os dias de Matusalém, novecentos e sessenta e nove anos; e morreu.
+#p|
 #v|28 %v|E viveu Lameque cento e oitenta e dois anos, e gerou um filho:
 #v|29 %v|E chamou seu nome Noé, dizendo: Este nos aliviará de nossas obras, e do trabalho de nossas mãos, por causa da terra que o SENHOR amaldiçoou.
 #v|30 %v|E viveu Lameque, depois que gerou a Noé, quinhentos noventa e cinco anos: e gerou filhos e filhas.
 #v|31 %v|E foram todos os dias de Lameque setecentos e setenta e sete anos; e morreu.
+#p|
 #v|32 %v|E sendo Noé de quinhentos anos, gerou a Sem, Cam, e a Jafé.
 
+#p|
 #c|6 %c|
 #v|1 %v|E aconteceu que, quando começaram os homens a multiplicar-se sobre a face da terra, e lhes nasceram filhas,
 #v|2 %v|Vendo os filhos de Deus que as filhas dos homens eram belas, tomaram para si mulheres, escolhendo entre todas.
 #v|3 %v|E disse o SENHOR: Não brigará meu espírito com o ser humano para sempre, porque certamente ele é carne: mas serão seus dias cento e vinte anos.
 #v|4 %v|Havia gigantes na terra naqueles dias, e também depois que entraram os filhos de Deus às filhas dos homens, e lhes geraram filhos: estes foram os valentes que desde a antiguidade foram homens de renome.
+#p|
 #v|5 %v|E viu o SENHOR que a malícia dos seres humanos era muito na terra, e que todo desígnio dos pensamentos do coração deles era continuamente somente o mal.
 #v|6 %v|E arrependeu-se o SENHOR de haver feito o ser humano na terra, e pesou-lhe em seu coração.
 #v|7 %v|E disse o SENHOR: Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e até o réptil e as aves do céu: porque me arrependo de havê-los feito.
 #v|8 %v|Porém Noé achou favor aos olhos do SENHOR.
+#p|
 #v|9 %v|Estas são as gerações de Noé: Noé, homem justo, perfeito foi em suas gerações; com Deus caminhou Noé.
 #v|10 %v|E gerou Noé três filhos: a Sem, a Cam, e a Jafé.
 #v|11 %v|E corrompeu-se a terra diante de Deus, e estava a terra cheia de violência.
 #v|12 %v|E olhou Deus a terra, e eis que estava contaminada; porque toda carne havia corrompido seu caminho sobre a terra.
+#p|
 #v|13 %v|E disse Deus a Noé: O fim de toda carne veio diante de mim; porque a terra está cheia de violência por causa deles; e eis que eu os destruirei com a terra.
 #v|14 %v|Faze-te uma arca de madeira de gôfer: farás aposentos na arca e a selarás com betume por dentro e por fora.
 #v|15 %v|E desta maneira a farás: de trezentos côvados o comprimento da arca, de cinquenta côvados sua largura, e de trinta côvados sua altura.
@@ -177,12 +219,15 @@
 #v|21 %v|E toma contigo de toda comida que se come, e traga-a a ti; servirá de alimento para ti e para eles.
 #v|22 %v|E o fez assim Noé; fez conforme tudo o que Deus lhe mandou.
 
+#p|
 #c|7 %c|
 #v|1 %v|E o SENHOR disse a Noé: Entra tu e toda tua casa na arca porque a ti vi justo diante de mim nesta geração.
 #v|2 %v|De todo animal limpo tomarás de sete em sete, macho e sua fêmea; mas dos animais que não são limpos, dois, macho e sua fêmea.
 #v|3 %v|Também das aves dos céus de sete em sete, macho e fêmea; para guardar em vida a descendência sobre a face de toda a terra.
 #v|4 %v|Porque passados ainda sete dias, eu farei chover sobre a terra quarenta dias e quarenta noites; e apagarei toda criatura que fiz de sobre a face da terra.
+#p|
 #v|5 %v|E fez Noé conforme tudo o que lhe mandou o SENHOR.
+#p|
 #v|6 %v|E sendo Noé de seiscentos anos, o dilúvio das águas foi sobre a terra.
 #v|7 %v|E veio Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele à arca, por causa das águas do dilúvio.
 #v|8 %v|Dos animais limpos, e dos animais que não eram limpos, e das aves, e de todo o que anda arrastando sobre a terra,
@@ -190,6 +235,7 @@
 #v|10 %v|E sucedeu que ao sétimo dia as águas do dilúvio foram sobre a terra.
 #v|11 %v|No ano seiscentos da vida de Noé, no mês segundo, no dia dezessete do mês, naquele dia foram rompidas todas as fontes do grande abismo, e as comportas dos céus foram abertas;
 #v|12 %v|E houve chuva sobre a terra quarenta dias e quarenta noites.
+#p|
 #v|13 %v|Neste mesmo dia entrou Noé, e Sem, e Cam e Jafé, filhos de Noé, a mulher de Noé, e as três mulheres de seus filhos com ele na arca;
 #v|14 %v|Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo réptil que anda arrastando sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie de animal voador.
 #v|15 %v|E vieram a Noé à arca, de dois em dois de toda carne em que havia espírito de vida.
@@ -203,12 +249,14 @@
 #v|23 %v|Assim foi destruída toda criatura que vivia sobre a face da terra, desde o ser humano até o animal, e os répteis, e as aves do céu; e foram apagados da terra; e restou somente Noé, e os que com ele estavam na arca.
 #v|24 %v|E prevaleceram as águas sobre a terra cento e cinquenta dias.
 
+#p|
 #c|8 %c|
 #v|1 %v|E lembrou-se Deus de Noé, e de todos os animais, selvagens e domésticos que estavam com ele na arca; e fez passar Deus um vento sobre a terra, e diminuíram as águas.
 #v|2 %v|E se fecharam as fontes do abismo, e as comportas dos céus; e a chuva dos céus foi detida.
 #v|3 %v|E voltaram-se as águas de sobre a terra, indo e voltando; e decresceram as águas ao fim de cento e cinquenta dias.
 #v|4 %v|E repousou a arca no mês sétimo, a dezessete dias do mês, sobre os montes de Ararate.
 #v|5 %v|E as águas foram decrescendo até o mês décimo: no décimo, ao primeiro dia do mês, se revelaram os cumes dos montes.
+#p|
 #v|6 %v|E sucedeu que, ao fim de quarenta dias, abriu Noé a janela da arca que havia feito,
 #v|7 %v|E enviou ao corvo, o qual saiu, e esteve indo e voltando até que as águas se secaram de sobre a terra.
 #v|8 %v|Enviou também de si à pomba, para ver se as águas se haviam retirado de sobre a face da terra;
@@ -216,17 +264,22 @@
 #v|10 %v|E esperou ainda outros sete dias, e voltou a enviar a pomba fora da arca.
 #v|11 %v|E a pomba voltou a ele à hora da tarde; e eis que trazia uma folha de oliveira tomada em seu bico; então Noé entendeu que as águas haviam se retirado de sobre a terra.
 #v|12 %v|E esperou ainda outros sete dias, e enviou a pomba, a qual não voltou já mais a ele.
+#p|
 #v|13 %v|E sucedeu que no ano seiscentos e um de Noé, no mês primeiro, ao primeiro do mês, as águas se enxugaram de sobre a terra e tirou Noé a cobertura da arca, e olhou, e eis que a face da terra estava enxuta.
 #v|14 %v|E no mês segundo, aos vinte e sete dias do mês, se secou a terra.
+#p|
 #v|15 %v|E falou Deus a Noé dizendo:
 #v|16 %v|Sai da arca tu, a tua mulher, os teus filhos, e as mulheres dos teus filhos contigo.
 #v|17 %v|Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que anda arrastando sobre a terra, tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra.
+#p|
 #v|18 %v|Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.
 #v|19 %v|Todos os animais, e todo réptil e toda ave, tudo o que se move sobre a terra segundo suas espécies, saíram da arca.
+#p|
 #v|20 %v|E edificou Noé um altar ao SENHOR e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocausto no altar.
 #v|21 %v|E percebeu o SENHOR cheiro suave; e disse o SENHOR em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz.
 #v|22 %v|Enquanto a terra durar, a sementeira e a colheita, o frio e calor, verão e inverno, dia e noite, não cessarão.
 
+#p|
 #c|9 %c|
 #v|1 %v|E Deus abençoou Noé e seus filhos, e disse-lhes: Frutificai, e multiplicai, e enchei a terra:
 #v|2 %v|E vosso temor e vosso pavor será sobre todo animal da terra, e sobre toda ave dos céus, em tudo o que se mover na terra, e em todos os peixes do mar: em vossa mão são entregues.
@@ -235,6 +288,7 @@
 #v|5 %v|Porque certamente exigirei o sangue de vossas vidas; da mão de todo animal o exigirei, e da mão do ser humano; da mão do homem seu irmão exigirei a vida do ser humano.
 #v|6 %v|O que derramar sangue humano, pelo ser humano seu sangue será derramado; porque à imagem de Deus o ser humano foi feito.
 #v|7 %v|Mas vós frutificai, e multiplicai-vos; procriai abundantemente na terra, e multiplicai-vos nela.
+#p|
 #v|8 %v|E falou Deus a Noé e a seus filhos com ele, dizendo:
 #v|9 %v|Eis que eu mesmo estabeleço meu pacto convosco, e com vossa descendência depois de vós;
 #v|10 %v|E com toda alma vivente que está convosco, de aves, de animais, e de toda fera da terra que está convosco; desde todos os que saíram da arca até todo animal da terra.
@@ -245,25 +299,32 @@
 #v|15 %v|E me lembrarei do meu pacto, que há entre mim e vós e toda alma vivente de toda carne; e não serão mais as águas por dilúvio para destruir toda carne.
 #v|16 %v|E estará o arco nas nuvens, e o verei para me lembrar do pacto perpétuo entre Deus e toda alma vivente, com toda carne que há sobre a terra.
 #v|17 %v|Disse, pois, Deus a Noé: Este será o sinal do pacto que estabeleci entre mim e toda carne que está sobre a terra.
+#p|
 #v|18 %v|E os filhos de Noé que saíram da arca foram Sem, Cam e Jafé: e Cam é o pai de Canaã.
 #v|19 %v|Estes três são os filhos de Noé; e deles foi cheia toda a terra.
+#p|
 #v|20 %v|E começou Noé a lavrar a terra, e plantou uma vinha;
 #v|21 %v|E bebeu do vinho, e se embriagou, e estava descoberto dentro de sua tenda.
 #v|22 %v|E Cam, pai de Canaã, viu a nudez de seu pai, e disse-o aos seus dois irmãos do lado de fora.
 #v|23 %v|Então Sem e Jafé tomaram a roupa, e a puseram sobre seus próprios ombros, e andando para trás, cobriram a nudez de seu pai tendo seus rostos virados, e assim não viram a nudez de seu pai.
 #v|24 %v|E despertou Noé de seu vinho, e soube o que havia feito com ele seu filho o mais jovem;
 #v|25 %v|E disse: Maldito seja Canaã; Servo de servos será a seus irmãos.
+#p|
 #v|26 %v|Disse mais: Bendito o SENHOR o Deus de Sem, E seja-lhe Canaã servo.
 #v|27 %v|Engrandeça Deus a Jafé, E habite nas tendas de Sem, E seja-lhe Canaã servo.
+#p|
 #v|28 %v|E viveu Noé depois do dilúvio trezentos e cinquenta anos.
 #v|29 %v|E foram todos os dias de Noé novecentos e cinquenta anos; e morreu.
 
+#p|
 #c|10 %c|
 #v|1 %v|Estas são as gerações dos filhos de Noé: Sem, Cam e Jafé, aos quais nasceram filhos depois do dilúvio.
+#p|
 #v|2 %v|Os filhos de Jafé: Gômer, e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras.
 #v|3 %v|E os filhos de Gômer: Asquenaz, e Rifate, e Togarma.
 #v|4 %v|E os filhos de Javã: Elisá, e Társis, Quitim, e Dodanim.
 #v|5 %v|Por estes foram repartidas as ilhas das nações em suas terras, cada qual segundo sua língua, conforme suas famílias em suas nações.
+#p|
 #v|6 %v|Os filhos de Cam: Cuxe, e Mizraim, e Pute, e Canaã.
 #v|7 %v|E os filhos de Cuxe: Sebá, Havilá, e Sabtá, e Raamá, e Sabtecá. E os filhos de Raamá: Sabá e Dedã.
 #v|8 %v|E Cuxe gerou a Ninrode, este começou a ser poderoso na terra.
@@ -273,12 +334,14 @@
 #v|12 %v|E a Resém entre Nínive e Calá; a qual é cidade grande.
 #v|13 %v|E Mizraim gerou a Ludim, e a Anamim, e a Leabim, e a Naftuim,
 #v|14 %v|E a Patrusim, e a Casluim de onde saíram os filisteus, e a Caftorim.
+#p|
 #v|15 %v|E Canaã gerou a Sídon, seu primogênito e a Hete,
 #v|16 %v|E aos jebuseus, e aos amorreus, e aos gergeseus,
 #v|17 %v|E aos heveus, e aos arqueus, e aos sineus,
 #v|18 %v|E aos arvadeus e aos zemareus, e aos hamateus: e depois se derramaram as famílias dos cananeus.
 #v|19 %v|E foi o termo dos cananeus desde Sídon, vindo a Gerar até Gaza, até entrar em Sodoma e Gomorra, Admá, e Zeboim até Lasa.
 #v|20 %v|Estes são os filhos de Cam por suas famílias, por suas línguas, em suas terras, em suas nações.
+#p|
 #v|21 %v|Também lhe nasceram filhos a Sem, pai de todos os filhos de Héber, e irmão mais velho de Jafé.
 #v|22 %v|E os filhos de Sem: Elão, e Assur, e Arfaxade, e Lude, e Arã.
 #v|23 %v|E os filhos de Arã: Uz, e Hul, e Géter, e Mas.
@@ -290,35 +353,48 @@
 #v|29 %v|E a Ofir, e a Havilá, e a Jobabe: todos estes foram filhos de Joctã.
 #v|30 %v|E foi sua habitação desde Messa vindo de Sefar, monte à parte do oriente.
 #v|31 %v|Estes foram os filhos de Sem por suas famílias, por suas línguas, em suas terras, em suas nações.
+#p|
 #v|32 %v|Estas são as famílias de Noé por suas descendências, em suas nações; e destes foram divididas os povos na terra depois do dilúvio.
 
+#p|
 #c|11 %c|
 #v|1 %v|Era, então, toda a terra de uma língua e umas mesmas palavras.
 #v|2 %v|E aconteceu que, quando se partiram do oriente, acharam um vale na terra de Sinear; e ali passaram a habitar.
 #v|3 %v|E disseram uns aos outros: Vinde, façamos tijolos e o cozamos com fogo. E foi-lhes os tijolos em lugar de pedra, e o betume em lugar de argamassa.
 #v|4 %v|E disseram: Vamos, edifiquemo-nos uma cidade e uma torre, cuja ponta chegue ao céu; e façamo-nos um nome, para que não sejamos espalhados sobre a face de toda a terra.
+#p|
 #v|5 %v|E desceu o SENHOR para ver a cidade e a torre que edificavam os filhos dos homens.
 #v|6 %v|E disse o SENHOR: Eis que o povo é um, e todos estes têm uma língua; e começaram a agir, e nada lhes restringirá agora do que pensaram fazer.
 #v|7 %v|Agora, pois, desçamos, e confundamos ali suas línguas, para que ninguém entenda a fala de seu companheiro.
 #v|8 %v|Assim os espalhou o SENHOR desde ali sobre a face de toda a terra, e deixaram de edificar a cidade.
 #v|9 %v|Por isto foi chamado o nome dela Babel, porque ali confundiu o SENHOR a língua de toda a terra, e desde ali os espalhou sobre a face de toda a terra.
+#p|
 #v|10 %v|Estas são as gerações de Sem: Sem, de idade de cem anos, gerou a Arfaxade, dois anos depois do dilúvio.
 #v|11 %v|E viveu Sem, depois que gerou a Arfaxade quinhentos anos, e gerou filhos e filhas.
+#p|
 #v|12 %v|E Arfaxade viveu trinta e cinco anos, e gerou a Salá.
 #v|13 %v|E viveu Arfaxade, depois que gerou a Salá, quatrocentos e três anos, e gerou filhos e filhas.
+#p|
 #v|14 %v|E viveu Salá trinta anos, e gerou a Héber.
 #v|15 %v|E viveu Salá, depois que gerou a Héber, quatrocentos e três anos, e gerou filhos e filhas.
+#p|
 #v|16 %v|E viveu Héber trinta e quatro anos, e gerou a Pelegue.
 #v|17 %v|E viveu Héber, depois que gerou a Pelegue, quatrocentos e trinta anos, e gerou filhos e filhas.
+#p|
 #v|18 %v|E viveu Pelegue, trinta anos, e gerou a Reú.
 #v|19 %v|E viveu Pelegue, depois que gerou a Reú, duzentos e nove anos, e gerou filhos e filhas.
+#p|
 #v|20 %v|E Reú viveu trinta e dois anos, e gerou a Serugue.
 #v|21 %v|E viveu Reú, depois que gerou a Serugue, duzentos e sete anos, e gerou filhos e filhas.
+#p|
 #v|22 %v|E viveu Serugue trinta anos, e gerou a Naor.
 #v|23 %v|E viveu Serugue, depois que gerou a Naor, duzentos anos, e gerou filhos e filhas.
+#p|
 #v|24 %v|E viveu Naor vinte e nove anos, e gerou a Terá.
 #v|25 %v|E viveu Naor, depois que gerou a Terá, cento e dezenove anos, e gerou filhos e filhas.
+#p|
 #v|26 %v|E viveu Terá setenta anos, e gerou a Abrão, e a Naor, e a Harã.
+#p|
 #v|27 %v|Estas são as gerações de Terá: Terá gerou a Abrão, e a Naor, e a Harã; e Harã gerou a Ló.
 #v|28 %v|E morreu Harã antes que seu pai Terá na terra de seu nascimento, em Ur dos caldeus.
 #v|29 %v|E tomaram Abrão e Naor para si mulheres: o nome da mulher de Abrão foi Sarai, e o nome da mulher de Naor, Milca, filha de Harã, pai de Milca e de Iscá.
@@ -326,28 +402,35 @@
 #v|31 %v|E tomou Terá a Abrão seu filho, e a Ló filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de Abrão seu filho: e saiu com eles de Ur dos caldeus, para ir à terra de Canaã: e vieram até Harã, e assentaram ali.
 #v|32 %v|E foram os dias de Terá duzentos e cinco anos; e morreu Terá em Harã.
 
+#p|
 #c|12 %c|
 #v|1 %v|Porém o SENHOR disse a Abrão: Vai-te de tua terra e de tua parentela, e da casa de teu pai, à terra que te mostrarei;
 #v|2 %v|E farei de ti uma grande nação, e te abençoarei, e engrandecerei teu nome, e serás bênção:
 #v|3 %v|E abençoarei aos que te abençoarem, e aos que te amaldiçoarem amaldiçoarei: e serão benditas em ti todas as famílias da terra.
+#p|
 #v|4 %v|E foi-se Abrão, como o SENHOR lhe disse; e foi com ele Ló: e era Abrão de idade de setenta e cinco anos quando saiu de Harã.
 #v|5 %v|E tomou Abrão a Sarai sua mulher, e a Ló filho de seu irmão, e todos os seus pertences que haviam ganhado, e as almas que haviam adquirido em Harã, e saíram para ir à terra de Canaã; e à terra de Canaã chegaram.
 #v|6 %v|E passou Abrão por aquela terra até o lugar de Siquém, até o carvalho de Moré: e os cananeus estavam então na terra.
+#p|
 #v|7 %v|E apareceu o SENHOR a Abrão, e lhe disse: À tua descendência darei esta terra. E edificou ali um altar ao SENHOR, que lhe havia aparecido.
 #v|8 %v|E passou-se dali a um monte ao oriente de Betel, e estendeu sua tenda, tendo a Betel ao ocidente e Ai ao oriente: e edificou ali altar ao SENHOR e invocou o nome do SENHOR.
 #v|9 %v|E moveu Abrão dali, caminhando e indo até o Sul.
+#p|
 #v|10 %v|E houve fome na terra, e desceu Abrão ao Egito para peregrinar ali; porque era grande a fome na terra.
 #v|11 %v|E aconteceu que quando estava para entrar no Egito, disse a Sarai sua mulher: Eis que, agora conheço que és mulher bela à vista;
 #v|12 %v|E será que quando te houverem visto os egípcios, dirão: Sua mulher é: e matarão a mim, e a ti te preservarão a vida.
 #v|13 %v|Agora, pois, dize que és minha irmã, para que eu vá bem por tua causa, e viva minha alma por causa de ti.
+#p|
 #v|14 %v|E aconteceu que, quando entrou Abrão no Egito, os egípcios viram a mulher que era bela em grande maneira.
 #v|15 %v|Viram-na também os príncipes de Faraó, e a elogiaram; e foi levada a mulher a casa de Faraó:
 #v|16 %v|E fez bem a Abrão por causa dela; e teve ovelhas, e vacas, e asnos, e servos, e criadas, e asnas e camelos.
 #v|17 %v|Mas o SENHOR feriu a Faraó e à sua casa com grandes pragas, por causa de Sarai mulher de Abrão.
 #v|18 %v|Então Faraó chamou a Abrão e lhe disse: Que é isto que fizeste comigo? Por que não me declaraste que era tua mulher?
 #v|19 %v|Por que disseste: “É minha irmã”, pondo-me em risco de tomá-la para mim por mulher? Agora, pois, eis aqui tua mulher, toma-a e vai-te.
+#p|
 #v|20 %v|Então Faraó deu ordem a seus homens acerca de Abrão; e lhe acompanharam, e à sua mulher com tudo o que tinha.
 
+#p|
 #c|13 %c|
 #v|1 %v|Subiu, pois, Abrão do Egito até o Sul de Canaã, ele e sua mulher, com tudo o que tinha, e com ele Ló.
 #v|2 %v|E Abrão era riquíssimo em gado, em prata e ouro.
@@ -358,16 +441,20 @@
 #v|7 %v|E houve briga entre os pastores do gado de Abrão e os pastores do gado de Ló: e os cananeus e os ferezeus habitavam então na terra.
 #v|8 %v|Então Abrão disse a Ló: Não haja agora briga entre mim e ti, entre meus pastores e os teus, porque somos irmãos.
 #v|9 %v|Não está toda a terra diante de ti? Eu te rogo que te separes de mim. Se fores à esquerda, eu irei à direita: e se tu à direita, eu irei à esquerda.
+#p|
 #v|10 %v|E levantou Ló seus olhos, e viu toda a planície do Jordão, que toda ela era bem regada, antes que destruísse o SENHOR a Sodoma e a Gomorra, como o jardim do SENHOR, como a terra do Egito entrando em Zoar.
 #v|11 %v|Então Ló escolheu para si toda a planície do Jordão: e partiu-se Ló ao Oriente, e separaram-se um do outro.
 #v|12 %v|Abrão assentou na terra de Canaã, e Ló assentou nas cidades da planície, e foi pondo suas tendas até Sodoma.
 #v|13 %v|Mas os homens de Sodoma eram maus e pecadores para com o SENHOR em grande maneira.
+#p|
 #v|14 %v|E o SENHOR disse a Abrão, depois que Ló se separou dele: Levanta agora teus olhos, e olha desde o lugar onde estás até o norte, e ao sul, e ao oriente e ao ocidente;
 #v|15 %v|Porque toda a terra que vês, a darei a ti e à tua descendência para sempre.
 #v|16 %v|E farei tua descendência como o pó da terra: que se alguém puder contar o pó da terra, também tua descendência será contada.
 #v|17 %v|Levanta-te, vai pela terra ao longo dela e à sua largura; porque a ti a tenho de dar.
+#p|
 #v|18 %v|Abrão, pois, removendo sua tenda, veio e morou nos carvalhos de Manre, que é em Hebrom, e edificou ali altar ao SENHOR.
 
+#p|
 #c|14 %c|
 #v|1 %v|E aconteceu nos dias de Anrafel, rei de Sinear, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de nações,
 #v|2 %v|Que estes fizeram guerra contra Bera, rei de Sodoma, e contra Birsa, rei de Gomorra, e contra Sinabe, rei de Admá, e contra Semeber, rei de Zeboim, e contra o rei de Belá, a qual é Zoar.
@@ -381,31 +468,42 @@
 #v|10 %v|E o vale de Sidim estava cheio de poços de betume: e fugiram o rei de Sodoma e o de Gomorra, e caíram ali; e os demais fugiram ao monte.
 #v|11 %v|E tomaram toda a riqueza de Sodoma e de Gomorra, e todos os seus mantimentos, e se foram.
 #v|12 %v|Tomaram também Ló, filho do irmão de Abrão, que morava em Sodoma, e sua riqueza, e se foram.
+#p|
 #v|13 %v|E veio um dos que escaparam, e denunciou-o a Abrão o hebreu, que habitava no vale de Manre, amorreu, irmão de Escol e irmão de Aner, os quais tinham feito pacto com Abrão.
 #v|14 %v|E ouviu Abrão que seu irmão estava prisioneiro, e armou seus criados, os criados de sua casa, trezentos e dezoito, e seguiu-os até Dã.
 #v|15 %v|E derramou-se sobre eles de noite ele e seus servos, e feriu-os, e foi os seguindo até Hobá, que está à esquerda de Damasco.
 #v|16 %v|E recuperou todos os bens, e também a Ló seu irmão e sua riqueza, e também as mulheres e gente.
+#p|
 #v|17 %v|E saiu o rei de Sodoma a recebê-lo, quando voltava da derrota de Quedorlaomer e dos reis que com ele estavam, ao vale de Savé, que é o vale do Rei.
 #v|18 %v|Então Melquisedeque, rei de Salém, tirou pão e vinho; o qual era sacerdote do Deus altíssimo;
 #v|19 %v|E abençoou-lhe, e disse: Bendito seja Abrão do Deus altíssimo, possuidor dos céus e da terra;
-#v|20 %v|E bendito seja o Deus altíssimo, que entregou teus inimigos em tua mão. E deu-lhe Abrão os dízimos de tudo.
+#v|20 %v|E bendito seja o Deus altíssimo, que entregou teus inimigos em tua mão. 
+#p|E deu-lhe Abrão os dízimos de tudo.
+#p|
 #v|21 %v|Então o rei de Sodoma disse a Abrão: Dá-me as pessoas, e toma para ti a riqueza.
+#p|
 #v|22 %v|E respondeu Abrão ao rei de Sodoma: Levantei minha mão ao SENHOR Deus altíssimo, possuidor dos céus e da terra,
 #v|23 %v|Que desde um fio até a correia de um calçado, nada tomarei de tudo o que é teu, para que não digas: Eu enriqueci a Abrão:
 #v|24 %v|Tirando somente o que os rapazes comeram, e a porção dos homens que foram comigo, Aner, Escol, e Manre; eles tomem a sua parte.
 
+#p|
 #c|15 %c|
 #v|1 %v|Depois destas coisas a palavra do SENHOR veio a Abrão em visão, dizendo: Não temas, Abrão; eu sou o teu escudo; a tua recompensa será muito grande #fn|_c|Ou: eu sou o teu escudo, e tua muito grande recompensa %fn|
+#p|
 #v|2 %v|Abrão respondeu: Senhor DEUS, que me darás, sendo que não tenho filho, e o herdeiro #fn|_c|Ou: mordomo %fn|da minha casa é Eliézer de Damasco?
 #v|3 %v|Disse mais Abrão: Eis que não me deste descendência, e eis que meu herdeiro é um nascido em minha casa.
+#p|
 #v|4 %v|E logo a palavra do SENHOR veio a ele dizendo: Não esse não herdará de ti, mas sim o que sairá de tuas entranhas será o que de ti herdará.
 #v|5 %v|E tirou-lhe fora, e disse: Olha agora aos céus, e conta as estrelas, se as podes contar. E lhe disse: Assim será tua descendência.
 #v|6 %v|E creu ao SENHOR, e contou-lhe por justiça.
 #v|7 %v|E disse-lhe: Eu sou o SENHOR, que te tirei de Ur dos caldeus, para dar-te a herdar esta terra.
+#p|
 #v|8 %v|E ele respondeu: Senhor DEUS, com que saberei que a vou herdar?
+#p|
 #v|9 %v|E lhe disse: Separa-me uma bezerra de três anos, e uma cabra de três anos, e um carneiro de três anos, uma rolinha também, e um pombinho.
 #v|10 %v|E tomou ele todas estas coisas, e partiu-as pela metade, e pôs cada metade uma em frente de outra; mas não partiu as aves.
 #v|11 %v|E desciam aves sobre os corpos mortos, e enxotava-as Abrão.
+#p|
 #v|12 %v|Mas ao pôr do sol veio o sono a Abrão, e eis que o pavor de uma grande escuridão caiu sobre ele.
 #v|13 %v|Então disse a Abrão: Tem certeza que a tua descendência será peregrina em terra que não é sua, e serão escravizados e afligidos por quatrocentos anos.
 #v|14 %v|Mas também a nação a quem servirão, eu julgarei; e depois disto sairão com grande riqueza.
@@ -417,79 +515,102 @@
 #v|20 %v|E os heteus, e os perizeus, e os refains,
 #v|21 %v|E os amorreus, e os cananeus, e os girgaseus, e os jebuseus.
 
+#p|
 #c|16 %c|
 #v|1 %v|E Sarai, mulher de Abrão não lhe dava filho: e ela tinha uma serva egípcia, que se chamava Agar.
 #v|2 %v|Disse, pois, Sarai a Abrão: Já vês que o SENHOR me fez estéril: rogo-te que entres a minha serva; talvez terei filhos dela. E atendeu Abrão ao dito de Sarai.
 #v|3 %v|E Sarai, mulher de Abrão, tomou a Agar sua serva egípcia, ao fim de dez anos que havia habitado Abrão na terra de Canaã, e deu-a a Abrão seu marido por mulher.
 #v|4 %v|E ele se deitou com Agar, a qual concebeu: e quando viu que havia concebido, olhava com desprezo à sua senhora.
 #v|5 %v|Então Sarai disse a Abrão: Minha afronta seja sobre ti; eu pus minha serva em teus braços, e vendo-se grávida, me olha com desprezo; julgue o SENHOR entre mim e ti.
+#p|
 #v|6 %v|E respondeu Abrão a Sarai: Eis aí tua serva em tua mão, faze com ela o que bem te parecer. E quando Sarai a afligiu, fugiu de sua presença.
+#p|
 #v|7 %v|E o anjo do SENHOR a achou junto a uma fonte de água no deserto, junto à fonte que está no caminho de Sur.
 #v|8 %v|E lhe disse: Agar, serva de Sarai, de onde vens tu, e para onde vais? E ela respondeu: Fujo de diante de Sarai, minha senhora.
+#p|
 #v|9 %v|E disse-lhe o anjo do SENHOR: Volta à tua senhora, e põe-te submissa sob a mão dela.
 #v|10 %v|Disse-lhe também o anjo do SENHOR: Multiplicarei tanto tua linhagem, que não será contada por causa da multidão.
 #v|11 %v|Disse-lhe ainda o anjo do SENHOR: Eis que concebeste, e darás à luz um filho, e chamarás seu nome Ismael, porque o SENHOR ouviu a tua aflição.
 #v|12 %v|E ele será homem como um jumento selvagem; sua mão será contra todos, as mãos de todos serão contra ele, e habitará à margem #fn|_c|Ou: em oposição %fn|de todos os seus irmãos.
+#p|
 #v|13 %v|Então chamou o nome do SENHOR que com ela falava: Tu és o Deus da vista; porque disse: Não vi também aqui ao que me vê?
 #v|14 %v|Pelo qual chamou ao poço, Poço do Vivente que me vê. Eis que está entre Cades e Berede.
-#v|15 %v|E deu à luz Agar a Abrão um filho e chamou Abrão o nome de seu filho que lhe deu à luz Agar, Ismael.
+#p|
+#v|15 %v|E Agar deu à luz um filho a Abrão, e Abrão chamou o nome do seu filho que Agar lhe deu à luz Ismael.
 #v|16 %v|E era Abrão de idade de oitenta e seis anos, quando deu à luz Agar a Ismael.
 
+#p|
 #c|17 %c|
 #v|1 %v|E sendo Abrão de idade de noventa e nove anos, apareceu-lhe o SENHOR, e lhe disse: Eu sou o Deus Todo-Poderoso; anda diante de mim, e sê perfeito.
 #v|2 %v|E constituirei meu pacto entre mim e ti, e te multiplicarei em grandíssima maneira.
+#p|
 #v|3 %v|Então Abrão prostrou-se com o rosto ao chão, e Deus falou com ele, dizendo:
 #v|4 %v|Quanto a mim, este é o meu pacto contigo: Serás pai de multidão de nações:
 #v|5 %v|E não se chamará mais teu nome Abrão, mas sim que será teu nome Abraão, porque te pus por pai de multidão de nações.
 #v|6 %v|E te multiplicarei muito em grande maneira, e te porei em nações, e reis sairão de ti.
 #v|7 %v|E estabelecerei meu pacto entre mim e ti, e tua descendência depois de ti em suas gerações, por aliança perpétua, para ser para ti por Deus, e à tua descendência depois de ti.
 #v|8 %v|E darei a ti, e à tua descendência depois de ti, a terra de tuas peregrinações, toda a terra de Canaã em herança perpétua; e serei o Deus deles.
+#p|
 #v|9 %v|Disse de novo Deus a Abraão: Tu, porém, guardarás meu pacto, tu e tua descendência depois de ti por suas gerações.
 #v|10 %v|Este será meu pacto, que guardareis entre mim e vós e tua descendência depois de ti: Será circuncidado todo macho dentre vós.
 #v|11 %v|Circuncidareis, pois, a carne de vosso prepúcio, e será por sinal do pacto entre mim e vós.
 #v|12 %v|E de idade de oito dias será circuncidado todo macho entre vós por vossas gerações: o nascido em casa, e o comprado a dinheiro de qualquer estrangeiro, que não for de tua descendência.
 #v|13 %v|Deve ser circuncidado o nascido em tua casa, e o comprado por teu dinheiro: e estará meu pacto em vossa carne para aliança perpétua.
 #v|14 %v|E o macho incircunciso que não houver circuncidado a carne de seu prepúcio, aquela pessoa será exterminada de seu povo; violou meu pacto.
+#p|
 #v|15 %v|Disse também Deus a Abraão: A Sarai tua mulher não a chamarás Sarai, mas Sara será seu nome.
 #v|16 %v|E a abençoarei, e também te darei dela filho; sim, a abençoarei, e virá a ser mãe de nações; dela surgirão reis de povos.
+#p|
 #v|17 %v|Então Abraão postrou-se com o rosto ao chão, riu, e disse em seu coração: A um homem de cem anos nasceráfilho? E Sara, já de noventa anos, há de dar à luz?
 #v|18 %v|E disse Abraão a Deus: Que Ismael viva diante de ti!
+#p|
 #v|19 %v|E respondeu Deus: Certamente Sara tua mulher te dará à luz um filho, e chamarás seu nome Isaque; e confirmarei meu pacto com ele por aliança perpétua para sua descendência depois dele.
 #v|20 %v|E quanto a Ismael, também te ouvi; eis que o abençoarei, e lhe farei frutificar e multiplicar em grandíssima maneira; doze príncipes gerará, e dele farei grande nação.
 #v|21 %v|Mas meu pacto estabelecerei com Isaque, ao qual Sara te dará à luz por este tempo no ano seguinte.
-#v|22 %v|E acabou de falar com ele, e subiu Deus de com Abraão.
+#p|
+#v|22 %v|E acabou de falar com ele, e Deus subiu da presença de Abraão.
 #v|23 %v|Então tomou Abraão a Ismael seu filho, e a todos os servos nascidos em sua casa, e a todos os comprados por seu dinheiro, a todo homem entre os domésticos da casa de Abraão, e circuncidou a carne do prepúcio deles naquele mesmo dia, como Deus lhe havia dito.
 #v|24 %v|Era Abraão de idade de noventa e nove anos quando circuncidou a carne de seu prepúcio.
 #v|25 %v|E Ismael seu filho era de treze anos quando foi circuncidada a carne de seu prepúcio.
 #v|26 %v|No mesmo dia foi circuncidado Abraão e Ismael seu filho.
 #v|27 %v|E todos os homens de sua casa, o servo nascido em casa, e o comprado por dinheiro do estrangeiro, foram circuncidados com ele.
 
+#p|
 #c|18 %c|
 #v|1 %v|E apareceu-lhe o SENHOR nos carvalhos de Manre, estando ele sentado à porta de sua tenda no calor do dia.
 #v|2 %v|E levantou seus olhos e olhou, e eis que três homens que estavam junto a ele: e quando os viu, saiu correndo da porta de sua tenda a recebê-los, e inclinou-se até a terra,
 #v|3 %v|E disse: Senhor, se agora achei favor aos teus olhos, rogo-te que não passes de teu servo.
 #v|4 %v|Que se traga agora um pouco de água, e lavai vossos pés; e recostai-vos debaixo de uma árvore,
-#v|5 %v|E trarei um bocado de pão, e confortai vosso coração; depois passareis; pois por isso passastes perto de vosso servo. E eles disseram: Faze assim como disseste.
+#v|5 %v|E trarei um bocado de pão, e confortai vosso coração; depois passareis; pois por isso passastes perto de vosso servo. 
+#p|E eles disseram: Faze assim como disseste.
+#p|
 #v|6 %v|Então Abraão foi depressa à tenda a Sara, e lhe disse: Toma logo três medidas de flor de farinha, amassa e faze pães cozidos debaixo das cinzas.
 #v|7 %v|E correu Abraão às vacas, e tomou um bezerro tenro e bom, e deu-o ao jovem, e deu-se este pressa a prepará-lo.
 #v|8 %v|Tomou também manteiga e leite, e o bezerro que havia preparado, e o pôs diante deles; e ele estava junto a eles debaixo da árvore; e comeram.
+#p|
 #v|9 %v|E lhe disseram: Onde está Sara tua mulher? E ele respondeu: Aqui na tenda.
-#v|10 %v|Então disse: De certo voltarei a ti segundo o tempo da vida, e eis que, terá um filho Sara tua mulher. E Sara escutava à porta da tenda, que estava detrás dele.
-#v|11 %v|Abraão e Sara eram velhos, avançados em dias; a Sara já havia cessado o costume das mulheres.
+#v|10 %v|Então disse: De certo voltarei a ti segundo o tempo da vida, e eis que Sara, tua mulher, terá um filho. 
+#p|E Sara escutava à porta da tenda, que estava detrás dele.
+#v|11 %v|Abraão e Sara eram idosos, avançados em dias; a Sara já havia cessado o costume das mulheres.
 #v|12 %v|Riu, pois, Sara consigo mesma, dizendo: Depois que envelheci terei prazer, sendo também meu senhor já velho?
+#p|
 #v|13 %v|Então o SENHOR disse a Abraão: Por que Sara riu dizendo: Será verdade que darei à luz, sendo já velha?
 #v|14 %v|Há para Deus alguma coisa difícil? Ao tempo assinalado voltarei a ti, segundo o tempo da vida, e Sara terá um filho.
+#p|
 #v|15 %v|Então Sara negou dizendo: Não ri; pois teve medo. Mas ele disse: Não é assim, mas riste.
+#p|
 #v|16 %v|E os homens se levantaram dali, e olharam até Sodoma: e Abraão ia com eles acompanhando-os.
 #v|17 %v|E o SENHOR disse: Encobrirei eu a Abraão o que vou a fazer,
 #v|18 %v|Havendo de ser Abraão em uma nação grande e forte, e havendo de ser benditas nele todas as nações da terra?
 #v|19 %v|Porque eu o conheci, sei que mandará a seus filhos e a sua casa depois de si, que guardem o caminho do SENHOR, fazendo justiça e juízo, para que faça vir o SENHOR sobre Abraão o que falou acerca dele.
 #v|20 %v|Então o SENHOR lhe disse: Porquanto o clamor de Sodoma e Gomorra se aumenta mais e mais, e o pecado deles se agravou em extremo,
 #v|21 %v|Descerei agora, e verei se consumaram sua obra segundo o clamor que veio até mim; e se não, eu o saberei.
+#p|
 #v|22 %v|E apartaram-se dali os homens, e foram até Sodoma: mas Abraão estava ainda diante do SENHOR.
 #v|23 %v|E aproximou-se Abraão e disse: Destruirás também ao justo com o ímpio?
 #v|24 %v|Talvez haja cinquenta justos dentro da cidade: destruirás também e não perdoarás ao lugar por cinquenta justos que estejam dentro dela?
 #v|25 %v|Longe de ti o fazer tal, que faças morrer ao justo com o ímpio e que seja o justo tratado como o ímpio; nunca faças tal. O juiz de toda a terra, não há de fazer o que é justo?
+#p|
 #v|26 %v|Então respondeu o SENHOR: Se achar em Sodoma cinquenta justos dentro da cidade, perdoarei a todo este lugar por causa deles.
 #v|27 %v|E Abraão replicou e disse: Eis que agora que comecei a falar a meu Senhor, ainda que sou pó e cinza:
 #v|28 %v|Talvez faltem de cinquenta justos cinco; destruirás por aqueles cinco toda a cidade? E disse: Não a destruirei, se achar ali quarenta e cinco.
@@ -499,36 +620,49 @@
 #v|32 %v|E voltou a dizer: Não se ire agora meu Senhor, se falar somente uma vez: talvez se achem ali dez. Não a destruirei, respondeu, por causa dos dez.
 #v|33 %v|E foi-se o SENHOR, logo que acabou de falar a Abraão: e Abraão se voltou a seu lugar.
 
+#p|
 #c|19 %c|
-#v|1 %v|Chegaram, pois, os dois anjos a Sodoma ao cair da tarde: e Ló estava sentado à porta de Sodoma. E vendo-os Ló, levantou-se a recebê-los, e inclinou-se até o chão;
+#v|1 %v|Chegaram, pois, os dois anjos a Sodoma ao cair da tarde; e Ló estava sentado à porta de Sodoma. E vendo-os Ló, levantou-se a recebê-los, e inclinou-se até o chão;
 #v|2 %v|E disse: Agora, pois, meus senhores, vos rogo que venhais à casa de vosso servo e vos hospedeis, e lavareis vossos pés: e pela manhã vos levantareis, e seguireis vosso caminho. E eles responderam: Não, que na praça nos ficaremos esta noite.
+#p|
 #v|3 %v|Mas ele insistiu com eles muito, e se vieram com ele, e entraram em sua casa; e fez-lhes banquete, e cozeu pães sem levedura e comeram.
 #v|4 %v|E antes que se deitassem, cercaram a casa os homens da cidade, os homens de Sodoma, todo o povo junto, desde o mais jovem até o mais velho;
 #v|5 %v|E chamaram a Ló, e lhe disseram: Onde estão os homens que vieram a ti esta noite? tira-os a nós, para que os conheçamos.
+#p|
 #v|6 %v|Então Ló saiu a eles à porta, e fechou as portas atrás de si,
 #v|7 %v|E disse: Eu vos rogo, meus irmãos, que não façais tal maldade.
 #v|8 %v|Eis aqui agora eu tenho duas filhas que não conheceram homem; eu as tirarei fora para vós, e fazei delas como bem vos parecer: somente a estes homens não façais nada, pois que vieram à sombra de meu telhado.
+#p|
 #v|9 %v|E eles responderam: Sai daí: e acrescentaram: Veio este aqui para habitar como um estrangeiro, e haverá de levantar-se como juiz? Agora te faremos mais mal que a eles. E faziam grande violência ao homem, a Ló, e se aproximaram para romper as portas.
 #v|10 %v|Então os homens estenderam a mão, e meteram a Ló em casa com eles, e fecharam as portas.
 #v|11 %v|E aos homens que estavam à porta da casa desde o menor até o maior, feriram com cegueira; mas eles se cansavam tentando achar a porta.
+#p|
 #v|12 %v|E disseram os homens a Ló: Tens aqui alguém mais? Genros, e teus filhos e tuas filhas, e tudo o que tens na cidade, tira-o deste lugar:
 #v|13 %v|Porque vamos destruir este lugar, porquanto o clamor deles subiu demais diante do SENHOR; portanto o SENHOR nos enviou para destruí-lo.
+#p|
 #v|14 %v|Então saiu Ló, e falou a seus genros, os que haviam de se casar com suas filhas, e lhes disse: Levantai-vos, saí deste lugar; porque o SENHOR vai destruir esta cidade. Mas pareceu a seus genros como que se ridicularizava.
+#p|
 #v|15 %v|E ao raiar a alva, os anjos davam pressa a Ló, dizendo: Levanta-te, toma tua mulher, e teus dois filhas que se acham aqui, para que não pereças no castigo da cidade.
 #v|16 %v|E demorando-se ele, os homens pegaram por sua mão, e pela mão de sua mulher, e pelas mãos de suas duas filhas segundo a misericórdia do SENHOR para com ele; e o tiraram, e o puseram fora da cidade.
 #v|17 %v|E foi que quando os tirou fora, disse: Escapa por tua vida; não olhes atrás de ti, nem pares toda esta planície; escapa ao monte, não seja que pereças.
+#p|
 #v|18 %v|E Ló lhes disse: Não, eu vos rogo, senhores meus;
 #v|19 %v|Eis que agora achou teu servo favor em teus olhos, e engrandeceste tua misericórdia que fizeste comigo dando-me a vida; mas eu não poderei escapar ao monte, não seja caso que me alcance o mal e morra.
 #v|20 %v|Eis que agora esta cidade está próxima para fugir ali, a qual é pequena; escaparei agora ali, (não é ela pequena?) e viverá minha alma.
+#p|
 #v|21 %v|E lhe respondeu: Eis que recebi também tua súplica sobre isto, e não destruirei a cidade de que falaste.
 #v|22 %v|Apressa-te, escapa-te ali; porque nada poderei fazer até que ali tenhas chegado. Por isto foi chamado o nome da cidade, Zoar.
+#p|
 #v|23 %v|O sol saía sobre a terra, quando Ló chegou a Zoar.
 #v|24 %v|Então choveu o SENHOR sobre Sodoma e sobre Gomorra enxofre e fogo da parte do SENHOR desde os céus;
 #v|25 %v|E destruiu as cidades, e toda aquela planície, com todos os moradores daquelas cidades, e o fruto da terra.
 #v|26 %v|Então a mulher de Ló olhou atrás, às costas dele, e se tornou estátua de sai.
+#p|
 #v|27 %v|E subiu Abraão pela manhã ao lugar onde havia estado diante do SENHOR:
 #v|28 %v|E olhou até Sodoma e Gomorra, e até toda a terra daquela planície olhou; e eis que a fumaça subia da terra como a fumaça de um forno.
+#p|
 #v|29 %v|Assim foi que, quando destruiu Deus as cidades da planície, lembrou-se Deus de Abraão, e enviou fora a Ló do meio da destruição, ao assolar as cidades onde Ló estava.
+#p|
 #v|30 %v|Porém Ló subiu de Zoar, e assentou no monte, e suas duas filhas com ele; porque teve medo de ficar em Zoar, e se abrigou em uma caverna ele e suas duas filhas.
 #v|31 %v|Então a maior disse à menor: Nosso pai é velho, e não resta homem na terra que entre a nós conforme o costume de toda a terra:
 #v|32 %v|Vem, demos a beber vinho a nosso pai, e durmamos com ele, e conservaremos de nosso pai geração.
@@ -539,26 +673,34 @@
 #v|37 %v|E deu à luz a maior um filho, e chamou seu nome Moabe, o qual é pai dos moabitas até hoje.
 #v|38 %v|A menor também deu à luz um filho, e chamou seu nome Ben-Ami, o qual é pai dos amonitas até hoje.
 
+#p|
 #c|20 %c|
 #v|1 %v|De ali partiu Abraão à terra do Sul, e assentou entre Cades e Sur, e habitou como peregrino em Gerar.
 #v|2 %v|E disse Abraão de Sara sua mulher: É minha irmã. E Abimeleque, rei de Gerar, enviou e tomou a Sara.
 #v|3 %v|Porém Deus veio a Abimeleque em sonhos de noite, e lhe disse: Eis que morto és por causa da mulher que tomaste, a qual é casada com marido.
+#p|
 #v|4 %v|Mas Abimeleque não havia chegado a ela, e disse: Senhor, matarás também a gente justa?
 #v|5 %v|Não me disse ele: É minha irmã; e ela também disse: É meu irmão? Com sinceridade de meu coração, e com limpeza de minhas mãos fiz isto.
+#p|
 #v|6 %v|E disse-lhe Deus em sonhos: Eu também sei que com integridade de teu coração fizeste isto; e eu também te detive de pecar contra mim, e assim não te permiti que a tocasses.
 #v|7 %v|Agora, pois, devolve a mulher a seu marido; porque é profeta, e orará por ti, e viverás. E se tu não a devolveres, sabe que certamente morrerás, com tudo o que for teu.
+#p|
 #v|8 %v|Então Abimeleque se levantou de manhã, e chamou a todos os seus servos, e disse todas estas palavras aos ouvidos deles; e temeram os homens em grande maneira.
 #v|9 %v|Depois chamou Abimeleque a Abraão e lhe disse: Que nos fizeste? e em que pequei eu contra ti, que atraíste sobre mim e sobre meu reino tão grande pecado? o que não devias fazer fizeste comigo.
 #v|10 %v|E disse mais Abimeleque a Abraão: Que viste para que fizesses isto?
+#p|
 #v|11 %v|E Abraão respondeu: Porque disse para mim: Certamente não há temor de Deus neste lugar, e me matarão por causa de minha mulher.
 #v|12 %v|E na verdade também é minha irmã, filha de meu pai, mas não filha de minha mãe, e tomei-a por mulher.
 #v|13 %v|E foi que, quando Deus me fez sair sem rumo da casa de meu pai, eu lhe disse: Esta é a lealdade que tu me farás, que em todos os lugares onde chegarmos, digas de mim: É meu irmão.
+#p|
 #v|14 %v|Então Abimeleque tomou ovelhas e vacas, e servos e servas, e deu-o a Abraão, e devolveu-lhe a Sara sua mulher.
 #v|15 %v|E disse Abimeleque: Eis que minha terra está diante de ti, habita onde bem te parecer.
 #v|16 %v|E a Sara disse: Eis que dei mil moedas de prata a teu irmão; olha que ele te é por véu de olhos para todos os que estão contigo, e para com todos: assim foi repreendida.
+#p|
 #v|17 %v|Então Abraão orou a Deus; e Deus sanou a Abimeleque e a sua mulher, e a suas servas, e voltaram a ter filhos.
 #v|18 %v|Porque havia por completo fechado o SENHOR toda madre da casa de Abimeleque, por causa de Sara, mulher de Abraão.
 
+#p|
 #c|21 %c|
 #v|1 %v|E o SENHOR visitou Sara, como disse, e o SENHOR fez com Sara como havia falado.
 #v|2 %v|E concebeu e deu à luz Sara a Abraão um filho em sua velhice, no tempo que Deus lhe havia dito.
@@ -567,37 +709,47 @@
 #v|5 %v|E era Abraão de cem anos, quando lhe nasceu Isaque seu filho.
 #v|6 %v|Então disse Sara: Deus me fez rir, e qualquer um que o ouvir, se rirá comigo.
 #v|7 %v|E acrescentou: Quem diria a Abraão que Sara havia de dar de mamar a filhos? pois que lhe dei um filho em sua velhice.
+#p|
 #v|8 %v|E cresceu o menino, e foi desmamado; e fez Abraão grande banquete no dia que foi desmamado Isaque.
 #v|9 %v|E viu Sara ao filho de Agar a egípcia, o qual havia esta dado a Abraão, que o ridicularizava.
 #v|10 %v|Portanto disse a Abraão: Expulsa a esta serva e a seu filho; que o filho desta serva não herdará com meu filho, com Isaque.
+#p|
 #v|11 %v|Este dito pareceu grave em grande maneira a Abraão por causa de seu filho.
 #v|12 %v|Então disse Deus a Abraão: Não te pareça grave por causa do jovem e de tua serva; em tudo o que te disser Sara, ouve sua voz, porque em Isaque será chamada tua descendência.
 #v|13 %v|E também do filho da serva farei nação, porque é descendência tua.
 #v|14 %v|Então Abraão se levantou manhã muito cedo, e tomou pão, e um odre de água, e deu-o a Agar, pondo-o sobre seu ombro, e entregou-lhe o jovem, e despediu-a. E ela partiu, e andava errante pelo deserto de Berseba.
 #v|15 %v|E faltou a água do odre, e deitou ao jovem debaixo de uma árvore;
 #v|16 %v|E foi-se e sentou-se em frente, afastando-se como um tiro de arco; porque dizia: Não verei quando o jovem morrer: e sentou-se em frente, e levantou sua voz e chorou.
+#p|
 #v|17 %v|E ouviu Deus a voz do jovem; e o anjo de Deus chamou a Agar desde o céu, e lhe disse: Que tens, Agar? Não temas; porque Deus ouviu a voz do jovem onde está.
 #v|18 %v|Levanta-te, ergue ao jovem, e pegue-o por tua mão, porque farei dele uma grande nação.
-#v|19 %v|Então abriu Deus seus olhos, e viu uma fonte de água; e foi, e encheu o odre de água, e deu de beber ao jovem.
+#p|
+#v|19 %v|Então abriu Deus os olhos dela, e ela viu uma fonte de água; e foi, e encheu o odre de água, e deu de beber ao jovem.
 #v|20 %v|E foi Deus com o jovem; e cresceu, e habitou no deserto, e foi atirador de arco.
 #v|21 %v|E habitou no deserto de Parã; e sua mãe lhe tomou mulher da terra do Egito.
+#p|
 #v|22 %v|E aconteceu naquele mesmo tempo que falou Abimeleque, e Ficol, príncipe de seu exército, a Abraão dizendo: Deus é contigo em tudo quanto fazes.
 #v|23 %v|Agora, pois, jura-me aqui por Deus, que não tratarás com falsidade a mim, nem a meu filho, nem a meu neto; mas sim que conforme a bondade que eu fiz contigo, farás tu comigo e com a terra onde peregrinaste.
+#p|
 #v|24 %v|E respondeu Abraão: Eu jurarei.
 #v|25 %v|E Abraão reclamou com Abimeleque por causa de um poço de água, que os servos de Abimeleque lhe haviam tirado.
 #v|26 %v|E respondeu Abimeleque: Não sei quem tenha feito isto, nem tampouco tu me fizeste saber, nem eu o ouvi até hoje.
+#p|
 #v|27 %v|E tomou Abraão ovelhas e vacas, e deu a Abimeleque; e fizeram ambos aliança.
 #v|28 %v|E pôs Abraão sete cordeiras do rebanho à parte.
 #v|29 %v|E disse Abimeleque a Abraão: Que significam essas sete cordeiras que puseste à parte?
+#p|
 #v|30 %v|E ele respondeu: Que estas sete cordeiras tomarás de minha mão, para que me sejam em testemunho de que eu cavei este poço.
 #v|31 %v|Por isto chamou a aquele lugar Berseba; porque ali ambos juraram.
 #v|32 %v|Assim fizeram aliança em Berseba: e levantaram-se Abimeleque e Ficol, príncipe de seu exército, e se voltaram à terra dos filisteus.
 #v|33 %v|E plantou Abraão um bosque em Berseba, e invocou ali o nome do SENHOR Deus eterno.
 #v|34 %v|E morou Abraão na terra dos filisteus por muitos dias.
 
+#p|
 #c|22 %c|
 #v|1 %v|E aconteceu depois destas coisas, que provou Deus a Abraão, e lhe disse: Abraão. E ele respondeu: Eis-me aqui.
 #v|2 %v|E disse: Toma agora teu filho, teu único, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre um dos montes que eu te direi.
+#p|
 #v|3 %v|E Abraão se levantou manhã muito cedo, e preparou seu asno, e tomou consigo dois servos seus, e a Isaque seu filho: e cortou lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe disse.
 #v|4 %v|Ao terceiro dia levantou Abraão seus olhos, e viu o lugar de longe.
 #v|5 %v|Então disse Abraão a seus servos: Esperai aqui com o asno, e eu e o jovem iremos até ali, e adoraremos, e voltaremos a vós.
@@ -606,15 +758,20 @@
 #v|8 %v|E respondeu Abraão: Deus se proverá de cordeiro para o holocausto, filho meu. E iam juntos.
 #v|9 %v|E quando chegaram ao lugar que Deus lhe havia dito, edificou ali Abraão um altar, e compôs a lenha, e amarrou a Isaque seu filho, e pôs-lhe no altar sobre a lenha.
 #v|10 %v|E estendeu Abraão sua mão, e tomou a espada, para degolar a seu filho.
+#p|
 #v|11 %v|Então o anjo do SENHOR lhe gritou do céu, e disse: Abraão, Abraão. E ele respondeu: Eis-me aqui.
 #v|12 %v|E disse: Não estendas tua mão sobre o jovem, nem lhe faças nada; que já conheço que temes a Deus, pois que não me recusaste o teu filho, o teu único;
+#p|
 #v|13 %v|Então levantou Abraão seus olhos, e olhou, e eis um carneiro a suas costas preso em um arbusto por seus chifres: e foi Abraão, e tomou o carneiro, e ofereceu-lhe em holocausto em lugar de seu filho.
 #v|14 %v|E chamou Abraão o nome daquele lugar, O SENHOR proverá. Portanto se diz hoje: No monte do SENHOR se proverá.
+#p|
 #v|15 %v|E chamou o anjo do SENHOR a Abraão segunda vez desde o céu,
 #v|16 %v|E disse: Por mim mesmo jurei, diz o SENHOR, que porquanto fizeste isto, e não me recusaste teu filho, teu único;
-#v|17 %v|Certamente te abençoarei, e multiplicarei tua descendência como as estrelas do céu, e como a areia que está na beira do mar; e tua descendência possuirá as portas de seus inimigos:
+#v|17 %v|certamente te abençoarei, e multiplicarei tua descendência como as estrelas do céu, e como a areia que está na beira do mar; e tua descendência possuirá as portas de seus inimigos:
 #v|18 %v|Em tua descendência serão abençoadas todas as nações da terra, porquanto obedeceste à minha voz.
+#p|
 #v|19 %v|E voltou Abraão a seus servos, e levantaram-se e se foram juntos a Berseba; e habitou Abraão em Berseba.
+#p|
 #v|20 %v|E aconteceu depois destas coisas, que foi dada notícia a Abraão, dizendo: Eis que também Milca havia dado à luz filhos a Naor teu irmão:
 #v|21 %v|A Uz seu primogênito, e a Buz seu irmão, e a Quemuel pai de Arã.
 #v|22 %v|E a Quésede, e a Hazo, e a Pildas, e a Jidlafe, e a Betuel.
