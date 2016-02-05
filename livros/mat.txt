@@ -769,7 +769,7 @@ Então os deixou, e foi embora
 #v|17 %v|E Jesus lhe replicou:
  Bendito #fn|_c|Bendito – ou: bem-aventurado %fn|és tu, Simão, filho de Jonas; #fn|_c|filho de Jonas – lit. Bar-Jonas %fn|pois não foi carne e sangue que o revelou a ti, mas sim meu Pai, que #ad|está%ad| nos céus.
 #v|18 %v|E eu também te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja; e as portas do mundo dos mortos não prevalecerão contra ela.
-#v|19 %v|{tr,rp:E{trnc: #fn|_c|N4 omite "E" %fn|} a}{n4:A} ti darei as chaves do Reino dos céus; e tudo o que ligares na terra terá sido ligado #fn|_c|terá sido ligado – ou: será ligado – no grego, as duas formas verbais são idênticas %fn|nos céus; e tudo o que desligares na terra terá sido desligado #fn|_c|terá sido desligado – ou: será desligado %fn|nos céus.
+#v|19 %v|{tr,rp:E{trnc: #fn|_c|N4 omite "E" %fn|} a}{n4:A} ti darei as chaves do Reino dos céus; e tudo o que ligares na terra terá sido ligado terá sido ligado nos céus; e tudo o que desligares na terra terá sido desligado no céu.
 #v|20 %v|Então mandou aos{tr,rp: seus}{trnc: #fn|_c|N4 omite "seus" %fn|} discípulos que a ninguém dissessem que ele era{tr,rp: Jesus,}{trnc: #fn|_c|N4 omite "Jesus" %fn|} o Cristo.
 #v|21 %v|Desde então Jesus{n4: Cristo}{trnc: #fn|_c|N4: Jesus Cristo %fn|} começou a mostrar a seus discípulos que ele tinha que ir a Jerusalém, e sofrer muito pelos anciãos, pelos chefes dos sacerdotes, e pelos escribas, e ser morto, e ser ressuscitado ao terceiro dia.
 #v|22 %v|E Pedro o tomou à parte, e começou a repreendê-lo, dizendo:
