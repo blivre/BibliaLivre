@@ -1,8 +1,8 @@
 ﻿#header|
-#name|Jeremias %name|
-#snm|Jeremias %snm|
-#ver| 20150815 %ver|
-#abbr|Jr %abbr|
+#name|Jeremias%name|
+#snm|Jeremias%snm|
+#ver|20160714%ver|
+#abbr|Jr%abbr|
 %header|
 
 #c|1 %c|
@@ -674,7 +674,7 @@ diz o SENHOR.
 #v|8 %v|Porque ele será como a árvore plantada junto a águas, que estende suas raízes junto à corrente; não tem preocupação quando vier o calor, e sua folha permanece verde; e no ano de seca não se cansa, nem deixa de dar fruto.
 #v|9 %v|O coração é mais enganoso que todas as coisas, e perverso; quem pode conhecê-lo?
 #v|10 %v|Eu, o SENHOR, que examino o coração, e provo os sentimentos, para dar a cada um conforme seus caminhos, conforme o fruto de suas ações.
-#v|11 %v| #ad|Tal como%ad| a perdiz que choca #ad|os ovos%ad| que não pôs, #ad|assim%ad| é o que junta riquezas, mas não com justiça; no meio de seus dias ele deixará de tê-las, #fn|_c|ele deixará de tê-las – lit. elas o deixarão %fn|e em seu fim ele será tolo.
+#v|11 %v| #ad|Como%ad| a perdiz que choca #ad|os ovos%ad| que não pôs, #ad|assim%ad| é o que junta riquezas, mas não com justiça; no meio de seus dias ele deixará de tê-las, #fn|_c|ele deixará de tê-las – lit. elas o deixarão %fn|e em seu fim ele será tolo.
 #v|12 %v|Trono de glória, elevado desde o princípio, é o lugar de nosso santuário.
 #v|13 %v|Ó SENHOR, esperança de Israel! Todos os que te abandonam serão envergonhados; e os que de mim se afastam, serão escritos no chão; pois abandonaram ao SENHOR, a fonte de águas vivas.
 #v|14 %v|Sara-me, ó SENHOR, e serei sarado; salva-me, e serei salvo; pois tu és meu louvor.

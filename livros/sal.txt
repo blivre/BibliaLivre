@@ -1098,10 +1098,10 @@ Deus enviará sua bondade e sua verdade.
 
 #c|60%c|
 #pst|Salmo “Mictão” de Davi, de ensinamento, para o regente, conforme “Susanedute”, quando lutou contra os de Arã-Naraim e Arã-Zobá, e Joabe voltou vitorioso, tendo ferido no Vale do Sal a doze mil dos de Edom:%pst|
-#v|1%v|Deus, tu nos rejeitaste, e nos quebraste; tu te encheste de ira. #ad|Por favor%ad| , restaura-nos! #fn|_c|restaura-nos – trad. alt. volta-te para nós %fn|
+#v|1%v|Deus, tu nos rejeitaste, e nos quebraste; tu te encheste de ira. #ad|Por favor%ad|, restaura-nos! #fn|_c|restaura-nos – trad. alt. volta-te para nós %fn|
 #v|2%v|Tu fizeste a terra tremer, #ad|e%ad| a abriste; cura suas rachaduras, porque ela está abalada.
 #v|3%v|Mostraste ao teu povo coisas duras; nos fizeste beber vinho perturbador.
-#v|4%v|Tu deste uma bandeira aos que te temem, para que fujam do tiro do arco. (Selá)
+#v|4%v|Tu deste uma bandeira aos que te temem, para que fujam do arco. (Selá) #fn|_k|para que fujam do arco|_c|Trad. alt. #tas|para que seja exibido por causa da verdade#tae|%fn|
 #v|5%v|Para que teus amados escapem; salva-nos com tua mão direita, e responda-nos.
 #v|6%v|Deus falou em seu santuário:
  Eu me alegrarei; repartirei a Siquém e medirei o vale de Sucote.

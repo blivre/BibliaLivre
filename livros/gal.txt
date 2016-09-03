@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Carta de Paulo aos Gálatas%name|
 #snm|Gálatas%snm|
-#ver|20151204%ver|
+#ver|20160902%ver|
 #abbr|Gl%abbr|
 %header|
 
@@ -172,6 +172,6 @@
 #v|14 %v|Mas longe de mim esteja me orgulhar, a não ser na cruz do nosso Senhor Jesus Cristo; por meio dela, o mundo está crucificado para mim, e eu para o mundo.
 #v|15 %v|Pois {tr,rp:em Cristo Jesus,}{n4: #fn|_c|TR, RP acrescentam “em Cristo Jesus” %fn|}{trnc: #fn|_c|N4 omite “em Cristo Jesus” %fn|nem a circuncisão {tr,rp:tem valor algum}{n4: é coisa alguma},{trnc: #fn|_c|N4 contém “é coisa alguma” %fn|} nem a incircuncisão; mas sim a nova criatura.
 #v|16 %v|E todos os que andarem conforme esta regra, paz e misericórdia estejam sobre eles, e sobre o Israel de Deus.
-#v|17 %v|De agora em diante, ninguém mais me faça sofrer, porque no meu corpo trago as marcas {tr,rp:do Senhor Jesus}{n4:de Jesus}.{trnc: #fn|_c|N4 omite “Senhor” %fn|}
+#v|17 %v|De agora em diante, ninguém me perturbe, porque trago no meu corpo as marcas {tr,rp:do Senhor Jesus}{n4:de Jesus}.{trnc: #fn|_c|N4 omite “Senhor” %fn|}
 #v|18 %v|A graça do nosso Senhor Jesus Cristo seja com o vosso espírito, irmãos. Amém!
 {tr: #ad|Escrita de Roma para os Gálatas%ad|}{trnc: #fn|_c|RP, N4 omitem a informação de onde a carta foi escrita %fn|}

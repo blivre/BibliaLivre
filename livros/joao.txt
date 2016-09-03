@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo João %name|
 #snm|João %snm|
-#ver|20160102%ver|
+#ver|20160820%ver|
 #abbr|Jo %abbr|
 %header|
 
@@ -1004,9 +1004,9 @@ Respondeu-lhe Jesus:
 #v|11 %v|Crede em mim que eu #ad|estou%ad| no Pai, e #ad|que%ad| o Pai está em mim; e quando não, crede em mim por causa das próprias obras.
 #v|12 %v|Em verdade, em verdade vos digo, que aquele que crê em mim, as obras que eu faço também ele as fará; e fará maiores que estas. Porque eu vou a meu Pai.
 #v|13 %v|E tudo quanto pedirdes em meu nome, eu o farei; para que o Pai seja glorificado no Filho.
-#v|14 %v|Se alguma coisa pedirdes em meu nome, eu #ad|a%ad| fare.
+#v|14 %v|Se alguma coisa {rp,n4: me }pedirdes{trnc:#fn|_c|RP, N4: me pedirdes%fn|} em meu nome, eu #ad|a%ad| farei.
 #v|15 %v|Se me amais, guardai meus mandamentos.
-#v|16 %v|E eu suplicarei ao Pai, e ele vos dará outro Consolador, para que fique sempre convosco;
+#v|16 %v|E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique sempre convosco;
 #v|17 %v|Ao Espírito de verdade, a quem o mundo não pode receber; porque não o vê, nem o conhece; mas vós o conheceis, porque habita convosco, e estará em vós.
 #v|18 %v|Não vos deixarei órfãos; eu virei a vós.
 #v|19 %v|Ainda um pouco, e o mundo não me verá mais; mas vós me vereis; porque eu vivo, e vós vivereis.

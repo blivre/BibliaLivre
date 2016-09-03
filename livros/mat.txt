@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Evangelho Segundo Mateus%name|
 #snm|Mateus %snm|
-#ver|20160103%ver|
+#ver|20160902%ver|
 #abbr|Mt%abbr|
 %header|
 
@@ -83,7 +83,7 @@ que traduzido é: Deus conosco. #fn|_c|Ref. - Isaías 7:14 %fn|
  endireitai suas veredas”. #fn|_c|Ref. Isaías 40:3 %fn|
 #v|4 %v|Este João tinha sua roupa de pelos de camelo e um cinto de couro ao redor de sua cintura, e seu alimento era gafanhotos e mel silvestre.
 #v|5 %v|Então vinham até ele #ad|moradores%ad| de Jerusalém, de toda a Judeia, e de toda a região próxima do Jordão;
-#v|6 %v|E eram por ele batizados no {n4:rio }Jordão,{trnc:TR, RP:Jordão - N4: rio Jordão} confessando os seus pecados.
+#v|6 %v|E eram por ele batizados no {n4:rio }Jordão,{trnc:#fn|_c|TR, RP:Jordão - N4: rio Jordão%fn|} confessando os seus pecados.
 #v|7 %v|Mas quando ele viu muitos dos fariseus e dos saduceus que vinham ao {tr,rp:seu{trnc: #fn|_c|N4 omite "seu" %fn|} }batismo, disse-lhes:
  Ninhada de víboras! Quem vos ensinou a fugir da ira futura?
 #v|8 %v|Dai, pois, {tr:frutos condizentes{trnc: #fn|_c|RP, TR contêm "fruto condizente" %fn|}{rp,n4:fruto condizente} com o arrependimento. #fn|_c|arrependimento não é somente um pesar ou remorso pelo pecado, mas sim uma mudança de atitude, abandonando o que é errado %fn|
@@ -279,7 +279,7 @@ E logo ele ficou limpo de sua lepra.
  Senhor, não sou digno de que entres sob meu telhado; mas dize somente uma palavra, e o meu servo sarará.
 #v|9 %v|Pois eu também sou homem debaixo de autoridade, e tenho debaixo de meu comando soldados; e digo a este: “Vai”, e ele vai; e ao outro: “Vem”, e vem; e a meu servo: “Faze isto”, e ele faz.
 #v|10 %v|Quando Jesus ouviu #ad|isto%ad| , maravilhou-se, e disse aos que o seguiam:
- Em verdade vos digo que {tr,rp:nem mesmo em Israel encontrei tanta fé}{n4:ninguém em Israel achei com tanta fé}.{trnc:TR, RP: nem mesmo em Israel encontrei tanta fé - N4: ninguém em Israel achei com tanta fé}
+ Em verdade vos digo que {tr,rp:nem mesmo em Israel encontrei tanta fé}{n4:ninguém em Israel achei com tanta fé}.{trnc:#fn|_c|TR, RP: nem mesmo em Israel encontrei tanta fé - N4: ninguém em Israel achei com tanta fé%fn|}
 #v|11 %v|Mas eu vos digo que muitos virão do oriente e do ocidente, e se sentarão à mesa com Abraão, Isaque, e Jacó, no Reino dos céus.
 #v|12 %v|Os filhos do reino, porém, serão lançados nas trevas de fora; ali haverá pranto e ranger de dentes.
 #v|13 %v|Então Jesus disse ao centurião:
@@ -489,7 +489,7 @@ Eles lhe responderam:
  Estende a tua mão.
 E ele a estendeu, e foi-lhe restaurada, sã como a outra.
 #v|14 %v|Então os fariseus saíram e se reuniram para planejar contra ele, como o matariam.
-#v|15 %v|Mas Jesus, sabendo disso, retirou-se dali. {tr,rp:Muitas multidões}{N4:Muitos}{trnc: #fn|_c|TR, RP: Muitas multidões - N4: Muitos %fn|} o seguiram, e ele curou todos.
+#v|15 %v|Mas Jesus, sabendo disso, retirou-se dali. {tr,rp:Muitas multidões}{n4:Muitos}{trnc: #fn|_c|TR, RP: Muitas multidões - N4: Muitos %fn|} o seguiram, e ele curou todos.
 #v|16 %v|E ele lhes ordenava que não o tornassem conhecido;
 #v|17 %v|Para que se cumprisse o que foi dito pelo profeta Isaías:
 #v|18 %v|Eis aqui meu servo a quem escolhi,
@@ -666,7 +666,7 @@ E gritaram de medo.
  Senhor, se és tu, manda-me vir a ti sobre as águas.
 #v|29 %v|E ele disse:
  Vem. 
-Então Pedro desceu do barco e andou sobre as águas, {tr,rp:para vir}{n4:e foi}{trnc:TR, RP: para vir - N4: e foi} a Jesus.
+Então Pedro desceu do barco e andou sobre as águas, {tr,rp:para vir}{n4:e foi}{trnc:#fn|_c|TR, RP: para vir - N4: e foi%fn|} em direção a Jesus.
 #v|30 %v|Mas quando viu o vento{tr,rp: forte},{trnc: #fn|_c|N4 omite "forte" %fn|} teve medo; e começando a afundar, gritou:
  Senhor, salva-me!
 #v|31 %v|Imediatamente Jesus estendeu a mão, segurou-o, e disse-lhe:
@@ -769,7 +769,7 @@ Então os deixou, e foi embora
 #v|17 %v|E Jesus lhe replicou:
  Bendito #fn|_c|Bendito – ou: bem-aventurado %fn|és tu, Simão, filho de Jonas; #fn|_c|filho de Jonas – lit. Bar-Jonas %fn|pois não foi carne e sangue que o revelou a ti, mas sim meu Pai, que #ad|está%ad| nos céus.
 #v|18 %v|E eu também te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja; e as portas do mundo dos mortos não prevalecerão contra ela.
-#v|19 %v|{tr,rp:E{trnc: #fn|_c|N4 omite "E" %fn|} a}{n4:A} Eu te darei as chaves do Reino dos céus; e tudo o que ligares na terra terá sido ligado terá sido ligado nos céus; e tudo o que desligares na terra terá sido desligado terá sido desligado nos céus.
+#v|19 %v|{tr,rp:E{trnc: #fn|_c|N4 omite "E" %fn|} a}{n4:A} ti darei as chaves do Reino dos céus; e tudo o que ligares na terra terá sido ligado #fn|_k|terá sido ligado|_c|ou: será ligado – no grego, as duas formas verbais são idênticas %fn|nos céus; e tudo o que desligares na terra terá sido desligado #fn|_k|terá sido desligado|_c|ou: será desligado %fn|nos céus.
 #v|20 %v|Então mandou aos{tr,rp: seus}{trnc: #fn|_c|N4 omite "seus" %fn|} discípulos que a ninguém dissessem que ele era{tr,rp: Jesus,}{trnc: #fn|_c|N4 omite "Jesus" %fn|} o Cristo.
 #v|21 %v|Desde então Jesus{n4: Cristo}{trnc: #fn|_c|N4: Jesus Cristo %fn|} começou a mostrar a seus discípulos que ele tinha que ir a Jerusalém, e sofrer muito pelos anciãos, pelos chefes dos sacerdotes, e pelos escribas, e ser morto, e ser ressuscitado ao terceiro dia.
 #v|22 %v|E Pedro o tomou à parte, e começou a repreendê-lo, dizendo:
@@ -799,7 +799,7 @@ Então os deixou, e foi embora
  Não conteis a visão a ninguém, até que o Filho do homem seja ressuscitado dos mortos.
 #v|10 %v|E os {tr,rp:seus}{trnc: #fn|_c|N4 omite "seus" %fn|} discípulos lhe perguntaram:
  Por que, então, os escribas dizem que Elias tem que vir primeiro?
-#v|11 %v|{n4: #ad|}Jesus lhes{n4:%ad| }{trnc:N4 omite "Jesus" e "lhes"} respondeu:
+#v|11 %v|{n4: #ad|}Jesus lhes{n4:%ad| }{trnc:#fn|N4 omite "Jesus" e "lhes"%fn|} respondeu:
  Em verdade Elias virá primeiro, e restaurará todas as coisas.
 #v|12 %v|Digo-vos, porém, que Elias já veio, mas não o reconheceram. Em vez disso fizeram dele tudo o que quiseram. Assim também o Filho do homem sofrerá por meio deles.
 #v|13 %v|Então os discípulos entenderam que ele lhes falara a respeito de João Batista.
@@ -813,7 +813,7 @@ Então os deixou, e foi embora
  Por que nós não o pudemos expulsar?
 #v|20 %v|E {n4: #ad|}Jesus{n4:%ad| }{trnc: #fn|_c|NA omite "Jesus" %fn|} lhes respondeu:
  Por causa da vossa {tr,rp:incredulidade}{n4:pouca fé};{trnc: #fn|_c|TR, RP: incredulidade - N4: pouca fé %fn|} pois em verdade vos digo, que se tivésseis fé como um grão de mostarda, diríeis a este monte: “Passa-te daqui para lá”, E ele passaria. E nada vos seria impossível.
-#v|21 %v|{tr,rp:Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum.}{n4: --- #fn|_c|TR, RP, contêm o versículo 21: Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum. Compare com Marcos 9:29 %fn|}{trnc: #fn|_c|N4 omite todo o versículo 21 %fn|}
+#v|21 %v|{tr,rp:Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum.}{n4: --- #fn|_c|TR, RP, contêm o versículo 21: Mas este tipo #ad|de demônio%ad| não sai, a não ser por oração e jejum. Comparar com Marcos 9:29 %fn|}{trnc: #fn|_c|N4 omite todo o versículo 21 %fn|}
 #v|22 %v|E enquanto eles {tr,rp:estavam}{n4:reuniam-se}{trnc: #fn|_c|N4:reuniam-se %fn|} na Galileia, Jesus lhes disse:
  O Filho do homem será entregue em mãos de homens.
 #v|23 %v|E o matarão, e ele será ressuscitado ao terceiro dia.
@@ -874,7 +874,7 @@ Jesus lhe disse:
 #c|19 %c|
 #v|1 %v|E aconteceu que, quando Jesus acabou estas palavras, partiu da Galileia, e veio para a região da Judeia, além do Jordão.
 #v|2 %v|E muitas multidões o seguiram, e ele os curou ali.
-#v|3 %v|Então {tr,rp:os}{trnc: #fn|_c|N4 omite "os" %fn|}{N4:uns} fariseus se aproximaram dele e, provando-o, perguntaram{tr,rp:-lhe}:{trnc: #fn|_c|N4 omite "-lhe" %fn|}
+#v|3 %v|Então {tr,rp:os}{trnc: #fn|_c|N4 omite "os" %fn|}{n4:uns} fariseus se aproximaram dele e, provando-o, perguntaram{tr,rp:-lhe}:{trnc: #fn|_c|N4 omite "-lhe" %fn|}
  É lícito{tr,rp: ao homem}{trnc: #fn|_c|N4 omite "ao homem" %fn|} se divorciar da sua mulher por qualquer causa?
 #v|4 %v|Porém ele{tr,rp: lhes}{trnc: #fn|_c|N4 omite "lhes" %fn|} respondeu:
  Não tendes lido que aquele que #ad|os%ad| {tr,rp:fez}{n4:criou}{trnc: #fn|_c|N4: criou %fn|} no princípio, macho e fêmea os fez,
@@ -1133,7 +1133,7 @@ Eles lhe responderam:
 #v|11 %v|Porém o maior de vós será vosso servo.
 #v|12 %v|E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.
 #v|13 %v|{tr,n4:Mas ai de vós, escribas e fariseus, hipócritas! Porque fechais o Reino dos céus em frente das pessoas; pois nem vós entrais, nem permitis a entrada do que estão para entrar.}{rp:Ai de vós, escribas e fariseus, hipócritas! Porque devorais as casas das viúvas, e #ad|isso%ad| com pretexto de longas orações; por isso recebereis mais grave condenação.}
-#v|14 %v|{tr:Ai de vós, escribas e fariseus, hipócritas! Porque devorais as casas das viúvas, e #ad|isso%ad| com pretexto de longas orações; por isso recebereis mais grave condenação.}{rp:Ai de vós, escribas e fariseus, hipócritas! Porque fechais o Reino dos céus em frente das pessoas; pois nem vós entrais, nem permitis a entrada do que estão para entrar.}{N4:--- #fn|_c|TR contém o versículo 14: "Ai de vós, escribas e fariseus, hipócritas! Porque devorais as casas das viúvas, e #ad|isso%ad| com pretexto de longas orações; por isso recebereis mais grave condenação.". RP também contém este texto, invertendo os versículos 13 e 14 %fn|}{trnc: #fn|_c|N4 omite o versículo 14, enquanto que RP inverte o texto com o do versículo 13 %fn|}
+#v|14 %v|{tr:Ai de vós, escribas e fariseus, hipócritas! Porque devorais as casas das viúvas, e #ad|isso%ad| com pretexto de longas orações; por isso recebereis mais grave condenação.}{rp:Ai de vós, escribas e fariseus, hipócritas! Porque fechais o Reino dos céus em frente das pessoas; pois nem vós entrais, nem permitis a entrada do que estão para entrar.}{n4:--- #fn|_c|TR contém o versículo 14: "Ai de vós, escribas e fariseus, hipócritas! Porque devorais as casas das viúvas, e #ad|isso%ad| com pretexto de longas orações; por isso recebereis mais grave condenação.". RP também contém este texto, invertendo os versículos 13 e 14 %fn|}{trnc: #fn|_c|N4 omite o versículo 14, enquanto que RP inverte o texto com o do versículo 13 %fn|}
 #v|15 %v|Ai de vós, escribas e fariseus, hipócritas! Porque rodeais o mar e a terra para fazerdes um prosélito; #fn|_c|prosélito – pessoa não-israelita que se convertia ao judaísmo %fn|e quando é feito, vós o tornais filho do inferno duas vezes mais que a vós.
 #v|16 %v|Ai de vós, guias cegos, que dizeis: “Qualquer um que jurar pelo templo, nada é; mas qualquer um que jurar pelo ouro do templo, devedor é”.
 #v|17 %v|Tolos e cegos! Pois qual é maior: o ouro, ou o templo que {tr,rp:santifica}{n4:santificou}{trnc: #fn|_c|N4: santificou %fn|} o ouro?
@@ -1157,7 +1157,7 @@ Eles lhe responderam:
 #v|35 %v|para que venha sobre vós todo o sangue justo que foi derramado sobre a terra, desde o sangue do justo Abel, até o sangue de Zacarias, filho de Baraquias, ao qual matastes entre o templo e o altar.
 #v|36 %v|Em verdade vos digo que tudo isto virá sobre esta geração.
 #v|37 %v|Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! Quantas vezes eu quis ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas; porém não quisestes!
-#v|38 %v|Eis que vossa casa vos será deixada{tr,rp: desolada. #fn|_c|desolada – ou: deserta %fn|}{N4:.}{trnc: #fn|_c|N4 omite "desolada" %fn|}
+#v|38 %v|Eis que vossa casa vos será deixada{tr,rp: desolada. #fn|_c|desolada – ou: deserta %fn|}{n4:.}{trnc: #fn|_c|N4 omite "desolada" %fn|}
 #v|39 %v|Pois eu vos digo que a partir de agora não me vereis, até que digais:
  “Bendito aquele que vem no nome do Senhor”. #fn|_c|Ref. Salmos 118:26 %fn|
 

@@ -1,7 +1,7 @@
 ﻿#header|
 #name|Segundo Livro de Crônicas %name|
 #snm|2 Crônicas %snm|
-#ver| 20150106 %ver|
+#ver| 20160820 %ver|
 #abbr|2Cr %abbr|
 %header|
 
@@ -878,15 +878,15 @@
 #v|1 %v|Então o povo da terra tomou a Jeoacaz filho de Josias, e fizeram-lhe rei em lugar de seu pai em Jerusalém.
 #v|2 %v|De vinte e três anos era Jeoacaz quando começou a reinar, e três meses reinou em Jerusalém.
 #v|3 %v|E o rei do Egito o tirou de Jerusalém, e condenou a terra em cem talentos de prata e um de ouro.
-#v|4 %v|E constituiu o rei do Egito a seu irmão Eliaquim por rei sobre Judá e Jerusalém, e mudou-lhe o nome em Jeoaquim; e a Jeoacaz seu irmão tomou Neco, e levou-o a Egito.
+#v|4 %v|E o rei do Egito constituiu o seu irmão Eliaquim como rei sobre Judá e Jerusalém, e mudou-lhe o nome em Jeoaquim; e Neco tomou o seu irmão Jeoacaz, e o levou ao Egito.
 #v|5 %v|Quando começou a reinar Jeoaquim era de vinte e cinco anos, e reinou onze anos em Jerusalém: e fez o que era mau aos olhos do SENHOR seu Deus.
 #v|6 %v|E subiu contra ele Nabucodonosor rei da Babilônia, e acorrentado com correntes o levou à Babilônia.
-#v|7 %v|Também levou Nabucodonosor à Babilônia dos vasos da casa do SENHOR, e os pôs em seu templo em Babilônia.
+#v|7 %v|Também levou Nabucodonosor à Babilônia dos utensílios da casa do SENHOR, e os pôs no seu templo em Babilônia.
 #v|8 %v|Os demais dos feitos de Jeoaquim, e as abominações que fez, e o que nele se achou, eis que estão escritos no livro dos reis de Israel e de Judá: e reinou em seu lugar Joaquim seu filho.
 #v|9 %v|De oito anos era Joaquim quando começou a reinar, e reinou três meses e dez dias em Jerusalém: e fez o que era mau aos olhos do SENHOR.
-#v|10 %v|À volta do ano o rei Nabucodonosor enviou, e o fez levar a Babilônia juntamente com os vasos preciosos da casa do SENHOR; e constituiu a Zedequias seu irmão por rei sobre Judá e Jerusalém.
+#v|10 %v|Na primavera do ano, o rei Nabucodonosor mandou que o trouxessem à Babilônia, juntamente com os utensílos preciosos da casa do SENHOR; e constituiu o seu irmão Zedequias como rei sobre Judá e Jerusalém.
 #v|11 %v|De vinte e um anos era Zedequias quando começou a reinar, e onze anos reinou em Jerusalém.
-#v|12 %v|E fez o que era mau aos olhos do SENHOR seu Deus, e não se humilhou diante de Jeremias profeta, que lhe falava da parte do SENHOR.
+#v|12 %v|E fez o que era mau aos olhos do SENHOR seu Deus, e não se humilhou diante do profeta Jeremias, que lhe falava da parte do SENHOR.
 #v|13 %v|Rebelou-se também contra Nabucodonosor, ao qual havia jurado por Deus; e endureceu sua cerviz, e obstinou seu coração, para não voltar-se ao SENHOR o Deus de Israel.
 #v|14 %v|E também todos os príncipes dos sacerdotes, e o povo, aumentaram a transgressão, seguindo todas as abominações das nações, e contaminando a casa do SENHOR, a qual ele havia santificado em Jerusalém.
 #v|15 %v|E o SENHOR o Deus de seus pais enviou a eles por meio de seus mensageiros, enviando insistentemente: porque ele tinha misericórdia de seu povo, e de sua habitação.
@@ -895,6 +895,6 @@
 #v|18 %v|Também todos os vasos da casa de Deus, grandes e pequenos, os tesouros da casa do SENHOR, e os tesouros do rei e de seus príncipes, tudo o levou à Babilônia.
 #v|19 %v|E queimaram a casa de Deus, e romperam o muro de Jerusalém, e consumiram ao fogo todos seus palácios, e destruíram todos os seus objetos valiosos.
 #v|20 %v|Os que restaram da espada foram passados à Babilônia; e foram servos dele e de seus filhos, até que veio o reino dos persas;
-#v|21 %v|Para que se cumprisse a palavra do SENHOR pela boca de Jeremias, até que a terra havia aproveitado seus sábados: porque todo o tempo de sua assolação repousou, até que os setenta anos foram cumpridos.
+#v|21 %v|Para que se cumprisse a palavra do SENHOR pela boca de Jeremias, até que a terra houvesse aproveitado os seus descansos sabáticos; pois durante todo o tempo de sua ruina ela descansou, até que os setenta anos fossem cumpridos.
 #v|22 %v|Mas ao primeiro ano de Ciro rei dos persas, para que se cumprisse a palavra do SENHOR por boca de Jeremias, o SENHOR induziu o espírito de Ciro rei dos persas, o qual fez apregoar por todo seu reino, e também por escrito, dizendo:
 #v|23 %v|Assim diz Ciro rei dos persas: o SENHOR, o Deus dos céus, me deu todos os reinos da terra; e ele me encarregou que lhe edifique casa em Jerusalém, que é em Judá. Quem houver de vós de todo seu povo, o SENHOR seu Deus seja com o tal, e suba.
