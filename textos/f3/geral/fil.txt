@@ -1,0 +1,148 @@
+﻿\nl Carta de Paulo aos Filipenses
+\nc Filipenses
+\ver 20140522
+\abbr Fp
+\ubs-code PHP
+
+_____
+
+c 1 
+1 Paulo e Timóteo, servos de {tr,rp:Jesus Cristo}{n4:Cristo Jesus},{trnc: <1>} a todos os santos em Cristo Jesus, que estão em Filipos, com os supervisores <2>e servidores. <3>
+2 Haja convosco a graça e paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+3 Agradeço ao meu Deus todas as vezes que me lembro de vós,
+4 sempre em todas as minhas orações, com alegria, fazendo oração por todos vós,
+5 por causa da vossa cooperação com o Evangelho desde o primeiro dia até agora.
+6 E nisto tenho certeza: aquele que começou a boa obra em vós irá completá-la até o dia de {tr:Jesus Cristo}{rp,n4:Cristo Jesus}.{trnc: <1>}
+7 Para mim é justo eu sentir isso de todos vós, pois vos tenho no coração, porque todos vós sois participantes comigo da graça, tanto nas minhas prisões, como na defesa e confirmação do Evangelho.
+8 Pois Deus é minha testemunha de como sinto saudades de todos vós, com o afeto de Jesus Cristo.
+9 E isto oro: que o vosso amor seja mais e mais abundante em conhecimento e em toda percepção,
+10 para que aproveis as melhores coisas, a fim de que sejais sinceros, sem ofensa, <1>até o dia de Cristo;
+11 cheios {tr,rp:dos frutos}{n4:do fruto}{trnc: <1>} da justiça, que, por meio de Jesus Cristo, {tr,rp:são}{n4:é} para glória e louvor a Deus.
+12 Mas quero, irmãos, que saibais que as coisas me aconteceram foram para o avanço do Evangelho,
+13 de maneira que se tornou evidente a toda a guarda pretoriana, e a todos os demais, que as minhas prisões são em Cristo; 
+14 e que a maioria dos irmãos no Senhor, depois de ganharem confiança com as minhas prisões, ousam falar a Palavra {n4:de Deus}{trnc: <1>} muito mais, sem medo.
+15 É verdade que também alguns pregam a Cristo por inveja e rivalidade, porém outros, também, de boa vontade.
+16 Uns em verdade anunciam a Cristo por {tr,rp:rivalidade egoísta, não sinceramente, supondo que irão acrescentar aflição às minhas prisões}{n4:amor, sabendo que fui posto para a defesa do Evangelho}.
+17 Mas outros [anunciam] por {tr,rp:amor, sabendo que fui posto para a defesa do Evangelho}{n4:rivalidade egoísta, não sinceramente, supondo que irão acrescentar aflição às minhas prisões}.{trnc: <1>}
+18 Que, pois? {tr,rp:Afinal}{n4:Contanto que} de qualquer maneira, ou com fingimento, ou em verdade, Cristo {tr,rp:é}{n4:seja} anunciado;{trnc: <1>} e nisto me alegro, e continuarei a me alegrar;
+19 pois sei que isso me resultará em livramento pela vossa oração e pelo socorro do Espírito de Jesus Cristo;
+20 conforme a minha intensa expectativa e esperança, de que em nada me envergonharei. Ao contrário, com toda a confiança, como sempre, assim também agora Cristo será engrandecido no meu corpo, seja pela vida, seja pela morte.
+21 Pois, para mim, o viver é Cristo, e o morrer é lucro.
+22 Mas, se este viver na carne for o fruto do meu trabalho, então não sei o que prefiro,
+23 pois estou pressionado por ambos [os lados] : tenho desejo de ser desligado, e estar com Cristo, o que é muito melhor;
+24 entretanto, ficar na carne é mais necessário por causa de vós.
+25 E nisto confio e sei, que ficarei, e continuarei com todos vós, para que avanceis, e vos alegreis na fé; <1>
+26 a fim de que a vossa alegria em Cristo Jesus seja abundante, por causa de mim, através da minha presença, de volta, convosco.
+27 Tão somente procedei de maneira digna do Evangelho de Cristo, para que, seja quando eu venha e vos veja, seja ausente, ouça a vosso respeito de que estais num mesmo espírito, com um mesmo ânimo, combatendo juntos pela fé do Evangelho;
+28 e que em nada vos amedronteis pelos adversários, o que para eles é, de fato, indício de perdição, mas para vós de salvação, e isso vem de Deus.
+29 Pois vos foi dado gratuitamente, quanto a Cristo, não somente o crer nele, mas também o sofrer por ele,
+30 de maneira que tendes o mesmo combate, que vistes em mim, e agora de mim ouvis.
+
+c 2 
+1 Portanto, se há alguma consolação em Cristo, se há algum conforto de amor, se há alguma comunhão do Espírito, se há afetos e compaixões, 
+2 completai a minha alegria: que penseis da mesma maneira, tenhais o mesmo amor, sejais unidos de ânimo, tendo um mesmo modo de pensar.
+3 Nada [façais] por rivalidade egoísta {tr,rp:ou}{n4:nem}{trnc: <1>} por vanglória; ao contrário, por humildade cada um considere o outro superior a si mesmo.
+4 Cada um não cuide [somente] do que é seu; mas cada um cuide também do que é dos outros.
+5 Isto seja, para que esteja em vós este modo de pensar, que também esteve em Cristo Jesus:
+6 mesmo ele sendo em forma de Deus, não considerou a igualdade a Deus como algo para se obter vantagem; <1>
+7 Ao contrário, ele esvaziou a si mesmo, tomando a forma de servo, e se tornou semelhante aos homens;
+8 e, quando se encontrava em forma humana, ele humilhou a si mesmo, sendo obediente até a morte, e morte de cruz.
+9 Por isso Deus também o exaltou supremamente, e lhe deu {tr,rp:um}{n4:o} nome {trnc:<1>} que é acima de todo nome;
+10 a fim de que no nome de Jesus se dobre todo joelho dos que estão nos céus, na terra, e debaixo da terra,
+11 e toda língua confesse que Jesus Cristo é o Senhor, para a glória de Deus Pai.
+12 Portanto, meus amados, assim como sempre obedecestes, não somente na minha presença, mas muito mais agora em minha ausência, assim exercei a vossa salvação com temor e tremor;
+13 pois é Deus quem opera em vós tanto o querer como o agir, conforme a [sua] boa vontade.
+14 Fazei tudo sem murmurações nem brigas,
+15 para que sejais irrepreensíveis e puros, filhos de Deus, inculpáveis no meio de uma geração corrupta e perversa, na qual brilhais como luminárias no mundo;
+16 e mantende a palavra da vida, para que no dia de Cristo eu possa me orgulhar de que não tenho corrido nem trabalhado em vão.
+17 Mesmo se eu for derramado como oferta sobre o sacrifício e serviço vossa fé, alegro-me e contento-me com todos vós;
+18 e, pelo mesmo motivo, alegrai-vos e contentai-vos comigo.
+19 Tenho esperança no Senhor Jesus de em breve vos enviar Timóteo, para que também eu me anime quando souber notícias de vós.
+20 Pois não tenho ninguém de mesmo ânimo que se importe sinceramente convosco,
+21 pois todos buscam as suas próprias coisas, e não as de Cristo Jesus.
+22 Mas vós sabeis a prova que ele passou, <1>porque serviu comigo no Evangelho como um filho ao pai.
+23 Assim, pois, espero enviá-lo, tão logo eu veja o que há de haver comigo.
+24 Mas confio no Senhor de que também eu mesmo virei em breve.
+25 Julguei necessário, porém, enviar-vos Epafrodito, meu irmão, cooperador, e companheiro de batalha, mensageiro enviado por vós, e auxiliador naquilo que necessito;
+26 porque ele tinha muitas saudades de todos vós, e estava muito angustiado por haverdes ouvido de que ele havia ficado doente.
+27 E ele ficou mesmo doente, quase a morrer; mas o Deus dele teve misericórdia, não somente dele, mas também de mim, para que eu não tivesse tristeza após tristeza.
+28 Por isso eu o enviei mais depressa, a fim de que, vendo-o de novo, alegrei-vos e eu fique menos triste.
+29 Recebei-o, pois, no Senhor, com toda alegria; e honrai ao que são como ele;
+30 pois, por causa da obra de Cristo, ele chegou perto da morte, arriscando a sua própria vida para suprir em meu benefício a falta do vosso serviço.
+
+c 3 
+1 No restante, meus irmãos, alegrai-vos no Senhor. Não me é incômodo escrever as mesmas coisas, e [isso é] para a vossa segurança.
+2 Cuidado com os cães! Cuidado com os que operam o mal! Cuidado com a mutilação!
+3 Pois a circuncisão somos nós, que servimos a Deus [pelo] Espírito, orgulhamo-nos em Cristo Jesus, e não confiamos na carne.
+4 Embora eu também tenho como confiar na carne. Se outro alguém pensa que pode confiar na carne, ainda mais eu:
+5 circuncidado ao oitavo dia, da descendência de Israel, da tribo de Benjamim, hebreu de hebreus; segundo a lei, fariseu;
+6 segundo o zelo, perseguidor da Igreja; segundo a justiça que há na lei, irrepreensível.
+7 Mas o que para mim era ganho considerei como perda, por causa de Cristo.
+8 E, na verdade, considero também todas as coisas como perda, por causa da superioridade de conhecer a Cristo Jesus, meu Senhor. Por ele aceitei perder todas [essas] coisas, e as considero como dejetos, a fim de que eu possa ganhar a Cristo;
+9 e que eu seja achado nele, não tendo a minha justiça proveniente da Lei, mas sim a que é pela fé em Cristo, a justiça da parte de Deus pela fé;
+10 para eu conhecer a ele, assim como o poder de sua ressurreição e a comunhão em seus sofrimentos, tornando-me conforme a ele em sua morte; 
+11 para que, de alguma maneira, eu alcance a ressurreição dos mortos.
+12 Não que eu já [a] tenha obtido, ou que já seja perfeito; mas sigo a fim de alcançar aquilo para o qual eu também fui alcançado por Cristo Jesus.
+13 Irmãos, não considero como se já tivesse a obtido; mas uma coisa [faço] : esqueço as coisas que ficam para trás, e avanço para as que estão adiante,
+14 e assim persigo o alvo, rumo ao prêmio do chamado de cima, de Deus em Cristo Jesus.
+15 Por isso, todos nós que somos maduros, tenhamos essa [mesma] mentalidade; e se em algo pensais de maneira diferente, Deus também vos revelará isso.
+16 Porém{tr,rp:, naquilo a que já chegamos, andemos conforme a mesma regra, e tenhamos a mesma mentalidade}{n4: andemos conforme aquilo a que já chegamos}.{trnc: <1>}{n4: <2>}
+17 Irmãos, sede meus imitadores, e, assim como nos tendes por exemplo, observai os que andam dessa maneira;
+18 pois, como muitas vezes eu vos disse, e agora também digo chorando, muitos andam como inimigos da cruz de Cristo.
+19 O fim deles é a perdição. O Deus deles é o ventre, e têm orgulho do que deviam se envergonhar. <1>Eles se importam mais com as coisas terrenas.
+20 Mas nós somos cidadãos dos céus,<1>de onde também esperamos um Salvador, o Senhor Jesus Cristo.
+21 Ele transformará o nosso degradante corpo, para que seja conforme o seu corpo glorioso, segundo a operação do seu poder de sujeitar para si todas as coisas.
+
+c 4 
+1 Portanto, meus amados e queridos irmãos, minha alegria e coroa, permanecei assim, firmes no Senhor, amados.
+2 Rogo a Evódia e rogo a Síntique que tenham uma mesma mentalidade no Senhor.
+3 Peço também de ti, verdadeiro companheiro, <1>que ajude a essas que lutaram no Evangelho comigo, como também com Clemente, e com os demais cooperadores, cujos nomes estão no livro da vida.
+4 Alegrai-vos sempre no Senhor. Volto a dizer: alegrai-vos.
+5 A vossa bondade seja conhecida por todas as pessoas. Perto está o Senhor.
+6 Não estejais ansiosos por coisa alguma; mas em tudo, por meio de orações e súplicas com ações de gratidão, sejam os vossos pedidos conhecidos por Deus;
+7 e a paz de Deus, que excede todo entendimento, guardará os vossos corações e as vossas mentes em Cristo Jesus.
+8 No restante, meus irmãos, tudo o que é verdadeiro, tudo o que é respeitável, tudo o que é justo, tudo o que é  puro, tudo o que é amável, tudo o que é de boa fama, se há alguma virtude, e se há algo digno de elogio, nisto pensai.
+9 O que também aprendestes, recebestes, ouvistes, e vistes em mim, isso fazei; e o Deus da paz será convosco.
+10 Alegrei-me muito no Senhor de que finalmente voltastes a vos lembrardes de mim; aliás, já estáveis lembrando, porém não tínheis oportunidade.
+11 Não digo isso por causa de alguma necessidade, pois já aprendi a contentar-me com o que tenho.
+12 Sei estar humilhado, e sei ter em abundância; em toda maneira e em todas as coisas estou instruído, tanto a estar farto, como a ter fome; tanto a ter em abundância, como a sofrer necessidade.
+13 Posso todas as coisas {tr,rp:em Cristo}{n4:naquele}{trnc: <1>}{n4: <2>} que me fortalece.
+14 Todavia, fizestes bem em compartilhardes da minha aflição.
+15 E também vós, filipenses, sabeis que, no princípio do evangelho, quando parti da Macedônia, nenhuma igreja compartilhou comigo no dar e no receber, a não ser vós somente;
+16 pois até em Tessalônica por uma e duas vezes me enviastes o que eu necessitava.
+17 Não que eu busque doações, mas busco o fruto que aumente o crédito de vossa conta.
+18 Mas de tudo tenho recebido, e tenho em abundância; estou plenamente abastecido, depois que recebi de Epafrodito o que de vossa parte [me foi enviado],como cheiro suave, e sacrifício aceitável e agradável a Deus.
+19 E meu Deus suprirá todas a vossas necessidades segundo as suas riquezas em glória em Cristo Jesus.
+20 Ao nosso Deus e Pai seja a glória para todo o sempre, Amém!
+21 Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam.
+22 Todos os santos vos saúdam, mas principalmente os da casa de César.
+23 A graça do {tr:nosso}{trnc: <1>} Senhor Jesus Cristo esteja com {tr,rp:todos vós. Amém!}{n4: o vosso espírito.}{trnc: <2>}
+ {tr: [Para os filipenses. Escrita de Roma, enviada por Epafrodito] }{trnc: <3>}
+
+NTr
+Fp.1.1.1 : N4:Cristo Jesus 
+Fp.1.1.2 : supervisores = equiv. bispos 
+Fp.1.1.3 : servidores = equiv. diáconos 
+Fp.1.6.1 : RP, N4: Cristo Jesus 
+Fp.1.10.1 : Ou: culpa 
+Fp.1.11.1 : N4: fruto 
+Fp.1.14.1 : N4 acrescenta “de Deus” 
+Fp.1.17.1 : N4 inverte as expressões do versículos 16 e 17: “por rivalidade … prisões” e “por amor … Evangelho” 
+Fp.1.18.1 _ Afinal, ... é anunciado : N4: Contanto que ... seja anunciado
+Fp.1.25.1 : Lit. “para o vosso avanço e a alegria da fé” 
+Fp.2.3.1 : N4:nem 
+Fp.2.6.1 _ algo para se obter vantagem : obscuro 
+Fp.2.9.1 : N4: o nome 
+Fp.2.22.1 : Lit. “prova dele” 
+Fp.3.16.1 : N4 contém: “Porém andemos conforme aquilo a que já chegamos” 
+Fp.3.16.2 : TR, RP contêm: “Porém, naquilo ao qual já chegamos, andemos conforme a mesma regra, e tenhamos a mesma mentalidade” 
+Fp.3.19.1 : Lit. “orgulho da vergonha deles” 
+Fp.3.20.1 _ nós somos cidadãos dos céus : Lit. nossa cidadania está nos céus
+Fp.4.3.1 : Ou, talvez, Sízigo, nome próprio 
+Fp.4.13.1 _ em Cristo : N4: naquele 
+Fp.4.13.2 : TR, RP: em Cristo 
+Fp.4.23.1 : RP, N4 omitem “nosso” 
+Fp.4.23.2 : N4: esteja com o vosso espírito 
+Fp.4.23.3 : RP, N4 não acrescentam informação de onde a carta foi escrita e por quem foi enviada 
+
+NRef

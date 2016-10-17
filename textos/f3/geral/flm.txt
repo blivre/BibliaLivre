@@ -1,0 +1,43 @@
+﻿\nl Carta de Paulo a Filemom
+\nc Filemom
+\ver 20131012
+\abbr Flm
+\ubs-code PHM
+
+_____
+
+c 1 
+1 Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, a Filemom, o amado, e nosso cooperador;
+2 E à {tr,rp:amada}{n4:irmã}{trnc: <1>}{n4: <2>} Ápia, e a Arquipo nosso companheiro de batalha, e à igreja [que está] em tua casa;
+3  [Haja] em vós graça e paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+4 Eu dou graças a meu Deus sempre me lembrando de ti em minhas orações;
+5 Ao ouvir de teu amor e a fé que tu tens para com o Senhor Jesus, e para com todos os santos;
+6 Para que a comunhão de tua fé seja eficaz no reconhecimento de todo o bem que há em vós por Cristo Jesus.
+7 Porque nós temos grande alegria e consolo em teu amor, pelo qual, por meio de ti, irmão, os sentimentos dos santos foram aliviados.
+8 Por isso, ainda que em Cristo eu tenha grande confiança para te mandar [aquilo que te é] conveniente,
+9 Em vez disso por amor eu [te] peço, [ainda que] eu seja tal, Paulo, o velho, e também agora um prisioneiro de Jesus Cristo;
+10 Eu te peço por meu filho Onésimo, ao qual eu gerei durante minhas prisões.
+11 Aquele que antes te era inútil, mas agora útil para mim e para ti{tr:, eu o enviei de volta;}{n4:,}
+12 {tr,rp:E tu, como os meus mais íntimos sentimentos, recebe-o;}{n4:Eu o enviei, como os meus mais íntimos sentimentos, de volta a ti;}{trnc: <1>}
+13 Eu [até que] gostaria de retê-lo comigo, para que como teu [substituto] ele me servisse nas prisões do Evangelho;
+14 Mas eu nada quis fazer sem tua opinião, para que tua bondade não fosse como que por obrigação, mas sim de livre vontade.
+15 Porque talvez por isso que ele tenha se separado [de ti] por algum tempo, para que tu o recebesses de volta para sempre.
+16 Não mais como a um servo, mas sim mais que um servo, [como] a um amado irmão, especialmente para mim, e muito mais de ti, tanto na carne como no Senhor.
+17 Portanto, se tu me tens como companheiro, [então] recebe-o como a mim.
+18 E se ele te fez algum dano, ou te deve [alguma coisa],põe [isto] na minha conta.
+19 Eu, Paulo, de minha [própria] mão [o] escrevi, eu pagarei; para eu não te dizer que tu me deves a ti mesmo.
+20 Assim, irmão, que eu tenha algum benefício de ti no Senhor; alivia meus sentimentos no Senhor.
+21 Tendo confiança de tua obediência eu te escrevi, sabendo que tu farás ainda mais do que eu digo.
+22 E enquanto isso também me prepara um lugar para [eu] ficar; porque eu espero que por vossas orações eu seja entregue a vós.
+23 Saúdam-te: Epafras (meu companheiro de prisão em Cristo Jesus),
+24 Marcos, Aristarco, Demas [e] Lucas (meus cooperadores).
+25 A graça de nosso Senhor Jesus Cirsto [seja] com vosso espírito. Amém!
+ {tr: [Escrita em Roma para Filemom, e enviada pelo servo Onésimo] }{trnc: <1>}
+
+NTr
+Fm.1.2.1 : N4: irmã 
+Fm.1.2.2 : TR, RP: amada 
+Fm.1.12.1 : TR, RP: eu o enviei de volta; E tu, como os meus mais íntimos sentimentos, recebe-o – N4: Eu o enviei, como os meus mais íntimos sentimentos, de volta a ti 
+Fm.1.25.1 : RP, N4 não contêm informação de onde a carta foi escrita e por quem foi enviada 
+
+NRef
