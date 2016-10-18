@@ -1,6 +1,6 @@
 ﻿\nl Evangelho Segundo Mateus
 \nc Mateus
-\ver 20161005
+\ver 20161017
 \abbr Mt
 
 \ubs-code MAT
@@ -1932,7 +1932,7 @@ Mt.28.19.1 : RP omite "Portanto"
 Mt.28.20.1 : N4 omite "Amém" 
 
 NRef
-Mt.1.23.ref.1 : - Isaías 7:14 
+Mt.1.23.ref.1 : Isaías 7:14 
 Mt.2.6.ref.1 : Miqueias 5:2 
 Mt.2.15.ref.1 : Oseias 11:1 
 Mt.2.18.ref.2 : Jeremias 31:15 

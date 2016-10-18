@@ -1,6 +1,6 @@
 ﻿\nl Carta de Paulo aos Colossenses
 \nc Colossenses
-\ver 20160925
+\ver 20161017
 \abbr Cl
 
 \ubs-code COL
@@ -9,21 +9,28 @@
 
 c 1 
 1 Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Timóteo,
-2 aos santos e fiéis irmãos em Cristo, que estão em Colossos; [haja] em vós a graça e paz da parte de Deus nosso Pai{tr,rp:, e do Senhor Jesus Cristo}.{trnc: <1>}{n4: <2>}
-3 Damos graças a Deus e Pai do nosso Senhor Jesus Cristo, sempre orando por vós;
-4 porque ouvimos falar da vossa fé em Cristo Jesus, e do amor [que tendes] para com todos os santos;
-5 por causa da esperança que está reservada para vós nos céus, da qual anteriormente ouvistes pala palavra da verdade do Evangelho;
-6 O qual já chegou a vós, assim como também em todo o mundo; e já vai frutificando assim como também entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade;
-7 Assim como também aprendestes de Epafras, nosso amado companheiro de serviço, que é um fiel servidor de Cristo a vosso favor;
-8 O qual também nos declarou vosso amor no Espírito.
-9 Por isso também, desde o dia que [o] ouvimos, não paramos de orar por vós, e pedir que sejais cheios do conhecimento de sua vontade, em toda sabedoria e entendimento espiritual;
-10 Para que possais andar dignamente no Senhor, agradando-lhe em tudo, frutificando em toda boa obra, e crescendo no conhecimento de Deus;
-11 Capacitados em todo fortalecimento, segundo o poder de sua glória, em toda perseverança e paciência com alegria,
-12 Dando graças ao Pai, que nos capacitou para partilharmos da herança dos santos na luz.
-13 Ele nos tirou do domínio das trevas e nos transportou para o Reino do Filho de seu amor,
-14 Em quem temos a libertação{tr: pelo seu sangue}:{trnc: <1>}{rp,n4: <2>} o perdão dos pecados.
-15 Ele é a imagem do Deus invisível, o primogênito de toda criação.
-16 Porque por ele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam domínios, sejam lideranças, sejam autoridades; todas as coisas foram criadas por ele e para ele;
+2 aos santos e fiéis irmãos em Cristo, que estão em Colossos. [Haja] em vós a graça e paz da parte de Deus nosso 
+ Pai{tr,rp:, e do Senhor Jesus Cristo}.{trnc: <1>}{n4:<2>}
+3 Agradecemos ao Deus e Pai do nosso Senhor Jesus Cristo, sempre orando por vós;
+4 pois ouvimos falar da vossa fé em Cristo Jesus, e do amor [que tendes] para com todos os santos;
+5 por causa da esperança que está reservada para vós nos céus. Anteriormente ouvistes dessa esperança<1> pala palavra 
+ da verdade do evangelho,
+6 que já chegou a vós, como também em todo o mundo; e vai frutificando assim como entre vós, desde o dia em que 
+ ouvistes e conhecestes a graça de Deus em verdade.
+7 Aprendestes o evangelho<1> por Epafras, nosso amado cooperador, que é um fiel servidor de Cristo em vosso favor.
+8 Ele também nos declarou o vosso amor no Espírito.
+9 Por isso também, desde o dia que [o] ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do 
+ conhecimento da sua vontade, em toda sabedoria e entendimento espiritual;
+10 para que possais andar dignamente [diante] do Senhor, agradando-lhe em tudo, frutificando em toda boa obra, e 
+ crescendo no conhecimento de Deus;
+11 capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
+12 agradecendo ao Pai, que nos capacitou a participar da herança dos santos na luz.
+13 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
+14 em quem temos a libertação{tr: pelo seu sangue}:{trnc:<1>}{rp,n4:<2>} o perdão dos pecados.
+15 Ele é a imagem do Deus invisível, o primogênito de toda a criação;
+16 porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, 
+ sejam domínios, sejam governos, sejam autoridades; todas as coisas foram criadas por ele e para ele.
+
 17 E ele é antes de todas as coisas, e todas as coisas continuam a existir por ele.
 18 E ele é a cabeça do corpo da Igreja, sendo o princípio [e] o primogênito dos mortos, para que tenha a primazia entre todos.
 19 Pois foi do agrado [do Pai] que toda a plenitude habitasse nele;
@@ -114,6 +121,8 @@ c 4
 NTr
 Cl.1.2.1 : N4 omite “e do Senhor Jesus Cristo” 
 Cl.1.2.2 : TR, RP acrescentam “e do Senhor Jesus Cristo” ao final do versículo 
+Cl.1.5.1 : a palavra “esperaça” foi repetida para simplificar uma frase longa
+Cl.1.7.1 : a palavra “evangelho” foi repetida para simplificar uma frase longa
 Cl.1.14.1 : TR, RP omitem: “pelo seu sangue” 
 Cl.1.14.2 : TR contém: “libertação pelo seu sangue” 
 Cl.1.29.1 : habilidade (atuação, poder, eficácia) e age, no grego, são palavras semelhantes 

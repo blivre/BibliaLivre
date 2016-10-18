@@ -1,6 +1,6 @@
 ﻿\nl Carta de Paulo aos Efésios
 \nc Efésios
-\ver 20140429
+\ver 20161017
 \abbr Ef
 \ubs-code EPH
 
@@ -162,7 +162,7 @@ c 6
 9 E vós, senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo também que o Senhor vosso e deles está nos céus, e [que] para com ele não há acepção de pessoas.
 10 Nas demais coisas, meus irmãos, esforçai-vos no Senhor, na força de seu poder.
 11 Vesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.
-12 Porque não lugamos contra carne e sangue, mas sim contra os domínios e autoridades, contra os poderosos do mundo, das trevas destes tempos, contra os males espirituais nos lugares celestes.
+12 Porque não lutamos contra carne e sangue, mas sim contra os domínios e autoridades, contra os poderosos do mundo, das trevas destes tempos, contra os males espirituais nos lugares celestes.
 13 Portanto tomai toda a armadura de Deus, para que possais resistir no dia mal, e tendo feito tudo, ficar firmes.
 14 Estai pois firmes, preparando vossos quadris com o [cinto] da verdade, e vestidos com a couraça da justiça;
 15 E calçados os pés com a prontidão do Evangelho da paz.
