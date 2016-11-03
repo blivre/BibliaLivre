@@ -1,0 +1,13 @@
+﻿Encoding=UTF-8
+LanguageName=Portuguese
+ISOLanguageCode=por
+OldTestamentName=Antigo Testamento
+NewTestamentName=Novo Testamento
+WorkTitle=Bíblia Livre - Texto de Nestle 1904
+WorkAbbreviation=BLIV-N4
+CopyrightDate=2016
+CopyrightNotice=Copyright © 2016 Projeto Bíblia Livre \
+Published under the Creative Commons Attribution 3.0 Brazil License
+Licence= Licença Creative Commons Atribuição 3.0 Brasil
+version.date=2016-10-30
+About=Tradução da Bíblia para a língua portuguesa de uso livre. Em desenvolvimento.

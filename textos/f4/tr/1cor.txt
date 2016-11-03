@@ -1,0 +1,1668 @@
+﻿\name-long
+Primeira Carta de Paulo aos Coríntios
+\*name-long
+\name-short
+1 Coríntios
+\*name-short
+\abbreviation
+1Co
+\*abbreviation
+\ubs-code
+1CO
+\*ubs-code
+\v 1Co.1.1
+Paulo, chamado apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,
+\v 1Co.1.2
+À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, 
+\added
+Senhor
+\*added
+ deles, e nosso;
+\v 1Co.1.3
+Graça 
+\added
+seja
+\*added
+ convosco, e a paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+\v 1Co.1.4
+Sempre agradeço ao meu Deus por causa de vós, pela graça de Deus, que é dada a vós em Cristo Jesus.
+\v 1Co.1.5
+Que em todas as coisas estais enriquecidos nele, em toda palavra, e em todo conhecimento;
+\v 1Co.1.6
+Assim como o testemunho de Jesus Cristo foi confirmado entre vós.
+\v 1Co.1.7
+De maneira que nenhum dom vos falta, enquanto esperais a manifestação do nosso Senhor Jesus Cristo,
+\v 1Co.1.8
+o qual também vos firmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
+\v 1Co.1.9
+Deus é fiel, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor.
+\v 1Co.1.10
+Mas eu vos rogo, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com o mesmo entendimento, e com a mesma opinião.
+\v 1Co.1.11
+Porque, irmãos meus, me foi informado de vós, pelos 
+\added
+da casa
+\*added
+ de Cloé, que há brigas entre vós.
+\v 1Co.1.12
+E digo isto, que cada um de vós diz: “Eu sou de Paulo” e “Eu 
+\added
+sou
+\*added
+ de Apolo” e “Eu 
+\added
+sou
+\*added
+ de Cefas” e “Eu 
+\added
+sou
+\*added
+ de Cristo”.
+\v 1Co.1.13
+Cristo está dividido? Paulo foi crucificado por vós? Ou fostes vós batizados no nome de Paulo?
+\v 1Co.1.14
+Agradeço a Deus que batizei nenhum de vós, a não ser Crispo e Gaio;
+\v 1Co.1.15
+para que ninguém diga que eu tenha batizado em meu nome.
+\v 1Co.1.16
+Também batizei aos da casa de Estefanas; além desses, não sei se batizei algum outro.
+\v 1Co.1.17
+Porque Cristo não me enviou para batizar, mas sim, para evangelizar; não com sabedoria de palavras, para que a cruz de Cristo não se torne inútil.
+\v 1Co.1.18
+Porque a palavra da cruz é loucura para os que perecem; mas para os que se salvam é poder de Deus.
+\v 1Co.1.19
+Porque está escrito: Destruirei a sabedoria dos sábios, e aniquilarei a inteligência dos inteligentes.
+\v 1Co.1.20
+Onde está o sábio? Onde está o escriba? Onde está o questionador destes tempos? Por acaso Deus não fez de loucura a sabedoria deste mundo?
+\v 1Co.1.21
+Porque já que, na sabedoria de Deus, o mundo não conheceu a Deus pela sabedoria, Deus se agradou de salvar aos crentes pela loucura da pregação.
+\v 1Co.1.22
+Porque os judeus pedem sinal, e os gregos buscam sabedoria.
+\v 1Co.1.23
+Mas nós pregamos a Cristo crucificado, 
+\added
+que é
+\*added
+ escândalo para os Judeus, e loucura para os gregos.
+\v 1Co.1.24
+Porém aos que são chamados, tanto judeus como gregos, Cristo 
+\added
+é
+\*added
+ poder de Deus e sabedoria de Deus.
+\v 1Co.1.25
+Porque a loucura de Deus é mais sábia que os seres humanos; e a fraqueza de Deus é mais forte que os seres humanos.
+\v 1Co.1.26
+Vede, pois, o vosso chamado, irmãos; pois dentre vós não 
+\added
+há
+\*added
+ muitos sábios segundo a carne, nem muitos poderosos, nem muitos da elite.
+\v 1Co.1.27
+Mas Deus escolheu as coisas loucas deste mundo, para confundir às sábias; e Deus escolheu as fracas deste mundo, para confundir às fortes.
+\v 1Co.1.28
+E Deus escolheu as coisas desprezíveis deste mundo, e as sem valor, e as que não são, para aniquilar as que são.
+\v 1Co.1.29
+Para que ninguém
+\fn
+Lit. nenhuma carne
+\*fn
+ orgulhe de si diante dele.
+\v 1Co.1.30
+Mas vós sois dele em Jesus Cristo, o qual de Deus nos foi feito sabedoria, e justiça, e santificação, e resgate.
+\v 1Co.1.31
+Para que, como está escrito: Aquele que se orgulha, orgulhe-se por causa do Senhor.
+\v 1Co.2.1
+E eu, irmãos, quando vim até vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
+\v 1Co.2.2
+Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e a sua crucificação.
+\v 1Co.2.3
+E eu estive convosco em fraqueza, em temor, e em grande tremor.
+\v 1Co.2.4
+E a minha palavra e a minha pregação não foram em palavras persuasivas de sabedoria humana, mas sim, em demonstração do Espírito e de poder.
+\v 1Co.2.5
+Para que a vossa fé não fosse em sabedoria humana, mas sim, em poder de Deus.
+\v 1Co.2.6
+Contudo, falamos sabedoria entre os maduros, porém uma sabedoria não deste mundo, nem dos líderes deste mundo, que perecem.
+\v 1Co.2.7
+Mas falamos a sabedoria de Deus, escondida em mistério, a qual Deus ordenou antes dos tempos para a nossa glória.
+\v 1Co.2.8
+A qual nenhum dos líderes deste mundo conheceu. Porque, se a tivessem conhecido, nunca crucificariam ao Senhor da glória.
+\v 1Co.2.9
+Porém, assim como está escrito: As coisas que o olho não viu, e que no coração humano não subiram, 
+\added
+são
+\*added
+ as que Deus preparou para os que o amam.
+\v 1Co.2.10
+Mas Deus as revelou para nós pelo seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
+\v 1Co.2.11
+Pois quem dentre os seres humanos sabe as coisas que são do ser humano, senão o espírito do ser humano que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
+\v 1Co.2.12
+Nós, porém, não recebemos o espírito do mundo, mas sim, o Espírito que é de Deus; para que saibamos as coisas que nos são dadas por Deus.
+\v 1Co.2.13
+As quais também falamos, não com palavras que a sabedoria ensina, mas com as que o Espírito Santo ensina, interpretando 
+\added
+coisas
+\*added
+ espirituais por 
+\added
+meios
+\*added
+ espirituais.
+\v 1Co.2.14
+Mas o ser humano natural não compreende as coisas que são do Espírito de Deus, porque lhe são loucura; e não as pode entender, porque se compreendem espiritualmente.
+\v 1Co.2.15
+Porém quem é espiritual compreende todas as coisas, mas não é compreendido por ninguém.
+\v 1Co.2.16
+Pois quem conheceu a mente do Senhor, para que o possa instruir? Mas nós temos a mente de Cristo.
+\v 1Co.3.1
+E eu, irmãos, não pude vos falar como a espirituais, mas como a carnais, como a meninos em Cristo.
+\v 1Co.3.2
+Com leite eu vos criei, e não com alimento sólido, porque não podíeis; nem mesmo agora ainda podeis;
+\v 1Co.3.3
+porque ainda sois carnais. Pois, havendo entre vós inveja, brigas, e divisões, por acaso não sois carnais, e andais fazendo conforme o costume humano?
+\v 1Co.3.4
+Porque dizendo um: “Eu sou de Paulo”, e outro: “Eu 
+\added
+sou
+\*added
+ de Apolo”, por acaso não sois carnais?
+\v 1Co.3.5
+Ora, quem é Paulo, e quem é Apolo, senão servidores, pelos quais crestes, conforme o Senhor deu a cada um?
+\v 1Co.3.6
+Eu plantei; Apolo regou; mas foi Deus quem deu o crescimento.
+\v 1Co.3.7
+De maneira que nem o que planta é algo, nem o que rega; mas sim Deus, que dá o crescimento.
+\v 1Co.3.8
+E o que planta, e o que rega, são um; mas cada um receberá a sua recompensa segundo o seu trabalho.
+\v 1Co.3.9
+Porque somos cooperadores de Deus; vós sois a plantação de Deus, o edifício de Deus.
+\v 1Co.3.10
+Segundo a graça de Deus que me foi dada, eu pus como sábio construtor o fundamento; e outro edifica sobre ele; mas olhe cada um como constrói sobre ele.
+\v 1Co.3.11
+Porque ninguém pode pôr fundamento diferente do que já está posto, o qual é Jesus Cristo.
+\v 1Co.3.12
+E se alguém sobre este fundamento edificar ouro, prata, pedras preciosas, madeira, feno, palha,
+\v 1Co.3.13
+a obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de cada um, o fogo fará a prova.
+\v 1Co.3.14
+Se a obra de alguém que construiu sobre ele permanecer, receberá recompensa.
+\v 1Co.3.15
+Se a obra de alguém se queimar, o 
+\added
+construtor
+\*added
+ sofrerá perda; porém o tal se salvará, contudo, como que 
+\added
+passado
+\*added
+ pelo fogo.
+\v 1Co.3.16
+Não sabeis vós, que sois o templo de Deus? E que o Espírito de Deus habita em vós?
+\v 1Co.3.17
+Se alguém destruir o templo de Deus, Deus ao tal destruirá; porque o templo de Deus é santo, o qual sois vós.
+\v 1Co.3.18
+Ninguém se engane; se alguém entre vós nestes tempos pensa ser sábio, que se faça de louco, para que seja sábio.
+\v 1Co.3.19
+Pois a sabedoria deste mundo é loucura para Deus; porque está escrito: Ele toma aos sábios pela sua própria astúcia.
+\v 1Co.3.20
+E outra vez: O Senhor conhece os pensamentos dos sábios, que são vãos.
+\v 1Co.3.21
+Portanto ninguém se orgulhe em seres humanos; porque tudo é vosso,
+\v 1Co.3.22
+seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro; tudo é vosso.
+\v 1Co.3.23
+Mas vós sois de Cristo; e Cristo, de Deus.
+\v 1Co.4.1
+Que as pessoas nos reconheçam como servidores de Cristo, e guardiões dos mistérios de Deus.
+\v 1Co.4.2
+E além disso, exige-se dos guardiões que cada um seja fiel.
+\v 1Co.4.3
+Mas a mim, pouco me importa de ser julgado por vós, ou por qualquer juízo humano; nem eu julgo a mim mesmo.
+\v 1Co.4.4
+Porque em nada me sinto culpável; mas nem por isso estou justificado; porém o que me julga é o Senhor.
+\v 1Co.4.5
+Então nada julgueis antes do tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas nas trevas, e manifestará as intenções dos corações; e então cada um receberá aprovação de Deus.
+\v 1Co.4.6
+E isto, irmãos, fiz a comparação relativa a mim e a Apolo por causa de vós; para que em nós aprendais a não fazer suposições além do que está escrito; para que não fiqueis arrogantes por preferir um contra o outro.
+\v 1Co.4.7
+Pois quem te faz diferentemente superior? E o que tens tu, que não tenhas recebido? E se o recebeste, por que te orgulhas, como se não o tivesse recebido?
+\v 1Co.4.8
+Vós já estais satisfeitos, já estais ricos, e reinastes sem nós; e bom seria se vós reinásseis, para que também nós reinássemos convosco.
+\v 1Co.4.9
+Pois acho que Deus colocou a nós, os apóstolos, por último, como sentenciados à morte; pois somos como espetáculo ao mundo, tanto aos anjos como aos seres humanos.
+\v 1Co.4.10
+Nós 
+\added
+somos
+\*added
+ loucos por causa de Cristo, mas vós sábios em Cristo; nós fracos, mas vós fortes; vós ilustres, mas nós desonrados.
+\v 1Co.4.11
+Até esta presente hora sofremos fome e sede, e estamos nus, e somos golpeados, e não temos morada certa.
+\v 1Co.4.12
+E ficamos exaustos, trabalhando com as nossas próprias mãos; somos insultados, e bendizemos; somos perseguidos, e nós suportamos.
+\v 1Co.4.13
+Somos blasfemados, e respondemos humildemente; somos feitos como a escória do mundo, e como o lixo de todos, até agora.
+\v 1Co.4.14
+Não escrevo estas coisas para vos envergonhar; mas sim, para 
+\added
+vos
+\*added
+ advertir como a meus amados filhos.
+\v 1Co.4.15
+Porque ainda que tivésseis dez mil tutores em Cristo, contudo não 
+\added
+tendes
+\*added
+ muitos pais. Porque eu tornei vosso pai em Cristo Jesus por meio do Evangelho.
+\v 1Co.4.16
+Portanto eu vos chamo para que sejais meus imitadores.
+\v 1Co.4.17
+Por isto eu enviei para vós Timóteo, que é meu amado e fiel filho no Senhor; ele vos lembrará os meus caminhos em Cristo, como por todas os lugares ensino em cada igreja.
+\v 1Co.4.18
+Mas alguns andam arrogantes, como se eu não fosse até vós.
+\v 1Co.4.19
+Porém logo irei vos visitar, se o Senhor quiser; e 
+\added
+então
+\*added
+ conhecerei, não as palavras dos que andam arrogantes, mas sim o poder 
+\added
+deles
+\*added
+.
+\v 1Co.4.20
+Porque o Reino de Deus não 
+\added
+consiste
+\*added
+ de palavras, mas sim de poder.
+\v 1Co.4.21
+Que quereis? Que eu venha até vós com a vara 
+\added
+da disciplina
+\*added
+, ou com amor e espírito de mansidão?
+\v 1Co.5.1
+Totalmente se ouve 
+\added
+que há
+\*added
+ entre vós pecados sexuais, e tais pecados sexuais que nem mesmo entre os gentios se nomeia
+,
+ como alguém que tomou como mulher a esposa de seu pai.
+\v 1Co.5.2
+E vós estais orgulhosos! Ao invés disso, vós não deveríeis se entristecer, para que fosse tirado do meio de vós o que cometeu esta atitude?
+\v 1Co.5.3
+Porque eu, 
+\added
+agindo
+\*added
+ como ausente de corpo, porém presente de espírito, já julguei como se estivesse presente, aquele que fez isto,
+\v 1Co.5.4
+No nome do nosso Senhor Jesus Cristo, quando vós vos reunirdes, e o meu espírito junto de vós, com o poder de nosso Senhor Jesus Cristo,
+\v 1Co.5.5
+De ao tal entregar a Satanás, para destruição da carne, para que o espírito seja salvo, no dia do Senhor Jesus.
+\v 1Co.5.6
+Vosso orgulho não é bom. Não sabeis que um pouco de fermento faz levedar toda a massa?
+\v 1Co.5.7
+Limpai pois o velho fermento, para que sejais nova massa, assim como vós sois 
+\added
+de fato
+\*added
+ sem fermento. Porque Cristo, nosso 
+\added
+cordeiro da
+\*added
+ páscoa, foi sacrificado por nós.
+\v 1Co.5.8
+Portanto façamos festa, não no velho fermento, nem no fermento do mal e da perversão, mas em pães não levedados de sinceridade e de verdade.
+\v 1Co.5.9
+Eu já vos escrevi por carta, que não vos mistureis com pecadores sexuais.
+\v 1Co.5.10
+Porém não totalmente com os pecadores deste mundo, ou com os gananciosos, ou ladrões, ou 
+\added
+com os
+\*added
+ idólatras; porque então vos seria necessário sair do mundo.
+\v 1Co.5.11
+Mas agora vos escrevo, que não vos mistureis se alguém, chamando a si de irmão, for pecador sexual, ou ganancioso, ou idólatra, ou maldizente, ou beberrão, ou ladrão. Com o tal nem mesmo comais.
+\v 1Co.5.12
+Por que eu tenho que julgar também aos que estão de fora? Não julgais vós aos que estão de dentro?
+\v 1Co.5.13
+Mas Deus julga aos que estão de fora. Tirai pois dentre vós a este maligno.
+\v 1Co.6.1
+Algum de vós, tendo um assunto contra outro, ousa ir a juízo perante os injustos, e não perante os santos?
+\v 1Co.6.2
+Não sabeis que os santos julgarão ao mundo? E se o mundo é julgado por vós, por acaso sois vós indignos de julgar as coisas mínimas?
+\v 1Co.6.3
+Não sabeis que julgaremos aos anjos? Quanto mais as coisas desta vida!
+\v 1Co.6.4
+Pois se tiverdes assuntos em juízo, relativos a coisas desta vida, vós pondes como juízes aos que são menos estimados pela igreja?
+\v 1Co.6.5
+Eu digo 
+\added
+isto
+\*added
+ para vos envergonhar. Não há entre vós algum sábio, nem pelo menos um, que não possa julgar entre seus irmãos?
+\v 1Co.6.6
+Mas irmão vai a juízo contra outro irmão, e isto perante incrédulos?
+\v 1Co.6.7
+Porém já é uma falta entre vós, por entre vós haverdes disputas. Por que não aceitais serdes injustiçados? Por que não aceitais o prejuízo?
+\v 1Co.6.8
+Mas vós 
+\added
+mesmos
+\*added
+ injustiçais e prejudicais, e isto aos irmãos.
+\v 1Co.6.9
+Ou não sabeis que os injustos não herdarão o Reino de Deus? Não erreis: nem os pecadores sexuais, nem os idólatras, nem os adúlteros, nem os sexualmente efeminados, nem os homens que fazem sexo com homens,
+\v 1Co.6.10
+Nem os ladrões, nem os gananciosos, nem os beberrões, nem os maldizentes, nem os extorsores herdarão o Reino de Deus.
+\v 1Co.6.11
+E isto alguns de vós éreis. Mas 
+\added
+já
+\*added
+ estais lavados, e santificados, e justificados no nome do Senhor Jesus, e pelo Espírito de nosso Deus.
+\v 1Co.6.12
+Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são lícitas, porém eu não deixarei me sujeitar por coisa alguma.
+\v 1Co.6.13
+A comida é para o estômago, e o estômago é para a comida; mas Deus os aniquilará, tanto a um, como ao outro. Porém o corpo não é para o pecado sexual, mas para o Senhor, e o Senhor 
+\added
+é
+\*added
+ para o corpo.
+\v 1Co.6.14
+E Deus ressuscitou ao Senhor, e também por seu poder nos ressuscitará.
+\v 1Co.6.15
+Não sabeis vós que vossos corpos são membros de Cristo? Tomarei pois os membros de Cristo, e os farei membros de uma prostituta? De maneira nenhuma!
+\v 1Co.6.16
+Ou não sabeis que o que se junta 
+\added
+sexualmente
+\*added
+ com uma prostituta se torna um 
+\added
+só
+\*added
+ corpo 
+\added
+com ela
+\*added
+ ? Porque 
+\added
+a Escritura
+\*added
+ diz: Os dois serão uma 
+\added
+só
+\*added
+ carne.
+\v 1Co.6.17
+Mas o que se junta com o Senhor, 
+\added
+com ele
+\*added
+ se torna um 
+\added
+só
+\*added
+ espírito.
+\v 1Co.6.18
+Fugi do pecado sexual. Todo pecado que o ser humano comete é fora do corpo; mas o que pratica pecado sexual, peca contra seu próprio corpo.
+\v 1Co.6.19
+Ou não sabeis que vosso corpo é templo do Espírito Santo, o qual está em vós, o qual tendes de Deus, e 
+\added
+que
+\*added
+ não sois de vós mesmos?
+\v 1Co.6.20
+Porque vós fostes comprados por alto preço; então glorificai a Deus em vosso corpo, e em vosso espírito, que são de Deus.
+\v 1Co.7.1
+E sobre as coisas que me escrevestes, bom é para o homem não tocar mulher.
+\v 1Co.7.2
+Mas por causa dos pecados sexuais, tenha cada um sua própria mulher, e cada uma tenha seu próprio marido.
+\v 1Co.7.3
+Que o marido satisfaça sua mulher como devido, e semelhantemente a mulher ao marido.
+\v 1Co.7.4
+A mulher não tem poder sobre seu próprio corpo, mas sim o marido; e também da mesma maneira o marido não tem poder sobre seu próprio corpo, mas sim a mulher.
+\v 1Co.7.5
+Não vos priveis um ao outro, a não ser por consentimento 
+\added
+de ambos
+\*added
+ por algum tempo, para que vos ocupeis com jejum, e para a oração; e voltai-vos outra vez a se juntarem, para que Satanás não vos tente, por causa de vossa falta de domínio próprio.
+\v 1Co.7.6
+Mas isto vos digo como permissão, não como mandamento.
+\v 1Co.7.7
+Porque eu queria que todos fossem como eu mesmo; mas cada um tem seu próprio dom de Deus, um de um jeito assim, e outro de um jeito diferente.
+\v 1Co.7.8
+Mas digo aos solteiros, e às viúvas que lhes é bom se permanecessem como eu estou.
+\v 1Co.7.9
+Mas se não podem se conter, casem-se; porque é melhor se casar do que se inflamar.
+\v 1Co.7.10
+Porém aos casados eu mando, não eu, mas o Senhor, que a mulher não se separe do marido.
+\v 1Co.7.11
+E se se separar, fique sem casar, ou se reconcilie com o marido; e que o marido não deixe a mulher.
+\v 1Co.7.12
+Mas aos outros digo eu, não o Senhor: se algum irmão tem mulher descrente, e ela consente em habitar com ele, não a deixe.
+\v 1Co.7.13
+E se alguma mulher tem marido descrente, e ele consente em habitar com ela, não o deixe.
+\v 1Co.7.14
+Porque o marido descrente é santificado pela mulher; e a mulher descrente é santificada pelo marido. Pois de outra maneira vossos filhos seriam impuros; porém agora são santos.
+\v 1Co.7.15
+Mas se o descrente se separar, separe-se 
+\added
+também
+\*added
+ . Em tal 
+\added
+situação
+\*added
+ o irmão ou a irmã não estão sujeitos à servidão; mas Deus vos chamou para a paz.
+\v 1Co.7.16
+Porque o que tu sabes, mulher, se salvarás ao marido? Ou o que tu sabes, marido, se salvarás a mulher?
+\v 1Co.7.17
+Porém cada um ande assim como Deus lhe repartiu, cada um como o Senhor o chamou; e assim ordeno em todas as igrejas.
+\v 1Co.7.18
+É alguém chamado, estando já circunciso? Não desfaça a circuncisão. É alguém chamado estando ainda incircunciso? Não se circuncide.
+\v 1Co.7.19
+A circuncisão nada vale, e a incircuncisão nada vale; mas 
+\added
+o que vale
+\*added
+ é a obediência aos mandamentos de Deus.
+\v 1Co.7.20
+Cada um fique no propósito em que foi chamado.
+\v 1Co.7.21
+Foste tu chamado sendo escravo? Não te preocupes com 
+\added
+isto
+\*added
+ ; mas se tu podes te tornares livre, aproveita.
+\v 1Co.7.22
+Porque o que foi chamado no Senhor enquanto era escravo, para o Senhor é livre; da mesma maneira também, o que foi chamado, sendo livre, se torna escravo de Cristo.
+\v 1Co.7.23
+Vós fostes comprados por alto preço; 
+\added
+portanto
+\*added
+ não vos façais escravos dos seres humanos.
+\v 1Co.7.24
+Irmãos, cada um continue com Deus 
+\added
+no estado
+\*added
+ em que foi chamado.
+\v 1Co.7.25
+E quanto às virgens, não tenho mandamento do Senhor; porém eu dou 
+\added
+minha
+\*added
+ opinião, dado que tenho recebido misericórdia do Senhor para que eu seja confiável.
+\v 1Co.7.26
+Considero pois isto como bom, por causa da necessidade atual, que é bom à pessoa continuar assim como está.
+\v 1Co.7.27
+Estás ligado à mulher, não busques se separar. Estás livre de mulher, não busques mulher.
+\v 1Co.7.28
+Mas se também te casares, não pecas; e se a virgem se casar, não peca. Porém os tais terão aflições na carne, que eu 
+\added
+gostaria
+\*added
+ de livrá-los.
+\v 1Co.7.29
+Porém digo isto, irmãos, porque o tempo que resta é breve; para que também os que tem mulheres, sejam como se não as tivessem;
+\v 1Co.7.30
+E os que choram, como se não chorassem; e os que se alegram, como se não se alegrassem; e os que compram, como se não possuíssem.
+\v 1Co.7.31
+E os que usam 
+\added
+das coisas
+\*added
+ deste mundo, como se 
+\added
+delas
+\*added
+ não abusassem; porque a aparência deste mundo é passageira.
+\v 1Co.7.32
+E eu queria que estivésseis sem preocupações. O solteiro se preocupa com as coisas do Senhor, como irá agradar ao Senhor;
+\v 1Co.7.33
+Porém o que é casado se preocupa com as coisas do mundo, como irá agradar à mulher.
+\v 1Co.7.34
+A mulher casada e a virgem são diferentes: a que está para casar tem preocupação com as coisas do Senhor, para ser santa, tanto de corpo como de Espírito; mas a casada tem preocupação com as coisas do mundo, como irá agradar ao marido.
+\v 1Co.7.35
+Porém digo isto para vosso próprio proveito; não para vos enlaçar, mas para 
+\added
+vos guiar
+\*added
+ ao que é decente, e servirem ao Senhor sem distração.
+\v 1Co.7.36
+Mas se alguém lhe parece que indecentemente trata com sua virgem, se ela passar da idade da juventude, e assim convier se fazer, que tal faça o que quiser, não peca, casem-se.
+\v 1Co.7.37
+Porém o que está firme em 
+\added
+seu
+\*added
+ coração, não tendo necessidade, mas tem poder sobre sua própria vontade, e isto decidiu em seu próprio coração, de guardar sua virgem, faz bem.
+\v 1Co.7.38
+Portanto, o que 
+\added
+a dá
+\*added
+ em casamento, faz bem; mas o que não a dá em casamento, faz melhor.
+\v 1Co.7.39
+A mulher casada está ligada pela Lei todo o tempo em que seu marido vive; mas se seu marido morrer, fica livre para se casar com quem quiser, contanto 
+\added
+que seja
+\*added
+ no Senhor.
+\v 1Co.7.40
+Porém mais bem-aventurada é, se assim continuar, segundo minha opinião. E também eu penso, que tenho o Espírito de Deus.
+\v 1Co.8.1
+E quanto às coisas sacrificadas aos ídolos, sabemos que todos temos conhecimento. O conhecimento incha 
+\added
+de orgulho
+\*added
+,mas o amor edifica.
+\v 1Co.8.2
+E se alguém acha saber alguma coisa, ainda nada conhece como se deve conhecer.
+\v 1Co.8.3
+Mas se alguém ama a Deus, o tal dele é conhecido.
+\v 1Co.8.4
+Portanto, quanto ao comer das coisas sacrificadas aos ídolos: sabemos que o ídolo nada é no mundo, e que não há qualquer outro Deus, a não ser um.
+\v 1Co.8.5
+Porque, ainda que também haja 
+\added
+alguns
+\*added
+ que se chamem deuses, seja no céu, seja na terra (como há muitos deuses e muitos senhores),
+\v 1Co.8.6
+Todavia para nós há 
+\added
+só
+\*added
+ um Deus, o Pai, do qual 
+\added
+são
+\*added
+ todas as coisas, e nós para ele; e um 
+\added
+só
+\*added
+ Senhor Jesus Cristo, pelo qual 
+\added
+são
+\*added
+ todas as coisas, e nós por ele.
+\v 1Co.8.7
+Mas não há em todos 
+\added
+este
+\*added
+ conhecimento; porém alguns até agora comem com consciência do ídolo, como se 
+\added
+fossem
+\*added
+ sacrificadas aos ídolos; e sendo sua consciência fraca, fica contaminada.
+\v 1Co.8.8
+Ora, a comida não nos faz agradáveis a Deus. Porque seja o que comamos, nada temos de mais; e seja o que não comamos, nada nos falta.
+\v 1Co.8.9
+Mas tomai cuidado para que esta vossa liberdade não seja de maneira alguma escândalo para os fracos.
+\v 1Co.8.10
+Porque se alguém vir a ti, que tens 
+\added
+este
+\*added
+ conhecimento, sentado 
+\added
+à mesa
+\*added
+ no templo dos ídolos, não será a consciência do que é fraco induzida a comer das coisas sacrificadas aos ídolos?
+\v 1Co.8.11
+E por causa de teu conhecimento, perecerá assim o irmão fraco, pelo qual Cristo morreu?
+\v 1Co.8.12
+Assim que, pecando contra os irmãos e ferindo sua fraca consciência, pecais contra Cristo.
+\v 1Co.8.13
+Portanto, se a comida escandalizar a meu irmão, nunca mais comerei carne, para que eu não escandalize a meu irmão.
+\v 1Co.9.1
+Não sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo nosso Senhor? Não sois vós minha obra no Senhor?
+\v 1Co.9.2
+Se para os outros não sou apóstolo, ao menos para vós eu o sou; porque vós sois o selo de meu apostolado no Senhor.
+\v 1Co.9.3
+Esta é a minha defesa para com os que me condenam.
+\v 1Co.9.4
+Não temos nós poder de comer e de beber?
+\v 1Co.9.5
+Não temos nós direito de trazer 
+\added
+conosco
+\*added
+ uma mulher irmã, como também os demais apóstolos, e os irmãos do Senhor, e Cefas?
+\v 1Co.9.6
+Ou só eu, e Barnabé, não temos direito de não trabalhar?
+\v 1Co.9.7
+Quem vai para a guerra a seu próprio custo? Quem planta a vinha, e não come do seu fruto? Ou quem apascenta o gado, e não come do leite do gado?
+\v 1Co.9.8
+Digo eu isto segundo a lógica humana? Ou não diz a Lei também o mesmo?
+\v 1Co.9.9
+Porque na Lei de Moisés está escrito: ao boi que trilha não atarás a boca. Por acaso Deus tem preocupação com os bois?
+\v 1Co.9.10
+Ou totalmente diz por nós? Porque por nós isto está escrito; porque o que lavra, com esperança deve lavrar; e o que trilha com esperança, de sua esperança 
+\added
+deve
+\*added
+ ser participante.
+\v 1Co.9.11
+Se nós vos semeamos as coisas espirituais, é muito que ceifemos as vossas 
+\added
+coisas
+\*added
+ carnais?
+\v 1Co.9.12
+Se outros são participantes deste poder sobre vós, 
+\added
+porque
+\*added
+ não tanto mais nós? Mas nós não usamos deste poder; antes tudo suportamos, para não darmos impedimento algum ao Evangelho de Cristo.
+\v 1Co.9.13
+Não sabeis vós, que os que administram as coisas sagradas, comem 
+\added
+daquilo que é
+\*added
+ sagrado? E os que continuamente estão junto ao altar, com o altar participam?
+\v 1Co.9.14
+Assim também ordenou o Senhor, aos que anunciam o Evangelho, que vivam do Evangelho.
+\v 1Co.9.15
+Porém eu de nenhuma destas coisas usei; e nem isto escrevi, para que assim se faça comigo; porque melhor me seria morrer, do que esvaecer este meu orgulho.
+\v 1Co.9.16
+Porque se anunciar o Evangelho, para mim não é orgulho, pois a obrigação me é imposta. E ai de mim, se não anunciar o Evangelho!
+\v 1Co.9.17
+Porque se eu faço de boa mente, tenho recompensa; mas se eu fizer de má vontade, a responsabilidade me é confiada.
+\v 1Co.9.18
+Então que recompensa tenho? Que evangelizando, proponha o Evangelho de Cristo sem receber nada de volta, para não abusar do meu poder no Evangelho.
+\v 1Co.9.19
+Porque, estando eu livre de todos, me fiz servo de todos, para ganhar 
+\added
+ainda
+\*added
+ mais.
+\v 1Co.9.20
+E me fiz como judeu para os judeus, para ganhar aos judeus; como que estivesse debaixo da Lei,
+ para os que estão debaixo da Lei, para ganhar aos que estão debaixo da Lei.
+\v 1Co.9.21
+Ao que estão sem Lei, como se estivesse sem Lei ( 
+\added
+porém
+\*added
+ não estando sem Lei para com Deus; mas para com Cristo debaixo da Lei), para ganhar os que estão sem Lei.
+\v 1Co.9.22
+Me fiz de fraco para os fracos, para ganhar aos fracos; tudo me fiz para todos, para por todos os meios vir a salvar a alguns.
+\v 1Co.9.23
+E isto eu faço por causa do Evangelho, para que eu também dele seja participante.
+\v 1Co.9.24
+Não sabeis vós que os que correm nas competições, realmente todos correm, mas somente um leva o prêmio? Correi de tal maneira, que o alcanceis.
+\v 1Co.9.25
+E todo aquele que luta, tenha domínio próprio sobre tudo. Pois aqueles fazem para receber uma coroa corruptível, porém nós 
+\added
+para
+\*added
+ uma incorruptível.
+\v 1Co.9.26
+Então assim eu corro, não como 
+\added
+para um lugar
+\*added
+ incerto; assim luto, não como que dando socos no ar.
+\v 1Co.9.27
+Em vez disso, eu subjugo meu corpo, e o reduzo à servidão, para que quando estiver pregando para os outros, eu mesmo não seja reprovado.
+\v 1Co.10.1
+Ora, irmãos, eu não quero que ignoreis que todos os nossos pais estiveram debaixo da nuvem, e todos pelo mar passaram;
+\v 1Co.10.2
+E todos foram batizados na nuvem e no mar em Moisés;
+\v 1Co.10.3
+E todos comeram de um mesmo alimento espiritual;
+\v 1Co.10.4
+E todos beberam de uma mesma bebida espiritual; porque bebiam da pedra espiritual que 
+\added
+os
+\*added
+ seguia; e a pedra era Cristo.
+\v 1Co.10.5
+Mas da maioria deles Deus não se agradou; por isso foram deixados no deserto.
+\v 1Co.10.6
+E estas coisas nos servem de exemplos, para que não desejemos coisas ruins, como eles desejaram.
+\v 1Co.10.7
+E não sejais idólatras, como alguns deles 
+\added
+foram
+\*added
+,como está escrito: O povo se sentou para comer, e para beber, e levantaram-se para se alegrarem.
+\v 1Co.10.8
+E não pequemos sexualmente, como alguns deles assim pecaram, e em um dia vinte e três mil caíram.
+\v 1Co.10.9
+E não tentemos a Cristo, como também alguns deles tentaram, e pereceram pelas serpentes.
+\v 1Co.10.10
+E não murmureis, como também alguns deles murmuraram, e pereceram pelo destruidor.
+\v 1Co.10.11
+E todas estas coisas lhes aconteceram como exemplos, e estão escritas para nosso aviso, em quem os fins dos tempos têm chegado.
+\v 1Co.10.12
+Portanto, aquele que pensa estar de pé, olhe para que não caia.
+\v 1Co.10.13
+Nenhuma tentação vos veio, que não fosse humana; porém Deus é fiel; que não vos deixará tentar mais do que o que podeis, antes com a tentação também dará a saída, para que a possais suportar.
+\v 1Co.10.14
+Portanto, meus amados, fugi da idolatria.
+\v 1Co.10.15
+Eu vos falo como que para prudentes; jugai vós 
+\added
+mesmos
+\*added
+ o que eu digo.
+\v 1Co.10.16
+Por acaso o copo da bênção, que nós bendizemos, não é a comunhão do sangue de Cristo? O pão que partimos, não é a comunhão do corpo de Cristo?
+\v 1Co.10.17
+Porque 
+\added
+assim como há
+\*added
+ um 
+\added
+só
+\*added
+ pão, nós muitos somos um 
+\added
+só
+\*added
+ corpo; porque todos participamos de um 
+\added
+só
+\*added
+ pão.
+\v 1Co.10.18
+Vede a Israel segundo a carne: por acaso os que comem os sacrifícios não são participantes do altar?
+\v 1Co.10.19
+Então o que eu digo? Que o ídolo é alguma coisa? Ou que o sacrifício ao ídolo seja alguma coisa?
+\v 1Co.10.20
+Mas eu digo, que as coisas que os gentios sacrificam, são sacrificadas para os demônios, e não a Deus. E não quero que sejais participantes dos demônios.
+\v 1Co.10.21
+Não podeis beber o copo do Senhor e o copo dos demônios; não podeis ser participantes da mesa do Senhor e da mesa dos demônios.
+\v 1Co.10.22
+\added
+Tentamos
+\*added
+ provocar ciúmes ao Senhor? Somos nós mais fortes que ele?
+\v 1Co.10.23
+Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são licitas, mas nem todas as coisas edificam.
+\v 1Co.10.24
+Ninguém busque para si próprio, antes cada um 
+\added
+busque o bem
+\*added
+ do outro.
+\v 1Co.10.25
+De tudo o que se vende no açougue, comei, sem vos questionar por causa da consciência.
+\v 1Co.10.26
+Porque a terra é do Senhor, e 
+\added
+também
+\*added
+ sua plenitude.
+\v 1Co.10.27
+E se alguém dos descrentes vos convidar, e quiserdes ir, comei de tudo o que for posto diante de vós, sem vos questionar por causa da consciência.
+\v 1Co.10.28
+Mas se alguém vos disser: “Isto é sacrifício a ídolos”, não comais, por causa daquele que 
+\added
+vos
+\*added
+ advertiu, e 
+\added
+por causa
+\*added
+ da consciência. Porque a terra e sua plenitude pertencem ao Senhor.
+\v 1Co.10.29
+Mas digo da consciência do outro, não a tua. Por que, então, minha liberdade é julgada pela consciência do outro?
+\v 1Co.10.30
+E se eu participo 
+\added
+da comida
+\*added
+ pela graça, por que sou ofendido naquilo que dou graças?
+\v 1Co.10.31
+Portanto, ao comer, ou ao beber, ou ao fazer qualquer coisa, fazei tudo para a glória de Deus.
+\v 1Co.10.32
+Sede sem escândalo, nem a judeus, nem a gregos, nem à Igreja de Deus.
+\v 1Co.10.33
+Assim como eu também agrado a todos em tudo, não buscando meu próprio proveito, mas sim o de muitos, para que assim possam se salvar.
+\v 1Co.11.1
+Sede meus imitadores, assim como eu também sou de Cristo.
+\v 1Co.11.2
+Eu vos louvo, irmãos, de que em tudo vos lembrais de mim, e retendes 
+\added
+minhas
+\*added
+ ordens, assim como eu vos entreguei.
+\v 1Co.11.3
+Mas quero que saibais, que a cabeça de todo homem é Cristo; e a cabeça da mulher é o homem; e a cabeça de Cristo é Deus.
+\v 1Co.11.4
+Todo homem que ora ou profetiza, tendo 
+\added
+alguma coisa
+\*added
+ sobre a cabeça, desonra sua própria cabeça.
+\v 1Co.11.5
+Mas toda mulher que ora ou profetiza com a cabeça descoberta, desonra sua própria cabeça; porque é o mesmo que se a tivesse raspada.
+\v 1Co.11.6
+Porque se a mulher não se cobre, raspe-se também; mas se para a mulher é vergonhoso se cortar ou se raspar, que se cubra.
+\v 1Co.11.7
+Porque o homem não deve cobrir a cabeça, pois é a imagem e a glória de Deus; mas a mulher é a glória do homem.
+\v 1Co.11.8
+Porque o homem não provem da mulher, mas sim a mulher do homem.
+\v 1Co.11.9
+Porque também o homem não foi criado por causa da mulher, mas a mulher 
+\added
+foi criada
+\*added
+ por causa do homem.
+\v 1Co.11.10
+Portanto a mulher deve ter sobre a cabeça sinal de autoridade, por causa dos anjos.
+\v 1Co.11.11
+Porém, nem o homem é sem a mulher, nem a mulher sem o homem, no Senhor.
+\v 1Co.11.12
+Porque assim como a mulher vem do homem, assim também é o homem pela mulher; porém tudo 
+\added
+vem
+\*added
+ de Deus.
+\v 1Co.11.13
+Julgai-vos entre vós mesmos: é decente que a mulher ore a Deus descoberta?
+\v 1Co.11.14
+Ou não vos ensina a mesma natureza, que ter cabelo longo é desonra para o homem?
+\v 1Co.11.15
+Mas a mulher ter cabelo longo, lhe é honra, porque os cabelos lhe são dados por cobertura?
+\v 1Co.11.16
+Porém se alguém parece ser inclinado a disputas, nós não temos tal costume, nem as igrejas de Deus.
+\v 1Co.11.17
+Mas isto eu vos declaro, que não vos louvo, porque vós vos ajuntais, não para melhor, mas para pior.
+\v 1Co.11.18
+Porque, em primeiro lugar, eu ouço que, quando vos ajuntais, há divisões entre vós; e em parte eu acredito.
+\v 1Co.11.19
+Porque é necessário que haja diferenças de opinião
+\fn
+\key
+diferenças de opinião
+\*key
+ou: facções. Tradicionalmente: heresias
+\*fn
+ entre vós, para que os que são aprovados sejam evidenciados entre vós.
+\v 1Co.11.20
+Quando, pois, vós vos reunis, não é para comer da ceia do Senhor;
+\v 1Co.11.21
+Porque cada um, comendo antes, toma sua própria ceia; e um fica com fome, e outro fica bêbado.
+\v 1Co.11.22
+Por acaso não tendes casas para comer e para beber? Ou desprezais a Igreja de Deus, e envergonhais os que não têm? Que vos direi? Eu vos elogiarei? Nisto eu não 
+\added
+vos
+\*added
+ elogio.
+\v 1Co.11.23
+Porque eu recebi do Senhor o que também vos entreguei; que o Senhor Jesus, na noite em que foi traído, tomou o pão;
+\v 1Co.11.24
+E tendo dado graças, o partiu, e disse: Tomai, comei; isto é o meu corpo, que é partido por vós; fazei isto em memória de mim.
+\v 1Co.11.25
+Semelhantemente também, depois de cear, 
+\added
+tomou
+\*added
+ o copo, dizendo: Este copo é o novo Testamento em meu sangue. Fazei isto todas as vezes que 
+\added
+o
+\*added
+ beberdes, em memória de mim.
+\v 1Co.11.26
+Porque todas as vezes que comerdes deste pão, e beberdes deste copo, anunciai a morte do Senhor, até que ele venha.
+\v 1Co.11.27
+Portanto quem comer deste pão, ou beber deste copo do Senhor indignamente, será culpado do corpo e do sangue do Senhor.
+\v 1Co.11.28
+Portanto examine-se cada um a si mesmo, e assim coma deste pão, e beba deste copo.
+\v 1Co.11.29
+Porque quem come e bebe indignamente, para si mesmo come e bebe condenação, não discernindo o corpo do Senhor.
+\v 1Co.11.30
+Por esta causa há entre vós muitos fracos e doentes, e muitos que dormem.
+\fn
+Isto é, muitos que morrem
+\*fn
+\v 1Co.11.31
+Porque se nós julgássemos a nós mesmos, não seríamos julgados.
+\v 1Co.11.32
+Mas quando somos julgados, somos repreendidos pelo Senhor; para que não sejamos condenados com o mundo.
+\v 1Co.11.33
+Portanto, meus irmãos, quando vos ajuntardes para comer, esperai uns aos outros.
+\v 1Co.11.34
+Porém se alguém tiver fome, coma em casa; para que não vos ajunteis para 
+\added
+sofrerdes
+\*added
+ julgamento. Quanto às demais coisas, as ordenarei quando vier.
+\v 1Co.12.1
+E quanto aos 
+\added
+dons
+\*added
+ espirituais, irmãos, não quero que sejais ignorantes.
+\v 1Co.12.2
+Vós sabeis que éreis gentios, vós vos desviáveis para os ídolos mudos, conforme éreis guiados.
+\v 1Co.12.3
+Por isso eu vos deixo claro que ninguém que fala pelo Espírito de Deus chama a Jesus de maldito;
+\fn
+equiv. anátema
+\*fn
+ e ninguém pode dizer 
+\added
+que
+\*added
+ Jesus 
+\added
+é
+\*added
+ o Senhor, a não ser pelo Espírito Santo.
+\v 1Co.12.4
+E há variedade de dons, mas o Espírito é o mesmo.
+\v 1Co.12.5
+E há variedade de trabalhos 
+\added
+na Igreja
+\*added
+,mas o Senhor é o mesmo.
+\v 1Co.12.6
+E há variedade de operações, mas é o mesmo Deus que opera tudo em todos.
+\v 1Co.12.7
+Mas a cada um é dada a manifestação do Espírito, para o que for conveniente.
+\v 1Co.12.8
+Porque a um é dada, pelo Espírito, palavra de sabedoria; e a outro palavra de conhecimento, pelo mesmo Espírito.
+\v 1Co.12.9
+e a outro fé pelo mesmo Espírito; e a outro dons de curas, pelo mesmo Espírito.
+\v 1Co.12.10
+E a outro operações de milagres; e a outro profecia; e a outro o 
+\added
+dom de
+\*added
+ discernir aos espíritos; e a outro variedade de línguas; e a outro interpretação de línguas.
+\v 1Co.12.11
+Mas todas estas coisas 
+\added
+quem
+\*added
+ opera 
+\added
+é
+\*added
+ um e o mesmo Espírito, repartindo particularmente a cada um como quer.
+\v 1Co.12.12
+Porque assim como o corpo é um, e tem muitos membros, e todos os membros deste único corpo, sendo muitos, compõem um só corpo; assim também é Cristo.
+\v 1Co.12.13
+Porque também todos nós somos batizados em um 
+\added
+só
+\*added
+ Espírito, para um 
+\added
+só
+\*added
+ corpo, quer judeus, quer gregos, quer servos, quer livres; e para todos nós foi dado de beber um 
+\added
+só
+\*added
+ Espírito.
+\v 1Co.12.14
+Porque também o corpo não é um 
+\added
+só
+\*added
+ membro, mas muitos.
+\v 1Co.12.15
+Se o pé disser: Por eu não ser mão, não sou do corpo;Por isso, ele não é do corpo?
+\v 1Co.12.16
+E se a orelha disser: Por eu não ser olho, não sou do corpo;Por isso, ela não é do corpo?
+\v 1Co.12.17
+Se todo o corpo fosse olho, onde 
+\added
+estaria
+\*added
+ o ouvido? Se 
+\added
+fosse
+\*added
+ todo ouvido, onde 
+\added
+estaria
+\*added
+ o olfato?
+\v 1Co.12.18
+Mas agora Deus pôs os membros no corpo, a cada qual deles como ele quis.
+\v 1Co.12.19
+Porque se todos fossem um 
+\added
+só
+\*added
+ membro, onde 
+\added
+estaria
+\*added
+ o corpo?
+\v 1Co.12.20
+Mas há agora muitos membros, porém um 
+\added
+só
+\*added
+ corpo.
+\v 1Co.12.21
+E o olho não pode dizer à mão: Não tenho necessidade de ti;Nem a cabeça aos pés: Não tenho necessidade de vós;
+\v 1Co.12.22
+Antes até os membros do corpo que 
+\added
+nos
+\*added
+ parecem ser os mais fracos, são muito mais necessários.
+\v 1Co.12.23
+E os que pensamos serem os menos honrados do corpo, a esses muito mais honramos; e os nossos mais desprezíveis têm muito mais respeito.
+\v 1Co.12.24
+Porém os nosso mais respeitáveis não têm 
+\added
+tanta
+\*added
+ necessidade; mas 
+\added
+assim
+\*added
+ Deus juntou o corpo, dando muito mais honra ao que tinha falta 
+\added
+dela
+\*added
+.
+\v 1Co.12.25
+Para que não haja divisão no corpo, mas que os membros tenham igual cuidado uns com os outros.
+\v 1Co.12.26
+E seja que, 
+\added
+caso
+\*added
+ um membro sofra, 
+\added
+também
+\*added
+ os membros sofrem juntos; e 
+\added
+caso
+\*added
+ um membro seja honrado, todos os membros se alegram juntos.
+\v 1Co.12.27
+E vós sois o corpo de Cristo, e membros em particular.
+\v 1Co.12.28
+E Deus pôs a uns na Igreja: em primeiro lugar apóstolos, em segundo profetas, em terceiro mestres; depois milagres, dons de curas, socorros, lideranças, variedades de línguas.
+\v 1Co.12.29
+Por acaso são todos apóstolos? São todos profetas? São todos mestres? São todos com dons de milagres?
+\v 1Co.12.30
+Tem todos dons de curas? Falam todos 
+\added
+várias
+\*added
+ línguas? Interpretam todos?
+\v 1Co.12.31
+Porém desejai com zelo pelos melhores dons; e eu vos mostro um caminho ainda mais excelente.
+\v 1Co.13.1
+Ainda que eu falasse as línguas dos seres humanos e dos anjos, e não tivesse amor, seria como o metal que soa, ou como o sino que retine.
+\v 1Co.13.2
+E ainda que tivesse 
+\added
+o dom
+\*added
+ de profecia, e soubesse todos os mistérios, e todo o conhecimento; e ainda que tivesse toda a fé, de tal maneira que movesse os montes de lugar, e não tivesse amor, nada seria.
+\v 1Co.13.3
+E ainda que eu distribuísse todos os meus bens para alimentar 
+\added
+aos pobres
+\*added
+, e ainda que entregasse meu corpo para ser queimado, e não tivesse amor, nada me aproveitaria.
+\v 1Co.13.4
+O amor é paciente, é bondoso; o amor não é invejoso; o amor não é orgulhoso, não é arrogante.
+\v 1Co.13.5
+O amor não trata mal; não busca os próprios 
+\added
+interesses
+\*added
+, não se ira, não é rancoroso.
+\v 1Co.13.6
+Não se alegra com a injustiça, mas se alegra com a verdade.
+\v 1Co.13.7
+Tudo aguenta, tudo crê, tudo espera, tudo suporta.
+\v 1Co.13.8
+O amor nunca falha. Porém as profecias serão aniquiladas; as línguas acabarão, e o conhecimento será aniquilado.
+\v 1Co.13.9
+Porque em parte conhecemos, e em parte profetizamos;
+\v 1Co.13.10
+Mas quando vier o 
+\added
+que é
+\*added
+ perfeito, então o que é em parte será aniquilado.
+\v 1Co.13.11
+Quando eu era menino, falava como menino, sentia como menino, pensava como menino; mas quando me tornei homem, aniquilei as coisas de menino.
+\v 1Co.13.12
+Porque agora vemos por espelho em enigma, mas então 
+\added
+veremos
+\*added
+ face a face; agora conheço em parte, mas então conhecerei assim como sou conhecido.
+\v 1Co.13.13
+E agora continuam a fé, a esperança, 
+\added
+e
+\*added
+ o amor, estes três; porém o maior destes é o amor.
+\v 1Co.14.1
+Segui o amor, e desejai com zelo pelos 
+\added
+dons
+\*added
+ espirituais; porém principalmente que profetizeis.
+\v 1Co.14.2
+Porque o que fala língua 
+\added
+estranha
+\*added
+,não fala aos seres humanos, mas sim a Deus; porque ninguém 
+\added
+o
+\*added
+ entende, mas em espírito fala mistérios.
+\v 1Co.14.3
+Mas o que profetiza, fala aos seres humanos 
+\added
+para
+\*added
+ edificação, convencimento, e consolação.
+\v 1Co.14.4
+O que fala língua 
+\added
+estranha
+\*added
+ edifica a si mesmo; mas o que profetiza edifica à igreja.
+\v 1Co.14.5
+E eu quero que todos vós faleis línguas, porém mais 
+\added
+ainda
+\*added
+ que profetizeis; porque o que profetiza é maior que o que fala línguas, a não ser que 
+\added
+também
+\*added
+ interprete, para que a igreja receba edificação.
+\v 1Co.14.6
+E agora irmãos, se eu viesse até vos falando línguas, o que vos aproveitaria, se não vos falasse ou por revelação, ou por conhecimento, ou por profecia, ou por doutrina?
+\v 1Co.14.7
+E até as coisas inanimadas, que produzem som, seja flauta, seja harpa, se não derem distinção de sons, como saberá o que se toca com a flauta, ou com a harpa?
+\v 1Co.14.8
+Porque também se a trombeta der som incerto, quem se preparará para a guerra?
+\v 1Co.14.9
+Assim 
+\added
+mesmo
+\*added
+ também vós, se com a língua não derdes palavra compreensível, como se entenderá o que se diz? Porque estareis falando para o ar.
+\v 1Co.14.10
+Por exemplo, há tantos tipos de vozes no mundo, e nenhuma delas é muda.
+\v 1Co.14.11
+Portanto, se eu não souber o propósito da voz, serei estrangeiro para o que fala, e o que fala será estrangeiro para mim.
+\v 1Co.14.12
+Assim também vós, dado que desejais os dons espirituais, procurai 
+\added
+neles
+\*added
+ abundar, para edificação da igreja.
+\v 1Co.14.13
+Portanto, o que fala em língua 
+\added
+estranha
+\*added
+,ore para que possa interpretar.
+\v 1Co.14.14
+Porque se eu orar em língua 
+\added
+estranha
+\*added
+,meu espírito ora, mas meu entendimento fica sem fruto.
+\v 1Co.14.15
+Então é o que? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento.
+\v 1Co.14.16
+De outra maneira, se tu bendisseres com o espírito, como aquele que não tem conhecimento dirá amém por teu bendizer? Pois ele não sabe o que tu dizes.
+\v 1Co.14.17
+Porque em verdade tu bem dás graças; mas o outro não é edificado.
+\v 1Co.14.18
+Graças dou a meu Deus, que mais línguas falo que todos vós.
+\v 1Co.14.19
+Porém eu quero 
+\added
+mais
+\*added
+ falar na igreja cinco palavras com meu entendimento, para que eu também possa instruir aos outros, do que dez mil palavras em língua 
+\added
+estranha
+\*added
+.
+\v 1Co.14.20
+Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia, e adultos no entendimento.
+\v 1Co.14.21
+Na Lei está escrito: A este povo falarei por gente de outras línguas, e por outros lábios; e ainda assim não me ouvirão, diz o Senhor.
+\v 1Co.14.22
+Então as línguas 
+\added
+estranhas
+\*added
+ são por sinal, não para os que creem, mas para os que não creem; e a profecia não é para os que não creem, mas para os que creem.
+\v 1Co.14.23
+Pois se toda a igreja se reunir, e todos falarem línguas 
+\added
+estranhas
+\*added
+, e entrarem alguns sem entendimento ou descrentes, não dirão que estais loucos?
+\v 1Co.14.24
+Mas se todos profetizarem, e algum sem entendimento ou descrente entrar, por todos é convencido, 
+\added
+e
+\*added
+ por todos é julgado.
+\v 1Co.14.25
+E assim os segredos de seu coração ficam manifestos, e assim, lançando-se sobre 
+\added
+seu
+\*added
+ rosto, adorará a Deus, reconhecendo publicamente que Deus está entre vós.
+\v 1Co.14.26
+Então o que há, irmãos? Quando vos reunis, tem cada um de vós salmo, tem doutrina, tem língua 
+\added
+estranha
+\*added
+,tem revelação, tem interpretação, tudo se faça para edificação.
+\v 1Co.14.27
+E se alguém falar em língua 
+\added
+estranha
+\*added
+, 
+\added
+sejam
+\*added
+ dois, ou no máximo três, e alternando-se, e um que interprete.
+\v 1Co.14.28
+Mas se não houver intérprete, cale-se na igreja, fale porém consigo mesmo, e com Deus.
+\v 1Co.14.29
+E falem dois ou três profetas, e os outros julguem.
+\v 1Co.14.30
+Mas se a outro, que estiver sentada, for revelada 
+\added
+alguma coisa
+\*added
+, cale-se o primeiro.
+\v 1Co.14.31
+Porque todos vós podeis profetizar, um após o outro, para que todos aprendam, e sejam todos fortalecidos.
+\v 1Co.14.32
+E os espíritos dos profetas estão sujeitos aos profetas.
+\v 1Co.14.33
+Porque Deus não é de confusão, mas de paz, como em todas as igrejas dos santos.
+\v 1Co.14.34
+Vossas mulheres fiquem caladas nas igrejas; porque não lhes é permitido falar, mas 
+\added
+que
+\*added
+ estejam sujeitas, como também a Lei o diz.
+\v 1Co.14.35
+E se quiserem aprender alguma coisa, perguntem a seus próprios maridos em casa; porque é impróprio as mulheres falarem na igreja.
+\v 1Co.14.36
+Por acaso a palavra de Deus saiu de vós? Ou ela somente chegou a vós?
+\v 1Co.14.37
+Se alguém pensa ser profeta, ou espiritual, reconheça que as coisas que escrevo são mandamento do Senhor.
+\v 1Co.14.38
+Porém se alguém ignora, que ignore.
+\v 1Co.14.39
+Portanto, irmãos, desejai com zelo profetizar, e não impeçais o falar línguas 
+\added
+estranhas
+\*added
+.
+\v 1Co.14.40
+Fazei tudo decentemente e com ordem.
+\v 1Co.15.1
+Também irmãos, eu vos declaro o Evangelho, que já vos tenho anunciado, o qual também recebestes, no qual também estais.
+\v 1Co.15.2
+Pelo qual também sois salvos, se retiverdes a palavra naquela maneira, em que eu vos tenho anunciado; a não ser se tenhais crido em vão.
+\v 1Co.15.3
+Porque primeiramente vos entreguei o que também recebi, que Cristo morreu por nossos pecados, segundo as Escrituras;
+\v 1Co.15.4
+E que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras;
+\v 1Co.15.5
+E que foi visto por Cefas, depois pelos doze.
+\v 1Co.15.6
+Depois foi visto de uma fez por mais de quinhentos irmãos, dos quais a maioria 
+\added
+ainda
+\*added
+ vive, e também alguns já dormem.
+\fn
+Isto é, alguns já morreram
+\*fn
+\v 1Co.15.7
+Depois foi visto por Tiago; depois por todos os apóstolos.
+\v 1Co.15.8
+E por último de todos também foi visto por mim, como que a um nascido fora do tempo.
+\v 1Co.15.9
+Porque eu sou o menor dos apóstolos, que não sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
+\v 1Co.15.10
+Mas pela graça de Deus sou o que sou; e sua graça 
+\added
+concedida
+\*added
+ a mim não foi vã; ao invés disso trabalhei muito mais que todos eles; porém não eu, mas a graça de Deus que está comigo.
+\v 1Co.15.11
+Portanto, seja eu, sejam eles, assim pregamos, e assim crestes.
+\v 1Co.15.12
+E se é pregado que Cristo ressuscitou dos mortos, como dizem alguns dentre vós, que não há ressurreição dos mortos?
+\v 1Co.15.13
+E se não há ressurreição dos mortos, 
+\added
+então
+\*added
+ Cristo não ressuscitou.
+\v 1Co.15.14
+E se Cristo não ressuscitou, então é vã nossa pregação, e vã também é vossa fé.
+\v 1Co.15.15
+E assim também somos encontrados como falsas testemunhas de Deus; pois testemunhamos de Deus, que ressuscitou a Cristo, ao qual 
+\added
+porém
+\*added
+ não ressuscitou, se na verdade os mortos não ressuscitam.
+\v 1Co.15.16
+Porque se os mortos não ressuscitam, 
+\added
+então
+\*added
+ Cristo também não ressuscitou.
+\v 1Co.15.17
+E se Cristo não ressuscitou, vossa fé é vá, 
+\added
+e
+\*added
+ ainda estais em vossos pecados.
+\v 1Co.15.18
+Portanto também pereceram os que dormiram em Cristo.
+\v 1Co.15.19
+Se nesta vida esperamos somente em Cristo, somos os mais miseráveis de todas as pessoas.
+\v 1Co.15.20
+Mas de fato Cristo ressuscitou dos mortos, 
+\added
+e
+\*added
+ foi feito as primícias dos que dormiram.
+\v 1Co.15.21
+Pois dado que a morte 
+\added
+veio
+\*added
+ por um homem, também por um homem 
+\added
+veio
+\*added
+ a ressurreição dos mortos.
+\v 1Co.15.22
+Porque assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
+\v 1Co.15.23
+Mas cada um em sua ordem; Cristo, as primícias; depois os que são de Cristo, em sua vinda.
+\v 1Co.15.24
+Depois será o fim, quando entregar o Reino de Deus e ao Pai, quando aniquilar todo domínio, e toda autoridade e poder.
+\v 1Co.15.25
+Porque convém que ele reine, até que tenha posto todos os inimigos debaixo de seus pés.
+\v 1Co.15.26
+O último inimigo, que será aniquilado, 
+\added
+é
+\*added
+ a morte.
+\v 1Co.15.27
+Porque ele sujeitou todas as coisas debaixo de seus pés. Porém quando diz que todas as coisas 
+\added
+lhe
+\*added
+ estão sujeitas, está claro que se excetua aquele que todas as coisas lhe sujeitou.
+\v 1Co.15.28
+E quando todas as coisas lhe forem sujeitas, então também o mesmo Filho se sujeitará a aquele, que todas as coisas lhe sujeitou, para que Deus seja tudo em todos.
+\v 1Co.15.29
+De outra maneira, que farão os que se batizam pelos mortos, se totalmente os mortos não ressuscitam? Por que, então, se batizam pelos mortos?
+\v 1Co.15.30
+Por que também nós à toda hora estamos em perigo?
+\v 1Co.15.31
+A cada dia eu morro pelo orgulho que tenho por vós, em Cristo Jesus nosso Senhor.
+\v 1Co.15.32
+Se por motivo humano lutei contra feras em Éfeso, qual é o meu proveito? Se os mortos não ressuscitam, comamos e bebamos, que amanhã morreremos.
+\v 1Co.15.33
+Não erreis. As más companhias corrompem os bons costumes.
+\v 1Co.15.34
+Despertai para a justiça, e não pequeis; porque alguns 
+\added
+ainda
+\*added
+ não têm o conhecimento de Deus. Eu digo isto para vossa vergonha.
+\v 1Co.15.35
+Mas alguém dirá: Como ressuscitarão os mortos? E com que corpo virão?
+\v 1Co.15.36
+Louco, o que tu semeias não é vivificado, se 
+\added
+primeiro
+\*added
+ não morrer.
+\v 1Co.15.37
+E o que semeias, não semeias o corpo que irá brotar, mas o grão nu, como o de trigo, ou de qualquer outro 
+\added
+grão
+\*added
+ .
+\v 1Co.15.38
+Mas Deus lhe dá o corpo como quer, e a cada semente seu próprio corpo.
+\v 1Co.15.39
+Toda carne não é a mesma carne; mas uma é a carne humana, e outra a carne dos animais, e outra a dos peixes, e outra a das aves.
+\v 1Co.15.40
+E há corpos celestiais, e corpos terrestres; mas uma é a glória dos celestiais, e outra a dos terrestres.
+\v 1Co.15.41
+Outra é a glória do Sol, e outra a glória da Lua, e outra a glória das estrelas; porque 
+\added
+uma
+\*added
+ estrela difere em glória 
+\added
+de outra
+\*added
+ estrela.
+\v 1Co.15.42
+Assim também será a ressurreição dos mortos. Semeia-se 
+\added
+o corpo
+\*added
+ em corrupção, ressuscitará em incorrupção.
+\v 1Co.15.43
+Semeia-se em desonra, ressuscitará em glória. Semeia-se em fraqueza, ressuscitará em força.
+\v 1Co.15.44
+Semeia-se corpo natural, ressuscitará corpo espiritual. Há corpo animal, e há corpo espiritual.
+\v 1Co.15.45
+Assim também está escrito: O primeiro homem, Adão, foi feito em alma vivente;O último Adão em espírito vivificante.
+\v 1Co.15.46
+Mas não é primeiro o espiritual; mas sim o carnal, depois o espiritual.
+\v 1Co.15.47
+O primeiro homem da terra 
+\added
+é
+\*added
+ terrestre; o segundo homem, 
+\added
+que é
+\*added
+ o Senhor, 
+\added
+é
+\*added
+ do Céu.
+\v 1Co.15.48
+Assim como 
+\added
+é
+\*added
+ o terrestre, também 
+\added
+são
+\*added
+ os terrestres; e assim como 
+\added
+é
+\*added
+ o celestial, também 
+\added
+são
+\*added
+ os celestiais.
+\v 1Co.15.49
+E assim como trouxemos a imagem do terrestre, assim também traremos a imagem do celestial.
+\v 1Co.15.50
+Porém isto digo, irmãos, que a carne e o sangue não podem herdar o Reino de Deus, nem a corrupção herda a incorrupção.
+\v 1Co.15.51
+eis que eu vos digo um mistério: nem todos em verdade dormiremos; porém todos seremos transformados.
+\v 1Co.15.52
+Em um momento, em um piscar de olhos, à ultima trombeta; porque a trombeta soará, e os mortos ressuscitarão incorruptíveis, e nós seremos transformados.
+\v 1Co.15.53
+Porque é necessário que este 
+\added
+corpo
+\*added
+ corruptível vista a incorrupção, e este 
+\added
+corpo
+\*added
+ mortal vista a imortalidade.
+\v 1Co.15.54
+E quando este 
+\added
+corpo
+\*added
+ se vestir de incorrupção, e este 
+\added
+corpo
+\*added
+ mortal se vestir de imortalidade, então se cumprirá a palavra que está escrita: Na vitória, a morte é tragada.
+\v 1Co.15.55
+Onde está, ó morte, o teu aguilhão? Onde está, ó mundo dos mortos, a tua vitória?
+\v 1Co.15.56
+O aguilhão da morte é o pecado, e a força do pecado é a Lei.
+\v 1Co.15.57
+Mas graças a Deus, que nos dá vitória por meio do nosso Senhor Jesus Cristo.
+\v 1Co.15.58
+Portanto, meus amados irmãos, sede firmes, imóveis 
+\added
+e
+\*added
+ sempre abundantes na obra do Senhor, sabendo que o vosso trabalho não é vão no Senhor.
+\v 1Co.16.1
+E quanto à coleta que 
+\added
+se faz
+\*added
+ para os santos, fazei também como ordenei às igrejas da Galácia.
+\v 1Co.16.2
+Cada primeiro 
+\added
+dia
+\*added
+ da semana, cada um de vós ponha 
+\added
+alguma coisa
+\*added
+ à pate, reservando 
+\added
+para isso
+\*added
+ conforme a prosperidade que tiver obtido, para que, quando eu vier, não se façam coletas.
+\v 1Co.16.3
+E quando eu vier, enviarei aos que por cartas aprovardes, para que levem vossa doação para Jerusalém.
+\v 1Co.16.4
+E se for necessário que eu também vá, irão comigo.
+\v 1Co.16.5
+Mas virei até vós, depois de passar pela Macedônia (porque passarei pela Macedônia).
+\v 1Co.16.6
+E pode ser que eu fique 
+\added
+um tempo
+\*added
+ convosco ou também passar o inverno, para que me envieis para onde quer que eu for.
+\v 1Co.16.7
+Porque eu não quero vos ver agora 
+\added
+apenas
+\*added
+ de passagem; mas espero ficar convosco por algum tempo, se o Senhor o permitir.
+\v 1Co.16.8
+Porém ficarei em Éfeso até o Pentecostes.
+\v 1Co.16.9
+Porque uma porta grande e eficaz se abriu para mim, e há muitos adversários.
+\v 1Co.16.10
+E se vier Timóteo, olhai para que ele esteja sem temor convosco; porque assim como eu, ele também faz a obra do Senhor.
+\v 1Co.16.11
+Portanto ninguém o despreze; mas enviai-o em paz, para que ele venha a mim; porque eu o espero com os irmãos.
+\v 1Co.16.12
+E quanto ao irmão Apolo, muito roguei que ele viesse com os irmãos até vós; mas ele de maneira nenhuma teve vontade de vir por agora; porém oferecendo-se a ele boa oportunidade, ele virá.
+\v 1Co.16.13
+Vigiai, ficai firmes na fé, sede corajosos, 
+\added
+e
+\*added
+ vos esforçai.
+\v 1Co.16.14
+Todas as vossas coisas sejam feitas em amor.
+\v 1Co.16.15
+Vós sabeis que 
+\added
+os da
+\*added
+ casa de Estéfanas foram os primeiros da Acaia, e que eles têm se dedicado ao trabalho dos santos; rogo-vos, pois, irmãos,
+\v 1Co.16.16
+Que também vos sujeiteis a eles, e a todo aquele que opera e trabalha junto 
+\added
+conosco
+\*added
+.
+\v 1Co.16.17
+E eu me alegro com a vinda de Estéfanas, e de Fortunato, e de Acaico, porque estes supriram o que de vossa 
+\added
+parte me
+\*added
+ faltava.
+\v 1Co.16.18
+Porque eles confortaram meu espírito, e 
+\added
+também
+\*added
+ o vosso. Então reconhecei aos tais.
+\v 1Co.16.19
+As igrejas da Ásia vos saúdam. Áquila e Priscila vos saúdam-vos afetuosamente no Senhor, e também a igreja que está na casa deles.
+\v 1Co.16.20
+Todos os irmãos vos saúdam. Saudai-vos uns as outros com beijo santo.
+\v 1Co.16.21
+Saudação de minha 
+\added
+própria
+\*added
+ mão, de Paulo.
+\v 1Co.16.22
+Se alguém não ama ao Senhor Jesus Cristo seja anátema. Vem, Senhor.
+\v 1Co.16.23
+A graça do Senhor Jesus Cristo esteja convosco.
+\v 1Co.16.24
+Meu amor esteja com todos vós em Cristo Jesus. Amém. 
+\added
+A primeira Carta aos Coríntios foi escrita de Filipos, e enviada por Estéfanas, Fortunato, Acaico e Timóteo
+\*added

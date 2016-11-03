@@ -1,0 +1,119 @@
+﻿\id COL B�blia Livre - Textus Receptus
+\ide UTF-8
+\h Colossenses
+\toc1 Carta de Paulo aos Colossenses
+\toc2 Colossenses
+\toc3 Cl
+\mt Carta de Paulo aos Colossenses
+
+
+\c 1
+\p
+
+\v 1 Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Timóteo,
+\v 2 aos santos e fiéis irmãos em Cristo, que estão em Colossos. \add Haja\add*  em vós a graça e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo.
+\v 3 Agradecemos ao Deus e Pai do nosso Senhor Jesus Cristo, sempre orando por vós;
+\v 4 pois ouvimos falar da vossa fé em Cristo Jesus, e do amor \add que tendes\add*  para com todos os santos;
+\v 5 por causa da esperança que está reservada para vós nos céus. Anteriormente ouvistes dessa esperança \f + \ft a palavra “esperaça” foi repetida para simplificar uma frase longa \f*  pala palavra da verdade do evangelho,
+\v 6 que já chegou a vós, como também em todo o mundo; e vai frutificando assim como entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade.
+\v 7 Aprendestes o evangelho \f + \ft a palavra “evangelho” foi repetida para simplificar uma frase longa \f*  por Epafras, nosso amado cooperador, que é um fiel servidor de Cristo em vosso favor.
+\v 8 Ele também nos declarou o vosso amor no Espírito.
+\v 9 Por isso também, desde o dia que \add o\add*  ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda sabedoria e entendimento espiritual;
+\v 10 para que possais andar dignamente \add diante\add*  do Senhor, agradando-lhe em tudo, frutificando em toda boa obra, e crescendo no conhecimento de Deus;
+\v 11 capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
+\v 12 agradecendo ao Pai, que nos capacitou a participar da herança dos santos na luz.
+\v 13 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
+\v 14 em quem temos a libertação pelo seu sangue: o perdão dos pecados.
+\v 15 Ele é a imagem do Deus invisível, o primogênito de toda a criação;
+\v 16 porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam domínios, sejam governos, sejam autoridades; todas as coisas foram criadas por ele e para ele.
+\v 17 Ele existe antes de todas as coisas, e nele todas as coisas se mantêm.
+\v 18 E ele é a cabeça do corpo da Igreja; ele é o princípio \add e\add*  o primogênito dentre os mortos, para que tenha a primazia entre todos.
+\v 19 Pois foi do agrado \add do Pai\add*  que toda a plenitude habitasse nele;
+\v 20 e, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra, como as que estão nos céus.
+\v 21 E vós éreis separados \add dele\add* , e inimigos no entendimento, em más obras. Porém agora ele vos reconciliou,
+\v 22 no seu corpo de carne, pela morte, para vos apresentar diante dele santos, irrepreensíveis e inculpáveis;
+\v 23 se, de fato, permaneceis fundados e firmes na fé, e não vos afastais da esperança do evangelho que ouvistes, que é pregado a toda criatura que há abaixo do céu, e do qual eu, Paulo, fui feito servidor.
+\v 24 Agora me alegro nos meus sofrimentos por vós, e cumpro na minha carne o restante das aflições de Cristo, em benefício do seu corpo, que é a Igreja.
+\v 25 Dela eu fui feito servidor segundo a responsabilidade da parte de Deus que me foi dada para o vosso benefício, a fim de cumprir a palavra de Deus,
+\v 26 o mistério que estava oculto desde os princípios dos tempos e das gerações; mas agora foi manifesto aos seus santos.
+\v 27 A eles Deus quis fazer que conhecessem as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, a esperança da glória.
+\v 28 Ele é quem anunciamos, advertindo a toda pessoa, e ensinando a toda pessoa, com toda sabedoria; a fim de que apresentemos toda pessoa \add como\add*  completa em Cristo Jesus.
+\v 29 Para isso eu também trabalho, lutando conforme a eficácia dele, que age em mim com poder. \f + \ft eficácia (atuação, poder, habilidade) e age, no grego, são palavras semelhantes \f* 
+
+\c 2
+\p
+
+\v 1 Pois quero que saibais como é grande a luta que tenho para o benefício de vós, dos que \add estão\add*  em Laodiceia, e de tantos quantos não viram meu rosto fisicamente; \f + \fq fisicamente \ft Lit. em carne \f* 
+\v 2 para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da pleno entendimento, para conhecimento do mistério de Deus, e do Pai, e de Cristo.
+\v 3 Nele estão ocultos todos os tesouros da sabedoria e do conhecimento.
+\v 4 Digo isso para que ninguém vos engane com palavras persuasivas.
+\v 5 Pois ainda que esteja ausente em corpo, todavia em espírito estou convosco, alegrando-me, e vendo a vossa ordem e a firmeza de vossa fé em Cristo.
+\v 6 Portanto, assim como recebestes Cristo Jesus, o Senhor, assim também andai nele;
+\v 7 com raízes firmes e edificados nele, e confirmados na fé, como fostes ensinados, abundando nela com gratidão.
+\v 8 Cuidado que ninguém vos tome cativos por meio de filosofias e de enganos vãos, conforme a tradição humana, conforme os elementos do mundo, e não conforme Cristo.
+\v 9 Pois nele habita corporalmente toda a plenitude da divindade.
+\v 10 E vós vos tornais plenos nele, que é o cabeça de todo governo e autoridade.
+\v 11 Nele também fostes circuncidados com uma circuncisão não feita por mãos, \add mas sim\add* , no abandono do corpo dos pecados da carne, pela circuncisão de Cristo;
+\v 12 sepultados com ele no batismo, no qual também com ele fostes ressuscitados pela fé no poder de Deus, que o ressuscitou dos mortos.
+\v 13 E quando vós estáveis mortos em pecados, na incircuncisão da vossa carne, \add Deus\add*  vos deu vida juntamente com ele, perdoando-vos todas as ofensas.
+\v 14 Ele riscou a certidão de nossa dívida em ordenanças, a qual era contra nós, e a removeu, cravando-a na cruz;
+\v 15 ele despojou os domínios e autoridades, publicamente os envergonhou, e nela triunfou sobre eles.
+\v 16 Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa de celebração \add religiosa\add* , ou pela lua nova, ou pelos sábados;
+\v 17 essas coisas são a sombra das coisas futuras, mas a realidade \f + \fq a realidade \ft Lit. “o corpo”, mas quando está em contraste de sombra, a palavra se refere ao que é concreto, isto é, à realidade. \f*  pertence a Cristo.
+\v 18 Ninguém, pois, se faça de juiz contra vós, insistindo nos pretextos de “humildade” e de “culto aos anjos” \f + \ft Ou: “culto dos anjos” \f*  , envolvendo-se em coisas que nunca viu, vangloriando-se em sua mentalidade carnal,
+\v 19 e não se ligando à cabeça, da qual todo o corpo, suprido e organizado pelas juntas e ligamentos, vai crescendo com o crescimento da parte de Deus.
+\v 20 Portanto, se estais mortos com Cristo para os elementos do mundo, por que vos sujeitais a ordenanças como se vivêsseis no mundo,
+\v 21 \add tais como\add* : “não pegues”, “não proves”, “não toques”?
+\v 22 Todas elas se acabam com o uso, e se baseiam em mandamentos e doutrinas humanas.
+\v 23 Elas realmente têm aparência de sabedoria em culto voluntário, humildade, e tratamento severo ao corpo; mas não têm valor algum contra a satisfação da carne.
+
+\c 3
+\p
+
+\v 1 Portanto, se fostes ressuscitados com Cristo, buscai as coisas de cima, onde Cristo está sentado à direita de Deus.
+\v 2 Pensai nas coisas de cima, não nas que \add estão\add*  na terra.
+\v 3 Pois já morrestes, e a vossa vida está escondida com Cristo em Deus.
+\v 4 Quando Cristo, \add que é\add*  a nossa vida, se manifestar, então também vós vos manifestareis com ele em glória.
+\v 5 Portanto, mortificai as partes carnais que há em vós que são terrenas; \add são elas\add* : o pecado sexual, a impureza, a paixão depravada, o desejo maligno, e a ganância, que é idolatria.
+\v 6 Por causa delas que a ira de Deus vem sobre os filhos da desobediência.
+\v 7 Nessas coisas também vós andastes antes, quando vivíeis nelas.
+\v 8 Mas agora, abandonai, vós também, todas \add estas coisas\add* : a ira, a fúria, a malícia, a maledicência, e as palavras vergonhosas da vossa boca.
+\v 9 Não mintais uns aos outros, pois já vos despistes do velho ser humano com os seus costumes,
+\v 10 e vos revestistes do novo, que se renova em conhecimento, conforme a imagem daquele que o criou.
+\v 11 Nisso não há grego, nem judeu, nem circunciso, nem incircunciso, bárbaro, cita, escravo, \add nem\add*  livre; mas Cristo é tudo, e em todos.
+\v 12 Por isso, como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, bondade, humildade, mansidão, e paciência.
+\v 13 Suportai-vos uns aos outros, e perdoai-vos uns aos outros, se alguém tiver queixa contra outro. Como Cristo vos perdoou, assim também \add fazei\add* .
+\v 14 E acima de tudo isto, \add revesti-vos\add*  do amor, que é o vínculo da perfeição.
+\v 15 E a paz de Deus, para a qual também fostes chamados em um \add só\add*  corpo, governe em vossos corações, e sede gratos.
+\v 16 A palavra de Cristo habite abundantemente em vós com toda sabedoria, ensinando-vos e advertindo-vos uns aos outros; e cantai ao Senhor com salmos, hinos, e cânticos espirituais, com graça no vosso coração.
+\v 17 E tudo quanto fizerdes, por palavras ou por obras, \add fazei\add*  tudo no nome do Senhor Jesus, dando por meio dele graças ao Deus e Pai.
+\v 18 Mulheres, sede submissas aos vossos próprios maridos, como convém no Senhor.
+\v 19 Maridos, amai às esposas, e não as trateis amargamente.
+\v 20 Filhos, obedecei em tudo aos pais, porque isso é agradável ao Senhor.
+\v 21 Pais, não provoqueis aos vossos filhos, para que não percam o ânimo.
+\v 22 Escravos, obedecei em tudo aos \add vossos\add*  senhores segundo a carne, não servindo apenas quando observados, como que para satisfazer às pessoas, mas sim, com sinceridade de coração, temendo a Deus.
+\v 23 E tudo quanto fizerdes, fazei de coração, como que para o Senhor, e não para as pessoas.
+\v 24 Pois sabeis que recebereis do Senhor a recompensa da herança, porque vós servis ao Senhor Cristo.
+\v 25 Mas aquele que fizer injustiça receberá conforme a injustiça que cometer; e não há acepção de pessoas.
+
+\c 4
+\p
+
+\v 1 Senhores, procedei de maneira justa e imparcial com os \add vossos\add*  servos, sabendo que também vós tendes um Senhor nos céus.
+\v 2 Perseverai na oração, vigiando nela com gratidão.
+\v 3 Orai também ao mesmo tempo por nós, para que Deus nos abra uma porta para a palavra, para que falemos do mistério de Cristo, \add mistério\add*  pelo qual estou preso.
+\v 4 Para que eu o anuncie claramente, \f + \ft Ou: abertamente \f*  como devo falar.
+\v 5 Convivei com sabedoria com os que estão de fora, \f + \ft Isto é, os que não são cristãos \f*  aproveitando o tempo oportuno.
+\v 6 A vossa palavra \add seja\add*  sempre com graça, \f + \fq com graça \ft Isto é, de maneira agradável \f*  temperada com sal, para que saibais como deveis responder a cada um.
+\v 7 Tíquico, irmão amado, fiel trabalhador e colaborador no Senhor, vos fará saber tudo o que vem acontecendo comigo.
+\v 8 Foi para isso que eu o enviei até vós, para que saiba como estais, e console os vossos corações.
+\v 9 Juntamente com ele \add está\add*  Onésimo, irmão fiel e amado, que é um de vós. Eles vos farão saber tudo o que está havendo por aqui.
+\v 10 Aristarco, que está preso comigo, vos saúda; e também Marcos, primo de Barnabé. Acerca dele, já recebestes ordens; se ele for até vós, recebei-o.
+\v 11 E também Jesus, chamado Justo. Dentre os circuncisos, esses \add são\add*  os únicos cooperadores \add meus\add*  no Reino de Deus, e têm sido consolação para mim.
+\v 12 Epafras, que é um de vós, servo de Cristo, vos saúda. Ele sempre luta por vós em orações, para que fiqueis firmes, perfeitos e plenos em toda a vontade de Deus.
+\v 13 Pois dou testemunho dele de que ele tem grande zelo por vós, pelos que \add estão\add*  em Laodiceia, e pelos que \add estão\add*  em Hierápolis.
+\v 14 Lucas, o médico amado, vos saúda; e também Demas.
+\v 15 Saudai aos irmãos que \add estão\add*  em Laodiceia, e também a Ninfas, e à igreja que está na casa dele.
+\v 16 E depois que esta carta for lida entre vós, fazei que ela também seja lida na igreja dos laodicenses, e que vós leiais também a de Laodiceia.
+\v 17 E dizei a Árquipo: Presta atenção ao trabalho que recebeste do Senhor, para que o cumpras.
+\v 18 \add Esta\add*  saudação \add é\add*  da minha mão, de Paulo. Lembrai-vos das minhas prisões. A graça \add esteja\add*  convosco. Amém. (Escrita de Roma aos colossenses, e enviada por Tíquico e Onésimo.) 

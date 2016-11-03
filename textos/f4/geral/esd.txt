@@ -1,0 +1,762 @@
+﻿\name-long
+Esdras
+\*name-long
+\name-short
+Esdras
+\*name-short
+\abbreviation
+Esd
+\*abbreviation
+\ubs-code
+EZR
+\*ubs-code
+\v Esd.1.1
+No primeiro ano de Ciro rei da Pérsia, para que se cumprisse a palavra do SENHOR pela boca de Jeremias, o SENHOR despertou o espírito de Ciro rei da Pérsia, o qual mandou proclamar por todo o seu reino, e também por escrito, dizendo:
+\v Esd.1.2
+Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra; e ele me mandou que lhe edificasse uma casa em Jerusalém, que está em Judá.
+\v Esd.1.3
+Quem há entre vós de todo seu povo, seu Deus seja com ele, e suba a Jerusalém que está em Judá, e edifique a casa ao SENHOR Deus de Israel; ele é o Deus que 
+\added
+habita
+\*added
+ em Jerusalém.
+\v Esd.1.4
+E todo aquele que tiver restado em qualquer lugar onde estiver morando, os homens de seu lugar o ajudem com prata, ouro, bens, e animais; além das doações voluntárias para a casa de Deus, que está em Jerusalém.
+\v Esd.1.5
+Então se levantaram os chefes das famílias de Judá e de Benjamim, os sacerdotes e os Levitas, e todos 
+\added
+aqueles
+\*added
+ cujo espírito Deus despertou, para subirem a edificar a casa do SENHOR, que está em Jerusalém.
+\v Esd.1.6
+E todos os que estavam em seus arredores fortaleceram suas mãos com objetos de prata e de ouro, com bens e animais, e com coisas preciosas, além de tudo o que foi dado voluntariamente.
+\v Esd.1.7
+Também o rei Ciro tirou os utensílios da casa do SENHOR, que Nabucodonosor tinha trazido de Jerusalém, e posto na casa de seus deuses.
+\v Esd.1.8
+E Ciro, rei da Pérsia, tirou-os por meio do tesoureiro Mitridate, o qual os deu contados a Sesbazar, príncipe de Judá.
+\v Esd.1.9
+E esta é o seu número: trinta bacias de ouro, mil bacias de prata, vinte e nove facas,
+\v Esd.1.10
+Trinta taças de ouro, quatrocentas e dez taças de prata, e mil outros utensílios.
+\v Esd.1.11
+Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos. Sesbazar trouxe todos estes com os que subiram do cativeiro, da Babilônia a Jerusalém.
+\v Esd.2.1
+Estes são os filhos da província que subiram do cativeiro, dos transportados que Nabucodonosor, rei de Babilônia, tinha transportado para a Babilônia, e que voltaram a Jerusalém e a Judá, cada um para sua cidade;
+\v Esd.2.2
+Os quais vieram com Zorobabel, Jesuá, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e Baaná. O registro dos homens do povo de Israel:
+\v Esd.2.3
+Os filhos de Parós, dois mil cento e setenta e dois;
+\v Esd.2.4
+Os filhos de Sefatias, trezentos e setenta e dois;
+\v Esd.2.5
+Os filhos de Ara, setecentos e setenta e cinco;
+\v Esd.2.6
+Os filhos de Paate-Moabe, dos filhos de Jesuá-Joabe, dois mil oitocentos e doze;
+\v Esd.2.7
+Os filhos de Elão, mil duzentos e cinquenta e quatro;
+\v Esd.2.8
+Os filhos de Zatu, novecentos e quarenta e cinco;
+\v Esd.2.9
+Os filhos de Zacai, setecentos e sessenta;
+\v Esd.2.10
+Os filhos de Bani, seiscentos e quarenta e dois;
+\v Esd.2.11
+Os filhos de Bebai, seiscentos e vinte e três;
+\v Esd.2.12
+Os filhos de Azgade, mil duzentos e vinte e dois;
+\v Esd.2.13
+Os filhos de Adonicão, seiscentos e sessenta e seis;
+\v Esd.2.14
+Os filhos de Bigvai, dois mil e cinquenta e seis;
+\v Esd.2.15
+Os filhos de Adim, quatrocentos e cinquenta e quatro;
+\v Esd.2.16
+Os filhos de Ater, de Ezequias, noventa e oito;
+\v Esd.2.17
+Os filhos de Bezai, trezentos e vinte e três;
+\v Esd.2.18
+Os filhos de Jora, cento e doze;
+\v Esd.2.19
+Os filhos de Hasum, duzentos e vinte e três;
+\v Esd.2.20
+Os filhos de Gibar, noventa e cinco;
+\v Esd.2.21
+Os filhos de Belém, cento e vinte e três;
+\v Esd.2.22
+Os homens de Netofá, cinquenta e seis;
+\v Esd.2.23
+Os homens de Anatote, cento e vinte e oito;
+\v Esd.2.24
+Os filhos de Azmavete, quarenta e dois;
+\v Esd.2.25
+Os filhos de Quiriate-Jearim, Quefira, e Beerote, setecentos e quarenta e três;
+\v Esd.2.26
+Os filhos de Ramá e Geba, seiscentos e vinte e um;
+\v Esd.2.27
+Os homens de Micmás, cento e vinte e dois;
+\v Esd.2.28
+Os homens de Betel e Ai, duzentos e vinte e três;
+\v Esd.2.29
+Os filhos de Nebo, cinquenta e dois;
+\v Esd.2.30
+Os filhos de Magbis, cento e cinquenta e seis;
+\v Esd.2.31
+Os filhos do outro Elão, mil duzentos e cinquenta e quatro;
+\v Esd.2.32
+Os filhos de Harim, trezentos e vinte;
+\v Esd.2.33
+Os filhos de Lode, Hadide, e Ono, setecentos e vinte e cinco;
+\v Esd.2.34
+Os filhos de de Jericó, trezentos e quarenta e cinco;
+\v Esd.2.35
+Os filhos de Senaá, três mil seiscentos e trinta;
+\v Esd.2.36
+Os sacerdotes: os filhos de Jedaías, da casa de Jesuá, novecentos e setenta e três;
+\v Esd.2.37
+Os filhos de Imer, mil e cinquenta e dois;
+\v Esd.2.38
+Os filhos de Pasur, mil duzentos e quarenta e sete;
+\v Esd.2.39
+Os filhos de Harim, mil e dezessete.
+\v Esd.2.40
+Os Levitas: os filhos de Jesuá e de Cadmiel, dos filhos de Hodavias, setenta e quatro.
+\v Esd.2.41
+Os cantores: os filhos de Asafe, cento e vinte e oito.
+\v Esd.2.42
+Os filhos dos porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai; ao todo, cento e trinta e nove.
+\v Esd.2.43
+Os servos do templo: 
+\fn
+\key
+servos do templo
+\*key
+equiv. netineus – também no restante do capítulo 
+\*fn
+os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote,
+\v Esd.2.44
+Os filhos de Queros, os filhos de Sia, os filhos de Padom;
+\v Esd.2.45
+Os filhos de Lebana, os filhos de Hagaba, os filhos de Acube;
+\v Esd.2.46
+Os filhos de Hagabe, os filhos de Sanlai, os filhos de Hanã;
+\v Esd.2.47
+Os filhos de Gidel, os filhos de Gaar, os filhos de Reaías;
+\v Esd.2.48
+Os filhos de Rezim, os filhos de Necoda, os filhos de Gazão;
+\v Esd.2.49
+Os filhos de Uzá, os filhos de Paseia, os filhos de Besai;
+\v Esd.2.50
+Os filhos de Asná, os filhos de Meunim, os filhos de Nefusim;
+\v Esd.2.51
+Os filhos de Baquebuque, os filhos de Hacufa, os filhos de Harur;
+\v Esd.2.52
+Os filhos de Baslute, os filhos de Meída, os filhos de Harsa;
+\v Esd.2.53
+Os filhos de Barcos, os filhos de Sísera, os filhos de Temá;
+\v Esd.2.54
+Os filhos de Nesias, os filhos de Hatifa.
+\v Esd.2.55
+Os filhos dos servos de Salomão: os filhos de Sotai, os filhos de Soferete, os filhos de Peruda;
+\v Esd.2.56
+Os filhos de Jaala, o filhos de Darcom, os filhos de Gidel;
+\v Esd.2.57
+Os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim, os filhos de Ami.
+\v Esd.2.58
+Todos os servos do templo, e filhos dos servos de Salomão, trezentos e noventa e dois.
+\v Esd.2.59
+Também estes subiram de Tel-Melá, Tel-Harsa, Querube, Adã, e Imer, porém não puderam mostrar a família 
+\fn
+\key
+família
+\*key
+lit. casa 
+\*fn
+de seus pais, nem sua linhagem, se eram de Israel:
+\v Esd.2.60
+Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e cinquenta e dois.
+\v Esd.2.61
+E dos filhos dos sacerdotes: os filhos de Habaías, os filhos de Coz, os filhos de Barzilai, o qual tomou mulher das filhas de Barzilai gileadita, e foi chamado pelo nome delas.
+\v Esd.2.62
+Estes buscaram seu registro de genealogias, mas não foi achado; por isso foram rejeitados do sacerdócio.
+\v Esd.2.63
+E o governador lhes mandou que não comessem das coisas sagradas, até que houvesse sacerdote com Urim e Tumim.
+\v Esd.2.64
+Toda esta congregação junta foi quarenta e dois mil trezentos e sessenta,
+\v Esd.2.65
+Sem seus servos e servas, os quais foram sete mil trezentos trinta e sete; também tinham duzentos cantores e cantoras.
+\v Esd.2.66
+Seus cavalos foram setecentos e trinta e seis; seus mulos, duzentos e quarenta e cinco;
+\v Esd.2.67
+Seus camelos, quatrocentos trinta e cinco; asnos, seis mil setecentos e vinte.
+\v Esd.2.68
+E 
+\added
+alguns
+\*added
+ dos chefes de famílias, quando vieram à casa do SENHOR que estava em Jerusalém, deram ofertas voluntárias para a casa de Deus, para 
+\added
+a
+\*added
+ reconstruírem em seu lugar.
+\v Esd.2.69
+Conforme sua capacidade deram ao tesouro da obra sessenta e uma mil dracmas de ouro, cinco mil libras de prata, e cem vestes sacerdotais.
+\v Esd.2.70
+E os sacerdotes, os Levitas, os do povo, os cantores, os porteiros e os servos do templo, habitaram em suas cidades; como também todo Israel em suas cidades.
+\v Esd.3.1
+Tendo, pois, chegado o mês sétimo, e já estando os filhos de Israel nas cidades, o povo se ajuntou como um só homem em Jerusalém.
+\v Esd.3.2
+E levantaram-se Jesuá filho de Jozadaque, e seus irmãos os sacerdotes, e Zorobabel filho de Sealtiel, e seus irmãos, e edificaram o altar do Deus de Israel, para oferecerem sobre ele ofertas de queima, como está escrito na Lei de Moisés, homem de Deus.
+\v Esd.3.3
+E assentaram o altar sobre suas bases, porém com medo sobre si, por causa dos povos das terras; e ofereceram sobre ele ofertas de queima ao SENHOR, ofertas de queima à manhã e à tarde.
+\v Esd.3.4
+E celebraram a festa dos tabernáculos, como está escrito; fizeram ofertas de queima diariamente conforme a regra exigida a cada dia;
+\v Esd.3.5
+E depois disto, fizeram a oferta de queima contínua, e as das luas novas, e todas as festas santificadas ao SENHOR, como também de qualquer um que dava oferta voluntária ao SENHOR. 6. Desde o primeiro dia do mês sétimo começaram a apresentar ofertas de queima ao SENHOR; porém ainda não estavam postos os fundamentos do templo do SENHOR.
+\v Esd.3.7
+Assim deram dinheiro aos pedreiros e carpinteiros; como também comida, bebida, e azeite aos sidônios e aos tírios, para que trazerem do Líbano madeira de cedro ao mar de Jope, conforme a autorização de Ciro, rei da Pérsia, acerca disto.
+\v Esd.3.8
+E no ano segundo de sua vinda à casa de Deus em Jerusalém, no mês segundo, começaram Zorobabel filho de Sealtiel, Jesuá filho de Jozadaque, com os outros irmãos seus, os sacerdotes e os levitas, e todos os que haviam vindo do cativeiro a Jerusalém. E ordenaram aos levitas da idade de vinte anos acima, que cuidassem da casa do SENHOR.
+\v Esd.3.9
+Então Jesuá, seus filhos e seus irmãos, Cadmiel e seus filhos, filhos de Judá, se levantaram como um só homem para supervisionarem os que faziam a obra na casa de Deus; 
+\added
+com
+\*added
+ os filhos de Henadade, seus filhos e seus irmãos, levitas.
+\v Esd.3.10
+E quando os construtores do templo do SENHOR puseram os fundamentos, então ordenaram aos sacerdotes, já com as vestimentas e com trombetas, e aos levitas filhos de Asafe com címbalos, para louvarem ao SENHOR, conforme a ordenança de Davi, rei de Israel.
+\v Esd.3.11
+E cantavam em revezamento, louvando e celebrando ao SENHOR:Porque ele é bom, porque sua bondade sobre Israel dura para sempre!E todo o povo gritava com grande júbilo, louvando ao SENHOR, por causa da fundação da casa do SENHOR.
+\v Esd.3.12
+Porém muitos dos sacerdotes e dos levitas e dos chefes de famílias, já velhos, que haviam visto a primeira casa, quando viram a fundação desta casa, choravam em alta voz, mas muitos outros davam grandes gritos de alegria;
+\v Esd.3.13
+De maneira que o povo não conseguia distinguir as vozes de alegria das vozes de choro do povo; porque o povo gritava com tão grande júbilo, que se podia ouvir o som de muito longe.
+\v Esd.4.1
+Quando, pois, os adversários de Judá e de Benjamim, que os que tinham vindo do cativeiro estavam edificando o templo ao SENHOR, Deus de Israel,
+\v Esd.4.2
+Chegaram-se a Zorobabel, e aos chefes das famílias, e lhes disseram:Deixai-nos edificar convosco, porque assim como vós, buscaremos a vosso Deus, como também já sacrificamos a ele desde os dias de Esar-Hadom, rei da Assíria, que nos fez subir aqui.
+\v Esd.4.3
+Porém Zorobabel, e Jesuá, e os demais chefes das famílias de Israel lhes disseram:Não nos convém edificar convosco casa a nosso Deus; mas somente nós a edificaremos ao SENHOR, Deus de Israel, como nos mandou o rei Ciro, rei da Pérsia.
+\v Esd.4.4
+Todavia o povo da terra desencorajava 
+\fn
+\key
+desencorajava
+\*key
+lit. enfraquecia as mãos 
+\*fn
+o povo de Judá, e os perturbava, para que não edificassem.
+\v Esd.4.5
+E subornaram contra eles conselheiros para frustrarem sua intenção, todos os dias de Ciro rei da Pérsia, e até o reinado de Dario, rei da Pérsia.
+\v Esd.4.6
+E sob o reinado de Assuero, no princípio de seu reinado, escreveram uma acusação contra os moradores de Judá e de Jerusalém.
+\v Esd.4.7
+E nos dias de Artaxerxes, Bislão, Mitridate, Tabeel, e os demais seus companheiros, escreveram a Artaxerxes rei da Pérsia; e o escrito da carta estava feito em siríaco, e composto em siríaco.
+\v Esd.4.8
+Reum o comandante, e Sinsai o escrivão, escreveram uma carta contra Jerusalém ao rei Artaxerxes, conforme o seguinte:
+\v Esd.4.9
+Reum, o comandante, e Sinsai secretário, e os demais seus companheiros, os dinaítas, os arfasaquitas, tarpelitas, arfasitas, os arquevitas, os babilônios, susanquitas, deavitas, e elamitas;
+\v Esd.4.10
+E os demais povos que o grande e famoso Asnapar 
+\fn
+\key
+Asnapar
+\*key
+trad. Alt. Assurbanipal 
+\*fn
+transportou, e fez habitar nas cidades de Samaria, e os demais da região dalém do rio.
+\v Esd.4.11
+Este é o teor da carta que enviaram: Ao rei Artaxerxes. De teus servos dalém do rio.
+\v Esd.4.12
+Seja conhecido do rei que os judeus que subiram de ti a nós, vieram a Jerusalém; e edificam aquela cidade rebelde e má, e estão restaurando 
+\added
+seus
+\*added
+ muros; e reparado 
+\added
+seus
+\*added
+ fundamentos.
+\v Esd.4.13
+Seja agora conhecido do rei, que se aquela cidade for reconstruída, e os muros forem restaurados, os tributos, taxas, e impostos não serão pagos, e o patrimônio real será prejudicado.
+\v Esd.4.14
+Visto que somos assalariados pelo palácio, não nos convém ver a desonra do rei; por isso mandamos informar ao rei;
+\v Esd.4.15
+Para que se busque no livro das crônicas de teus pais; e acharás no livro das crônicas, e saberás que aquela cidade foi uma cidade rebelde, prejudicial aos reis e às províncias, e que nela desde antigamente fizeram rebeliões; por isso aquela cidade foi arruinada.
+\v Esd.4.16
+Por isso informamos ao rei que, se aquela cidade for reconstruída, e seus muros restaurados, a parte além do rio não será tua.
+\v Esd.4.17
+ 
+\added
+Então
+\*added
+ o rei enviou 
+\added
+esta
+\*added
+ resposta a Reum, o comandante, e a Sinsai, o escrivão, e aos demais de seus companheiros que habitam em Samaria, como também aos demais da parte além do rio: Paz.
+\v Esd.4.18
+A carta que nos enviastes foi lida claramente diante de mim.
+\v Esd.4.19
+E eu dei ordem para que se buscasse; e encontraram que aquela cidade na antiguidade se levantou contra os reis, e nela houve rebelião e insurreição.
+\v Esd.4.20
+E que houve reis poderosos em Jerusalém, dominaram toda a região além do rio; e a eles se pagava tributos, taxas e impostos.
+\v Esd.4.21
+Agora, pois, dai ordem que impeçam aqueles homens, e aquela cidade não seja reconstruída, até que seja dado mandamento de minha parte.
+\v Esd.4.22
+E sede cuidadosos para que não falheis nisto; por que haveria de aumentar o dano para o prejuízo real?
+\v Esd.4.23
+Assim que o teor da carta do rei Artaxerxes foi lido diante de Reum, e de Sinsai o escrivão, e seus companheiros, eles foram apressadamente a Jerusalém aos judeus, e os impediram com força e violência.
+\v Esd.4.24
+Cessou, então, a obra da casa de Deus, a qual estava em Jerusalém; e cessou até o segundo ano do reinado de Dario, rei da Pérsia.
+\v Esd.5.1
+E o profeta Ageu, e Zacarias filho de Ido, profetas, profetizaram aos judeus que estavam em Judá e em Jerusalém, em nome do Deus de Israel, a eles.
+\v Esd.5.2
+Então se levantaram Zorobabel filho de Sealtiel, e Jesuá filho de Jozadaque; e começaram a reconstruir a casa de Deus que está em Jerusalém; e com eles os profetas de Deus, que os ajudavam.
+\v Esd.5.3
+Naquele tempo veio a eles Tatenai, capitão da região além do rio, e Setar-Bozenai e seus companheiros, e lhes perguntaram assim:Quem vos deu ordem para reconstruir esta casa, e restaurar estes muros? 
+\v Esd.5.4
+Então assim lhes dissemos quais eram os nomes dos homens que reconstruíam este edifício.
+\v Esd.5.5
+Mas os olhos de seu Deus estavam sobre os anciãos dos judeus, e não os impediram, até que a causa viesse a Dario; e então responderam por carta sobre isso.
+\v Esd.5.6
+Teor da carta que Tatenai, o governador além do rio, e Setar-Bozenai, e seus companheiros os afarsaquitas, que estavam além do rio, enviaram ao rei Dario.
+\v Esd.5.7
+Enviaram-lhe uma carta, e assim estava escrito nela: Toda a paz ao rei Dario.
+\v Esd.5.8
+Seja conhecido do rei, que fomos à província de Judeia, à casa do grande Deus, a qual é edificada com grandes pedras; e a madeira é posta nas paredes, e a obra se faz apressadamente, e tem sido próspera a em suas mãos.
+\v Esd.5.9
+Então perguntamos aos anciãos, dizendo-lhes assim: Quem vos deu ordem para reconstruir esta casa, e para restaurar estes muros? 
+\v Esd.5.10
+E também lhes perguntamos seus nomes para os informar a ti; para que pudéssemos escrever a ti os nomes dos homens que eram os seus líderes.
+\v Esd.5.11
+E nos deram esta resposta, dizendo: Nós somos servos de Deus do céu e da terra, e reconstruímos a casa que a muitos anos antes tinha sido construída, a qual um grande rei de Israel iniciou e terminou de construir.
+\v Esd.5.12
+Mas depois que nossos pais provocaram à ira o Deus dos céus, ele os entregou nas mãos de Nabucodonosor, rei de Babilônia, o caldeu, o qual destruiu esta casa, e transportou o povo para a Babilônia.
+\v Esd.5.13
+Porém no primeiro ano de Ciro, rei da Babilônia, o rei Ciro fez um decreto para reconstruir esta casa de Deus.
+\v Esd.5.14
+E até os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor tinha tomado do templo que estava em Jerusalém, e os tinha posto no templo da Babilônia, o rei Ciro os tirou do templo da Babilônia, e foram entregues a um chamado Sesbazar, a quem pusera por governador.
+\v Esd.5.15
+E disse-lhe: Toma estes utensílios, vai, 
+\added
+e
+\*added
+ põe-os no templo que está em Jerusalém; e seja reconstruída a casa de Deus em seu lugar. 
+\v Esd.5.16
+Então este Sesbazar veio, e pôs os fundamentos da casa de Deus, que está em Jerusalém, e desde então até agora foi reconstruída, e ainda não foi terminada.
+\v Esd.5.17
+Agora, pois, se for do agrado do rei, busque-se na casa dos tesouros do rei que está ali na Babilônia, se é 
+\added
+verdade
+\*added
+ que rei Ciro foi feito decreto para reconstruir esta casa de Deus em Jerusalém, e seja nos enviada a vontade do rei acerca disto.
+\v Esd.6.1
+Então o rei Dario deu ordem, e buscaram nos arquivos da tesouraria na Babilônia.
+\v Esd.6.2
+E foi achado em Ecbatana, no palácio que está na província de Média, um livro, dentro do qual estava escrito assim: Memórial:
+\v Esd.6.3
+No primeiro ano do rei Ciro, o rei Ciro fez decreto acerca da casa de Deus que estava em Jerusalém, que fosse reconstruído a casa, o lugar em que sejam oferecidos sacrifícios, e que suas paredes sejam cobertas; sua altura será de sessenta côvados, e sua largura de sessenta côvados.
+\v Esd.6.4
+Com três camadas de grandes pedras, e uma camada de madeira nova e que o gasto seja dado da casa do rei.
+\v Esd.6.5
+Além disso, os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor tirou do templo que estava em Jerusalém e levou a Babilônia, sejam devolvidos para irem ao templo que está em Jerusalém, a seu lugar, e sejam postos na casa de Deus.
+\v Esd.6.6
+Agora, 
+\added
+pois
+\*added
+,Tatenai, chefe dalém rio, Setar-Bozenai, e seus companheiros os afarsaquitas que estais além do rio, afastai-vos dali.
+\v Esd.6.7
+Deixai-os na obra da casa de Deus; que o governador dos judeus, e os anciãos dos judeus, edifiquem esta casa deste Deus em seu lugar.
+\v Esd.6.8
+Também por mim é promulgado decreto do que haveis de fazer com os anciãos destes judeus, para edificar a casa deste Deus: que do patrimônio do rei, dos tributos dalém do rio, sejam pagos os gastos destes homens varões, para que 
+\added
+a obra
+\*added
+ não seja interrompida.
+\v Esd.6.9
+E o que for necessário, como bezerros, carneiros e cordeiros, para ofertas de queima ao Deus do céu, trigo, sal, vinho e azeite, conforme o que os sacerdotes que estão em Jerusalém disserem, seja lhes dado a cada sem falta.
+\v Esd.6.10
+Para que ofereçam sacrifícios de aroma suave ao ao Deus dos céus, e orem pela vida do rei e de seus filhos.
+\v Esd.6.11
+Também é dada por mim ordem, que qualquer um que mudar este decreto, um madeiro de sua casa seja derrubado, levantado, e nele seja empalado; 
+\fn
+\key
+empalado
+\*key
+trad. alt. enforcado 
+\*fn
+e sua casa se torne um amontoado por causa disso.
+\v Esd.6.12
+E o Deus que fez habitar ali seu nome, derrube a todo rei e povo que estenderem sua mão para mudar ou destruir esta casa de Deus, que está em Jerusalém. Eu, Dario, fiz o decreto; apressadamente se cumpra.
+\v Esd.6.13
+Então Tatenai, o governador dalém do rio, e Setar-Bozenai, e seus companheiros, assim fizeram apressadamente, conforme o que o rei Dario havia mandado.
+\v Esd.6.14
+E os anciãos dos judeus iam edificando e prosperando, pela profecia do profeta Ageu, e de Zacarias filho de Ido. E edificaram, e terminaram a construção conforme o mandamento do Deus de Israel, e conforme o mandamento de Ciro e de Dario, e de Artaxerxes rei da Pérsia.
+\v Esd.6.15
+E esta casa foi terminada ao terceiro dia do mês de Adar, que era o sexto ano do reinado do rei Dario.
+\v Esd.6.16
+E os filhos de Israel, os sacerdotes e os levitas, e os demais dos que haviam vindo do cativeiro, fizeram a consagração desta casa de Deus com alegria.
+\v Esd.6.17
+E ofereceram para a consagração desta casa de Deus cem novilhos, duzentos carneiros, quatrocentos cordeiros; e doze cabritos por expiação do pecado de todo Israel, segundo o número das tribos de Israel.
+\v Esd.6.18
+E puseram aos sacerdotes em suas divisões, e aos levitas em seus grupos, para o serviço a Deus, que está em Jerusalém, conforme o que está escrito no livro de Moisés.
+\v Esd.6.19
+E os que vieram do cativeiro celebraram a páscoa aos catorze do mês primeiro.
+\v Esd.6.20
+Porque os sacerdotes e os levitas haviam se purificado juntos; todos foram limpos; e fizeram o sacrifício da páscoa por todos os que vieram do cativeiro, e por seus irmãos, os sacerdotes, e por si mesmos.
+\v Esd.6.21
+Assim os filhos de Israel que haviam voltado do cativeiro comeram, com todos os que tinham se separado da impureza das nações da terra, para buscarem ao SENHOR Deus de Israel.
+\v Esd.6.22
+E celebraram a festa dos pães sem fermento sete dias com alegria, porque o SENHOR os tinha alegrado, e convertido o coração do rei da Assíria a eles, para fortalecer suas mãos na obra da casa de Deus, o Deus de Israel.
+\v Esd.7.1
+Passadas estas coisas, no reinado de Artaxerxes rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,
+\v Esd.7.2
+Filho de Salum, filho de Zadoque, filho de Aitube,
+\v Esd.7.3
+Filho de Amarias, filho de Azarias, filho de Meraiote,
+\v Esd.7.4
+Filho de Zeraías, filho de Uzi, filho de Buqui,
+\v Esd.7.5
+Filho de Abisua, filho de Fineias, filho de Eleazar, filho de Arão, o sumo sacerdote;
+\v Esd.7.6
+Este Esdras subiu da Babilônia; e ele era escriba habilidoso na lei de Moisés, dada pelo SENHOR Deus de Israel; e segundo a mão do SENHOR seu Deus sobre ele, o rei lhe deu tudo quanto lhe pedira.
+\v Esd.7.7
+E subiram com ele a Jerusalém 
+\added
+alguns
+\*added
+ dos filhos de Israel, dos sacerdotes, levitas, cantores, porteiros, e servos do templo, no sétimo ano do rei Artaxerxes.
+\v Esd.7.8
+E ele chegou a Jerusalém no mês quinto, no sétimo ano do rei.
+\v Esd.7.9
+Pois no primeiro 
+\added
+dia
+\*added
+ do mês primeiro, foi o princípio da subida da Babilônia; e ao primeiro do mês quinto chegou a Jerusalém, segundo a boa mão de seu Deus sobre ele.
+\v Esd.7.10
+Porque Esdras tinha decidido em seu coração buscar a lei do SENHOR, e a praticar; e ensinar a Israel 
+\added
+seus
+\*added
+ estatutos e juízos.
+\v Esd.7.11
+E este é a transcrição da carta que o rei Artaxerxes deu a Esdras, sacerdote e escriba, o escriba das palavras dos mandamentos do SENHOR, e de seus estatutos sobre Israel:
+\v Esd.7.12
+Artaxerxes, rei de reis, ao sacerdote Esdras, escriba da perfeita Lei de Deus do céu. Paz.
+\v Esd.7.13
+Por mim é promulgado decreto, que todo aquele em meu reino, do povo de Israel, e de seus sacerdotes e levitas, que quiser ir contigo a Jerusalém, vá.
+\v Esd.7.14
+Porque de parte do rei e de seus sete conselheiros tu és enviado a investigar a respeito da de Judá e de Jerusalém, conforme a lei de teu Deus que está em tua mão;
+\v Esd.7.15
+E a levar a prata e o ouro que o rei e seus conselheiros voluntariamente deram ao Deus de Israel, cuja habitação está em Jerusalém;
+\v Esd.7.16
+E também toda a prata e o ouro que achares em toda a província de Babilônia, com as ofertas voluntárias do povo e dos sacerdotes, que voluntariamente oferecerem para a casa de seu Deus que está em Jerusalém.
+\v Esd.7.17
+Portanto, com este dinheiro, compra novilhos, carneiros, cordeiros, com seus suas ofertas de alimento e suas ofertas de bebidas, e oferece-os sobre o altar da casa de vosso Deus, que está em Jerusalém.
+\v Esd.7.18
+Também o que a ti e a teus irmãos parecer bem fazerdes do restante da prata e do ouro, fazei 
+\added
+-o
+\*added
+ conforme a vontade de vosso Deus.
+\v Esd.7.19
+E os utensílios que te foram entregues para o serviço da casa de teu Deus, restitui-os diante do Deus de Jerusalém.
+\v Esd.7.20
+E o demais que for necessário para a casa de teu Deus que caiba a ti dar, tu o darás da casa dos tesouros do rei.
+\v Esd.7.21
+E por mim mesmo, o rei Artaxerxes, é dado decreto a todos os tesoureiros que estão além do rio, que tudo quanto o sacerdote Esdras, escriba da lei do Deus dos céus, vos pedir, apressadamente lhe seja concedido;
+\v Esd.7.22
+Até cem talentos de prata, e até cem coros de trigo, e até cem batos de vinho, e até cem batos de azeite; e sal sem limite.
+\v Esd.7.23
+Tudo o que for ordenado pelo Deus do céu, prontamente se faça para a casa do Deus do céu; pois para que teria de haver grande ira contra o reino do rei e de seus filhos?
+\v Esd.7.24
+Também vos fazemos saber, acerca de todos os sacerdotes, levitas, cantores, porteiros, servos do templo, e trabalhadores da casa de Deus, ninguém possa lhes impor tributo, imposto, ou taxa.
+\v Esd.7.25
+E tu, Esdras, conforme a sabedoria de teu Deus que está contigo, 
+\fn
+\key
+contigo
+\*key
+lit. em tua mão 
+\*fn
+põe oficiais e juízes, que julguem a todo o povo que está além do rio, a todos os que conhecem as Leis de teu Deus; e ao que não as conhecerem, tu lhes ensinará.
+\v Esd.7.26
+E todo aquele que não cumprir a Lei de teu Deus e a lei do rei, prontamente seja julgado, ou à morte, ou à expulsão, ou à multa, ou à prisão.
+\v Esd.7.27
+Bendito seja o SENHOR, Deus de nossos pais, que pôs tal coisa no coração do rei, para glorificar a casa do SENHOR, que está em Jerusalém;
+\v Esd.7.28
+E sobre mim inclinou bondade diante do rei e de seus conselheiros, e de todos os príncipes poderosos do rei. Assim eu me esforcei segundo a mão do SENHOR meu Deus sobre mim, e ajuntei os líderes de Israel para subirem comigo.
+\v Esd.8.1
+Estes, pois, são os chefes de suas famílias, com suas genealogias, dos que subiram comigo da Babilônia durante o reinando do rei Artaxerxes:
+\v Esd.8.2
+Dos filhos de Fineias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;
+\v Esd.8.3
+Dos filhos de Secanias e dos filhos de Parós, Zacarias, e com ele por genealogias foram contados cento e cinquenta homens;
+\v Esd.8.4
+Dos filhos de Paate-Moabe, Elioenai, filho de Zeraías, e com ele duzentos homens;
+\v Esd.8.5
+Dos filhos de Secanias, o filho de Jaaziel, e com ele trezentos homens;
+\v Esd.8.6
+Dos filhos de Adim, Ebede, filho de Jônatas, e com ele cinquenta homens;
+\v Esd.8.7
+Dos filhos de Elão, Jesaías, filho de Atalias, e com ele setenta homens;
+\v Esd.8.8
+E dos filhos de Sefatias, Zebadias, filho de Micael, e com ele oitenta homens;
+\v Esd.8.9
+Dos filhos de Joabe, Obadias, filho de Jeiel, e com ele duzentos e dezoito homens;
+\v Esd.8.10
+E dos filhos de Selomite, o filho de Josifias, e com ele cento e sessenta homens;
+\v Esd.8.11
+E dos filhos de Bebai, Zacarias, filho de Bebai, e com ele vinte e oito homens;
+\v Esd.8.12
+E dos filhos de Azgade, Joanã, filho de Catã, e com ele cento e dez homens;
+\v Esd.8.13
+E dos filhos de Adonicão, os últimos, cujos nomes são: Elifelete, Jeiel, e Semaías, e com eles sessenta homens;
+\v Esd.8.14
+E dos filhos de Bigvai, Utai e Zabude, e com eles setenta homens.
+\v Esd.8.15
+E ajuntei-os junto ao rio que vai a Aava, e acampamos ali três dias; então procurem entre o povo e entre os sacerdotes, não achei ali nenhum dos filhos de Levi.
+\v Esd.8.16
+Por isso enviei a Eliezer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias, e a Mesulão, os chefes; como também a Joiaribe e a Elnatã, os sábios.
+\v Esd.8.17
+E os enviei a Ido, chefe no lugar de Casifia; e lhes instruí 
+\fn
+\key
+instruí
+\*key
+pus em suas bocas 
+\*fn
+as palavras que deviam dizer a Ido, e a seus irmãos, os servos do templo no lugar de Casifia, para que nos trouxessem trabalhadores para a casa de nosso Deus.
+\v Esd.8.18
+E nos trouxeram, segundo a boa mão de nosso Deus sobre nós, um homem entendido dos filhos de Mali, filho de Levi, filho de Israel; 
+\added
+cujo nome era
+\*added
+ Serebias com seus filhos e seus irmãos, dezoito;
+\v Esd.8.19
+E a Hasabias, e com ele a Jesaías dos filhos de Merari, seus irmãos e a seus filhos, vinte;
+\v Esd.8.20
+E dos servos do templo, a quem Davi e os príncipes puseram para o trabalho dos Levitas, duzentos e vinte servos do templo; todos eles foram indicados por nome.
+\v Esd.8.21
+Então proclamei ali um jejum junto ao rio de Aava, para nos humilharmos diante de nosso Deus, para lhe pedirmos um caminho seguro para nós, nossos filhos, e todos os nossos bens.
+\v Esd.8.22
+Pois tive vergonha de pedir ao rei tropas e cavaleiros para nos defenderem do inimigo no caminho; porque tínhamos falado ao rei, dizendo: A mão de nosso Deus está para o bem sobre todos os que o buscam; mas sua força e ira está sobre todos os que o abandonam.
+\v Esd.8.23
+Assim jejuamos, e pedimos isto a nosso Deus; e ele atendeu a nossas orações.
+\v Esd.8.24
+Então separei doze dos chefes dos sacerdotes, a Serebias e Hasabias, e com eles dez de seus irmãos;
+\v Esd.8.25
+E pesei-lhes a prata, o ouro, e os utensílios, 
+\added
+que
+\*added
+ eram a oferta para a casa de nosso Deus que o rei, seus conselheiros, seus príncipes, e todo os israelitas que se acharam, haviam oferecido.
+\v Esd.8.26
+Assim pesei nas mãos deles seiscentos e cinquenta talentos de prata, e cem talentos de utensílios de prata, e cem talentos de ouro;
+\v Esd.8.27
+E vinte bacias de ouro, de mil dracmas; e dois vasos bronze reluzente, tão preciosos como o ouro.
+\v Esd.8.28
+E disse-lhes: Vós sois consagrados ao SENHOR, e estes utensílios são santos; como também a prata e o ouro, 
+\added
+que são
+\*added
+ oferta voluntária ao SENHOR, Deus de vossos pais. 
+\v Esd.8.29
+Vigiai, e guardai 
+\added
+estas coisas
+\*added
+,até que as peseis diante dos líderes dos sacerdotes e dos levitas, e dos chefes das famílias de Israel em Jerusalém, nas câmaras da casa do SENHOR.
+\v Esd.8.30
+Então os sacerdotes e os levitas receberam o peso da prata e do ouro e dos utensílios, para o trazerem a Jerusalém, à casa de nosso Deus.
+\v Esd.8.31
+Assim nos partimos do rio de Aava, ao 
+\added
+dia
+\*added
+ doze do mês primeiro, para irmos a Jerusalém; e a mão do nosso Deus estava sobre nós, e nos livrou de mão de inimigos e dos assaltantes no caminho.
+\v Esd.8.32
+E chegamos a Jerusalém, e repousamos ali três dias.
+\v Esd.8.33
+Ao quarto dia foram pesados a prata, o ouro, e os utensílios, na casa de nosso Deus, por meio de Meremote, filho do sacerdote Urias, e com ele Eleazar filho de Fineias; e com eles os levitas Jozabade filho de Jesuá, e Noadias filho de Binui.
+\v Esd.8.34
+Tudo foi 
+\added
+conferido
+\*added
+ em número e em peso; e ao mesmo tempo o peso foi registrado.
+\v Esd.8.35
+E os transportados, que tinham vindo do cativeiro deram como oferta de queima ao Deus de Israel doze novilhos por todos os israelitas, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes como sacrifício pelo pecado; tudo 
+\added
+isto
+\*added
+ como oferta de queima ao SENHOR.
+\v Esd.8.36
+Então deram as ordens do rei aos comissários 
+\fn
+\key
+comissários
+\*key
+equiv. sátrapas 
+\*fn
+do rei, e aos governadores dalém do rio, os quais ajudaram ao povo e à casa de Deus.
+\v Esd.9.1
+Acabadas, pois, estas coisas, os príncipes se achegaram a mim, dizendo: O povo de Israel, os sacerdotes e os levitas, não têm se separado dos povos destas terras, segundo suas abominações: dos cananeus, heteus, perizeus, jebuseus, amonitas, moabitas, egípcios, e amorreus.
+\v Esd.9.2
+Pois tomaram de suas filhas para si e para seus filhos, e 
+\added
+assim
+\*added
+ a descendência santa se misturou com os povos destas terras; e os príncipes e os oficiais foram os primeiros nesta transgressão.
+\v Esd.9.3
+Quando eu ouvi isto, rasguei a minha roupa e meu manto; e arranquei dos cabelos de minha cabeça e de minha barba, e me sentei abismado.
+\v Esd.9.4
+Então se juntaram a mim todos os que se tremiam pelas palavras do Deus de Israel, por causa da transgressão dos que foram exilados; mas eu fiquei sentado, abismado, até o sacrifício da tarde.
+\v Esd.9.5
+E perto do sacrifício da tarde eu me levantei de minha aflição; e já tendo rasgado minha roupa e meu manto, inclinei-me de joelhos, e estendi minhas mãos ao SENHOR meu Deus,
+\v Esd.9.6
+E disse: Meu Deus, estou confuso e envergonhado para levantar a ti, meu Deus, o meu rosto; pois nossas perversidades se multiplicaram sobre nossa 
+\added
+cabeça
+\*added
+,e nossa culpa têm crescido até os céus. 
+\v Esd.9.7
+Desde os dias de nossos pais até o dia de hoje estamos em grande culpa; e por nossas perversidades nós, nossos reis, e nossos sacerdotes, somos entregues nas mãos dos reis das terras, à espada, ao cativeiro, ao, e à vergonha de rosto, como 
+\added
+se vê
+\*added
+ hoje.
+\v Esd.9.8
+Mas agora, por um breve momento, houve favor da parte do SENHOR nosso Deus, para deixar um restante livre, e para nos dar uma estaca em seu santo lugar, a fim de iluminar nossos olhos, ó Deus nosso, e nos dar um pouco de alívio em nossa escravidão.
+\v Esd.9.9
+Porque somos escravos; porém em nossa escravidão nosso Deus não nos desamparou, mas, sim, inclinou sobre nós bondade diante dos reis da Pérsia, para nos dar alívio, para levantarmos a casa de nosso Deus, e restaurarmos suas ruínas, e para nos dar um muro em Judá e em Jerusalém.
+\v Esd.9.10
+Mas agora, ó Deus nosso, o que diremos depois disto? Porque abandonamos os teus mandamentos,
+\v Esd.9.11
+Os quais mandaste por meio de teus servos, os profetas, dizendo: A terra em que entrais para tomar posse é um terra imunda, por causa das imundícias dos povos daquelas terras, por suas abominações com que a encheram de um extremo ao outro de sua contaminação.
+\v Esd.9.12
+Agora, pois, não dareis vossas filhas aos seus filhos, nem tomareis suas filhas para vossos filhos, e nunca procurareis sua paz nem seu bem; para que vos fortaleçais, e comais o bem da terra, e a deixeis por herança a vossos filhos para sempre.
+\v Esd.9.13
+E depois de tudo o que nos sobreveio por causa de nossas más obras, e de nossa grande culpa, ainda que tu, Deus nosso, puniste menos do que 
+\added
+merecíamos
+\*added
+ por nossas perversidades, e nos deixaste um remanescente como este;
+\v Esd.9.14
+Voltaremos, pois, agora, a anular teus mandamentos, e a nos aparentarmos com os povos destas abominações? Não te indignarias tu contra nós até nos consumir, até não haver resto nem remanescente?
+\v Esd.9.15
+Ó SENHOR, Deus de Israel, tu és justo; pois restamos como remanescente, assim como 
+\added
+se vê
+\*added
+ hoje. Eis que estamos diante de ti em nossa culpa; ainda que por causa disso ninguém há que possa subsistir diante de tua presença.
+\v Esd.10.1
+E enquanto Esdras estava orando, confessando, chorando, e prostrando-se diante da casa de Deus, ajuntou-se a ele uma multidão muito grande de israelitas, homens, mulheres, e crianças; pois o povo chorava muito.
+\v Esd.10.2
+Então Secanias, filho de Jeiel, dos filhos de Elão, respondeu a Esdras, dizendo: Nós temos transgredido contra nosso Deus, pois nos casamos com mulheres estrangeiras dos povos da terra; mas quanto a isto, ainda há esperança para Israel.
+\v Esd.10.3
+Agora, pois, façamos um pacto com o nosso Deus, de que despediremos todas as mulheres e os todos os nascidos delas, conforme o conselho do Senhor, e dos que tremem ao mandamento de nosso Deus; e faça-se conforme à lei.
+\v Esd.10.4
+Levanta-te, porque cabe a ti este negócio, e nós seremos contigo; esforça-te, e faze-o.
+\v Esd.10.5
+Então Esdras se levantou, e fez os chefes dos sacerdotes 
+\added
+e
+\*added
+ dos levitas, e a todo Israel, jurarem que fariam conforme esta palavra; e eles juraram.
+\v Esd.10.6
+E Esdras se levantou de diante da casa de Deus, e entrou na câmara de Joanã, filho de Eliasibe; e depois de chegar lá, não comeu pão nem bebeu água, porque estava entristecido pela transgressão dos transportados.
+\v Esd.10.7
+Então proclamaram em Judá e em Jerusalém a todos os que vieram do cativeiro, que se reunissem em Jerusalém;
+\v Esd.10.8
+E que de todo aquele que não viesse em três dias, segundo o conselho dos príncipes e dos anciãos, fosse tomada toda a sua riqueza, e ele fosse separado da comunidade dos transportados.
+\v Esd.10.9
+Então todos os homens de Judá e de Benjamim se reuniram em Jerusalém em três dias, aos vinte do mês, no nono mês; e todo o povo se sentou na praça da casa de Deus, tremendo por causa deste negócio, e por causa das grandes chuvas.
+\v Esd.10.10
+Assim o sacerdote Esdras se levantou, e lhes disse: Vós transgredistes, por terdes se casado com mulheres estrangeiras, aumentando assim a culpa de Israel. 
+\v Esd.10.11
+Agora, pois, confessai ao SENHOR, Deus de vossos pais, e fazei a sua vontade, e separai-vos dos povos das terras, e das mulheres estrangeiras.
+\v Esd.10.12
+E toda a congregação respondeu, dizendo em alta voz: Assim se faça, conforme a tua palavra.
+\v Esd.10.13
+Porém o povo é muito, e o tempo chuvoso, e não há condições de ficar fora das casas; nem esta obra é de um dia ou de dois, porque somos muitos os que transgredimos neste negócio.
+\v Esd.10.14
+Portanto fiquem encarregados nossos príncipes por toda a congregação; e todos os que em nossas cidades que houverem se casado com mulheres estrangeiras, venham a tempos determinados, e com eles os anciãos de cada cidade, e seus juízes, até que desviemos de nós o ardor da ira de nosso Deus por esta causa.
+\v Esd.10.15
+Somente Jônatas filho de Asael, e Jazeias filho de Ticvá, apoiados por Mesulão e o levita Sabetai, se opuseram a isto.
+\v Esd.10.16
+E assim fizeram os que voltaram do cativeiro; e foram separados pelo sacerdote Esdras os homens, chefes de famílias, segundo a casa de seus pais, todos eles por 
+\added
+seus
+\*added
+ nomes, para se sentarem ao dia primeiro do mês décimo, para investigarem este negócio.
+\v Esd.10.17
+E ao primeiro dia do mês primeiro, terminaram 
+\added
+de investigar
+\*added
+ os homens que haviam se casado com mulheres estrangeiras.
+\v Esd.10.18
+E dos filhos dos sacerdotes que haviam se casado com mulheres estrangeiras, foram achados estes: dos filhos de Jesuá, filho de Jozadaque, e de seus irmãos: Maaseias, Eliézer, Jaribe, e Gedalias;
+\v Esd.10.19
+E prometeram despedir suas mulheres e, reconhecendo sua culpa, ofereceram um carneiro do rebanho pela transgressão deles.
+\v Esd.10.20
+E dos filhos de Imer: Hanani e Zebadias.
+\v Esd.10.21
+E do filhos de Harim, Maaseias, Elias, Semaías, Jeiel, e Uzias.
+\v Esd.10.22
+E dos filhos de Pasur: Elioenai, Maaseias, Ismael, Natanael, Jozabade, e Elasá.
+\v Esd.10.23
+E dos filhos dos levitas: Jozabade, Simei, Quelaías (este é Quelita), Petaías, Judá, e Eliézer.
+\v Esd.10.24
+E dos cantores: Eliasibe; e dos porteiros: Salum, Telém, e Uri.
+\v Esd.10.25
+E dos 
+\added
+demais
+\*added
+ israelitas: Dos filhos de Parós: Ramias, Jezias, Malquias, Miamim, Eleazar, e Malquias, e Benaías.
+\v Esd.10.26
+E dos filhos de Elão: Matanias, Zacarias, Jeiel, Abdi, Jeremote, Elias.
+\v Esd.10.27
+E dos filhos de Zatu: Elioenai, Eliasibe, Matanias, e Jeremote, Zabade, e Aziza.
+\v Esd.10.28
+E dos filhos de Bebai: Jeoanã, Hananias, Zabai, Atlai.
+\v Esd.10.29
+E dos filhos de Bani: Mesulão, Maluque, Adaías, Jasube, Seal, e Jeremote.
+\v Esd.10.30
+E dos filhos de Paate-Moabe: Adna, Quelal, Benaías, Maaseias, Matanias, Bezalel, Binui e Manassés.
+\v Esd.10.31
+E dos filhos de Harim: Eliézer, Issias, Malquias, Semaías, Simeão,
+\v Esd.10.32
+Benjamim, Maluque, e Semarias.
+\v Esd.10.33
+Dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés, Simei.
+\v Esd.10.34
+Dos filhos de Bani: Maadai, Anrão, Uel,
+\v Esd.10.35
+Benaías, Bedias, Queluí,
+\v Esd.10.36
+Vanias, Meremote, Eliasibe,
+\v Esd.10.37
+Matanias, Matenai, e Jaasai,
+\v Esd.10.38
+E Bani, e Binui, Simei,
+\v Esd.10.39
+Selemias, Natã, Adaías,
+\v Esd.10.40
+Macnadbai, Sasai, Sarai,
+\v Esd.10.41
+Azareel, Selemias, Semarias,
+\v Esd.10.42
+Salum, Amarias, José.
+\v Esd.10.43
+E dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel, e Benaías.
+\v Esd.10.44
+Todos estes haviam tomado mulheres estrangeiras; e 
+\added
+alguns
+\*added
+ deles tiveram filhos com tais mulheres.

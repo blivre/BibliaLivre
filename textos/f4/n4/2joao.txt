@@ -1,0 +1,63 @@
+﻿\name-long
+Segunda Carta de João
+\*name-long
+\name-short
+2 João
+\*name-short
+\abbreviation
+2Jo
+\*abbreviation
+\ubs-code
+2JN
+\*ubs-code
+\v 2Jo.1.1
+O ancião, à senhora eleita, e a seus filhos, aos quais eu amo em verdade; e não somente eu, mas também todos os que têm conhecido a verdade;
+\v 2Jo.1.2
+Por causa da verdade que está em nós, e estará para sempre conosco.
+\v 2Jo.1.3
+Graça, misericórdia, 
+\added
+e
+\*added
+ paz de Deus Pai, e do Senhor Jesus Cristo, o Filho do Pai, seja convosco em verdade e amor.
+\v 2Jo.1.4
+Muito me alegrei por eu ter encontrado 
+\added
+alguns
+\*added
+ de teus filhos andando na verdade, assim como recebemos o mandamento do Pai.
+\v 2Jo.1.5
+E agora, senhora, eu te rogo, não como te escrevendo um novo mandamento, mas o que tivemos desde o princípio: que nos amemos uns aos outros.
+\v 2Jo.1.6
+E este é o amor: que andemos segundo seus mandamentos. E este é o mandamento, como 
+\added
+já
+\*added
+ ouvistes desde o princípio: que nele andeis.
+\v 2Jo.1.7
+Porque muitos enganadores têm surgido no mundo que não declaram que Jesus Cristo veio em carne. Este é o enganador e o anticristo.
+\v 2Jo.1.8
+Vigiai por vós mesmos, para que não percamos o que trabalhamos; mas sim que recebamos uma recompensa completa.
+\v 2Jo.1.9
+Todo aquele que vai além
+ e não continua na doutrina de Cristo não tem a Deus; quem continua na doutrina de Cristo tem tanto ao Pai quanto ao Filho.
+\v 2Jo.1.10
+Se alguém vem a vós, e não traz esta doutrina, não recebais em 
+\added
+vossa
+\*added
+ casa, nem o saudeis.
+\v 2Jo.1.11
+Porque quem o saúda compartilha com suas más obras.
+\v 2Jo.1.12
+Muitas coisas eu tenho que vos escrever, porém não eu quis 
+\added
+fazê-lo
+\*added
+ com papel e tinta; mas espero vir a vós, e 
+\added
+vos
+\*added
+ falar face a face, para que nossa alegria seja completa.
+\v 2Jo.1.13
+Os filhos de tua irmã, a eleita, te saúdam. Amém.

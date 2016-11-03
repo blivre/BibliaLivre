@@ -1,0 +1,619 @@
+﻿\name-long
+Primeira Carta de Paulo a Timóteo
+\*name-long
+\name-short
+1 Timóteo
+\*name-short
+\abbreviation
+1Tm
+\*abbreviation
+\ubs-code
+1TI
+\*ubs-code
+\v 1Tm.1.1
+Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
+\v 1Tm.1.2
+Para Timóteo, 
+\added
+meu
+\*added
+ verdadeiro filho na fé. 
+\added
+Haja em ti
+\*added
+ graça, misericórdia 
+\added
+e
+\*added
+ paz de Deus nosso Pai, e de Cristo Jesus nosso Senhor.
+\v 1Tm.1.3
+Assim como te roguei quando eu ia para a Macedônia, que ficasse em Éfeso, 
+\added
+assim também faço agora
+\*added
+,para que mandes a alguns não ensinarem outra doutrina;
+\v 1Tm.1.4
+Nem se detenham a mitos, nem a genealogias intermináveis, que mais produzem questionamentos do que a {tr:edificação}{rp,n4:execução do plano} de Deus{trnc:
+\fn
+RP, N4 contêm: “execução do plano de Deus”
+\*fn
+ }{n4:
+\fn
+TR contém: edificação de Deus
+\*fn
+ } na fé.
+\v 1Tm.1.5
+Mas o fim do mandamento é o amor 
+\added
+proveniente
+\*added
+ de um coração puro, e de uma boa consciência, e de uma fé não fingida;
+\v 1Tm.1.6
+Das quais, tendo alguns se desviado, voltaram-se para o vão uso de palavras;
+\v 1Tm.1.7
+Querendo ser mestres da Lei, 
+\added
+e
+\*added
+ não entendendo, nem o que dizem, nem o que confirmam.
+\v 1Tm.1.8
+Mas nós sabemos que a Lei é boa, se alguém usá-la dela legitimamente;
+\v 1Tm.1.9
+Sabendo isto: que a Lei não é posta para o justo, mas sim para os injustos e insubordinados, para os perversos e pecadores, para os maus e profanos, para os matam os pais e as mães, para os homicidas,
+\v 1Tm.1.10
+Para os que cometem pecados sexuais, para os machos que se deitam com machos, para os que capturam pessoas para escravizá-las, para os mentirosos, para os que juram falsamente, e os que fazem alguma outra coisa contrária à sã doutrina,
+\v 1Tm.1.11
+Segundo o Evangelho da glória do bem-aventurado Deus, que foi confiado a mim.
+\v 1Tm.1.12
+E eu dou graças ao que tem me fortalecido, a Cristo Jesus nosso Senhor, que me considerou fiel, pondo 
+\added
+-me
+\*added
+ neste trabalho.
+\v 1Tm.1.13
+ 
+\added
+Eu
+\*added
+ que antes era um blasfemador e perseguidor, e opressor; porém me foi feita misericórdia, porque agi com infidelidade por ignorância.
+\v 1Tm.1.14
+Mas a graça de nosso Senhor Jesus Cristo foi ainda mais abundante, com a fé e amor que há em Cristo Jesus.
+\v 1Tm.1.15
+Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal.
+\v 1Tm.1.16
+Mas por isso me foi feita misericórdia, para que Jesus Cristo em mim, que sou o principal 
+\added
+pecador
+\*added
+,mostrasse toda a sua grande paciência como exemplo para os que nele vierem a crer para a vida eterna;
+\v 1Tm.1.17
+E ao Rei de todos os tempos, incorruptível, invisível, o único Deus sábio, 
+\added
+seja
+\*added
+ a honra, e glória, para todo o sempre, amém!
+\v 1Tm.1.18
+Eu te ordeno este mandamento, Timóteo 
+\added
+meu
+\*added
+ filho, que segundo as profecias anteriormente feitas quanto a ti, batalhes nelas a boa batalha;
+\v 1Tm.1.19
+Retendo a fé, a boa consciência, a qual alguns, rejeitando, naufragaram da fé.
+\v 1Tm.1.20
+Dentre os quais está Himeneu e Alexandre, os quais eu entreguei a Satanás, para que aprendam a não 
+\added
+mais
+\*added
+ blasfemar.
+\v 1Tm.2.1
+Portanto eu te exorto para que se façam pedidos, orações, intercessões 
+\added
+e
+\*added
+ ações de graça por todos os homens;
+\v 1Tm.2.2
+Pelos reis, e 
+\added
+por
+\*added
+ todos os que estão em posição superior, para que tenhamos uma vida quieta e sossegada, em toda santidade e respeitabilidade.
+\v 1Tm.2.3
+Porque isto é bom e agradável diante de Deus nosso Salvador;
+\v 1Tm.2.4
+O qual quer que todos os homens se salvem e venham a conhecer a verdade.
+\v 1Tm.2.5
+Porque há um só Deus, e um só mediador entre Deus e os homens: o homem Cristo Jesus;
+\v 1Tm.2.6
+O qual deu a si mesmo 
+\added
+como
+\*added
+ resgate por todos, 
+\added
+dando
+\*added
+ testemunho a seu tempo;
+\v 1Tm.2.7
+Para o qual eu fui posto como pregador e apóstolo (eu estou dizendo a verdade em Cristo, não mentindo) instrutor dos gentios em fé e verdade.
+\v 1Tm.2.8
+Portanto eu quero que os homens orem em todo lugar, levantando mãos santas, sem ira nem discussão.
+\v 1Tm.2.9
+Semelhantemente também, que as mulheres se adornem com roupa respeitável, com pudor e prudência, não com cabelo trançado, ou ouro, ou pérolas, ou roupas caras;
+\v 1Tm.2.10
+Mas sim com o que é conveniente para mulheres que declaram servir a Deus: com boas obras.
+\v 1Tm.2.11
+A mulher aprenda sem alta voz, com toda submissão.
+\v 1Tm.2.12
+Mas não permito que a mulher ensine, nem use de autoridade sobre o homem, mas sim que esteja em silêncio.
+\v 1Tm.2.13
+Porque Adão foi formado primeiro, 
+\added
+e
+\*added
+ depois Eva.
+\v 1Tm.2.14
+E Adão não foi enganado; mas a mulher, sendo enganada, caiu em transgressão.
+\v 1Tm.2.15
+Mas ela se salvará tendo filhos, se permanecer na fé, amor e santificação com prudência.
+\v 1Tm.3.1
+ 
+\added
+Esta
+\*added
+ palavra é fiel: se alguém deseja ser supervisor,
+\fn
+\key
+supervisor = equiv. bispo
+\*key
+também v. 2
+\*fn
+ deseja uma excelente obra.
+\v 1Tm.3.2
+Convém, portanto, que o supervisor seja irrepreensível, marido de uma mulher, sóbrio, prudente, de comportamento decente, hospitaleiro, apto para ensinar;
+\v 1Tm.3.3
+Não dado ao vinho, não violento{tr,rp:, não ganancioso},{trnc:
+\fn
+N4 omite “não ganancioso”
+\*fn
+ }{n4:
+\fn
+TR, RP adicionam “não ganancioso”
+\*fn
+ } mas sim moderado, não disposto a brigas, sem cobiça pelo dinheiro;
+\v 1Tm.3.4
+que governe bem sua própria casa, tendo a 
+\added
+seus
+\*added
+ filhos em sujeição com toda dignidade.
+\v 1Tm.3.5
+(Porque se alguém não sabe governar sua própria casa, como cuidará da igreja de Deus?)
+\v 1Tm.3.6
+Não novo 
+\added
+na fé
+\*added
+ ; para que não fique arrogante e caia na condenação do diabo.
+\v 1Tm.3.7
+É necessário também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação e 
+\added
+em
+\*added
+ laço do diabo.
+\v 1Tm.3.8
+Semelhantemente os servidores
+\fn
+servidores = equiv. diáconos
+\*fn
+ 
+\added
+sejam
+\*added
+ respeitáveis, não 
+\added
+mentirosos
+\*added
+ de duas conversas, não dados a muito vinho, não cobiçosos de ganância,
+\v 1Tm.3.9
+retendo o mistério da fé em uma pura consciência.
+\v 1Tm.3.10
+E estes também sejam primeiro provados, 
+\added
+e
+\*added
+ depois sirvam, aqueles que forem irrepreensíveis.
+\v 1Tm.3.11
+Semelhantemente as mulheres 
+\added
+sejam
+\*added
+ respeitáveis, não maldizentes, sóbrias, 
+\added
+e
+\*added
+ fiéis em todas as coisas.
+\v 1Tm.3.12
+Os diáconos sejam maridos de uma mulher, que governem bem 
+\added
+seus
+\*added
+ filhos, e suas próprias casas.
+\v 1Tm.3.13
+Porque os que servirem bem, obtêm para si um bom conceito, e muita confiança na fé que há em Cristo Jesus.
+\v 1Tm.3.14
+Eu te escrevo estas coisas esperando que em breve eu venha a ti;
+\v 1Tm.3.15
+Mas seu eu demorar, para que saibais como se deve andar na casa de Deus, que é a igreja do Deus vivo, a coluna e alicerce da verdade.
+\v 1Tm.3.16
+E sem dúvida nenhuma, grande é o mistério da santidade: {tr,rp:Deus}{n4:Ele}{trnc:
+\fn
+N4 substitui “Deus” por “Ele”
+\*fn
+ }{n4:
+\fn
+TR, RP substituem “Ele” por “Deus”
+\*fn
+ } foi manifesto em carne, justificado em Espírito, visto pelos anjos, anunciado aos gentios, crido no mundo, 
+\added
+e
+\*added
+ recebido acima em glória.
+\v 1Tm.4.1
+Mas o Espírito diz expressamente que nos últimos tempos alguns se afastarão da fé, dando atenção a espíritos enganadores, e a doutrina de demônios.
+\v 1Tm.4.2
+Pela hipocrisia de faladores de mentiras, tendo cauterizado sua própria consciência;
+\v 1Tm.4.3
+Proibindo se casar, e 
+\added
+mandando
+\*added
+ se abster das comidas que Deus criou para os fiéis e para os que conheceram a verdade para as receberem com ações de graças.
+\v 1Tm.4.4
+Porque toda criatura de Deus é boa, e 
+\added
+não há
+\*added
+ nada para se rejeitar, se for tomada com ações de graças.
+\v 1Tm.4.5
+Porque ela é santificada pela palavra de Deus e 
+\added
+pela
+\*added
+ oração.
+\v 1Tm.4.6
+Se tu propores estas coisas aos irmãos, tu serás bom trabalhador a serviço de Jesus Cristo, nutrido pelas palavras da fé, e de boa doutrina, as quais tu tens seguido.
+\v 1Tm.4.7
+Mas rejeita os mitos profanos e 
+\added
+histórias
+\*added
+ de velhas; e exercita a ti mesmo em santificação.
+\v 1Tm.4.8
+Porque o exercício corporal tem pouco proveito; mas a santificação é proveitosa para tudo, tendo as promessas da vida atual e da futura.
+\v 1Tm.4.9
+ 
+\added
+Esta
+\*added
+ palavra é fiel, e digna de toda aceitação.
+\v 1Tm.4.10
+Porque para isto também trabalhamos e {tr,rp:somos insultados}{n4:lutamos},{trnc:
+\fn
+TR, RP: “somos insultados” - N4: “lutamos”
+\*fn
+ }{n4:
+\fn
+\key
+N
+\*key
+“lutamos” : TR, RP: “somos insultados”
+\*fn
+ } porque esperamos o Deus vivo, que é o Salvador de todos os homens, e em especial dos crentes.
+\v 1Tm.4.11
+Ordena e ensina tu estas coisas
+\v 1Tm.4.12
+Ninguém te despreze por seres jovem, mas sim, sê exemplo para os crentes, em palavra, em comportamento, em amor, em espírito, em fé, 
+\added
+e
+\*added
+ em pureza.
+\v 1Tm.4.13
+Persiste na leitura, na exortação e no ensino, até que eu venha.
+\v 1Tm.4.14
+Não desprezes o dom que está em ti, o qual te foi dado por profecia, com a imposição das mãos dos presbíteros.
+\v 1Tm.4.15
+Medita 
+\added
+n
+\*added
+ estas coisas, 
+\added
+e
+\*added
+ nelas te ocupa; para que teu aperfeiçoamento seja visível por todos.
+\v 1Tm.4.16
+Tem cuidado de ti mesmo, e da doutrina; persevera nestas coisas; porque, se ao fazer isto, tu salvarás tanto a ti mesmo, como aos que te ouvem.
+\v 1Tm.5.1
+Não repreendas asperamente aos velhos, mas advirta 
+\added
+-os
+\*added
+ como a pais; aos rapazes, como a irmãos;
+\v 1Tm.5.2
+E às 
+\added
+mais
+\*added
+ velhas, como a mães; e as moças, como a irmãs, em toda pureza.
+\v 1Tm.5.3
+Honra às viúvas que verdadeiramente são viúvas.
+\v 1Tm.5.4
+Mas se alguma viúva tiver filhos, ou netos, aprendam primeiro a exercitar piedade para com sua própria casa, e a recompensar a seus pais; porque isto é bom e agradável diante de Deus.
+\v 1Tm.5.5
+E a que é verdadeiramente viúva, e deixada sozinha, espera em Deus, e persevera de noite e de dia em rogos e orações.
+\v 1Tm.5.6
+Mas a que segue sua sensualidade, 
+\added
+ainda que esteja
+\*added
+ vivendo, está morta.
+\v 1Tm.5.7
+Ordena pois estas coisas, para que sejam irrepreensíveis.
+\v 1Tm.5.8
+Mas se alguém não tem cuidado dos seus, e principalmente dos de sua própria casa, 
+\added
+então
+\*added
+ tem negado a fé, e é pior que o incrédulo.
+\v 1Tm.5.9
+A viúva, para ser registrada, não 
+\added
+deve ter
+\*added
+ menos de sessenta anos, 
+\added
+e
+\*added
+ que tenha sido mulher de um marido.
+\v 1Tm.5.10
+Tendo testemunho de boas obras, se criou filhos, se foi hospitaleira, se lavou os pés dos santos, se socorreu aos aflitos, se seguiu em toda boa obra.
+\v 1Tm.5.11
+Mas não admitas as viúvas mais jovens; porque, quando tiverem desejos sensuais contra Cristo, elas querem se casar;
+\v 1Tm.5.12
+Tendo 
+\added
+já
+\*added
+ a condenação 
+\added
+delas
+\*added
+,por elas terem anulado 
+\added
+sua
+\*added
+ primeira fé.
+\v 1Tm.5.13
+E ao mesmo tempo também aprendem ociosamente a andar de casa em casa; e não somente ociosas, mas também fofoqueiras e curiosas, falando o que não se deve.
+\v 1Tm.5.14
+Quero, portanto, que as mais jovens se casem, gerem filhos, administrem a casa, 
+\added
+e
+\*added
+ não deem nenhuma oportunidade para o adversário ao maldizer.
+\v 1Tm.5.15
+Porque algumas já se desviaram, 
+\added
+indo
+\*added
+ atrás de Satanás.
+\v 1Tm.5.16
+Se algum crente ou alguma crente tem viúvas, presta assistência a elas, e não passe a responsabilidade para a igreja, para que 
+\added
+a igreja
+\*added
+ possa prestar assistência às que verdadeiramente são viúvas.
+\v 1Tm.5.17
+Os presbíteros 
+\added
+ou seja, os anciãos
+\*added
+ que lideram bem, sejam estimados como dignos de honra dobrada, principalmente os que trabalham na palavra e 
+\added
+na
+\*added
+ doutrina.
+\v 1Tm.5.18
+Porque a Escritura diz: Ao boi que estiver debulhando, não amarrarás a boca;e: Digno é o trabalhador de seu salário.
+\v 1Tm.5.19
+Não aceites acusação contra o presbítero, a não ser com duas ou três testemunhas.
+\v 1Tm.5.20
+Aos que pecarem, repreenda 
+\added
+-os
+\*added
+ na presença de todos, para que os outros também tenham temor.
+\v 1Tm.5.21
+Eu 
+\added
+te
+\*added
+ ordeno sob juramento, diante de Deus, e do Senhor Jesus Cristo, e dos anjos escolhidos, que guardes estas coisas sem prejulgamentos, fazendo nada por favoritismo.
+\v 1Tm.5.22
+A ninguém imponhas as mãos apressadamente, nem sejas coparticipante em pecados alheios; conserva puro a ti mesmo.
+\v 1Tm.5.23
+Não bebas mais 
+\added
+somente
+\*added
+ água, mas usa 
+\added
+também
+\*added
+ de um pouco de vinho, por causa do teu estômago, e de tuas frequentes enfermidades.
+\v 1Tm.5.24
+Os pecados de alguns homens são claramente manifestos, e vão adiante 
+\added
+deles
+\*added
+ para 
+\added
+sua
+\*added
+ condenação, mas para alguns, eles seguem depois.
+\v 1Tm.5.25
+Semelhantemente também as boas obras são manifestas com antecedência; e as que são de outra maneira não podem se esconder.
+\v 1Tm.6.1
+Todos os servos, que estão debaixo de jugo, estimem a seus próprios senhores como dignos de toda honra; para que o nome de Deus e 
+\added
+sua
+\*added
+ doutrina não sejam blasfemados.
+\v 1Tm.6.2
+E os que tem Senhores crentes, não os desprezem, por serem irmãos; mas sim, muito mais os sirvam, porque aqueles que recebem este benefício são crentes e amados. Ensina e exorta estas coisas.
+\v 1Tm.6.3
+Se alguém ensina de outra maneira, e não concorda com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é conforme à devoção 
+\added
+a Deus
+\*added
+ ;
+\v 1Tm.6.4
+ 
+\added
+e
+\*added
+ é presunçoso, e nada sabe, mas se interessa de forma doentia por questões e disputas de palavras, das quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
+\v 1Tm.6.5
+Perversas discussões de homens corruptos de entendimento, e privados da verdade, pensando que a devoção 
+\added
+a Deus
+\*added
+ é 
+\added
+um meio de se obter
+\*added
+ lucro.{tr,rp: Afasta-te dos tais.}{trnc:
+\fn
+N4 omite “Afasta-te dos tais”
+\*fn
+ }{n4:
+\fn
+TR, RP acrescentam: “Afasta-te dos tais” ao final do versículo
+\*fn
+ }
+\v 1Tm.6.6
+Mas a devoção 
+\added
+a Deus
+\*added
+ com contentamento é um grande lucro.
+\v 1Tm.6.7
+Porque nada trouxemos ao mundo, e 
+\added
+nos é
+\*added
+ conhecido que nada podemos levar dele.
+\v 1Tm.6.8
+Mas tendo alimento, e algo para nos cobrirmos, estejamos contentes com isso.
+\v 1Tm.6.9
+Mas os que querem se enriquecer caem em tentação, e 
+\added
+em
+\*added
+ armadilha, e 
+\added
+em
+\*added
+ muitas loucos e nocivos maus desejos, que afundam os homens em perdição e ruína.
+\v 1Tm.6.10
+Porque o amor ao dinheiro é a raiz de todos os males; pelo qual, alguns cobiçando, desviaram-se da fé, e perfuraram a si mesmos com muitas dores.
+\v 1Tm.6.11
+Mas tu, ó homem de Deus, foge destas coisas, e segue a justiça, a devoção 
+\added
+a Deus
+\*added
+,a fé, o amor, a paciência 
+\added
+e
+\*added
+ a mansidão.
+\v 1Tm.6.12
+Luta tu a boa luta da fé; agarra a vida eterna, para a qual também és chamado, e 
+\added
+já
+\*added
+ confessaste a boa confissão diante de muitas testemunhas.
+\v 1Tm.6.13
+Eu te mando, diante de Deus que vivifica todas as coisas, e de Cristo Jesus, que testemunhou a boa confissão diante de Pôncio Pilatos,
+\v 1Tm.6.14
+Que guardes este mandamento irrepreensível, sem nenhuma mancha 
+\added
+de erro
+\*added
+,até o aparecimento de nosso Senhor Jesus Cristo.
+\v 1Tm.6.15
+A qual ao seus tempos 
+\added
+devidos
+\*added
+ mostrará o bem-aventurado e único poderoso Senhor, Rei dos reis, e Senhor dos Senhores;
+\v 1Tm.6.16
+O qual 
+\added
+é
+\*added
+ o único a ter imortalidade, e habita em uma luz inacessível; a quem nenhum dos homens viu, nem pode ver; ao qual seja a honra, e poder para sempre, Amém.
+\v 1Tm.6.17
+Manda aos ricos neste mundo, que não sejam soberbos, nem ponham 
+\added
+sua
+\*added
+ confiança na incerteza das riquezas, mas sim no Deus vivo, que nos dá todas as coisas abundantemente, para 
+\added
+nossa
+\*added
+ alegria.
+\v 1Tm.6.18
+Que façam o bem, enriqueçam em boas obras, e compartilhem com boa vontade, 
+\added
+e
+\*added
+ sejam bons distribuidores.
+\v 1Tm.6.19
+Acumulando para si mesmos um bom fundamento para o futuro, para que possam obter a {tr,rp:vida eterna}{n4:verdadeira vida}.{trnc:
+\fn
+TR, RP: vida eterna – N4: verdadeira vida
+\*fn
+ }{n4:
+\fn
+\key
+N
+\*key
+verdadeira vida : TR, RP: vida eterna
+\*fn
+ }
+\v 1Tm.6.20
+Timóteo, guarda o depósito 
+\added
+que foi
+\*added
+ confiado 
+\added
+a ti
+\*added
+,retirando-te de conversas vãs e profanas, e das oposições que falsamente são chamadas de conhecimento;
+\v 1Tm.6.21
+Ao qual alguns, ao professarem, se desviaram da fé. A graça 
+\added
+seja
+\*added
+ contigo. Amém.{tr: 
+\added
+A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana
+\*added
+ .}{trnc:
+\fn
+RP, N4 não contêm informação de onde a carta foi escrita
+\*fn
+ }

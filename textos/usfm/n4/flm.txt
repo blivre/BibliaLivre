@@ -1,0 +1,37 @@
+﻿\id PHM Bíblia Livre - Nestle 1904
+\ide UTF-8
+\h Filemom
+\toc1 Carta de Paulo a Filemom
+\toc2 Filemom
+\toc3 Flm
+\mt Carta de Paulo a Filemom
+
+
+\c 1
+\p
+
+\v 1 Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, a Filemom, o amado, e nosso cooperador;
+\v 2 E à irmã  \f + \ft TR, RP: amada  \f*  Ápia, e a Arquipo nosso companheiro de batalha, e à igreja \add que está\add*  em tua casa;
+\v 3  \add Haja\add*  em vós graça e paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+\v 4 Eu dou graças a meu Deus sempre me lembrando de ti em minhas orações;
+\v 5 Ao ouvir de teu amor e a fé que tu tens para com o Senhor Jesus, e para com todos os santos;
+\v 6 Para que a comunhão de tua fé seja eficaz no reconhecimento de todo o bem que há em vós por Cristo Jesus.
+\v 7 Porque nós temos grande alegria e consolo em teu amor, pelo qual, por meio de ti, irmão, os sentimentos dos santos foram aliviados.
+\v 8 Por isso, ainda que em Cristo eu tenha grande confiança para te mandar \add aquilo que te é\add*  conveniente,
+\v 9 Em vez disso por amor eu \add te\add*  peço, \add ainda que\add*  eu seja tal, Paulo, o velho, e também agora um prisioneiro de Jesus Cristo;
+\v 10 Eu te peço por meu filho Onésimo, ao qual eu gerei durante minhas prisões.
+\v 11 Aquele que antes te era inútil, mas agora útil para mim e para ti,
+\v 12 Eu o enviei, como os meus mais íntimos sentimentos, de volta a ti;
+\v 13 Eu \add até que\add*  gostaria de retê-lo comigo, para que como teu \add substituto\add*  ele me servisse nas prisões do Evangelho;
+\v 14 Mas eu nada quis fazer sem tua opinião, para que tua bondade não fosse como que por obrigação, mas sim de livre vontade.
+\v 15 Porque talvez por isso que ele tenha se separado \add de ti\add*  por algum tempo, para que tu o recebesses de volta para sempre.
+\v 16 Não mais como a um servo, mas sim mais que um servo, \add como\add*  a um amado irmão, especialmente para mim, e muito mais de ti, tanto na carne como no Senhor.
+\v 17 Portanto, se tu me tens como companheiro, \add então\add*  recebe-o como a mim.
+\v 18 E se ele te fez algum dano, ou te deve \add alguma coisa\add* ,põe \add isto\add*  na minha conta.
+\v 19 Eu, Paulo, de minha \add própria\add*  mão \add o\add*  escrevi, eu pagarei; para eu não te dizer que tu me deves a ti mesmo.
+\v 20 Assim, irmão, que eu tenha algum benefício de ti no Senhor; alivia meus sentimentos no Senhor.
+\v 21 Tendo confiança de tua obediência eu te escrevi, sabendo que tu farás ainda mais do que eu digo.
+\v 22 E enquanto isso também me prepara um lugar para \add eu\add*  ficar; porque eu espero que por vossas orações eu seja entregue a vós.
+\v 23 Saúdam-te: Epafras (meu companheiro de prisão em Cristo Jesus),
+\v 24 Marcos, Aristarco, Demas \add e\add*  Lucas (meus cooperadores).
+\v 25 A graça de nosso Senhor Jesus Cirsto \add seja\add*  com vosso espírito. Amém!

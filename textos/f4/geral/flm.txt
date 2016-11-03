@@ -1,0 +1,150 @@
+﻿\name-long
+Carta de Paulo a Filemom
+\*name-long
+\name-short
+Filemom
+\*name-short
+\abbreviation
+Flm
+\*abbreviation
+\ubs-code
+PHM
+\*ubs-code
+\v Flm.1.1
+Paulo, prisioneiro de Cristo Jesus, e o irmão Timóteo, a Filemom, o amado, e nosso cooperador;
+\v Flm.1.2
+E à {tr,rp:amada}{n4:irmã}{trnc: 
+\fn
+N4: irmã 
+\*fn
+}{n4: 
+\fn
+TR, RP: amada 
+\*fn
+} Ápia, e a Arquipo nosso companheiro de batalha, e à igreja 
+\added
+que está
+\*added
+ em tua casa;
+\v Flm.1.3
+ 
+\added
+Haja
+\*added
+ em vós graça e paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+\v Flm.1.4
+Eu dou graças a meu Deus sempre me lembrando de ti em minhas orações;
+\v Flm.1.5
+Ao ouvir de teu amor e a fé que tu tens para com o Senhor Jesus, e para com todos os santos;
+\v Flm.1.6
+Para que a comunhão de tua fé seja eficaz no reconhecimento de todo o bem que há em vós por Cristo Jesus.
+\v Flm.1.7
+Porque nós temos grande alegria e consolo em teu amor, pelo qual, por meio de ti, irmão, os sentimentos dos santos foram aliviados.
+\v Flm.1.8
+Por isso, ainda que em Cristo eu tenha grande confiança para te mandar 
+\added
+aquilo que te é
+\*added
+ conveniente,
+\v Flm.1.9
+Em vez disso por amor eu 
+\added
+te
+\*added
+ peço, 
+\added
+ainda que
+\*added
+ eu seja tal, Paulo, o velho, e também agora um prisioneiro de Jesus Cristo;
+\v Flm.1.10
+Eu te peço por meu filho Onésimo, ao qual eu gerei durante minhas prisões.
+\v Flm.1.11
+Aquele que antes te era inútil, mas agora útil para mim e para ti{tr:, eu o enviei de volta;}{n4:,}
+\v Flm.1.12
+{tr,rp:E tu, como os meus mais íntimos sentimentos, recebe-o;}{n4:Eu o enviei, como os meus mais íntimos sentimentos, de volta a ti;}{trnc: 
+\fn
+TR, RP: eu o enviei de volta; E tu, como os meus mais íntimos sentimentos, recebe-o – N4: Eu o enviei, como os meus mais íntimos sentimentos, de volta a ti 
+\*fn
+}
+\v Flm.1.13
+Eu 
+\added
+até que
+\*added
+ gostaria de retê-lo comigo, para que como teu 
+\added
+substituto
+\*added
+ ele me servisse nas prisões do Evangelho;
+\v Flm.1.14
+Mas eu nada quis fazer sem tua opinião, para que tua bondade não fosse como que por obrigação, mas sim de livre vontade.
+\v Flm.1.15
+Porque talvez por isso que ele tenha se separado 
+\added
+de ti
+\*added
+ por algum tempo, para que tu o recebesses de volta para sempre.
+\v Flm.1.16
+Não mais como a um servo, mas sim mais que um servo, 
+\added
+como
+\*added
+ a um amado irmão, especialmente para mim, e muito mais de ti, tanto na carne como no Senhor.
+\v Flm.1.17
+Portanto, se tu me tens como companheiro, 
+\added
+então
+\*added
+ recebe-o como a mim.
+\v Flm.1.18
+E se ele te fez algum dano, ou te deve 
+\added
+alguma coisa
+\*added
+,põe 
+\added
+isto
+\*added
+ na minha conta.
+\v Flm.1.19
+Eu, Paulo, de minha 
+\added
+própria
+\*added
+ mão 
+\added
+o
+\*added
+ escrevi, eu pagarei; para eu não te dizer que tu me deves a ti mesmo.
+\v Flm.1.20
+Assim, irmão, que eu tenha algum benefício de ti no Senhor; alivia meus sentimentos no Senhor.
+\v Flm.1.21
+Tendo confiança de tua obediência eu te escrevi, sabendo que tu farás ainda mais do que eu digo.
+\v Flm.1.22
+E enquanto isso também me prepara um lugar para 
+\added
+eu
+\*added
+ ficar; porque eu espero que por vossas orações eu seja entregue a vós.
+\v Flm.1.23
+Saúdam-te: Epafras (meu companheiro de prisão em Cristo Jesus),
+\v Flm.1.24
+Marcos, Aristarco, Demas 
+\added
+e
+\*added
+ Lucas (meus cooperadores).
+\v Flm.1.25
+A graça de nosso Senhor Jesus Cirsto 
+\added
+seja
+\*added
+ com vosso espírito. Amém!{tr: 
+\added
+Escrita em Roma para Filemom, e enviada pelo servo Onésimo
+\*added
+ }{trnc: 
+\fn
+RP, N4 não contêm informação de onde a carta foi escrita e por quem foi enviada 
+\*fn
+}

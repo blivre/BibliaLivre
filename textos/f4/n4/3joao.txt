@@ -1,0 +1,90 @@
+﻿\name-long
+Terceira Carta de João
+\*name-long
+\name-short
+3 João
+\*name-short
+\abbreviation
+3Jo
+\*abbreviation
+\ubs-code
+3JN
+\*ubs-code
+\v 3Jo.1.1
+O ancião, ao amado Gaio, a quem amo em verdade.
+\v 3Jo.1.2
+Amado, eu desejo que estejas bem em todas as coisas, e que tenhas saúde, assim como bem está a tua alma.
+\v 3Jo.1.3
+Pois muito me alegrei quando irmãos chegaram, e testemunharam da tua verdade, como tu andas na verdade.
+\v 3Jo.1.4
+Não tenho maior alegria do que esta: 
+\added
+a de
+\*added
+ ouvir que meus filhos andam na verdade.
+\v 3Jo.1.5
+Amado, tu ages fielmente em tudo o que fazes aos irmãos, inclusive aos forasteiros.
+\v 3Jo.1.6
+Estes, diante da igreja, testemunharam do teu amor; aos quais, tu agirás bem ao supri-los de modo digno 
+\added
+da vontade
+\*added
+ de Deus.
+\v 3Jo.1.7
+Pois foi por causa do Nome 
+\added
+dele
+\*added
+ que partiram em jornada, sem nada aceitar dos gentios. 
+\fn
+\key
+gentios
+\*key
+i.e., dos gentios não-cristãos 
+\*fn
+\v 3Jo.1.8
+Portanto devemos apoiar
+ tais pessoas, para que sejamos cooperadores da verdade.
+\v 3Jo.1.9
+Eu tenho escrito algo
+ aos da igreja; 
+\fn
+\key
+aos da igreja
+\*key
+lit. à igreja 
+\*fn
+porém Diótrefes, que busca ser o comandante deles, não nos recebe.
+\v 3Jo.1.10
+Por isso, se eu vier, trarei à memória os seus feitos, falando ele contra nós com palavras maliciosas; e não satisfeito com isso, não recebe aos irmãos, proíbe aos que se dispõem a fazer, e os expulsa da igreja.
+\v 3Jo.1.11
+Amado, não imites o mal, mas sim o bem. Quem faz o bem é de Deus, mas quem faz o mal nunca viu Deus.
+\v 3Jo.1.12
+Demétrio tem alcançado 
+\added
+bom
+\*added
+ testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e tu sabes
+ 
+\fn
+TR, RP: vós sabeis 
+\*fn
+ que o nosso testemunho é verdadeiro.
+\v 3Jo.1.13
+Eu tinha muitas coisas para escrever, porém não quero escrever a ti 
+\added
+sobre elas
+\*added
+ com tinta e pena;
+\v 3Jo.1.14
+mas espero te ver em breve, e falaremos face a face.
+\v 3Jo.1.15
+Paz seja contigo. Os amigos 
+\added
+daqui
+\*added
+ te saúdam. Saúda os amigos 
+\added
+daí
+\*added
+,cada um por nome.

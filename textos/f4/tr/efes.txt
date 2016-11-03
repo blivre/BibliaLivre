@@ -1,0 +1,572 @@
+﻿\name-long
+Carta de Paulo aos Efésios
+\*name-long
+\name-short
+Efésios
+\*name-short
+\abbreviation
+Ef
+\*abbreviation
+\ubs-code
+EPH
+\*ubs-code
+\v Ef.1.1
+Paulo, apóstolo de Jesus Cristo pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
+\v Ef.1.2
+Graça e paz, de Deus nosso Pai, e do Senhor Jesus Cristo, 
+\added
+sejam
+\*added
+ convosco.
+\v Ef.1.3
+Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com toda bênção espiritual nos lugares celestes em Cristo;
+\v Ef.1.4
+Assim como nos escolheu nele antes da fundação do mundo, para que sejamos santos e irrepreensíveis diante dele em amor.
+\v Ef.1.5
+E nos predestinou em adoção de filhos por meio de Jesus Cristo para si mesmo, segundo o que era agradável à sua vontade;
+\v Ef.1.6
+Para louvor da glória de sua graça, pela qual
+ nos agraciou no 
+\added
+seu
+\*added
+ Amado;
+\v Ef.1.7
+No qual temos libertação pelo seu sangue, o perdão dos pecados, segundo as riquezas de sua graça;
+\v Ef.1.8
+A qual ele fez abundar em nós em toda sabedoria e prudência,
+\v Ef.1.9
+Revelando-nos o mistério de sua vontade, conforme o que lhe era agradável, o qual propusera em si mesmo;
+\v Ef.1.10
+Para no plano especial do cumprimento dos tempos, voltar a reunir todas as coisas em Cristo, tanto as que 
+\added
+estão
+\*added
+ nos céus, quanto as que 
+\added
+estão
+\*added
+ na terra.
+\v Ef.1.11
+Naquele em quem também somos feitos herança, tendo sido predestinados conforme o propósito daquele que opera todas as coisas segundo o conselho de sua vontade.
+\v Ef.1.12
+Para que sejamos louvor de sua glória, nós os que primeiramente esperamos em Cristo.
+\v Ef.1.13
+Em quem vós também 
+\added
+estais
+\*added
+,depois que ouvistes a palavra da verdade: o Evangelho de vossa salvação; em quem também, tendo crido, fostes selados com o Espírito Santo da promessa.
+\v Ef.1.14
+O qual é o penhor de nossa herança, até que 
+\added
+haja
+\*added
+ libertação de 
+\added
+sua
+\*added
+ propriedade, para louvor de sua glória.
+\v Ef.1.15
+Por isso que eu, ouvindo também a fé que há entre vós no Senhor Jesus, e o amor para com todos os santos,
+\v Ef.1.16
+Não paro de dar graças 
+\added
+a Deus
+\*added
+ por vós, lembrando-me de vós em minhas orações;
+\v Ef.1.17
+Para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê o Espírito de sabedoria, e de revelação em seu conhecimento;
+\v Ef.1.18
+ 
+\added
+E sejam
+\*added
+ iluminados os olhos de vosso entendimento,
+ para que saibais qual é a esperança daquilo para que ele vos chamou, e quais as riquezas da glória de sua herança nos santos;
+\v Ef.1.19
+E qual é a superabundante grandeza de seu poder para nós, os que cremos, segundo o agir de sua poderosa força;
+\v Ef.1.20
+O qual agiu em Cristo, ressuscitando-o dos mortos; e o colocou à sua direita nos lugares celestes.
+\v Ef.1.21
+Acima de todo governo, e autoridade, e poder, e domínio, e 
+\added
+acima
+\*added
+ de todo nome que se nomeia, não somente nestes tempos, mas também nos que virão.
+\v Ef.1.22
+E ele sujeitou todas as coisas debaixo de seus pés, e lhe deu como cabeça sobre todas as coisas para a Igreja;
+\v Ef.1.23
+A qual é seu corpo, o cumprimento daquele que em todos cumpre tudo.
+\v Ef.2.1
+E vós, estando mortos em ofensas e pecados,
+\v Ef.2.2
+Nos quais anteriormente andastes segundo o proceder deste mundo, segundo o chefe da autoridade do ar, do espírito que agora opera nos filhos da desobediência;
+\v Ef.2.3
+Entre os quais também todos nós antes andávamos nos desejos de nossa carne, fazendo a vontade da carne e dos 
+\added
+nossos
+\*added
+ pensamentos; e éramos filhos da ira por natureza, assim como também os demais.
+\v Ef.2.4
+Mas Deus, que é rico em misericórdia, por seu muito amor com que nos amou,
+\v Ef.2.5
+Estando nós ainda mortos em 
+\added
+nossas
+\*added
+ ofensas, juntamente com Cristo nos vivificou; pela graça sois salvos.
+\v Ef.2.6
+E juntamente 
+\added
+nos
+\*added
+ ressuscitou, e 
+\added
+nos
+\*added
+ fez sentar nos lugares celestes em Cristo Jesus.
+\v Ef.2.7
+Para que nos tempos futuros mostrasse as abundantes riquezas de sua graça, por 
+\added
+sua
+\*added
+ bondade para conosco em Cristo Jesus.
+\v Ef.2.8
+Porque pela graça sois salvos, por meio da fé, e isto não 
+\added
+vem
+\*added
+ de vós; é dom de Deus.
+\v Ef.2.9
+Não por obras, para que ninguém tenha orgulho de si 
+\added
+mesmo
+\*added
+ .
+\v Ef.2.10
+Porque nós somos resultado de seu agir, criados em Cristo Jesus para as boas obras, as quais Deus preparou para que nelas andássemos.
+\v Ef.2.11
+Portanto lembrai-vos de que vós, que antes éreis gentios na carne, e chamados de incircuncisos pelos que se chamam de circuncisos na carne, 
+\added
+uma obra
+\*added
+ feita por mãos;
+\v Ef.2.12
+Que naquele tempo estáveis sem Cristo, excluídos do povo de Israel, e estrangeiros aos pactos da promessa, não tendo esperança, e sem Deus no mundo.
+\v Ef.2.13
+Mas agora em Cristo Jesus, vós que antes estáveis longe, já pelo sangue de Cristo vos aproximastes.
+\v Ef.2.14
+Porque ele é a nossa paz, que tornou os dois 
+\added
+povos
+\*added
+ em um, e derrubou o muro da separação.
+\v Ef.2.15
+Em sua carne ele desfez as inimizades da Lei dos mandamentos 
+\added
+que consistia
+\*added
+ em regras, para criar em si mesmo os dois em um 
+\added
+só
+\*added
+ novo homem, fazendo a paz;
+\v Ef.2.16
+E pela cruz reconciliar com Deus a ambos em um corpo, matando nela as inimizades.
+\v Ef.2.17
+E vindo, trouxe o evangelho da paz a vós que 
+\added
+estáveis
+\*added
+ longe, e aos que estavam perto.
+\v Ef.2.18
+Porque por meio dele ambos temos por um 
+\added
+mesmo
+\*added
+ Espírito ao Pai.
+\v Ef.2.19
+Portanto já não sois estrangeiros, nem forasteiros, mas sim concidadãos dos santos, e membros da família de Deus,
+\v Ef.2.20
+Edificados sobre o fundamento dos apóstolos, e dos profetas, sendo que Jesus Cristo é a pedra principal da esquina,
+\v Ef.2.21
+Em quem todo o edifício bem ajustado, cresce como um templo santo no Senhor.
+\v Ef.2.22
+Em quem também vós juntamente estais edificados para morada de Deus em Espírito.
+\v Ef.3.1
+Por isso eu, Paulo, 
+\added
+sou
+\*added
+ prisioneiro de Jesus Cristo, por causa de vós gentios.
+\v Ef.3.2
+Mas se tendes ouvido o plano especial da graça de Deus, que me foi dada para convosco;
+\v Ef.3.3
+O qual por revelação me foi informou este mistério (conforme antes 
+\added
+vos
+\*added
+ escrevi um pouco 
+\added
+disso
+\*added
+ ,
+\v Ef.3.4
+ 
+\added
+Através
+\*added
+ do qual, lendo, podeis entender meu conhecimento neste mistério de Cristo),
+\v Ef.3.5
+O qual em outras gerações não foi dado a conhecer aos filhos dos homens; como agora é revelado pelo Espírito aos seus santos apóstolos e profetas:
+\v Ef.3.6
+Que os gentios são coerdeiros, 
+\added
+membros
+\*added
+ de um mesmo corpo, e que compartilham de sua promessa em Cristo pelo Evangelho.
+\v Ef.3.7
+Deste 
+\added
+evangelho
+\*added
+ fui feito servidor pelo dom da graça de Deus, que me foi dado segundo a operação de seu poder,
+\v Ef.3.8
+Para mim, o menor de todos os santos, é dada esta graça, para entre os gentios anunciar pelo Evangelho as inimagináveis riquezas de Cristo,
+\v Ef.3.9
+E para esclarecer a todos qual é a comunhão
+ do mistério, que desde os 
+\added
+primeiros
+\*added
+ tempos esteve escondido em Deus, que criou todas as coisas por meio de Jesus Cristo.
+\v Ef.3.10
+Para que agora pela igreja seja informada aos governos e autoridades nos lugares celestes a multiforme sabedoria de Deus;
+\v Ef.3.11
+Segundo o eterno propósito, que ele realizou em Cristo Jesus, nosso Senhor,
+\v Ef.3.12
+No qual temos ousadia e acesso com confiança pela fé nele.
+\v Ef.3.13
+Portanto eu 
+\added
+vos
+\*added
+ peço que não desfaleçais em minhas aflições por vós, que é vossa glória.
+\v Ef.3.14
+Por causa disso eu me ponho de joelhos diante do Pai de nosso Senhor Jesus Cristo;
+\v Ef.3.15
+Do qual toda a família nos céus e na terra se nomeia;
+\v Ef.3.16
+Para que ele vos conceda, segundo as riquezas de sua glória, que com poder sejais fortalecidos por seu Espírito no interior de cada um, 
+\fn
+\key
+no interior de cada um
+\*key
+lit. no ser humano interior 
+\*fn
+\v Ef.3.17
+A fim de que pela fé Cristo habite em vossos corações; e vós estejais enraizados e firmados no amor;
+\v Ef.3.18
+Para que vós possais compreender, junto com todos os santos, qual é a largura, e comprimento, e profundidade, e altura;
+\v Ef.3.19
+E conhecer o amor de Cristo, que ultrapassa o entendimento; para que sejais cheios de toda a plenitude de Deus.
+\v Ef.3.20
+E aquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
+\v Ef.3.21
+A ele seja a glória na Igreja, em Cristo Jesus, por todas as gerações para todo o sempre, Amém!
+\v Ef.4.1
+Portanto eu, o prisioneiro no Senhor, vos peço que andeis como é digno do chamado com que fostes chamados,
+\v Ef.4.2
+Com toda humildade e mansidão; com paciência, tolerando uns aos outros em amor;
+\v Ef.4.3
+Procurando guardar a unidade do Espírito pelo vínculo da paz.
+\v Ef.4.4
+Há um 
+\added
+só
+\*added
+ corpo, e um 
+\added
+só
+\*added
+ Espírito, assim como também fostes chamados para uma 
+\added
+só
+\*added
+ esperança de vosso chamado.
+\v Ef.4.5
+Um 
+\added
+só
+\*added
+ Senhor, uma 
+\added
+só
+\*added
+ fé, um 
+\added
+só
+\*added
+ batismo;
+\v Ef.4.6
+Um 
+\added
+só
+\*added
+ Deus, e Pai de todos, que está sobre todos, e por todos, e em todos vós.
+\v Ef.4.7
+Mas a cada um de nós é dada a graça conforme a medida do dom de Cristo.
+\v Ef.4.8
+Portanto ele diz: Quando subiu ao alto, levou cativo ao cativeiro, e deu dons aos homens.
+\v Ef.4.9
+(E este que subiu, o que é, senão aquele que primeiro desceu às partes mais baixas da terra?
+\v Ef.4.10
+Aquele que desceu, é também o mesmo que subiu muito mais alto que todos os céus, para cumprir todas as coisas).
+\v Ef.4.11
+E o mesmo deu a uns para apóstolos, e outros para profetas, e a outros para evangelistas, e a outros para pastores e instrutores.
+\v Ef.4.12
+Para o aperfeiçoamento dos santos, para a obra do serviço 
+\added
+da igreja
+\*added
+,para a edificação do corpo de Cristo.
+\v Ef.4.13
+Até que todos venhamos à unidade da fé, e do conhecimento do Filho de Deus, em homem maduro, à medida da estatura da plenitude de Cristo;
+\v Ef.4.14
+Para que não mais sejamos crianças inconstantes, sendo levados com todo vento de doutrina pelo engano dos homens com astúcia, para enganar com fraudes;
+\v Ef.4.15
+A contrário, pratiquemos a verdade em amor, e cresçamos em tudo naquele que é o cabeça: Cristo.
+\v Ef.4.16
+A partir dele todo o corpo, bem ajustado e unido por todos os ligamentos de apoio, segundo a operação de cada parte em 
+\added
+sua
+\*added
+ medida, faz o corpo crescer, para sua própria edificação em amor.
+\v Ef.4.17
+Portanto isto digo e dou testemunho no Senhor, que não andeis mais como os outros gentios andam, no vazio de vossas mentes.
+\v Ef.4.18
+Eles têm 
+\added
+seu
+\*added
+ entendimento nas trevas, estranhos à vida de Deus pela ignorância que há neles, pela dureza de seus corações.
+\v Ef.4.19
+Por terem se tornado insensíveis, eles se entregaram ao mau desejo, para cometerem toda impureza com avidez.
+\v Ef.4.20
+Mas vós não aprendestes assim de Cristo;
+\v Ef.4.21
+Se realmente vós tendes o ouvido, e por ele fostes ensinados, assim como a verdade está em Jesus;
+\v Ef.4.22
+Acerca do comportamento do passado, a abandonar o velho homem, que se corrompe pelos maus e enganosos desejos;
+\v Ef.4.23
+A serdes renovados no espírito de vossa mente;
+\v Ef.4.24
+E a vos revestirdes do novo homem, que é criado conforme Deus na verdadeira justiça e santidade.
+\v Ef.4.25
+Portanto deixai a mentira, e falai a verdade cada um com seu próximo; porque somos membros uns dos outros.
+\v Ef.4.26
+Irai-vos, mas não pequeis; não se ponha o sol sobre vossa ira;
+\v Ef.4.27
+Nem deis lugar ao diabo.
+\v Ef.4.28
+O que furtava, não furte mais; mas sim trabalhe, operando o bem com as mãos, para que tenha com que repartir com o que tiver necessidade.
+\v Ef.4.29
+De vossa boca não saia palavra imoral; mas sim a que for boa para a edificação 
+\added
+quando
+\*added
+ necessária; para que dê graça aos que a ouvem.
+\v Ef.4.30
+E não entristeceis ao Espírito Santo de Deus, pelo qual estais selados para o dia da libertação.
+\v Ef.4.31
+Toda amargura, e ira, e irritação, e grito 
+\added
+de raiva
+\*added
+,e blasfêmia se tire de vós, junto com toda malícia.
+\v Ef.4.32
+E sede benignos uns para com os outros, 
+\added
+e
+\*added
+ misericordiosos, perdoando-vos uns aos outros, assim como também Deus vos perdoou em Cristo.
+\v Ef.5.1
+Portanto, sede imitadores de Deus, como filhos amados;
+\v Ef.5.2
+E andai em amor, assim como também Cristo nos amou, e entregou a si mesmo em oferta e sacrifício a Deus, em cheiro suave.
+\v Ef.5.3
+Mas o pecado sexual, e toda impureza ou ganância, nem mesmo ente vós se nomeie, assim como convém a santos;
+\v Ef.5.4
+Nem imoralidades, nem palavras tolas, nem escárnios, que não convêm; mas sim façamos ações de graças.
+\v Ef.5.5
+Porque vós sabeis disto, que nenhum que comete pecados sexuais, ou impuro, ou ganancioso, 
+\added
+ou
+\*added
+ quem é idólatra, tem herança no Reino de Cristo e de Deus.
+\v Ef.5.6
+Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência.
+\v Ef.5.7
+Portanto não sejais companheiros deles.
+\v Ef.5.8
+Porque antes vós éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz,
+\v Ef.5.9
+(Porque o fruto do Espírito
+ 
+\added
+consiste
+\*added
+ em toda bondade, e justiça, e verdade),
+\v Ef.5.10
+Provando o que é agradável ao Senhor.
+\v Ef.5.11
+E não sejais coparticipantes das obras infrutíferas das trevas, mas ao invés disso, reprovai-as.
+\v Ef.5.12
+Porque as coisas que eles fazem em segredo é vergonhoso até mesmo dizê-las.
+\v Ef.5.13
+Mas todas estas coisas se manifestam, sendo expostas à reprovação pela luz; porque tudo o que se manifesta é luz.
+\v Ef.5.14
+Por isso ele diz: Desperta tu, o que dormes, e levanta-te dos mortos, e Cristo te esclarecerá.
+\v Ef.5.15
+Portanto olhai prudentemente como andais, não como tolos, mas sim como sábios.
+\v Ef.5.16
+Aproveitando o tempo, porque os dias são maus.
+\v Ef.5.17
+Por isso, não sejais imprudentes, mas entendei qual é a vontade do Senhor.
+\v Ef.5.18
+E não fiqueis bêbados com vinho, em que há corrupção, mas enchei-vos do Espírito;
+\v Ef.5.19
+Falando entre vós com salmos e hinos e cânticos espirituais; cantando e tocando música ao Senhor em vosso coração;
+\v Ef.5.20
+Dando sempre graças por todas as coisas a 
+\added
+nosso
+\*added
+ Deus e Pai, no nome de nosso Senhor Jesus Cristo;
+\v Ef.5.21
+Sujeitando-vos uns aos outros no temor de Deus.
+\v Ef.5.22
+Vós, mulheres, sujeitai-vos a vossos próprios maridos, assim como ao Senhor;
+\v Ef.5.23
+Porque o marido é o cabeça da mulher, assim como também Cristo é o cabeça da Igreja; e ele é o salvador do corpo.
+\v Ef.5.24
+E assim como a Igreja está sujeita a Cristo, assim 
+\added
+estejam
+\*added
+ também as mulheres a seus próprios maridos em tudo.
+\v Ef.5.25
+Vós, maridos, amai as vossas próprias mulheres, assim como também Cristo amou a sua Igreja, e entregou a si mesmo por ela;
+\v Ef.5.26
+Para que a santificasse, purificando 
+\added
+-a
+\*added
+ com o banho da água pela palavra,
+\v Ef.5.27
+Para apresentar a si mesmo uma Igreja gloriosa, que não tivesse mancha, nem ruga, nem coisa semelhante; mas sim que fosse santa e irrepreensível.
+\v Ef.5.28
+Assim os maridos devem amar a suas próprias mulheres, como a seus próprios corpos. Quem ama sua mulher, ama a si mesmo;
+\v Ef.5.29
+Porque ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também o Senhor à Igreja.
+\v Ef.5.30
+Porque somos membros de seu corpo, de sua carne, e de seus ossos.
+\v Ef.5.31
+Por isso o homem deixará a seu pai e a sua mãe, e se juntará com sua mulher; e os dois serão uma 
+\added
+só
+\*added
+ carne.
+\v Ef.5.32
+Grande é este mistério; mas digo 
+\added
+isto
+\*added
+ quanto a Cristo e à Igreja.
+\v Ef.5.33
+Assim também vós, cada um em particular, cada qual ame a sua própria mulher como a si mesmo, e que a mulher tenha temor ao marido.
+\v Ef.6.1
+Vós, filhos, sede obedientes a vossos pais no Senhor; porque isto é justo.
+\v Ef.6.2
+Honra a teu pai, e 
+\added
+à tua
+\*added
+ mãe(que é o primeiro mandamento com promessa):
+\v Ef.6.3
+Para que te vá bem, e vivas muito tempo sobre a terra.
+\v Ef.6.4
+E vós, pais, não provoqueis à ira a vossos filhos, mas criai-os na doutrina e correção do Senhor.
+\v Ef.6.5
+Vós, servos, obedecei a 
+\added
+vossos
+\*added
+ senhores segundo a carne, com temor e tremor, em sinceridade de vosso coração, assim como a Cristo.
+\v Ef.6.6
+Não servindo somente quando observados, como que satisfazendo aos homens; mas sim como servos de Cristo, fazendo de coração a vontade de Deus;
+\v Ef.6.7
+Servindo de boa vontade ao Senhor, e não aos homens;
+\v Ef.6.8
+Sabendo que cada um receberá do Senhor todo o bem que fizer, seja servo, seja livre.
+\v Ef.6.9
+E vós, senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo também que o Senhor vosso e deles está nos céus, e 
+\added
+que
+\*added
+ para com ele não há acepção de pessoas.
+\v Ef.6.10
+Nas demais coisas, meus irmãos, esforçai-vos no Senhor, na força de seu poder.
+\v Ef.6.11
+Vesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.
+\v Ef.6.12
+Porque não lutamos contra carne e sangue, mas sim contra os domínios e autoridades, contra os poderosos do mundo, das trevas destes tempos, contra os males espirituais nos lugares celestes.
+\v Ef.6.13
+Portanto tomai toda a armadura de Deus, para que possais resistir no dia mal, e tendo feito tudo, ficar firmes.
+\v Ef.6.14
+Estai pois firmes, preparando vossos quadris com o 
+\added
+cinto
+\*added
+ da verdade, e vestidos com a couraça da justiça;
+\v Ef.6.15
+E calçados os pés com a prontidão do Evangelho da paz.
+\v Ef.6.16
+Tomando sobre tudo o escudo da fé, com o qual possais apagar todas as flechas pegando fogo, 
+\added
+vindas
+\*added
+ do maligno.
+\v Ef.6.17
+Tomai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus;
+\v Ef.6.18
+Orando em todo tempo com toda oração e súplica no Espírito, e vigiando nisto com toda perseverança, e súplica por todos os santos,
+\v Ef.6.19
+E por mim; para que me seja dada palavra ao abrir a minha boca com ousadia, para fazer conhecido o mistério do Evangelho;
+\v Ef.6.20
+pelo qual eu sou embaixador acorrentado; para que dele possa falar ousadamente, como me convém falar.
+\v Ef.6.21
+E para que também vós possais saber as coisas relacionadas a mim, 
+\added
+e
+\*added
+ o que eu faço, Tíquico, o irmão amado, e fiel trabalhador no Senhor vos fará conhecer tudo.
+\v Ef.6.22
+O qual para este mesmo fim vos enviei, para que sabais as coisas relacionadas a nós, e ele console vossos corações.
+\v Ef.6.23
+Paz 
+\added
+seja
+\*added
+ com os irmãos, e amor com fé, de Deus Pai, e do Senhor Jesus Cristo.
+\v Ef.6.24
+A graça 
+\added
+seja
+\*added
+ com todos os que amam a nosso Senhor Jesus Cristo em incorrupção. Amém! 
+\added
+Escrita de Roma para os Efésios, e enviada por Tíquico
+\*added
+ 

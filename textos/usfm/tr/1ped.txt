@@ -1,0 +1,147 @@
+﻿\id 1PE B�blia Livre - Textus Receptus
+\ide UTF-8
+\h 1 Pedro
+\toc1 Primeira Carta Universal de Pedro
+\toc2 1 Pedro
+\toc3 1Pd
+\mt Primeira Carta Universal de Pedro
+
+
+\c 1
+\p
+
+\v 1 Pedro, apóstolo de Jesus Cristo, aos forasteiros que estão espalhados em Ponto, Galácia, Capadócia, Ásia e Bitínia,
+\v 2 escolhidos segundo o pré-conhecimento de Deus Pai, por meio da santificação do Espírito, para a obediência e a aspersão do sangue de Jesus Cristo. Que a graça e a paz vos sejam multiplicadas.
+\v 3 Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo. Segundo sua grande misericórdia, ele nos regenerou para uma esperança viva, por meio da ressurreição de Jesus Cristo dentre os mortos.
+\v 4 E o resultado disso é uma herança incorruptível, incontaminável, e que não pode ser enfraquecida. Ela está guardada nos céus para vós,
+\v 5 que pela fé estais guardados no poder de Deus para a salvação, pronta para se revelar no último tempo.
+\v 6 Nisto vos alegrais, ainda que agora seja necessário que estejais por um pouco \add de tempo\add*  entristecidos com várias provações,
+\v 7 para que a prova de vossa fé, muito mais preciosa que o ouro que perece (mesmo sendo provado pelo fogo), seja achada em louvor, honra, e glória, na revelação de Jesus Cristo.
+\v 8 A ele, sem terdes visto, vós o amais. Ainda que não estejais o vendo agora, mas crendo nele, vós estais alegres com júbilo indescritível e glorioso.
+\v 9 Assim estais alcançando o resultado da vossa fé: a salvação das \add vossas\add*  almas.
+\v 10 Dessa salvação os profetas que profetizaram a respeito da graça \add direcionada\add*  a vós procuraram entender, e com empenho investigaram,
+\v 11 procurando saber qual era o tempo \f + \fq o tempo \ft ou: a pessoa \f*  ou ocasião que o Espírito de Cristo dentro deles indicava, quando dava prévio testemunho dos sofrimentos de Cristo e das glórias seguintes.
+\v 12 A eles foi revelado que não foi para eles mesmos, mas sim para nós, que eles prestaram serviço com estas coisas. E agora, elas vos foram anunciadas pelos que, pelo Espírito Santo enviado do céu, vos pregaram o Evangelho. Tais coisas os anjos desejam atentamente observar.
+\v 13 Portanto, preparai as vossas mentes, sede sóbrios, e esperai completamente na graça que vos será trazida na revelação de Jesus Cristo. \f + \fq preparai vossas mentes \ft lit. revestindo os lombos de vossa mente \f* 
+\v 14 E, como filhos obedientes, não vos conformeis com os maus desejos do passado, de quando éreis ignorantes. \f + \fq de quando éreis ignorantes \ft lit. em vossa ignorância \f* 
+\v 15 Ao contrário; assim como aquele que vos chamou é santo, sede vós também santos em todo o \add vosso\add*  comportamento.
+\v 16 Pois está escrito: Sede santos, porque eu sou santo. 
+\rq Levítico 11:44-45  \rq*
+
+\v 17 E, se vós chamais de Pai aquele que, sem acepção de pessoas, julga segundo a obra de cada um, vivei em temor o tempo de vossa peregrinação;
+\v 18 e sabei que não foi por coisas destrutíveis, \add como\add*  prata ou ouro, que fostes resgatados do vosso vão comportamento que recebestes de \add vossos\add*  pais,
+\v 19 mas sim pelo sangue precioso, como de um cordeiro sem falha e sem contaminação: o \add sangue\add*  de Cristo.
+\v 20 Ele já era conhecido \f + \fq conhecido \ft isto é, conhecido o seu papel como o Salvador. Trad. alt: predestinado \f*  desde antes da fundação do mundo, mas foi manifesto nestes últimos tempos por causa de vós,
+\v 21 que, por meio dele, credes em Deus, que o ressuscitou dos mortos e lhe deu glória, para que a vossa fé e esperança estejam em Deus.
+\v 22 Uma vez que purificastes vossas almas na obediência da verdade por meio do Espírito, para o sincero \f + \fq sincero \ft ou: não-hipócrita \f*  amor fraternal, amai-vos intensamente uns aos outros com um coração puro,
+\v 23 visto que nascestes de novo, não de semente que perece, mas sim imperecível, pela viva palavra de Deus, que permanece para sempre.
+\v 24 Pois toda carne \f + \fq toda carne \ft i.e. todos os seres humanos \f*  é como a erva, e toda glória humana como a flor da erva. A erva se seca, e sua flor cai;
+\v 25 mas a palavra do Senhor permanece para sempre.E esta é a palavra que foi evangelizada entre vós. 
+\rq Isaías 40:6,8  \rq*
+
+
+\c 2
+\p
+
+\v 1 Abandonai, portanto, toda malícia, toda enganação, fingimentos, invejas, e todas as falas maldosas,
+\v 2 e desejai ansiosamente, como bebês recém-nascidos, o leite da Palavra, não falsificado, para que por meio dele estejais crescendo;
+\v 3 se, de fato, já experimentastes que o Senhor é bom.
+\v 4 Aproximai-vos dele, \add que é\add*  uma pedra viva, rejeitada pelos seres humanos, mas escolhida e preciosa para Deus.
+\v 5 Também vós, como pedras vivas, sois edificados como casa espiritual \add e\add*  sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus por meio de Jesus Cristo.
+\v 6 Por isso também está contido na Escritura: Eis que eu ponho em Sião uma pedra principal de esquina, escolhida \add e\add*  preciosa. Quem nela crer de maneira nenhuma será envergonhado. \f + \ft ou: frustrado \f* 
+\rq Isaías 28:16  \rq*
+
+\v 7 Assim, para vós, que credes, ela é preciosa. Mas para os rebeldes: A pedra que os construtores rejeitaram, essa se tornou a principal de esquina, 
+\rq Salmo 118:22  \rq*
+
+\v 8 assim como: pedra de tropeço, e pedra que leva à queda. Eles tropeçam na palavra por serem rebeldes. Para isso eles foram destinados. 
+\rq Isaías 8:14  \rq*
+
+\v 9 Mas vós sois a geração escolhida, o sacerdócio real, a nação santa, \add e\add*  o povo adquirido; a fim de que anuncieis as virtudes daquele que vos chamou das trevas para a sua maravilhosa luz.
+\v 10 Antes, vós não éreis povo, mas agora sois povo de Deus. \add Antes\add* ,não havíeis recebido misericórdia, mas agora recebestes misericórdia.
+\v 11 Amados, como a peregrinos e estrangeiros, eu vos peço que vos abstenhais dos desejos carnais, que batalham contra a alma,
+\v 12 e que tenhais um bom comportamento vosso entre os pagãos; para que, naquilo que de vós, como de malfeitores, falam mal, no dia da visitação glorifiquem a Deus por causa das \add vossas\add*  boas obras que tiverem visto.
+\v 13 Portanto sujeitai-vos a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;
+\v 14 seja aos governantes, como enviados por ele, com o objetivo de castigar os malfeitores, e de conceder honra aos que fazem o bem.
+\v 15 Pois esta é a vontade de Deus, que, ao fazerdes o bem, caleis a ignorância dos homens tolos.
+\v 16 \add Comportai-vos\add*  como pessoas livres, mas não useis a liberdade como pretexto para a malícia. Em vez disso, \add sede\add*  como servos de Deus.
+\v 17 Honrai a todos: amai aos irmãos, temei a Deus, honrai ao rei.
+\v 18 Servos, sujeitai-vos com todo temor aos \add vossos\add*  senhores, não somente aos bons e brandos, mas também aos que maltratam.
+\v 19 Pois coisa agradável é se alguém, por causa da consciência a respeito de Deus, experimente dores, sofrendo injustamente.
+\v 20 Afinal, que mérito há em suportar serdes espancados por cometerdes pecado? Contudo, se, quando fazeis o bem, sois afligidos e suportais, isso é a Deus.
+\v 21 Pois para isto fostes chamados, porque também Cristo sofreu por nós, deixando-nos exemplo, para que sigais os seus passos.
+\v 22 Ele não cometeu pecado, nem engano foi achado em sua boca.
+\v 23 Quando o insultavam, ele não insultava de volta. Quando sofria, ele não ameaçava; em vez disso, entregava-se ao que julga de maneira justa.
+\v 24 Ele levou nossos pecados em seu próprio corpo sobre o madeiro; para que nós, estando mortos para os pecados, vivamos para a justiça. Pela ferida dele fostes sarados.
+\v 25 Porque vós éreis como ovelhas desviadas do caminho; mas agora vós estais convertidos ao Pastor e Supervisor de vossas almas.
+
+\c 3
+\p
+
+\v 1 Semelhantemente vós, esposas, estejais sujeitas aos próprios maridos, para que, ainda que alguns não obedeçam à Palavra, por meio do comportamento das esposas, sem palavra, sejam ganhos,
+\v 2 quando eles observarem o vosso comportamento puro e com temor.
+\v 3 A vossa beleza não seja a exterior, \add como\add*  tranças de cabelos, joias de ouro, ou vestuário,
+\v 4 mas sim, a pessoa interior no coração, o \add embelezamento\add*  incorruptível de um espírito manso e tranquilo, que é precioso diante de Deus.
+\v 5 Pois assim também se embelezavam antigamente as mulheres santas, que esperavam em Deus, e eram sujeitas aos seus maridos.
+\v 6 Dessa maneira Sara obedecia a Abraão, chamando-lhe de senhor. Vós sois filhas dela se fizerdes o bem e não temerdes espanto algum.
+\v 7 Semelhantemente vós maridos, convivei \add com elas\add*  com entendimento, dando honra à mulher, como a vaso mais fraco, como sendo \add elas e vós\add*  juntamente herdeiros da graça da vida; a fim de que as vossas orações não sejam impedidas.
+\v 8 E por fim, sede todos de uma mesma mentalidade, compassivos, tenhais amor pelos irmãos, e sede misericordiosos e benevolentes.
+\v 9 Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, sabendo que para isto fostes chamados, para que herdeis a bênção.
+\v 10 Pois: quem quer amar a vida e ver dias bons, refreie sua língua do mal, e que seus lábios não falem engano.
+\v 11 Afaste-se do mal, e faça o bem; busque a paz, e siga-a.
+\v 12 Porque os olhos do Senhor estão sobre os justos, e seus ouvidos \add atentos\add*  às suas orações; mas a face do Senhor é contra os que fazem o mal. 
+\rq Salmos 34:12-16  \rq*
+
+\v 13 E quem vos fará mal se fordes adeptos do bem?
+\v 14 Porém, mesmo se sofrerdes por causa da justiça, benditos \f + \fq benditos \ft ou: bem-aventurados \f*  sois. Não tenhais medo deles, nem vos perturbeis.
+\v 15 Mas santificai a Deus como Senhor em vossos corações; e estai sempre preparados para responder com mansidão e respeito a todo aquele que vos pedir a razão da esperança que há em vós,
+\v 16 tendo uma boa consciência; para que, naquilo que falam mal de vós como malfeitores, os que insultam o vosso bom comportamento em Cristo sejam envergonhados.
+\v 17 Pois é melhor que sofrais fazendo o bem, se \add assim\add*  a vontade de Deus quer, do que fazendo o mal.
+\v 18 Porque também Cristo sofreu uma vez pelos pecados, o justo pelos injustos; para que nos levasse a Deus. \add Ele estava\add* ,de fato, morto na carne, mas vivificado pelo Espírito,
+\v 19 no qual ele também foi pregar aos espíritos em prisão.
+\v 20 \add Estes são\add*  os que antigamente foram rebeldes, quando uma vez a paciência de Deus aguardava nos dias de Noé, enquanto era preparada a arca. Nela, poucas almas (isto é, oito) foram salvas por meio da água.
+\v 21 Esta é uma representação do batismo, que agora também nos salva, não como remoção da sujeira do corpo, mas sim como o pedido \f + \fq pedido \ft ou: compromisso. A palavra usada no texto original grego tem significado obscuro para o contexto da frase \f*  de boa consciência a Deus, por meio da ressurreição de Jesus Cristo.
+\v 22 Ele está à direita de Deus, depois de haver subido ao céu; e os anjos, as autoridades, e os poderes estão sob o seu comando.
+
+\c 4
+\p
+
+\v 1 Visto que Cristo sofreu por nós na carne, armai-vos também com o mesmo modo de pensar, pois quem sofreu na carne terminou com o pecado;
+\v 2 para que, no resto do tempo na carne, não viva mais segundo os maus desejos humanos, mas sim segundo a vontade de Deus.
+\v 3 Pois já basta, no tempo passado da vida, termos feito a vontade dos pagãos, \f + \fq pagãos \ft ou: gentios \f*  e andado em promiscuidades, desejos maliciosos, bebedeiras, orgias, festas de embriaguez, e abomináveis idolatrias.
+\v 4 Como eles estranham vós não agirdes como eles, que correm em busca da extrema devassidão, por isso falam mal de vós. \f + \fq agirdes … devassidão \ft lit. correrdes [com eles] à mesma extrema devassidão \f* 
+\v 5 Eles terão de prestar contas ao que está pronto para julgar os vivos e os mortos.
+\v 6 Pois por isso o evangelho também foi pregado aos mortos, \f + \ft i.e. Os que agora estão mortos, mas que receberam o evangelho enquanto ainda estavam vivos \f*  para que, mesmo que tenham sido julgados na carne segundo os critérios humanos, \f + \fq segundo os critérios humanos \ft lit. segundo os seres humanos \f*  vivam em espírito segundo os critérios de Deus. \f + \fq segundo os critérios de Deus \ft lit. segundo Deus. Outra alternativa seria: como Deus vive [em Espírito] \f* 
+\v 7 O fim de todas as coisas está próximo; portanto sede sóbrios, e vigiai em orações.
+\v 8 Mas, acima de tudo, tende fervoroso amor uns para com os outros; porque o amor cobrirá uma multidão de pecados.
+\v 9 Proporcionai hospitalidade uns aos outros, sem murmurações.
+\v 10 Cada um sirva aos outros segundo o dom que recebeu, como bons administradores da variada graça de Deus.
+\v 11 Se alguém fala, que seja como as palavras de Deus; se alguém serve, \add que sirva\add*  segundo a força que Deus dá; a fim de que em tudo Deus seja glorificado por meio de Jesus Cristo. E a ele pertencem a glória e o poder para todo o sempre, Amém!
+\v 12 Amados, não estranheis o fogo ardente que vem sobre vós para vos provar, como se algo estranho estivesse vos acontecendo.
+\v 13 Em vez disso, alegrai-vos em serdes participantes das aflições de Cristo; para que, também na revelação de sua glória vos alegreis com júbilo.
+\v 14 Se vós sois insultados por causa do nome de Cristo, benditos \f + \ft ou: bem-aventurados \f*  sois; porque o Espírito da glória e de Deus repousa sobre vós; o qual por eles é insultado, mas por vós é glorificado.
+\v 15 Porém nenhum de vós sofra como homicida, ladrão, malfeitor, ou como alguém que se intromete em assuntos alheios; \f + \fq alguém que se intromete em assuntos alheios \ft a palavra no original tem significado obscuro. Ou: defraudador \f* 
+\v 16 Mas se \add sofre\add*  como cristão, não se envergonhe; ao contrário, glorifique a Deus por isso;
+\v 17 Pois já é tempo do julgamento começar pela casa de Deus; e se é primeiro conosco, qual será o fim daqueles que são desobedientes ao Evangelho de Deus?
+\v 18 E se o justo se salva com dificuldade, o que será do \f + \fq o que será do \ft lit. onde comparecerá \f*  irreverente a Deus e pecador?
+\v 19 Portanto, os que sofrem segundo a vontade de Deus, confiem suas almas ao fiel Criador, fazendo o bem.
+
+\c 5
+\p
+
+\v 1 Aos anciãos \f + \ft ou: presbíteros \f*  da igreja que estão entre vós, eu, que sou ancião como eles, e testemunha dos sofrimentos de Cristo, e participante da glória que se revelará, seriamente peço:
+\v 2 Pastoreai o rebanho de Deus que está entre vós, não por obrigação, mas sim voluntariamente; não por ganância, mas sim com sincera prontidão;
+\v 3 nem como que dominando os que estão aos vossos cuidados, \f + \fq os que estão aos vossos cuidados \ft lit. os reservados, ou separados. No vocabulário bíblico, é frequentemente usado para indicar propriedades e possessões, em particular propriedades de terra. Por esse motivo, traduções mais antigas põem: propriedades [de Deus] (ou algo semelhante). Outra interpretação é a de que se refere aos anciãos, referidos por Pedro como “vós”, e de que a reserva ou separação não é para a obtenção ou posse, mas tão somente para a responsabilidade e o cuidado. Isto é, refere-se aos cristãos que os anciãos devem cuidar. Esta última interpretação é a usada na tradução. \f*  mas sim como exemplos ao rebanho.
+\v 4 E quando o Pastor Principal aparecer, vós recebereis a indestrutível coroa da glória.
+\v 5 Semelhantemente vós, jovens, sede sujeitos aos anciãos; e todos vós sede sujeitos uns aos outros, revestidos de humildade; pois: Deus resiste aos soberbos, mas dá graça aos humildes. 
+\rq Provérbios 3:34  \rq*
+
+\v 6 Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no tempo adequado,
+\v 7 lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós.
+\v 8 Sede sóbrios! Vigiai! Pois o vosso adversário, o diabo, anda ao redor, rugindo como um leão, buscando a quem possa devorar.
+\v 9 Resisti a ele, firmes na fé; sabendo que as mesmas aflições acontecem com os vossos irmãos \f + \fq os vossos irmãos \ft lit. a vossa irmandade \f*  no mundo.
+\v 10 E o Deus de toda graça, que nos chamou para a sua eterna glória em Cristo Jesus, depois de sofrerdes um pouco, ele vos aperfeiçoe, confirme, fortifique, e estabeleça fundamento.
+\v 11 A ele sejam a glória e o poder para todo o sempre. Amém!
+\v 12 Por Silvano, vosso fiel irmão, como o considero, eu vos escrevi brevemente, exortando e dando testemunho de que esta é a verdadeira graça de Deus, na qual estais.
+\v 13 Saúda-vos a \add igreja\add*  escolhida convosco, que está na Babilônia, e também o meu filho Marcos.
+\v 14 Saudai-vos uns aos outros com beijo de amor. A paz seja com todos vós que estais em Cristo Jesus. Amém.

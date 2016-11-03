@@ -1,0 +1,1082 @@
+﻿\name-long
+Segunda Carta de Paulo aos Coríntios
+\*name-long
+\name-short
+2 Coríntios
+\*name-short
+\abbreviation
+2Co
+\*abbreviation
+\ubs-code
+2CO
+\*ubs-code
+\v 2Co.1.1
+Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, para a igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia.
+\v 2Co.1.2
+Graça e paz de Deus nosso Pai, e do Senhor Jesus Cristo.
+\v 2Co.1.3
+Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias, e o Deus de toda consolação,
+\v 2Co.1.4
+Que nos consola em toda aflição nossa, para que também possamos consolar aos que estiverem em alguma aflição, com a consolação com que nós mesmos por Deus somos consolados.
+\v 2Co.1.5
+Porque assim como os sofrimentos de Cristo são abundantes em nós, assim também por Cristo é abundante nossa consolação.
+\v 2Co.1.6
+Porém se nós somos afligidos, é para vossa consolação e salvação{tr,rp:, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos}{trnc:
+\fn
+N4 move “que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos” para a última ocorrência da palavra “consolação” do versículo
+\*fn
+ }{rp: (e a nossa esperança por vós é firme)};{trnc:
+\fn
+RP move “e a esperança por nós é firme” do versículo 7 para o 6
+\*fn
+ } se estamos consolados, 
+\added
+também é
+\*added
+ para vossa consolação{tr,rp: e salvação}{trnc:
+\fn
+N4 omite “e salvação”
+\*fn
+ }{rp;}{tr:.}{n4:, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos.}
+\v 2Co.1.7
+{tr,n4:E nossa esperança por vós é firme,} sabendo que, como sois participantes dos sofrimentos, assim também 
+\added
+sois
+\*added
+ da consolação.
+\v 2Co.1.8
+Porque, irmãos, não queremos que ignoreis nossa aflição que nos sobreveio na Ásia, em que fomos excessivamente oprimidos, mais do que podíamos suportar, de tal modo que já tínhamos perdido a esperança de sobrevivermos.
+\v 2Co.1.9
+Por isso já tínhamos em nós mesmos a sentença de morte, para que não confiássemos em nós mesmos, mas sim em Deus, que ressuscita aos mortos;
+\v 2Co.1.10
+O qual nos livrou de tamanha morte, e 
+\added
+ainda nos
+\*added
+ livra; nele esperamos que também ainda 
+\added
+nos
+\*added
+ livrará;
+\v 2Co.1.11
+Junto do vosso auxílio com oração por nós, a fim de que, pelo favor 
+\added
+concedido
+\*added
+ a nós por causa de muitas pessoas, por muitos sejam dadas graças 
+\added
+a Deus
+\*added
+ por nós.
+\v 2Co.1.12
+Porque nosso orgulho é este: o testemunho de nossa consciência, que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas com a graça de Deus, nós nos comportamos no mundo, e especialmente convosco.
+\v 2Co.1.13
+Porque nenhuma outra coisa vos escrevemos, a não ser as que já sabeis, ou também entendeis; e espero que as entendereis por completo.
+\v 2Co.1.14
+Assim como também já em parte tendes nos entendido, que somos vosso orgulho, como também vós sois o nosso 
+\added
+orgulho
+\*added
+ no dia do Senhor Jesus.
+\v 2Co.1.15
+E com esta confiança eu quis primeiro vir até vós, para que tivésseis uma segunda graça;
+\v 2Co.1.16
+E por vós passar para a Macedônia; e da Macedônia vir outra vez até vós; e 
+\added
+depois
+\*added
+ ser enviado por vós até a Judeia.
+\v 2Co.1.17
+Quando eu planejei isso, por acaso fiz de forma irresponsável? Ou o que eu planejo, planejo segundo a carne, para que eu diga sim e não 
+\added
+ao mesmo tempo
+\*added
+ ?
+\v 2Co.1.18
+Porém 
+\added
+assim como
+\*added
+ Deus é fiel, nossa palavra para vós não foi sim e não 
+\added
+ao mesmo tempo
+\*added
+ .
+\v 2Co.1.19
+Porque o Filho de Deus, Jesus Cristo, o que por nós foi pregado entre vós, 
+\added
+isto é
+\*added
+,por mim, e Silvano, e Timóteo, não foi sim e não, mas nele foi o “sim”.
+\v 2Co.1.20
+Porque todas as promessas nele são “sim”, e nele 
+\added
+se diga
+\*added
+ Amém, para glória de Deus por meio de nós.
+\v 2Co.1.21
+Mas o que nos confirma convosco, e o que nos ungiu, é Deus.
+\v 2Co.1.22
+O qual também nos selou, e 
+\added
+nos
+\*added
+ deu o penhor do Espírito em nosso corações.
+\v 2Co.1.23
+Porém invoco a Deus por testemunha sobre minha alma, que para vos poupar, até agora não vim a Corinto.
+\v 2Co.1.24
+Não que sejamos senhores de vossa fé; porém somos cooperadores de vossa alegria. Porque pela fé estais firmes.
+\v 2Co.2.1
+Porém decidi isto mesmo comigo, de não mais vir até vós com tristeza.
+\v 2Co.2.2
+Porque se eu vos entristecer, então quem será o que me alegrará, senão aquele que por mim foi entristecido?
+\v 2Co.2.3
+E isto mesmo vos escrevi, para que quando vier, não tenha tristeza dos que deveriam me alegrar, confiando de vós todos, que minha alegria é 
+\added
+a alegria
+\*added
+ de todos vós.
+\v 2Co.2.4
+Porque em muita aflição e angústia de coração eu vos escrevi com muitas lágrimas, não para que vos entristecêsseis, mas para que entendêsseis o amor que tenho em abundância para convosco.
+\v 2Co.2.5
+Porém se alguém 
+\added
+me
+\*added
+ entristeceu, não entristeceu a mim 
+\added
+somente
+\*added
+,mas em parte (para que não se exagere) a todos.
+\v 2Co.2.6
+Basta ao tal esta repreensão feita pela maioria.
+\v 2Co.2.7
+De maneira que, ao invés disso, 
+\added
+deveis lhe
+\*added
+ perdoar e consolar, para que ele não seja consumido pela excessiva tristeza.
+\v 2Co.2.8
+Por isso vos peço que confirmeis o amor para com ele.
+\v 2Co.2.9
+Pois também para isso eu escrevi, para vos conhecer por meio de prova se vós sois obedientes em tudo.
+\v 2Co.2.10
+E ao que perdoardes alguma coisa, também eu 
+\added
+lhe perdoo
+\*added
+ ; pois a quem eu tenho perdoado, se também eu perdoei, por causa de vós 
+\added
+o fiz
+\*added
+ na presença de Cristo; para que Satanás não tire proveito de nós.
+\v 2Co.2.11
+Porque não ignoramos seus pensamentos.
+\v 2Co.2.12
+Além disso, quando vim a Troas para 
+\added
+pregar
+\*added
+ o Evangelho de Cristo, e abrindo-se porta para mim no Senhor, não tive repouso em meu espírito, por não achar a meu irmão Tito.
+\v 2Co.2.13
+Porém, despedindo-me deles, eu parti para a Macedônia.
+\v 2Co.2.14
+E graças a Deus, que sempre nos faz triunfar em Cristo, e por nós em todo lugar manifesta o cheiro de seu conhecimento.
+\v 2Co.2.15
+Porque para Deus somos o bom cheiro de Cristo, nos que se salvam, e nos que se perdem.
+\v 2Co.2.16
+Para estes certamente cheiro de morte, para a morte; mas para aqueles cheiro de vida, para a vida. E quem é idôneo para estas coisas?
+\v 2Co.2.17
+Porque nós não somos como muitos, que tentam vender
+\fn
+tentam vender = i.e. falsificam com a intenção de tirar proveito
+\*fn
+ a palavra de Deus; mas nós 
+\added
+a
+\*added
+ falamos em Cristo, diante de Deus, com sinceridade, como 
+\added
+enviados
+\*added
+ de Deus.
+\v 2Co.3.1
+Por acaso começamos a recomendarmos a nós mesmos outra vez? Ou necessitamos, como alguns 
+\added
+necessitam
+\*added
+,de cartas de recomendação para vós, ou de vossa recomendação?
+\v 2Co.3.2
+Vós sois nossa carta 
+\added
+de recomendação
+\*added
+,escrita em nossos corações, conhecida e lida por todos,
+\v 2Co.3.3
+Manifestando que sois a carta de Cristo, administrada por nós, 
+\added
+e
+\*added
+ escrita, não com tinta, mas com o Espírito do Deus vivente; não em tábuas de pedra, mas em tábuas de carne do coração.
+\v 2Co.3.4
+E tal confiança temos por Cristo para com Deus.
+\v 2Co.3.5
+Não que sejamos capazes de pensar alguma coisa de nós como 
+\added
+se fosse
+\*added
+ de nós mesmos, mas nossa capacidade é de Deus;
+\v 2Co.3.6
+O qual também nos fez capazes para sermos ministros do Novo Testamento, não da letra, mas do Espírito; porque a letra mata, mas o Espírito vivifica.
+\v 2Co.3.7
+E se o ministério da morte em letras, impresso em pedras, foi com glória, de maneira que os filhos de Israel não podiam fixar os olhos no rosto de Moisés, por causa da glória de seu rosto, que se extinguia,
+\v 2Co.3.8
+Por acaso o ministério do Espírito não terá ainda mais glória?
+\v 2Co.3.9
+Porque se o ministério da condenação teve glória, o ministério da justiça excede muito mais em glória.
+\v 2Co.3.10
+Pois o que já foi glorioso, em comparação, deixou de ter glória, por causa da glória superior.
+\v 2Co.3.11
+Porque se o que se extinguiu teve glória, muito mais glória tem o que permanece.
+\v 2Co.3.12
+Visto que temos tal esperança, falamos com muita ousadia,
+\v 2Co.3.13
+Não como Moisés, que punha um véu sobre o seu rosto, para que os filhos de Israel não enxergassem o fim do que se extinguia.
+\v 2Co.3.14
+Porém suas mentes foram endurecidas, porque até hoje fica o mesmo véu ainda coberto na leitura do antigo pacto, o qual é extinto por Cristo.
+\v 2Co.3.15
+Mas até hoje, quando se lê 
+\added
+as palavras de
+\*added
+ Moisés, o véu está posto sobre o coração deles.
+\v 2Co.3.16
+Porém quando se converterem ao Senhor, 
+\added
+então
+\*added
+ o véu será tirado.
+\v 2Co.3.17
+O Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.
+\v 2Co.3.18
+E todos nós, com o rosto descoberto, refletindo como que um espelho a glória do Senhor, somos transformados de glória em glória, 
+\added
+segundo
+\*added
+ a mesma imagem, como pelo Espírito do Senhor.
+\v 2Co.4.1
+Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos.
+\v 2Co.4.2
+Mas já rejeitamos as coisas ocultas e vergonhosas, não andando com astúcia, nem falsificando a Palavra de Deus, mas pela manifestação da verdade fazemos recomendação de nós mesmos à consciência de todos os seres humanos, à vista de Deus.
+\v 2Co.4.3
+Porém se o nosso Evangelho está encoberto, é para os que se perdem que está encoberto;
+\v 2Co.4.4
+Nos quais o deus destes tempos cegou os entendimentos, 
+\added
+isto é
+\*added
+,os incrédulos, para que não lhes brilhe a luz do Evangelho da glória de Cristo, que é a imagem de Deus.
+\v 2Co.4.5
+Porque nós não pregamos a nós mesmos, mas sim a Cristo Jesus, o Senhor; e a nós mesmos 
+\added
+como
+\*added
+ vossos servos, por causa de Jesus.
+\v 2Co.4.6
+Porque o Deus que disse que das trevas brilhasse a luz é o 
+\added
+mesmo
+\*added
+ que brilhou em nossos corações, para a iluminação do conhecimento da glória de Deus no rosto de Jesus Cristo.
+\v 2Co.4.7
+Porém temos este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.
+\v 2Co.4.8
+ 
+\added
+Somos
+\*added
+ em tudo afligidos, mas não esmagados; perplexos, mas não desesperados;
+\v 2Co.4.9
+Perseguidos, mas não desamparados; abatidos, porém não destruídos.
+\v 2Co.4.10
+Sempre por todas as partes trazendo a mortificação do Senhor Jesus no corpo, para que também a vida de Jesus se manifeste em nossos corpos.
+\v 2Co.4.11
+Porque nós, que vivemos, estamos sempre entregues à morte por causa de Jesus, para que também a vida de Jesus se manifeste em nossa carne mortal.
+\v 2Co.4.12
+De maneira que a morte opera em nós, mas em vós 
+\added
+opera
+\*added
+ a vida.
+\v 2Co.4.13
+E nós temos o mesmo Espírito de fé, assim como está escrito: Cri, e por isso falei;Nós também cremos, e por isso também falamos,
+\v 2Co.4.14
+sabendo que o que ressuscitou ao Senhor Jesus, também nos ressuscitará por meio de Jesus, e 
+\added
+nos
+\*added
+ apresentará juntos de vós.
+\v 2Co.4.15
+Porque todas estas coisas são por causa de vós, para que a graça aumente por meio de muitas 
+\added
+pessoas
+\*added
+,superabundando os agradecimentos à glória de Deus.
+\v 2Co.4.16
+Por isso não desfalecemos; mas ainda que nosso ser exterior se destrua, todavia o interior se renova a cada dia.
+\v 2Co.4.17
+Porque nossa leve e momentânea aflição nos produz um peso eterno de excelentíssima glória.
+\v 2Co.4.18
+Por isso nós não prestamos atenção para as coisas visíveis, mas sim para as invisíveis; porque as coisas visíveis são temporárias, mas as invisíveis são eternas.
+\v 2Co.5.1
+Porque sabemos que, se nossa casa terrestre deste tabernáculo se desfizer, temos um edifício de Deus, uma casa não feita por mãos, 
+\added
+mas
+\*added
+ eterna, nos céus.
+\v 2Co.5.2
+Porque nesta 
+\added
+casa
+\*added
+ gememos, desejando sermos revestidos de nossa habitação do céu;
+\v 2Co.5.3
+Dado que, se estivermos vestidos, não seremos achados nus.
+\v 2Co.5.4
+Pois de fato nós, os que estamos neste tabernáculo, gememos pressionados, não porque queremos ser despidos, mas sim, revestidos; para que a mortalidade seja devorada pela vida.
+\v 2Co.5.5
+E para isto mesmo que Deus nos preparou, ele que também deu o penhor do Espírito.
+\v 2Co.5.6
+Por isso sempre temos confiança, e sabemos que, enquanto habitarmos no corpo, estamos ausentes do Senhor.
+\v 2Co.5.7
+(Pois andamos pela fé, e não pela vista).
+\v 2Co.5.8
+Temos, porém, confiança, e queremos mais deixar o corpo, e habitar com o Senhor;
+\v 2Co.5.9
+Por isso também desejamos muito ser agradáveis a ele, quer presentes 
+\added
+no nosso corpo
+\*added
+,quer ausentes;
+\v 2Co.5.10
+Pois todos devemos comparecer diante do Tribunal de Cristo, para que cada um receba o pagamento das coisas que fez no corpo, seja bem ou mal.
+\v 2Co.5.11
+Conhecendo, pois, o temor ao Senhor, persuadimos as pessoas para a fé, e a Deus somos claramente visíveis; mas espero, também, que estejamos claramente visíveis em vossas consciências.
+\v 2Co.5.12
+Porque não nos recomendamos novamente para vós; mas damos oportunidade de vos orgulhardes de nós; para que tenhais 
+\added
+o que responder
+\*added
+ aos que se orgulham da aparência, e não do coração.
+\v 2Co.5.13
+Pois se nós enlouquecemos, é para Deus; se estamos sensatos, é para vós.
+\v 2Co.5.14
+Porque é o amor de Cristo que nos controla; pois temos certeza que, se um morreu por todos, logo todos morreram.
+\v 2Co.5.15
+E ele morreu por todos, para que os que vivem não vivam mais para si, mas sim, para aquele que por eles morreu e ressuscitou.
+\v 2Co.5.16
+Portanto daqui em diante a ninguém conhecemos segundo a carne, e ainda que também tenhamos conhecido a Cristo segundo a carne, todavia agora não o conhecemos 
+\added
+assim
+\*added
+ .
+\v 2Co.5.17
+Portanto, se alguém está em Cristo, uma nova criatura 
+\added
+é
+\*added
+ ; as coisas velhas já passaram, eis que tudo se fez novo.
+\v 2Co.5.18
+E tudo isto 
+\added
+vem
+\*added
+ de Deus, o qual por Jesus Cristo nos reconciliou consigo, e nos deu o ministério da reconciliação.
+\v 2Co.5.19
+Porque Deus estava em Cristo reconciliando consigo ao mundo, não lhes atribuindo seus pecados; e pôs em nós a palavra da reconciliação.
+\v 2Co.5.20
+Assim, pois, nós somos embaixadores da parte de Cristo, como se Deus rogasse por nós; 
+\added
+por isso
+\*added
+,rogamos em Cristo: Reconciliai-vos com Deus.
+\v 2Co.5.21
+Pois ele fez com que aquele que não conheceu pecado 
+\added
+se tornasse
+\*added
+ pecado por nós; para que nós nele fôssemos feitos justiça de Deus.
+\v 2Co.6.1
+E nós, como trabalhadores conjuntamente 
+\added
+com ele
+\*added
+,rogamos que não tenhais recebido a graça de Deus em vão.
+\v 2Co.6.2
+Porque ele diz: Em tempo agradável te ouvi, e no dia da salvação te socorri; eis agora o tempo agradável, eis agora o dia da salvação
+\v 2Co.6.3
+Escândalo nenhum damos em coisa alguma, para que 
+\added
+nosso
+\*added
+ trabalho não seja acusado.
+\v 2Co.6.4
+Mas em tudo nos fizemos agradáveis como trabalhadores de Deus, em muita tolerância, em aflições, em necessidades, em angústias;
+\v 2Co.6.5
+Em açoites, em prisões, em tumultos, em trabalhos, em vigílias, em jejuns;
+\v 2Co.6.6
+Em pureza, em conhecimento, em paciência, em bondade, no Espírito Santo, em amor não fingido;
+\v 2Co.6.7
+Em palavra da verdade, em poder de Deus, com armas da justiça, à esquerda, e à direita;
+\v 2Co.6.8
+Por honra e por desonra; por infâmia e por boa fama; 
+\added
+considerados
+\*added
+ como enganadores, e como verdadeiros.
+\v 2Co.6.9
+Como estranhos, e conhecidos; como morrendo, e eis que estamos vivendo; como castigados e 
+\added
+ainda
+\*added
+ não mortos.
+\v 2Co.6.10
+Como entristecidos, porém sempre alegres; como pobres, porém enriquecendo a muitos; como nada tendo, e possuindo tudo.
+\v 2Co.6.11
+Para vós, ó coríntios, está aberta nossa boca; 
+\added
+e
+\*added
+ nosso coração está ampliado.
+\v 2Co.6.12
+Nós não temos lhes estreitado, mas vós estais estreitos em nossos sentimentos.
+\v 2Co.6.13
+E em recompensa disto (falo como a filhos) alargai vós também.
+\v 2Co.6.14
+Não vos ajunteis em outro jugo com os descrentes. Porque, que parceria tem a justiça com injustiça? E que parceria tem a luz com as trevas?
+\v 2Co.6.15
+E que acordo há entre Cristo e Belial? Ou que parte tem o crente com o incrédulo?
+\v 2Co.6.16
+E que acordo há entre o Templo de Deus e os ídolos? Porque vós sois o templo do Deus vivente, como Deus disse: Neles habitarei, e entre 
+\added
+eles
+\*added
+ andarei; e eu serei seu Deus, e eles serão meu povo.
+\v 2Co.6.17
+Portanto: saí do meio deles, e vos separai, diz o Senhor; e não toqueis coisa impura, e eu vos aceitarei.
+\v 2Co.6.18
+E eu vos serei por Pai, e vós sereis para mim filhos e filhas,diz o Senhor Todo Poderoso.
+\v 2Co.7.1
+Amados, por termos tais promessas, limpemo-nos de toda impureza da carne e do espírito, aperfeiçoando a santificação no temor de Deus.
+\v 2Co.7.2
+Dai lugar a nós 
+\added
+em vossos corações
+\*added
+ ; contra ninguém agimos mal, a ninguém corrompemos, a ninguém abusamos para nosso proveito.
+\v 2Co.7.3
+Não digo 
+\added
+isto
+\*added
+ para 
+\added
+vos
+\*added
+ condenar; porque já disse antes que vós estais em nossos corações, para juntamente morrermos e vivermos.
+\v 2Co.7.4
+Muita confiança eu tenho em vós; eu tenho muito orgulho de vós; eu estou cheio de consolação; excedo sobremaneira de alegria em todas as nossas aflições.
+\v 2Co.7.5
+Porque até quando viemos à Macedônia, nenhum repouso teve nossa carne; mas em tudo fomos afligidos: lutas por fora, temores por dentro.
+\v 2Co.7.6
+Mas Deus, que consola aos abatidos, nos consolou com a vinda de Tito.
+\v 2Co.7.7
+E não somente com a vinda dele, mas também com a consolação com que foi consolado quanto a vós, contando-nos vossas saudades, vosso choro e vosso zelo por mim, de maneira que me alegrei ainda mais.
+\v 2Co.7.8
+Porque, ainda que eu tenha vos entristecido com a carta, não me arrependo, ainda que tenha me causado pesar; porque vejo que aquela carta vos entristeceu, ainda que por pouco tempo.
+\v 2Co.7.9
+Agora eu me alegro, não porque vós vos entristecestes, mas porque vos entristecestes para o arrependimento. Porque vós vos entristecestes segundo 
+\added
+a vontade de
+\*added
+ Deus; de maneira que em nada sofrestes dano por nós.
+\v 2Co.7.10
+Pois a tristeza segundo 
+\added
+a vontade de
+\*added
+ Deus opera arrependimento para a salvação, de que ninguém se arrepende; mas a tristeza do mundo opera a morte.
+\v 2Co.7.11
+Porque vede isto mesmo, quanto empenho que vossa tristeza segundo Deus produziu em vós! E também defesa 
+\added
+própria
+\*added
+,indignação, temor, saudades, zelo, e desejo de justiça! Em tudo vos mostrastes estar puros quanto a este assunto.
+\v 2Co.7.12
+Portanto, ainda que tenha escrito para vós, eu não 
+\added
+fiz isso
+\*added
+ por causa daquele que fez o dano, nem por causa daquele que sofreu o dano; mas sim para que nosso empenho por vós diante de Deus vos fosse revelado.
+\v 2Co.7.13
+Por isso fomos consolados com vosso consolo; e muito mais nos alegramos com a alegria de Tito, de que seu espírito foi revigorado por todos vós.
+\v 2Co.7.14
+Porque se em alguma coisa me orgulhei de vós diante dele, não fiquei envergonhado; mas assim como falamos de vós com verdade, assim também nosso orgulho diante de Tito se confirmou verdadeiro.
+\v 2Co.7.15
+E os sentimentos dele por vós estão ainda maiores, por se lembrar da obediência de todos vós, de como o recebestes com temor e tremor.
+\v 2Co.7.16
+Por isso eu me alegro de que em tudo posso confiar em vós.
+\v 2Co.8.1
+Também, irmãos, vos fazemos saber a graça de Deus dada às igrejas da Macedônia,
+\v 2Co.8.2
+Que em muita provação de aflição, a abundância de sua alegria, e sua profunda pobreza abundaram nas riquezas de sua generosidade.
+\v 2Co.8.3
+Pois dou testemunho de que foram voluntários segundo 
+\added
+sua
+\*added
+ capacidade e até além de 
+\added
+sua
+\*added
+ capacidade,
+\v 2Co.8.4
+Pedindo-nos com muito entusiasmo que aceitássemos a graça e a comunhão deste serviço para os santos.
+\v 2Co.8.5
+E não 
+\added
+somente fizeram
+\*added
+ como nós esperávamos, mas também entregaram a si mesmos, primeiramente ao Senhor, e 
+\added
+depois
+\*added
+ a nós, pela vontade de Deus.
+\v 2Co.8.6
+De maneira que convocamos a Tito para que, assim como tinha começado antes, assim também terminasse esta graça entre vós.
+\v 2Co.8.7
+Portanto, assim como em tudo abundais: em fé, em palavra, em conhecimento, em todo empenho, e em {tr,rp:vosso amor por nós}{n4:nosso amor por vós};{trnc:
+\fn
+N4: nosso amor por vós
+\*fn
+ }{n4:
+\fn
+TR, RP: vosso amor por nós
+\*fn
+ } sede também abundantes nesta graça.
+\v 2Co.8.8
+Eu não digo 
+\added
+isto
+\*added
+ como que mandando, mas sim para também, por meio do empenho dos outros, provar a sinceridade de vosso amor.
+\v 2Co.8.9
+Porque já conheceis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por causa de vós se fez pobre; para que com a pobreza dele, vós enriquecêsseis.
+\v 2Co.8.10
+E nisto dou 
+\added
+minha
+\*added
+ opinião: porque isto vos convém, não somente a fazer, mas também a querer, dado que começastes desde o ano passado.
+\v 2Co.8.11
+Portanto agora completai também o que já foi começado; para que, assim como houve ânimo no querer, assim também o seja no que tendes de completar.
+\v 2Co.8.12
+Porque se existe a boa vontade, 
+\added
+a doação
+\*added
+ é aceitável conforme o que se tem, e não conforme o que não se tem.
+\v 2Co.8.13
+Porque não 
+\added
+digo isto
+\*added
+ para que outros tenham alívio, e vós opressão;
+\v 2Co.8.14
+Mas 
+\added
+para que
+\*added
+ igualmente, neste tempo presente, vossa abundância seja 
+\added
+para suprir
+\*added
+ a falta dos outros, para que também a abundância deles seja 
+\added
+para suprir
+\*added
+ vossa falta, para que haja igualdade.
+\v 2Co.8.15
+Como está escrito: O que muito 
+\added
+colhe
+\*added
+,não teve mais; e o que 
+\added
+colhe
+\*added
+ pouco, não teve menos.
+\v 2Co.8.16
+Porém graças a Deus, que ele pôs o mesmo empenho por vós no coração de Tito;
+\v 2Co.8.17
+Pois aceitou 
+\added
+nosso
+\*added
+ chamado, e com muito entusiasmo partiu voluntariamente até vós.
+\v 2Co.8.18
+E enviamos com ele o irmão que é elogiado no Evangelho por todas as igrejas.
+\v 2Co.8.19
+E não somente 
+\added
+isto
+\*added
+,mas também foi escolhido pelas igrejas como companheiro de nossa viagem com esta graça, que é administrada por nós para a glória do mesmo Senhor, e a prontidão de vosso ânimo.
+\v 2Co.8.20
+Assim evitamos que ninguém nos critique nesta abundância que é administrada por nós,
+\v 2Co.8.21
+Procurando o que é honesto, não somente diante do Senhor, mas também diante das pessoas.
+\v 2Co.8.22
+Também enviamos com eles ao nosso irmão, ao qual muitas vezes em muitas coisas já provamos que ele é cuidadoso, e agora ainda muito mais cuidadoso pela muita confiança que 
+\added
+ele tem
+\*added
+ em vós.
+\v 2Co.8.23
+Quanto a Tito, ele é meu companheiro e cooperador para convosco; quanto a nossos irmãos, eles são representantes das igrejas, 
+\added
+e
+\*added
+ glória de Cristo.
+\v 2Co.8.24
+Portanto, mostrai para com eles a prova de vosso amor, e de nosso orgulho por vós, diante das igrejas.
+\v 2Co.9.1
+Porque não é necessário vos escrever sobre o trabalho que se faz para os santos.
+\v 2Co.9.2
+Porque eu sei a prontidão de vosso ânimo, do qual eu me orgulho de vós para os Macedônios, que Acaia já está pronta desde o ano passado; e o zelo que 
+\added
+começou
+\*added
+ de vós tem estimulado a muitos.
+\v 2Co.9.3
+Porém enviei a estes irmãos, para que nosso orgulho quanto a vós neste assunto não seja vão; para que (como eu já disse) possais estar prontos.
+\v 2Co.9.4
+Para que, se caso vierem 
+\added
+alguns
+\*added
+ macedônios comigo, e vos encontrarem despreparados, não nos envergonhemos (para não dizermos vós), por causa da confiança neste orgulho.
+\v 2Co.9.5
+Portanto achei necessário dizer a estes irmãos que viessem primeiro até vós, e preparassem primeiro vossa generosidade, já antes prometida, para que esteja pronta como boa vontade e não como avareza.
+\fn
+\key
+avareza
+\*key
+trad. alt. obrigação
+\*fn
+\v 2Co.9.6
+Digo porém 
+\added
+isto
+\*added
+,que o que semeia pouco, também pouco colherá; e o que semeia generosamente, também generosamente colherá.
+\v 2Co.9.7
+Cada qual 
+\added
+faça
+\*added
+ como propõe em 
+\added
+seu
+\*added
+ coração, não com tristeza, ou por obrigação; porque Deus ama ao que dá com alegria.
+\v 2Co.9.8
+E Deus é poderoso para fazer abundar em vós toda graça, para que sempre tendo de tudo, em tudo suficientes, abundeis em toda boa obra.
+\v 2Co.9.9
+Assim como está escrito: Ele espalhou 
+\added
+e
+\*added
+ deu aos pobres; sua justiça permanece para sempre.
+\v 2Co.9.10
+Ora, aquele que dá a semente ao que semeia, também 
+\added
+vos
+\*added
+ dê pão para comer, e multiplique sua sementeira, e aumente os frutos de vossa justiça.
+\v 2Co.9.11
+Para que em tudo enriqueçais em toda generosidade, a qual opera por nós, 
+\added
+resultando
+\*added
+ em graças a Deus.
+\v 2Co.9.12
+Porque o trabalho deste serviço está suprindo não somente a falta dos santos, mas também se torna abundante em muitas graças a Deus.
+\v 2Co.9.13
+Porque pela prova deste trabalho, glorificarão a Deus quanto à submissão de vossa confissão ao Evangelho de Cristo, e 
+\added
+da
+\*added
+ bondade da comunhão para com eles e para com todos;
+\v 2Co.9.14
+E por sua oração por vós, tendo saudades de vós, por causa da excelente graça de Deus sobre vós.
+\v 2Co.9.15
+E graças a Deus por seu dom indescritível.
+\v 2Co.10.1
+Além disto eu mesmo, Paulo, pela mansidão e bondade de Cristo, vos rogo, (eu que em verdade sou humilde entre vós quando presente, porém ousado para convosco quando ausente);
+\v 2Co.10.2
+Rogo pois, que quando eu estiver presente, não tenha que mostrar ousadia com a confiança de que penso que terei de me mostrar ousado para com alguns que nos consideram como se andássemos segundo a carne.
+\v 2Co.10.3
+Pois ainda que andemos na carne, não batalhamos segundo a carne.
+\v 2Co.10.4
+Porque as armas de nossa batalha não são carnais, mas sim poderosas em Deus, para destruirmos fortalezas;
+\v 2Co.10.5
+ 
+\added
+Assim
+\*added
+ destruímos pensamentos e toda arrogância que se levanta contra o conhecimento de Deus, e levamos como prisioneiro todo pensamento para a obediência a Cristo.
+\v 2Co.10.6
+E estamos prontos para vingar toda desobediência, quando vossa obediência for completa.
+\v 2Co.10.7
+Olhais 
+\added
+as coisas
+\*added
+ pela aparência? Se alguém confia de si mesmo que é de Cristo, pense o tal outra vez consigo mesmo que, assim como ele é de Cristo, assim também nós somos de Cristo.
+\v 2Co.10.8
+Porque se eu também ainda mais me quiser orgulhar do nosso poder que o Senhor nos deu para edificação, e não para vossa destruição, não me envergonharei;
+\v 2Co.10.9
+Para que não pareça que eu 
+\added
+queira
+\*added
+ vos amedrontar por meio de cartas.
+\v 2Co.10.10
+Porque eles dizem que as cartas são em verdade graves e fortes, mas a presença do corpo é fraca, e a palavra desprezível.
+\v 2Co.10.11
+Pense isto o tal, que assim como somos na palavra por cartas quando ausentes, assim também 
+\added
+seremos
+\*added
+ por obra quando 
+\added
+estivermos
+\*added
+ presentes.
+\v 2Co.10.12
+Porque não ousamos a nos classificar ou comparar com alguns que louvam a si mesmos; mas estes tem falta de entendimento ao medirem a si mesmos consigo mesmos, e ao compararem a si mesmos consigo mesmos.
+\v 2Co.10.13
+Nós, porém, não nos orgulharemos além da medida, mas sim conforme a medida da extensão que Deus repartiu conosco, medida que também vos alcança.
+\v 2Co.10.14
+Porque em nada estendemos além do que devíamos, como se não tivéssemos vos alcançado; pois fomos nós os primeiros a vir até vós no Evangelho de Cristo;
+\v 2Co.10.15
+Não nos orgulhamos além da medida no trabalho de outros, mas temos esperança de que, quando vossa fé crescer, seremos engrandecidos abundantemente entre vós conforme nossa extensão;
+\v 2Co.10.16
+Para pregarmos o evangelho em outros 
+\added
+lugares
+\*added
+ além de vós; 
+\added
+e
+\*added
+ não na extensão de outros 
+\added
+pregadores
+\*added
+,para nos orgulharmos de coisas que já estavam prontas.
+\v 2Co.10.17
+Porém o que se orgulha, se orgulhe no Senhor.
+\v 2Co.10.18
+Porque não é o que louva a si mesmo, mas sim o que louva ao Senhor; esse é o aprovado.
+\v 2Co.11.1
+Gostaria que me suportásseis um pouco em 
+\added
+minha
+\*added
+ loucura; mas 
+\added
+ainda assim
+\*added
+ suportai-me.
+\v 2Co.11.2
+Pois estou zeloso de vós com zelo de Deus, porque tenho vos preparado para 
+\added
+vos
+\*added
+ apresentar 
+\added
+como
+\*added
+ uma virgem pura, a um marido, isto é, a Cristo.
+\v 2Co.11.3
+Mas temo que, assim como a serpente enganou a Eva com sua astúcia, também assim em alguma maneira vossas mentes se corrompam da simplicidade que está em Cristo.
+\v 2Co.11.4
+Porque se aquele que vem pregasse a outro Jesus que nós não temos pregado, ou 
+\added
+se
+\*added
+ recebêsseis outro espírito que não recebestes, ou evangelho diferente do que aceitastes, certamente vós 
+\added
+o
+\*added
+ aceitaríeis.
+\v 2Co.11.5
+Porque penso que eu em nada fui inferior aos mais excelentes apóstolos.
+\v 2Co.11.6
+E se também sou rude na palavra, contudo não o sou no conhecimento; mas em tudo já estamos totalmente manifestos entre vós.
+\v 2Co.11.7
+Por acaso pequei ao humilhar a mim mesmo, para que vós fôsseis exaltados, por eu ter vos anunciado gratuitamente o Evangelho de Deus?
+\v 2Co.11.8
+Eu tomei 
+\added
+o que era
+\*added
+ de outras igrejas, ao receber salário, para servir a vós; e quando eu estava presente convosco, e tendo necessidade, a ninguém 
+\added
+incomodei
+\*added
+ com algum encargo.
+\v 2Co.11.9
+Porque os irmãos que vieram da Macedônia supriram minha falta; e em tudo eu me guardei de vos ser incômodo, e 
+\added
+ainda me
+\*added
+ guardarei.
+\v 2Co.11.10
+A verdade de Cristo está em mim, 
+\added
+de modo
+\*added
+ que este meu orgulho não me será impedido nas regiões da Acaia.
+\v 2Co.11.11
+Por que? Porque não vos amo? Deus o sabe.
+\v 2Co.11.12
+Mas o que eu faço, ainda o farei, para cortar a oportunidade daqueles que buscam oportunidade para serem considerados como nós naquilo em que se orgulham.
+\v 2Co.11.13
+Porque tais falsos apóstolos são trabalhadores fraudulentos, fingindo serem apóstolos de Cristo.
+\v 2Co.11.14
+E isto não é algo maravilhoso; porque o mesmo Satanás se transforma 
+\added
+fingindo ser
+\*added
+ anjo de luz.
+\v 2Co.11.15
+Portanto não é muita 
+\added
+surpresa
+\*added
+ se também seus trabalhadores se transformam, 
+\added
+fingindo serem
+\*added
+ trabalhadores da justiça; o fim dos quais será conforme as suas obras.
+\v 2Co.11.16
+Outra vez digo, que ninguém pense que sou tolo; ou se não, recebei a mim como se eu fosse tolo, para que eu também me orgulhe um pouco.
+\v 2Co.11.17
+O que eu estou dizendo, não estou dizendo conforme o Senhor, mas sim como um tolo, nesta firme orgulho confiante.
+\v 2Co.11.18
+Porque muitos se orgulham segundo a carne; e também eu me orgulharei.
+\v 2Co.11.19
+Porque vós, sendo 
+\added
+tão
+\*added
+ sábios, tolerais com boa vontade os tolos.
+\v 2Co.11.20
+Pois vós tolerais se alguém vos põe como escravos, se alguém 
+\added
+vos
+\*added
+ explora, se alguém se aproveita 
+\added
+de vós
+\*added
+,se alguém age com arrogância, se alguém vos fere no rosto.
+\v 2Co.11.21
+Eu digo como algo desonroso, como se tivéssemos estado fracos; mas naquilo em que algum outro é atrevido, eu também sou atrevido (falo como tolo).
+\v 2Co.11.22
+Eles são hebreus? Eu também. Eles são israelitas? Eu também. Eles são semente de Abraão? Eu também.
+\v 2Co.11.23
+Eles são servidores de Cristo? (Falo como tolo:) eu sou mais ainda; em trabalhos, muito mais; em feridas, mais; em prisões, muito mais; em 
+\added
+perigo
+\*added
+ de morte, muitas vezes.
+\v 2Co.11.24
+Eu já recebi dos judeus cinco vezes quarenta 
+\added
+açoites
+\*added
+ menos um.
+\v 2Co.11.25
+Por três vezes já fui espancado com varas, uma vez fui apedrejado, três vezes sofri naufrágios, passei uma noite e um dia 
+\added
+à deriva
+\*added
+ no mar profundo;
+\v 2Co.11.26
+Muitas vezes em viagens, em perigos de rios, em perigos de assaltantes, em perigos dos da 
+\added
+minha
+\*added
+ nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre falsos irmãos;
+\v 2Co.11.27
+Em trabalho e fadiga, muitas vezes em vigílias, em fome e em sede, em jejuns muitas vezes, em frio e nudez.
+\v 2Co.11.28
+Além das coisas de fora, a cada dia me vem preocupações de todas as igrejas.
+\v 2Co.11.29
+Quem enfraquece, que eu também não enfraqueça? Quem não tropeça 
+\added
+no pecado
+\*added
+,que eu não me queime 
+\added
+por dentro
+\*added
+ ?
+\v 2Co.11.30
+Se é necessário se orgulhar, eu me orgulharei das coisas relativas à minha fraqueza.
+\v 2Co.11.31
+O Deus e Pai de nosso Senhor Jesus Cristo, que é bendito eternamente, sabe que eu não estou mentindo.
+\v 2Co.11.32
+Em Damasco, o governador subordinado ao Rei Aretas pôs guardas na cidade dos damascenos, querendo me prender.
+\v 2Co.11.33
+E me fizeram descer num cesto por uma janela da muralha 
+\added
+da cidade
+\*added
+,e 
+\added
+assim
+\*added
+ escapei das mãos dele.
+\v 2Co.12.1
+Verdadeiramente não me convém me orgulhar; porque eu virei para as visões e revelações do Senhor.
+\v 2Co.12.2
+Conheço um homem em Cristo que, catorze anos atrás, foi arrebatado até o terceiro céu (se no corpo, não sei; se fora do corpo, não sei; Deus o sabe).
+\v 2Co.12.3
+E sei que o tal homem (se no corpo, se fora do corpo, não sei; Deus o sabe),
+\v 2Co.12.4
+Foi arrebatado ao paraíso, e ouviu palavras inexprimíveis, que ao homem não é lícito falar.
+\v 2Co.12.5
+D 
+\added
+este
+\*added
+ tal eu me orgulharei, mas de mim mesmo não me orgulharei, a não ser em minhas fraquezas.
+\v 2Co.12.6
+Porque se eu quiser me orgulhar, não serei tolo; porque direi a verdade; porém eu me contenho, para que ninguém me considere mais do que aquilo que vê em mim, ou ouve de mim.
+\v 2Co.12.7
+E para que eu não ficasse arrogante pela excelência das revelações, me foi dado um espinho na carne, 
+\added
+que é
+\*added
+ um mensageiro de Satanás, para me atormentar, para que eu não ficasse arrogante.
+\v 2Co.12.8
+Três vezes eu orei ao Senhor por causa disso, para que 
+\added
+isso
+\*added
+ de afastasse de mim.
+\v 2Co.12.9
+E ele me disse: Minha graça te basta, porque meu poder se aperfeiçoa na fraqueza.Portanto, com a maior alegria, eu me orgulharei em minhas fraquezas, para que o poder de Cristo habite em mim.
+\v 2Co.12.10
+Por isso tenho prazer nas fraquezas, nos insultos, nas necessidades, nas perseguições, nas angústias por causa de Cristo; porque quando estou fraco, então fico forte.
+\v 2Co.12.11
+Eu me fiz de tolo ao me orgulhar; 
+\added
+mas
+\*added
+ vós me obrigastes 
+\added
+a isso
+\*added
+ ; porque eu devia ser louvado por vós, pois eu em nada fui inferior aos “superapóstolos”, apesar de eu nada ser.
+\v 2Co.12.12
+Os 
+\added
+meus
+\*added
+ sinais de apóstolo foram efetuados entre vós em toda paciência, em sinais, milagres e maravilhas.
+\v 2Co.12.13
+Afinal, qual foi a coisa em que fostes inferiores às outras igrejas, a não ser em que eu mesmo não vos fui incômodo? Perdoai-me esta injustiça!
+\v 2Co.12.14
+Eis que estou prestes a vir pela terceira vez até vós, e não vos serei incômodo como um peso. Porque eu não busco o 
+\added
+que é
+\*added
+ vosso, mas sim a vós. Porque os filhos não devem guardar bens para os pais, mas sim os pais para os filhos.
+\v 2Co.12.15
+E eu de muita boa vontade me gastarei, e me deixarei gastar por vossas almas, ainda que quanto mais eu vos amo, menos sou amado.
+\v 2Co.12.16
+Mas que assim seja, que eu não fui incômodo para convosco. Mas, como eu era astuto, eu vos tomei por engano!
+\v 2Co.12.17
+Por acaso eu me aproveitei de vós, por meio de alguém que enviei até vós?
+\v 2Co.12.18
+Eu roguei a Tito, e enviei ao irmão com ele; por acaso Tito se aproveitou de vós? Por acaso não andamos nós no mesmo espírito, e nos mesmos passos?
+\v 2Co.12.19
+Pensais ainda que nós nos desculpamos convosco? Falamos diante de Deus em Cristo; e 
+\added
+fazemos
+\*added
+ tudo isto, ó amados, para vossa edificação.
+\v 2Co.12.20
+Porque eu temo que, quando vier, eu não vos encontre da maneira que eu quero; e vós me encontreis da maneira que não quereis; para que não 
+\added
+haja
+\*added
+ brigas, invejas, iras, rivalidades, difamações, fofocas, arrogâncias e tumultos.
+\v 2Co.12.21
+Para que, quando eu vier outra vez, meu Deus não me humilhe para convosco, e chore por muitos dos que antes pecaram, 
+\added
+e ainda
+\*added
+ se não arrependeram da imundícia, e fornicação, e promiscuidade que cometeram.
+\v 2Co.13.1
+Esta é a terceira vez 
+\added
+que
+\*added
+ venho até vós; pela boca de duas ou três testemunhas toda palavra será firmada.
+\v 2Co.13.2
+Eu já tinha dito antes, e disse quando estive presente pela segunda vez, e agora ausente o escrevo aos que pecaram anteriormente, e a todos os demais, que se vier outra vez, não 
+\added
+lhes
+\*added
+ serei tolerante;
+\v 2Co.13.3
+Pois buscais prova de que Cristo fala em mim, o qual em vós não é fraco, mas que é poderoso entre vós.
+\v 2Co.13.4
+Porque ainda que tenha sido crucificado por fraqueza, contudo ele vive pelo poder de Deus. Porque também nós somos fracos nele, porém com ele viveremos pelo poder de Deus em vós.
+\v 2Co.13.5
+Examinai-vos a vós mesmos, se estais na fé; provai-vos a vós mesmos. Ou não conheceis a vós mesmos, que Jesus Cristo está em vós? A menos que vós estejais reprovados.
+\v 2Co.13.6
+Mas espero que vós entendereis que nós não somos reprovados.
+\v 2Co.13.7
+E eu desejo 
+\added
+pedindo
+\*added
+ a Deus que nenhum mal façais; não para que sejamos achados aprovados, mas para que vós façais o bem, e nós sejamos como reprovados.
+\v 2Co.13.8
+Porque nada podemos fazer contra a verdade, mas sim pela verdade.
+\v 2Co.13.9
+Pois nós nos alegramos quando estamos fracos, e vós estais fortes; e isto também desejamos: o vosso aperfeiçoamento.
+\v 2Co.13.10
+Por isso eu escrevo estas coisas ausente; para que, quando estiver presente não use de rigor, segundo o poder que o Senhor tem me dado, para edificação, e não para destruição.
+\v 2Co.13.11
+Quanto às demais coisas, irmãos, alegrai-vos, sede perfeitos, estai consolados, tenhais um mesmo entendimento, vivei em paz; e o Deus de amor e de paz será convosco.
+\v 2Co.13.12
+Saudai-vos uns aos outros com beijo santo. Todos os santos vos saúdam.
+\v 2Co.13.13
+A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém.{tr: 
+\added
+A Segunda Carta aos Coríntios foi escrita de Filipos, na Macedônia, e enviada por Tito e Lucas.
+\*added
+ }{trnc:
+\fn
+RP, N4 omitem a descrição de como a carta foi produzida e enviada
+\*fn
+ }

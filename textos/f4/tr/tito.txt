@@ -1,0 +1,208 @@
+﻿\name-long
+Carta de Paulo a Tito
+\*name-long
+\name-short
+Tito
+\*name-short
+\abbreviation
+Tt
+\*abbreviation
+\ubs-code
+TIT
+\*ubs-code
+\v Tt.1.1
+Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos escolhidos de Deus, e o conhecimento da verdade, que é segundo a devoção 
+\added
+a Deus
+\*added
+ ;
+\v Tt.1.2
+Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos princípios dos tempos,
+\v Tt.1.3
+E a seu 
+\added
+devido
+\*added
+ tempo 
+\added
+a
+\*added
+ manifestou: a sua palavra, por meio da pregação, que me foi confiada segundo o mandamento de Deus nosso Salvador.
+\v Tt.1.4
+Para Tito, 
+\added
+meu
+\*added
+ verdadeiro filho, segundo a fé em comum; 
+\added
+haja em ti
+\*added
+ graça, misericórdia 
+\added
+e
+\*added
+ paz de Deus Pai, e do Senhor Jesus Cristo, nosso Salvador.
+\v Tt.1.5
+Por esta causa eu te deixei em Creta, para que tu continuasses a pôr em ordem as coisas que estavam faltando, e de cidade em cidade constituísses presbíteros, conforme eu te mandei.
+\v Tt.1.6
+Se alguém for irrepreensível, marido de uma mulher, que tenha filhos fiéis, que não possam ser acusados de serem devassos ou desobedientes.
+\v Tt.1.7
+Porque o supervisor
+\fn
+supervisor = equiv. bispo
+\*fn
+ deve ser irrepreensível, como administrador da casa de Deus, não arrogante, que não se ira facilmente, não beberrão, não agressivo, nem ganancioso.
+\v Tt.1.8
+Mas 
+\added
+que ele seja
+\*added
+ hospitaleiro, ame aquilo que é bom, moderado, justo, santo, 
+\added
+e
+\*added
+ tenha domínio próprio;
+\v Tt.1.9
+Retendo firme a fiel palavra que é conforme o que foi ensinado; para que ele seja capaz, tanto para exortar na sã doutrina, como 
+\added
+também
+\*added
+ para mostrar os erros dos que falam contra 
+\added
+ela
+\*added
+.
+\v Tt.1.10
+Porque também há muitos insubordinados, que falam coisas vãs, e enganadores, especialmente aqueles da circuncisão;
+\v Tt.1.11
+Aos quais devem se calar, que transtornam casas inteiras, ensinando o que não se deve, por causa da ganância.
+\v Tt.1.12
+Um próprio profeta deles disse: Os cretenses sempre são mentirosos, animais malignos, ventres preguiçosos.
+\v Tt.1.13
+Este testemunho é verdadeiro; por isso repreende-os severamente, para que sejam sãos na fé.
+\v Tt.1.14
+Não dando atenção a mitos judaicos, e a mandamentos de homens, que desviam da verdade.
+\v Tt.1.15
+Realmente todas as coisas são puras para os puros; mas para os contaminados e infiéis, nada é puro; e até o entendimento e a consciência deles estão contaminados.
+\v Tt.1.16
+Eles declaram que conhecem a Deus, mas com as obras eles o negam, pois são abomináveis e desobedientes, e reprovados para toda boa obra.
+\v Tt.2.1
+Tu, porém, fala o que convém à sã doutrina;
+\v Tt.2.2
+Aos velhos, que sejam sóbrios, respeitáveis, prudentes, sãos na fé, no amor e na paciência.
+\v Tt.2.3
+Às velhas, da mesma maneira, 
+\added
+tenham
+\*added
+ bons costumes, como convém a santas; não caluniadoras, não viciadas em muito vinho, mas sim instrutoras daquilo que é bom;
+\v Tt.2.4
+Para ensinarem às moças a serem prudentes, a amarem a seus maridos, a amarem a seus filhos;
+\v Tt.2.5
+A serem moderadas, puras, boas donas de casa, sujeitas a seus próprios maridos, para que a palavra de Deus não seja blasfemada.
+\v Tt.2.6
+Exorta semelhantemente aos rapazes, que sejam moderados.
+\v Tt.2.7
+Em tudo mostra a ti mesmo como exemplo de boas obras; na doutrina, 
+\added
+mostra
+\*added
+ incorrupção, dignidade, sinceridade;
+\v Tt.2.8
+Uma palavra sã 
+\added
+e
+\*added
+ irrepreensível, para que 
+\added
+qualquer
+\*added
+ opositor se envergonhe, nada tendo de mal para dizer contra vós.
+\v Tt.2.9
+Que os servos sejam sujeitos a seus próprios senhores, sendo agradáveis em tudo, 
+\added
+e
+\*added
+ não falando contra 
+\added
+eles
+\*added
+ .
+\v Tt.2.10
+Não 
+\added
+lhes
+\*added
+ furtando, mas sim mostrando toda a boa lealdade; para que em tudo adornem a doutrina de Deus nosso Salvador.
+\v Tt.2.11
+Porque a graça salvadora de Deus se manifestou a todos os homens.
+\v Tt.2.12
+Ensinando-nos que, ao renunciarmos à maldade, e aos maus desejos mundanos, vivamos neste tempo presente de modo sóbrio, justo e devotamente.
+\v Tt.2.13
+Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;
+\v Tt.2.14
+O qual deu a si mesmo por nós, para nos libertar de toda injustiça, e para purificar para si mesmo um povo particular, zeloso de boas obras.
+\v Tt.2.15
+Fala estas coisas, exorta, e repreende com toda autoridade. Ninguém te despreze.
+\v Tt.3.1
+Relembra-os para se sujeitarem aos governantes e às autoridades, sejam obedientes, 
+\added
+e
+\*added
+ estejam preparados para toda boa obra.
+\v Tt.3.2
+Não insultem a ninguém, não sejam briguentos, 
+\added
+mas sim
+\*added
+ pacientes, mostrando toda mansidão para com todos os homens.
+\v Tt.3.3
+Porque nós também éramos tolos, desobedientes, enganados, servindo a vários maus desejos e prazeres, vivendo em malícia e inveja, detestáveis, odiando uns aos outros.
+\v Tt.3.4
+Mas quando a bondade e amor de Deus nosso Salvador para a humanidade apareceu,
+\v Tt.3.5
+Não pelas obras de justiça que nós tivéssemos feito, mas sim segundo sua misericórdia, ele nos salvou pelo banho do novo nascimento, e da renovação do Espírito Santo;
+\v Tt.3.6
+Ao qual ele derramou abundantemente em nós por meio de Jesus Cristo nosso Salvador;
+\v Tt.3.7
+Para que, ao termos sido justificados por sua graça, sejamos feitos herdeiros segundo a esperança da vida eterna.
+\v Tt.3.8
+ 
+\added
+Esta
+\*added
+ palavra 
+\added
+é
+\*added
+ fiel, e isto quero que insistas em confirmar, para que os que creem em Deus procurem se dedicar às boas obras; estas coisas são boas e proveitosas aos homens.
+\v Tt.3.9
+Mas evita as questões tolas, e às genealogias e discussões, e às disputas quanto à Lei, porque elas são inúteis e vás.
+\v Tt.3.10
+Ao homem rebelde, depois da primeira e 
+\added
+da
+\*added
+ segunda repreensão, rejeita 
+\added
+-o
+\*added
+ .
+\v Tt.3.11
+Sabendo que o tal está pervertido, e está pecando, estando a si mesmo condenado.
+\v Tt.3.12
+Quando eu enviar Artemas até ti, ou Tíquico, procura vir até mim a Nicópolis, porque eu decidi passar lá o inverno.
+\v Tt.3.13
+Auxilia com empenho a Zenas, o especialista na Lei, e a Apolo, na viagem deles, para que nada lhes falte.
+\v Tt.3.14
+E que também os nossos aprendam a se dedicarem às boas obras para os usos necessários, para que não sejam infrutíferos.
+\v Tt.3.15
+Todos os que estão comigo te saúdam. Saúda tu aos que nos amam na fé. A graça 
+\added
+seja
+\*added
+ com todos vós. Amém! 
+\added
+A carta a Tito, o primeiro bispo escolhido da igreja dos cretenses, foi escrita de Nicópolis na Macedônia
+\*added
+ 
