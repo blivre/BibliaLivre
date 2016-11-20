@@ -1,4 +1,4 @@
-﻿\id 1JN B�blia Livre - Textus Receptus
+﻿\id 1JN Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 1 João
 \toc1 Primeira Carta Universal de João
@@ -102,7 +102,7 @@
 \v 15 Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.
 \v 16 E conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem está no amor está em Deus, e Deus \add está\add*  nele.
 \v 17 Nisto o amor tem se aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, porque assim como ele é, assim também somos nós neste mundo.
-\v 18 No amor não há medo, porém o amor perfeito lança fora ao medo; porque o medo tem a ver com a punição; e o que teme não tem seu amor aperfeiçoado.
+\v 18 No amor não há medo, porém o amor perfeito expulsa o medo; porque o medo tem a ver com a punição; e o que teme não está aperfeiçoado em amor.
 \v 19 Nós o amamos, porque ele nos amou primeiro.
 \v 20 Se alguém diz: Eu amo a Deus,E odeia a seu irmão, \add então\add*  é mentiroso; porque quem não ama a seu irmão, que \add já\add*  viu, como pode amar a Deus, que nunca viu?
 \v 21 E nós temos este mandamento dele: que quem ama a Deus, ame também a seu irmão.

@@ -1,4 +1,4 @@
-﻿\id OBA B�blia Livre - Textus Receptus
+﻿\id OBA Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Obadias
 \toc1 Obadias

@@ -12,113 +12,115 @@
 
 \v 1 Paulo, apóstolo de Jesus Cristo pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
 \v 2 Graça e paz, de Deus nosso Pai, e do Senhor Jesus Cristo, \add sejam\add*  convosco.
-\v 3 Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com toda bênção espiritual nos lugares celestes em Cristo;
-\v 4 Assim como nos escolheu nele antes da fundação do mundo, para que sejamos santos e irrepreensíveis diante dele em amor.
-\v 5 E nos predestinou em adoção de filhos por meio de Jesus Cristo para si mesmo, segundo o que era agradável à sua vontade;
-\v 6 Para louvor da glória de sua graça, a qual  \f + \ft TR, RP: pela qual  \f*  nos agraciou no \add seu\add*  Amado;
-\v 7 No qual temos libertação pelo seu sangue, o perdão dos pecados, segundo as riquezas de sua graça;
-\v 8 A qual ele fez abundar em nós em toda sabedoria e prudência,
-\v 9 Revelando-nos o mistério de sua vontade, conforme o que lhe era agradável, o qual propusera em si mesmo;
-\v 10 Para no plano especial do cumprimento dos tempos, voltar a reunir todas as coisas em Cristo, tanto as que \add estão\add*  nos céus, quanto as que \add estão\add*  na terra.
-\v 11 Naquele em quem também somos feitos herança, tendo sido predestinados conforme o propósito daquele que opera todas as coisas segundo o conselho de sua vontade.
-\v 12 Para que sejamos louvor de sua glória, nós os que primeiramente esperamos em Cristo.
-\v 13 Em quem vós também \add estais\add* ,depois que ouvistes a palavra da verdade: o Evangelho de vossa salvação; em quem também, tendo crido, fostes selados com o Espírito Santo da promessa.
-\v 14 O qual é o penhor de nossa herança, até que \add haja\add*  libertação de \add sua\add*  propriedade, para louvor de sua glória.
-\v 15 Por isso que eu, ouvindo também a fé que há entre vós no Senhor Jesus, e o amor para com todos os santos,
-\v 16 Não paro de dar graças \add a Deus\add*  por vós, lembrando-me de vós em minhas orações;
-\v 17 Para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê o Espírito de sabedoria, e de revelação em seu conhecimento;
-\v 18  \add E sejam\add*  iluminados os olhos de vosso coração, para que saibais qual é a esperança daquilo para que ele vos chamou, e quais as riquezas da glória de sua herança nos santos;
-\v 19 E qual é a superabundante grandeza de seu poder para nós, os que cremos, segundo o agir de sua poderosa força;
-\v 20 O qual agiu em Cristo, ressuscitando-o dos mortos; e o colocou à sua direita nos lugares celestes.
-\v 21 Acima de todo governo, e autoridade, e poder, e domínio, e \add acima\add*  de todo nome que se nomeia, não somente nestes tempos, mas também nos que virão.
-\v 22 E ele sujeitou todas as coisas debaixo de seus pés, e lhe deu como cabeça sobre todas as coisas para a Igreja;
-\v 23 A qual é seu corpo, o cumprimento daquele que em todos cumpre tudo.
+\v 3 Bendito seja o Deus e Pai do nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituis nos lugares celestiais em Cristo.
+\v 4 Assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em amor.
+\v 5 E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
+\v 6 para louvor de sua gloriosa graça, \f + \ft Lit. glória de sua graça \f*  a qual  \f + \ft TR, RP: pela qual  \f*  nos agraciou \f + \ft Isto é, nos concedeu gratuitamente \f*  no Amado.
+\v 7 Nele temos a libertação \f + \ft Ou: redenção, isto é, a libertação por meio do pagamento de um resgate \f*  pelo seu sangue, o perdão dos pecados, conforme a sua rica graça, \f + \ft Lit. as riquezas de sua graça \f* 
+\v 8 que ele fez transbordar em nós em toda sabedoria e prudência.
+\v 9 E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que propôs nele, \f + \ft provavelmente em Cristo \f* 
+\v 10 para a administração do cumprimento dos tempos, \add isto é,\add*  voltar a reunir todas as coisas em Cristo, tanto as que \add estão\add*  nos céus, quanto as que \add estão\add*  na terra.
+\v 11 Nele também fomos feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas segundo o conselho da sua vontade,
+\v 12 para que fôssemos para louvor da sua glória, nós os que primeiro esperamos em Cristo.
+\v 13 E também vós, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação, e nele crestes, nele fostes selados com o Espírito Santo da promessa,
+\v 14 que é a garantia da nossa herança, até a libertação \f + \ft Ou: redenção \f*  da propriedade \add de Deus\add* , para louvor da sua glória.
+\v 15 Por isso eu, desde que ouvi da fé que há entre vós no Senhor Jesus, e do amor a todos os santos,
+\v 16 não paro de agradecer \add a Deus\add*  por vós, lembrando-me de vós em minhas orações.
+\v 17 \add Oro\add*  para que o Deus de nosso Senhor Jesus Cristo, o Pai glorioso \f + \ft Lit. Pai da glória \f* , vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
+\v 18 e que sejam iluminados os olhos de vosso coração, para que conheçais qual é a esperança para a qual ele chamou, quais \add são\add*  as riquezas da herança gloriosa \f + \ft Lit. glória da herança \f*  dele nos santos,
+\v 19 e qual é a superabundante grandeza de seu poder para nós, que cremos, conforme a operação da sua poderosa força.
+\v 20 Ele operou essa força \f + \fq essa força \ft Lit. Ele a operou. “essa força” adicionado para aumentar a clareza \f*  em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
+\v 21 acima de todo governo, autoridade, poder, domínio, e \add acima\add*  de todo nome que se nomeia, não só nesta era, mas também na futura.
+\v 22 Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas para a Igreja,
+\v 23 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
 
 \c 2
 \p
 
-\v 1 E vós, estando mortos em ofensas e pecados,
-\v 2 Nos quais anteriormente andastes segundo o proceder deste mundo, segundo o chefe da autoridade do ar, do espírito que agora opera nos filhos da desobediência;
-\v 3 Entre os quais também todos nós antes andávamos nos desejos de nossa carne, fazendo a vontade da carne e dos \add nossos\add*  pensamentos; e éramos filhos da ira por natureza, assim como também os demais.
-\v 4 Mas Deus, que é rico em misericórdia, por seu muito amor com que nos amou,
-\v 5 Estando nós ainda mortos em \add nossas\add*  ofensas, juntamente com Cristo nos vivificou; pela graça sois salvos.
-\v 6 E juntamente \add nos\add*  ressuscitou, e \add nos\add*  fez sentar nos lugares celestes em Cristo Jesus.
-\v 7 Para que nos tempos futuros mostrasse as abundantes riquezas de sua graça, por \add sua\add*  bondade para conosco em Cristo Jesus.
-\v 8 Porque pela graça sois salvos, por meio da fé, e isto não \add vem\add*  de vós; é dom de Deus.
-\v 9 Não por obras, para que ninguém tenha orgulho de si \add mesmo\add*  .
-\v 10 Porque nós somos resultado de seu agir, criados em Cristo Jesus para as boas obras, as quais Deus preparou para que nelas andássemos.
-\v 11 Portanto lembrai-vos de que vós, que antes éreis gentios na carne, e chamados de incircuncisos pelos que se chamam de circuncisos na carne, \add uma obra\add*  feita por mãos;
-\v 12 Que naquele tempo estáveis sem Cristo, excluídos do povo de Israel, e estrangeiros aos pactos da promessa, não tendo esperança, e sem Deus no mundo.
-\v 13 Mas agora em Cristo Jesus, vós que antes estáveis longe, já pelo sangue de Cristo vos aproximastes.
-\v 14 Porque ele é a nossa paz, que tornou os dois \add povos\add*  em um, e derrubou o muro da separação.
-\v 15 Em sua carne ele desfez as inimizades da Lei dos mandamentos \add que consistia\add*  em regras, para criar em si mesmo os dois em um \add só\add*  novo homem, fazendo a paz;
-\v 16 E pela cruz reconciliar com Deus a ambos em um corpo, matando nela as inimizades.
-\v 17 E vindo, trouxe o evangelho da paz a vós que \add estáveis\add*  longe, e aos que estavam perto.
-\v 18 Porque por meio dele ambos temos por um \add mesmo\add*  Espírito ao Pai.
-\v 19 Portanto já não sois estrangeiros, nem forasteiros, mas sim concidadãos dos santos, e membros da família de Deus,
-\v 20 Edificados sobre o fundamento dos apóstolos, e dos profetas, sendo que Jesus Cristo é a pedra principal da esquina,
-\v 21 Em quem todo o edifício bem ajustado, cresce como um templo santo no Senhor.
-\v 22 Em quem também vós juntamente estais edificados para morada de Deus em Espírito.
+\v 1 E vós estáveis mortos em ofensas e pecados,
+\v 2 nos quais antes andastes conforme o proceder deste mundo, conforme o príncipe do poder do ar, do espírito que agora opera nos filhos da desobediência.
+\v 3 Entre esses também todos nós antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como também os outros.
+\v 4 Mas Deus, que é rico em misericórdia, pelo seu muito amor com que nos amou,
+\v 5 estando nós ainda mortos em \add nossas\add*  ofensas, nos deu vida juntamente com Cristo (pela graça sois salvos),
+\v 6 \add nos\add*  ressuscitou, juntamente \add com ele\add* , e \add nos\add*  fez sentar nos lugares celestiais, em Cristo Jesus;
+\v 7 para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela \add sua\add*  bondade conosco em Cristo Jesus.
+\v 8 Porque pela graça sois salvos, por meio da fé; e isto não \add vem\add*  de vós; \add é\add*  dom de Deus;
+\v 9 não por obras, para que ninguém tenha orgulho de si mesmo.
+\v 10 Pois nós fomos feitos por ele, criados em Cristo Jesus para as boas obras, que Deus preparou para que nelas andássemos.
+\v 11 Portanto, lembrai-vos de que vós, antes, éreis gentios na carne, e chamados de não-circuncidados pelos que se chamam participantes da circuncisão na carne, feita por mãos humanas;
+\v 12 que naquele tempo estáveis sem Cristo, excluídos da comunidade de Israel, e estranhos aos pactos da promessa, não tendo esperança, e sem Deus no mundo.
+\v 13 Mas agora em Cristo Jesus, vós que antes estáveis longe, chegastes para perto pelo sangue de Cristo,
+\v 14 pois ele é a nossa paz. Dos dois \add povos\add*  ele fez um, e derrubou do meio o muro da separação.
+\v 15 Na sua carne ele desfez a inimizade da Lei dos mandamentos \add que consistia\add*  em ordenanças, para criar em si mesmo os dois em um novo homem, fazendo a paz;
+\v 16 e pela cruz reconciliar com Deus a ambos num só corpo, matando nela a inimizade.
+\v 17 Ele veio, e proclamou o evangelho da paz a vós que \add estáveis\add*  longe, e aos que estavam perto.
+\v 18 Pois por meio dele ambos temos acesso ao Pai por um \add mesmo\add*  Espírito.
+\v 19 Portanto, já não sois estrangeiros, nem forasteiros, mas sim, concidadãos dos santos, e membros da família de Deus,
+\v 20 edificados sobre o fundamento dos apóstolos e dos profetas, do qual Jesus Cristo é a pedra principal da esquina.
+\v 21 Nele o edifício todo, bem ajustado, cresce para \add ser\add*  um templo santo no Senhor.
+\v 22 Nele também vós sois juntamente edificados para \add serdes\add*  morada de Deus em Espírito.
 
 \c 3
 \p
 
-\v 1 Por isso eu, Paulo, \add sou\add*  prisioneiro de Jesus Cristo, por causa de vós gentios.
-\v 2 Mas se tendes ouvido o plano especial da graça de Deus, que me foi dada para convosco;
-\v 3 O qual por revelação me foi informou este mistério (conforme antes \add vos\add*  escrevi um pouco \add disso\add*  ,
-\v 4  \add Através\add*  do qual, lendo, podeis entender meu conhecimento neste mistério de Cristo),
-\v 5 O qual em outras gerações não foi dado a conhecer aos filhos dos homens; como agora é revelado pelo Espírito aos seus santos apóstolos e profetas:
-\v 6 Que os gentios são coerdeiros, \add membros\add*  de um mesmo corpo, e que compartilham de sua promessa em Cristo pelo Evangelho.
-\v 7 Deste \add evangelho\add*  fui feito servidor pelo dom da graça de Deus, que me foi dado segundo a operação de seu poder,
-\v 8 Para mim, o menor de todos os santos, é dada esta graça, para entre os gentios anunciar pelo Evangelho as inimagináveis riquezas de Cristo,
-\v 9 E para esclarecer a todos qual é a dispensação do mistério, que desde os \add primeiros\add*  tempos esteve escondido em Deus, que criou todas as coisas.  \f + \ft TR, RP acrescentam “por meio de Jesus Cristo” ao final do versículo  \f* 
-\v 10 Para que agora pela igreja seja informada aos governos e autoridades nos lugares celestes a multiforme sabedoria de Deus;
-\v 11 Segundo o eterno propósito, que ele realizou em Cristo Jesus, nosso Senhor,
-\v 12 No qual temos ousadia e acesso com confiança pela fé nele.
-\v 13 Portanto eu \add vos\add*  peço que não desfaleçais em minhas aflições por vós, que é vossa glória.
-\v 14 Por causa disso eu me ponho de joelhos diante do Pai;  \f + \ft TR, RP acrescentam: “de nosso Senhor Jesus Cristo” ao fim do versículo  \f* 
-\v 15 Do qual toda a família nos céus e na terra se nomeia;
-\v 16 Para que ele vos conceda, segundo as riquezas de sua glória, que com poder sejais fortalecidos por seu Espírito no interior de cada um,  \f + \fq no interior de cada um \ft lit. no ser humano interior  \f* 
-\v 17 A fim de que pela fé Cristo habite em vossos corações; e vós estejais enraizados e firmados no amor;
-\v 18 Para que vós possais compreender, junto com todos os santos, qual é a largura, e comprimento, e profundidade, e altura;
-\v 19 E conhecer o amor de Cristo, que ultrapassa o entendimento; para que sejais cheios de toda a plenitude de Deus.
-\v 20 E aquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
-\v 21 A ele seja a glória na Igreja, em Cristo Jesus, por todas as gerações para todo o sempre, Amém!
+\v 1 Por isso eu, Paulo, \add sou\add*  prisioneiro de Jesus Cristo, para o benefício de vós, gentios.
+\v 2 Se é que já ouvistes da responsabilidade \f + \ft Ou, tradicionalmente: dispensação \f*  acerca da graça de Deus, que me foi dada para vós;
+\v 3 que por revelação me foi dado a conhecer este mistério (conforme já \add vos\add*  escrevi um pouco;
+\v 4 quando o ledes, podeis entender o meu entendimento deste mistério de Cristo).
+\v 5 Esse mistério \f + \ft “Esse mistério” foi posto explicitamente para simplificar a frase \f*  em outras gerações não foi dado a conhecer aos seres humanos \f + \ft Lit. filhos dos homens \f* , como agora foi revelado pelo Espírito aos seus santos apóstolos e profetas:
+\v 6 \add isto é, \add*  que os gentios são conjuntamente herdeiros, \add membros\add*  de um mesmo corpo, e participantes da sua promessa em Cristo por meio do evangelho.
+\v 7 Eu fui feito servidor desse \add evangelho\add*  conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
+\v 8 A mim, o menor de todos os santos, foi dada esta graça de anunciar entre os gentios, por meio do Evangelho, as inimagináveis riquezas de Cristo,
+\v 9 E para esclarecer a todos qual é a administração \f + \ft Ou, tradicionalmente: dispensação \f*  do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas,  \f + \ft TR, RP acrescentam “por meio de Jesus Cristo” ao final do versículo  \f* 
+\v 10 para que a multiforme sabedoria de Deus seja agora manifestada pela igreja aos domínios e autoridades nos lugares celestes,
+\v 11 conforme o eterno propósito que ele cumpriu em Cristo Jesus, nosso Senhor,
+\v 12 no qual temos coragem \f + \ft Ou: ousadia \f*  e acesso confiante pela fé nele. \f + \ft Trad. alt.: pela fidelidade dele \f* 
+\v 13 Portanto, eu \add vos\add*  peço que não vos desanimeis em minhas aflições por vós. Elas são a vossa glória.
+\v 14 Por causa disso me ponho de joelhos diante do Pai;  \f + \ft TR, RP acrescentam: “do nosso Senhor Jesus Cristo” ao fim do versículo  \f* 
+\v 15 do qual toda a família nos céus e na terra recebe nome.
+\v 16 \add Oro\add*  para que, conforme a sua riquíssima glória,  \f + \ft Lit. as riquezas de sua glória \f*  ele vos conceda que sejais fortalecidos com poder pelo seu Espírito no interior de cada um,  \f + \fq no interior de cada um \ft lit. no ser humano interior  \f* 
+\v 17 para que Cristo habite em vossos corações pela fé. \add Oro\add*  para que vós estejais enraizados e firmados no amor,
+\v 18 e assim possais compreender, com todos os santos, qual é a largura, comprimento, profundidade, e altura,
+\v 19 e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios de toda a plenitude de Deus.
+\v 20 E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
+\v 21 a ele seja a glória na Igreja, em Cristo Jesus, por todas as gerações para todo o sempre, Amém!
 
 \c 4
 \p
 
-\v 1 Portanto eu, o prisioneiro no Senhor, vos peço que andeis como é digno do chamado com que fostes chamados,
-\v 2 Com toda humildade e mansidão; com paciência, tolerando uns aos outros em amor;
-\v 3 Procurando guardar a unidade do Espírito pelo vínculo da paz.
-\v 4 Há um \add só\add*  corpo, e um \add só\add*  Espírito, assim como também fostes chamados para uma \add só\add*  esperança de vosso chamado.
+\v 1 Portanto, eu, o prisioneiro no Senhor, rogo-vos que andeis como é digno do chamado com que fostes chamados,
+\v 2 com toda humildade e mansidão; com paciência, tolerando uns aos outros em amor.
+\v 3 Procurai guardar a unidade do Espírito pelo vínculo da paz.
+\v 4 Há um \add só\add*  corpo, e um \add só\add*  Espírito, como também fostes chamados em uma \add só\add*  esperança do vosso chamado.
 \v 5 Um \add só\add*  Senhor, uma \add só\add*  fé, um \add só\add*  batismo;
-\v 6 Um \add só\add*  Deus, e Pai de todos, que está sobre todos, e por todos, e em todos vós.
-\v 7 Mas a cada um de nós é dada a graça conforme a medida do dom de Cristo.
-\v 8 Portanto ele diz: Quando subiu ao alto, levou cativo ao cativeiro, e deu dons aos homens.
-\v 9 (E este que subiu, o que é, senão aquele que primeiro desceu às partes mais baixas da terra?
-\v 10 Aquele que desceu, é também o mesmo que subiu muito mais alto que todos os céus, para cumprir todas as coisas).
-\v 11 E o mesmo deu a uns para apóstolos, e outros para profetas, e a outros para evangelistas, e a outros para pastores e instrutores.
-\v 12 Para o aperfeiçoamento dos santos, para a obra do serviço \add da igreja\add* ,para a edificação do corpo de Cristo.
-\v 13 Até que todos venhamos à unidade da fé, e do conhecimento do Filho de Deus, em homem maduro, à medida da estatura da plenitude de Cristo;
-\v 14 Para que não mais sejamos crianças inconstantes, sendo levados com todo vento de doutrina pelo engano dos homens com astúcia, para enganar com fraudes;
-\v 15 A contrário, pratiquemos a verdade em amor, e cresçamos em tudo naquele que é o cabeça: Cristo.
-\v 16 A partir dele todo o corpo, bem ajustado e unido por todos os ligamentos de apoio, segundo a operação de cada parte em \add sua\add*  medida, faz o corpo crescer, para sua própria edificação em amor.
-\v 17 Portanto isto digo e dou testemunho no Senhor, que não andeis mais como os outros gentios andam, no vazio de vossas mentes.
-\v 18 Eles têm \add seu\add*  entendimento nas trevas, estranhos à vida de Deus pela ignorância que há neles, pela dureza de seus corações.
-\v 19 Por terem se tornado insensíveis, eles se entregaram ao mau desejo, para cometerem toda impureza com avidez.
-\v 20 Mas vós não aprendestes assim de Cristo;
-\v 21 Se realmente vós tendes o ouvido, e por ele fostes ensinados, assim como a verdade está em Jesus;
-\v 22 Acerca do comportamento do passado, a abandonar o velho homem, que se corrompe pelos maus e enganosos desejos;
-\v 23 A serdes renovados no espírito de vossa mente;
-\v 24 E a vos revestirdes do novo homem, que é criado conforme Deus na verdadeira justiça e santidade.
+\v 6 um \add só\add*  Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos vós.
+\v 7 Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo.
+\v 8 Por isso diz: Quando ele subiu ao alto, levou cativo o cativeiro, \f + \ft Ou: levou os cativos \f*  e deu dons às pessoas.
+\rq Salmos 68:18 \rq*
+
+\v 9 (O que significa este “ele subiu”, senão que ele antes tinha descido às partes mais baixas da terra?)
+\v 10 Aquele que desceu é também o mesmo que subiu muito acima de todos os céus, para preencher \f + \ft Trad. alt. cumprir \f*  todas as coisas.
+\v 11 E ele mesmo deu uns como apóstolos, outros como profetas outros como evangelistas, e outros como pastores e instrutores.
+\v 12 para o aperfeiçoamento dos santos, para a obra do serviço, \f + \ft Ou, tradicionalmente: ministério \f*  para a edificação do corpo de Cristo;
+\v 13 até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, à maturidade, \f + \ft Lit. ao homem maduro \f*  à medida da estatura da plenitude de Cristo. \f + \ft Ou: estatura completa de Cristo \f* 
+\v 14 O fim disso é que não mais sejamos crianças inconstantes, levadas de um lado para outro por todo vento de doutrina, pelo engano dos pessoas que, para enganar, usam de fraudes com astúcia.
+\v 15 Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é a cabeça: Cristo.
+\v 16 É dele que todo o corpo, bem ajustado e unido por todos os ligamentos, conforme a operação de cada parte na medida devida, proporciona o crescimento do corpo, para a sua própria edificação em amor.
+\v 17 Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os outros gentios andam, na futilidade das suas mentes.
+\v 18 Esses têm o entendimento nas trevas, e estão separados da vida de Deus pela ignorância que há neles, pela dureza do seu coração.
+\v 19 Como se tornaram insensíveis, eles se entregaram à sensualidade, para cometerem com avidez toda impureza.
+\v 20 Mas não foi assim que vós aprendestes de Cristo;
+\v 21 se é que o ouvistes, e fostes ensinados nele, como a verdade está em Jesus;
+\v 22 quanto ao comportamento passado, que deveis abandonar o velho ser humano, que se corrompe pelos maus desejos de engano;
+\v 23 que deveis\add*  vos renovar no espírito da vossa mente;
+\v 24 e que \add deveis\add*  vos revestir do novo ser humano, que é criado conforme Deus na verdadeira justiça e santidade.
 \v 25 Portanto deixai a mentira, e falai a verdade cada um com seu próximo; porque somos membros uns dos outros.
 \v 26 Irai-vos, mas não pequeis; não se ponha o sol sobre vossa ira;
 \v 27 Nem deis lugar ao diabo.
 \v 28 O que furtava, não furte mais; mas sim trabalhe, operando o bem com as mãos, para que tenha com que repartir com o que tiver necessidade.
 \v 29 De vossa boca não saia palavra imoral; mas sim a que for boa para a edificação \add quando\add*  necessária; para que dê graça aos que a ouvem.
 \v 30 E não entristeceis ao Espírito Santo de Deus, pelo qual estais selados para o dia da libertação.
-\v 31 Toda amargura, e ira, e irritação, e grito \add de raiva\add* ,e blasfêmia se tire de vós, junto com toda malícia.
+\v 31 Toda amargura, e ira, e irritação, e grito \add de raiva\add* , e blasfêmia se tire de vós, junto com toda malícia.
 \v 32 E sede benignos uns para com os outros, \add e\add*  misericordiosos, perdoando-vos uns aos outros, assim como também Deus vos perdoou em Cristo.
 
 \c 5
@@ -132,7 +134,7 @@
 \v 6 Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência.
 \v 7 Portanto não sejais companheiros deles.
 \v 8 Porque antes vós éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz,
-\v 9 (Porque o fruto   \f + \ft TR, RP: fruto do Espírito  \f*  \add consiste\add*  em toda bondade, e justiça, e verdade),
+\v 9 (Porque o fruto   \f + \ft TR, RP: fruto do Espírito  \f*   \add consiste\add*  em toda bondade, e justiça, e verdade),
 \v 10 Provando o que é agradável ao Senhor.
 \v 11 E não sejais coparticipantes das obras infrutíferas das trevas, mas ao invés disso, reprovai-as.
 \v 12 Porque as coisas que eles fazem em segredo é vergonhoso até mesmo dizê-las.

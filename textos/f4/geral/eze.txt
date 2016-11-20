@@ -1048,9 +1048,10 @@ E pus joias pendente em teu nariz, argolas em tuas orelhas, e uma linda coroa em
 \v Ez.16.13
 E foste adornada de ouro e de prata, e teu vestido foi linho fino, e seda, e bordado; comeste farinha fina, mel, e azeite; foste muito formosa, e prosperaste até ser rainha.
 \v Ez.16.14
-E saiu de ti fama entre as nações por causa de tua formosura; porque era perfeita, por causa da minha glória que eu tinha posto sobre ti, diz o Senhor DEUS. 
+A tua fama percorreu entre as nações por causa da tua beleza; porque era perfeita, por causa da minha glória que eu 
+havia posto sobre ti, diz o Senhor DEUS.
 \v Ez.16.15
-Porém confiaste em tua formosura, e te prostituíste por causa de tua fama, e derramaste tuas prostituições a todo que passava, para que fosse dele.
+Porém confiaste na tua beleza, e te prostituíste por causa da tua fama, e derramaste tuas prostituições a todo que passava, para que fosse dele.
 \v Ez.16.16
 E tomaste de teus vestidos, fizeste altares de diversas cores, e te prostituíste sobre eles: coisa semelhante não virá, nem será assim.
 \v Ez.16.17
@@ -1066,7 +1067,7 @@ E mataste meus filhos, e os entregastes a elas para que passassem pelo
 \added
 fogo
 \*added
- .
+.
 \v Ez.16.22
 E em todas as tuas abominações e tuas prostituições, não te lembraste dos dias de tua juventude, quando estavas nua e descoberta, quando estavas suja em teu sangue.
 \v Ez.16.23
@@ -1122,7 +1123,7 @@ Assim acontece contigo o contrário das mulheres que se prostituem, porque ningu
 \added
 das outras
 \*added
- .
+.
 \v Ez.16.35
 Portanto, ó prostituta, ouve a palavra do SENHOR.
 \v Ez.16.36
@@ -1169,7 +1170,7 @@ E se tornaram arrogantes, e fizeram abominação diante de mim, por isso eu as t
 \added
 isto
 \*added
- . 
+. 
 \fn
 \key
 quando vi isto
@@ -1213,7 +1214,8 @@ Para que te lembres
 \added
 disso
 \*added
-,e te envergonhes, e nunca mais abras a boca por causa de tua vergonha, quando eu me reconciliar contigo de tudo quanto fizeste, diz o Senhor DEUS. 
+, e te envergonhes, e nunca mais abras a boca por causa de tua vergonha, quando eu me reconciliar contigo de tudo 
+quanto fizeste, diz o Senhor DEUS. 
 \v Ez.17.1
 E veio a mim a palavra do SENHOR, dizendo:
 \v Ez.17.2
@@ -1278,7 +1280,7 @@ real, fez pacto com ele, fazendo-lhe prestar juramento; e tomou os poderosos da 
 \added
 consigo
 \*added
- ,
+,
 \v Ez.17.14
 Para que o reino ficasse humilhado, e não se levantasse; mas podendo continuar a existir se guardasse seu pacto.
 \v Ez.17.15
@@ -1449,7 +1451,7 @@ E quando ela viu que havia esperado
 \added
 muito
 \*added
-,e que sua esperança era perdida, tomou outro de seus filhotes, e o pôs por leãozinho.
+, e que sua esperança era perdida, tomou outro de seus filhotes, e o pôs por leãozinho.
 \v Ez.19.6
 E ele andou entre os leões; tornou-se um leãozinho, aprendeu a caçar presa, e devorou homens.
 \v Ez.19.7
@@ -1733,7 +1735,7 @@ Ruína! Ruína! Ruína a farei; e ela não será
 \added
 restaurada
 \*added
-,até que venha aquele a quem lhe pertence por direito, e 
+, até que venha aquele a quem lhe pertence por direito, e 
 \added
 a ele
 \*added
@@ -2303,9 +2305,10 @@ E veio a mim a palavra do SENHOR, dizendo:
 \v Ez.27.2
 Tu, pois, filho do homem, levanta uma lamentação sobre Tiro.
 \v Ez.27.3
-E dize a Tiro, que habita nas entradas do mar, e faz comércio com dos povos em muitas terras costeiras: Assim diz o Senhor DEUS:  Ó Tiro, tu dizes:  Eu sou perfeita em formosura. 
+E dize a Tiro, que habita nas entradas do mar, e faz comércio com dos povos em muitas terras costeiras: Assim diz o 
+Senhor DEUS: Ó Tiro, tu dizes: Eu sou perfeita em beleza.
 \v Ez.27.4
-Teus limites estão no coração dos mares; os que te edificaram aperfeiçoaram tua formosura.
+Teus limites estão no coração dos mares; os que te edificaram aperfeiçoaram a tua beleza.
 \v Ez.27.5
 Fabricaram todos os teus conveses com faias de Senir; trouxeram cedros do Líbano para fazerem mastros para ti.
 \v Ez.27.6
@@ -2451,14 +2454,12 @@ assim
 \v Ez.28.11
 E veio a mim a palavra do SENHOR, dizendo:
 \v Ez.28.12
-Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-lhe: Assim diz o Senhor DEUS:  Tu eras o selo da perfeição, 
+Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-lhe: Assim diz o Senhor DEUS: Tu eras o carimbo da 
+perfeição,
 \fn
-\key
-perfeição
-\*key
-obscuro 
+obscuro
 \*fn
-cheio de sabedoria, e perfeito em formosura. 
+ cheio de sabedoria, e perfeito em formosura. 
 \v Ez.28.13
 Estiveste no Éden, o jardim de Deus; toda pedra preciosa era tua cobertura; sárdio, topázio, diamante, turquesa, ônix, jaspe, safira, carbúnculo, e esmeralda; e 
 \added
@@ -2481,7 +2482,7 @@ obscuro – talvez guardião
 \*fn
 e eu te estabeleci, no santo monte de Deus estavas; no meio de pedras de fogo tu andavas.
 \v Ez.28.15
-Perfeito eras em teus caminhos, desde o dia em que foste criado, até que se achou maldade em ti.
+Íntegro eras em teus caminhos, desde o dia em que foste criado, até que se achou maldade em ti.
 \v Ez.28.16
 Pela abundância de teu comércio encheram o meio de ti de violência; por isso eu te expulsei como profanado do monte de Deus, e te farei perecer, ó querubim cobridor, do meio das pedras de fogo.
 \v Ez.28.17

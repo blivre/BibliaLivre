@@ -1,4 +1,4 @@
-﻿\id 1TI B�blia Livre - Textus Receptus
+﻿\id 1TI Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 1 Timóteo
 \toc1 Primeira Carta de Paulo a Timóteo

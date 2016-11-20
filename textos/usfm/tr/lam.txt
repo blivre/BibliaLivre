@@ -1,4 +1,4 @@
-﻿\id LAM B�blia Livre - Textus Receptus
+﻿\id LAM Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Lamentações
 \toc1 Lamentações de Jeremias
@@ -50,7 +50,7 @@
 \v 12 Eles dizem às suas mães: Onde está o trigo e o vinho?, enquanto desfalecem como feridos pelas ruas da cidade, derramando suas almas no colo de suas mães.
 \v 13 Que testemunho te trarei, ou a quem te compararei, ó filha de Jerusalém? A quem te assemelharei para te consolar, ó virgem, filha de Sião? Pois teu quebrantamento é tão grande quanto o mar; quem te curará?
 \v 14 Teus profetas previram para ti coisas inúteis e enganosas; e não expuseram tua maldade para evitarem teu cativeiro; em vez disso te predisseram profecias mentirosas e ilusórias.
-\v 15 Todos os que passam pelo caminho, batem palmas \add para zombar\add*  de ti; assoviaram, e moveram suas cabeças por causa da filha de Jerusalém, dizendo: É esta a cidade que diziam ser perfeita formosura, a alegria de toda a terra?
+\v 15 Todos os que passam pelo caminho, batem palmas \add para zombar\add*  de ti; assoviaram, e moveram suas cabeças por causa da filha de Jerusalém, dizendo: É esta a cidade que diziam ser a perfeita beleza, a alegria de toda a terra?
 \v 16 Todos os teus inimigos abrem suas bocas contra ti, assoviam, e rangem os dentes; dizem: Nós \add a\add*  devoramos; pois este é o dia que esperávamos; nós o achamos, \add e\add*  o vimos.
 \v 17 O SENHOR fez o que tinha determinado; cumpriu sua palavra que ele havia mandado desde os dias antigos; destruiu sem ter compaixão; e alegrou o inimigo sobre ti, e levantou o poder \f + \fq poder \ft lit. chifre \f*  de teus adversários.
 \v 18 O coração deles clamou ao Senhor. Ó muralha da filha de Sião, derrama lágrimas como um ribeiro dia e noite; não te dês descanso, nem cessem as meninas de teus olhos.

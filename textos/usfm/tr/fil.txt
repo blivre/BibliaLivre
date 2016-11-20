@@ -1,4 +1,4 @@
-﻿\id PHP B�blia Livre - Textus Receptus
+﻿\id PHP Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Filipenses
 \toc1 Carta de Paulo aos Filipenses

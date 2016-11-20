@@ -1,4 +1,4 @@
-﻿\id JUD B�blia Livre - Textus Receptus
+﻿\id JUD Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Judas
 \toc1 Carta Universal de Judas

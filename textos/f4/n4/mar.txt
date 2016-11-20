@@ -1467,7 +1467,7 @@ Os chefes dos sacerdotes e os escribas
 \v Mc.11.19
 E como já era tarde, 
 eles saíram
-fora da cidade.
+ fora da cidade.
 \v Mc.11.20
 E passando pela manhã, viram que a figueira estava seca desde as raízes.
 \v Mc.11.21
@@ -1813,8 +1813,7 @@ e disseram
 \*added
 : “Para que foi feito este desperdício do óleo perfumado?
 \v Mc.14.5
-Porque este óleo perfumado podia ter sido vendido por mais de trezentos denários, e seria dado aos pobres.” 
-#lb|E reclamavam contra ela.
+Porque este óleo perfumado podia ter sido vendido por mais de trezentos denários, e seria dado aos pobres.” E reclamavam contra ela.
 \v Mc.14.6
 Porém Jesus disse: “Deixai-a; por que a incomodais? Ela me fez boa obra.
 \v Mc.14.7
@@ -2100,11 +2099,15 @@ E Pilatos lhes respondeu: Quereis que eu vos solte o Rei dos Judeus?
 \v Mc.15.11
 Mas os chefes dos sacerdotes incitaram a multidão, para que, em vez disso, lhes soltasse Barrabás.
 \v Mc.15.12
-E Pilatos, respondendo, disse-lhes outra vez: Que pois, quereis que eu faça com aquele a quem chamais Rei dos Judeus?
+E Pilatos, respondendo, disse-lhes outra vez: Que, pois, farei
+\fn
+TR,RP: Que, pois, quereis que eu faça
+\*fn
+ com aquele a quem chamais Rei dos Judeus?
 \v Mc.15.13
 E eles voltaram a clamar: Crucifica-o!
 \v Mc.15.14
-Mas Pilatos lhes disse: Por quê? Que mal ele fez? E eles clamavam ainda mais:  Crucifica-o!
+Mas Pilatos lhes disse: Por quê? Que mal ele fez? E eles gritavam ainda mais: Crucifica-o!
 \v Mc.15.15
 Então Pilatos, querendo satisfazer à multidão, soltou-lhes Barrabás; e entregou Jesus açoitado, para que fosse crucificado.
 \v Mc.15.16
@@ -2122,7 +2125,7 @@ E forçaram um Simão cireneu, que estava passando, vindo do campo, o pai de Ale
 \v Mc.15.22
 E o levaram ao lugar de Gólgota, que traduzido é: o lugar da caveira.
 \v Mc.15.23
-E deram-lhe a beber vinho misturado com mirra; mas ele não o tomou.
+E ofereceram-lhe  vinho misturado com mirra; mas ele não o tomou.
 \v Mc.15.24
 E havendo o crucificado, repartiram a roupas dele, lançando-lhes sortes, para o que cada um levaria.
 \v Mc.15.25
@@ -2147,11 +2150,12 @@ salva a ti mesmo, e desce da cruz!
 \v Mc.15.31
 E da mesma maneira também os chefes dos sacerdotes, com os escribas, diziam aos outros, escarnecendo: Ele salvou a outros, a si mesmo não pode salvar!
 \v Mc.15.32
-Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos!Os que estavam crucificados com ele também o insultavam.
+Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos!
+ Os que estavam crucificados com ele também o insultavam.
 \v Mc.15.33
 E vinda a hora sexta, vieram trevas sobre toda a terra, até a hora nona.
 \v Mc.15.34
-E na hora nona, Jesus exclamou em alta voz: ELOÍ, ELOÍ, LAMÁ SABACTÂNI, que traduzido é:  Deus meu, Deus meu, por que me desamparaste?
+E na hora nona, Jesus exclamou em alta voz: ELOÍ, ELOÍ, LAMÁ SABACTÂNI, que traduzido é: Deus meu, Deus meu, por que me desamparaste?
 \v Mc.15.35
 E alguns dos que ali estavam, quando ouviram, disseram: Eis que ele está chamando Elias.
 \v Mc.15.36
@@ -2161,7 +2165,8 @@ E Jesus bradou em grande voz, então expirou.
 \v Mc.15.38
 E o véu do Templo se rasgou em dois do alto abaixo.
 \v Mc.15.39
-E o centurião que estava ali diante dele, vendo que expirara bradando assim, disse: Verdadeiramente este homem era Filho de Deus.
+E o centurião que estava ali diante dele, vendo que havia expirado
+ assim, disse: Verdadeiramente este homem era Filho de Deus.
 \v Mc.15.40
 E também estavam ali 
 \added
@@ -2169,7 +2174,8 @@ algumas
 \*added
  mulheres olhando de longe, entre as quais estava também Maria Madalena, e Maria (mãe de Tiago o menor e de José), e Salomé;
 \v Mc.15.41
-as quais também, quando ele estava na Galileia, o seguiam, e o serviam; e outras muitas, que haviam subido com ele a Jerusalém.
+as quais,
+ quando ele estava na Galileia, o seguiam, e o serviam; e outras muitas, que haviam subido com ele a Jerusalém.
 \v Mc.15.42
 E quando já vinha o final da tarde, porque era a preparação, que é o dia antes de sábado,
 \v Mc.15.43

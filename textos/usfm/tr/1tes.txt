@@ -1,4 +1,4 @@
-﻿\id 1TH B�blia Livre - Textus Receptus
+﻿\id 1TH Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 1 Tessalonicenses
 \toc1 Primeira Carta de Paulo aos Tessalonicenses

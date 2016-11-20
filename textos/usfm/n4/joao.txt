@@ -370,7 +370,7 @@
 \v 50 Disse-lhes Nicodemos, o que viera a ele de noite, que era um deles:
 \v 51 Por acaso nossa Lei julga ao homem sem primeiro o ouvir, e entender o que faz?
 \v 52 Responderam eles, e disseram: És tu também da Galileia? Pesquisa, e vê que nenhum profeta se levantou da Galileia.
-\v 53 «E \f + \ft Alguns manuscritos antigos omitem o texto João 7:53 e 8:11, e outros o põem em outros lugares, como no final do evangelho de João ou como parte do evangelho de Lucas \f*   cada um foi para sua casa.
+\v 53 «E \f + \ft Alguns manuscritos antigos omitem o texto João 7:53 e 8:11, e outros o põem em outros lugares, como no final do evangelho de João ou como parte do evangelho de Lucas \f*  cada um foi para sua casa.
 
 \c 8
 \p
@@ -617,7 +617,7 @@
 \v 25 Quem ama sua vida a perderá; e quem neste mundo odeia sua vida, a guardará para a vida eterna.
 \v 26 Se alguém me serve, siga-me; e onde eu estiver, ali estará também meu servo. E se alguém me servir, o Pai o honrará.
 \v 27 Agora minha alma está perturbada; e que direi? Pai, salva-me desta hora; mas por isso vim a esta hora.
-\v 28 Pai, glorifica teu Nome.Veio pois uma voz do céu, \add que dizia\add*  : E já \add o\add*  tenho glorificado, e outra vez \add o\add*  glorificarei.
+\v 28 Pai, glorifica teu Nome. Veio, pois, uma voz do céu, \add que dizia\add* : E já \add o\add*  tenho glorificado, e outra vez \add o\add*  glorificarei.
 \v 29 A multidão pois que ali estava, e \add a\add*  ouviu, dizia que havia sido trovão. Outros diziam: Algum anjo falou com ele.
 \v 30 Respondeu Jesus e disse: Esta voz não veio por causa de mim, mas sim por causa de vós.
 \v 31 Agora é o juízo deste mundo; agora será lançado fora o príncipe deste mundo.
@@ -631,7 +631,7 @@
 \v 39 Por isso não podiam crer, porque outra vez Isaías disse:
 \v 40 Os olhos lhes cegou, e o coração lhes endureceu; para não acontecer que vejam dos olhos, e entendam do coração, e se convertam, e eu os cure.
 \v 41 Isto disse Isaías, quando viu sua glória, e falou dele.
-\v 42 Contudo ainda até muitos dos chefes também creram nele; mas não o confessavam por causa dos fariseus; por não serem expulsos da sinagoga.
+\v 42 Contudo ainda até muitos dos chefes também creram nele; mas não o confessavam por causa dos fariseus; para não serem expulsos da sinagoga.
 \v 43 Porque amavam mais a glória humana do que a glória de Deus.
 \v 44 E exclamou Jesus, e disse: Quem crê em mim, não crê \add somente\add*  em mim, mas \add também\add*  naquele que me enviou.
 \v 45 E quem vê a mim, vê a aquele que me enviou.
@@ -799,7 +799,7 @@
 \v 8 Porque as palavras que tu me deste eu lhes dei; e eles \add as\add*  receberam, e verdadeiramente reconheceram que eu saí de ti, e creram que tu me enviaste.
 \v 9 Eu rogo por eles; não rogo pelo mundo, mas sim por aqueles que tu me deste, porque são teus.
 \v 10 E todas as minhas coisas são tuas; e as tuas coisas são minhas; e nelas sou glorificado.
-\v 11 E eu já não estou no mundo; porém estes \add ainda\add*  estão no mundo, e eu venho a ti. Pai Santo, guarda-os em teu nome, a aqueles que tens me dado, para que sejam um, como nós \add somos\add*  .
+\v 11 E eu já não estou no mundo; porém estes \add ainda\add*  estão no mundo, e eu venho a ti. Pai Santo, guarda-os em teu nome, a aqueles que tens me dado, para que sejam um, como nós \add somos\add* .
 \v 12 Quando eu com eles estava no mundo, em teu nome eu os guardava. A aqueles que tu me deste eu os tenho guardado; e nenhum deles se perdeu, a não ser o filho da perdição, para que a Escritura se cumpra.
 \v 13 Mas agora venho a ti, e falo isto no mundo, para que em si mesmos tenham minha alegria completa.
 \v 14 Tua palavra lhes dei, e o mundo os odiou, porque não são do mundo, assim como eu não sou do mundo.
@@ -811,7 +811,7 @@
 \v 20 E não suplico somente por estes, mas também por aqueles que crerão em mim, por sua palavra.
 \v 21 Para que todos sejam um; como tu, Pai, em mim, e eu em ti, que também eles em nós sejam um; para que o mundo creia que tu tens me enviado.
 \v 22 E eu tenho lhes dado a glória que tu me deste, para que sejam um, tal como nós somos um.
-\v 23 Eu neles, e tu em mim; para que perfeitos sejam em um; e para que o mundo conheça que tu me enviaste, e que tu amaste a eles, assim como amaste a mim.
+\v 23 Eu neles, e tu em mim; para que sejam completos em um; e para que o mundo conheça que tu me enviaste, e que tu os amaste, assim como me amaste.
 \v 24 Pai, aqueles que tens me dado, quero que onde eu estiver, eles também estejam comigo; para que vejam minha glória, que tens me dado, pois tu me amaste desde antes da fundação do mundo.
 \v 25 Pai justo, o mundo também não tem te conhecido, e estes têm conhecido que tu me enviaste.
 \v 26 E eu fiz teu nome ser conhecido por eles, e eu farei com que seja conhecido, para que o amor com que me amaste esteja neles, e eu neles.

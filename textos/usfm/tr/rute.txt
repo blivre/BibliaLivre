@@ -1,4 +1,4 @@
-﻿\id RUT B�blia Livre - Textus Receptus
+﻿\id RUT Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Rute
 \toc1 Rute

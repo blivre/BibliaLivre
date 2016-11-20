@@ -589,7 +589,7 @@
 \v 1 Naquele dia, se cantará este cântico na terra de Judá: Temos uma cidade forte! \add Deus lhe\add*  pôs a salvação por muros e antemuros.
 \v 2 Abri as portas, para que por elas entre a nação justa, que guarda fidelidades.
 \v 3 Tu guardarás em completa paz aquele que tem firme entendimento, pois ele confia em ti.
-\v 4 Confiai no SENHOR para sempre, pois no SENHOR EU-SOU está a rocha eterna.
+\v 4 Confiai no SENHOR para sempre, pois no SENHOR DEUS está a rocha eterna.
 \v 5 Pois ele abate aos que habitam em lugares altos, a cidade elevada; certamente ele a abaixará até o chão, e a derrubará até o pó.
 \v 6 Pés a pisotearão; os pés dos afligidos, os passos dos pobres.
 \v 7 O caminho do justo é todo plano; tu \add que és\add*  reto nivelas o andar do justo.
@@ -801,7 +801,7 @@
 \v 8 Porque será o dia da vingança do SENHOR, ano de pagamentos pela briga contra Sião.
 \v 9 E seus ribeiros se tornarão em piche, e seu solo em enxofre; e sua terra em piche ardente.
 \v 10 Nem de noite, nem de dia se apagará, para sempre sua fumaça subirá; de geração em geração será assolada; para todo o sempre ninguém passará por ela.
-\v 11 Mas o pelicano e a coruja tomarão posse dela, a ave selvagem e o corvo nela habitarão; pois\add o SENHOR\add*  estenderá sobre ela o cordel da assolação e o prumo da ruína. \f + \fq ruína \ft lit. esvaziamento ou vazio – Almeida 1819 vaidade \f*  nomes dos animais são todos incertos, inclusive nos vv. seguintes %fn|
+\v 11 Mas o pelicano e a coruja tomarão posse dela, a ave selvagem e o corvo \f + \ft Os nomes dos animais são incertos, inclusive nos versículos seguintes \f*  nela habitarão; pois\add o SENHOR\add*  estenderá sobre ela o cordel da assolação e o prumo da ruína. \f + \fq ruína \ft lit. esvaziamento ou vazio – Almeida 1819 vaidade \f* 
 \v 12 Chamarão ao seus nobres ao reino, porém nenhum haverá ali; e todos os seus príncipes se tornarão coisa nenhuma.
 \v 13 E em seus palácios crescerão espinhos; urtigas e cardos em suas fortalezas; e será habitação de chacais \add e\add*  habitação de avestruzes.
 \v 14 E os animais do deserto se encontrarão com os lobos, e o bode berrará ao seu companheiro; os animais noturnos ali pousarão, e acharão lugar de descanso para si.
@@ -992,8 +992,8 @@
 \v 23 Anunciai as coisas que ainda virão, para que saibamos que vós sois deuses; ou fazei o bem ou o mal, para que nos assombremos, e juntamente vejamos.
 \v 24 Eis que vós sois nada, e vossa obra não tem valor algum; abominação é quem vos escolhe.
 \v 25 Eu suscitei \add a um\add*  do norte, que virá oriente, \add e\add*  invocará meu nome; e virá sobre os príncipes como \add se fossem\add*  lama, e como o oleiro pisa o barro.
-\v 26 Quem anunciou \add coisa alguma\add*  desde o princípio, para que o possamos saber, ou desde antes, para que digamos “correto é”? Porém não há quem anuncie \add tal coisa\add*  nem quem diga \add coisa alguma\add* ,nem quem ouça vossas palavras.
-\v 27  \add Eu sou\add*  o primeiro \add que digo\add*  a Sião: Eis que ali estão! E a Jerusalém darei um anunciador de boas novas.
+\v 26 Quem anunciou \add coisa alguma\add*  desde o princípio, para que o possamos saber, ou desde antes, para que digamos “correto é”? Porém não há quem anuncie \add tal coisa\add*  nem quem diga \add coisa alguma\add* , nem quem ouça vossas palavras.
+\v 27 \add Eu sou\add*  o primeiro \add que digo\add*  a Sião: Eis que ali estão! E a Jerusalém darei um anunciador de boas novas.
 \v 28 E olhei, porém ninguém havia. Até entre estes nenhum conselheiro havia a quem eu perguntasse, e ele me respondesse algo.
 \v 29 Eis que todos são falsidade, suas obras são nada. Suas obras de fundição são vento e sem valor algum. \f + \ft sem valor algum = lit. vazio, nada, vaidade \f* 
 
@@ -1001,13 +1001,13 @@
 \p
 
 \v 1 Eis aqui meu servo, a quem sustento; meu escolhido, \add em quem\add*  minha alma se agrada. Sobre ele eu pus o meu Espírito; ele trará justiça às nações.
-\v 2 Ele não gritará, nem levantará \add seu clamor\add*  ; ele não fará ouvir sua voz nas ruas.
+\v 2 Ele não gritará, nem levantará \add seu clamor\add* ; ele não fará ouvir sua voz nas ruas.
 \v 3 A cana esmagada ele não quebrará, nem apagará o pavio que fumega; com a verdade ele trará justiça.
 \v 4 Ele não se apagará, nem será quebrado, até que ponha a justiça na terra; e as terras litorâneas esperarão por sua doutrina. \f + \fq doutrina \ft i.e., ensinamento; trad. alt. lei \f* 
-\v 5 Assim diz o Deus EU-SOU, que criou os céus, e os esticou; estendeu a terra, e a tudo quanto ela produz; que dá respiração ao povo que nela \add habita\add* ,e espírito aos que nela andam.
+\v 5 Assim diz Deus, o SENHOR, que criou os céus, e os esticou; estendeu a terra, e a tudo quanto ela produz; que dá respiração ao povo que nela \add habita\add* ,e espírito aos que nela andam.
 \v 6 Eu, o SENHOR, te chamei em justiça, e te tomarei pela mão. E eu te guardarei, e te darei como pacto para o povo e luz para as nações;
 \v 7 Para abrir os olhos cegos, para tirar da prisão os presos, \add tirar\add*  do cárcere os que habitam em trevas.
-\v 8 Eu \add me chamo\add*  EU-SOU; este é o meu nome! E minha glória não darei a outro, nem meu louvor às imagens de escultura.
+\v 8 Eu, EU-SOU; este é o meu nome! Não darei a minha glória a outro, nem o meu louvor às imagens de escultura.
 \v 9 Eis que as coisas anteriores já aconteceram; e as novas eu \add vos\add*  anuncio; e antes que surjam, \add delas\add*  eu vos informo.
 \v 10 Cantai ao SENHOR um cântico novo, um louvor a ele desde o limite da terra; vós que navegais pelo mar, e tudo quanto nele há; vós terras do litoral e seus moradores.
 \v 11 Levantem \add a voz\add*  o deserto e suas cidades, com as aldeias que Quedar habita; cantem os que habitam nas rochas, \add e\add*  gritem de alegria do cume dos montes.
@@ -1016,9 +1016,9 @@
 \v 14 Por muito tempo fiquei calado, quieto estive, \add e\add*  me retive; \add mas agora\add*  darei gritos como a que está de parto, suspirando e juntamente ofegando.
 \v 15 Aos montes e morros tornarei em deserto, e toda sua erva farei secar; e tornarei aos rios em ilhas, \f + \fq ilhas \ft trad. alt. terras secas \f*  e as lagoas secarei.
 \v 16 E guiarei aos cegos por um caminho que nunca conheceram; eu os farei caminhar pelas veredas que não conheciam; tornarei as trevas em luz perante eles, e as coisas tortas \add farei\add*  direitas; estas coisas lhes farei, e nunca os desampararei.
-\v 17  \add Mas\add*  serão conduzidos para trás e se envergonharão os que confiam em imagens de escultura, \add e\add*  dizem às imagens de fundição: Vós sois nossos deuses.
+\v 17 \add Mas\add*  serão conduzidos para trás e se envergonharão os que confiam em imagens de escultura, \add e\add*  dizem às imagens de fundição: Vós sois nossos deuses.
 \v 18 Surdos, ouvi; e vós cegos, olhai para que possais ver.
-\v 19 Quem é cego, senão meu servo? E surdo como meu mensageiro, a quem envio? Quem é cego como o perfeito, \f + \fq perfeito \ft obscuro – trad. alt. o [meu] aliançado, ou o [meu] dedicado \f*  e cego como o servo do SENHOR?
+\v 19 Quem é cego, senão o meu servo? Ou surdo, como o meu mensageiro, a quem envio? Quem é cego como o aliançado, \f + \ft obscuro \f*  e cego como o servo do SENHOR?
 \v 20 Tu vês muitas coisas, porém não as guardas; mesmo abrindo os ouvidos, contudo nada ouve.
 \v 21 O SENHOR se agradou, por causa de sua justiça, em engrandecer \add sua\add*  lei, e em fazê \add -la\add*  gloriosa.
 \v 22 Mas \add este\add*  é um povo roubado e saqueado; todos estão enlaçados em covas, e escondidos em cárceres; são postos como despojos, e ninguém há que os resgate; estão como \add objetos\add*  de roubo, e ninguém diz “Restitui \add -os\add*  ”.
@@ -1243,15 +1243,15 @@
 \v 12 Eu, eu sou aquele que vos consola; quem és tu, para que tenhas medo do homem mortal, ou do filho do homem \add que\add*  é como grama,
 \v 13 E te esqueças do SENHOR, aquele que te fez, que estendeu os céus e fundou a terra, e temes continuamente o dia todo à fúria do opressor, como se ele estivesse pronto para destruir? Onde está \add essa\add*  fúria do opressor?
 \v 14 O preso logo será solto, e não morrerá na cova, nem seu pão lhe faltará.
-\v 15 Pois eu sou o SENHOR teu Deus, que divido o mar, e bramam suas ondas; o EU-SOU dos exércitos é o seu nome.
+\v 15 Pois eu sou o SENHOR teu Deus, que divido o mar, e bramam suas ondas. EU-SOU dos exércitos é o seu nome.
 \v 16 E ponho minhas palavras em tua boca, e te cubro com a sombra de minha mão; para plantar os céus, e para fundar a terra, e para dizer a Sião: Tu és meu povo.
 \v 17 Desperta-te! Desperta-te! Levanta-te, ó Jerusalém, que bebeste da mão do SENHOR o cálice de seu furor; bebeste \add e\add*  sugaste os resíduos do cálice do cambaleio.
 \v 18 De todos os filhos que ela gerou, nenhum há que a guie mansamente; e de todos os filhos que ela criou, nenhum há que a segure pela mão.
 \v 19 Estas duas coisas te aconteceram; quem terá compaixão de ti? Assolação e ruína; fome e espada; por meio de quem te consolarei?
 \v 20 Os teus filhos desmaiaram, jazem nas entradas de todos os caminhos, como um antílope numa rede; cheios estão do furor do SENHOR, e da repreensão de teu Deus.
 \v 21 Portanto agora ouve isto, ó oprimida e embriagada, mas não de vinho:
-\v 22 Assim diz o teu Senhor, o EU-SOU, e teu Deus, que defende a causa de seu povo: eis que eu tomo da tua mão o cálice do cambaleio, os resíduos do cálice de meu furor; nunca mais o beberás.
-\v 23 Porém eu o porei nas mãos dos que afligiram, que dizem à tua alma: Abaixa-te, e passaremos sobre \add ti\add*  ; E tu abaixas tuas costas como \add se fosses\add*  terra, e como caminho aos que passam.
+\v 22 Assim diz o teu Senhor, o SENHOR, e teu Deus, que defende a causa de seu povo: eis que eu tomo da tua mão o cálice do cambaleio, os resíduos do cálice de meu furor; nunca mais o beberás.
+\v 23 Porém eu o porei nas mãos dos que afligiram, que dizem à tua alma: Abaixa-te, e passaremos sobre \add ti\add* ; e pões as tuas costas como chão, como caminho aos que passam.
 
 \c 52
 \p

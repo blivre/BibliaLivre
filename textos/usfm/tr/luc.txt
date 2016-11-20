@@ -1,4 +1,4 @@
-﻿\id LUK B�blia Livre - Textus Receptus
+﻿\id LUK Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Lucas
 \toc1 Evangelho Segundo Lucas
@@ -693,7 +693,7 @@
 \v 6 E dizia esta parábola: Um certo \add homem\add*  tinha uma figueira plantada em sua vinha, e veio até ela para buscar fruto, e não achou.
 \v 7 E disse ao que cuidava da vinha: Eis que há três anos, que venho para buscar fruto nesta figueira, e não \add o\add*  acho; corta-a; por que ainda ocupa inutilmente a terra?
 \v 8 E respondendo ele, disse-lhe: Senhor, deixa-a \add ainda\add*  este ano, até que eu a escave ao redor, e a adube;
-\v 9 E se der fruto, \add deixa-a ficar\add*  ; se não, tu a cortarás depois.
+\v 9 E se der fruto, \add deixa-a ficar\add* ; se não, tu a cortarás depois.
 \v 10 E ensinava em uma das sinagogas num sábado.
 \v 11 E eis que estava ali uma mulher, que havia dezoito anos que tinha um espírito de enfermidade; e andava encurvada, e de maneira nenhuma ela podia se endireitar.
 \v 12 E Jesus vendo-a, chamou-a para si, e disse-lhe: Mulher, livre estás de tua enfermidade.
@@ -718,7 +718,7 @@
 \v 31 Naquele mesmo dia, chegaram uns fariseus, dizendo-lhe: Sai, e vai-te daqui, porque Herodes quer te matar.
 \v 32 E disse-lhes: Ide, e dizei a aquela raposa: eis que expulso demônios, e faço curas hoje e amanhã, e ao terceiro dia eu terei completado.
 \v 33 Porém é necessário que hoje, e amanhã, e no \add dia\add*  seguinte eu caminhe; porque um profeta não pode morrer fora de Jerusalém.
-\v 34 Jerusalém, Jerusalém, que matas aos profetas, e apedrejas aos que te são enviados: quantas vezes eu quis juntar teus filhos, como a galinha junta seus pintos debaixo de suas azas, e não quisestes?
+\v 34 Jerusalém, Jerusalém, que matas aos profetas, e apedrejas aos que te são enviados: quantas vezes eu quis juntar teus filhos, como a galinha junta seus pintos debaixo de suas asas, e não quisestes?
 \v 35 Eis que vossa casa é deixada deserta para vós. E em verdade vos digo, que não me vereis até que venha \add o tempo\add*  em que digais: Bendito aquele que vem no nome do Senhor.
 
 \c 14

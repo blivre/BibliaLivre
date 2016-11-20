@@ -1,4 +1,4 @@
-﻿\id EST B�blia Livre - Textus Receptus
+﻿\id EST Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Ester
 \toc1 Ester

@@ -1,4 +1,4 @@
-﻿\id JOS B�blia Livre - Textus Receptus
+﻿\id JOS Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Josué
 \toc1 Livro de Josué

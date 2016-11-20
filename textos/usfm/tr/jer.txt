@@ -1,4 +1,4 @@
-﻿\id JER B�blia Livre - Textus Receptus
+﻿\id JER Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Jeremias
 \toc1 Jeremias
@@ -54,7 +54,7 @@
 \v 19 A tua maldade te castigará e tuas infidelidades te repreenderão; então conhece e vê como é mal e amargo teres abandonado ao SENHOR teu Deus, e não teres tido temor a mim, diz o Senhor DEUS dos exércitos.
 \v 20 Pois muito tempo atrás, eu quebrei teu jugo, e rompi tuas amarras, e tu disseste: Não servirei. Porém sobre todo morro alto e abaixo de toda árvore frondosa tu te deitavas \add como\add*  prostituta.
 \v 21 E eu te plantei de boa vide; ela toda era semente confiável. Como, pois, te tornaste para mim ramos de vide estranha?
-\v 22 Ainda que te laves com soda cáustica, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS.
+\v 22 Ainda que te laves com potassa, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS.
 \v 23 Como podes dizer: Nunca me contaminei, nunca andei atrás dos baalins? Olha o teu caminho no vale; reconhece o que fizeste, ó dromedária ligeira, que anda errante seus percursos,
 \v 24 jumenta selvagem acostumada ao deserto, que aspira o vento por causa do desejo da alma; de seu cio quem a deteria? Todos os que a buscarem não se cansarão; no mês dela a acharão.
 \v 25 Impede que teus pés andem descalços, e tua garganta tenha sede. Porém tu disseste: Não há mais esperança; não, porque amo estranhos, e tenho que ir atrás deles.
@@ -480,7 +480,7 @@
 \v 18 Mas primeiro pagarei em dobro a iniquidade e o pecado deles, pois contaminaram minha terra com os cadáveres de suas coisas detestáveis, e encheram minha herança de suas abominações.
 \v 19 Ó SENHOR, fortaleza minha, e força minha, e meu refúgio no tempo da aflição; a ti virão nações desde os confins da terra, e dirão: Certamente o que nossos pais possuíam era mentira e inutilidade; não havia nessas coisas proveito algum.
 \v 20 Pode, por acaso, o homem fazer deuses para si? Eles, porém, não são deuses.
-\v 21 Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer minha mão e meu poder, e saberão que meu nome é EU-SOU.
+\v 21 Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer minha mão e meu poder, e saberão que EU-SOU é o meu nome.
 
 \c 17
 \p
@@ -1306,7 +1306,7 @@
 \v 15 Por que teus guerreiros foram derrubados? Não puderam ficar de pé, pois o SENHOR os empurrou.
 \v 16 Ele multiplicou os que tropeçaram; caíram cada um sobre o outro, e disseram: Levanta-te e voltemo-nos a nosso povo, e à terra de nosso nascimento, por causa da espada opressora.
 \v 17 Ali gritarão: O Faraó rei do Egito, é \add apenas\add*  um barulho; ele deixou passar o tempo determinado.
-\v 18 Vivo eu,diz o Rei, cujo nome é EU-SOU dos exércitos, que como o Tabor entre os montes, e como o Carmelo no mar, assim ele virá.
+\v 18 Vivo eu, diz o Rei, cujo nome é EU-SOU dos exércitos, que como o Tabor entre os montes, e como o Carmelo no mar, assim ele virá.
 \v 19 Faz para ti a bagagem para a ida ao cativeiro, ó moradora filha do Egito; porque Nofe se tornará em desolação, e será devastada até não haver ali morador.
 \v 20 O Egito é uma bezerra formosa; mas a mosca carniceira vem do norte.
 \v 21 Até seus soldados mercenários em meio dela são como bezerros cevados; porém também eles se virarão para trás, e juntamente fugirão; eles não permanecerão em postos, porque o dia de sua ruína, o tempo de sua punição, veio sobre eles.
@@ -1334,7 +1334,7 @@
 
 \v 1 Sobre Moabe.Assim diz o SENHOR dos exércitos, Deus de Israel: Ai de Nebo! Pois foi arruinada; envergonhada está Quiriataim, já foi tomada; Misgabe está envergonhada e espantada.
 \v 2 Já não há mais exaltação em Moabe; em Hesbom tramaram o mal contra ela, \add dizendo\add*  : Vinde, e a eliminemos das nações. Também tu, Madmém, serás cortada fora; a espada irá atrás de ti.
-\v 3  \add Ouve-se\add*  uma voz de clamor de Horonaim: Ruína e grande destruição!
+\v 3 \add Ouve-se\add*  uma voz de clamor de Horonaim: Ruína e grande destruição!
 \v 4 Moabe foi destruída; fizeram com que se ouvisse o grito de seus pequenos.
 \v 5 Pois na subida de Luíte subirão com grande choro; pois na descida de Horonaim os inimigos \add de Moabe\add*  ouviram clamor de destruição.
 \v 6 Fugi, livrai vossa vida, e sereis como um arbusto \f + \fq arbusto \ft trad. alt. zimbro (junípero), tamargueira \f*  no deserto.
@@ -1346,12 +1346,12 @@
 \v 12 Por isso eis que vêm dias,diz o SENHOR, em que eu lhe enviarei derramadores que o derramarão; e esvaziarão seus vasos, e romperão seus jarros.
 \v 13 E Moabe se envergonhará de Quemos, assim como a casa de Israel se envergonhou de Betel, \add que era\add*  sua confiança.
 \v 14 Como direis: Somos guerreiros, homens valentes para a guerra?
-\v 15 Moabe é destruído, e suas cidades invadidas, e seus melhores rapazes descem ao degoladouro,diz o rei, cujo nome é EU-SOU dos exércitos.
+\v 15 Moabe é destruído, e suas cidades invadidas, e seus melhores rapazes descem ao degoladouro, diz o rei, cujo nome é EU-SOU dos exércitos.
 \v 16 Próxima está a vinda da perdição de Moabe; e seu desastre \f + \fq desastre \ft lit. mal \f*  vem com muita pressa.
 \v 17 Condoei-vos dele todos vós que estais ao seu redor, e todos vós que sabeis seu nome. Dizei: Como se quebrou a vara forte, o belo cajado!
 \v 18 Desce da \add tua\add*  glória, e senta-te no lugar seco, ó moradora, filha de Dibom; pois o destruidor de Moabe subiu contra ti, e arruinou tuas fortalezas.
 \v 19 Para-te no caminho, e olha, ó moradora de Aroer; pergunta ao que vai fugindo, e à que escapou, dize: O que aconteceu?
-\v 20  \add Responderão\add*  : Moabe está envergonhado, porque foi quebrantado; uivai e gritai; anunciai em Arnom que Moabe foi destruído,
+\v 20 \add Responderão\add* : Moabe está envergonhado, porque foi quebrantado; uivai e gritai; anunciai em Arnom que Moabe foi destruído,
 \v 21 O julgamento também veio juízo sobre a terra da planície: sobre Holom, sobre Jazá, e sobre Mefate;
 \v 22 Sobre Dibom, sobre Nebo, e sobre Bete-Diblataim;
 \v 23 Sobre Quiriataim, sobre Bete-Gamul, e sobre Bete-Meom;
@@ -1396,7 +1396,7 @@
 \v 11 Deixa teus órfãos, eu os criarei; e em mim confiarão tuas viúvas.
 \v 12 Pois assim diz o SENHOR: Eis que os que não estavam condenados a beberem do cálice, certamente o beberão; e ficarias tu impune por completo? Não ficarás impune, e certamente beberás.
 \v 13 Pois jurei por mim mesmo,diz o SENHOR, que Bozra se tornará em espanto, humilhação, deserto e maldição; e todas as suas cidades se tornarão desolações perpétuas.
-\v 14 Ouvi uma notícia do SENHOR que um mensageiro foi às nações, \add para dizer\add*  : Juntai-vos, e vinde contra ela, e levantai-vos para a guerra.
+\v 14 Ouvi uma notícia do SENHOR que um mensageiro foi às nações, \add para dizer\add* : Juntai-vos, e vinde contra ela, e levantai-vos para a guerra.
 \v 15 Porque eis te fiz pequeno entre as nações, desprezado entre os homens.
 \v 16 O terror que tu causas te enganou, assim como a arrogância de teu coração; tu que habitas nas cavernas das rochas, que tens a altura dos montes; ainda que levantes teu ninho como a águia, de lá eu te derrubarei,diz o SENHOR.
 \v 17 Assim Edom servirá de espanto; todo aquele que passar por ela se espantará, e assoviará por causa de todas as suas pragas.
@@ -1430,14 +1430,14 @@
 \v 2 Anunciai entre as nações, declarai, e levantai bandeira; declarai, e não encubrais: dizei: Tomada é Babilônia, Bel é envergonhado, Merodaque é despedaçado; envergonhados são seus ídolos, despedaçados estão suas imagens de idolatria.
 \v 3 Pois subiu contra ela uma nação do norte, a qual tornará sua terra em desolação, e não haverá morador nela; desde os homens até os animais fugiram e se afastaram.
 \v 4 Naqueles dias e naquele tempo,diz o SENHOR, os filhos de Israel virão, eles e juntamente os filhos de Judá; virão andando e chorando, e buscarão ao SENHOR seu Deus.
-\v 5 Perguntarão por Sião, pelo caminho para onde voltarão seus rostos, \add dizendo\add*  : Vinde, e juntai-vos ao SENHOR \add com\add*  um pacto eterno, que jamais será esquecido.
+\v 5 Perguntarão por Sião, pelo caminho para onde voltarão seus rostos, \add dizendo\add* : Vinde, e juntai-vos ao SENHOR \add com\add*  um pacto eterno, que jamais será esquecido.
 \v 6 Meu povo tem sido ovelhas perdidas; seus pastores as fizeram errar, pelos montes as desviaram; andaram de monte em morro, esqueceram-se de seu lugar de descanso.
 \v 7 Todos quantos as achavam, as comiam; e adversários diziam: Nenhuma culpa teremos, pois pecaram contra o SENHOR, a morada da justiça \add contra\add*  o SENHOR, a esperança de seus pais.
 \v 8 Fugi do meio da Babilônia, e saí da terra dos caldeus; e sede como os bodes adiante do rebanho.
 \v 9 Porque eis que eu levantarei e farei subir contra a Babilônia um ajuntamento de grandes povos da terra do norte; e se prepararão contra ela, e dali será tomada; suas flechas serão como de um habilidoso guerreiro, que não voltarão em vão.
 \v 10 E a Caldeia será objeto de saque; todos os que a saquearem serão fartos,diz o SENHOR.
 \v 11 Visto que vós vos alegrastes, que vos enchestes de prazer, vós saqueadores de minha propriedade; visto que vos inchastes como bezerra gorda, e relinchastes como cavalos;
-\v 12  \add Por isso\add*  vossa mãe será muito envergonhada, será humilhada a que vos gerou; eis que ela será a última das nações: deserto, secura, e desolação.
+\v 12 \add Por isso\add*  vossa mãe será muito envergonhada, será humilhada a que vos gerou; eis que ela será a última das nações: deserto, secura, e desolação.
 \v 13 Por causa da ira do SENHOR não será habitada; ela, porém será totalmente desolada; qualquer um passar pela Babilônia se espantará e assoviará por causa de todas as suas pragas.
 \v 14 Preparai-vos em linha de batalha contra Babilônia ao redor, todos vós que armais arcos; atirai contra ela, não poupeis as flechas; pois ela pecou contra o SENHOR.
 \v 15 Gritai contra ela ao redor, \add pois\add*  já se rendeu; \f + \fq rendeu \ft lit. deu sua mão \f*  caíram seus fundamentos, derrubados são seus muros, pois esta é vingança do SENHOR. Vingai-vos dela; fazei com ela assim como ela fez.
@@ -1445,7 +1445,7 @@
 \v 17 Israel é um cordeiro desgarrado, que leões afugentaram; o rei da Assíria foi o primeiro que o devorou; e este, Nabucodonosor rei da Babilônia, o último, que lhe quebrou os ossos.
 \v 18 Portanto assim diz o SENHOR dos exércitos, Deus de Israel: Eis que punirei ao rei de Babilônia e a sua terra assim como puni ao rei da Assíria.
 \v 19 E voltarei a trazer Israel à sua morada, no Carmelo e em Basã se alimentará; nos montes de Efraim e de Gileade sua alma farta será.
-\v 20 Naqueles dias e naquele tempo,diz o SENHOR, a maldade de Israel será buscada, mas não \add será encontrada\add*  ; e \add buscados\add*  os pecados de Judá, mas não se acharão; porque perdoarei aos restantes que eu deixar.
+\v 20 Naqueles dias e naquele tempo,diz o SENHOR, a maldade de Israel será buscada, mas não \add será encontrada\add* ; e \add buscados\add*  os pecados de Judá, mas não se acharão; porque perdoarei aos restantes que eu deixar.
 \v 21 Sobe contra ela, a terra de Merataim, e contra os moradores de Pecode; assola e destrói por completo atrás deles,diz o SENHOR, e faze conforme a tudo o que te mandei.
 \v 22 Há barulho de guerra na terra, e de grande destruição.
 \v 23 Como foi cortado e quebrado o martelo de toda a terra! Como Babilônia se tornou em espanto entre as nações!
@@ -1460,7 +1460,7 @@
 \v 32 E o soberbo tropeçará e cairá, e ninguém haverá que o levante; e acenderei fogo em suas cidades, que consumirá todos os seus arredores.
 \v 33 Assim diz o SENHOR dos exércitos: Os filhos de Israel e os filhos de Judá juntamente foram oprimidos; e todos os que os tomaram cativos os detiveram; recusaram-se soltá-los.
 \v 34 Porém o Redentor deles é forte; EU-SOU dos exércitos é o seu nome; certamente defenderá a causa deles, para dar descanso à terra, e incomodar os moradores da Babilônia.
-\v 35 Espada \add virá\add*  sobre os caldeus,diz o SENHOR, e sobre os moradores da Babilônia, sobre seus príncipes, e sobre seus sábios.
+\v 35 Espada \add virá\add*  sobre os caldeus, diz o SENHOR, e sobre os moradores da Babilônia, sobre seus príncipes, e sobre seus sábios.
 \v 36 Espada \add virá\add*  sobre os adivinhos, e se tornarão tolos; espada \add virá\add*  sobre seus guerreiros, e perderão as forças.
 \v 37 Espada \add virá\add*  sobre seus cavalos, sobre seus carros, e sobre todo os estrangeiros \f + \fq estrangeiros \ft lit. a mistura [de povos] \f*  que estão no meio dela, e serão como mulheres; espada \add virá\add*  sobre seus tesouros, e serão saqueados.
 \v 38 Sequidão \add virá\add*  sobre suas águas, e se secarão; pois é terra de idolatrias, \f + \fq idolatrias \ft lit. imagens de escultura \f*  e se enlouquecem por \add seus\add*  ídolos.
@@ -1476,8 +1476,8 @@
 \c 51
 \p
 
-\v 1 Assim diz o SENHOR: Eis que eu levanto um vento destruidor contra a Babilônia, e contra os moradores de Lebe- Camai. \f + \fq Lebe-Camai \ft uma outra forma de se chamar a terra dos caldeus \f* 
-\v 2 E enviarei padejadores à Babilônia, que a padejarão, \f + \fq padejar \ft lançar os grãos ao vento com uma espécie de pá, para tirar as cascas (glossário \f*  ) e esvaziarão sua terra; porque virão contra ela por todos os lados no dia da calamidade. \f + \fq calamidade \ft lit. mal \f* 
+\v 1 Assim diz o SENHOR: Eis que eu levanto um vento destruidor contra a Babilônia, e contra os moradores de Lebe-Camai. \f + \fq Lebe-Camai \ft uma outra forma de se chamar a terra dos caldeus \f* 
+\v 2 E enviarei padejadores à Babilônia, que a padejarão, \f + \fq padejar \ft lançar os grãos ao vento com uma espécie de pá, para tirar as cascas (glossário) \f*  e esvaziarão sua terra; porque virão contra ela por todos os lados no dia da calamidade. \f + \fq calamidade \ft lit. mal \f* 
 \v 3 Que o flecheiro não arme o seu arco, nem deixes que ponham sua couraça; não poupeis a seus rapazes, destruí todo o seu exército.
 \v 4 E os mortos cairão na terra dos caldeus, e os perfurados em suas ruas.
 \v 5 Porque Israel e Judá não foram abandonados \f + \fq abandonados \ft lit. “enviuvados” \f*  por seu Deus, o SENHOR dos exércitos, ainda que sua terra foi cheia de pecado contra o Santo de Israel.
@@ -1489,7 +1489,7 @@
 \v 11 Limpai as flechas, preparai os escudos; o SENHOR levantou o espírito dos reis da Média; pois seu pensamento é contra Babilônia para destruí-la; pois esta é vingança do SENHOR, a vingança de seu templo.
 \v 12 Levantai bandeira sobre os muros da Babilônia, reforçai a guarda, ponde vigilantes, preparai ciladas; pois assim o SENHOR tanto planejou como fez o que disse sobre os moradores de Babilônia.
 \v 13 Tu que habitas sobre muitas águas, rica em tesouros, chegou o teu fim, o limite de tua ganância. \f + \fq ganância \ft obscuro – trad. alt. vida \f* 
-\v 14 O SENHOR dos exércitos jurou por si mesmo, \add dizendo\add*  : Eu te encherei de homens como de gafanhotos, que darão gritos \add de guerra\add*  contra ti.
+\v 14 O SENHOR dos exércitos jurou por si mesmo, \add dizendo\add* : Eu te encherei de homens como de gafanhotos, que darão gritos \add de guerra\add*  contra ti.
 \v 15 Ele é o que fez a terra com sua força, o que estabeleceu o mundo com sua sabedoria, e estendeu os céus com seu entendimento;
 \v 16 Quando ele dá sua voz, há um grande estrondo de águas no céu, e faz subir as nuvens desde os confins da terra; ele faz os relâmpagos com a chuva, e tira o vento de seus tesouros.
 \v 17 Todo homem tem se tornado bruto, e sem conhecimento; envergonha-se todo artífice da imagem de escultura, porque sua imagem de fundição é mentira, e não há espírito nelas.
@@ -1498,13 +1498,13 @@
 \v 20 Tu és para mim um martelo, \add e\add*  armas de guerra; contigo despedaçarei nações, e contigo destruirei reinos;
 \v 21 Contigo despedaçarei o cavalo e seus cavaleiro, contigo despedaçarei a carruagem, e os que nela sobem;
 \v 22 Contigo despedaçarei o homem e a mulher, contigo despedaçarei o velho e o jovem, contigo despedaçarei o rapaz e a moça;
-\v 23 Contigo despedaçarei o pastor e seu rebanho; contigo despedaçarei o lavrador e suas juntas \add de bois\add*  ; e contigo despedaçarei governadores e príncipes.
+\v 23 Contigo despedaçarei o pastor e seu rebanho; contigo despedaçarei o lavrador e suas juntas \add de bois\add* ; e contigo despedaçarei governadores e príncipes.
 \v 24 Mas retribuirei à Babilônia e a todos os moradores da Caldeia todo a sua maldade, que fizeram em Sião diante de vossos olhos,diz o SENHOR.
 \v 25 Eis que eu sou contra ti, ó monte destruidor, que destróis toda a terra,diz o SENHOR, e estenderei minha mão contra ti, e te farei rolar das rochas, e te tonarei um monte queimado.
 \v 26 E não tomarão de ti pedra para esquina, nem pedra para fundamentos; porque te tornarás em assolações perpétuas,diz o SENHOR.
 \v 27 Levantai bandeira na terra, tocai trombeta entre as nações, preparai nações contra ela; convocai contra ela os reinos de Ararate, Mini, e Asquenaz; ordenai contra ela capitães, fazei subir cavalos como gafanhotos eriçados. \f + \fq eriçados \ft obscuro \f* 
 \v 28 Preparai contra ela as nações; os reis da Média, seus capitães, e todos seus chefes, e também toda a terra em que eles governam.
-\v 29 Então a terra tremerá, e se afligirá; porque todos os pensamentos do SENHOR estão firmes contra a Babilônia, para tornar a terra de Babilônia em desolação, de modo que não haja morador \add nela\add*  .
+\v 29 Então a terra tremerá, e se afligirá; porque todos os pensamentos do SENHOR estão firmes contra a Babilônia, para tornar a terra de Babilônia em desolação, de modo que não haja morador \add nela\add* .
 \v 30 Os guerreiros de Babilônia pararam de lutar, ficaram-se nas fortalezas; faltou-lhes sua força, tornaram-se como mulheres; incendiaram-se suas casas, quebraram-se seus ferrolhos.
 \v 31 Corredor se encontrará com corredor, mensageiro se encontrará com mensageiro, para anunciar ao rei de Babilônia que sua cidade é tomada por todas os lados;
 \v 32 E os vaus foram tomados, os canaviais foram queimados a fogo, e os homens de guerra foram assombrados.
@@ -1526,13 +1526,13 @@
 \v 48 E os céus, a terra, e tudo quanto neles há, cantarão vitória sobre a Babilônia; porque do norte virão destruidores contra ela,diz o SENHOR.
 \v 49 Pois Babilônia cairá por causa dos mortos de Israel, assim como por causa da Babilônia caíram mortos de toda a terra.
 \v 50 Vós que escapastes do espada, ide embora, não pareis; lembrai-vos do SENHOR até longe, e Jerusalém venha à vossa mente. \f + \fq mente \ft lit. coração \f* 
-\v 51  \add Direis, porém\add*  : Estamos envergonhados, porque ouvimos a humilhação; a vergonha cobriu nossos rostos, porque vieram estrangeiros contra os santuários da casa do SENHOR.
+\v 51 \add Direis, porém\add* : Estamos envergonhados, porque ouvimos a humilhação; a vergonha cobriu nossos rostos, porque vieram estrangeiros contra os santuários da casa do SENHOR.
 \v 52 Portanto eis que vêm dias,diz o SENHOR, em que punirei suas imagens de escultura, e em toda a sua terra gemerão os feridos.
 \v 53 Mesmo se a Babilônia subisse ao céu e se fortificasse no alto seu poder, ainda assim de mim virão destruidores contra ela,diz o SENHOR.
-\v 54  \add Ouve-se\add*  som de gritos da Babilônia, e grande quebrantamento da terra dos caldeus!
+\v 54 \add Ouve-se\add*  som de gritos da Babilônia, e grande quebrantamento da terra dos caldeus!
 \v 55 Pois o SENHOR destrói a Babilônia, e eliminará dela \add seu\add*  grande ruído; e suas ondas bramarão, como muitas águas será o ruído da voz deles:
 \v 56 Pois o destruidor vem contra ela, contra Babilônia; seus guerreiros serão presos, o arco deles será quebrado; porque o SENHOR, Deus de retribuições, certamente dará a pagamento.
-\v 57 E embriagarei a seus príncipes e seus sábios, a seus governadores, seus chefes e seus guerreiros; e dormirão sonho perpétuo, e não despertarão,diz o rei, cujo nome é EU-SOU dos exércitos.
+\v 57 E embriagarei a seus príncipes e seus sábios, a seus governadores, seus chefes e seus guerreiros; e dormirão sonho perpétuo, e não despertarão, diz o Rei, cujo nome é EU-SOU dos exércitos.
 \v 58 Assim diz o SENHOR dos exércitos: Os largos muros da Babilônia serão derrubado por completo, e suas altas portas serão incendiadas a fogo; os povos trabalharão para nada, as nações para o fogo, e se cansarão.
 \v 59 Palavra que o profeta Jeremias enviou a Seraías, filho de Nerias, filho de Maasias, quando ele foi com Zedequias rei de Judá para a Babilônia, no quarto ano de seu reinado. E Seraías era o camareiro-chefe.
 \v 60 Escreveu, pois, Jeremias em um livro todo o mal que viria sobre a Babilônia, todas estas palavras que estavam escritas contra a Babilônia.

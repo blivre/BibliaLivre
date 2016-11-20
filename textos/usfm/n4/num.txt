@@ -617,18 +617,18 @@
 
 \v 1 E o SENHOR falou a Moisés, dizendo:
 \v 2 Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra de vossas habitações, que eu vos dou,
-\v 3 E fizerdes oferta acesa ao SENHOR, holocausto, ou sacrifício, por especial voto, ou de vossa vontade, ou para fazer em vossas solenidades cheiro suave ao SENHOR, de vacas ou de ovelhas;
+\v 3 E fizerdes oferta de queima ao SENHOR, holocausto, ou sacrifício, por especial voto, ou de vossa vontade, ou para fazer em vossas solenidades cheiro suave ao SENHOR, de vacas ou de ovelhas;
 \v 4 Então o que oferecer sua oferta ao SENHOR, trará por oferta de cereais uma dízima de um efa de flor de farinha, amassada com a quarta parte de um him de azeite;
 \v 5 E de veio para a libação oferecerás a quarta parte de um him, além do holocausto ou do sacrifício, por cada cordeiro.
 \v 6 E para cada carneiro farás oferta de cereais de duas dízimas de flor de farinha, amassada com o terço de um him de azeite:
 \v 7 E de vinho para a libação oferecerás o terço de um him, em cheiro suave ao SENHOR.
 \v 8 E quando oferecerdes novilho em holocausto ou sacrifício, por especial voto, ou pacífico ao SENHOR,
 \v 9 Oferecerás com o novilho uma oferta de cereais de três dízimas de flor de farinha, amassada com a metade de um him de azeite:
-\v 10 E de vinho para a libação oferecerás a metade de um him, em oferta acesa de cheiro suave ao SENHOR.
+\v 10 E de vinho para a libação oferecerás a metade de um him, em oferta de queima de cheiro suave ao SENHOR.
 \v 11 Assim se fará com cada um boi, ou carneiro, ou cordeiro, o mesmo de ovelhas que de cabras.
 \v 12 Conforme o número assim fareis com cada um segundo o número deles.
-\v 13 Todo natural fará estas coisas assim, para oferecer oferta acesa de cheiro suave ao SENHOR.
-\v 14 E quando habitar convosco estrangeiro, ou qualquer um que estiver entre vós por vossas gerações, se fizer oferta acesa de cheiro suave ao SENHOR, como vós fizerdes, assim fará ele.
+\v 13 Todo natural fará estas coisas assim, para oferecer oferta de queima de cheiro suave ao SENHOR.
+\v 14 E quando habitar convosco estrangeiro, ou qualquer um que estiver entre vós por vossas gerações, se fizer oferta de queima de cheiro suave ao SENHOR, como vós fizerdes, assim fará ele.
 \v 15 Um mesmo estatuto tereis, vós da congregação e o estrangeiro que convosco mora; estatuto que será perpétuo por vossas gerações: como vós, assim será o peregrino diante do SENHOR.
 \v 16 Uma mesma lei e um mesmo regulamento tereis, vós e o peregrino que convosco mora.
 \v 17 E falou o SENHOR a Moisés, dizendo:
@@ -639,7 +639,7 @@
 \v 22 E quando errardes, e não fizerdes todos estes mandamentos que o SENHOR disse a Moisés,
 \v 23 Todas as coisas que o SENHOR vos mandou pela mão de Moisés, desde o dia que o SENHOR o mandou, e em adiante por vossas gerações,
 \v 24 Será que, se o pecado foi feito por acidente com ignorância da congregação, toda a congregação oferecerá um novilho por holocausto, em cheiro suave ao SENHOR, com sua oferta de cereais e sua libação, conforme a lei; e um bode macho em expiação.
-\v 25 E o sacerdote fará expiação por toda a congregação dos filhos de Israel; e lhes será perdoado, porque acidente é: e eles trarão seus ofertas, oferta acesa ao SENHOR, e suas expiações diante do SENHOR, por seus erros:
+\v 25 E o sacerdote fará expiação por toda a congregação dos filhos de Israel; e lhes será perdoado, porque acidente é: e eles trarão seus ofertas, oferta de queima ao SENHOR, e suas expiações diante do SENHOR, por seus erros:
 \v 26 E será perdoado a toda a congregação dos filhos de Israel, e ao estrangeiro que peregrina entre eles, porquanto é acidente de todo o povo.
 \v 27 E se uma pessoa pecar por acidente, oferecerá uma cabra de ano por expiação.
 \v 28 E o sacerdote fará expiação pela pessoa que haverá pecado por acidente, quando pecar por acidente diante do SENHOR, a reconciliará, e lhe será perdoado.
@@ -747,7 +747,7 @@
 \v 14 Todo o consagrado por voto em Israel será teu.
 \v 15 Todo o que abrir madre em toda carne que oferecerão ao SENHOR, tanto de homens como de animais, será teu: mas farás resgatar o primogênito do homem: também farás resgatar o primogênito de animal impuro.
 \v 16 E de um mês farás efetuar o resgate deles, conforme tua avaliação, por preço de cinco siclos, ao siclo do santuário, que é de vinte óbolos.
-\v 17 Mas o primogênito de vaca, e o primogênito de ovelha, e o primogênito de cabra, não resgatarás; santificados são: o sangue deles espargirás sobre o altar, e queimarás a gordura deles, oferta acesa em cheiro suave ao SENHOR.
+\v 17 Mas o primogênito de vaca, e o primogênito de ovelha, e o primogênito de cabra, não resgatarás; santificados são: o sangue deles espargirás sobre o altar, e queimarás a gordura deles, oferta de queima em cheiro suave ao SENHOR.
 \v 18 E a carne deles será tua: como o peito da oferta movida e como a coxa direita, será tua.
 \v 19 Todas as ofertas elevadas das coisas santas, que os filhos de Israel oferecerem ao SENHOR, dei-as a ti, e a teus filhos e a tuas filhas contigo, por estatuto perpétuo: pacto de sal perpétuo é diante do SENHOR para ti e para tua descendência contigo.
 \v 20 E o SENHOR disse a Arão: Da terra deles não terás herança, nem entre eles terás parte: Eu sou tua parte e tua herança em meio dos filhos de Israel.
@@ -768,8 +768,8 @@
 \p
 
 \v 1 E o SENHOR falou a Moisés e a Arão, dizendo:
-\v 2 Esta é a ordenança da lei que o SENHOR prescreveu, dizendo: Dize aos filhos de Israel que te tragam uma vaca vermelha, perfeita, na qual não haja falta, sobre a qual não se tenha posto jugo:
-\v 3 E a dareis a Eleazar o sacerdote, e ele a tirará fora do acampamento, e a fará degolar em sua presença.
+\v 2 Esta é a ordenança da lei que o SENHOR prescreveu, dizendo: Dize aos filhos de Israel que te tragam uma novilha vermelha, sem defeito, que não tenha mancha, sobre a qual não se tenha posto jugo;
+\v 3 e a dareis ao sacerdote Eleazar. Ele a tirará fora do acampamento, e a fará degolar em sua presença.
 \v 4 E tomará Eleazar o sacerdote de seu sangue com seu dedo, e espargirá até a dianteira do tabernáculo do testemunho com o sangue dela sete vezes;
 \v 5 E fará queimar a vaca ante seus olhos: seu couro e sua carne e seu sangue, com seu excremento, fará queimar.
 \v 6 Logo tomará o sacerdote pau de cedro, e hissopo, e escarlata, e o lançará em meio do fogo em que arde a vaca.
@@ -1076,11 +1076,11 @@
 \v 10 E se não tiver irmãos, dareis sua herança aos irmãos de seu pai.
 \v 11 E se seu pai não tiver irmãos, dareis sua herança a seu parente mais próximo de sua linhagem, o qual a possuirá: e será aos filhos de Israel por estatuto de regulamento, como o SENHOR mandou a Moisés.
 \v 12 E o SENHOR disse a Moisés: Sobe a este monte Abarim, e verás a terra que dei aos filhos de Israel.
-\v 13 E depois que a houverdes visto, tu também serás reunido a teus povos, como foi reunido teu irmão Arão:
-\v 14 Pois fostes rebeldes a meu dito no deserto de Zim, na briga da congregação, para santificar-me nas águas à vista deles. Estas são as águas da briga de Cades no deserto de Zim.
-\v 15 Então respondeu Moisés ao SENHOR, dizendo:
-\v 16 Ponha o SENHOR, Deus dos espíritos de toda carne, homem sobre a congregação,
-\v 17 Que saia diante deles, e que entre diante deles, que os tire e os introduza; para que a congregação do SENHOR não seja como ovelhas sem pastor.
+\v 13 E depois que a houverdes visto, tu também serás recolhido ao teus povo, como foi reunido o teu irmão Arão;
+\v 14 pois fostes rebeldes no deserto de Zim, no conflito da congregação, ao meu mandado de me santificar nas águas à vista deles. Essas são as águas do conflito de Cades no deserto de Zim.
+\v 15 Então Moisés respondeu ao SENHOR:
+\v 16 Que o SENHOR, Deus dos espíritos de toda carne, ponha um homem sobre a congregação,
+\v 17 que saia diante deles, que entre diante deles, que os faça sair e os faça entrar; para que a congregação do SENHOR não seja como ovelhas sem pastor.
 \v 18 E o SENHOR disse a Moisés: Toma a Josué filho de Num, homem no qual há espírito, e porás tua mão sobre ele;
 \v 19 E o porás diante de Eleazar o sacerdote, e diante de toda a congregação; e lhe darás ordens em presença deles.
 \v 20 E porás de tua dignidade sobre ele, para que toda a congregação dos filhos de Israel lhe obedeçam.
@@ -1092,29 +1092,29 @@
 \p
 
 \v 1 E falou o SENHOR a Moisés, dizendo:
-\v 2 Manda aos filhos de Israel, e dize-lhes: Mi oferta, meu pão com minhas ofertas acendidas em cheiro a mim agradável, guardareis, oferecendo-me a seu tempo.
-\v 3 E lhes dirás: Esta é a oferta acesa que oferecereis ao SENHOR: dois cordeiros sem mácula de ano, cada dia, será o holocausto contínuo.
+\v 2 Manda aos filhos de Israel, e dize-lhes: Da minha oferta, do meu pão com as minhas ofertas de queima em cheiro a mim agradável, tereis cuidado, para as oferecer a mim no tempo devido.
+\v 3 E lhes dirás: Esta é a oferta de queima que oferecereis ao SENHOR: dois cordeiros sem mácula de ano, cada dia, será o holocausto contínuo.
 \v 4 Um cordeiro oferecerás pela manhã, e o outro cordeiro oferecerás entre as duas tardes:
 \v 5 E a décima de um efa de flor de farinha, amassada com uma quarta parte de um him de azeite prensado, em oferta de cereais.
-\v 6 É holocausto contínuo, que foi feito no monte Sinai em cheiro suave, oferta acesa ao SENHOR.
+\v 6 É holocausto contínuo, que foi feito no monte Sinai em cheiro suave, oferta de queima ao SENHOR.
 \v 7 E sua libação, a quarta parte de um him com cada cordeiro: derramarás libação de superior vinho ao SENHOR no santuário.
-\v 8 E oferecerás o segundo cordeiro entre as duas tardes: conforme a oferta da manhã, e conforme sua libação oferecerás, oferta acesa em cheiro suave ao SENHOR.
+\v 8 E oferecerás o segundo cordeiro entre as duas tardes: conforme a oferta da manhã, e conforme sua libação oferecerás, oferta de queima em cheiro suave ao SENHOR.
 \v 9 Mas no dia do sábado dois cordeiros de ano sem defeito, e duas dízimas de flor de farinha amassada com azeite, por oferta de cereais, com sua libação:
 \v 10 É o holocausto do sábado em cada sábado, além do holocausto contínuo e sua libação.
 \v 11 E nos princípios de vossos meses oferecereis em holocausto ao SENHOR dois bezerros das vacas, e um carneiro, e sete cordeiros de ano sem defeito;
 \v 12 E três dízimas de flor de farinha amassada com azeite, por oferta de cereais com cada bezerro; e duas dízimas de flor de farinha amassada com azeite, por oferta de cereais com cada carneiro;
-\v 13 E uma dízima de flor de farinha amassada com azeite, em oferta de cereais com cada cordeiro: holocausto de cheiro suave, oferta acesa ao SENHOR.
+\v 13 E uma dízima de flor de farinha amassada com azeite, em oferta de cereais com cada cordeiro: holocausto de cheiro suave, oferta de queima ao SENHOR.
 \v 14 E suas libações de vinho, meio him com cada bezerro, e o terço de um him com cada carneiro, e a quarta parte de um him com cada cordeiro. Este é o holocausto de cada mês por todos os meses do ano.
 \v 15 E um bode macho em expiação se oferecerá ao SENHOR, além do holocausto contínuo com sua libação.
 \v 16 Mas no mês primeiro, aos catorze do mês será a páscoa do SENHOR.
 \v 17 E aos quinze dias deste mês, a solenidade: por sete dias se comerão pães ázimos.
 \v 18 No primeiro dia, santa convocação; nenhuma obra servil fareis:
-\v 19 E oferecereis por oferta acesa em holocausto ao SENHOR dois bezerros das vacas, e um carneiro, e sete cordeiros de ano: sem defeito os tomareis:
+\v 19 E oferecereis por oferta de queima em holocausto ao SENHOR dois bezerros das vacas, e um carneiro, e sete cordeiros de ano: sem defeito os tomareis:
 \v 20 E sua oferta de cereais de farinha amassada com azeite: três dízimas com cada bezerro, e duas dízimas com cada carneiro oferecereis;
 \v 21 Com cada um dos sete cordeiros oferecereis uma dízima;
 \v 22 E um bode macho por expiação, para reconciliar-vos.
 \v 23 Isto oferecereis além do holocausto da manhã, que é o holocausto contínuo.
-\v 24 Conforme isto oferecereis cada um dos sete dias, comida e oferta acesa em cheiro suave ao SENHOR; oferecer-se há, além do holocausto contínuo, com sua libação.
+\v 24 Conforme isto oferecereis cada um dos sete dias, comida e oferta de queima em cheiro suave ao SENHOR; oferecer-se há, além do holocausto contínuo, com sua libação.
 \v 25 E no sétimo dia tereis santa convocação: nenhuma obra servil fareis.
 \v 26 Também o dia das primícias, quando oferecerdes oferta de cereais nova ao SENHOR em vossas semanas, tereis santa convocação: nenhuma obra servil fareis:
 \v 27 E oferecereis em holocausto, em cheiro suave ao SENHOR, dois bezerros das vacas, um carneiro, sete cordeiros de ano:
@@ -1131,14 +1131,14 @@
 \v 3 E a oferta de cereais deles, de flor de farinha amassada com azeite, três dízimas com cada bezerro, duas dízimas com cada carneiro,
 \v 4 E com cada um dos sete cordeiros, uma dízima;
 \v 5 E um bode macho por expiação, para reconciliar-vos:
-\v 6 Além do holocausto do mês, e sua oferta de cereais, e o holocausto contínuo e sua oferta de cereais, e suas libações, conforme sua lei, por oferta acesa ao SENHOR em cheiro suave.
+\v 6 Além do holocausto do mês, e sua oferta de cereais, e o holocausto contínuo e sua oferta de cereais, e suas libações, conforme sua lei, por oferta de queima ao SENHOR em cheiro suave.
 \v 7 E no dez deste mês sétimo tereis santa convocação, e afligireis vossas almas: nenhuma obra fareis:
 \v 8 E oferecereis em holocausto ao SENHOR por cheiro suave, um bezerro das vacas, um carneiro, sete cordeiros de ano; sem defeito os tomareis:
 \v 9 E suas ofertas de cereais, flor de farinha amassada com azeite, três dízimas com cada bezerro, duas dízimas com cada carneiro,
 \v 10 E com cada um dos sete cordeiros, uma dízima;
 \v 11 Um bode macho por expiação: além da oferta das expiações pelo pecado, e do holocausto contínuo, e de suas ofertas de cereais, e de suas libações.
 \v 12 Também aos quinze dias do mês sétimo tereis santa convocação; nenhuma obra servil fareis, e celebrareis solenidade ao SENHOR por sete dias;
-\v 13 E oferecereis em holocausto, em oferta acesa ao SENHOR em cheiro suave, treze bezerros das vacas, dois carneiros, catorze cordeiros de ano: hão de ser sem defeito;
+\v 13 E oferecereis em holocausto, em oferta de queima ao SENHOR em cheiro suave, treze bezerros das vacas, dois carneiros, catorze cordeiros de ano: hão de ser sem defeito;
 \v 14 E as ofertas de cereais deles, de flor de farinha amassada com azeite, três dízimas com cada um dos treze bezerros, duas dízimas com cada um dos dois carneiros,
 \v 15 E com cada um dos catorze cordeiros, uma dízima;
 \v 16 E um bode macho por expiação: além do holocausto contínuo, sua oferta de cereais e sua libação.
@@ -1161,7 +1161,7 @@
 \v 33 E suas ofertas de cereais e suas libações com os bezerros, com os carneiros, e com os cordeiros, segundo o número deles, conforme a lei;
 \v 34 E um bode macho por expiação: além do holocausto contínuo, com sua oferta de cereais e sua libação.
 \v 35 No oitavo dia tereis solenidade: nenhuma obra servil fareis:
-\v 36 E oferecereis em holocausto, em oferta acesa de cheiro suave ao SENHOR, um novilho, um carneiro, sete cordeiros de ano sem defeito;
+\v 36 E oferecereis em holocausto, em oferta de queima de cheiro suave ao SENHOR, um novilho, um carneiro, sete cordeiros de ano sem defeito;
 \v 37 Suas ofertas de cereais e suas libações com o novilho, com o carneiro, e com os cordeiros, segundo o número deles, conforme a lei;
 \v 38 E um bode macho por expiação: além do holocausto contínuo, com sua oferta de cereais e sua libação.
 \v 39 Estas coisas oferecereis ao SENHOR em vossas solenidades, além de vossos votos, e de vossas ofertas livres, para vossos holocaustos, e para vossas ofertas de cereais, e para vossas libações e para vossas ofertas pacíficas.
@@ -1258,8 +1258,8 @@
 \v 8 Assim fizeram vossos pais, quando os enviei desde Cades-Barneia para que vissem a terra.
 \v 9 Que subiram até o vale de Escol, e depois que viram a terra, preocuparam o ânimo dos filhos de Israel, para que não viessem à terra que o SENHOR lhes havia dado.
 \v 10 E o furor do SENHOR se acendeu então, e jurou dizendo:
-\v 11 Que não verão os homens que subiram do Egito de vinte anos acima, a terra pela qual jurei a Abraão, Isaque, e Jacó, porquanto não foram perfeitos em me seguir;
-\v 12 Exceto Calebe, filho de Jefoné quenezeu, e Josué filho de Num, que foram perfeitos em seguir ao SENHOR.
+\v 11 Os homens que subiram do Egito de vinte anos acima não verão a terra pela qual jurei a Abraão, Isaque, e Jacó, pois não me seguiram por completo;
+\v 12 exceto Calebe, filho do quenezeu Jefoné, e Josué filho de Num, que seguiram por completo ao SENHOR.
 \v 13 E o furor do SENHOR se acendeu em Israel, e os fez andar errantes quarenta anos pelo deserto, até que foi acabada toda aquela geração, que havia feito mal diante do SENHOR.
 \v 14 E eis que vós sucedestes em lugar de vossos pais, descendência de homens pecadores, para acrescentar ainda à ira do SENHOR contra Israel.
 \v 15 Se vos deixardes de segui-lo, ele voltará outra vez a deixar-vos no deserto, e destruireis a todo este povo.

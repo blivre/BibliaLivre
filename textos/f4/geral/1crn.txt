@@ -346,7 +346,7 @@ Os filhos de Quenaz foram: Otniel e Seraías. Os filhos de Otniel: Hatate
 \added
 e Meonotai
 \*added
- .
+.
 \v 1Cr.4.14
 E Meonotai gerou a Ofra; e Seraías gerou a Joabe, pai 
 \added
@@ -1087,9 +1087,8 @@ Dos três ele foi mais ilustre que os outros dois, por isso foi seu cabeça; por
 \added
 primeiros
 \*added
- .
+.
 \v 1Cr.11.22
- 
 \added
 Também
 \*added
@@ -1271,7 +1270,7 @@ Então Davi subiu com todo Israel a Baalá,
 \added
 que é
 \*added
- Quriate-Jearim, em Judá, para dali trazerem acima a arca do Deus EU-SOU, que habita entre os querubins, a qual é chamada pelo seu nome.
+ Quriate-Jearim, em Judá, para dali trazerem acima a arca de Deus, o SENHOR, que habita entre os querubins, a qual é chamada pelo seu nome.
 \v 1Cr.13.7
 E levaram a arca de Deus da casa de Abinadabe sobre uma carruagem nova, e Uzá e seu irmão guiavam o carro.
 \v 1Cr.13.8
@@ -2093,9 +2092,11 @@ Assim eu confirmarei seu reino para sempre, se ele se esforçar a executar meus 
 \v 1Cr.28.8
 Agora, pois, diante dos olhos de todo Israel, congregação do SENHOR, e em ouvidos de nosso Deus, guardai e inquiri todos os preceitos do SENHOR vosso Deus, para que possuais a boa terra, e a deixeis por herdade a vossos filhos depois de vós perpetuamente.
 \v 1Cr.28.9
-E tu, Salomão, filho meu, conhece ao Deus de teu pai, e serve-lhe com coração perfeito, e com ânimo voluntário; porque o SENHOR esquadrinha os corações de todos, e entende toda imaginação dos pensamentos. Se tu lhe buscares, o acharás; mas se o deixares, ele te lançará fora para sempre.
+E tu, Salomão, meu filho, conhece o Deus de teu pai, e serve-o com coração completo e ânimo voluntário; porque o 
+SENHOR examina os corações de todos, e entende todas as intenções dos pensamentos. Se tu o buscares, o acharás; mas se 
+o deixares, ele te rejeitará para sempre.
 \v 1Cr.28.10
-Olha, pois, agora que o SENHOR te elegeu para que edifiques casa para santuário: esforça-te, e face a.
+Olha, pois, agora que o SENHOR te escolheu para que edifiques casa para santuário: esforça-te, e faze-a.
 \v 1Cr.28.11
 E Davi deu a Salomão seu filho a planta do pórtico, e de suas casas, e de suas oficinas, e de suas salas, e de suas recâmaras, e da casa do propiciatório.
 \v 1Cr.28.12
@@ -2155,11 +2156,14 @@ Eu sei, Deus meu, que tu esquadrinhas os corações, e que a retidão te agrada:
 \v 1Cr.29.18
 SENHOR, Deus de Abraão, de Isaque, e de Israel, nossos pais, conserva perpetuamente esta vontade do coração de teu povo, e encaminha seu coração a ti.
 \v 1Cr.29.19
-Assim dá a meu filho Salomão coração perfeito, para que guarde teus mandamentos, e teus testemunhos e teus estatutos, e para que faça todas as coisas, e te edifique a casa para a qual eu fiz a preparação.
+E ao meu filho Salomão dá um coração íntegro, para que guarde os teus mandamentos, os teus testemunhos e os teus 
+estatutos, e para que faça todas as coisas, e te edifique a casa para a qual eu preparei.
 \v 1Cr.29.20
-Depois disse Davi a toda à congregação: Bendizei agora ao SENHOR vosso Deus. Então toda a congregação abençoou ao SENHOR Deus de seus pais, e inclinando-se adoraram diante do SENHOR, e do rei.
+Depois disse Davi a toda à congregação: Bendizei agora ao SENHOR vosso Deus. Então toda a congregação bendisse ao 
+SENHOR Deus de seus pais, e inclinando-se, adoraram diante do SENHOR, e do rei.
 \v 1Cr.29.21
-E sacrificaram vítimas ao SENHOR, e ofereceram ao SENHOR holocaustos o dia seguinte, mil bezerros, mil carneiros, mil cordeiros com suas libações, e muitos sacrifícios por todo Israel.
+E sacrificaram animais ao SENHOR, e ofereceram ao SENHOR ofertas de queima no dia seguinte, mil bezerros, mil 
+carneiros, mil cordeiros com as suas libações, e muitos sacrifícios por todo Israel.
 \v 1Cr.29.22
 E comeram e beberam diante do SENHOR aquele dia com grande alegria; e deram a segunda vez a investidura do reino a Salomão filho de Davi, e ungiram-no ao SENHOR por príncipe, e a Zadoque por sacerdote.
 \v 1Cr.29.23

@@ -1,4 +1,4 @@
-﻿\id JDG B�blia Livre - Textus Receptus
+﻿\id JDG Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Juízes
 \toc1 Livro dos Juízes

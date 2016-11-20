@@ -1,4 +1,4 @@
-﻿\id GAL B�blia Livre - Textus Receptus
+﻿\id GAL Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Gálatas
 \toc1 Carta de Paulo aos Gálatas

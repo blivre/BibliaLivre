@@ -1,4 +1,4 @@
-﻿\id JOB B�blia Livre - Textus Receptus
+﻿\id JOB Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Jó
 \toc1 Jó
@@ -616,9 +616,9 @@
 
 \v 1 Então Elifaz, o temanita, respondeu, dizendo:
 \v 2 Por acaso o homem será de \add algum\add*  proveito a Deus? Pode ele se beneficiar de algum sábio?
-\v 3 É útil ao Todo-Poderoso que sejas justo? Ganha ele alguma coisa se teus caminhos forem perfeitos?
-\v 4 Por acaso ele te repreende \add e\add*  vem contigo a juízo por causa de teu temor \add a ele\add*  ?
-\v 5  \add Ou\add*  não será por causa de tua grande malícia, e de tuas maldades que não têm fim?
+\v 3 É útil ao Todo-Poderoso que sejas justo? Ganha ele algo se os teus caminhos forem íntegros?
+\v 4 Acaso ele te repreende \add e\add*  vem contigo a juízo por causa da tua reverência?
+\v 5 \add Ou\add*  não será por causa de tua grande malícia, e de tuas maldades que não têm fim?
 \v 6 Porque tomaste penhor a teus irmãos sem causa, e foste tu que tiraste as roupas dos nus.
 \v 7 Não deste de beber água ao cansado, e negaste  \f + \fq negaste \ft lit. retiveste [contigo]  \f* o pão ao faminto.
 \v 8 Porém o homem poderoso teve a terra; e o homem influente habitava nela.
@@ -1069,10 +1069,10 @@
 \v 13 Seja que ou por vara de castigo, ou para sua terra, ou por bondade as faça vir.
 \v 14 Escuta isto, Jó; fica parado, e considera as maravilhas de Deus.
 \v 15 Por acaso sabes tu quando Deus dá ordem a elas, e faz brilhar o relâmpago de sua nuvem?
-\v 16 Conheces tu os equilíbrios das nuvens, as maravilhas daquele que é perfeito em conhecimentos?
+\v 16 Conheces tu os equilíbrios das nuvens, as maravilhas daquele que é perfeito no conhecimento?
 \v 17 Tu, cujas vestes se aquecem quando a terra se aquieta por causa do \add vento\add*  sul,
-\v 18 Por acaso podes estender com ele os céus, que estão firmes como espelho fundido?
-\v 19 Ensina-nos que devemos dizer a ele; \add pois discurso\add*  nenhum podemos propor, por causa das \add nossas\add*  trevas.
+\v 18 acaso podes estender com ele os céus, que estão firmes como um espelho fundido?
+\v 19 Ensina-nos o que devemos dizer a ele; \add pois discurso\add*  nenhum podemos propor, por causa das \add nossas\add*  trevas.
 \v 20 Seria contado a ele o que eu haveria de falar? Por acaso alguém falaria para ser devorado?  \f + \fq para ser devorado \ft obscuro – trad. alt. quando está confuso  \f* 
 \v 21 E agora não se pode olhar para o sol, quando brilha nos céus, quando o vento passa e os limpa.
 \v 22 Do norte vem o esplendor dourado; em Deus há majestade temível.
@@ -1139,7 +1139,7 @@
 \v 10 Ou amarrarás ao boi selvagem com sua corda para o arado? Ou lavrará ele aos campos atrás de ti?
 \v 11 Confiarás nele, por ser grande sua força, e deixarás que ele faça teu trabalho?
 \v 12 Porás tua confiança nele, para que ele colha tua semente, e a junte em tua eira?
-\v 13 As azas da avestruz batem alegremente, mas são suas asas e penas como as da cegonha?
+\v 13 As asas da avestruz batem alegremente, mas são suas asas e penas como as da cegonha?
 \v 14 Ela deixa seus ovos na terra, e os esquenta no chão,
 \v 15 E se esquece de que pés podem os pisar, e os animais do campo \add podem\add*  os esmagar.
 \v 16 Age duramente para com seus filhos, como se não fossem seus, sem temer que seu trabalho tenha sido em vão.

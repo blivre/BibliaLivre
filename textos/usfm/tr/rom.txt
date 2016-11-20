@@ -1,4 +1,4 @@
-﻿\id ROM B�blia Livre - Textus Receptus
+﻿\id ROM Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Romanos
 \toc1 Carta de Paulo aos Romanos

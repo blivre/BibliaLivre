@@ -1,4 +1,4 @@
-﻿\id 2CH B�blia Livre - Textus Receptus
+﻿\id 2CH Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 2 Crônicas
 \toc1 Segundo Livro de Crônicas
@@ -94,7 +94,7 @@
 \v 18 E Salomão fez todos estes vasos em grande abundância, porque não pode ser achado o peso do bronze.
 \v 19 Assim fez Salomão todos os vasos para a casa de Deus, e o altar de ouro, e as mesas sobre as quais se punham os pães da proposição;
 \v 20 Assim os candelabros e suas lâmpadas, de ouro puro, para que as acendessem diante do compartimento interno conforme à costume.
-\v 21 E as flores, e as lâmpadas, e as tenazes se fizeram de ouro, de ouro perfeito;
+\v 21 E as flores, e as lâmpadas, e as tenazes se fizeram completamente de ouro.
 \v 22 Também os apagadores, e as bacias, e as colheres, e os incensários, de ouro puro. Quanto à entrada da casa, suas portas interiores para o lugar santíssimo, e as portas da casa do templo, de ouro.
 
 \c 5
@@ -378,7 +378,7 @@
 \v 14 E juraram ao SENHOR com grande voz e júbilo, a som de trombetas e de buzinas:
 \v 15 Do qual juramento todos os de Judá se alegraram; porque de todo o seu coração o juravam, e de toda sua vontade o buscavam: e foi achado deles; e deu-lhes o SENHOR repouso de todas partes.
 \v 16 E ainda a Maaca mãe do rei Asa, ele mesmo a depôs de sua dignidade, porque havia feito um ídolo no bosque: e Asa destruiu seu ídolo, e o despedaçou, e queimou no ribeiro de Cedrom.
-\v 17 Mas com tudo isso os altos não foram tirados de Israel, ainda que o coração de Asa tenha sido perfeito enquanto viveu.
+\v 17 Mas com tudo isso os altos não foram tirados de Israel, ainda que o coração de Asa tenha sido íntegro enquanto viveu.
 \v 18 E meteu na casa de Deus o que seu pai havia dedicado, e o que ele havia consagrado, prata e ouro e vasos.
 \v 19 E não havia guerra até os trinta e cinco anos do reinado de Asa.
 
@@ -393,7 +393,7 @@
 \v 6 Então o rei Asa tomou a todo Judá, e levaram-se de Ramá a pedra e madeira com que Baasa edificava, e com ela edificou a Geba e Mispá.
 \v 7 Naquele tempo veio Hanani vidente a Asa rei de Judá, e disse-lhe: Por quanto te apoiaste no rei de Síria, e não te apoiaste no SENHOR teu Deus, por isso o exército do rei da Síria escapou de tuas mãos.
 \v 8 Os etíopes e os líbios, não eram um exército numerosíssimo, com carros e muitos cavaleiros? Contudo, porque te apoiaste no SENHOR, ele os entregou em tuas mãos.
-\v 9 Porque os olhos do SENHOR contemplam toda a terra, para corroborar aos que têm coração perfeito para com ele. Loucamente fizeste em isto; porque daqui adiante haverá guerra contra ti.
+\v 9 Porque os olhos do SENHOR contemplam toda a terra, para corroborar aos que têm coração íntegro com ele. Loucamente fizeste nisso; porque de agora em diante haverá guerra contra ti.
 \v 10 E irou-se Asa contra o vidente, lançou-o na casa do cárcere, porque foi em extremo incomodado por causa disto. E oprimiu Asa naquele tempo alguns do povo.
 \v 11 Mas eis que, os feitos de Asa, primeiros e últimos, estão escritos no livro dos reis de Judá e de Israel.
 \v 12 E o ano trinta e nove de seu reinado enfermou Asa dos pés para acima, e em sua enfermidade não buscou ao SENHOR, mas sim aos médicos.
@@ -617,8 +617,8 @@
 \p
 
 \v 1 De vinte e cinco anos era Amazias quando começou a reinar, e vinte e nove anos reinou em Jerusalém: o nome de sua mãe foi Jeoadã, de Jerusalém.
-\v 2 Fez ele o que era correto aos olhos do SENHOR ainda que não de perfeito coração.
-\v 3 E logo que foi confirmado no reino, matou a seus servos que haviam matado ao rei seu pai;
+\v 2 Fez ele o que era correto aos olhos do SENHOR ainda que não de coração íntegro.
+\v 3 E logo que foi confirmado no reino, matou os seus servos que haviam matado o seu pai, o rei;
 \v 4 Mas não matou aos filhos deles, segundo o que está escrito na lei no livro de Moisés, de onde o SENHOR mandou, dizendo: Não morrerão os pais pelos filhos, nem os filhos pelos pais; mas cada um morrerá por seu pecado.
 \v 5 Juntou logo Amazias a Judá, e com arranjo às famílias pôs-lhes capitães de milhares e comandantes de cem por todo Judá e Benjamim; e tomou-os por lista de vinte anos acima, e foram achados neles trezentos mil escolhidos para sair à guerra, que tinham lança e escudo.
 \v 6 E de Israel contratou a dinheiro cem mil homens valentes, por cem talentos de prata.

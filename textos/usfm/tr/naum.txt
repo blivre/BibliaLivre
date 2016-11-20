@@ -1,4 +1,4 @@
-﻿\id NAM B�blia Livre - Textus Receptus
+﻿\id NAM Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Naum
 \toc1 Naum

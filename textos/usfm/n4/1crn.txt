@@ -167,7 +167,7 @@
 \v 10 Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se tu me abençoares muito, e ampliares os meus limites, e se tua mão for comigo, e me protegeres do mal, para que eu não sofra!E Deus fez acontecer o que ele tinha pedido.
 \v 11 E Quelube, irmão de Suá gerou a Maquir, que foi o pai de Estom.
 \v 12 E Estom gerou a Bete-Rafa, Paseia, e a Teína, pai da cidade de Naás; estes foram os homens de Reca.
-\v 13 Os filhos de Quenaz foram: Otniel e Seraías. Os filhos de Otniel: Hatate \add e Meonotai\add*  .
+\v 13 Os filhos de Quenaz foram: Otniel e Seraías. Os filhos de Otniel: Hatate \add e Meonotai\add* .
 \v 14 E Meonotai gerou a Ofra; e Seraías gerou a Joabe, pai \add dos moradores\add*  do Vale dos Artesãos, porque foram artesãos.  \f + \fq Vale dos Artífices \ft heb. Ge-Harasim  \f* 
 \v 15 Os filhos de Calebe, filho de Jefoné foram: Iru, Elá, e Naã; e filho de Elá foi Quenaz.
 \v 16 Os filhos de Jealelel foram: Zife, Zifa, Tíria, e Asareel.
@@ -491,8 +491,8 @@
 \v 18 E aqueles três irromperam pelo acampamento dos filisteus, e tiraram água do poço de Belém, que está junto à porta, tomaram dela, e a trouxeram a Davi. Davi, porém não a quis beber; em vez disso, derramou-a ao SENHOR,
 \v 19 E disse: Deus me proíba de fazer isto! Beberia eu o sangue destes homens com suas vidas? Pois eles arriscaram suas vidas para a trazerem.Por isso ele não a quis beber. Isto fizeram aqueles três guerreiros.
 \v 20 E também Abisai, irmão de Joabe, foi o cabeça de três, o qual usando sua lança sobre trezentos, ele os matou; e foi famoso entre os três.
-\v 21 Dos três ele foi mais ilustre que os outros dois, por isso foi seu cabeça; porém não alcançou os três \add primeiros\add*  .
-\v 22  \add Também\add*  Benaia, filho de Joiada, filho de homem valente, de grandes feitos, de Cabzeel; ele matou dois dos poderosos guerreiros de Moabe; ele também desceu, e matou um leão dentro de uma cova no tempo da neve.
+\v 21 Dos três ele foi mais ilustre que os outros dois, por isso foi seu cabeça; porém não alcançou os três \add primeiros\add* .
+\v 22 \add Também\add*  Benaia, filho de Joiada, filho de homem valente, de grandes feitos, de Cabzeel; ele matou dois dos poderosos guerreiros de Moabe; ele também desceu, e matou um leão dentro de uma cova no tempo da neve.
 \v 23 Ele também matou um homem egípcio alto, de cinco côvados; o egípcio trazia na mão uma lança como um lançador de tecelão; porém \add Benaia\add*  desceu a ele com um bastão; e arrancou a lança da mão do egípcio, e o matou com sua própria lança.
 \v 24 Estas coisas fez Benaia, filho de Joiada, e por isso foi famoso entre aqueles três guerreiros.
 \v 25 Eis que ele foi o mais ilustre dos trinta, mas não alcançou os três \add primeiros\add*  . E Davi o pôs sobre sua guarda pessoal.
@@ -571,7 +571,7 @@
 \v 3 E tragamos de volta a nós a arca de nosso Deus, porque não a buscamos desde o tempo de Saul.
 \v 4 Então toda a congregação disse que assim se fizesse, porque isso pareceu correto aos olhos de todo o povo.
 \v 5 Assim Davi ajuntou a todo Israel, desde Sior do Egito, até chegar a Hamate, para que trouxessem a arca de Deus de Quriate-Jearim.
-\v 6 Então Davi subiu com todo Israel a Baalá, \add que é\add*  Quriate-Jearim, em Judá, para dali trazerem acima a arca do Deus EU-SOU, que habita entre os querubins, a qual é chamada pelo seu nome.
+\v 6 Então Davi subiu com todo Israel a Baalá, \add que é\add*  Quriate-Jearim, em Judá, para dali trazerem acima a arca de Deus, o SENHOR, que habita entre os querubins, a qual é chamada pelo seu nome.
 \v 7 E levaram a arca de Deus da casa de Abinadabe sobre uma carruagem nova, e Uzá e seu irmão guiavam o carro.
 \v 8 E Davi e todo Israel celebravam diante de Deus com toda força; e com canções, harpas, saltérios, tamboris, címbalos e com trombetas.
 \v 9 E quando chegaram à eira de Quidom, Uzá estendeu sua mão para segurar a arca, pois os bois tropeçaram.
@@ -1017,8 +1017,8 @@
 \v 6 E me disse: Salomão teu filho, ele edificará minha casa e meus átrios: porque a este me escolhi por filho, e eu lhe serei a ele por pai.
 \v 7 Assim eu confirmarei seu reino para sempre, se ele se esforçar a executar meus mandamentos e meus juízos, como este dia.
 \v 8 Agora, pois, diante dos olhos de todo Israel, congregação do SENHOR, e em ouvidos de nosso Deus, guardai e inquiri todos os preceitos do SENHOR vosso Deus, para que possuais a boa terra, e a deixeis por herdade a vossos filhos depois de vós perpetuamente.
-\v 9 E tu, Salomão, filho meu, conhece ao Deus de teu pai, e serve-lhe com coração perfeito, e com ânimo voluntário; porque o SENHOR esquadrinha os corações de todos, e entende toda imaginação dos pensamentos. Se tu lhe buscares, o acharás; mas se o deixares, ele te lançará fora para sempre.
-\v 10 Olha, pois, agora que o SENHOR te elegeu para que edifiques casa para santuário: esforça-te, e face a.
+\v 9 E tu, Salomão, meu filho, conhece o Deus de teu pai, e serve-o com coração completo e ânimo voluntário; porque o SENHOR examina os corações de todos, e entende todas as intenções dos pensamentos. Se tu o buscares, o acharás; mas se o deixares, ele te rejeitará para sempre.
+\v 10 Olha, pois, agora que o SENHOR te escolheu para que edifiques casa para santuário: esforça-te, e faze-a.
 \v 11 E Davi deu a Salomão seu filho a planta do pórtico, e de suas casas, e de suas oficinas, e de suas salas, e de suas recâmaras, e da casa do propiciatório.
 \v 12 Assim a planta de todas as coisas que tinha em sua vontade, para os átrios da casa do SENHOR, e para todas as câmaras em derredor, para os tesouros da casa de Deus, e para os tesouros das coisas santificadas:
 \v 13 Também para as ordens dos sacerdotes e dos levitas, e para toda a obra do ministério da casa do SENHOR, e para todos os vasos do ministério da casa do SENHOR.
@@ -1052,9 +1052,9 @@
 \v 16 Ó SENHOR Deus nosso, toda esta abundância que preparamos para edificar casa a teu santo nome, de tua mão é, e tudo é teu.
 \v 17 Eu sei, Deus meu, que tu esquadrinhas os corações, e que a retidão te agrada: por isso eu com retidão de meu coração voluntariamente te ei oferecido tudo isto, e agora vi com alegria que teu povo, que aqui se achou agora, deu para ti espontaneamente.
 \v 18 SENHOR, Deus de Abraão, de Isaque, e de Israel, nossos pais, conserva perpetuamente esta vontade do coração de teu povo, e encaminha seu coração a ti.
-\v 19 Assim dá a meu filho Salomão coração perfeito, para que guarde teus mandamentos, e teus testemunhos e teus estatutos, e para que faça todas as coisas, e te edifique a casa para a qual eu fiz a preparação.
-\v 20 Depois disse Davi a toda à congregação: Bendizei agora ao SENHOR vosso Deus. Então toda a congregação abençoou ao SENHOR Deus de seus pais, e inclinando-se adoraram diante do SENHOR, e do rei.
-\v 21 E sacrificaram vítimas ao SENHOR, e ofereceram ao SENHOR holocaustos o dia seguinte, mil bezerros, mil carneiros, mil cordeiros com suas libações, e muitos sacrifícios por todo Israel.
+\v 19 E ao meu filho Salomão dá um coração íntegro, para que guarde os teus mandamentos, os teus testemunhos e os teus estatutos, e para que faça todas as coisas, e te edifique a casa para a qual eu preparei.
+\v 20 Depois disse Davi a toda à congregação: Bendizei agora ao SENHOR vosso Deus. Então toda a congregação bendisse ao SENHOR Deus de seus pais, e inclinando-se, adoraram diante do SENHOR, e do rei.
+\v 21 E sacrificaram animais ao SENHOR, e ofereceram ao SENHOR ofertas de queima no dia seguinte, mil bezerros, mil carneiros, mil cordeiros com as suas libações, e muitos sacrifícios por todo Israel.
 \v 22 E comeram e beberam diante do SENHOR aquele dia com grande alegria; e deram a segunda vez a investidura do reino a Salomão filho de Davi, e ungiram-no ao SENHOR por príncipe, e a Zadoque por sacerdote.
 \v 23 E sentou-se Salomão por rei no trono do SENHOR em lugar de Davi seu pai, e foi próspero; e obedeceu-lhe todo Israel.
 \v 24 E todos os príncipes e poderosos, e todos os filhos do rei Davi, prestaram homenagem ao rei Salomão.

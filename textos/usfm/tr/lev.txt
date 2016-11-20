@@ -1,4 +1,4 @@
-﻿\id LEV B�blia Livre - Textus Receptus
+﻿\id LEV Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Levítico
 \toc1 Levítico

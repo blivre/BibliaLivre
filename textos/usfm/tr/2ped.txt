@@ -1,4 +1,4 @@
-﻿\id 2PE B�blia Livre - Textus Receptus
+﻿\id 2PE Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 2 Pedro
 \toc1 Segunda Carta Universal de Pedro

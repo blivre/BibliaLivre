@@ -611,7 +611,7 @@ assim
 \v Hb.7.18
 Porque há uma revogação do mandamento anterior, por causa da sua fraqueza e inutilidade,
 \v Hb.7.19
-pois a Lei nada tornou perfeito. Porém, uma esperança melhor é introduzida, e por meio dela nos aproximamos de Deus.
+pois a Lei não tornou perfeito nada. Porém, uma esperança melhor é introduzida, e por meio dela nos aproximamos de Deus.
 \v Hb.7.20
 E isso não foi 
 \added
@@ -890,7 +890,8 @@ E, como está ordenado aos seres humanos morrerem uma vez, e depois disso, o ju�
 \v Hb.9.28
 assim também Cristo, que se ofereceu uma vez para tirar os pecados de muitos, aparecerá pela segunda vez, sem pecado, aos que o esperam, para a salvação.
 \v Hb.10.1
-Pois, como a Lei tem uma sombra dos bens futuros, e não a própria imagem das coisas, ela nunca pode, por meio dos mesmos sacrifícios que oferecem a cada ano, continuamente, tornar perfeitos os que se aproximam.
+Pois, como a Lei tem uma sombra dos bens futuros, e não a própria imagem das coisas, ela nunca pode, por meio dos 
+mesmos sacrifícios que se oferecem a cada ano, continuamente, tornar perfeitos os que se aproximam.
 \fn
 \key
 os que se aproximam

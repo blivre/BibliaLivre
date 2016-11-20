@@ -1,4 +1,4 @@
-﻿\id HAB B�blia Livre - Textus Receptus
+﻿\id HAB Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Habacuque
 \toc1 Habacuque

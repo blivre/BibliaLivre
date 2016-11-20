@@ -2475,7 +2475,7 @@ E se der fruto,
 \added
 deixa-a ficar
 \*added
- ; se não, tu a cortarás depois.
+; se não, tu a cortarás depois.
 \v Lc.13.10
 E ensinava em uma das sinagogas num sábado.
 \v Lc.13.11
@@ -2565,7 +2565,8 @@ dia
 \*added
  seguinte eu caminhe; porque um profeta não pode morrer fora de Jerusalém.
 \v Lc.13.34
-Jerusalém, Jerusalém, que matas aos profetas, e apedrejas aos que te são enviados: quantas vezes eu quis juntar teus filhos, como a galinha junta seus pintos debaixo de suas azas, e não quisestes?
+Jerusalém, Jerusalém, que matas aos profetas, e apedrejas aos que te são enviados: quantas vezes eu quis juntar teus 
+filhos, como a galinha junta seus pintos debaixo de suas asas, e não quisestes?
 \v Lc.13.35
 Eis que vossa casa é deixada deserta para vós. E em verdade vos digo, que não me vereis até que venha 
 \added

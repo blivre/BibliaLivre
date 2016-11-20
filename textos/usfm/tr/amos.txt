@@ -1,4 +1,4 @@
-﻿\id AMO B�blia Livre - Textus Receptus
+﻿\id AMO Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Amós
 \toc1 Amós
@@ -80,7 +80,7 @@
 \v 10 Enviei entre vós a pestilência, à maneira do Egito; matei à espada vossos rapazes, e deixei que capturassem vossos cavalos; e fiz subir o mau cheiro de vossos exércitos até vossas narinas; contudo não vos convertestes a mim,diz o SENHOR.
 \v 11 Transtornei a alguns dentre vós, como quando Deus transtornou a Sodoma e a Gomorra, e fostes como tição escapado do fogo; contudo não vos convertestes a mim, diz o SENHOR.
 \v 12 Portanto assim farei a ti, ó Israel; e visto que te farei isto, ó Israel, prepara-te para te encontrares com teu Deus.
-\v 13 Porque eis que ele é que forma os montes, cria o vento, e informa seu pensamento ao ser humano; ele é o que torna a manhã em trevas, e pisa sobre as alturas da terra; o EU-SOU, o Deus dos exércitos, é o seu nome.
+\v 13 Porque eis que ele é que forma os montes, cria o vento, e informa seu pensamento ao ser humano; ele é o que torna a manhã em trevas, e pisa sobre as alturas da terra; EU-SOU, o Deus dos exércitos, é o seu nome.
 
 \c 5
 \p

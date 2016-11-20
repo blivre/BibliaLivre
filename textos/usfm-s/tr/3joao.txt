@@ -1,0 +1,26 @@
+﻿\id 3JN Bíblia Livre - Textus Receptus
+\ide UTF-8
+\h 3 João
+\toc1 Terceira Carta de João
+\toc2 3 João
+\toc3 3Jo
+\mt Terceira Carta de João
+
+
+\c 1
+
+\v 1 O ancião, ao amado Gaio, a quem amo em verdade.
+\v 2 Amado, eu desejo que estejas bem em todas as coisas, e que tenhas saúde, assim como bem está a tua alma.
+\v 3 Pois muito me alegrei quando irmãos chegaram, e testemunharam da tua verdade, como tu andas na verdade.
+\v 4 Não tenho maior alegria do que esta: a de ouvir que meus filhos andam na verdade.
+\v 5 Amado, tu ages fielmente em tudo o que fazes aos irmãos, inclusive aos forasteiros.
+\v 6 Estes, diante da igreja, testemunharam do teu amor; aos quais, tu agirás bem ao supri-los de modo digno da vontade de Deus.
+\v 7 Pois foi por causa do Nome dele que partiram em jornada, sem nada aceitar dos gentios. 
+\v 8 Portanto devemos acolher tais pessoas, para que sejamos cooperadores da verdade.
+\v 9 Eu tenho escrito  aos da igreja; porém Diótrefes, que busca ser o comandante deles, não nos recebe.
+\v 10 Por isso, se eu vier, trarei à memória os seus feitos, falando ele contra nós com palavras maliciosas; e não satisfeito com isso, não recebe aos irmãos, proíbe aos que se dispõem a fazer, e os expulsa da igreja.
+\v 11 Amado, não imites o mal, mas sim o bem. Quem faz o bem é de Deus, mas quem faz o mal nunca viu Deus.
+\v 12 Demétrio tem alcançado bom testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e vós sabeis  que o nosso testemunho é verdadeiro.
+\v 13 Eu tinha muitas coisas para escrever, porém não quero escrever a ti sobre elas com tinta e pena;
+\v 14 mas espero te ver em breve, e falaremos face a face.
+\v 15 Paz seja contigo. Os amigos daqui te saúdam. Saúda os amigos daí,cada um por nome.

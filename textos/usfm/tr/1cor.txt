@@ -1,4 +1,4 @@
-﻿\id 1CO B�blia Livre - Textus Receptus
+﻿\id 1CO Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 1 Coríntios
 \toc1 Primeira Carta de Paulo aos Coríntios
@@ -369,7 +369,7 @@
 \v 7 Tudo aguenta, tudo crê, tudo espera, tudo suporta.
 \v 8 O amor nunca falha. Porém as profecias serão aniquiladas; as línguas acabarão, e o conhecimento será aniquilado.
 \v 9 Porque em parte conhecemos, e em parte profetizamos;
-\v 10 Mas quando vier o \add que é\add*  perfeito, então o que é em parte será aniquilado.
+\v 10 Mas quando vier o \add que é\add*  completo,\add Ou: perfeito\add*  então o que é em parte será aniquilado.
 \v 11 Quando eu era menino, falava como menino, sentia como menino, pensava como menino; mas quando me tornei homem, aniquilei as coisas de menino.
 \v 12 Porque agora vemos por espelho em enigma, mas então \add veremos\add*  face a face; agora conheço em parte, mas então conhecerei assim como sou conhecido.
 \v 13 E agora continuam a fé, a esperança, \add e\add*  o amor, estes três; porém o maior destes é o amor.

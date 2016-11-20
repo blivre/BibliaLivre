@@ -1,0 +1,78 @@
+﻿\id 2PE Bíblia Livre - Textus Receptus
+\ide UTF-8
+\h 2 Pedro
+\toc1 Segunda Carta Universal de Pedro
+\toc2 2 Pedro
+\toc3 2Pd
+\mt Segunda Carta Universal de Pedro
+
+
+\c 1
+
+\v 1 Simão Pedro, servo e apóstolo de Jesus Cristo, aos que obtiveram conosco a igualmente preciosa fé pela justiça de nosso Deus e Salvador Jesus Cristo;
+\v 2 Graça e paz vos seja multiplicada pelo conhecimento de Deus, e de Jesus nosso Senhor.
+\v 3 Como seu divino poder ele tem nos dado tudo o que pertence à vida e à devoção, por meio do conhecimento daquele que nos chamou à glória e virtude;
+\v 4 Pelas quais nos são dadas grandíssimas e preciosas promessas, para que por meio delas sejais participantes da natureza divina, tendo escapado da corrupção que há no mundo pelo mau desejo.
+\v 5 E por isso mesmo, pondo todo o empenho, acrescentai a vossa fé virtude; e à virtude, conhecimento;
+\v 6 E ao conhecimento, domínio próprio; e ao domínio próprio, paciência; e à paciência, devoção;
+\v 7 E à devoção, amor fraternal; e ao amor fraternal, amor.
+\v 8 Porque se em vós existirem e abundarem estas coisas, elas não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo.
+\v 9 Porque aquele em quem não há estas coisas é cego, nada vendo de longe, tendo se esquecido da purificação de seus antigos pecados.
+\v 10 Portanto, irmãos, procurai ainda mais confirmar vosso chamamento e escolha da parte de Deus ; porque fazendo isso nunca tropeçareis.
+\v 11 Porque assim vos será abundantemente fornecida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo.
+\v 12 Por isso eu não deixarei de sempre vos relembrar destas coisas, ainda que as saibais, e estejais firmes na verdade presente.
+\v 13 E eu considero justo, enquanto eu estiver neste tabernáculo, de vos despertar com relembranças;
+\v 14 Sabendo que breve está a saída do meu meu tabernáculo, conforme também nosso Senhor Jesus Cristo tem revelado a mim.
+\v 15 Mas também procurarei que depois de minha partida vós sejais capazes de ter lembrança destas coisas.
+\v 16 Porque nós não vos anunciamos o poder e vinda de nosso Senhor Jesus Cristo seguindo mitos criados pela inteligência humana, mas sim como testemunhas oculares de sua grandiosidade.
+\v 17 Porque de Deus Pai ele recebeu honra e glória, tendo sido lhe enviada tal voz de magnífica glória:	Este é meu amado Filho, em quem me agrado.
+\v 18 E nós ouvimos esta voz enviada do Céu, estando nós com ele no santo monte.
+\v 19 E temos a muito confiável palavra dos profetas; a qual vós fazeis bem ao prestardes atenção, como a uma luz que ilumina em lugar escuro, até que o dia clareie e a estrela da manhã se levante em vossos corações.
+\v 20 Sabendo primeiramente isto: que nenhuma profecia da Escritura é de interpretação particular.
+\v 21 Porque a profecia jamais foi produzida pela vontade humana, mas os santos homens de Deus falaram conduzidos pelo Espírito Santo.
+
+\c 2
+
+\v 1 E também houve falsos profetas entre o povo, assim como também haverá falsos instrutores entre vós, que disfarçadamente introduzirão heresias de perdição, e negarão ao Senhor que os comprou, trazendo sobre eles mesmos repentina destruição.
+\v 2 Muitos seguirão suas perdições, e por meio deles o caminho da verdade será insultado.
+\v 3 E por ganância, eles vos farão de mercadoria com palavras falsamente inventadas; sobre os quais desde muito tempo não está a condenação sem efeito, e sua perdição não cochila.
+\v 4 Porque se Deus não perdoou aos anjos que pecaram, em vez disso lançando-os no inferno, entregou-os às cadeias da escuridão, tendo sido reservados para o julgamento;
+\v 5 Nem perdoou ao mundo antigo, mas guardou a Noé, anunciador da justiça, com outros sete, trazendo o dilúvio sobre o mundo dos perversos;
+\v 6 E condenou as cidades de Sodoma e Gomorra à destruição, reduzindo-as a cinza, e pondo -as como exemplo para aqueles que vivessem perversamente;
+\v 7 E livrou ao justo Ló, que estava cansado do corrupto modo de viver dos maus.
+\v 8 (Porque, enquanto aquele justo habitava entre eles, todo dia ele atormentava sua justa alma, ao ver e ouvir as injustas obras deles ).
+\v 9  Assim o Senhor sabe livrar aos devotos das tentações, e reservar aos injustos para o dia do julgamento, para serem punidos.
+\v 10 Porém principalmente aos que segundo a carne andam em mau desejo de impureza, e desprezam as autoridades; atrevidos, agradando a si mesmos, não tendo medo de insultar as coisas dignas de glórias.
+\v 11 Ainda que até os anjos, sendo maiores em força e poder, não trazem juízo insultuoso contra elas diante do Senhor.
+\v 12 Mas estes, como animais irracionais, que seguem a natureza, gerados para a prisão e destruição, insultando aquilo que não entendem, perecerão na corrupção deles;
+\v 13 Recebendo o pagamento da injustiça, tendo como prazer seus maus desejos durante o dia, sendo manchas e defeitos, tendo prazer em seus enganos, participando do banquete convosco;
+\v 14 Tendo os olhos cheios de adultério, e nunca parando de pecar; iludindo as almas inconstantes, tendo o coração exercitado na ganância, filhos da maldição;
+\v 15 Que, tendo deixado o caminho direito, se desviaram, seguindo o caminho de Balaão, filho de Bosor, que amou o pagamento da injustiça.
+\v 16 Mas ele teve a repreensão de sua transgressão; o mudo animal de jugo, falando em voz humana, impediu a loucura do profeta.
+\v 17 Estes são fontes sem água, nuvens levadas pela tempestade; para os quais a escuridão das trevas está reservada para sempre.
+\v 18 Porque ao falarem coisas muito arrogantes de vaidade, iludem com os maus desejos da carne, e com perversões, aqueles que já tinham realmente escapado dos que andam no erro.
+\v 19 Prometendo-lhes liberdade, mas sendo eles mesmos servos da corrupção; porque aquele de quem alguém é vencido, do tal também se faz servo.
+\v 20 Porque se, por causa do conhecimento do Senhor e Salvador Jesus Cristo, tiverem escapado das imundícies do mundo, e novamente se envolverem nelas, e forem vencidos, o fim será pior que o começo.
+\v 21 Porque melhor teria lhes sido se não tivessem conhecido o caminho da justiça do que, depois de conhecerem, terem se desviado do santo mandamento que havia lhes sido entregue.
+\v 22 Mas isto lhes sobreveio conforme um verdadeiro provérbio, que diz :	O cão voltou ao seu próprio vômito; e a porca lavada voltou ao chiqueiro da lama.
+
+\c 3
+
+\v 1 Amados, eu já vos escrevo esta segunda carta, em ambas as quais eu desperto vosso sincero entendimento por meio da relembrança;
+\v 2 Para que vos lembreis das palavras que anteriormente foram ditas pelos santos profetas, e do nosso mandamento, dos apóstolos do Senhor e Salvador.
+\v 3 Sabendo primeiro isto: que nos últimos dias virão escarnecedores, andando segundo seus próprios maus desejos,
+\v 4 E dizendo:	Onde está a promessa da vinda dele? Pois desde que os pais dormiram, todas as coisas 	continuam como desde o princípio da criação.
+\v 5 Porque eles ignoram isto por sua própria vontade, que pela palavra de Deus desde os tempos antigos é que foram os céus, e que a terra saiu da água, e sobre a água continua.
+\v 6 Pelas quais o mundo anterior foi destruído, coberto com as águas do dilúvio.
+\v 7 E os céus e a terra que são agora, pela mesma palavra estão reservados, e são guardados para o fogo até o dia do juízo, e da perdição dos homens perversos.
+\v 8 Mas amados, desta uma coisa não ignoreis: que um dia para o Senhor é como mil anos, e mil anos como um dia.
+\v 9 O Senhor não é tardio em sua promessa (como alguns a consideram tardia); mas ele é paciente para conosco, não querendo que alguns pereçam, mas sim que todos venham ao arrependimento.
+\v 10 Mas o dia do Senhor virá como um ladrão durante a noite, no qual os céus se desfarão com grande estrondo, e os elementos queimando se dissolverão, e a terra e as obras que nela há serão queimadas.
+\v 11  Dado,pois, que todas estas coisas estão para serem desfeitas, o tipo de pessoas que vós deveis ser é em santo comportamento e piedade,
+\v 12 Esperando, e tendo pressa para a vinda do dia de Deus, pelo qual os céus, ao serem incendiados se desfarão, e os elementos ao serem inflamados se derreterão.
+\v 13 Porém, segundo sua promessa, aguardamos novos céus e nova terra, em que a justiça habita.
+\v 14 Por isso, amados, aguardando essas coisas, procurai que por ele sejais achados incontaminados e irrepreensíveis em paz;
+\v 15 E considerai como salvação a paciência de nosso Senhor; assim como também nosso irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada;
+\v 16 Como também em duas as suas cartas, ele fala nelas destas coisas; entre as quais há algumas coisas difíceis de entender, as quais os ignorantes e os inconstantes distorcem, assim como também as outras Escrituras, para a própria perdição deles.
+\v 17 Portanto vós, amados, sabendo disto com antecedência, guardai-vos para que, pelo engano dos maus, não sejais juntamente arrebatados, e caiais de vossa firmeza.
+\v 18 Mas crescei em graça e conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja a glória, tanto agora como no dia da eternidade, Amém!

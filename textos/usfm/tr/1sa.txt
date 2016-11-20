@@ -1,4 +1,4 @@
-﻿\id 1SA B�blia Livre - Textus Receptus
+﻿\id 1SA Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 1 Samuel
 \toc1 Primeiro Livro de Samuel

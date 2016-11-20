@@ -1019,15 +1019,16 @@ Nem quem fale encantamentos, nem quem pergunte a espírito, nem mágico, nem que
 \v Dt.18.12
 Porque é abominação ao SENHOR qualquer um que faz estas coisas, e por estas abominações o SENHOR teu Deus as expulsou de diante de ti.
 \v Dt.18.13
-Perfeito serás com o SENHOR teu Deus.
+Serás íntegro com o SENHOR teu Deus.
 \v Dt.18.14
-Porque estas nações que hás de herdar, a encantadores e feiticeiros ouviam: mas tu, não assim te deu o SENHOR teu Deus.
+Pois essas nações que herdarás ouviam encantadores e feiticeiros. A ti, porém, o SENHOR teu Deus não te permitiu isso.
 \v Dt.18.15
-Profeta do meio de ti, de teus irmãos, como eu, te levantará o SENHOR teu Deus: a ele ouvireis:
+O SENHOR teu Deus suscitará para ti um Profeta do meio de ti, de teus irmãos, como eu; a ele deverás ouvir.
 \v Dt.18.16
-Conforme tudo o que pediste ao SENHOR teu Deus em Horebe no dia da assembleia, dizendo: Não volte eu a ouvir a voz do SENHOR meu Deus, nem veja eu mais este grande fogo, para que não morra.
+Conforme tudo o que pediste ao SENHOR teu Deus em Horebe no dia da assembleia, dizendo: Não volte eu a ouvir a voz do 
+SENHOR meu Deus, nem veja eu mais este grande fogo, para que não morra;
 \v Dt.18.17
-E o SENHOR me disse: Bem disseram.
+e o SENHOR me disse: Bem disseram.
 \v Dt.18.18
 Profeta lhes suscitarei do meio de seus irmãos, como tu; e porei minhas palavras em sua boca, e ele lhes falará tudo o que eu lhe mandar.
 \v Dt.18.19
@@ -1747,13 +1748,24 @@ Escutai, céus, e falarei; E ouça a terra os ditos de minha boca.
 \v Dt.32.2
 Gotejará como a chuva minha doutrina; Destilará como o orvalho meu discurso; Como o chuvisco sobre a grama, E como as gotas sobre a erva:
 \v Dt.32.3
-Porque o nome do SENHOR invocarei: Engrandecei a nosso Deus.
+Porque invocarei o nome do SENHOR; Engrandecei ao nosso Deus.
 \v Dt.32.4
-Ele é a Rocha, cuja obra é perfeita, Porque todos os seus caminhos são retidão: Deus de verdade, e nenhuma iniquidade nele: É justo e reto.
+\added
+Ele é
+\*added
+ a Rocha, sua obra é perfeita, pois todos os seus caminhos são justos. Deus fiel, e sem imoralidade; justo e correto 
+ele é.
 \v Dt.32.5
-A corrupção não é sua: a seus filhos a mancha deles, Geração distorcida e perversa.
+Corromperam-se contra ele; não são seus filhos, a falha é deles.
+/fn
+/key
+Corromperam-se ... é deles
+/*key
+obscuro
+/*fn
+ São uma geração perversa e distorcida.
 \v Dt.32.6
-Assim pagais ao SENHOR, Povo louco e ignorante? Não é ele teu pai que te possuiu? Ele te fez e te estabeleceu.
+É assim que pagais ao SENHOR, ó povo tolo e insensato? Não é ele teu pai que te adquiriu, te fez, e te estabeleceu?
 \v Dt.32.7
 Lembra-te dos tempos antigos; Considerai os anos de geração e geração: Pergunta a teu pai, que ele te declarará; A teus anciãos, e eles te dirão.
 \v Dt.32.8

@@ -1117,7 +1117,7 @@ E o SENHOR falou a Moisés, dizendo:
 \v Nm.15.2
 Fala aos filhos de Israel, e dize-lhes: Quando houverdes entrado na terra de vossas habitações, que eu vos dou,
 \v Nm.15.3
-E fizerdes oferta acesa ao SENHOR, holocausto, ou sacrifício, por especial voto, ou de vossa vontade, ou para fazer em vossas solenidades cheiro suave ao SENHOR, de vacas ou de ovelhas;
+E fizerdes oferta de queima ao SENHOR, holocausto, ou sacrifício, por especial voto, ou de vossa vontade, ou para fazer em vossas solenidades cheiro suave ao SENHOR, de vacas ou de ovelhas;
 \v Nm.15.4
 Então o que oferecer sua oferta ao SENHOR, trará por oferta de cereais uma dízima de um efa de flor de farinha, amassada com a quarta parte de um him de azeite;
 \v Nm.15.5
@@ -1131,15 +1131,15 @@ E quando oferecerdes novilho em holocausto ou sacrifício, por especial voto, ou
 \v Nm.15.9
 Oferecerás com o novilho uma oferta de cereais de três dízimas de flor de farinha, amassada com a metade de um him de azeite:
 \v Nm.15.10
-E de vinho para a libação oferecerás a metade de um him, em oferta acesa de cheiro suave ao SENHOR.
+E de vinho para a libação oferecerás a metade de um him, em oferta de queima de cheiro suave ao SENHOR.
 \v Nm.15.11
 Assim se fará com cada um boi, ou carneiro, ou cordeiro, o mesmo de ovelhas que de cabras.
 \v Nm.15.12
 Conforme o número assim fareis com cada um segundo o número deles.
 \v Nm.15.13
-Todo natural fará estas coisas assim, para oferecer oferta acesa de cheiro suave ao SENHOR.
+Todo natural fará estas coisas assim, para oferecer oferta de queima de cheiro suave ao SENHOR.
 \v Nm.15.14
-E quando habitar convosco estrangeiro, ou qualquer um que estiver entre vós por vossas gerações, se fizer oferta acesa de cheiro suave ao SENHOR, como vós fizerdes, assim fará ele.
+E quando habitar convosco estrangeiro, ou qualquer um que estiver entre vós por vossas gerações, se fizer oferta de queima de cheiro suave ao SENHOR, como vós fizerdes, assim fará ele.
 \v Nm.15.15
 Um mesmo estatuto tereis, vós da congregação e o estrangeiro que convosco mora; estatuto que será perpétuo por vossas gerações: como vós, assim será o peregrino diante do SENHOR.
 \v Nm.15.16
@@ -1161,7 +1161,7 @@ Todas as coisas que o SENHOR vos mandou pela mão de Moisés, desde o dia que o 
 \v Nm.15.24
 Será que, se o pecado foi feito por acidente com ignorância da congregação, toda a congregação oferecerá um novilho por holocausto, em cheiro suave ao SENHOR, com sua oferta de cereais e sua libação, conforme a lei; e um bode macho em expiação.
 \v Nm.15.25
-E o sacerdote fará expiação por toda a congregação dos filhos de Israel; e lhes será perdoado, porque acidente é: e eles trarão seus ofertas, oferta acesa ao SENHOR, e suas expiações diante do SENHOR, por seus erros:
+E o sacerdote fará expiação por toda a congregação dos filhos de Israel; e lhes será perdoado, porque acidente é: e eles trarão seus ofertas, oferta de queima ao SENHOR, e suas expiações diante do SENHOR, por seus erros:
 \v Nm.15.26
 E será perdoado a toda a congregação dos filhos de Israel, e ao estrangeiro que peregrina entre eles, porquanto é acidente de todo o povo.
 \v Nm.15.27
@@ -1353,7 +1353,7 @@ Todo o que abrir madre em toda carne que oferecerão ao SENHOR, tanto de homens 
 \v Nm.18.16
 E de um mês farás efetuar o resgate deles, conforme tua avaliação, por preço de cinco siclos, ao siclo do santuário, que é de vinte óbolos.
 \v Nm.18.17
-Mas o primogênito de vaca, e o primogênito de ovelha, e o primogênito de cabra, não resgatarás; santificados são: o sangue deles espargirás sobre o altar, e queimarás a gordura deles, oferta acesa em cheiro suave ao SENHOR.
+Mas o primogênito de vaca, e o primogênito de ovelha, e o primogênito de cabra, não resgatarás; santificados são: o sangue deles espargirás sobre o altar, e queimarás a gordura deles, oferta de queima em cheiro suave ao SENHOR.
 \v Nm.18.18
 E a carne deles será tua: como o peito da oferta movida e como a coxa direita, será tua.
 \v Nm.18.19
@@ -1387,9 +1387,10 @@ E quando vós houverdes oferecido disso o melhor seu, não levareis por ele peca
 \v Nm.19.1
 E o SENHOR falou a Moisés e a Arão, dizendo:
 \v Nm.19.2
-Esta é a ordenança da lei que o SENHOR prescreveu, dizendo: Dize aos filhos de Israel que te tragam uma vaca vermelha, perfeita, na qual não haja falta, sobre a qual não se tenha posto jugo:
+Esta é a ordenança da lei que o SENHOR prescreveu, dizendo: Dize aos filhos de Israel que te tragam uma novilha 
+vermelha, sem defeito, que não tenha mancha, sobre a qual não se tenha posto jugo;
 \v Nm.19.3
-E a dareis a Eleazar o sacerdote, e ele a tirará fora do acampamento, e a fará degolar em sua presença.
+e a dareis ao sacerdote Eleazar. Ele a tirará fora do acampamento, e a fará degolar em sua presença.
 \v Nm.19.4
 E tomará Eleazar o sacerdote de seu sangue com seu dedo, e espargirá até a dianteira do tabernáculo do testemunho com o sangue dela sete vezes;
 \v Nm.19.5
@@ -1951,15 +1952,17 @@ E se seu pai não tiver irmãos, dareis sua herança a seu parente mais próximo
 \v Nm.27.12
 E o SENHOR disse a Moisés: Sobe a este monte Abarim, e verás a terra que dei aos filhos de Israel.
 \v Nm.27.13
-E depois que a houverdes visto, tu também serás reunido a teus povos, como foi reunido teu irmão Arão:
+E depois que a houverdes visto, tu também serás recolhido ao teus povo, como foi reunido o teu irmão Arão;
 \v Nm.27.14
-Pois fostes rebeldes a meu dito no deserto de Zim, na briga da congregação, para santificar-me nas águas à vista deles. Estas são as águas da briga de Cades no deserto de Zim.
+pois fostes rebeldes no deserto de Zim, no conflito da congregação, ao meu mandado de me santificar nas águas à vista 
+deles. Essas são as águas do conflito de Cades no deserto de Zim.
 \v Nm.27.15
-Então respondeu Moisés ao SENHOR, dizendo:
+Então Moisés respondeu ao SENHOR:
 \v Nm.27.16
-Ponha o SENHOR, Deus dos espíritos de toda carne, homem sobre a congregação,
+Que o SENHOR, Deus dos espíritos de toda carne, ponha um homem sobre a congregação,
 \v Nm.27.17
-Que saia diante deles, e que entre diante deles, que os tire e os introduza; para que a congregação do SENHOR não seja como ovelhas sem pastor.
+que saia diante deles, que entre diante deles, que os faça sair e os faça entrar; para que a congregação do SENHOR 
+não seja como ovelhas sem pastor.
 \v Nm.27.18
 E o SENHOR disse a Moisés: Toma a Josué filho de Num, homem no qual há espírito, e porás tua mão sobre ele;
 \v Nm.27.19
@@ -1975,19 +1978,20 @@ E pôs sobre ele suas mãos, e deu-lhe ordens, como o SENHOR havia mandado por m
 \v Nm.28.1
 E falou o SENHOR a Moisés, dizendo:
 \v Nm.28.2
-Manda aos filhos de Israel, e dize-lhes: Mi oferta, meu pão com minhas ofertas acendidas em cheiro a mim agradável, guardareis, oferecendo-me a seu tempo.
+Manda aos filhos de Israel, e dize-lhes: Da minha oferta, do meu pão com as minhas ofertas de queima em cheiro a mim 
+agradável, tereis cuidado, para as oferecer a mim no tempo devido.
 \v Nm.28.3
-E lhes dirás: Esta é a oferta acesa que oferecereis ao SENHOR: dois cordeiros sem mácula de ano, cada dia, será o holocausto contínuo.
+E lhes dirás: Esta é a oferta de queima que oferecereis ao SENHOR: dois cordeiros sem mácula de ano, cada dia, será o holocausto contínuo.
 \v Nm.28.4
 Um cordeiro oferecerás pela manhã, e o outro cordeiro oferecerás entre as duas tardes:
 \v Nm.28.5
 E a décima de um efa de flor de farinha, amassada com uma quarta parte de um him de azeite prensado, em oferta de cereais.
 \v Nm.28.6
-É holocausto contínuo, que foi feito no monte Sinai em cheiro suave, oferta acesa ao SENHOR.
+É holocausto contínuo, que foi feito no monte Sinai em cheiro suave, oferta de queima ao SENHOR.
 \v Nm.28.7
 E sua libação, a quarta parte de um him com cada cordeiro: derramarás libação de superior vinho ao SENHOR no santuário.
 \v Nm.28.8
-E oferecerás o segundo cordeiro entre as duas tardes: conforme a oferta da manhã, e conforme sua libação oferecerás, oferta acesa em cheiro suave ao SENHOR.
+E oferecerás o segundo cordeiro entre as duas tardes: conforme a oferta da manhã, e conforme sua libação oferecerás, oferta de queima em cheiro suave ao SENHOR.
 \v Nm.28.9
 Mas no dia do sábado dois cordeiros de ano sem defeito, e duas dízimas de flor de farinha amassada com azeite, por oferta de cereais, com sua libação:
 \v Nm.28.10
@@ -1997,7 +2001,7 @@ E nos princípios de vossos meses oferecereis em holocausto ao SENHOR dois bezer
 \v Nm.28.12
 E três dízimas de flor de farinha amassada com azeite, por oferta de cereais com cada bezerro; e duas dízimas de flor de farinha amassada com azeite, por oferta de cereais com cada carneiro;
 \v Nm.28.13
-E uma dízima de flor de farinha amassada com azeite, em oferta de cereais com cada cordeiro: holocausto de cheiro suave, oferta acesa ao SENHOR.
+E uma dízima de flor de farinha amassada com azeite, em oferta de cereais com cada cordeiro: holocausto de cheiro suave, oferta de queima ao SENHOR.
 \v Nm.28.14
 E suas libações de vinho, meio him com cada bezerro, e o terço de um him com cada carneiro, e a quarta parte de um him com cada cordeiro. Este é o holocausto de cada mês por todos os meses do ano.
 \v Nm.28.15
@@ -2009,7 +2013,7 @@ E aos quinze dias deste mês, a solenidade: por sete dias se comerão pães ázi
 \v Nm.28.18
 No primeiro dia, santa convocação; nenhuma obra servil fareis:
 \v Nm.28.19
-E oferecereis por oferta acesa em holocausto ao SENHOR dois bezerros das vacas, e um carneiro, e sete cordeiros de ano: sem defeito os tomareis:
+E oferecereis por oferta de queima em holocausto ao SENHOR dois bezerros das vacas, e um carneiro, e sete cordeiros de ano: sem defeito os tomareis:
 \v Nm.28.20
 E sua oferta de cereais de farinha amassada com azeite: três dízimas com cada bezerro, e duas dízimas com cada carneiro oferecereis;
 \v Nm.28.21
@@ -2019,7 +2023,7 @@ E um bode macho por expiação, para reconciliar-vos.
 \v Nm.28.23
 Isto oferecereis além do holocausto da manhã, que é o holocausto contínuo.
 \v Nm.28.24
-Conforme isto oferecereis cada um dos sete dias, comida e oferta acesa em cheiro suave ao SENHOR; oferecer-se há, além do holocausto contínuo, com sua libação.
+Conforme isto oferecereis cada um dos sete dias, comida e oferta de queima em cheiro suave ao SENHOR; oferecer-se há, além do holocausto contínuo, com sua libação.
 \v Nm.28.25
 E no sétimo dia tereis santa convocação: nenhuma obra servil fareis.
 \v Nm.28.26
@@ -2045,7 +2049,7 @@ E com cada um dos sete cordeiros, uma dízima;
 \v Nm.29.5
 E um bode macho por expiação, para reconciliar-vos:
 \v Nm.29.6
-Além do holocausto do mês, e sua oferta de cereais, e o holocausto contínuo e sua oferta de cereais, e suas libações, conforme sua lei, por oferta acesa ao SENHOR em cheiro suave.
+Além do holocausto do mês, e sua oferta de cereais, e o holocausto contínuo e sua oferta de cereais, e suas libações, conforme sua lei, por oferta de queima ao SENHOR em cheiro suave.
 \v Nm.29.7
 E no dez deste mês sétimo tereis santa convocação, e afligireis vossas almas: nenhuma obra fareis:
 \v Nm.29.8
@@ -2059,7 +2063,7 @@ Um bode macho por expiação: além da oferta das expiações pelo pecado, e do 
 \v Nm.29.12
 Também aos quinze dias do mês sétimo tereis santa convocação; nenhuma obra servil fareis, e celebrareis solenidade ao SENHOR por sete dias;
 \v Nm.29.13
-E oferecereis em holocausto, em oferta acesa ao SENHOR em cheiro suave, treze bezerros das vacas, dois carneiros, catorze cordeiros de ano: hão de ser sem defeito;
+E oferecereis em holocausto, em oferta de queima ao SENHOR em cheiro suave, treze bezerros das vacas, dois carneiros, catorze cordeiros de ano: hão de ser sem defeito;
 \v Nm.29.14
 E as ofertas de cereais deles, de flor de farinha amassada com azeite, três dízimas com cada um dos treze bezerros, duas dízimas com cada um dos dois carneiros,
 \v Nm.29.15
@@ -2105,7 +2109,7 @@ E um bode macho por expiação: além do holocausto contínuo, com sua oferta de
 \v Nm.29.35
 No oitavo dia tereis solenidade: nenhuma obra servil fareis:
 \v Nm.29.36
-E oferecereis em holocausto, em oferta acesa de cheiro suave ao SENHOR, um novilho, um carneiro, sete cordeiros de ano sem defeito;
+E oferecereis em holocausto, em oferta de queima de cheiro suave ao SENHOR, um novilho, um carneiro, sete cordeiros de ano sem defeito;
 \v Nm.29.37
 Suas ofertas de cereais e suas libações com o novilho, com o carneiro, e com os cordeiros, segundo o número deles, conforme a lei;
 \v Nm.29.38
@@ -2275,9 +2279,9 @@ Que subiram até o vale de Escol, e depois que viram a terra, preocuparam o âni
 \v Nm.32.10
 E o furor do SENHOR se acendeu então, e jurou dizendo:
 \v Nm.32.11
-Que não verão os homens que subiram do Egito de vinte anos acima, a terra pela qual jurei a Abraão, Isaque, e Jacó, porquanto não foram perfeitos em me seguir;
+Os homens que subiram do Egito de vinte anos acima não verão a terra pela qual jurei a Abraão, Isaque, e Jacó, pois não me seguiram por completo;
 \v Nm.32.12
-Exceto Calebe, filho de Jefoné quenezeu, e Josué filho de Num, que foram perfeitos em seguir ao SENHOR.
+exceto Calebe, filho do quenezeu Jefoné, e Josué filho de Num, que seguiram por completo ao SENHOR.
 \v Nm.32.13
 E o furor do SENHOR se acendeu em Israel, e os fez andar errantes quarenta anos pelo deserto, até que foi acabada toda aquela geração, que havia feito mal diante do SENHOR.
 \v Nm.32.14

@@ -224,7 +224,7 @@
 \d Cântico de Davi:\p
 
 \v 1 Guarda-me, ó Deus; porque eu confio em ti.
-\v 2 Tu, \add alma minha\add* ,disseste ao SENHOR: Tu és meu Senhor; minha bondade não \add chega\add*  até ti.
+\v 2 Tu, \add minha alma\add* , disseste ao SENHOR: Tu és meu Senhor; minha bondade não \add chega\add*  até ti.
 \v 3  \add Mas\add*  aos santos que \add estão\add*  na terra, e \add a\add*  os ilustres, nos quais está todo o meu prazer.
 \v 4 As dores se multiplicarão daqueles que se apressam \add para servir\add*  a outros \add deuses\add*  ; eu não oferecerei seus sacrifícios de derramamento de sangue, e não tomarei seus nomes em meus lábios.
 \v 5 O SENHOR é a porção da minha herança e o meu cálice; tu sustentas a minha sorte.
@@ -317,7 +317,7 @@
 \v 4 Por toda a terra sai sua corda, e suas palavras até o fim do mundo; para o sol ele pôs uma tenda neles.
 \v 5 E ele \add é\add*  como o noivo, que sai de sua câmara; \add e\add*  se alegra como um homem valente, para correr \add seu\add*  caminho.
 \v 6 Desde uma extremidade dos céus \add é\add*  sua saída, e seu curso até as \add outras\add*  extremidades deles; e nada se esconde de seu calor.
-\v 7 A Lei do SENHOR é perfeita, \add e\add*  restaura a alma; o testemunho do SENHOR é fiel, \add e\add*  da sabedoria aos simples.
+\v 7 A lei do SENHOR é perfeita, \add e\add*  restaura a alma; o testemunho do SENHOR é fiel, \add e\add*  da sabedoria aos simples.
 \v 8 Os preceitos do SENHOR são corretos, \add e\add*  alegram ao coração; o mandamento do SENHOR é puro, \add e\add*  ilumina aos olhos.
 \v 9 O temor ao SENHOR é limpo, \add e\add*  permanece para sempre; os juízos do SENHOR são verdade; juntamente são justos.
 \v 10 \add São\add*  mais desejáveis que ouro, mais do que muito ouro fino; e mais doces que o mel, e o licor de seus favos.
@@ -794,13 +794,13 @@
 \v 2 Minha alma tem sede de Deus, do Deus vivente: Quando entrarei, e me apresentarei diante de Deus?
 \v 3 Minhas lágrimas têm sido \add meu\add*  alimento dia e noite, porque o dia todo me dizem: Onde \add está\add*  o teu Deus?
 \v 4 Disto eu me lembro, e derramo minha alma em mim \add com choros\add* ,porque eu ia entre a multidão, \add e\add*  com eles entrava na casa de Deus, com voz de alegria e louvor, na festa da multidão.
-\v 5 Alma minha, por que tu estás abatida, e te inquietas em mim? Espera em Deus; pois eu o louvarei pelas suas salvações.  \f + \fq sua salvações \ft lit. salvações de sua face  \f* 
+\v 5 Minha alma, por que tu estás abatida, e te inquietas em mim? Espera em Deus; pois eu o louvarei pelas suas salvações.  \f + \fq sua salvações \ft lit. salvações de sua face  \f* 
 \v 6 Deus meu, minha alma está abatida dentro de mim; por isso eu me lembro de ti desde a terra do Jordão, e dos hermonitas, desde o monte Mizar.
 \v 7 Um abismo chama \add outro\add*  abismo, ao ruído de suas cascatas; todos as tuas ondas e vagas têm passado sobre mim.
 \v 8  \add Mas\add*  de dia o SENHOR mandará sua misericórdia, e de noite a canção dele estará comigo; uma oração ao Deus de minha vida.
 \v 9 Direi a Deus, minha rocha: Por que tu te esqueces de mim? Por que eu ando em sofrimento pela opressão do inimigo?
 \v 10 Meus adversários me afrontam com uma ferida mortal em meus ossos, ao me dizerem todo dia: Onde \add está\add*  o teu Deus?
-\v 11 Por que estás abatida, alma minha? E por que te inquietas em mim? Espera em Deus; porque eu ainda o louvarei; ele é a minha salvação  \f + \fq minha salvação \ft lit. salvação de minha face  \f* e o meu Deus.
+\v 11 Por que estás abatida, minha alma? E por que te inquietas em mim? Espera em Deus; porque eu ainda o louvarei; ele é a minha salvação  \f + \fq minha salvação \ft lit. salvação de minha face  \f* e o meu Deus.
 
 \c 43
 \p
@@ -809,7 +809,7 @@
 \v 2 Pois tu és o Deus de minha força. Por que tu me rejeitas? Por que ando em sofrimento pela opressão do inimigo?
 \v 3 Envia tua luz e tua verdade, para que elas me guiem, para que me levem ao monte de tua santidade e a tuas habitações;
 \v 4 E eu entre ao altar de Deus, ao Deus da minha maior alegria, e eu te louve com harpa, ó Deus, meu Deus.
-\v 5 Por que estás abatida, alma minha? E por que te inquietas em mim? Espera em Deus, porque eu ainda o louvarei; ele é a minha salvação  \f + \fq minha salvação \ft lit. salvação de minha face  \f* e o meu Deus.
+\v 5 Por que estás abatida, minha alma? E por que te inquietas em mim? Espera em Deus, porque eu ainda o louvarei; ele é a minha salvação  \f + \fq minha salvação \ft lit. salvação de minha face  \f* e o meu Deus.
 
 \c 44
 \d Instrução para o regente; dos filhos de Coré:\p
@@ -990,7 +990,7 @@
 \v 3 Tu amas mais o mal que o bem, \add e\add*  a mentira mais do que falar justiça. (Selá)
 \v 4 Tu amas todas as palavras de destruição, ó língua enganadora.
 \v 5 Porém Deus te derrubará para sempre; ele te tomará, e te arrancará para fora da tenda; e te eliminará de toda a terra dos viventes. (Selá)
-\v 6 E os justos \add o\add*  verão, e temerão; e rirão dele, \add dizendo\add*  :
+\v 6 E os justos \add o\add*  verão, e temerão; e rirão dele, \add dizendo\add* :
 \v 7 Eis aqui o homem que não pôs sua força em Deus, mas \add preferiu\add*  confiar a abundância de suas riquezas, e fortaleceu em sua maldade.
 \v 8 Mas eu \add serei\add*  como a oliveira verde na casa de Deus; confio na bondade de Deus para todo o sempre.
 \v 9 Eu te louvarei para sempre, por causa do que fizeste; e terei esperança em teu nome, porque tu és bom perante teus santos.
@@ -1012,7 +1012,7 @@
 \v 2 Deus, ouve minha oração; inclina teus ouvidos aos dizeres de minha boca;
 \v 3 Porque estranhos se levantam contra mim, e \add homens\add*  terríveis procuram \add matar\add*  a minha alma; não põem a Deus diante dos olhos deles. (Selá)
 \v 4 Eis que Deus é o que me socorre; o Senhor \add está\add*  com aqueles que sustentam a minha alma.
-\v 5 Ele retribuirá com o mal aos que me espiam \add contra mim\add*  ; tu os elimina por tua verdade.
+\v 5 Ele retribuirá com o mal aos que me espiam \add contra mim\add* ; tu os elimina por tua verdade.
 \v 6 De boa vontade eu te oferecerei sacrifícios; louvarei o teu nome, SENHOR, porque é bom.
 \v 7 Porque tu tens me livrado de toda angústia; e meus olhos verão \add o fim\add*  de meus inimigos.
 
@@ -1032,7 +1032,7 @@
 \v 11 Coisas destrutivas \add estão\add*  dentro dela; e a falsidade e o engano não sai de suas praças.
 \v 12 Porque não \add é\add*  um inimigo o que me insulta, pois \add se fosse\add*  eu o suportaria; nem é alguém que me odeia o que se engrandece contra mim, pois \add se fosse\add*  eu me esconderia dele.
 \v 13 Mas és tu, homem semelhante a mim; meu guia, e meu conhecido;
-\v 14 Que juntos agradavelmente dávamos conselhos \add um ao outro\add*  ; na casa de Deus andávamos entre a multidão.
+\v 14 Que juntos agradavelmente dávamos conselhos \add um ao outro\add* ; na casa de Deus andávamos entre a multidão.
 \v 15 Que a morte os tome de surpresa, \add e\add*  desçam ao mundo dos mortos \add ainda\add*  vivos; porque maldades há na morada deles, e no interior de cada um deles.
 \v 16 Eu clamarei a Deus, e o SENHOR me salvará.
 \v 17 À tarde, e pela manhã, e ao meio dia, orarei e clamarei; e ele ouvirá a minha voz.
@@ -1146,7 +1146,7 @@
 \v 2 Certamente ele \add é\add*  minha rocha, minha salvação e meu refúgio; não serei muito abalado.
 \v 3 Até quando atacareis um homem? Todos vós sereis mortos; \add sereis\add*  como um parede tombada e uma cerca derrubada.
 \v 4 Eles somente tomam conselhos sobre como lançá-lo abaixo de sua alta posição; agradam-se de mentiras; falam bem com suas bocas, mas amaldiçoam em seus interiores. (Selá)
-\v 5 Tu, porém, ó alma minha, aquieta-te em Deus; porque ele \add é\add*  minha esperança.
+\v 5 Tu, porém, ó minha alma, aquieta-te em Deus; porque ele \add é\add*  minha esperança.
 \v 6 Certamente ele \add é\add*  minha rocha, minha salvação \add e\add*  meu refúgio; não me abalarei.
 \v 7 Em Deus \add está\add*  minha salvação e minha glória; em Deus \add está\add*  minha força e meu refúgio.
 \v 8 Confiai, povo, nele em todo o tempo; derramai vosso coração diante dele; Deus \add é\add*  nosso refúgio. (Selá)
@@ -1242,11 +1242,11 @@
 \v 1 Deus se levantará, \add e\add*  seus inimigos serão dispersos, e os que o odeiam fugirão de sua presença.
 \v 2 Assim como a fumaça se espalha, tu os espalharás; assim como a cera que se derrete diante do fogo, \add assim também\add*  os perversos perecerão diante de Deus.
 \v 3 Mas os justos se alegrarão, \add e\add*  saltarão de prazer perante Deus, e se encherão de alegria.
-\v 4 Cantai a Deus, cantai louvores ao nome dele; exaltai aquele que anda montado sobre as nuvens, porque o nome dele é EU-SOU, e alegrai \add -vos\add*  perante ele.
-\v 5  \add Ele é\add*  o pai dos órfãos, e juiz que defende as viúvas; Deus na habitação de sua santidade.
+\v 4 Cantai a Deus, cantai louvores ao seu nome; exaltai aquele que anda montado sobre as nuvens, pois EU-SOU é o seu nome; e alegrai \add -vos\add*  diante dele.
+\v 5 \add Ele é\add*  o pai dos órfãos, e juiz que defende as viúvas; Deus na habitação de sua santidade.
 \v 6 Deus que faz os solitários viverem em uma família, e liberta os prisioneiros; mas os rebeldes habitam em terra seca.
 \v 7 Deus, quando tu saías perante teu povo, enquanto caminhavas pelo deserto (Selá),
-\v 8 A terra se abalava, e os céus se derramavam perante a presença de Deus; \add n\add*  este Sinai, perante a presença de Deus, o Deus de Israel.
+\v 8 A terra se abalava, e os céus se derramavam perante a presença de Deus; neste Sinai, diante da presença de Deus, o Deus de Israel.
 \v 9 Tu fizeste a chuva cair abundantemente, e firmaste tu herança, que estava cansada.
 \v 10 Nela o teu rebanho habitou; por tua bondade, Deus, sustentaste ao miserável.
 \v 11 O Senhor falou; havia um grande exército de anunciadoras de boas notícias.
@@ -1615,7 +1615,7 @@
 \v 5 Ele o pôs como testemunho em José, quando tinha saído contra a terra do Egito, \add onde\add*  ouvi \add n\add*  uma língua que eu não entendia:
 \v 6 Tirei seus ombros de debaixo da carga; suas mãos foram livrados dos cestos.
 \v 7 Na angústia clamaste, e livrei-te dela; te respondi no esconderijo dos trovões; provei a ti nas águas de Meribá. (Selá)
-\v 8 Ouve \add -me\add* ,povo meu, e eu te darei testemunho; ó Israel, se tu me ouvisses!
+\v 8 Ouve \add -me\add* , povo meu, e eu te darei testemunho; ó Israel, se tu me ouvisses!
 \v 9 Não haverá entre ti deus estranho, e não te prostrarás a um deus estrangeiro.
 \v 10 Eu sou o SENHOR teu Deus, que te fiz subir da terra do Egito; abre tua boca por completo, e eu a encherei.
 \v 11 Mas meu povo não ouviu minha voz, e Israel não me quis.
@@ -1649,7 +1649,7 @@
 \v 7 De Gebal, e de Amom, e de Amaleque; dos filisteus, com os moradores de Tiro.
 \v 8 A Assíria também se aliou a eles; eles foram a força dos filhos de Ló. (Selá)
 \v 9 Faze a eles como a Midiã, como a Sísera, como a Jabim no ribeiro de Quisom,
-\v 10  \add Que\add*  pereceram em Endor; vieram a ser esterco da terra.
+\v 10 \add Que\add*  pereceram em Endor; vieram a ser esterco da terra.
 \v 11 Faze a eles \add e\add*  a seus nobres como a Orebe, e como Zeebe; e a todos os seus príncipes como a Zebá, e como a Zalmuna,
 \v 12 Que disseram: Tomemos posse para nós dos terrenos de Deus.
 \v 13 Deus meu, faze-os como a um redemoinho, como a palhas perante o vento;
@@ -1666,7 +1666,7 @@
 \v 2 Minha alma está desejosa, ao ponto de desmaiar, pelos pátios do SENHOR; meu coração e minha carne clamam ao Deus vivente.
 \v 3 Até o pardal acha casa, e a andorinha ninho para si, onde ponha filhotes perto de teus altares, ó SENHOR dos exércitos, Rei meu e Deus meu.
 \v 4 Bem-aventurados os que habitam em tua casa; eles louvam a ti continuamente. (Selá)
-\v 5 Bem-aventurado o homem cuja força está em ti, em cujos corações estão os caminhos \add para tua habitação\add*  .
+\v 5 Bem-aventurado o homem cuja força está em ti, em cujos corações estão os caminhos \add para tua habitação\add* .
 \v 6 Passando pelo Vale de Baca, \add teus caminhos\add*  fornecem uma fonte; a chuva também os cobrirá abundantemente.
 \v 7 Vão indo de força em força; \add cada um deles\add*  aparecerá diante de Deus em Sião.
 \v 8 SENHOR Deus dos exércitos, escuta minha oração; inclina os teus ouvidos, ó Deus de Jacó. (Selá)
@@ -1685,7 +1685,7 @@
 \v 5 Ficarás tu irritado contra nós para sempre? Continuarás tua ira de geração em geração?
 \v 6 Não voltarás tu a nos reviver, para que teu povo se alegre em ti?
 \v 7 Mostra-nos tua bondade, SENHOR, e dá para nós tua salvação.
-\v 8 Escutarei o que o Deus EU-SOU falar, porque ele falará de paz ao seu povo, e aos seus santos, contanto que não voltem à loucura.
+\v 8 Escutarei o que o Deus, o SENHOR, falar, pois ele falará de paz ao seu povo, e aos seus santos, contanto que não voltem à loucura.
 \v 9 Certamente sua salvação está perto daqueles que o temem, para que a glória habite em nossa terra.
 \v 10 A bondade e a verdade se encontrarão; a justiça e a paz se beijarão.
 \v 11 A verdade brotará da terra, e a justiça olhará desde os céus.
@@ -2028,8 +2028,8 @@
 \c 103
 \d Salmo de Davi:\p
 
-\v 1 Louva ao SENHOR, ó alma minha; e que todo o meu interior \add louve\add*  ao seu santo nome.
-\v 2 Louva ao SENHOR, ó alma minha; e não te esqueças de nenhum dos benefícios dele;
+\v 1 Louva ao SENHOR, ó minha alma; e que todo o meu interior \add louve\add*  ao seu santo nome.
+\v 2 Louva ao SENHOR, ó minha alma; e não te esqueças de nenhum dos benefícios dele;
 \v 3 Que perdoa todas as tuas perversidades, e te sara de todas as tuas enfermidades.
 \v 4 Que resgata tua vida da perdição; que te coroa com bondade e misericórdia.
 \v 5 Que farta tua boca de coisas boas, e tua juventude é renovada como a águia.
@@ -2049,12 +2049,12 @@
 \v 19 O SENHOR firmou o seu trono nos céus, e seu reino domina sobre tudo.
 \v 20 Bendizei ao SENHOR, ó anjos dele; vós, fortes valentes, que guardais sua palavra, ao ouvirem a voz de sua palavra.
 \v 21 Bendizei ao SENHOR todos os seus exércitos; vós que servis a ele, que fazeis o que lhe agrada.
-\v 22 Bendizei ao SENHOR todas as suas obras, em todos os lugares de seu domínio; louva, alma minha, ao SENHOR!
+\v 22 Bendizei ao SENHOR todas as suas obras, em todos os lugares de seu domínio; louva, minha alma, ao SENHOR!
 
 \c 104
 \p
 
-\v 1 Louva, alma minha, ao SENHOR; ó SENHOR meu Deus, tu és grandioso; de majestade e de glória estás vestido.
+\v 1 Louva, minha alma, ao SENHOR; ó SENHOR meu Deus, tu és grandioso; de majestade e de glória estás vestido.
 \v 2 Tu estás coberto de luz, como que uma roupa; estendes os céus como cortinas.
 \v 3 Ele, que fixou seus cômodos sobre as águas; que faz das nuvens sua carruagem; que se move sobre as asas do vento.
 \v 4 Que faz de seus anjos ventos, e de seus servos fogo flamejante.
@@ -2088,7 +2088,7 @@
 \v 32  \add Quando\add*  ele olha para a terra, \add logo\add*  ela treme; \add quando\add*  ele toca nos montes, eles soltam fumaça.
 \v 33 Cantarei ao SENHOR em \add toda\add*  a minha vida; tocarei música ao meu Deus enquanto eu existir.
 \v 34 Meus pensamentos lhe serão agradáveis; eu me alegrarei no SENHOR.
-\v 35 Os pecadores serão consumidos da terra, e os maus não existirão mais. Bendizei, ó alma minha, ao SENHOR! Aleluia!
+\v 35 Os pecadores serão consumidos da terra, e os maus não existirão mais. Bendizei, ó minha alma, ao SENHOR! Aleluia!
 
 \c 105
 \p
@@ -2253,7 +2253,7 @@
 \v 10 Quem me levará a uma cidade fortificada? Quem me guiará até Edom?
 \v 11 Por acaso não serás tu, ó Deus? Tu que tinha nos rejeitado, e não saías \add mais\add*  com nossos exércitos?
 \v 12 Dá-nos ajuda \add para livrarmos\add*  da angústia, porque o socorro humano é inútil.
-\v 12 Em Deus faremos proezas; e ele atropelará nossos adversários.
+\v 13 Em Deus faremos proezas; e ele pisoteará nossos adversários.
 
 \c 109
 \d Salmo de Davi, para o regente:\p
@@ -2385,7 +2385,7 @@
 \v 4 Mas clamei ao nome do SENHOR, \add dizendo\add*  : Ah SENHOR, livra minha alma!
 \v 5 O SENHOR é piedoso e justo; e nosso Deus é misericordioso.
 \v 6 O SENHOR protege os simples; eu estava com graves problemas, mas ele me livrou.
-\v 7 Alma minha, volta ao teu descanso, pois o SENHOR tem te tratado bem.
+\v 7 Minha alma, volta ao teu descanso, pois o SENHOR tem te tratado bem.
 \v 8 Porque tu, \add SENHOR\add* ,livraste minha alma da morte, meus olhos das lágrimas, e meu pé do tropeço.
 \v 9 Andarei diante do SENHOR na terra dos viventes.
 \v 10 Eu cri, por isso falei; estive muito aflito.
@@ -2992,7 +2992,7 @@
 \c 146
 \p
 
-\v 1 Aleluia! Louva ao SENHOR, ó alma minha!
+\v 1 Aleluia! Louva ao SENHOR, ó minha alma!
 \v 2 Louvarei ao SENHOR durante \add toda\add*  a minha vida; cantarei louvores a meu Deus enquanto eu \add existir\add*  .
 \v 3 Não ponhas tua confiança em príncipes; em filhos de homens, em quem não há salvação.
 \v 4 O espírito dele \add s\add*  sai, e volta para sua terra; naquele mesmo dia seus pensamentos perecem.

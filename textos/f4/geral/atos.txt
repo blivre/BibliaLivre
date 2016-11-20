@@ -310,7 +310,8 @@ Mas vós negastes ao santo e justo, e pedistes que um homem assassino fosse vos 
 \v At.3.15
 E vós matastes ao Príncipe da vida, ao qual Deus ressuscitou dos mortos, do que nós somos testemunhas.
 \v At.3.16
-E pela fé em seu nome, o nome dele deu firmeza a este, que vedes e conheceis; e a fé que é por meio dele deu a este perfeita saúde na presença de todos vós.
+E pela fé em seu nome, o nome dele deu firmeza a este, que vedes e conheceis; e a fé que é por meio dele deu a este 
+perfeita saúde na presença de todos vós.
 \v At.3.17
 E agora, irmãos, eu sei que vós fizestes 
 \added
@@ -376,7 +377,7 @@ E pondo-os no meio, perguntaram
 \added
 -lhes
 \*added
- : Por meio de que poder ou por qual nome vós fizestes isto?
+: Por meio de que poder ou por qual nome vós fizestes isto?
 \v At.4.8
 Então Pedro, cheio do Espírito Santo, lhes disse: Chefes do povo, e anciões de Israel,
 \v At.4.9
@@ -402,7 +403,7 @@ E vendo estar com eles o homem que tinha sido curado, nada tinham a dizer contra
 \added
 eles
 \*added
- .
+.
 \v At.4.15
 E mandando-os saírem fora do Conselho, discutiam entre si,
 \v At.4.16
@@ -432,13 +433,13 @@ E eles, tendo sido soltos, vieram aos seus
 \added
 companheiros
 \*added
-,e lhes contaram tudo o que os chefes dos sacerdotes e os anciãos tinham lhes dito.
+, e lhes contaram tudo o que os chefes dos sacerdotes e os anciãos tinham lhes dito.
 \v At.4.24
 E eles, ao ouvirem 
 \added
 isto
 \*added
-,levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas as coisas que neles há;
+, levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas as coisas que neles há;
 \v At.4.25
 Que{tr,rp: pela}{n4: pelo Espírito Santo 
 \fn

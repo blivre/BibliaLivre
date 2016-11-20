@@ -683,9 +683,9 @@ Guarda-me, ó Deus; porque eu confio em ti.
 \v Sl.16.2
 Tu, 
 \added
-alma minha
+minha alma
 \*added
-,disseste ao SENHOR: Tu és meu Senhor; minha bondade não 
+, disseste ao SENHOR: Tu és meu Senhor; minha bondade não 
 \added
 chega
 \*added
@@ -1031,7 +1031,7 @@ outras
 \*added
  extremidades deles; e nada se esconde de seu calor.
 \v Sl.19.7
-A Lei do SENHOR é perfeita, 
+A lei do SENHOR é perfeita, 
 \added
 e
 \*added
@@ -2691,7 +2691,7 @@ e
 \*added
  com eles entrava na casa de Deus, com voz de alegria e louvor, na festa da multidão.
 \v Sl.42.5
-Alma minha, por que tu estás abatida, e te inquietas em mim? Espera em Deus; pois eu o louvarei pelas suas salvações. 
+Minha alma, por que tu estás abatida, e te inquietas em mim? Espera em Deus; pois eu o louvarei pelas suas salvações. 
 \fn
 \key
 sua salvações
@@ -2721,7 +2721,7 @@ está
 \*added
  o teu Deus?
 \v Sl.42.11
-Por que estás abatida, alma minha? E por que te inquietas em mim? Espera em Deus; porque eu ainda o louvarei; ele é a minha salvação 
+Por que estás abatida, minha alma? E por que te inquietas em mim? Espera em Deus; porque eu ainda o louvarei; ele é a minha salvação 
 \fn
 \key
 minha salvação
@@ -2738,7 +2738,7 @@ Envia tua luz e tua verdade, para que elas me guiem, para que me levem ao monte 
 \v Sl.43.4
 E eu entre ao altar de Deus, ao Deus da minha maior alegria, e eu te louve com harpa, ó Deus, meu Deus.
 \v Sl.43.5
-Por que estás abatida, alma minha? E por que te inquietas em mim? Espera em Deus, porque eu ainda o louvarei; ele é a minha salvação 
+Por que estás abatida, minha alma? E por que te inquietas em mim? Espera em Deus, porque eu ainda o louvarei; ele é a minha salvação 
 \fn
 \key
 minha salvação
@@ -3326,7 +3326,7 @@ o
 \added
 dizendo
 \*added
- :
+:
 \v Sl.52.7
 Eis aqui o homem que não pôs sua força em Deus, mas 
 \added
@@ -3400,7 +3400,7 @@ Ele retribuirá com o mal aos que me espiam
 \added
 contra mim
 \*added
- ; tu os elimina por tua verdade.
+; tu os elimina por tua verdade.
 \v Sl.54.6
 De boa vontade eu te oferecerei sacrifícios; louvarei o teu nome, SENHOR, porque é bom.
 \v Sl.54.7
@@ -3471,7 +3471,7 @@ Que juntos agradavelmente dávamos conselhos
 \added
 um ao outro
 \*added
- ; na casa de Deus andávamos entre a multidão.
+; na casa de Deus andávamos entre a multidão.
 \v Sl.55.15
 Que a morte os tome de surpresa, 
 \added
@@ -3908,7 +3908,7 @@ sereis
 \v Sl.62.4
 Eles somente tomam conselhos sobre como lançá-lo abaixo de sua alta posição; agradam-se de mentiras; falam bem com suas bocas, mas amaldiçoam em seus interiores. (Selá)
 \v Sl.62.5
-Tu, porém, ó alma minha, aquieta-te em Deus; porque ele 
+Tu, porém, ó minha alma, aquieta-te em Deus; porque ele 
 \added
 é
 \*added
@@ -4262,13 +4262,13 @@ e
 \*added
  saltarão de prazer perante Deus, e se encherão de alegria.
 \v Sl.68.4
-Cantai a Deus, cantai louvores ao nome dele; exaltai aquele que anda montado sobre as nuvens, porque o nome dele é EU-SOU, e alegrai 
+Cantai a Deus, cantai louvores ao seu nome; exaltai aquele que anda montado sobre as nuvens, pois EU-SOU é o seu nome; 
+e alegrai 
 \added
 -vos
 \*added
- perante ele.
+ diante dele.
 \v Sl.68.5
- 
 \added
 Ele é
 \*added
@@ -4278,11 +4278,8 @@ Deus que faz os solitários viverem em uma família, e liberta os prisioneiros; 
 \v Sl.68.7
 Deus, quando tu saías perante teu povo, enquanto caminhavas pelo deserto (Selá),
 \v Sl.68.8
-A terra se abalava, e os céus se derramavam perante a presença de Deus; 
-\added
-n
-\*added
- este Sinai, perante a presença de Deus, o Deus de Israel.
+A terra se abalava, e os céus se derramavam perante a presença de Deus; neste Sinai, diante da presença de Deus, o 
+Deus de Israel.
 \v Sl.68.9
 Tu fizeste a chuva cair abundantemente, e firmaste tu herança, que estava cansada.
 \v Sl.68.10
@@ -5543,7 +5540,7 @@ Ouve
 \added
 -me
 \*added
-,povo meu, e eu te darei testemunho; ó Israel, se tu me ouvisses!
+, povo meu, e eu te darei testemunho; ó Israel, se tu me ouvisses!
 \v Sl.81.9
 Não haverá entre ti deus estranho, e não te prostrarás a um deus estrangeiro.
 \v Sl.81.10
@@ -5613,7 +5610,6 @@ A Assíria também se aliou a eles; eles foram a força dos filhos de Ló. (Sel�
 \v Sl.83.9
 Faze a eles como a Midiã, como a Sísera, como a Jabim no ribeiro de Quisom,
 \v Sl.83.10
- 
 \added
 Que
 \*added
@@ -5654,7 +5650,7 @@ Bem-aventurado o homem cuja força está em ti, em cujos corações estão os ca
 \added
 para tua habitação
 \*added
- .
+.
 \v Sl.84.6
 Passando pelo Vale de Baca, 
 \added
@@ -5711,7 +5707,8 @@ Não voltarás tu a nos reviver, para que teu povo se alegre em ti?
 \v Sl.85.7
 Mostra-nos tua bondade, SENHOR, e dá para nós tua salvação.
 \v Sl.85.8
-Escutarei o que o Deus EU-SOU falar, porque ele falará de paz ao seu povo, e aos seus santos, contanto que não voltem à loucura.
+Escutarei o que o Deus, o SENHOR, falar, pois ele falará de paz ao seu povo, e aos seus santos, contanto que não 
+voltem à loucura.
 \v Sl.85.9
 Certamente sua salvação está perto daqueles que o temem, para que a glória habite em nossa terra.
 \v Sl.85.10
@@ -6606,13 +6603,13 @@ seguros
 Salmo de Davi:
 \*psalm-title
 \v Sl.103.1
-Louva ao SENHOR, ó alma minha; e que todo o meu interior 
+Louva ao SENHOR, ó minha alma; e que todo o meu interior 
 \added
 louve
 \*added
  ao seu santo nome.
 \v Sl.103.2
-Louva ao SENHOR, ó alma minha; e não te esqueças de nenhum dos benefícios dele;
+Louva ao SENHOR, ó minha alma; e não te esqueças de nenhum dos benefícios dele;
 \v Sl.103.3
 Que perdoa todas as tuas perversidades, e te sara de todas as tuas enfermidades.
 \v Sl.103.4
@@ -6672,9 +6669,9 @@ Bendizei ao SENHOR, ó anjos dele; vós, fortes valentes, que guardais sua palav
 \v Sl.103.21
 Bendizei ao SENHOR todos os seus exércitos; vós que servis a ele, que fazeis o que lhe agrada.
 \v Sl.103.22
-Bendizei ao SENHOR todas as suas obras, em todos os lugares de seu domínio; louva, alma minha, ao SENHOR!
+Bendizei ao SENHOR todas as suas obras, em todos os lugares de seu domínio; louva, minha alma, ao SENHOR!
 \v Sl.104.1
-Louva, alma minha, ao SENHOR; ó SENHOR meu Deus, tu és grandioso; de majestade e de glória estás vestido.
+Louva, minha alma, ao SENHOR; ó SENHOR meu Deus, tu és grandioso; de majestade e de glória estás vestido.
 \v Sl.104.2
 Tu estás coberto de luz, como que uma roupa; estendes os céus como cortinas.
 \v Sl.104.3
@@ -6818,7 +6815,7 @@ toda
 \v Sl.104.34
 Meus pensamentos lhe serão agradáveis; eu me alegrarei no SENHOR.
 \v Sl.104.35
-Os pecadores serão consumidos da terra, e os maus não existirão mais. Bendizei, ó alma minha, ao SENHOR! Aleluia!
+Os pecadores serão consumidos da terra, e os maus não existirão mais. Bendizei, ó minha alma, ao SENHOR! Aleluia!
 \v Sl.105.1
 Agradecei ao SENHOR, chamai o seu nome; anunciai suas obras entre os povos.
 \v Sl.105.2
@@ -7298,8 +7295,8 @@ Dá-nos ajuda
 para livrarmos
 \*added
  da angústia, porque o socorro humano é inútil.
-\v Sl.108.12
-Em Deus faremos proezas; e ele atropelará nossos adversários.
+\v Sl.108.13
+Em Deus faremos proezas; e ele pisoteará nossos adversários.
 \psalm-title
 Salmo de Davi, para o regente:
 \*psalm-title
@@ -7628,7 +7625,7 @@ O SENHOR é piedoso e justo; e nosso Deus é misericordioso.
 \v Sl.116.6
 O SENHOR protege os simples; eu estava com graves problemas, mas ele me livrou.
 \v Sl.116.7
-Alma minha, volta ao teu descanso, pois o SENHOR tem te tratado bem.
+Minha alma, volta ao teu descanso, pois o SENHOR tem te tratado bem.
 \v Sl.116.8
 Porque tu, 
 \added
@@ -9597,7 +9594,7 @@ ser feito de
 \*added
  carne louvará seu santo nome para todo o sempre.
 \v Sl.146.1
-Aleluia! Louva ao SENHOR, ó alma minha!
+Aleluia! Louva ao SENHOR, ó minha alma!
 \v Sl.146.2
 Louvarei ao SENHOR durante 
 \added

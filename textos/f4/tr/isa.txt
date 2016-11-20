@@ -2000,7 +2000,7 @@ Abri as portas, para que por elas entre a nação justa, que guarda fidelidades.
 \v Is.26.3
 Tu guardarás em completa paz aquele que tem firme entendimento, pois ele confia em ti.
 \v Is.26.4
-Confiai no SENHOR para sempre, pois no SENHOR EU-SOU está a rocha eterna.
+Confiai no SENHOR para sempre, pois no SENHOR DEUS está a rocha eterna.
 \v Is.26.5
 Pois ele abate aos que habitam em lugares altos, a cidade elevada; certamente ele a abaixará até o chão, e a derrubará até o pó.
 \v Is.26.6
@@ -2866,7 +2866,11 @@ E seus ribeiros se tornarão em piche, e seu solo em enxofre; e sua terra em pic
 \v Is.34.10
 Nem de noite, nem de dia se apagará, para sempre sua fumaça subirá; de geração em geração será assolada; para todo o sempre ninguém passará por ela.
 \v Is.34.11
-Mas o pelicano e a coruja tomarão posse dela, a ave selvagem e o corvo nela habitarão; pois
+Mas o pelicano e a coruja tomarão posse dela, a ave selvagem e o corvo
+\fn
+Os nomes dos animais são incertos, inclusive nos versículos seguintes
+\*fn
+ nela habitarão; pois
 \added
 o SENHOR
 \*added
@@ -2877,7 +2881,6 @@ ruína
 \*key
 lit. esvaziamento ou vazio – Almeida 1819 vaidade
 \*fn
- nomes dos animais são todos incertos, inclusive nos vv. seguintes %fn|
 \v Is.34.12
 Chamarão ao seus nobres ao reino, porém nenhum haverá ali; e todos os seus príncipes se tornarão coisa nenhuma.
 \v Is.34.13
@@ -3543,9 +3546,8 @@ tal coisa
 \added
 coisa alguma
 \*added
-,nem quem ouça vossas palavras.
+, nem quem ouça vossas palavras.
 \v Is.41.27
- 
 \added
 Eu sou
 \*added
@@ -3572,7 +3574,7 @@ Ele não gritará, nem levantará
 \added
 seu clamor
 \*added
- ; ele não fará ouvir sua voz nas ruas.
+; ele não fará ouvir sua voz nas ruas.
 \v Is.42.3
 A cana esmagada ele não quebrará, nem apagará o pavio que fumega; com a verdade ele trará justiça.
 \v Is.42.4
@@ -3584,7 +3586,8 @@ doutrina
 i.e., ensinamento; trad. alt. lei
 \*fn
 \v Is.42.5
-Assim diz o Deus EU-SOU, que criou os céus, e os esticou; estendeu a terra, e a tudo quanto ela produz; que dá respiração ao povo que nela 
+Assim diz Deus, o SENHOR, que criou os céus, e os esticou; estendeu a terra, e a tudo quanto ela produz; que dá 
+respiração ao povo que nela 
 \added
 habita
 \*added
@@ -3598,11 +3601,7 @@ tirar
 \*added
  do cárcere os que habitam em trevas.
 \v Is.42.8
-Eu 
-\added
-me chamo
-\*added
- EU-SOU; este é o meu nome! E minha glória não darei a outro, nem meu louvor às imagens de escultura.
+Eu, EU-SOU; este é o meu nome! Não darei a minha glória a outro, nem o meu louvor às imagens de escultura.
 \v Is.42.9
 Eis que as coisas anteriores já aconteceram; e as novas eu 
 \added
@@ -3659,7 +3658,6 @@ farei
 \*added
  direitas; estas coisas lhes farei, e nunca os desampararei.
 \v Is.42.17
- 
 \added
 Mas
 \*added
@@ -3671,12 +3669,9 @@ e
 \v Is.42.18
 Surdos, ouvi; e vós cegos, olhai para que possais ver.
 \v Is.42.19
-Quem é cego, senão meu servo? E surdo como meu mensageiro, a quem envio? Quem é cego como o perfeito,
+Quem é cego, senão o meu servo? Ou surdo, como o meu mensageiro, a quem envio? Quem é cego como o aliançado,
 \fn
-\key
-perfeito
-\*key
-obscuro – trad. alt. o [meu] aliançado, ou o [meu] dedicado
+obscuro
 \*fn
  e cego como o servo do SENHOR?
 \v Is.42.20
@@ -4585,7 +4580,7 @@ essa
 \v Is.51.14
 O preso logo será solto, e não morrerá na cova, nem seu pão lhe faltará.
 \v Is.51.15
-Pois eu sou o SENHOR teu Deus, que divido o mar, e bramam suas ondas; o EU-SOU dos exércitos é o seu nome.
+Pois eu sou o SENHOR teu Deus, que divido o mar, e bramam suas ondas. EU-SOU dos exércitos é o seu nome.
 \v Is.51.16
 E ponho minhas palavras em tua boca, e te cubro com a sombra de minha mão; para plantar os céus, e para fundar a terra, e para dizer a Sião: Tu és meu povo.
 \v Is.51.17
@@ -4603,19 +4598,17 @@ Os teus filhos desmaiaram, jazem nas entradas de todos os caminhos, como um ant�
 \v Is.51.21
 Portanto agora ouve isto, ó oprimida e embriagada, mas não de vinho:
 \v Is.51.22
-Assim diz o teu Senhor, o EU-SOU, e teu Deus, que defende a causa de seu povo: eis que eu tomo da tua mão o cálice do cambaleio, os resíduos do cálice de meu furor; nunca mais o beberás.
+Assim diz o teu Senhor, o SENHOR, e teu Deus, que defende a causa de seu povo: eis que eu tomo da tua mão o cálice do 
+cambaleio, os resíduos do cálice de meu furor; nunca mais o beberás.
 \v Is.51.23
 Porém eu o porei nas mãos dos que afligiram, que dizem à tua alma: Abaixa-te, e passaremos sobre 
 \added
 ti
 \*added
- ; E tu abaixas tuas costas como 
-\added
-se fosses
-\*added
- terra, e como caminho aos que passam.
+; e pões as tuas costas como chão, como caminho aos que passam.
 \v Is.52.1
-Desperta-te! Desperta-te! Veste-te de tua força, ó Sião! Veste-te de teus belos vestidos, ó Jerusalém, cidade Santa! Porque nunca mais entrará em ti nem incircunciso nem impuro.
+Desperta-te! Desperta-te! Veste-te de tua força, ó Sião! Veste-te de teus belos vestidos, ó Jerusalém, cidade Santa! 
+Porque nunca mais entrará em ti nem incircunciso nem impuro.
 \v Is.52.2
 Sacode-te do pó, levanta-te, 
 \added

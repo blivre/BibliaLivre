@@ -1,4 +1,4 @@
-﻿\id HOS B�blia Livre - Textus Receptus
+﻿\id HOS Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Oseias
 \toc1 Oseias

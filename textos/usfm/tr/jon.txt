@@ -1,4 +1,4 @@
-﻿\id JON B�blia Livre - Textus Receptus
+﻿\id JON Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Jonas
 \toc1 Jonas

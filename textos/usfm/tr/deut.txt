@@ -1,4 +1,4 @@
-﻿\id DEU B�blia Livre - Textus Receptus
+﻿\id DEU Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Deuteronômio
 \toc1 Deuteronômio
@@ -582,11 +582,11 @@
 \v 10 Não seja achado em ti quem faça passar seu filho ou sua filha pelo fogo, nem praticante de adivinhações, nem agoureiro, nem interpretador de presságios, nem feiticeiro,
 \v 11 Nem quem fale encantamentos, nem quem pergunte a espírito, nem mágico, nem quem pergunte aos mortos.
 \v 12 Porque é abominação ao SENHOR qualquer um que faz estas coisas, e por estas abominações o SENHOR teu Deus as expulsou de diante de ti.
-\v 13 Perfeito serás com o SENHOR teu Deus.
-\v 14 Porque estas nações que hás de herdar, a encantadores e feiticeiros ouviam: mas tu, não assim te deu o SENHOR teu Deus.
-\v 15 Profeta do meio de ti, de teus irmãos, como eu, te levantará o SENHOR teu Deus: a ele ouvireis:
-\v 16 Conforme tudo o que pediste ao SENHOR teu Deus em Horebe no dia da assembleia, dizendo: Não volte eu a ouvir a voz do SENHOR meu Deus, nem veja eu mais este grande fogo, para que não morra.
-\v 17 E o SENHOR me disse: Bem disseram.
+\v 13 Serás íntegro com o SENHOR teu Deus.
+\v 14 Pois essas nações que herdarás ouviam encantadores e feiticeiros. A ti, porém, o SENHOR teu Deus não te permitiu isso.
+\v 15 O SENHOR teu Deus suscitará para ti um Profeta do meio de ti, de teus irmãos, como eu; a ele deverás ouvir.
+\v 16 Conforme tudo o que pediste ao SENHOR teu Deus em Horebe no dia da assembleia, dizendo: Não volte eu a ouvir a voz do SENHOR meu Deus, nem veja eu mais este grande fogo, para que não morra;
+\v 17 e o SENHOR me disse: Bem disseram.
 \v 18 Profeta lhes suscitarei do meio de seus irmãos, como tu; e porei minhas palavras em sua boca, e ele lhes falará tudo o que eu lhe mandar.
 \v 19 Mas será, que qualquer um que não ouvir minhas palavras que ele falar em meu nome, eu lhe exigirei prestar contas.
 \v 20 Porém o profeta que presumir falar palavra em meu nome, que eu não lhe tenha mandado falar, ou que falar em nome de deuses alheios, o tal profeta morrerá.
@@ -1002,10 +1002,10 @@
 
 \v 1 Escutai, céus, e falarei; E ouça a terra os ditos de minha boca.
 \v 2 Gotejará como a chuva minha doutrina; Destilará como o orvalho meu discurso; Como o chuvisco sobre a grama, E como as gotas sobre a erva:
-\v 3 Porque o nome do SENHOR invocarei: Engrandecei a nosso Deus.
-\v 4 Ele é a Rocha, cuja obra é perfeita, Porque todos os seus caminhos são retidão: Deus de verdade, e nenhuma iniquidade nele: É justo e reto.
-\v 5 A corrupção não é sua: a seus filhos a mancha deles, Geração distorcida e perversa.
-\v 6 Assim pagais ao SENHOR, Povo louco e ignorante? Não é ele teu pai que te possuiu? Ele te fez e te estabeleceu.
+\v 3 Porque invocarei o nome do SENHOR; Engrandecei ao nosso Deus.
+\v 4 \add Ele é\add*  a Rocha, sua obra é perfeita, pois todos os seus caminhos são justos. Deus fiel, e sem imoralidade; justo e correto ele é.
+\v 5 Corromperam-se contra ele; não são seus filhos, a falha é deles./fn/keyCorromperam-se ... é deles/*keyobscuro/*fn São uma geração perversa e distorcida.
+\v 6 É assim que pagais ao SENHOR, ó povo tolo e insensato? Não é ele teu pai que te adquiriu, te fez, e te estabeleceu?
 \v 7 Lembra-te dos tempos antigos; Considerai os anos de geração e geração: Pergunta a teu pai, que ele te declarará; A teus anciãos, e eles te dirão.
 \v 8 Quando o Altíssimo fez herdar às nações, Quando fez dividir os filhos dos homens, Estabeleceu os termos dos povos Segundo o número dos filhos de Israel.
 \v 9 Porque a parte do SENHOR é seu povo; Jacó a medida de sua herança.

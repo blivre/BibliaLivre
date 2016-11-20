@@ -1,4 +1,4 @@
-﻿\id DAN B�blia Livre - Textus Receptus
+﻿\id DAN Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Daniel
 \toc1 Daniel

@@ -11,7 +11,7 @@ Segundo Livro de Samuel
 2SA
 \*ubs-code
 \v 2Sm.1.1
-E aconteceu depois da morte de Saul, que voltado Davi da derrota dos amalequitas, esteve dois dias em Ziclague:
+E aconteceu depois da morte de Saul, que quando Davi voltou da derrota dos amalequitas, ficou dois dias em Ziclague;
 \v 2Sm.1.2
 E ao terceiro dia aconteceu, que veio um do acampamento de Saul, rasgadas suas roupas, e terra sobre sua cabeça: e chegando a Davi, prostrou-se em terra, e fez reverência.
 \v 2Sm.1.3
@@ -1227,11 +1227,19 @@ Limpo és para com o limpo, Mas com o perverso és rígido.
 \v 2Sm.22.28
 E tu salvas ao povo humilde; Mas teus olhos sobre os altivos, para abatê-los.
 \v 2Sm.22.29
-Porque tu és minha lâmpada, ó SENHOR: o SENHOR dá luz a minhas trevas.
+Porque tu és minha lâmpada, ó SENHOR; o SENHOR dá luz às minhas trevas.
 \v 2Sm.22.30
-Porque em ti romperei exércitos, E com meu Deus saltarei as muralhas.
+Pois contigo avançarei contra uma tropa, e com o meu Deus saltarei uma muralha.
 \v 2Sm.22.31
-Deus, perfeito seu caminho: A palavra do SENHOR purificada, Escudo é de todos os que nele esperam.
+O caminho de Deus 
+\added
+é
+\*added
+ perfeito; a palavra do SENHOR 
+\added
+é
+\*added
+ purificada, é escudo é de todos os que nele confiam.
 \v 2Sm.22.32
 Porque que Deus há a não ser o SENHOR? Ou quem é forte a não ser nosso Deus?
 \v 2Sm.22.33

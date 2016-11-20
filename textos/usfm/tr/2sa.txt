@@ -1,4 +1,4 @@
-﻿\id 2SA B�blia Livre - Textus Receptus
+﻿\id 2SA Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 2 Samuel
 \toc1 Segundo Livro de Samuel
@@ -10,7 +10,7 @@
 \c 1
 \p
 
-\v 1 E aconteceu depois da morte de Saul, que voltado Davi da derrota dos amalequitas, esteve dois dias em Ziclague:
+\v 1 E aconteceu depois da morte de Saul, que quando Davi voltou da derrota dos amalequitas, ficou dois dias em Ziclague;
 \v 2 E ao terceiro dia aconteceu, que veio um do acampamento de Saul, rasgadas suas roupas, e terra sobre sua cabeça: e chegando a Davi, prostrou-se em terra, e fez reverência.
 \v 3 E perguntou-lhe Davi: De onde vens? E ele respondeu: Eu me escapei do acampamento de Israel.
 \v 4 E Davi lhe disse: Que aconteceu? Rogo-te que me digas. E ele respondeu: O povo fugiu da batalha, e também muitos do povo caíram e foram mortos: também Saul e Jônatas seu filho morreram.
@@ -702,9 +702,9 @@
 \v 26 Com o bom és benigno, E com o íntegro te mostras íntegro;
 \v 27 Limpo és para com o limpo, Mas com o perverso és rígido.
 \v 28 E tu salvas ao povo humilde; Mas teus olhos sobre os altivos, para abatê-los.
-\v 29 Porque tu és minha lâmpada, ó SENHOR: o SENHOR dá luz a minhas trevas.
-\v 30 Porque em ti romperei exércitos, E com meu Deus saltarei as muralhas.
-\v 31 Deus, perfeito seu caminho: A palavra do SENHOR purificada, Escudo é de todos os que nele esperam.
+\v 29 Porque tu és minha lâmpada, ó SENHOR; o SENHOR dá luz às minhas trevas.
+\v 30 Pois contigo avançarei contra uma tropa, e com o meu Deus saltarei uma muralha.
+\v 31 O caminho de Deus \add é\add*  perfeito; a palavra do SENHOR \add é\add*  purificada, é escudo é de todos os que nele confiam.
 \v 32 Porque que Deus há a não ser o SENHOR? Ou quem é forte a não ser nosso Deus?
 \v 33 Deus é o que com virtude me corrobora, e o que tira os obstáculos do meu caminho;
 \v 34 O que faz meus pés como de cervas, E o que me assenta em minhas alturas;

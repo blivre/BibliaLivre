@@ -19,26 +19,46 @@ sejam
 \*added
  convosco.
 \v Ef.1.3
-Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com toda bênção espiritual nos lugares celestes em Cristo;
+Bendito seja o Deus e Pai do nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituis nos lugares 
+celestiais em Cristo.
 \v Ef.1.4
-Assim como nos escolheu nele antes da fundação do mundo, para que sejamos santos e irrepreensíveis diante dele em amor.
+Assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele 
+em amor.
 \v Ef.1.5
-E nos predestinou em adoção de filhos por meio de Jesus Cristo para si mesmo, segundo o que era agradável à sua vontade;
+E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
 \v Ef.1.6
-Para louvor da glória de sua graça, pela qual
- nos agraciou no 
-\added
-seu
-\*added
- Amado;
+para louvor de sua gloriosa graça,
+\fn
+Lit. glória de sua graça
+\*fn
+ pela qual
+ nos agraciou
+\fn
+Isto é, nos tornou aceitáveis
+\*fn
+ no Amado.
 \v Ef.1.7
-No qual temos libertação pelo seu sangue, o perdão dos pecados, segundo as riquezas de sua graça;
+Nele temos a libertação
+\fn
+Ou: redenção, isto é, a libertação por meio do pagamento de um resgate
+\*fn
+ pelo seu sangue, o perdão dos pecados, conforme a sua rica graça,
+\fn
+Lit. as riquezas de sua graça
+\*fn
 \v Ef.1.8
-A qual ele fez abundar em nós em toda sabedoria e prudência,
+que ele fez transbordar em nós em toda sabedoria e prudência.
 \v Ef.1.9
-Revelando-nos o mistério de sua vontade, conforme o que lhe era agradável, o qual propusera em si mesmo;
+E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que propôs nele,
+\fn
+provavelmente em Cristo
+\*fn
 \v Ef.1.10
-Para no plano especial do cumprimento dos tempos, voltar a reunir todas as coisas em Cristo, tanto as que 
+para a administração do cumprimento dos tempos, 
+\added
+isto é,
+\*added
+ voltar a reunir todas as coisas em Cristo, tanto as que 
 \added
 estão
 \*added
@@ -48,217 +68,255 @@ estão
 \*added
  na terra.
 \v Ef.1.11
-Naquele em quem também somos feitos herança, tendo sido predestinados conforme o propósito daquele que opera todas as coisas segundo o conselho de sua vontade.
+Nele também fomos feitos herança, havendo sido predestinados conforme o propósito daquele que faz todas as coisas 
+segundo o conselho da sua vontade,
 \v Ef.1.12
-Para que sejamos louvor de sua glória, nós os que primeiramente esperamos em Cristo.
+para que fôssemos para louvor da sua glória, nós os que primeiro esperamos em Cristo.
 \v Ef.1.13
-Em quem vós também 
-\added
-estais
-\*added
-,depois que ouvistes a palavra da verdade: o Evangelho de vossa salvação; em quem também, tendo crido, fostes selados com o Espírito Santo da promessa.
+E também vós, depois que ouvistes a palavra da verdade, o evangelho da vossa salvação, e nele crestes, nele fostes 
+selados com o Espírito Santo da promessa,
 \v Ef.1.14
-O qual é o penhor de nossa herança, até que 
+que é a garantia da nossa herança, até a libertação
+\fn
+Ou: redenção
+\*fn
+ da propriedade 
 \added
-haja
+de Deus
 \*added
- libertação de 
-\added
-sua
-\*added
- propriedade, para louvor de sua glória.
+, para louvor da sua glória.
 \v Ef.1.15
-Por isso que eu, ouvindo também a fé que há entre vós no Senhor Jesus, e o amor para com todos os santos,
+Por isso eu, desde que ouvi da fé que há entre vós no Senhor Jesus, e do amor a todos os santos,
 \v Ef.1.16
-Não paro de dar graças 
+não paro de agradecer 
 \added
 a Deus
 \*added
- por vós, lembrando-me de vós em minhas orações;
+ por vós, lembrando-me de vós em minhas orações.
 \v Ef.1.17
-Para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê o Espírito de sabedoria, e de revelação em seu conhecimento;
-\v Ef.1.18
- 
 \added
-E sejam
+Oro
 \*added
- iluminados os olhos de vosso entendimento,
- para que saibais qual é a esperança daquilo para que ele vos chamou, e quais as riquezas da glória de sua herança nos santos;
+ para que o Deus de nosso Senhor Jesus Cristo, o Pai glorioso
+\fn
+Lit. Pai da glória
+\*fn
+, vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
+\v Ef.1.18
+e que sejam iluminados os olhos de vosso entendimento,
+ para que conheçais qual é a esperança para a qual ele chamou, quais 
+\added
+são
+\*added
+ as riquezas da herança gloriosa
+\fn
+Lit. glória da herança
+\*fn
+ dele nos santos,
 \v Ef.1.19
-E qual é a superabundante grandeza de seu poder para nós, os que cremos, segundo o agir de sua poderosa força;
+e qual é a superabundante grandeza de seu poder para nós, que cremos, conforme a operação da sua poderosa força.
 \v Ef.1.20
-O qual agiu em Cristo, ressuscitando-o dos mortos; e o colocou à sua direita nos lugares celestes.
+Ele operou essa força
+\fn
+\key
+essa força
+\*key
+Lit. Ele a operou. “essa força” adicionado para aumentar a clareza
+\*fn
+ em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
 \v Ef.1.21
-Acima de todo governo, e autoridade, e poder, e domínio, e 
+acima de todo governo, autoridade, poder, domínio, e 
 \added
 acima
 \*added
- de todo nome que se nomeia, não somente nestes tempos, mas também nos que virão.
+ de todo nome que se nomeia, não só nesta era, mas também na futura.
 \v Ef.1.22
-E ele sujeitou todas as coisas debaixo de seus pés, e lhe deu como cabeça sobre todas as coisas para a Igreja;
+Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas 
+para a Igreja,
 \v Ef.1.23
-A qual é seu corpo, o cumprimento daquele que em todos cumpre tudo.
+que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
 \v Ef.2.1
-E vós, estando mortos em ofensas e pecados,
+E vós estáveis mortos em ofensas e pecados,
 \v Ef.2.2
-Nos quais anteriormente andastes segundo o proceder deste mundo, segundo o chefe da autoridade do ar, do espírito que agora opera nos filhos da desobediência;
+nos quais antes andastes conforme o proceder deste mundo, conforme o príncipe do poder do ar, do espírito que agora 
+opera nos filhos da desobediência.
 \v Ef.2.3
-Entre os quais também todos nós antes andávamos nos desejos de nossa carne, fazendo a vontade da carne e dos 
-\added
-nossos
-\*added
- pensamentos; e éramos filhos da ira por natureza, assim como também os demais.
+Entre esses também todos nós antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; 
+e éramos por natureza filhos da ira, como também os outros.
 \v Ef.2.4
-Mas Deus, que é rico em misericórdia, por seu muito amor com que nos amou,
+Mas Deus, que é rico em misericórdia, pelo seu muito amor com que nos amou,
 \v Ef.2.5
-Estando nós ainda mortos em 
+estando nós ainda mortos em 
 \added
 nossas
 \*added
- ofensas, juntamente com Cristo nos vivificou; pela graça sois salvos.
+ ofensas, nos deu vida juntamente com Cristo (pela graça sois salvos),
 \v Ef.2.6
-E juntamente 
 \added
 nos
 \*added
- ressuscitou, e 
+ ressuscitou, juntamente 
+\added
+com ele
+\*added
+, e 
 \added
 nos
 \*added
- fez sentar nos lugares celestes em Cristo Jesus.
+ fez sentar nos lugares celestiais, em Cristo Jesus;
 \v Ef.2.7
-Para que nos tempos futuros mostrasse as abundantes riquezas de sua graça, por 
+para mostrar nos tempos futuros as abundantes riquezas da sua graça, pela 
 \added
 sua
 \*added
- bondade para conosco em Cristo Jesus.
+ bondade conosco em Cristo Jesus.
 \v Ef.2.8
-Porque pela graça sois salvos, por meio da fé, e isto não 
+Porque pela graça sois salvos, por meio da fé; e isto não 
 \added
 vem
 \*added
- de vós; é dom de Deus.
+ de vós; 
+\added
+é
+\*added
+ dom de Deus;
 \v Ef.2.9
-Não por obras, para que ninguém tenha orgulho de si 
-\added
-mesmo
-\*added
- .
+não por obras, para que ninguém tenha orgulho de si mesmo.
 \v Ef.2.10
-Porque nós somos resultado de seu agir, criados em Cristo Jesus para as boas obras, as quais Deus preparou para que nelas andássemos.
+Pois nós fomos feitos por ele, criados em Cristo Jesus para as boas obras, que Deus preparou para que nelas andássemos.
 \v Ef.2.11
-Portanto lembrai-vos de que vós, que antes éreis gentios na carne, e chamados de incircuncisos pelos que se chamam de circuncisos na carne, 
-\added
-uma obra
-\*added
- feita por mãos;
+Portanto, lembrai-vos de que vós, antes, éreis gentios na carne, e chamados de não-circuncidados pelos que se chamam 
+participantes da circuncisão na carne, feita por mãos humanas;
 \v Ef.2.12
-Que naquele tempo estáveis sem Cristo, excluídos do povo de Israel, e estrangeiros aos pactos da promessa, não tendo esperança, e sem Deus no mundo.
+que naquele tempo estáveis sem Cristo, excluídos da comunidade de Israel, e estranhos aos pactos da promessa, não 
+tendo esperança, e sem Deus no mundo.
 \v Ef.2.13
-Mas agora em Cristo Jesus, vós que antes estáveis longe, já pelo sangue de Cristo vos aproximastes.
+Mas agora em Cristo Jesus, vós que antes estáveis longe, chegastes para perto pelo sangue de Cristo,
 \v Ef.2.14
-Porque ele é a nossa paz, que tornou os dois 
+pois ele é a nossa paz. Dos dois 
 \added
 povos
 \*added
- em um, e derrubou o muro da separação.
+ ele fez um, e derrubou do meio o muro da separação.
 \v Ef.2.15
-Em sua carne ele desfez as inimizades da Lei dos mandamentos 
+Na sua carne ele desfez a inimizade da Lei dos mandamentos 
 \added
 que consistia
 \*added
- em regras, para criar em si mesmo os dois em um 
-\added
-só
-\*added
- novo homem, fazendo a paz;
+ em ordenanças, para criar em si mesmo os dois em um novo homem, fazendo a paz;
 \v Ef.2.16
-E pela cruz reconciliar com Deus a ambos em um corpo, matando nela as inimizades.
+e pela cruz reconciliar com Deus a ambos num só corpo, matando nela a inimizade.
 \v Ef.2.17
-E vindo, trouxe o evangelho da paz a vós que 
+Ele veio, e proclamou o evangelho da paz a vós que 
 \added
 estáveis
 \*added
  longe, e aos que estavam perto.
 \v Ef.2.18
-Porque por meio dele ambos temos por um 
+Pois por meio dele ambos temos acesso ao Pai por um 
 \added
 mesmo
 \*added
- Espírito ao Pai.
+ Espírito.
 \v Ef.2.19
-Portanto já não sois estrangeiros, nem forasteiros, mas sim concidadãos dos santos, e membros da família de Deus,
+Portanto, já não sois estrangeiros, nem forasteiros, mas sim, concidadãos dos santos, e membros da família de Deus,
 \v Ef.2.20
-Edificados sobre o fundamento dos apóstolos, e dos profetas, sendo que Jesus Cristo é a pedra principal da esquina,
+edificados sobre o fundamento dos apóstolos e dos profetas, do qual Jesus Cristo é a pedra principal da esquina.
 \v Ef.2.21
-Em quem todo o edifício bem ajustado, cresce como um templo santo no Senhor.
+Nele o edifício todo, bem ajustado, cresce para 
+\added
+ser
+\*added
+ um templo santo no Senhor.
 \v Ef.2.22
-Em quem também vós juntamente estais edificados para morada de Deus em Espírito.
+Nele também vós sois juntamente edificados para 
+\added
+serdes
+\*added
+ morada de Deus em Espírito.
 \v Ef.3.1
 Por isso eu, Paulo, 
 \added
 sou
 \*added
- prisioneiro de Jesus Cristo, por causa de vós gentios.
+ prisioneiro de Jesus Cristo, para o benefício de vós, gentios.
 \v Ef.3.2
-Mas se tendes ouvido o plano especial da graça de Deus, que me foi dada para convosco;
+Se é que já ouvistes da responsabilidade
+\fn
+Ou, tradicionalmente: dispensação
+\*fn
+ acerca da graça de Deus, que me foi dada para vós;
 \v Ef.3.3
-O qual por revelação me foi informou este mistério (conforme antes 
+que por revelação me foi dado a conhecer este mistério (conforme já 
 \added
 vos
 \*added
- escrevi um pouco 
-\added
-disso
-\*added
- ,
+ escrevi um pouco;
 \v Ef.3.4
- 
-\added
-Através
-\*added
- do qual, lendo, podeis entender meu conhecimento neste mistério de Cristo),
+quando o ledes, podeis entender o meu entendimento deste mistério de Cristo).
 \v Ef.3.5
-O qual em outras gerações não foi dado a conhecer aos filhos dos homens; como agora é revelado pelo Espírito aos seus santos apóstolos e profetas:
+Esse mistério
+\fn
+“Esse mistério” foi posto explicitamente para simplificar a frase
+\*fn
+ em outras gerações não foi dado a conhecer aos seres humanos
+\fn
+Lit. filhos dos homens
+\*fn
+, como agora foi revelado pelo Espírito aos seus 
+santos apóstolos e profetas:
 \v Ef.3.6
-Que os gentios são coerdeiros, 
+\added
+isto é, 
+\*added
+ que os gentios são conjuntamente herdeiros, 
 \added
 membros
 \*added
- de um mesmo corpo, e que compartilham de sua promessa em Cristo pelo Evangelho.
+ de um mesmo corpo, e participantes da sua promessa em Cristo por meio do evangelho.
 \v Ef.3.7
-Deste 
+Eu fui feito servidor desse 
 \added
 evangelho
 \*added
- fui feito servidor pelo dom da graça de Deus, que me foi dado segundo a operação de seu poder,
+ conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
 \v Ef.3.8
-Para mim, o menor de todos os santos, é dada esta graça, para entre os gentios anunciar pelo Evangelho as inimagináveis riquezas de Cristo,
+A mim, o menor de todos os santos, foi dada esta graça de anunciar entre os gentios, por meio do Evangelho, as inimagináveis riquezas de Cristo,
 \v Ef.3.9
 E para esclarecer a todos qual é a comunhão
- do mistério, que desde os 
-\added
-primeiros
-\*added
- tempos esteve escondido em Deus, que criou todas as coisas por meio de Jesus Cristo.
+ do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas por meio de Jesus Cristo,
 \v Ef.3.10
-Para que agora pela igreja seja informada aos governos e autoridades nos lugares celestes a multiforme sabedoria de Deus;
+para que a multiforme sabedoria de Deus seja agora manifestada pela igreja aos domínios e autoridades nos lugares celestes,
 \v Ef.3.11
-Segundo o eterno propósito, que ele realizou em Cristo Jesus, nosso Senhor,
+conforme o eterno propósito que ele cumpriu em Cristo Jesus, nosso Senhor,
 \v Ef.3.12
-No qual temos ousadia e acesso com confiança pela fé nele.
+no qual temos coragem
+\fn
+Ou: ousadia
+\*fn
+ e acesso confiante pela fé nele.
+\fn
+Trad. alt.: pela fidelidade dele
+\*fn
 \v Ef.3.13
-Portanto eu 
+Portanto, eu 
 \added
 vos
 \*added
- peço que não desfaleçais em minhas aflições por vós, que é vossa glória.
+ peço que não vos desanimeis em minhas aflições por vós. Elas são a vossa glória.
 \v Ef.3.14
-Por causa disso eu me ponho de joelhos diante do Pai de nosso Senhor Jesus Cristo;
+Por causa disso me ponho de joelhos diante do Pai do nosso Senhor Jesus Cristo;
 \v Ef.3.15
-Do qual toda a família nos céus e na terra se nomeia;
+do qual toda a família nos céus e na terra recebe nome.
 \v Ef.3.16
-Para que ele vos conceda, segundo as riquezas de sua glória, que com poder sejais fortalecidos por seu Espírito no interior de cada um, 
+\added
+Oro
+\*added
+ para que, conforme a sua riquíssima glória, 
+\fn
+Lit. as riquezas de sua glória
+\*fn
+ ele vos conceda que sejais fortalecidos com poder pelo seu Espírito no interior de cada um, 
 \fn
 \key
 no interior de cada um
@@ -266,21 +324,25 @@ no interior de cada um
 lit. no ser humano interior 
 \*fn
 \v Ef.3.17
-A fim de que pela fé Cristo habite em vossos corações; e vós estejais enraizados e firmados no amor;
+para que Cristo habite em vossos corações pela fé. 
+\added
+Oro
+\*added 
+ para que vós estejais enraizados e firmados no amor,
 \v Ef.3.18
-Para que vós possais compreender, junto com todos os santos, qual é a largura, e comprimento, e profundidade, e altura;
+e assim possais compreender, com todos os santos, qual é a largura, comprimento, profundidade, e altura,
 \v Ef.3.19
-E conhecer o amor de Cristo, que ultrapassa o entendimento; para que sejais cheios de toda a plenitude de Deus.
+e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios de toda a plenitude de Deus.
 \v Ef.3.20
-E aquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
+E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
 \v Ef.3.21
-A ele seja a glória na Igreja, em Cristo Jesus, por todas as gerações para todo o sempre, Amém!
+a ele seja a glória na Igreja, em Cristo Jesus, por todas as gerações para todo o sempre, Amém!
 \v Ef.4.1
-Portanto eu, o prisioneiro no Senhor, vos peço que andeis como é digno do chamado com que fostes chamados,
+Portanto, eu, o prisioneiro no Senhor, rogo-vos que andeis como é digno do chamado com que fostes chamados,
 \v Ef.4.2
-Com toda humildade e mansidão; com paciência, tolerando uns aos outros em amor;
+com toda humildade e mansidão; com paciência, tolerando uns aos outros em amor.
 \v Ef.4.3
-Procurando guardar a unidade do Espírito pelo vínculo da paz.
+Procurai guardar a unidade do Espírito pelo vínculo da paz.
 \v Ef.4.4
 Há um 
 \added
@@ -290,11 +352,11 @@ só
 \added
 só
 \*added
- Espírito, assim como também fostes chamados para uma 
+ Espírito, como também fostes chamados em uma 
 \added
 só
 \*added
- esperança de vosso chamado.
+ esperança do vosso chamado.
 \v Ef.4.5
 Um 
 \added
@@ -310,59 +372,80 @@ só
 \*added
  batismo;
 \v Ef.4.6
-Um 
+um 
 \added
 só
 \*added
- Deus, e Pai de todos, que está sobre todos, e por todos, e em todos vós.
+ Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos vós.
 \v Ef.4.7
-Mas a cada um de nós é dada a graça conforme a medida do dom de Cristo.
+Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo.
 \v Ef.4.8
-Portanto ele diz: Quando subiu ao alto, levou cativo ao cativeiro, e deu dons aos homens.
+Por isso diz: Quando ele subiu ao alto, levou cativo o cativeiro,
+\fn
+Ou: levou os cativos
+\*fn
+ e deu dons às pessoas.
+\ref
+Salmos 68:18
+\*ref
 \v Ef.4.9
-(E este que subiu, o que é, senão aquele que primeiro desceu às partes mais baixas da terra?
+(O que significa este “ele subiu”, senão que ele antes tinha descido às partes mais baixas da terra?)
 \v Ef.4.10
-Aquele que desceu, é também o mesmo que subiu muito mais alto que todos os céus, para cumprir todas as coisas).
+Aquele que desceu é também o mesmo que subiu muito acima de todos os céus, para preencher
+\fn
+Trad. alt. cumprir
+\*fn
+ todas as coisas.
 \v Ef.4.11
-E o mesmo deu a uns para apóstolos, e outros para profetas, e a outros para evangelistas, e a outros para pastores e instrutores.
+E ele mesmo deu uns como apóstolos, outros como profetas outros como evangelistas, e outros como pastores 
+e instrutores.
 \v Ef.4.12
-Para o aperfeiçoamento dos santos, para a obra do serviço 
-\added
-da igreja
-\*added
-,para a edificação do corpo de Cristo.
+para o aperfeiçoamento dos santos, para a obra do serviço,
+\fn
+Ou, tradicionalmente: ministério
+\*fn
+ para a edificação do corpo de Cristo;
 \v Ef.4.13
-Até que todos venhamos à unidade da fé, e do conhecimento do Filho de Deus, em homem maduro, à medida da estatura da plenitude de Cristo;
+até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, à maturidade,
+\fn
+Lit. ao homem maduro
+\*fn
+ à medida da estatura da plenitude de Cristo.
+\fn
+Ou: estatura completa de Cristo
+\*fn
 \v Ef.4.14
-Para que não mais sejamos crianças inconstantes, sendo levados com todo vento de doutrina pelo engano dos homens com astúcia, para enganar com fraudes;
+O fim disso é que não mais sejamos crianças inconstantes, levadas de um lado para outro por todo vento de doutrina, 
+pelo engano dos pessoas que, para enganar, usam de fraudes com astúcia.
 \v Ef.4.15
-A contrário, pratiquemos a verdade em amor, e cresçamos em tudo naquele que é o cabeça: Cristo.
+Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é a cabeça: Cristo.
 \v Ef.4.16
-A partir dele todo o corpo, bem ajustado e unido por todos os ligamentos de apoio, segundo a operação de cada parte em 
-\added
-sua
-\*added
- medida, faz o corpo crescer, para sua própria edificação em amor.
+É dele que todo o corpo, bem ajustado e unido por todos os ligamentos, conforme a operação de cada parte na medida 
+devida, proporciona o crescimento do corpo, para a sua própria edificação em amor.
 \v Ef.4.17
-Portanto isto digo e dou testemunho no Senhor, que não andeis mais como os outros gentios andam, no vazio de vossas mentes.
+Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os outros gentios andam, na futilidade das suas mentes.
 \v Ef.4.18
-Eles têm 
-\added
-seu
-\*added
- entendimento nas trevas, estranhos à vida de Deus pela ignorância que há neles, pela dureza de seus corações.
+Esses têm o entendimento nas trevas, e estão separados da vida de Deus pela ignorância que há neles, pela dureza do seu coração.
 \v Ef.4.19
-Por terem se tornado insensíveis, eles se entregaram ao mau desejo, para cometerem toda impureza com avidez.
+Como se tornaram insensíveis, eles se entregaram à sensualidade, para cometerem com avidez toda impureza.
 \v Ef.4.20
-Mas vós não aprendestes assim de Cristo;
+Mas não foi assim que vós aprendestes de Cristo;
 \v Ef.4.21
-Se realmente vós tendes o ouvido, e por ele fostes ensinados, assim como a verdade está em Jesus;
+se é que o ouvistes, e fostes ensinados nele, como a verdade está em Jesus;
 \v Ef.4.22
-Acerca do comportamento do passado, a abandonar o velho homem, que se corrompe pelos maus e enganosos desejos;
+quanto ao comportamento passado, que deveis abandonar o velho ser humano, que se corrompe pelos maus desejos de engano;
 \v Ef.4.23
-A serdes renovados no espírito de vossa mente;
+que 
+\addeed
+deveis
+\*added
+ vos renovar no espírito da vossa mente;
 \v Ef.4.24
-E a vos revestirdes do novo homem, que é criado conforme Deus na verdadeira justiça e santidade.
+e que 
+\added
+deveis
+\*added
+ vos revestir do novo ser humano, que é criado conforme Deus na verdadeira justiça e santidade.
 \v Ef.4.25
 Portanto deixai a mentira, e falai a verdade cada um com seu próximo; porque somos membros uns dos outros.
 \v Ef.4.26
@@ -384,7 +467,7 @@ Toda amargura, e ira, e irritação, e grito
 \added
 de raiva
 \*added
-,e blasfêmia se tire de vós, junto com toda malícia.
+, e blasfêmia se tire de vós, junto com toda malícia.
 \v Ef.4.32
 E sede benignos uns para com os outros, 
 \added
@@ -569,4 +652,3 @@ seja
 \added
 Escrita de Roma para os Efésios, e enviada por Tíquico
 \*added
- 

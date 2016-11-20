@@ -1,4 +1,4 @@
-﻿\id 2CO B�blia Livre - Textus Receptus
+﻿\id 2CO Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 2 Coríntios
 \toc1 Segunda Carta de Paulo aos Coríntios
@@ -311,6 +311,6 @@
 \v 8 Porque nada podemos fazer contra a verdade, mas sim pela verdade.
 \v 9 Pois nós nos alegramos quando estamos fracos, e vós estais fortes; e isto também desejamos: o vosso aperfeiçoamento.
 \v 10 Por isso eu escrevo estas coisas ausente; para que, quando estiver presente não use de rigor, segundo o poder que o Senhor tem me dado, para edificação, e não para destruição.
-\v 11 Quanto às demais coisas, irmãos, alegrai-vos, sede perfeitos, estai consolados, tenhais um mesmo entendimento, vivei em paz; e o Deus de amor e de paz será convosco.
+\v 11 Quanto às demais coisas, irmãos, alegrai-vos, sede íntegros, consolai-vos, tenhais um mesmo entendimento, vivei em paz; e o Deus de amor e paz será convosco.
 \v 12 Saudai-vos uns aos outros com beijo santo. Todos os santos vos saúdam.
 \v 13 A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo seja com todos vós. Amém. \add A Segunda Carta aos Coríntios foi escrita de Filipos, na Macedônia, e enviada por Tito e Lucas.\add*  

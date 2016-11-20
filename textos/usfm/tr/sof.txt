@@ -1,4 +1,4 @@
-﻿\id ZEP B�blia Livre - Textus Receptus
+﻿\id ZEP Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Sofonias
 \toc1 Sofonias

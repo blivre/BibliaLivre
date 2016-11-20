@@ -1,4 +1,4 @@
-﻿\id ACT B�blia Livre - Textus Receptus
+﻿\id ACT Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Atos
 \toc1 Atos dos Apóstolos
@@ -127,14 +127,14 @@
 \v 4 E muitos dos que ouviram a palavra, creram; e era o número dos homens de cerca de cinco mil.
 \v 5 E aconteceu no dia seguinte, que os chefes, e anciãos, e escribas, se reuniram em Jerusalém;
 \v 6 E Anás, o sumo sacerdote, e Caifás, e João, e Alexandre, e todos quantos havia da linhagem do governo sacerdotal.
-\v 7 E pondo-os no meio, perguntaram \add -lhes\add*  : Por meio de que poder ou por qual nome vós fizestes isto?
+\v 7 E pondo-os no meio, perguntaram \add -lhes\add* : Por meio de que poder ou por qual nome vós fizestes isto?
 \v 8 Então Pedro, cheio do Espírito Santo, lhes disse: Chefes do povo, e anciões de Israel,
 \v 9 Se hoje somos interrogados quanto a uma boa ação \add feita\add*  a um enfermo, pela qual este foi curado;
 \v 10 Seja conhecido a todos vós, e a todos o povo de Israel, que pelo nome de Jesus Cristo, o nazareno, aquele que vós crucificastes, ao qual Deus ressuscitou dos mortos, por ele este \add homem\add*  está são diante de vós.
 \v 11 Este é a pedra que foi desprezada por vós, edificadores; a qual foi feita por cabeça de esquina.
 \v 12 E em nenhum outro há salvação; porque nenhum outro nome há abaixo do céu, dado entre os seres humanos, em quem devemos ser salvos.
 \v 13 E eles, ao verem a ousadia de Pedro, e de João; e informados que eles eram homens sem instrução e ordinários, maravilharam-se; e eles sabiam que eles tinham estado com Jesus.
-\v 14 E vendo estar com eles o homem que tinha sido curado, nada tinham a dizer contra \add eles\add*  .
+\v 14 E vendo estar com eles o homem que tinha sido curado, nada tinham a dizer contra \add eles\add* .
 \v 15 E mandando-os saírem fora do Conselho, discutiam entre si,
 \v 16 Dizendo: O que faremos a estes homens? Porque um sinal notório foi feito por eles, manifesto a todos os que habitam em Jerusalém, e não podemos negar.
 \v 17 Mas para que \add esta notícia\add*  não seja ainda mais divulgada entre o povo, façamos sérias ameaças a eles, para que nunca mais falem a ninguém neste nome.
@@ -143,8 +143,8 @@
 \v 20 Porque nós não podemos deixar de falar daquilo que temos visto e ouvido.
 \v 21 Mas eles, tendo os ameaçado ainda mais, nada acharam \add de motivo\add*  para os castigar, e os deixaram ir por causa do povo; porque todos glorificavam a Deus pelo que tinha acontecido.
 \v 22 Porque era de mais de quarenta anos o homem em quem este milagre de cura tinha sido feito.
-\v 23 E eles, tendo sido soltos, vieram aos seus \add companheiros\add* ,e lhes contaram tudo o que os chefes dos sacerdotes e os anciãos tinham lhes dito.
-\v 24 E eles, ao ouvirem \add isto\add* ,levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas as coisas que neles há;
+\v 23 E eles, tendo sido soltos, vieram aos seus \add companheiros\add* , e lhes contaram tudo o que os chefes dos sacerdotes e os anciãos tinham lhes dito.
+\v 24 E eles, ao ouvirem \add isto\add* , levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas as coisas que neles há;
 \v 25 Que pela boca de teu servo Davi disseste: Por que os gentios se irritam, e os povos gastam seus pensamentos em coisas vãs?
 \v 26 Os reis da terra se levantaram, e os príncipes se juntaram em um mesmo \add propósito\add*  contra o Senhor, e contra o seu Ungido.  \f + \ft Ungido = equiv. Cristo  \f* 
 \v 27 Porque verdadeiramente contra teu Santo Filho Jesus, ao qual tu ungiste, se ajuntaram, tanto Herodes, como Pôncio Pilatos, com os gentios e os povos de Israel.

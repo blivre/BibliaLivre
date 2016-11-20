@@ -189,7 +189,7 @@ como
 \v Jr.2.21
 E eu te plantei de boa vide; ela toda era semente confiável. Como, pois, te tornaste para mim ramos de vide estranha?
 \v Jr.2.22
-Ainda que te laves com soda cáustica, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS.
+Ainda que te laves com potassa, e passes muito sabão sobre ti, teu pecado está marcado diante de mim, diz o Senhor DEUS.
 \v Jr.2.23
 Como podes dizer: Nunca me contaminei, nunca andei atrás dos baalins? Olha o teu caminho no vale; reconhece o que 
 fizeste, ó dromedária ligeira, que anda errante seus percursos,
@@ -1598,7 +1598,7 @@ Mas primeiro pagarei em dobro a iniquidade e o pecado deles, pois contaminaram m
 \v Jr.16.20
 Pode, por acaso, o homem fazer deuses para si? Eles, porém, não são deuses.
 \v Jr.16.21
-Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer minha mão e meu poder, e saberão que meu nome é EU-SOU.
+Portanto eis que desta vez lhes farei conhecer, lhes farei conhecer minha mão e meu poder, e saberão que EU-SOU é o meu nome.
 \v Jr.17.1
 O pecado de Judá está escrito com cinzel de ferro, com ponta de diamante; está esculpido na tábua de seu coração, e nas pontas de vossos altares;
 \v Jr.17.2
@@ -3971,7 +3971,7 @@ apenas
 \*added
  um barulho; ele deixou passar o tempo determinado.
 \v Jr.46.18
-Vivo eu,diz o Rei, cujo nome é EU-SOU dos exércitos, que como o Tabor entre os montes, e como o Carmelo no mar, assim ele virá.
+Vivo eu, diz o Rei, cujo nome é EU-SOU dos exércitos, que como o Tabor entre os montes, e como o Carmelo no mar, assim ele virá.
 \v Jr.46.19
 Faz para ti a bagagem para a ida ao cativeiro, ó moradora filha do Egito; porque Nofe se tornará em desolação, e será devastada até não haver ali morador.
 \v Jr.46.20
@@ -4062,7 +4062,6 @@ dizendo
 \*added
  : Vinde, e a eliminemos das nações. Também tu, Madmém, serás cortada fora; a espada irá atrás de ti.
 \v Jr.48.3
- 
 \added
 Ouve-se
 \*added
@@ -4119,7 +4118,8 @@ que era
 \v Jr.48.14
 Como direis: Somos guerreiros, homens valentes para a guerra?
 \v Jr.48.15
-Moabe é destruído, e suas cidades invadidas, e seus melhores rapazes descem ao degoladouro,diz o rei, cujo nome é EU-SOU dos exércitos.
+Moabe é destruído, e suas cidades invadidas, e seus melhores rapazes descem ao degoladouro, diz o rei, cujo nome é 
+EU-SOU dos exércitos.
 \v Jr.48.16
 Próxima está a vinda da perdição de Moabe; e seu desastre
 \fn
@@ -4140,11 +4140,10 @@ tua
 \v Jr.48.19
 Para-te no caminho, e olha, ó moradora de Aroer; pergunta ao que vai fugindo, e à que escapou, dize: O que aconteceu?
 \v Jr.48.20
- 
 \added
 Responderão
 \*added
- : Moabe está envergonhado, porque foi quebrantado; uivai e gritai; anunciai em Arnom que Moabe foi destruído,
+: Moabe está envergonhado, porque foi quebrantado; uivai e gritai; anunciai em Arnom que Moabe foi destruído,
 \v Jr.48.21
 O julgamento também veio juízo sobre a terra da planície: sobre Holom, sobre Jazá, e sobre Mefate;
 \v Jr.48.22
@@ -4292,7 +4291,7 @@ Ouvi uma notícia do SENHOR que um mensageiro foi às nações,
 \added
 para dizer
 \*added
- : Juntai-vos, e vinde contra ela, e levantai-vos para a guerra.
+: Juntai-vos, e vinde contra ela, e levantai-vos para a guerra.
 \v Jr.49.15
 Porque eis te fiz pequeno entre as nações, desprezado entre os homens.
 \v Jr.49.16
@@ -4381,7 +4380,7 @@ Perguntarão por Sião, pelo caminho para onde voltarão seus rostos,
 \added
 dizendo
 \*added
- : Vinde, e juntai-vos ao SENHOR 
+: Vinde, e juntai-vos ao SENHOR 
 \added
 com
 \*added
@@ -4403,7 +4402,6 @@ E a Caldeia será objeto de saque; todos os que a saquearem serão fartos,diz o 
 \v Jr.50.11
 Visto que vós vos alegrastes, que vos enchestes de prazer, vós saqueadores de minha propriedade; visto que vos inchastes como bezerra gorda, e relinchastes como cavalos;
 \v Jr.50.12
- 
 \added
 Por isso
 \*added
@@ -4438,7 +4436,7 @@ Naqueles dias e naquele tempo,diz o SENHOR, a maldade de Israel será buscada, m
 \added
 será encontrada
 \*added
- ; e 
+; e 
 \added
 buscados
 \*added
@@ -4470,13 +4468,14 @@ E o soberbo tropeçará e cairá, e ninguém haverá que o levante; e acenderei 
 \v Jr.50.33
 Assim diz o SENHOR dos exércitos: Os filhos de Israel e os filhos de Judá juntamente foram oprimidos; e todos os que os tomaram cativos os detiveram; recusaram-se soltá-los.
 \v Jr.50.34
-Porém o Redentor deles é forte; EU-SOU dos exércitos é o seu nome; certamente defenderá a causa deles, para dar descanso à terra, e incomodar os moradores da Babilônia.
+Porém o Redentor deles é forte; EU-SOU dos exércitos é o seu nome; certamente defenderá a causa deles, para dar 
+descanso à terra, e incomodar os moradores da Babilônia.
 \v Jr.50.35
 Espada 
 \added
 virá
 \*added
- sobre os caldeus,diz o SENHOR, e sobre os moradores da Babilônia, sobre seus príncipes, e sobre seus sábios.
+ sobre os caldeus, diz o SENHOR, e sobre os moradores da Babilônia, sobre seus príncipes, e sobre seus sábios.
 \v Jr.50.36
 Espada 
 \added
@@ -4548,7 +4547,7 @@ trad. alt. por causa deles
 \v Jr.50.46
 Do ruído da tomada da Babilônia a terra tremeu, e o grito se ouviu entre as nações.
 \v Jr.51.1
-Assim diz o SENHOR: Eis que eu levanto um vento destruidor contra a Babilônia, e contra os moradores de Lebe- Camai.
+Assim diz o SENHOR: Eis que eu levanto um vento destruidor contra a Babilônia, e contra os moradores de Lebe-Camai.
 \fn
 \key
 Lebe-Camai
@@ -4561,9 +4560,9 @@ E enviarei padejadores à Babilônia, que a padejarão,
 \key
 padejar
 \*key
-lançar os grãos ao vento com uma espécie de pá, para tirar as cascas (glossário
+lançar os grãos ao vento com uma espécie de pá, para tirar as cascas (glossário)
 \*fn
- ) e esvaziarão sua terra; porque virão contra ela por todos os lados no dia da calamidade.
+ e esvaziarão sua terra; porque virão contra ela por todos os lados no dia da calamidade.
 \fn
 \key
 calamidade
@@ -4614,7 +4613,7 @@ O SENHOR dos exércitos jurou por si mesmo,
 \added
 dizendo
 \*added
- : Eu te encherei de homens como de gafanhotos, que darão gritos 
+: Eu te encherei de homens como de gafanhotos, que darão gritos 
 \added
 de guerra
 \*added
@@ -4644,7 +4643,7 @@ Contigo despedaçarei o pastor e seu rebanho; contigo despedaçarei o lavrador e
 \added
 de bois
 \*added
- ; e contigo despedaçarei governadores e príncipes.
+; e contigo despedaçarei governadores e príncipes.
 \v Jr.51.24
 Mas retribuirei à Babilônia e a todos os moradores da Caldeia todo a sua maldade, que fizeram em Sião diante de vossos olhos,diz o SENHOR.
 \v Jr.51.25
@@ -4666,7 +4665,7 @@ Então a terra tremerá, e se afligirá; porque todos os pensamentos do SENHOR e
 \added
 nela
 \*added
- .
+.
 \v Jr.51.30
 Os guerreiros de Babilônia pararam de lutar, ficaram-se nas fortalezas; faltou-lhes sua força, tornaram-se como mulheres; incendiaram-se suas casas, quebraram-se seus ferrolhos.
 \v Jr.51.31
@@ -4720,17 +4719,15 @@ mente
 lit. coração
 \*fn
 \v Jr.51.51
- 
 \added
 Direis, porém
 \*added
- : Estamos envergonhados, porque ouvimos a humilhação; a vergonha cobriu nossos rostos, porque vieram estrangeiros contra os santuários da casa do SENHOR.
+: Estamos envergonhados, porque ouvimos a humilhação; a vergonha cobriu nossos rostos, porque vieram estrangeiros contra os santuários da casa do SENHOR.
 \v Jr.51.52
 Portanto eis que vêm dias,diz o SENHOR, em que punirei suas imagens de escultura, e em toda a sua terra gemerão os feridos.
 \v Jr.51.53
 Mesmo se a Babilônia subisse ao céu e se fortificasse no alto seu poder, ainda assim de mim virão destruidores contra ela,diz o SENHOR.
 \v Jr.51.54
- 
 \added
 Ouve-se
 \*added
@@ -4742,9 +4739,11 @@ seu
 \*added
  grande ruído; e suas ondas bramarão, como muitas águas será o ruído da voz deles:
 \v Jr.51.56
-Pois o destruidor vem contra ela, contra Babilônia; seus guerreiros serão presos, o arco deles será quebrado; porque o SENHOR, Deus de retribuições, certamente dará a pagamento.
+Pois o destruidor vem contra ela, contra Babilônia; seus guerreiros serão presos, o arco deles será quebrado; porque o 
+SENHOR, Deus de retribuições, certamente dará a pagamento.
 \v Jr.51.57
-E embriagarei a seus príncipes e seus sábios, a seus governadores, seus chefes e seus guerreiros; e dormirão sonho perpétuo, e não despertarão,diz o rei, cujo nome é EU-SOU dos exércitos.
+E embriagarei a seus príncipes e seus sábios, a seus governadores, seus chefes e seus guerreiros; e dormirão sonho 
+perpétuo, e não despertarão, diz o Rei, cujo nome é EU-SOU dos exércitos.
 \v Jr.51.58
 Assim diz o SENHOR dos exércitos: Os largos muros da Babilônia serão derrubado por completo, e suas altas portas serão incendiadas a fogo; os povos trabalharão para nada, as nações para o fogo, e se cansarão.
 \v Jr.51.59

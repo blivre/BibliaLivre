@@ -1,4 +1,4 @@
-﻿\id 1PE B�blia Livre - Textus Receptus
+﻿\id 1PE Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 1 Pedro
 \toc1 Primeira Carta Universal de Pedro

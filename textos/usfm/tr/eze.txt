@@ -1,4 +1,4 @@
-﻿\id EZK B�blia Livre - Textus Receptus
+﻿\id EZK Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Ezequiel
 \toc1 Ezequiel
@@ -381,14 +381,14 @@
 \v 11 E te adornei com ornamentos, e pus braceletes em teus braços, e colar em teu pescoço;
 \v 12 E pus joias pendente em teu nariz, argolas em tuas orelhas, e uma linda coroa em tua cabeça.
 \v 13 E foste adornada de ouro e de prata, e teu vestido foi linho fino, e seda, e bordado; comeste farinha fina, mel, e azeite; foste muito formosa, e prosperaste até ser rainha.
-\v 14 E saiu de ti fama entre as nações por causa de tua formosura; porque era perfeita, por causa da minha glória que eu tinha posto sobre ti, diz o Senhor DEUS. 
-\v 15 Porém confiaste em tua formosura, e te prostituíste por causa de tua fama, e derramaste tuas prostituições a todo que passava, para que fosse dele.
+\v 14 A tua fama percorreu entre as nações por causa da tua beleza; porque era perfeita, por causa da minha glória que eu havia posto sobre ti, diz o Senhor DEUS.
+\v 15 Porém confiaste na tua beleza, e te prostituíste por causa da tua fama, e derramaste tuas prostituições a todo que passava, para que fosse dele.
 \v 16 E tomaste de teus vestidos, fizeste altares de diversas cores, e te prostituíste sobre eles: coisa semelhante não virá, nem será assim.
 \v 17 Tomaste também os vasos de teu ornamento, que eu te dei de meu ouro e de minha prata, e fizeste para ti imagens de homens, e te prostituíste com elas.
 \v 18 E tomaste teus vestidos bordados, e as cobriste; e puseste meu óleo e meu perfume diante delas.
 \v 19 E o meu pão também que eu te dei, a farinha fina, o azeite, e o mel, com que eu te sustentava, puseste diante delas, como cheiro suave; e assim foi, diz o Senhor DEUS. 
 \v 20 Além disto, tomaste teus filhos e tuas filhas, que havias gerado para mim, e os sacrificaste a elas para que fossem consumidas. Por acaso são poucas as tuas prostituições?
-\v 21 E mataste meus filhos, e os entregastes a elas para que passassem pelo \add fogo\add*  .
+\v 21 E mataste meus filhos, e os entregastes a elas para que passassem pelo \add fogo\add* .
 \v 22 E em todas as tuas abominações e tuas prostituições, não te lembraste dos dias de tua juventude, quando estavas nua e descoberta, quando estavas suja em teu sangue.
 \v 23 E sucedeu que, depois de toda tua maldade (Ai, ai de ti! diz o Senhor DEUS),
 \v 24 Edificaste para ti uma câmara,  \f + \fq câmara \ft obscuro  \f* e fizeste para ti altares em todas as ruas:
@@ -401,7 +401,7 @@
 \v 31 Edificando tu tuas câmaras ao canto de cada caminho, e fazendo teus altares em cada rua; e nem sequer foste como a prostituta, \add pois\add*  desprezaste o pagamento,
 \v 32  \add Mas foste\add*  como uma mulher adúltera, que em lugar de seu marido recebe a estranhos.
 \v 33 Todas as prostitutas são pagas; mas tu deste teus pagamentos a todos os teus amantes; e lhes deste presentes, para que viessem a ti dos lugares ao redor, por causa de tuas prostituições.
-\v 34 Assim acontece contigo o contrário das mulheres que se prostituem, porque ninguém te buscou para prostituir; pois quando pagas ao invés de receber pagamento, tu tens sido o contrário \add das outras\add*  .
+\v 34 Assim acontece contigo o contrário das mulheres que se prostituem, porque ninguém te buscou para prostituir; pois quando pagas ao invés de receber pagamento, tu tens sido o contrário \add das outras\add* .
 \v 35 Portanto, ó prostituta, ouve a palavra do SENHOR.
 \v 36 Assim diz o Senhor DEUS: Visto que se derramou teu dinheiro,  \f + \fq teu dinheiro \ft obscuro – trad. alt. tua promiscuidade  \f* e tuas vergonhas foram descobertas por tuas prostituições com teus amantes, como também com todos os ídolos de tuas abominações, e no sangue de teus filhos, os quais lhes deste; 
 \v 37 Por isso eis que ajuntarei todos os teus amantes com os quais tiveste prazer, e também todos os que amaste, com todos quantos tu odiaste; e os ajuntarei contra ti ao redor, e descobrirei tua nudez diante deles, para que vejam toda a tua nudez.
@@ -417,7 +417,7 @@
 \v 47 Porém não andaste em seus caminhos, nem fizeste conforme suas abominações; mas em vez disso, como se fosse muito pouco, tu te corrompeste ainda mais que elas em todos os teus caminhos.
 \v 48 Vivo eu, diz o Senhor DEUS,  que tua irmã Sodoma e suas filhas não fizeram tanto como fizeste tu e tuas filhas. 
 \v 49 Eis que esta foi a maldade de tua irmã Sodoma: ela e suas filhas tiveram soberba, fartura de pão, e abundância de conforto; porém nunca ajudaram a mão do pobre e do necessitado.
-\v 50 E se tornaram arrogantes, e fizeram abominação diante de mim, por isso eu as tirei quando vi \add isto\add*  .  \f + \fq quando vi isto \ft trad. alt. como tu podes ver  \f* 
+\v 50 E se tornaram arrogantes, e fizeram abominação diante de mim, por isso eu as tirei quando vi \add isto\add* .  \f + \fq quando vi isto \ft trad. alt. como tu podes ver  \f* 
 \v 51 Também Samaria não cometeu sequer a metade de teus pecados; e tu multiplicaste tuas abominações mais que elas, e fizeste tuas irmãs parecerem justas em comparação a todas as tuas abominações que fizeste.
 \v 52 Tu também, leva tua vergonha, tu que julgaste em favor de tuas irmãs por meio de teus pecados, que fizeste mais abomináveis que elas; mais justas são que tu; envergonha-te, pois, tu também, e leva tua vergonha, pois justificaste a tuas irmãs.
 \v 53 Eu, pois, trarei de volta seus cativos, os cativos de Sodoma e de suas filhas, e os cativos de Samaria e de suas filhas, e os cativos de teu cativeiro entre elas,
@@ -430,7 +430,7 @@
 \v 60 Contudo eu me lembrarei do meu pacto contigo nos dias de tua juventude, e estabelecerei contigo um pacto eterno.
 \v 61 Então te lembrarás de teus caminhos, e te envergonharás, quando receberes a tuas irmãs maiores que tu com as menores que tu, pois eu as darei a ti por filhas, porém não por teu pacto.
 \v 62 E estabelecerei meu pacto contigo, e saberás que eu sou o SENHOR;
-\v 63 Para que te lembres \add disso\add* ,e te envergonhes, e nunca mais abras a boca por causa de tua vergonha, quando eu me reconciliar contigo de tudo quanto fizeste, diz o Senhor DEUS. 
+\v 63 Para que te lembres \add disso\add* , e te envergonhes, e nunca mais abras a boca por causa de tua vergonha, quando eu me reconciliar contigo de tudo quanto fizeste, diz o Senhor DEUS. 
 
 \c 17
 \p
@@ -447,7 +447,7 @@
 \v 10 Mas eis que, \add mesmo\add*  estando plantada, terá ela sucesso? Por acaso, quando o vento oriental a tocar, ela não se secará por completo? Nos canteiros de seus renovos se secará.
 \v 11 Então veio a mim a palavra do SENHOR, dizendo:
 \v 12 Dize agora à casa rebelde: Por acaso não sabeis o que significam estas coisas?  Dize-lhes:  Eis que o rei da Babilônia veio a Jerusalém, tomou o teu rei e seus príncipes, e os levou consigo à Babilônia. 
-\v 13 E tomou \add um\add*  da família  \f + \fq família \ft lit. semente  \f* real, fez pacto com ele, fazendo-lhe prestar juramento; e tomou os poderosos da terra \add consigo\add*  ,
+\v 13 E tomou \add um\add*  da família  \f + \fq família \ft lit. semente  \f* real, fez pacto com ele, fazendo-lhe prestar juramento; e tomou os poderosos da terra \add consigo\add* ,
 \v 14 Para que o reino ficasse humilhado, e não se levantasse; mas podendo continuar a existir se guardasse seu pacto.
 \v 15 Porém rebelou-se contra ele, enviando seus mensageiros ao Egito, para que lhe dessem cavalos e muita gente. Por acaso terá sucesso, ou escapará aquele que faz tais coisas? Poderá quebrar o pacto, e \add ainda assim\add*  escapar?
 \v 16 Vivo eu, diz o Senhor DEUS,  que morrerá em meio da Babilônia, no lugar do rei que o fez reinar, cujo juramento desprezou, e cujo pacto quebrou. 
@@ -503,7 +503,7 @@
 \v 2 E dize: Quem foi tua mãe? Uma leoa deitada entre os leões; entre os leõezinhos ela criou seus filhotes. 
 \v 3 E fez crescer um de seus filhotes, que veio a ser um leãozinho; e ele aprendeu a caçar presa, e a devorar homens.
 \v 4 E as nações ouviram dele; ele foi preso na cova delas, e o trouxeram com ganchos à terra do Egito.
-\v 5 E quando ela viu que havia esperado \add muito\add* ,e que sua esperança era perdida, tomou outro de seus filhotes, e o pôs por leãozinho.
+\v 5 E quando ela viu que havia esperado \add muito\add* , e que sua esperança era perdida, tomou outro de seus filhotes, e o pôs por leãozinho.
 \v 6 E ele andou entre os leões; tornou-se um leãozinho, aprendeu a caçar presa, e devorou homens.
 \v 7 E conheceu suas viúvas, e destruiu suas cidades; e a terra e tudo que ela continha  \f + \fq a terra e tudo que ela continha \ft lit. a terra e sua plenitude  \f* foram devastadas à voz de seu bramido.
 \v 8 Então foram contra sobre ele as nações das províncias de seu ao redor; estenderam sobre ele sua rede, e ele foi preso na cova delas.
@@ -596,7 +596,7 @@
 \v 24 Portanto, assim diz o Senhor DEUS: Dado que fizestes relembrar vossas maldades, manifestando vossas rebeliões, e revelando vossos pecados em todas vossos atos; por teres feito relembrar, sereis presos com a mão. 
 \v 25 E tu, profano e perverso príncipe de Israel, cujo dia do tempo do fim da maldade virá,
 \v 26 Assim diz o Senhor DEUS: Tira o turbante, tira a coroa; esta não será a mesma; ao humilde exaltarei, e ao exaltado humilharei.
-\v 27 Ruína! Ruína! Ruína a farei; e ela não será \add restaurada\add* ,até que venha aquele a quem lhe pertence por direito, e \add a ele\add*  a darei.
+\v 27 Ruína! Ruína! Ruína a farei; e ela não será \add restaurada\add* , até que venha aquele a quem lhe pertence por direito, e \add a ele\add*  a darei.
 \v 28 E tu, filho do homem, profetiza, e dize: Assim diz o Senhor DEUS sobre os filhos de Amom, e sua humilhação; Dize pois:  A espada, a espada está desembainhada, polida para a matança, para destruir, para reluzir como relâmpago,
 \v 29 Enquanto te profetizam falsidade, enquanto te adivinham mentira; para te porem sobre os pescoços dos perversos condenados à morte, cujo dia virá no tempo do fim da maldade.
 \v 30 Torna \add tua espada\add*  à sua bainha! No lugar onde foste criado, na terra de teu nascimento eu te julgarei.
@@ -773,8 +773,8 @@
 
 \v 1 E veio a mim a palavra do SENHOR, dizendo:
 \v 2 Tu, pois, filho do homem, levanta uma lamentação sobre Tiro.
-\v 3 E dize a Tiro, que habita nas entradas do mar, e faz comércio com dos povos em muitas terras costeiras: Assim diz o Senhor DEUS:  Ó Tiro, tu dizes:  Eu sou perfeita em formosura. 
-\v 4 Teus limites estão no coração dos mares; os que te edificaram aperfeiçoaram tua formosura.
+\v 3 E dize a Tiro, que habita nas entradas do mar, e faz comércio com dos povos em muitas terras costeiras: Assim diz o Senhor DEUS: Ó Tiro, tu dizes: Eu sou perfeita em beleza.
+\v 4 Teus limites estão no coração dos mares; os que te edificaram aperfeiçoaram a tua beleza.
 \v 5 Fabricaram todos os teus conveses com faias de Senir; trouxeram cedros do Líbano para fazerem mastros para ti.
 \v 6 Fizeram teus remos \add com\add*  carvalhos de Basã; fizeram teus bancos com ciprestes das ilhas do Chipre,  \f + \fq Chipre \ft lit. Quitim  \f* unidos com marfim.
 \v 7 Linho bordado do Egito era tua cortina, para te servir de vela; de azul e púrpura das ilhas de Elisá era teu toldo.
@@ -822,10 +822,10 @@
 \v 9 Por acaso dirás: Eu sou Deus, diante de teu matador?  Tu és homem, e não Deus, nas mãos de quem te matar. 
 \v 10 De morte de incircuncisos morrerás, pela mão de estrangeiros; porque \add assim\add*  eu falei, diz o Senhor DEUS. 
 \v 11 E veio a mim a palavra do SENHOR, dizendo:
-\v 12 Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-lhe: Assim diz o Senhor DEUS:  Tu eras o selo da perfeição,  \f + \fq perfeição \ft obscuro  \f* cheio de sabedoria, e perfeito em formosura. 
+\v 12 Filho do homem, levanta uma lamentação sobre o rei de Tiro, e dize-lhe: Assim diz o Senhor DEUS: Tu eras o carimbo da perfeição, \f + \ft obscuro \f*  cheio de sabedoria, e perfeito em formosura. 
 \v 13 Estiveste no Éden, o jardim de Deus; toda pedra preciosa era tua cobertura; sárdio, topázio, diamante, turquesa, ônix, jaspe, safira, carbúnculo, e esmeralda; e \add de\add*  ouro era a obra de tuas molduras e de teus engastes em ti; no dia em que foste criado estavam preparados.  \f + \fq molduras, engastes \ft obscuro – tradicionalmente tamborins e flautas  \f* 
 \v 14 Tu eras querubim ungido, cobridor;  \f + \fq cobridor \ft obscuro – talvez guardião  \f* e eu te estabeleci, no santo monte de Deus estavas; no meio de pedras de fogo tu andavas.
-\v 15 Perfeito eras em teus caminhos, desde o dia em que foste criado, até que se achou maldade em ti.
+\v 15 Íntegro eras em teus caminhos, desde o dia em que foste criado, até que se achou maldade em ti.
 \v 16 Pela abundância de teu comércio encheram o meio de ti de violência; por isso eu te expulsei como profanado do monte de Deus, e te farei perecer, ó querubim cobridor, do meio das pedras de fogo.
 \v 17 Teu coração se exaltou por causa de tua formosura, corrompeste tua sabedoria por causa de teu resplendor; eu te lancei por terra; diante dos reis eu te pus, para que olhem para ti.
 \v 18 Por causa da multidão de tuas maldades e da perversidade de teu comércio, profanaste teus santuários; por isso eu fiz sair um fogo do meio de ti, o qual te consumiu; e te tornei em cinza sobre a terra, diante dos olhos de todos quantos te veem.

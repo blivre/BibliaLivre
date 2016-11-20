@@ -1,4 +1,4 @@
-﻿\id 2TI B�blia Livre - Textus Receptus
+﻿\id 2TI Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 2 Timóteo
 \toc1 Segunda Carta de Paulo a Timóteo
@@ -45,7 +45,7 @@
 \v 11 Fiel \add é esta\add*  palavra: porque se morrermos com \add ele\add* , também com \add ele\add*  viveremos;
 \v 12 Se sofrermos, também com \add ele\add*  reinaremos; se o negarmos, ele também nos negará;
 \v 13 Se formos infiéis, ele continua fiel; \add porque\add*  ele não pode negar a si mesmo.
-\v 14 Traze estas coisas à memória \add deles\add* ,ordenando sob juramento diante do Senhor, que não tenham brigas por meio de palavras, que para nada aproveitam, \add a não ser\add*  para a perversão dos ouvintes.
+\v 14 Traze estas coisas à memória \add deles\add* , ordenando sob juramento diante do Senhor, que não tenham brigas por meio de palavras, que para nada aproveitam, \add a não ser\add*  para a perversão dos ouvintes.
 \v 15 Procura te apresentares aprovado diante de Deus, \add como\add*  trabalhador que não tem de que se envergonhar, que utiliza corretamente a palavra da verdade.
 \v 16 Mas mantenha distância das conversas profanas \add e\add*  vãs; porque elas prosseguirão em muito mais maldade.
 \v 17 E a palavra deles se propagará como uma gangrena; dentre os quais são Himeneu e Fileto;
@@ -78,7 +78,7 @@
 \v 14 Porém tu, continua nas coisas que aprendeste, e \add das quais\add*  foste confirmado, sabendo de quem tendes aprendido.
 \v 15 E que desde tua infância conheceste as Sagradas Escrituras; as quais te podem fazer sábio para a salvação pela fé em Cristo Jesus.
 \v 16 Toda a Escritura é divinamente inspirada e proveitosa para o ensino, para a exposição de erros, para a correção, e para a instrução na justiça;
-\v 17 Para que o homem de Deus seja perfeito, \add e\add*  perfeitamente instruído para toda boa obra.
+\v 17 Para que o homem de Deus seja completo, plenamente instruído para toda boa obra.
 
 \c 4
 \p

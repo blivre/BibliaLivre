@@ -1170,7 +1170,11 @@ Mas quando vier o
 \added
 que é
 \*added
- perfeito, então o que é em parte será aniquilado.
+ completo,
+\added
+Ou: perfeito
+\*added
+ então o que é em parte será aniquilado.
 \v 1Co.13.11
 Quando eu era menino, falava como menino, sentia como menino, pensava como menino; mas quando me tornei homem, aniquilei as coisas de menino.
 \v 1Co.13.12

@@ -1,4 +1,4 @@
-﻿\id 3JN B�blia Livre - Textus Receptus
+﻿\id 3JN Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 3 João
 \toc1 Terceira Carta de João

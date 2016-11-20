@@ -1,4 +1,4 @@
-﻿\id EXO B�blia Livre - Textus Receptus
+﻿\id EXO Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Êxodo
 \toc1 Livro do Êxodo

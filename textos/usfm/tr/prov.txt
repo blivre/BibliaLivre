@@ -1,4 +1,4 @@
-﻿\id PRO B�blia Livre - Textus Receptus
+﻿\id PRO Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Provérbios
 \toc1 Provérbios de Salomão

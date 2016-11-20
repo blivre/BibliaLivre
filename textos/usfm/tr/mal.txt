@@ -1,4 +1,4 @@
-﻿\id MAL B�blia Livre - Textus Receptus
+﻿\id MAL Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Malaquias
 \toc1 Malaquias

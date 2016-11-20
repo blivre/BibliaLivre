@@ -1,4 +1,4 @@
-﻿\id HEB B�blia Livre - Textus Receptus
+﻿\id HEB Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Hebreus
 \toc1 Carta aos Hebreus
@@ -183,7 +183,7 @@ E outra vez: Eis-me aqui, com os filhos que Deus me deu.
 \v 16 que foi constituído, não conforme a Lei de um mandamento carnal, mas sim, conforme o poder de uma vida indestrutível.
 \v 17 Pois \add assim\add*  ele dá testemunho: Tu és Sacerdote para sempre, segundo a ordem de Melquisedeque.
 \v 18 Porque há uma revogação do mandamento anterior, por causa da sua fraqueza e inutilidade,
-\v 19 pois a Lei nada tornou perfeito. Porém, uma esperança melhor é introduzida, e por meio dela nos aproximamos de Deus.
+\v 19 pois a Lei não tornou perfeito nada. Porém, uma esperança melhor é introduzida, e por meio dela nos aproximamos de Deus.
 \v 20 E isso não foi \add feito\add*  sem juramento (pois os outros se tornaram sacerdotes sem juramento,
 \v 21 mas ele \add foi estabelecido\add*  com um juramento daquele que lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre,  segundo a ordem de Melquisedeque).
 \v 22 Assim, Jesus foi feito fiador de um pacto \f + \fq pacto \ft ou: testamento \f*  ainda melhor.
@@ -252,7 +252,7 @@ E outra vez: Eis-me aqui, com os filhos que Deus me deu.
 \c 10
 \p
 
-\v 1 Pois, como a Lei tem uma sombra dos bens futuros, e não a própria imagem das coisas, ela nunca pode, por meio dos mesmos sacrifícios que oferecem a cada ano, continuamente, tornar perfeitos os que se aproximam. \f + \fq os que se aproximam \ft i.e., os que se aproximam para oferecer sacrifícios \f* 
+\v 1 Pois, como a Lei tem uma sombra dos bens futuros, e não a própria imagem das coisas, ela nunca pode, por meio dos mesmos sacrifícios que se oferecem a cada ano, continuamente, tornar perfeitos os que se aproximam. \f + \fq os que se aproximam \ft i.e., os que se aproximam para oferecer sacrifícios \f* 
 \v 2 Caso contrário, deixariam de ser oferecidos, pois os adoradores, uma vez purificados, não teriam mais consciência alguma de pecados.
 \v 3 Porém nesses \add sacrifícios\add*  a cada ano \add se faz\add*  uma nova lembrança dos pecados,
 \v 4 porque é impossível que o sangue de touros e de bodes tire pecados.

@@ -1,4 +1,4 @@
-﻿\id NEH B�blia Livre - Textus Receptus
+﻿\id NEH Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Neemias
 \toc1 Neemias

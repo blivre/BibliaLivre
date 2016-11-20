@@ -1,4 +1,4 @@
-﻿\id MAT B�blia Livre - Textus Receptus
+﻿\id MAT Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Mateus
 \toc1 Evangelho Segundo Mateus
@@ -761,7 +761,7 @@ Porque eu não vim chamar os justos, mas sim os pecadores, ao arrependimento.
 
 \v 6 Assim eles já não são mais dois, mas sim uma única carne; portanto, o que Deus juntou, o ser humano não separe.
 \v 7 Eles lhe disseram: Por que, pois, Moisés mandou \add lhe\add*  dar carta de separação, e divorciar-se dela?
-\v 8  \add Jesus\add*  lhes disse: Por causa da dureza dos vossos corações Moisés vos permitiu divorciardes de vossas mulheres; mas no princípio não foi assim.
+\v 8 \add Jesus\add*  lhes disse: Por causa da dureza dos vossos corações Moisés vos permitiu divorciardes de vossas mulheres; mas no princípio não foi assim.
 \v 9 Porém eu vos digo que qualquer um que se divorciar de sua mulher, a não ser por causa de pecado sexual, e se casar com outra, adultera; e o que se casar com a divorciada \add também\add*  adultera.
 \v 10 Os seus discípulos lhe disseram: Se assim é a condição do homem com a mulher, não convém se casar.
 \v 11 Porém ele lhes disse: Nem todos recebem esta palavra, a não ser aqueles a quem é dado; \f + \fq quem é dado \ft i.e., quem é dado o dom ou capacidade de não ter relações sexuais \f* 
@@ -774,7 +774,7 @@ Porque eu não vim chamar os justos, mas sim os pecadores, ao arrependimento.
 \v 18 Perguntou-lhe ele: Quais?E Jesus respondeu: Não cometerás homicídio, não adulterarás, não furtarás, não darás falso testemunho;
 \v 19 honra ao teu pai e à \add tua\add*  mãe; e amarás ao teu próximo como a ti mesmo.
 \v 20 O rapaz lhe disse: Tenho guardado tudo isso desde a minha juventude. Que me falta ainda?
-\v 21 Disse-lhe Jesus: Se queres ser perfeito, vai, vende o que tens, e dá aos pobres. Assim terás um tesouro no céu. Então vem, segue-me.
+\v 21 Disse-lhe Jesus: Se queres ser completo, vai, vende o que tens, e dá aos pobres. Assim terás um tesouro no céu. Então vem, segue-me.
 \v 22 Mas quando o rapaz ouviu esta palavra, foi embora triste, porque tinha muitos bens.
 \v 23 Jesus, então, disse aos seus discípulos: Em verdade vos digo que dificilmente o rico entrará no reino dos céus.
 \v 24 Aliás, eu vos digo que é mais fácil um camelo passar pela abertura de uma agulha do que o rico entrar no reino de Deus.

@@ -1,4 +1,4 @@
-﻿\id JOL B�blia Livre - Textus Receptus
+﻿\id JOL Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Joel
 \toc1 Joel

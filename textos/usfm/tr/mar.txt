@@ -1,4 +1,4 @@
-﻿\id MRK B�blia Livre - Textus Receptus
+﻿\id MRK Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Marcos
 \toc1 Evangelho Segundo Marcos
@@ -505,7 +505,7 @@
 \rq Isaías 56:7 \rq*
  Mas vós fizestes dela esconderijo de ladrões!
 \v 18 Os escribas e os chefes dos sacerdotes ouviram isso, e buscavam uma maneira de o matar; pois o temiam, porque toda a multidão estava admirada do ensino dele.
-\v 19 E como já era tarde, \add Jesus\add*  saiufora da cidade.
+\v 19 E como já era tarde, \add Jesus\add*  saiu fora da cidade.
 \v 20 E passando pela manhã, viram que a figueira estava seca desde as raízes.
 \v 21 Pedro se lembrou disso, e disse-lhe: Mestre, eis que a figueira que amaldiçoaste, se secou.
 \v 22 E respondendo Jesus, disse-lhes: Tende fé em Deus.
@@ -627,7 +627,7 @@ Não há outro mandamento maior que estes.
 \v 2 Diziam, porém: “Não na festa, para que não aconteça tumulto entre o povo.”
 \v 3 E estando ele em Betânia, na casa de Simão o Leproso, sentado \add à mesa\add* , veio uma mulher, que tinha um vaso de alabastro, de óleo perfumado de nardo puro, de muito preço, e quebrando o vaso de alabastro, derramou-o sobre a cabeça dele.
 \v 4 E houve alguns que em si mesmos se indignaram, e disseram: “Para que foi feito este desperdício do óleo perfumado?
-\v 5 Porque isto podia ter sido vendido por mais de trezentos denários, e seria dado aos pobres.” #lb|E reclamavam contra ela.
+\v 5 Porque isto podia ter sido vendido por mais de trezentos denários, e seria dado aos pobres.” E reclamavam contra ela.
 \v 6 Porém Jesus disse: “Deixai-a; por que a incomodais? Ela me fez boa obra.
 \v 7 Porque pobres sempre tendes convosco; e quando quiserdes, podeis lhes fazer bem; porém a mim, nem sempre me tendes.
 \v 8 Esta fez o que podia; adiantou-se para ungir o meu corpo, para a sepultura.
@@ -712,9 +712,9 @@ Não há outro mandamento maior que estes.
 \v 9 E Pilatos lhes respondeu: Quereis que eu vos solte o Rei dos Judeus?
 \v 10 (Porque ele sabia que os chefes dos sacerdotes haviam o entregue por inveja).
 \v 11 Mas os chefes dos sacerdotes incitaram a multidão, para que, em vez disso, lhes soltasse Barrabás.
-\v 12 E Pilatos, respondendo, disse-lhes outra vez: Que pois, quereis que eu faça com aquele a quem chamais Rei dos Judeus?
+\v 12 E Pilatos, respondendo, disse-lhes outra vez: Que, pois, quereis que eu faça com aquele a quem chamais Rei dos Judeus?
 \v 13 E eles voltaram a clamar: Crucifica-o!
-\v 14 Mas Pilatos lhes disse: Por quê? Que mal ele fez? E eles clamavam ainda mais:  Crucifica-o!
+\v 14 Mas Pilatos lhes disse: Por quê? Que mal ele fez? E eles gritavam ainda mais: Crucifica-o!
 \v 15 Então Pilatos, querendo satisfazer à multidão, soltou-lhes Barrabás; e entregou Jesus açoitado, para que fosse crucificado.
 \v 16 E os soldados o levaram para o pátio, que é o pretório; e convocaram toda a tropa.
 \v 17 E o vestiram de púrpura; teceram uma coroa de espinhos, e puseram nele.
@@ -723,7 +723,7 @@ Não há outro mandamento maior que estes.
 \v 20 Quando o escarneceram, despiram-lhe a púrpura, vestiram-no com as suas próprias roupas, e o levaram afora, para o crucificarem.
 \v 21 E forçaram um Simão cireneu, que estava passando, vindo do campo, o pai de Alexandre e de Rufo, para que levasse sua cruz.
 \v 22 E o levaram ao lugar de Gólgota, que traduzido é: o lugar da caveira.
-\v 23 E deram-lhe a beber vinho misturado com mirra; mas ele não o tomou.
+\v 23 E ofereceram-lhe a beber vinho misturado com mirra; mas ele não o tomou.
 \v 24 E havendo o crucificado, repartiram a roupas dele, lançando-lhes sortes, para o que cada um levaria.
 \v 25 Era a hora terceira, e o crucificaram.
 \v 26 E a descrição de sua acusação estava acima escrita: O REI DOS JUDEUS.
@@ -732,14 +732,14 @@ Não há outro mandamento maior que estes.
 \v 29 E os que passavam blasfemavam dele, balançando suas cabeças, e dizendo: Ah! tu que derrubas o templo, e em três dias o edificas,
 \v 30 salva a ti mesmo, e desce da cruz!
 \v 31 E da mesma maneira também os chefes dos sacerdotes, com os escribas, diziam aos outros, escarnecendo: Ele salvou a outros, a si mesmo não pode salvar!
-\v 32 Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos!Os que estavam crucificados com ele também o insultavam.
+\v 32 Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos! Os que estavam crucificados com ele também o insultavam.
 \v 33 E vinda a hora sexta, vieram trevas sobre toda a terra, até a hora nona.
-\v 34 E na hora nona, Jesus exclamou em alta voz: ELOÍ, ELOÍ, LAMÁ SABACTÂNI, que traduzido é:  Deus meu, Deus meu, por que me desamparaste?
+\v 34 E na hora nona, Jesus exclamou em alta voz: ELOÍ, ELOÍ, LAMÁ SABACTÂNI, que traduzido é: Deus meu, Deus meu, por que me desamparaste?
 \v 35 E alguns dos que ali estavam, quando ouviram, disseram: Eis que ele está chamando Elias.
 \v 36 E um correu, encheu de vinagre uma esponja; e pondo-a em uma cana, dava-lhe de beber, dizendo: Deixai, vejamos se Elias virá tirá-lo.
 \v 37 E Jesus bradou em grande voz, então expirou.
 \v 38 E o véu do Templo se rasgou em dois do alto abaixo.
-\v 39 E o centurião que estava ali diante dele, vendo que expirara bradando assim, disse: Verdadeiramente este homem era Filho de Deus.
+\v 39 E o centurião que estava ali diante dele, vendo que havia expirado bradando assim, disse: Verdadeiramente este homem era Filho de Deus.
 \v 40 E também estavam ali \add algumas\add*  mulheres olhando de longe, entre as quais estava também Maria Madalena, e Maria (mãe de Tiago o menor e de José), e Salomé;
 \v 41 as quais também, quando ele estava na Galileia, o seguiam, e o serviam; e outras muitas, que haviam subido com ele a Jerusalém.
 \v 42 E quando já vinha o final da tarde, porque era a preparação, que é o dia antes de sábado,

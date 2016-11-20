@@ -1,4 +1,4 @@
-﻿\id HAG B�blia Livre - Textus Receptus
+﻿\id HAG Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Ageu
 \toc1 Ageu

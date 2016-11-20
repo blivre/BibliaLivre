@@ -1,4 +1,4 @@
-﻿\id PHM B�blia Livre - Textus Receptus
+﻿\id PHM Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Filemom
 \toc1 Carta de Paulo a Filemom

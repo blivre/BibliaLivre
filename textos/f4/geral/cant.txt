@@ -58,7 +58,7 @@ Dize-me, amado de minha alma: onde apascentas
 \added
 o teu gado
 \*added
- ? Onde 
+? Onde 
 \added
 o
 \*added
@@ -98,7 +98,6 @@ como
 \*added
  um ramalhete de hena nas vinhas de Engedi.
 \v Ct.1.15
- 
 \added
 Ele
 \*added
@@ -108,7 +107,6 @@ como
 \*added
  pombas.
 \v Ct.1.16
- 
 \added
 Ela
 \*added
@@ -238,7 +236,6 @@ Antes do dia nascer, e das sombras fugirem, irei ao monte de mirra, e ao morro d
 \v Ct.4.7
 Tu és bela, minha querida! Não há defeito algum em ti.
 \v Ct.4.8
- 
 \added
 Vem
 \*added
@@ -260,17 +257,15 @@ Tuas plantas são uma horta de romãs, com frutos excelentes: hena e nardo.
 \v Ct.4.14
 Nardo, açafrão, cálamo e canela; com todo tipo de árvores de incenso: mirra, aloés, com todas as melhores especiarias.
 \v Ct.4.15
- 
 \added
 Tu és
 \*added
  uma fonte de jardins, um poço de águas vivas que corre do Líbano.
 \v Ct.4.16
- 
 \added
 Ela
 \*added
- : Levanta-te, vento norte! E vem, ó vento sul! Assopra em meu jardim, para que espalhem os seus aromas! Que meu amado venha a seu jardim, e coma de seus excelentes frutos.
+: Levanta-te, vento norte! E vem, ó vento sul! Assopra em meu jardim, para que espalhem os seus aromas! Que meu amado venha a seu jardim, e coma de seus excelentes frutos.
 \v Ct.5.1
 \added
 Ele

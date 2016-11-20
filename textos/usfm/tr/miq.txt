@@ -1,4 +1,4 @@
-﻿\id MIC B�blia Livre - Textus Receptus
+﻿\id MIC Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Miqueias
 \toc1 Miqueias

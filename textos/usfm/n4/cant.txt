@@ -16,7 +16,7 @@
 \v 4 Toma-me contigo, e corramos; traga-me o rei aos seus quartos.\add Moças\add* :  Em ti nos alegraremos e nos encheremos de alegria; nos agradaremos mais de teu amor do que do vinho;\add Ela\add* :  Elas estão certas em te amar;
 \v 5 Eu sou morena, porém bela, ó filhas de Jerusalém: \add morena\add*  como as tendas de Quedar, \add bela\add*  como as cortinas de Salomão.
 \v 6 Não fiquem me olhando por eu ser morena, pois o sol brilhou sobre mim; os filhos de minha mãe se irritaram contra mim, \add e\add*  me puseram para cuidar de vinhas; \add porém\add*  minha própria vinha, que me pertence, não cuidei.
-\v 7 Dize-me, amado de minha alma: onde apascentas \add o teu gado\add*  ? Onde \add o\add*  recolhes ao meio- dia? Para que ficaria eu como que coberta com um véu por entre os gados de teus colegas?  \f + \fq coberta por um véu \ft obscuro - trad. alt. andando sem rumo  \f* 
+\v 7 Dize-me, amado de minha alma: onde apascentas \add o teu gado\add* ? Onde \add o\add*  recolhes ao meio- dia? Para que ficaria eu como que coberta com um véu por entre os gados de teus colegas?  \f + \fq coberta por um véu \ft obscuro - trad. alt. andando sem rumo  \f* 
 \v 8 \add Ele\add* : Se tu, a mais bela entre as mulheres, não sabes, sai pelos rastros das ovelhas, e apascenta tuas cabras junto às tendas dos pastores.
 \v 9 Eu te comparo, querida, às éguas das carruagens de Faraó.
 \v 10 Agradáveis são tuas laterais da face entre os enfeites, teu pescoço entre os colares.
@@ -24,8 +24,8 @@
 \v 12 \add Ela\add* : Enquanto o rei está sentado à sua mesa, meu nardo dá a sua fragrância.
 \v 13 Meu amado é para mim \add como\add*  um saquinho de mirra que passa a noite entre meus seios;
 \v 14 Meu amado é para mim \add como\add*  um ramalhete de hena nas vinhas de Engedi.
-\v 15  \add Ele\add* : Como tu és bela, minha querida! Como tu és bela! Teus olhos são \add como\add*  pombas.
-\v 16  \add Ela\add* : Como tu és belo, meu amado! Como \add tu és\add*  agradável! E o nosso leito se enche de folhagens.
+\v 15 \add Ele\add* : Como tu és bela, minha querida! Como tu és bela! Teus olhos são \add como\add*  pombas.
+\v 16 \add Ela\add* : Como tu és belo, meu amado! Como \add tu és\add*  agradável! E o nosso leito se enche de folhagens.
 \v 17 As vigas de nossa casa são os cedros, e nossos caibros os ciprestes.
 
 \c 2
@@ -74,15 +74,15 @@
 \v 5 Teus dois seios são como dois filhos gêmeos da corça, que pastam entre os lírios.
 \v 6 Antes do dia nascer, e das sombras fugirem, irei ao monte de mirra, e ao morro do incenso.
 \v 7 Tu és bela, minha querida! Não há defeito algum em ti.
-\v 8  \add Vem\add*  comigo do Líbano, ó esposa minha, vem comigo do Líbano; desce do cume de Amaná, do cume de Senir e de Hermom, das montanhas das leoas, dos montes dos leopardos.
+\v 8 \add Vem\add*  comigo do Líbano, ó esposa minha, vem comigo do Líbano; desce do cume de Amaná, do cume de Senir e de Hermom, das montanhas das leoas, dos montes dos leopardos.
 \v 9 Tomaste meu coração, minha irmã, minha esposa; tomaste o meu coração com um de teus olhos, com um colar de teu pescoço.
 \v 10 Como são agradáveis os teus amores, minha irmã, minha esposa! São bem melhores do que o vinho; e o cheiro de teus unguentos \add é melhor\add*  que todas as especiarias.
 \v 11 Favos de mel descem de teus lábios, ó esposa; mel e leite estão debaixo de tua língua; e o cheiro de teus vestidos é como o cheiro do Líbano.
 \v 12 Jardim fechado és tu, minha irmã, minha esposa; manancial fechado, uma fonte selada.
 \v 13 Tuas plantas são uma horta de romãs, com frutos excelentes: hena e nardo.
 \v 14 Nardo, açafrão, cálamo e canela; com todo tipo de árvores de incenso: mirra, aloés, com todas as melhores especiarias.
-\v 15  \add Tu és\add*  uma fonte de jardins, um poço de águas vivas que corre do Líbano.
-\v 16  \add Ela\add*  : Levanta-te, vento norte! E vem, ó vento sul! Assopra em meu jardim, para que espalhem os seus aromas! Que meu amado venha a seu jardim, e coma de seus excelentes frutos.
+\v 15 \add Tu és\add*  uma fonte de jardins, um poço de águas vivas que corre do Líbano.
+\v 16 \add Ela\add* : Levanta-te, vento norte! E vem, ó vento sul! Assopra em meu jardim, para que espalhem os seus aromas! Que meu amado venha a seu jardim, e coma de seus excelentes frutos.
 
 \c 5
 \p

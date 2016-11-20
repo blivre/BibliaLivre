@@ -1,4 +1,4 @@
-﻿\id TIT B�blia Livre - Textus Receptus
+﻿\id TIT Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h Tito
 \toc1 Carta de Paulo a Tito

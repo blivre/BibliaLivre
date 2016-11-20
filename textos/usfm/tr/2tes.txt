@@ -1,4 +1,4 @@
-﻿\id 2TH B�blia Livre - Textus Receptus
+﻿\id 2TH Bíblia Livre - Textus Receptus
 \ide UTF-8
 \h 2 Tessalonicenses
 \toc1 Segunda Carta de Paulo aos Tessalonicenses

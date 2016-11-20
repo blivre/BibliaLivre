@@ -1027,8 +1027,8 @@ N4 não considera autêntico o texto entre João 7:53 e 8:11
  }{n4:
 \fn
 Alguns manuscritos antigos omitem o texto João 7:53 e 8:11, e outros o põem em outros lugares, como no final do evangelho de João ou como parte do evangelho de Lucas
-\*fn
- } cada um foi para sua casa.
+\*fn}
+ cada um foi para sua casa.
 \v Jo.8.1
 Porém Jesus foi para o monte das Oliveiras.
 \v Jo.8.2
@@ -1672,11 +1672,11 @@ Se alguém me serve, siga-me; e onde eu estiver, ali estará também meu servo. 
 \v Jo.12.27
 Agora minha alma está perturbada; e que direi? Pai, salva-me desta hora; mas por isso vim a esta hora.
 \v Jo.12.28
-Pai, glorifica teu Nome.Veio pois uma voz do céu, 
+Pai, glorifica teu Nome. Veio, pois, uma voz do céu, 
 \added
 que dizia
 \*added
- : E já 
+: E já 
 \added
 o
 \*added
@@ -1720,7 +1720,7 @@ Os olhos lhes cegou, e o coração lhes endureceu; para não acontecer que vejam
 \v Jo.12.41
 Isto disse Isaías, quando viu sua glória, e falou dele.
 \v Jo.12.42
-Contudo ainda até muitos dos chefes também creram nele; mas não o confessavam por causa dos fariseus; por não serem expulsos da sinagoga.
+Contudo ainda até muitos dos chefes também creram nele; mas não o confessavam por causa dos fariseus; para não serem expulsos da sinagoga.
 \v Jo.12.43
 Porque amavam mais a glória humana do que a glória de Deus.
 \v Jo.12.44
@@ -2176,7 +2176,7 @@ ainda
 \added
 somos
 \*added
- .
+.
 \v Jo.17.12
 Quando eu com eles estava no mundo, em teu nome eu os guardava. A aqueles que tu me deste eu os tenho guardado; e nenhum deles se perdeu, a não ser o filho da perdição, para que a Escritura se cumpra.
 \v Jo.17.13
@@ -2200,7 +2200,8 @@ Para que todos sejam um; como tu, Pai, em mim, e eu em ti, que também eles em n
 \v Jo.17.22
 E eu tenho lhes dado a glória que tu me deste, para que sejam um, tal como nós somos um.
 \v Jo.17.23
-Eu neles, e tu em mim; para que perfeitos sejam em um; e para que o mundo conheça que tu me enviaste, e que tu amaste a eles, assim como amaste a mim.
+Eu neles, e tu em mim; para que sejam completos em um; e para que o mundo conheça que tu me enviaste, e que tu os 
+amaste, assim como me amaste.
 \v Jo.17.24
 Pai, aqueles que tens me dado, quero que onde eu estiver, eles também estejam comigo; para que vejam minha glória, que tens me dado, pois tu me amaste desde antes da fundação do mundo.
 \v Jo.17.25
