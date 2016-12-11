@@ -51,11 +51,11 @@ como
  no judaísmo eu era mais avançado que muitos de minha idade em minha nação, e era extremamente zeloso das tradições de meus pais.
 \v Gl.1.15
 Mas quando 
-  aquele
+ aquele
 \fn
 TR, RP contêm “Deus” em lugar de “aquele”
 \*fn
-  que me separou desde o ventre da minha mãe, e por sua graça me chamou , se agradou
+ que me separou desde o ventre da minha mãe, e por sua graça me chamou , se agradou
 \v Gl.1.16
 de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
 \fn
@@ -124,7 +124,7 @@ Lit. “o [Evangelho] da circuncisão”
 \v Gl.2.8
 (pois aquele que operou em Pedro para o apostolado da circuncisão, esse operou também em mim para os gentios)
 \v Gl.2.9
-E quando Tiago, Cefas, e João, que eram considerados como colunas, reconheceram a graça que me foi dada, eles estenderam as mãos direitas de comunhão a mim e a Barnabé, para que nós 
+e quando Tiago, Cefas, e João, que eram considerados como colunas, reconheceram a graça que me foi dada, eles estenderam as mãos direitas de comunhão a mim e a Barnabé, para que nós 
 \added
 fôssemos
 \*added
@@ -136,7 +136,6 @@ E quando Cefas
 \fn
 Isto é, Pedro
 \*fn
- 
  veio a Antioquia, estive contra ele face a face, pois ele devia ser repreendido;
 \v Gl.2.12
 porque, antes que alguns que Tiago enviou chegassem, ele comia com os gentios; mas depois que chegaram, ele se retirou e se separou, temendo os que eram da circuncisão.
@@ -147,7 +146,6 @@ Mas quando vi que não estavam agindo corretamente conforme a verdade do Evangel
 \fn
 Isto é, Pedro
 \*fn
- 
  “Se tu, que és judeu, vives como gentio, e não como judeu, como obrigas
  os gentios a viverem como judeus?”
 \v Gl.2.15
@@ -299,7 +297,7 @@ Mas digo isto: o pacto foi confirmado anteriormente por Deus ;
 \fn
 TR, RP acrescentam “em Cristo”
 \*fn
-  e a Lei que veio quatrocentos e trinta anos depois não o invalida de maneira que anule a promessa.
+ e a Lei que veio quatrocentos e trinta anos depois não o invalida de maneira que anule a promessa.
 \v Gl.3.18
 Pois, se a herança é pela Lei, já não é pela promessa; mas foi por meio da promessa que Deus a concedeu gratuitamente a Abraão.
 \v Gl.3.19

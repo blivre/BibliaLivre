@@ -15,6 +15,7 @@ Os arquivos estão distribuídos da seguinte maneira, dentro do diretório **tex
 	 - **tr**: arquivos gerados com o Novo Testamento grego *Textus Receptus*.
 	 - **n4**: arquivos gerados com o Novo Testamento *Nestle 1904* (texto crítico).
 	 - **geral**: arquivos que servem de base para a geração das versões tr e n4. (o Antigo Testamento é idêntico para ambos os formatos)
+ - **CrossWireSword**: versões tr e n4 para o formato Sword, da CrossWire.
  - **epub**: versões tr e n4 no formato epub, livro eletrônico.
  - **mobi**: versões tr e n4 no formato mobi, para dispositivos *Kindle* (convertidos do formato epub).
  - **mySword**: versões tr e n4 para aplicativo *mySword* para dispositivos *Android*.

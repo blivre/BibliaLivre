@@ -45,7 +45,14 @@ Bendito
 \fn
 Lit. Bem-aventurado
 \*fn
- é o homem que suporta a provação; pois, quando for aprovado, receberá a coroa da vida, que o Senhor prometeu aos que o amam.
+ é o homem que suporta a provação; pois, quando for aprovado, receberá a coroa da vida, que 
+{n4:\added}
+o Senhor
+{trnc:\fn
+N4 omite “o Senhor”
+\*fn}
+{n4:\*added}
+ prometeu aos que o amam.
 \v Tg.1.13
 Ninguém, quando for tentado, diga: “Sou tentado por Deus”; porque Deus não é tentado pelo mal, e ele mesmo tenta ninguém;
 \v Tg.1.14
@@ -59,7 +66,15 @@ Toda boa dádiva e todo dom perfeito vem do alto, e desce do Pai das luzes, em q
 \v Tg.1.18
 Conforme a sua própria vontade, ele nos gerou pela palavra da verdade, para que fôssemos os primeiros frutos dentre as suas criaturas.
 \v Tg.1.19
-Portanto, meus amados irmãos, toda pessoa seja pronta para ouvir, tardia para falar, tardia para se irar;
+{tr,rp:Portanto}{n4:Entendei 
+\added
+isso
+\*added}
+,
+{trnc:\fn
+N4: Omite “Portanto”, e substitui por “Entendei isso”
+\*fn}
+ meus amados irmãos{tr,rp:,}{n4:. Mas} toda pessoa seja pronta para ouvir, tardia para falar, tardia para se irar;
 \v Tg.1.20
 porque a ira humana não cumpre a justiça de Deus.
 \v Tg.1.21
@@ -85,7 +100,11 @@ Lit. Bem-aventurado
 \*fn
  no que fizer.
 \v Tg.1.26
-Se alguém entre vós pensa ser religioso, mas não controla a sua língua, então engana o seu próprio coração, e a religião desse é vã.
+Se alguém{tr,rp: entre vós}
+{trnc:\fn
+N4 omite “entre vós”
+\*fn}
+ pensa ser religioso, mas não controla a sua língua, então engana o seu próprio coração, e a religião desse é vã.
 \v Tg.1.27
 A religião pura e não contaminada para com Deus e Pai é esta: visitar os órfãos e as viúvas nas suas aflições, e guardar a si mesmo sem a corrupção do mundo.
 \v Tg.2.1
@@ -93,11 +112,23 @@ Meus irmãos, não tenhais a fé do nosso glorioso Senhor Jesus Cristo em acepç
 \v Tg.2.2
 Pois se algum homem entrar na vossa congregação com anéis de ouro e trajes preciosos, e também entrar algum pobre com roupa de pouco valor,
 \v Tg.2.3
-e derdes atenção ao que usa o traje precioso, e lhe disserdes: “Senta aqui, num lugar de honra”, mas ao pobre disserdes: “Fica ali em pé” ou “senta-te aqui abaixo do apoio dos meus pés”,
+e derdes atenção ao que usa o traje precioso, e{tr,rp: lhe}
+{trnc:\fn
+N4 omite “lhe”
+\*fn}
+ disserdes: “Senta aqui, num lugar de honra”, mas ao pobre disserdes: “Fica ali em pé” ou “senta-te{tr,rp: aqui}
+{trnc:\fn
+N4 omite “aqui”
+\*fn}
+ abaixo do apoio dos meus pés”,
 \v Tg.2.4
 por acaso não fizestes discriminação entre vós mesmos, e não vos tornastes juízes de maus pensamentos?
 \v Tg.2.5
-Ouvi, meus amados irmãos: acaso Deus não escolheu os pobres deste mundo para 
+Ouvi, meus amados irmãos: acaso Deus não escolheu os pobres {tr:deste}{rp:do}{n4:quanto ao}
+{trnc:\fn
+TR: pobres deste mundo - RP: pobres do mundo - N4: pobres quanto ao mundo
+\*fn}
+ mundo para 
 \added
 serem
 \*added
@@ -147,11 +178,18 @@ disso
 \v Tg.2.17
 Assim também a fé, se não tiver obras, é morta em si mesma.
 \v Tg.2.18
-Mas alguém dirá: Tu tens fé e eu tenho obras. Mostra-me a tua fé sem as tuas obras, e eu, pelas minhas obras, te mostrarei a minha fé.
+Mas alguém dirá: Tu tens fé e eu tenho obras. Mostra-me a tua fé {tr,rp:pelas}{n4:sem as} tuas obras,
+{trnc:\fn
+TR, RP: pelas tuas obras - N4: sem as tuas obras
+\*fn}
+ e eu, pelas minhas obras, te mostrarei a minha fé.
 \v Tg.2.19
 Tu crês que há um só Deus? Fazes bem; os demônios também creem, e estremecem.
 \v Tg.2.20
-Ó tolo, queres te certificar de que a fé sem as obras é morta?
+Ó tolo, queres te certificar de que a fé sem as obras é {tr,rpr:morta}{n4:inútil}?
+{trnc:\fn
+N4: inútil
+\*fn}
 \v Tg.2.21
 Acaso não foi o nosso pai Abraão justificado pelas obras, quando ofereceu o seu filho Isaque sobre o altar?
 \v Tg.2.22
@@ -163,7 +201,11 @@ Gênesis 15:6
 \*ref
  e ele foi chamado amigo de Deus.
 \v Tg.2.24
-Vedes, então, que o ser humano é justificado pelas obras, e não somente pela fé.
+Vedes{tr,rp:, então,}
+{trnc:\fn
+N4 não contém “então”
+\*fn}
+ que o ser humano é justificado pelas obras, e não somente pela fé.
 \v Tg.2.25
 E de igual modo não foi também a prostituta Raabe justificada pelas obras, quando recebeu os mensageiros, e ajudou para que saíssem por outro caminho?
 \v Tg.2.26
@@ -180,7 +222,11 @@ Ou: íntegro
 \*fn
  e também capaz de refrear todo o corpo.
 \v Tg.3.3
-Eis que pomos freios nas bocas dos cavalos para nos obedecerem, e 
+{tr,rp:Eis que}{n4:Ora,}
+{trnc:\fn
+TR, RP: Eis que - N4: Ora,
+\*fn}
+ pomos freios nas bocas dos cavalos para nos obedecerem, e 
 \added
 assim
 \*added
@@ -194,11 +240,19 @@ A língua também
 \added
 é
 \*added
- um fogo, o mundo da injustiça; assim a língua está posta entre os nossos membros, contaminando o corpo todo, inflamando o curso da natureza humana, e sendo inflamada pelo inferno.
+ um fogo, o mundo da injustiça;{tr,rp: assim}
+{trnc:\fn
+N4 omite “assim”
+\*fn}
+ a língua está posta entre os nossos membros, contaminando o corpo todo, inflamando o curso da natureza humana, e sendo inflamada pelo inferno.
 \v Tg.3.7
 Pois toda espécie, tanto de animais selvagens como de aves, tanto de répteis como de animais marinhos, é dominível e tem sido dominada pela espécie humana;
 \v Tg.3.8
-Mas nenhum ser humano consegue dominar a língua; ela é um mal persistente, cheia de veneno mortal.
+Mas nenhum ser humano consegue dominar a língua; ela é um mal {tr,rp:difícil de se controlar}{n4:que não se cansa},
+{trnc:\fn
+TR: difícil de se controlar - N4: que não se cansa
+\*fn}
+ cheia de veneno mortal.
 \v Tg.3.9
 Com ela bendizemos o Deus e Pai, e com ela amaldiçoamos os seres humanos, que são feitos à semelhança de Deus.
 \v Tg.3.10
@@ -214,10 +268,14 @@ Acaso uma fonte jorra do mesmo manancial
 \*added
  amarga?
 \v Tg.3.12
-Meus irmãos, pode a figueira dar azeitonas, ou a videira figos? Assim 
+Meus irmãos, pode a figueira dar azeitonas, ou a videira figos? {tr,rp:Assim 
 \added
 também
 \*added
+,}{n4:E}{trnc:
+\fn
+N4 não contém: Assim [também]
+\*fn}
  nenhuma fonte dá tanto água salgada como doce.
 \v Tg.3.13
 Quem dentre vós for sábio e inteligente, que mostre pela boa conduta as suas obras em humildade de sabedoria.
@@ -266,14 +324,17 @@ N4 contém apenas “adúlteras”
 \v Tg.4.5
 Ou pensais ser em vão que a Escritura diz: “O Espírito que {tr,rp:habita}{n4:ele fez habitar}{trnc: 
 \fn
-TR, RP: habita – N4: ele fez habitar 
+\key
+habita
+\*key
+N4: ele fez habitar
 \*fn
 }{n4: 
 \fn
 \key
-N
+ele fez habitar
 \*key
-ele fez habitar : TR, RP: habita 
+TR, RP: habita 
 \*fn
 } em nós ansia com ciúmes?”
 \v Tg.4.6
@@ -302,7 +363,12 @@ vossa
 \v Tg.4.10
 Humilhai-vos diante do Senhor, e ele vos exaltará.
 \v Tg.4.11
-Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, e julga o seu irmão, fala mal da lei, e julga a lei. E se julgas a lei, não és um cumpridor da lei, mas, sim, juiz.
+Irmãos, não faleis mal uns dos outros. Quem fala mal de um irmão, {tr,rp:e}{n4:ou}{trnc:
+\fn
+N4: ou
+\*fn}
+ julga o seu irmão, fala mal da lei, e julga a lei. 
+E se julgas a lei, não és um cumpridor da lei, mas, sim, juiz.
 \v Tg.4.12
 Um 
 \added
@@ -312,15 +378,26 @@ só
 \fn
 N4, F35 acrescentam: “e Juiz” 
 \*fn
-}, que pode salvar e destruir. Quem és tu, que julgas o outro?
+}, que pode salvar e destruir. Quem és tu, que julgas o {tr,rp:outro}{n4:próximo}?{trnc:
+\fn
+N4: próximo
+\*fn}
 \v Tg.4.13
-Atenção! Vós que dizeis: “Hoje e amanhã iremos a uma tal cidade, e lá passaremos um ano negociando e lucrando”;
+Atenção! Vós que dizeis: “Hoje {tr,n4:ou}{rp:e}{trnc:
+\fn
+RP: e
+\*fn}
+ amanhã iremos a uma tal cidade, e lá passaremos um ano negociando e lucrando”;
 \v Tg.4.14
 mas não sabeis o amanhã. Pois o que 
 \added
 é
 \*added
- a vossa vida? É um vapor, que por pouco tempo aparece, e logo se desvanece.
+ a vossa vida? {tr,rp:É}{n4:Sois}
+{trnc:\fn
+N4: Sois
+\*fn}
+ um vapor, que por pouco tempo aparece, e logo se desvanece.
 \v Tg.4.15
 Em vez disso, devíeis dizer: Se o Senhor quiser, e vivermos, faremos isso ou aquilo.
 \v Tg.4.16
@@ -344,7 +421,11 @@ O vosso ouro e a vossa prata estão enferrujados, e a ferrugem deles será teste
 \v Tg.5.4
 Eis que o salário dos trabalhadores que colheram nos vossos campos, que por vós foi retido fraudulentamente, está clamando; e os clamores dos que fizeram a colheita chegaram os ouvidos do Senhor dos exércitos.
 \v Tg.5.5
-Vivestes em luxo sobre a terra, e tivestes prazeres. Engordastes os vossos corações como num dia de matança.
+Vivestes em luxo sobre a terra, e tivestes prazeres. Engordastes os vossos corações{tr,rp: como}
+{trnc:\fn
+N4 não contém “como”
+\*fn}
+ num dia de matança.
 \v Tg.5.6
 Condenastes 
 \added
@@ -356,15 +437,31 @@ Portanto, irmãos, sede pacientes até a vinda do Senhor. Eis que o lavrador esp
 \v Tg.5.8
 Sede vós também pacientes. Fortalecei os vossos corações, porque a vinda do Senhor está próxima.
 \v Tg.5.9
-Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o Juiz está à porta.
+Irmãos, não vos queixeis uns contra os outros, para que não sejais {tr:condenados}{rp,n4:julgados}.
+{\fn
+RP, N4: julgados
+\*fn}
+ Eis que o Juiz está à porta.
 \v Tg.5.10
-Meus irmãos, tomai como exemplo de aflições e de paciência os profetas que falaram no nome do Senhor.
+{tr,rp:Meus
+{trnc:\fn
+N4 não contém “Meus”
+\*fn}
+ irmãos}{n4:Irmãos}, tomai como exemplo de aflições e de paciência os profetas que falaram no nome do Senhor.
 \v Tg.5.11
 Eis que considerarmos benditos
 \fn
 Lit. bem-aventurados
 \*fn
- os que sofreram pacientemente. Ouvistes da paciência de Jó, e vistes o resultado da parte do Senhor; porque o Senhor é muito misericordioso, e cheio de compaixão.
+ os que {tr,rp:suportam}{n4:suportaram}
+{trnc:\fn
+N4: suportaram
+\*fn}
+ o sofrimento. Ouvistes da paciência de Jó, e vistes o resultado da parte do Senhor; porque {tr,n4:o Senhor}{rp:ele}
+{trnc:\fn
+RP não contém o “Senhor”, sendo traduzido como “ele”
+\*fn}
+ é muito misericordioso, e cheio de compaixão.
 \v Tg.5.12
 Mas, acima de tudo, meus irmãos, não jureis, nem pelo céu nem pela terra, nem 
 \added
@@ -396,9 +493,17 @@ Elias era tão humano quanto nós, e orou insistentemente para não chover; e n�
 \v Tg.5.18
 E orou outra vez, e o céu deu chuva, e a terra produziu o seu fruto.
 \v Tg.5.19
-Irmãos, se algum entre vós houver se desviado da verdade, e alguém o converter,
+{tr,rp:Irmãos}{n4:Meus irmãos},
+{trnc:\fn
+N4: Meus irmãos
+\*fn}
+ se algum entre vós houver se desviado da verdade, e alguém o converter,
 \v Tg.5.20
-saiba que aquele que converter um pecador do erro de seu caminho, salvará uma alma da morte, e cobrirá
+saiba que aquele que converter um pecador do erro de seu caminho, salvará {tr,rp:uma}{n4:a sua} alma
+{trnc:\fn
+N4: sua alma
+\*fn}
+ da morte, e cobrirá
 \fn
 Isto é, fará os pecados serem perdoados
 \*fn

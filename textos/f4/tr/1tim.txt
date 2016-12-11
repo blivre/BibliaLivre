@@ -11,38 +11,26 @@ Primeira Carta de Paulo a Timóteo
 1TI
 \*ubs-code
 \v 1Tm.1.1
-Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
+Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
 \v 1Tm.1.2
 Para Timóteo, 
 \added
 meu
 \*added
- verdadeiro filho na fé. 
-\added
-Haja em ti
-\*added
- graça, misericórdia 
+ verdadeiro filho na fé. Graça, misericórdia 
 \added
 e
 \*added
- paz de Deus nosso Pai, e de Cristo Jesus nosso Senhor.
+ paz da parte de Deus, nosso Pai, e de Cristo Jesus, nosso Senhor.
 \v 1Tm.1.3
-Assim como te roguei quando eu ia para a Macedônia, que ficasse em Éfeso, 
-\added
-assim também faço agora
-\*added
-,para que mandes a alguns não ensinarem outra doutrina;
+Assim como te roguei quando eu estava indo à Macedônia, fica em Éfeso, para advertires a alguns que não ensinem outra doutrina,
 \v 1Tm.1.4
-Nem se detenham a mitos, nem a genealogias intermináveis, que mais produzem questionamentos do que a edificação de Deus
- na fé.
+Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a edificação
+ da parte de Deus na fé.
 \v 1Tm.1.5
-Mas o fim do mandamento é o amor 
-\added
-proveniente
-\*added
- de um coração puro, e de uma boa consciência, e de uma fé não fingida;
+O fim do mandamento é o amor que vem de um coração puro, e de uma boa consciência, e de uma fé não fingida.
 \v 1Tm.1.6
-Das quais, tendo alguns se desviado, voltaram-se para o vão uso de palavras;
+Alguns se desviaram dessas coisas, e se entregaram ao vão uso de palavras;
 \v 1Tm.1.7
 Querendo ser mestres da Lei, 
 \added
@@ -64,7 +52,6 @@ E eu dou graças ao que tem me fortalecido, a Cristo Jesus nosso Senhor, que me 
 \*added
  neste trabalho.
 \v 1Tm.1.13
- 
 \added
 Eu
 \*added
@@ -150,7 +137,6 @@ E Adão não foi enganado; mas a mulher, sendo enganada, caiu em transgressão.
 \v 1Tm.2.15
 Mas ela se salvará tendo filhos, se permanecer na fé, amor e santificação com prudência.
 \v 1Tm.3.1
- 
 \added
 Esta
 \*added
@@ -192,7 +178,6 @@ Semelhantemente os servidores
 \fn
 servidores = equiv. diáconos
 \*fn
- 
 \added
 sejam
 \*added
@@ -271,7 +256,6 @@ histórias
 \v 1Tm.4.8
 Porque o exercício corporal tem pouco proveito; mas a santificação é proveitosa para tudo, tendo as promessas da vida atual e da futura.
 \v 1Tm.4.9
- 
 \added
 Esta
 \*added
@@ -446,9 +430,8 @@ Se alguém ensina de outra maneira, e não concorda com as sãs palavras de noss
 \added
 a Deus
 \*added
- ;
+;
 \v 1Tm.6.4
- 
 \added
 e
 \*added

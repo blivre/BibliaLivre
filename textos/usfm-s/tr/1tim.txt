@@ -9,19 +9,19 @@
 
 \c 1
 
-\v 1 Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
-\v 2 Para Timóteo, meu verdadeiro filho na fé. Haja em ti graça, misericórdia e paz de Deus nosso Pai, e de Cristo Jesus nosso Senhor.
-\v 3 Assim como te roguei quando eu ia para a Macedônia, que ficasse em Éfeso, assim também faço agora,para que mandes a alguns não ensinarem outra doutrina;
-\v 4 Nem se detenham a mitos, nem a genealogias intermináveis, que mais produzem questionamentos do que a edificação de Deus na fé.
-\v 5 Mas o fim do mandamento é o amor proveniente de um coração puro, e de uma boa consciência, e de uma fé não fingida;
-\v 6 Das quais, tendo alguns se desviado, voltaram-se para o vão uso de palavras;
+\v 1 Paulo, apóstolo de Jesus Cristo segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
+\v 2 Para Timóteo, meu verdadeiro filho na fé. Graça, misericórdia e paz da parte de Deus, nosso Pai, e de Cristo Jesus, nosso Senhor.
+\v 3 Assim como te roguei quando eu estava indo à Macedônia, fica em Éfeso, para advertires a alguns que não ensinem outra doutrina,
+\v 4 Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a edificação da parte de Deus na fé.
+\v 5 O fim do mandamento é o amor que vem de um coração puro, e de uma boa consciência, e de uma fé não fingida.
+\v 6 Alguns se desviaram dessas coisas, e se entregaram ao vão uso de palavras;
 \v 7 Querendo ser mestres da Lei, e não entendendo, nem o que dizem, nem o que confirmam.
 \v 8 Mas nós sabemos que a Lei é boa, se alguém usá-la dela legitimamente;
 \v 9 Sabendo isto: que a Lei não é posta para o justo, mas sim para os injustos e insubordinados, para os perversos e pecadores, para os maus e profanos, para os matam os pais e as mães, para os homicidas,
 \v 10 Para os que cometem pecados sexuais, para os machos que se deitam com machos, para os que capturam pessoas para escravizá-las, para os mentirosos, para os que juram falsamente, e os que fazem alguma outra coisa contrária à sã doutrina,
 \v 11 Segundo o Evangelho da glória do bem-aventurado Deus, que foi confiado a mim.
 \v 12 E eu dou graças ao que tem me fortalecido, a Cristo Jesus nosso Senhor, que me considerou fiel, pondo -me neste trabalho.
-\v 13  Eu que antes era um blasfemador e perseguidor, e opressor; porém me foi feita misericórdia, porque agi com infidelidade por ignorância.
+\v 13 Eu que antes era um blasfemador e perseguidor, e opressor; porém me foi feita misericórdia, porque agi com infidelidade por ignorância.
 \v 14 Mas a graça de nosso Senhor Jesus Cristo foi ainda mais abundante, com a fé e amor que há em Cristo Jesus.
 \v 15 Esta é uma palavra fiel e digna de toda aceitação: que Cristo Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o principal.
 \v 16 Mas por isso me foi feita misericórdia, para que Jesus Cristo em mim, que sou o principal pecador,mostrasse toda a sua grande paciência como exemplo para os que nele vierem a crer para a vida eterna;
@@ -50,14 +50,14 @@
 
 \c 3
 
-\v 1  Esta palavra é fiel: se alguém deseja ser supervisor, deseja uma excelente obra.
+\v 1 Esta palavra é fiel: se alguém deseja ser supervisor, deseja uma excelente obra.
 \v 2 Convém, portanto, que o supervisor seja irrepreensível, marido de uma mulher, sóbrio, prudente, de comportamento decente, hospitaleiro, apto para ensinar;
 \v 3 Não dado ao vinho, não violento, não ganancioso, mas sim moderado, não disposto a brigas, sem cobiça pelo dinheiro;
 \v 4 que governe bem sua própria casa, tendo a seus filhos em sujeição com toda dignidade.
 \v 5 (Porque se alguém não sabe governar sua própria casa, como cuidará da igreja de Deus?)
 \v 6 Não novo na fé ; para que não fique arrogante e caia na condenação do diabo.
 \v 7 É necessário também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação e em laço do diabo.
-\v 8 Semelhantemente os servidores sejam respeitáveis, não mentirosos de duas conversas, não dados a muito vinho, não cobiçosos de ganância,
+\v 8 Semelhantemente os servidoressejam respeitáveis, não mentirosos de duas conversas, não dados a muito vinho, não cobiçosos de ganância,
 \v 9 retendo o mistério da fé em uma pura consciência.
 \v 10 E estes também sejam primeiro provados, e depois sirvam, aqueles que forem irrepreensíveis.
 \v 11 Semelhantemente as mulheres sejam respeitáveis, não maldizentes, sóbrias, e fiéis em todas as coisas.
@@ -77,7 +77,7 @@
 \v 6 Se tu propores estas coisas aos irmãos, tu serás bom trabalhador a serviço de Jesus Cristo, nutrido pelas palavras da fé, e de boa doutrina, as quais tu tens seguido.
 \v 7 Mas rejeita os mitos profanos e histórias de velhas; e exercita a ti mesmo em santificação.
 \v 8 Porque o exercício corporal tem pouco proveito; mas a santificação é proveitosa para tudo, tendo as promessas da vida atual e da futura.
-\v 9  Esta palavra é fiel, e digna de toda aceitação.
+\v 9 Esta palavra é fiel, e digna de toda aceitação.
 \v 10 Porque para isto também trabalhamos e somos insultados, porque esperamos o Deus vivo, que é o Salvador de todos os homens, e em especial dos crentes.
 \v 11 Ordena e ensina tu estas coisas
 \v 12 Ninguém te despreze por seres jovem, mas sim, sê exemplo para os crentes, em palavra, em comportamento, em amor, em espírito, em fé, e em pureza.
@@ -118,8 +118,8 @@
 
 \v 1 Todos os servos, que estão debaixo de jugo, estimem a seus próprios senhores como dignos de toda honra; para que o nome de Deus e sua doutrina não sejam blasfemados.
 \v 2 E os que tem Senhores crentes, não os desprezem, por serem irmãos; mas sim, muito mais os sirvam, porque aqueles que recebem este benefício são crentes e amados. Ensina e exorta estas coisas.
-\v 3 Se alguém ensina de outra maneira, e não concorda com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é conforme à devoção a Deus ;
-\v 4  e é presunçoso, e nada sabe, mas se interessa de forma doentia por questões e disputas de palavras, das quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
+\v 3 Se alguém ensina de outra maneira, e não concorda com as sãs palavras de nosso Senhor Jesus Cristo, e com a doutrina que é conforme à devoção a Deus;
+\v 4 e é presunçoso, e nada sabe, mas se interessa de forma doentia por questões e disputas de palavras, das quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
 \v 5 Perversas discussões de homens corruptos de entendimento, e privados da verdade, pensando que a devoção a Deus é um meio de se obter lucro. Afasta-te dos tais.
 \v 6 Mas a devoção a Deus com contentamento é um grande lucro.
 \v 7 Porque nada trouxemos ao mundo, e nos é conhecido que nada podemos levar dele.

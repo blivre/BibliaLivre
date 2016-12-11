@@ -296,7 +296,8 @@ evangelho
 \*added
  conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
 \v Ef.3.8
-A mim, o menor de todos os santos, foi dada esta graça de anunciar entre os gentios, por meio do Evangelho, as inimagináveis riquezas de Cristo,
+A mim, o menor de todos os santos, foi dada esta graça de anunciar entre os gentios, por meio do Evangelho, as 
+inimagináveis riquezas de Cristo,
 \v Ef.3.9
 E para esclarecer a todos qual é a {tr:comunhão}{rp,n4:administração
 \fn
@@ -305,7 +306,8 @@ Ou, tradicionalmente: dispensação
 \fn
 RP, N4: dispensação 
 \*fn
-} do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas{tr,rp: por meio de Jesus Cristo},{trnc: 
+} do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas{tr,rp: por meio de 
+Jesus Cristo},{trnc: 
 \fn
 N4 omite “por meio de Jesus Cristo” 
 \*fn
@@ -362,7 +364,7 @@ lit. no ser humano interior
 para que Cristo habite em vossos corações pela fé. 
 \added
 Oro
-\*added 
+\*added
  para que vós estejais enraizados e firmados no amor,
 \v Ef.3.18
 e assim possais compreender, com todos os santos, qual é a largura, comprimento, profundidade, e altura,
@@ -482,226 +484,235 @@ deveis
 \*added
  vos revestir do novo ser humano, que é criado conforme Deus na verdadeira justiça e santidade.
 \v Ef.4.25
-Portanto deixai a mentira, e falai a verdade cada um com seu próximo; porque somos membros uns dos outros.
+Portanto, abandonai a mentira, e falai a verdade cada um ao seu próximo; pois somos membros uns dos outros.
 \v Ef.4.26
-Irai-vos, mas não pequeis; não se ponha o sol sobre vossa ira;
+Quando irardes, não pequeis;
+\fn
+Lit. Irai-vos, e não pequeis
+\*fn
+ o sol não se ponha sobre a vossa ira;
 \v Ef.4.27
-Nem deis lugar ao diabo.
+nem deis lugar ao diabo.
 \v Ef.4.28
-O que furtava, não furte mais; mas sim trabalhe, operando o bem com as mãos, para que tenha com que repartir com o que tiver necessidade.
+O que furtava, não furte mais; em vez disso, trabalhe, operando com as mãos o bem, para que tenha o que repartir com o que tiver necessidade.
 \v Ef.4.29
-De vossa boca não saia palavra imoral; mas sim a que for boa para a edificação 
-\added
-quando
-\*added
- necessária; para que dê graça aos que a ouvem.
+Não saia de vossa boca palavra imoral; mas sim a boa para a edificação conforme a necessidade; para que comunique graça aos que a ouvem.
 \v Ef.4.30
-E não entristeceis ao Espírito Santo de Deus, pelo qual estais selados para o dia da libertação.
+E não entristeçais o Espírito Santo de Deus, no qual fostes selados para o dia da libertação.
+\fn
+Ou: redenção
+\*fn
 \v Ef.4.31
-Toda amargura, e ira, e irritação, e grito 
-\added
-de raiva
-\*added
-, e blasfêmia se tire de vós, junto com toda malícia.
+Toda amargura, raiva, ira, gritaria, e maledicência sejam tiradas do meio de vós, assim como toda malícia.
 \v Ef.4.32
-E sede benignos uns para com os outros, 
-\added
-e
-\*added
- misericordiosos, perdoando-vos uns aos outros, assim como também Deus vos perdoou em Cristo.
+Em vez disso, sede benignos uns com os outros, misericordiosos, perdoando-vos uns aos outros, como também Deus vos 
+perdoou em Cristo.
 \v Ef.5.1
 Portanto, sede imitadores de Deus, como filhos amados;
 \v Ef.5.2
-E andai em amor, assim como também Cristo nos amou, e entregou a si mesmo em oferta e sacrifício a Deus, em cheiro suave.
+e andai em amor, como também Cristo nos amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
 \v Ef.5.3
-Mas o pecado sexual, e toda impureza ou ganância, nem mesmo ente vós se nomeie, assim como convém a santos;
+Mas o pecado sexual, e toda impureza ou cobiça, nem mesmo se nomeie entre vós, como convém a santos;
 \v Ef.5.4
-Nem imoralidades, nem palavras tolas, nem escárnios, que não convêm; mas sim façamos ações de graças.
+nem imoralidades, nem palavras tolas, nem escárnios, que não convêm; em vez disso, atos de gratidão.
 \v Ef.5.5
-Porque vós sabeis disto, que nenhum que comete pecados sexuais, ou impuro, ou ganancioso, 
-\added
-ou
-\*added
- quem é idólatra, tem herança no Reino de Cristo e de Deus.
+Pois sabeis disto, que nenhum pecador no sexo, ou impuro, ou ganancioso, que é idólatra, tem herança no reino de 
+Cristo e de Deus.
 \v Ef.5.6
-Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência.
+Ninguém vos engane com palavras vazias; pois por essas coisas a ira de Deus vem sobre os filhos da desobediência.
 \v Ef.5.7
-Portanto não sejais companheiros deles.
+Portanto não sejais parceiros deles.
+\fn
+Ou: participantes com eles
+\*fn
 \v Ef.5.8
-Porque antes vós éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz,
+Pois antes vós éreis trevas, mas agora 
+\added
+sois
+\*added
+ luz no Senhor; andai como filhos da luz
 \v Ef.5.9
-(Porque o fruto {tr,rp:do Espírito}{trnc: 
+(porque o fruto {tr,rp:do Espírito}{n4:da luz}{trnc: 
 \fn
 N4: fruto da luz 
-\*fn}
-{n4: 
+\*fn}{n4: 
 \fn
 TR, RP: fruto do Espírito 
-\*fn} 
+\*fn
+} 
 \added
 consiste
 \*added
- em toda bondade, e justiça, e verdade),
+ em toda bondade, justiça, e verdade),
 \v Ef.5.10
-Provando o que é agradável ao Senhor.
+buscando descobrir o que agrada ao Senhor.
 \v Ef.5.11
-E não sejais coparticipantes das obras infrutíferas das trevas, mas ao invés disso, reprovai-as.
+E não participeis das obras infrutíferas das trevas, pelo contrário, reprovai-as.
 \v Ef.5.12
-Porque as coisas que eles fazem em segredo é vergonhoso até mesmo dizê-las.
+pois é vergonhoso até dizer o que eles fazem em segredo.
 \v Ef.5.13
-Mas todas estas coisas se manifestam, sendo expostas à reprovação pela luz; porque tudo o que se manifesta é luz.
+Mas todas essas coisas, quando são reprovadas, tornam-se visíveis pela luz, porque tudo o que se se torna visível 
+é luz.
 \v Ef.5.14
-Por isso ele diz: Desperta tu, o que dormes, e levanta-te dos mortos, e Cristo te esclarecerá.
+Por isso se diz: Desperta tu, que dormes, e levanta-te dos mortos, e Cristo te iluminará.
 \v Ef.5.15
-Portanto olhai prudentemente como andais, não como tolos, mas sim como sábios.
+Portanto vede cuidadosamente como vos conduzis,
+\fn
+Lit. andais
+\*fn
+ não como tolos, mas sim como sábios;
 \v Ef.5.16
-Aproveitando o tempo, porque os dias são maus.
+aproveitai o tempo, porque os dias são maus.
 \v Ef.5.17
 Por isso, não sejais imprudentes, mas entendei qual é a vontade do Senhor.
 \v Ef.5.18
-E não fiqueis bêbados com vinho, em que há corrupção, mas enchei-vos do Espírito;
+E não fiqueis bêbados com vinho, em que há devassidão, mas enchei-vos do Espírito;
 \v Ef.5.19
-Falando entre vós com salmos e hinos e cânticos espirituais; cantando e tocando música ao Senhor em vosso coração;
+falando entre vós com salmos, hinos e cânticos espirituais; cantando e louvando ao Senhor no vosso coração;
 \v Ef.5.20
-Dando sempre graças por todas as coisas a 
-\added
-nosso
-\*added
- Deus e Pai, no nome de nosso Senhor Jesus Cristo;
+agradecendo sempre por tudo a Deus, o Pai, no nome do nosso Senhor Jesus Cristo;
 \v Ef.5.21
-Sujeitando-vos uns aos outros no temor de Deus.
+sujeitando-vos uns aos outros no temor a Deus.
 \v Ef.5.22
-Vós, mulheres, sujeitai-vos a vossos próprios maridos, assim como ao Senhor;
+Mulheres, sujeitai-vos aos vossos próprios maridos, assim como ao Senhor;
 \v Ef.5.23
-Porque o marido é o cabeça da mulher, assim como também Cristo é o cabeça da Igreja; e ele é o salvador do corpo.
+porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e ele é o salvador do corpo.
 \v Ef.5.24
-E assim como a Igreja está sujeita a Cristo, assim 
+Mas, assim como a Igreja está sujeita a Cristo, assim também as mulheres 
 \added
 estejam
 \*added
- também as mulheres a seus próprios maridos em tudo.
+ em tudo sujeitas aos seus próprios maridos.
 \v Ef.5.25
-Vós, maridos, amai as vossas próprias mulheres, assim como também Cristo amou a sua Igreja, e entregou a si mesmo por ela;
+Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela;
 \v Ef.5.26
-Para que a santificasse, purificando 
+a fim de a santificar, havendo 
 \added
--a
+a
 \*added
- com o banho da água pela palavra,
+ purificado com a lavagem com água, pela palavra,
 \v Ef.5.27
-Para apresentar a si mesmo uma Igreja gloriosa, que não tivesse mancha, nem ruga, nem coisa semelhante; mas sim que fosse santa e irrepreensível.
+a fim de apresentar a si mesmo uma igreja gloriosa, sem mancha, nem ruga, nem algo semelhante; mas sim, santa 
+e irrepreensível.
 \v Ef.5.28
-Assim os maridos devem amar a suas próprias mulheres, como a seus próprios corpos. Quem ama sua mulher, ama a si mesmo;
+Assim os maridos devem amar as suas próprias esposas como os seus próprios corpos. Quem ama a sua esposa, ama a 
+si mesmo;
 \v Ef.5.29
-Porque ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também o Senhor à Igreja.
+pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também o Senhor à Igreja.
 \v Ef.5.30
-Porque somos membros de seu corpo{tr,rp:, de sua carne, e de seus ossos}.{trnc: 
+pois somos membros de seu corpo{tr,rp:, da sua carne, e dos seus ossos}.{trnc: 
 \fn
-N4 omite “de sua carne, e de seus ossos” 
+N4 omite “da sua carne, e dos seus ossos” 
 \*fn
 }{n4: 
 \fn
-TR, RP acrescentam: “de sua carne, e de seus ossos” ao fim do versículo 
-\*fn
-}
+TR, RP acrescentam: “da sua carne, e dos seus ossos” ao fim do versículo 
+\*fn}
 \v Ef.5.31
-Por isso o homem deixará a seu pai e a sua mãe, e se juntará com sua mulher; e os dois serão uma 
+Por isso o homem deixará o seu pai e 
+\added
+a sua
+\*added
+ mãe, e se ajuntará com a sua mulher; e os dois serão uma 
 \added
 só
 \*added
  carne.
 \v Ef.5.32
-Grande é este mistério; mas digo 
-\added
-isto
-\*added
- quanto a Cristo e à Igreja.
+Esse é um grande mistério, mas estou dizendo quanto a Cristo e à Igreja.
 \v Ef.5.33
-Assim também vós, cada um em particular, cada qual ame a sua própria mulher como a si mesmo, e que a mulher tenha temor ao marido.
+Assim também vós, cada um individualmente, ame a sua própria esposa como a si mesmo, e a mulher respeite o marido.
 \v Ef.6.1
-Vós, filhos, sede obedientes a vossos pais no Senhor; porque isto é justo.
+Filhos, sede obedientes aos vossos pais no Senhor, porque isso é justo.
 \v Ef.6.2
-Honra a teu pai, e 
+Honra teu pai, e 
 \added
-à tua
+tua
 \*added
- mãe(que é o primeiro mandamento com promessa):
+ mãe (que é o primeiro mandamento com promessa);
 \v Ef.6.3
-Para que te vá bem, e vivas muito tempo sobre a terra.
+para que te vá bem, e vivas muito tempo sobre a terra.
+\ref
+Deuteronômio 5:16
+\*ref
 \v Ef.6.4
-E vós, pais, não provoqueis à ira a vossos filhos, mas criai-os na doutrina e correção do Senhor.
+Pais, não provoqueis à ira os vossos filhos, mas criai-os na disciplina e correção do Senhor.
 \v Ef.6.5
-Vós, servos, obedecei a 
+Servos, obedecei aos 
 \added
 vossos
 \*added
- senhores segundo a carne, com temor e tremor, em sinceridade de vosso coração, assim como a Cristo.
+ senhores segundo a carne, com temor e tremor, em sinceridade do vosso coração, assim como a Cristo;
 \v Ef.6.6
-Não servindo somente quando observados, como que satisfazendo aos homens; mas sim como servos de Cristo, fazendo de coração a vontade de Deus;
+não servindo somente quando vistos, como para agradar pessoas; mas sim, como servos de Cristo, fazendo de coração a vontade de Deus;
 \v Ef.6.7
-Servindo de boa vontade ao Senhor, e não aos homens;
+servindo de boa vontade como ao Senhor, e não aos pessoas.
 \v Ef.6.8
-Sabendo que cada um receberá do Senhor todo o bem que fizer, seja servo, seja livre.
+Pois sabeis que cada um receberá do Senhor todo o bem que fizer, seja servo, seja livre.
 \v Ef.6.9
-E vós, senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo também que o Senhor vosso e deles está nos céus, e 
+Senhores, fazei o mesmo a eles, abandonando as ameaças, pois sabeis também que o Senhor vosso e deles está nos céus, e 
 \added
 que
 \*added
- para com ele não há acepção de pessoas.
+ com ele não há acepção de pessoas.
 \v Ef.6.10
-Nas demais coisas, meus irmãos, esforçai-vos no Senhor, na força de seu poder.
+Por fim, meus irmãos, fortalecei-vos no Senhor e na força do seu poder.
 \v Ef.6.11
-Vesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.
+Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as ciladas do diabo.
 \v Ef.6.12
-Porque não lutamos contra carne e sangue, mas sim contra os domínios e autoridades, contra os poderosos do mundo, das trevas destes tempos, contra os males espirituais nos lugares celestes.
+Pois temos de lutar não contra carne e sangue, mas sim contra os domínios e poderes, contra os senhores das 
+trevas deste mundo, contra os males espirituais nos lugares celestes.
 \v Ef.6.13
-Portanto tomai toda a armadura de Deus, para que possais resistir no dia mal, e tendo feito tudo, ficar firmes.
+Portanto pegai toda a armadura de Deus, para que possais resistir no dia mal, e depois que fizerdes tudo, continuar firmes.
 \v Ef.6.14
-Estai pois firmes, preparando vossos quadris com o 
-\added
-cinto
-\*added
- da verdade, e vestidos com a couraça da justiça;
+Estai, pois, firmes, com a vossa cintura envolvida com o cinturão da verdade, e vestidos com a couraça da justiça;
 \v Ef.6.15
-E calçados os pés com a prontidão do Evangelho da paz.
+e calçados os pés com a prontidão do evangelho da paz.
 \v Ef.6.16
-Tomando sobre tudo o escudo da fé, com o qual possais apagar todas as flechas pegando fogo, 
-\added
-vindas
-\*added
- do maligno.
+Pegai, sobretudo, o escudo da fé, com o qual podereis apagar todas as flechas inflamadas do maligno.
 \v Ef.6.17
-Tomai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus;
+Pegai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus;
 \v Ef.6.18
-Orando em todo tempo com toda oração e súplica no Espírito, e vigiando nisto com toda perseverança, e súplica por todos os santos,
+orando em todo tempo com toda oração e súplica no Espírito, e vigiando nisso com toda perseverança e súplica por todos os santos,
 \v Ef.6.19
-E por mim; para que me seja dada palavra ao abrir a minha boca com ousadia, para fazer conhecido o mistério do Evangelho;
+e por mim; a fim de que, quando eu abrir a boca, me seja dada palavra com ousadia, para tornar conhecido o mistério do evangelho,
 \v Ef.6.20
-pelo qual eu sou embaixador acorrentado; para que dele possa falar ousadamente, como me convém falar.
+pelo qual sou embaixador acorrentado;
+\fn
+Lit. em correntes
+\*fn
+ para que dele eu possa falar com ousadia, como devo falar.
 \v Ef.6.21
-E para que também vós possais saber as coisas relacionadas a mim, 
+Para que também vós possais saber o que acontece comigo, 
 \added
 e
 \*added
- o que eu faço, Tíquico, o irmão amado, e fiel trabalhador no Senhor vos fará conhecer tudo.
+ o que eu faço, Tíquico, o irmão amado, e fiel servidor do Senhor vos informará de tudo.
 \v Ef.6.22
-O qual para este mesmo fim vos enviei, para que sabais as coisas relacionadas a nós, e ele console vossos corações.
+Eu o enviei até vós para isso, para que saibais o que acontece conosco, e ele conforte os vossos corações.
 \v Ef.6.23
 Paz 
 \added
 seja
 \*added
- com os irmãos, e amor com fé, de Deus Pai, e do Senhor Jesus Cristo.
+ com os irmãos, e amor com fé, da parte de Deus Pai, e do Senhor Jesus Cristo.
 \v Ef.6.24
 A graça 
 \added
 seja
 \*added
- com todos os que amam a nosso Senhor Jesus Cristo em incorrupção. Amém!{tr: 
+ com todos os que amam ao nosso Senhor Jesus Cristo com amor que não falha.
+\fn
+\key
+com amor que não falha
+\*key
+Lit. em incorrupção
+\*fn
+ Amém!{tr: 
 \added
-Escrita de Roma para os Efésios, e enviada por Tíquico
+Escrita de Roma para os efésios, e enviada por Tíquico
 \*added}
 {trnc: 
 \fn
-RP, N4 não incluem a informação de onde a carta foi escrita e por quem foi enviada 
+RP, N4 não incluem “Escrita de Roma para os efésios, e enviada por Tíquico”
 \*fn}

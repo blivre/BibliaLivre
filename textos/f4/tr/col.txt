@@ -11,7 +11,8 @@ Cl
 COL
 \*ubs-code
 \v Cl.1.1
-Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Timóteo,
+Paulo, apóstolo de Jesus Cristo
+ pela vontade de Deus, e o irmão Timóteo,
 \v Cl.1.2
 aos santos e fiéis irmãos em Cristo, que estão em Colossos. 
 \added
@@ -33,7 +34,8 @@ a palavra “esperaça” foi repetida para simplificar uma frase longa
 \*fn
  pala palavra da verdade do evangelho,
 \v Cl.1.6
-que já chegou a vós, como também em todo o mundo; e vai frutificando assim como entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade.
+que já chegou a vós, como também em todo o mundo; e vai frutificando 
+ assim como entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade.
 \v Cl.1.7
 Aprendestes o evangelho
 \fn
@@ -57,7 +59,8 @@ diante
 \v Cl.1.11
 capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
 \v Cl.1.12
-agradecendo ao Pai, que nos capacitou a participar da herança dos santos na luz.
+agradecendo ao Pai, que nos
+ capacitou a participar da herança dos santos na luz.
 \v Cl.1.13
 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
 \v Cl.1.14

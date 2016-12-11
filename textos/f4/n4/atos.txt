@@ -1168,19 +1168,21 @@ E quando Herodes o buscou, e não o achou, tendo investigado aos guardas, mandou
 \added
 para serem mortos
 \*added
- . E partindo da Judeia para Cesareia, ficou 
+. E partindo da Judeia para Cesareia, ficou 
 \added
 ali
 \*added
- .
+.
 \v At.12.20
-E Herodes estava extremamente irritado com os de Tiro e de Sidom; porém eles, vindo em concordância até ele, e persuadindo a Blasto, que era o camareiro do rei, pediram paz, porque a terra deles dependia dos alimentos da terra do rei 
+E Herodes estava extremamente irritado com os de Tiro e de Sidom; porém eles, vindo em concordância até ele, e 
+persuadindo a Blasto, que era o camareiro do rei, pediram paz, porque a terra deles dependia dos alimentos da terra 
+do rei 
 \added
 Herodes
 \*added
- .
+.
 \v At.12.21
-E num dia marcado, Herodes vestiu roupas reais, e sentando no tribunal, fez-lhe um discurso.
+E num dia marcado, Herodes vestiu roupas reais, e sentando no tribunal, fez-lhes um discurso.
 \v At.12.22
 E o povo exclamava: Voz de deus, e não de homem!
 \v At.12.23
@@ -1194,7 +1196,7 @@ E havia em Antioquia, na igreja que estava
 \added
 ali
 \*added
-,alguns profetas e mestres: Barnabé e Simeão, chamado Níger, e Lúcio cireneu, e Manaem, que tinha sido criado na infância junto com Herodes o Tetrarca, e Saulo.
+, alguns profetas e mestres: Barnabé e Simeão, chamado Níger, e Lúcio cireneu, e Manaem, que tinha sido criado na infância junto com Herodes o Tetrarca, e Saulo.
 \v At.13.2
 E tendo eles prestado serviço ao Senhor, e jejuado, o Espirito Santo disse: Separai-me a Barnabé e a Saulo, para a obra para a qual eu os tenho chamado.
 \v At.13.3
@@ -1210,7 +1212,7 @@ E tendo chegado a Salamina, anunciavam a palavra de Deus nas sinagogas dos judeu
 \added
 para os auxiliar
 \*added
- .
+.
 \v At.13.6
 E tendo eles atravessado a Ilha até Pafo, acharam a um certo mago, falso profeta, judeu, cujo nome era Barjesus.
 \v At.13.7
