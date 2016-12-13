@@ -27,7 +27,7 @@ de vós
 {n4:\*added}
 {trnc:\fn
 N4 omite “de vós”
-\*fn
+\*fn}
  em nossas orações.
 \v 1Ts.1.3
 E, diante do nosso Deus e Pai, nós nos lembramos sem cessar da obra da vossa fé, do trabalho do amor, e da firmeza da 

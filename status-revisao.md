@@ -4,7 +4,7 @@ Status da revisão
 Livro(s) em andamento
 ---------------------
 
- 1 Timóteo até 1:5
+1 Timóteo até 2:1
 
 Livros completos
 -----------------
