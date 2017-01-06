@@ -11,317 +11,272 @@ Primeira Carta Universal de João
 1JN
 \*ubs-code
 \v 1Jo.1.1
-O que era desde o princípio, o que ouvimos, o que vimos com nossos olhos, o que nós temos observado, e nossas mãos tocaram, da Palavra da vida;
+O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que temos contemplado, e nossas mãos 
+tocaram, quanto à Palavra da vida,
 \v 1Jo.1.2
-(Porque a vida já se manifestou, e nós a vimos, e testemunhamos, e vos anunciamos a vida eterna, que estava com o Pai, e se manifestou a nós)
+(pois a vida já foi manifesta, e nós a vimos, demos testemunho, e vos anunciamos a vida eterna, que estava com o Pai, 
+e a nós foi manifesta)
 \v 1Jo.1.3
-Nós vos anunciamos aquilo que vimos e ouvimos, para que também vós tenhais comunhão conosco, e esta nossa comunhão também 
-\added
-seja
-\*added
- com o Pai, e com Seu Filho Jesus Cristo.
-\v 1Jo.1.4
-E nós escrevemos estas coisas para vós, para que sejais cheios de alegria.
-\v 1Jo.1.5
-E este é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
-\v 1Jo.1.6
-Se dissermos que temos comunhão com ele, e andarmos em trevas, estamos mentindo, e não praticamos a verdade.
-\v 1Jo.1.7
-Porém, se andamos na luz, assim como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus Cristo, seu Filho, nos limpa de todo pecado.
-\v 1Jo.1.8
-Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós.
-\v 1Jo.1.9
-Se confessarmos nossos pecados, ele é fiel e justo, para que nos perdoe os pecados, e nos limpe de toda injustiça.
-\v 1Jo.1.10
-Se dissermos que não pecamos, nós o fazemos de mentiroso, e a palavra dele não está em nós.
-\v 1Jo.2.1
-Meus filhinhos, eu vos escrevo estas coisas para que não pequeis; mas se alguém pecar, temos um advogado junto do Pai, 
-\added
-que é
-\*added
- Jesus Cristo, o justo.
-\v 1Jo.2.2
-E ele é o sacrifício para o perdão de nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
-\v 1Jo.2.3
-E nisto sabemos que nós o temos conhecido: se obedecemos aos seus mandamentos.
-\v 1Jo.2.4
-Aquele que diz: Eu o conheço,E não obedece aos seus mandamentos, é mentiroso, e a verdade não está nele.
-\v 1Jo.2.5
-Mas quem obedece à sua palavra, nele verdadeiramente o amor de Deus tem se aperfeiçoado; nisto conhecemos que nele estamos.
-\v 1Jo.2.6
-Quem diz que está nele, também deve andar como ele andou.
-\v 1Jo.2.7
-Irmãos, eu não estou vos escrevendo um mandamento novo, mas sim o mandamento antigo, que já tivestes desde o princípio. Este mandamento antigo é a palavra que ouvistes desde o princípio.
-\v 1Jo.2.8
-Mas eu também estou vos escrevendo um mandamento novo, o que é verdadeiro nele, 
-\added
-seja
-\*added
- também em vós; porque as trevas passam, e a verdadeira luz já ilumina.
-\v 1Jo.2.9
-Aquele que diz que está na luz, e odeia a seu irmão, está até agora nas trevas.
-\v 1Jo.2.10
-Aquele que ama a seu irmão está na luz, e não há ofensa contra ele.
-\v 1Jo.2.11
-Mas aquele que odeia a seu irmão está nas trevas, e anda em trevas, e não sabe para onde vai; porque as trevas lhe cegaram os olhos.
-\v 1Jo.2.12
-Filhinhos, eu vos escrevo, porque os vossos pecados são perdoados por causa do nome dele.
-\v 1Jo.2.13
-Pais, eu vos escrevo, porque já conheceis aquele que 
+o que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunhão conosco. E a nossa comunhão 
 \added
 é
 \*added
- desde o princípio. Jovens, eu escrevo para vós, porque já vencestes ao maligno. Crianças, eu vos escrevo, porque já conheceis ao Pai.
+ com o Pai, e com o seu Filho Jesus Cristo.
+\v 1Jo.1.4
+Estas coisas escrevemos
+ para que a nossa alegria seja completa.
+\v 1Jo.1.5
+E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
+\v 1Jo.1.6
+Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade.
+\v 1Jo.1.7
+Porém, se andamos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus,
+ seu Filho, nos purifica de todo pecado.
+\v 1Jo.1.8
+Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós.
+\v 1Jo.1.9
+Se confessarmos nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
+\v 1Jo.1.10
+Se dissermos que não pecamos, nós o fazemos de mentiroso, e a palavra dele não está em nós.
+\v 1Jo.2.1
+Meus filhinhos, vos escrevo estas coisas para que não pequeis; mas se alguém pecar, temos um advogado com o Pai: 
+Jesus Cristo, o justo.
+\v 1Jo.2.2
+E ele é o sacrifício para perdão dos nossos pecados; e não somente dos nossos, mas também dos de todo o mundo.
+\v 1Jo.2.3
+E nisto sabemos que o conhecemos, se guardamos os seus mandamentos.
+\v 1Jo.2.4
+Aquele que diz: “Eu o conheço”, mas não guarda os seus mandamentos, é mentiroso, e nele não está a verdade.
+\v 1Jo.2.5
+Mas quem guarda a sua palavra, nele verdadeiramente o amor de Deus tem se aperfeiçoado; nisso sabemos que estamos nele.
+\v 1Jo.2.6
+Aquele que diz que está nele também deve andar como ele andou.
+\v 1Jo.2.7
+Amados,
+ não vos escrevo um mandamento novo, mas sim o mandamento antigo, que tivestes desde o 
+princípio. Este mandamento antigo é a palavra que ouvistes.
+\v 1Jo.2.8
+Mas também vos escrevo um mandamento novo, que é verdadeiro nele e em vós; pois as trevas passaram, e a verdadeira luz 
+já ilumina.
+\v 1Jo.2.9
+Aquele que diz que está na luz, e odeia seu irmão, até agora está nas trevas.
+\v 1Jo.2.10
+Aquele que ama o seu irmão está na luz, e nele não há motivo algum para pecar.
+\fn
+Lit. nele não há causa alguma de tropeço
+\*fn
+\v 1Jo.2.11
+Mas aquele que odeia seu irmão está nas trevas, anda nas trevas, e não sabe para onde vai, pois as trevas lhe cegaram 
+os olhos.
+\v 1Jo.2.12
+Filhinhos, vos escrevo porque pelo nome dele os vossos pecados são perdoados.
+\v 1Jo.2.13
+Pais, vos escrevo porque conheceis aquele que é desde o princípio. Jovens, vos escrevo porque vencestes o maligno. 
+Crianças, vos escrevi porque conheceis o Pai.
 \v 1Jo.2.14
-Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Jovens, eu vos escrevi, porque sois fortes, e a palavra de Deus está em vós, e já vencestes ao maligno.
+Pais, vos escrevi porque conheceis aquele que é desde o princípio. Jovens, vos escrevi porque sois fortes, a palavra 
+de Deus está em vós, e vencestes o maligno.
 \v 1Jo.2.15
-Não ameis ao mundo, nem as coisas que 
-\added
-há
-\*added
- no mundo; se alguém ama ao mundo, o amor do Pai não está nele.
+Não ameis o mundo, nem as coisas que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele.
 \v 1Jo.2.16
-Porque tudo o que há no mundo, 
-\added
-como
-\*added
- o mau desejo da carne, o mau desejo dos olhos, e a vanglória da vida, não é do Pai, mas é do mundo.
+Pois tudo o que há no mundo, a cobiça da carne, a cobiça dos olhos, e a ostentação da vida, não é do Pai, mas do mundo.
 \v 1Jo.2.17
-E o mundo passa, e também seu mau desejo; mas aquele que faz a vontade de Deus permanece para sempre.
+O mundo passa, e também a sua cobiça; mas aquele que faz a vontade de Deus permanece para sempre.
 \v 1Jo.2.18
-Filhinhos, 
-\added
-já
-\*added
- é a última hora. E como já ouvistes que o anticristo vem, também agora muitos anticristos já chegaram. Por isto conhecemos que 
-\added
-já
-\*added
- é a última hora.
+Filhinhos, é a última hora. E como ouvistes que o anticristo vem, já agora muitos anticristos chegaram. Por isso 
+sabemos que é a última hora.
 \v 1Jo.2.19
-Eles saíram dentre nós, porém não eram dos nossos, porque se fossem dos nossos, eles teriam continuado conosco; mas 
+Eles saíram de nós, mas não eram dos nossos, pois se fossem dos nossos, continuariam conosco; mas 
 \added
-saíram
+o que aconteceu
 \*added
- para que fosse manifesto que eles todos não eram dos nossos.
+ foi para tornar claro que todos eles não eram dos nossos.
 \v 1Jo.2.20
-Mas vós tendes a unção daquele que é Santo, e todos vós tendes conhecimento.
+Vós, porém, tendes a unção do Santo, e todos vós tendes conhecimento.
 \v 1Jo.2.21
-Eu não vos escrevi porque vós não conhecíeis a verdade; mas porque a conheceis, e porque nenhuma mentira pode vir da verdade.
+Eu vos escrevi, não porque não conheceis a verdade, mas sim, porque a conheceis, e porque nenhuma mentira vem da verdade.
 \v 1Jo.2.22
-Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Este é o anticristo, que nega ao Pai, e ao Filho.
+Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Esse é o anticristo, que nega o Pai e o Filho.
 \v 1Jo.2.23
-Todo aquele que nega ao Filho, também não tem o Pai; aquele que confessa ao filho tem também o Pai.
+Quem nega o Filho também não tem o Pai; aquele que confessa o filho também tem o Pai.
 \v 1Jo.2.24
-Portanto, o que ouvistes desde o princípio, permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, também permanecereis no Filho e no Pai.
+O que ouvistes desde o princípio permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, 
+ também permanecereis no Filho e no Pai.
 \v 1Jo.2.25
-E esta é a promessa, que ele nos prometeu: a vida eterna.
+E esta é a promessa que ele nos prometeu: a vida eterna.
 \v 1Jo.2.26
-Estas coisas eu vos escrevi 
-\added
-para falar
-\*added
- sobre aqueles que vos enganam.
+Estas coisas vos escrevi acerca dos que vos tentam vos enganar.
 \v 1Jo.2.27
-E a unção que dele recebeste continua em vós, e não tendes necessidade de que alguém vos ensine; mas dado que a mesma unção vos ensina tudo, e é verdadeira, e não é mentira, 
-\added
-então
-\*added
- também, assim como ela tem vos ensinado, 
+E a unção que recebeste dele continua em vós, e não tendes necessidade de que alguém vos ensine; mas, como a 
+unção dele
+ vos ensina tudo, e é verdadeira, e não mentira, 
+e como ela vos ensinou, 
 \added
 assim
 \*added
- nele permanecereis.
+ nele permanecei.
 \v 1Jo.2.28
-E agora, filhinhos, nele permanecei; para que, quando ele se manifestar, tenhamos confiança, e não fiquemos envergonhados diante dele na sua vinda.
+E agora, filhinhos, permanecei nele; a fim de que, quando ele se manifestar, tenhamos confiança, e não sejamos 
+envergonhados diante dele na sua vinda.
 \v 1Jo.2.29
-Se sabeis que ele é justo, 
-\added
-também
-\*added
- sabeis, que todo aquele que pratica a justiça, dele é nascido.
+Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele.
 \v 1Jo.3.1
 Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus. E nós somos. 
 \fn
-TR, RP omitem “E nós somos” 
+TR, RP não contêm “E nós somos” 
 \*fn
- Por isso o mundo não nos conhece, porque 
-\added
-o mundo
-\*added
- não o conheceu.
+ Por isso o mundo não nos
+ conhece, pois não conhece a ele.
 \v 1Jo.3.2
-Amados, agora somos filhos de Deus, e ainda não está manifesto o que iremos ser. Porém sabemos que, quando 
-\added
-ele
-\*added
- se manifestar, nós seremos como ele, porque nós o veremos assim como ele é.
+Amados, agora somos filhos de Deus, e ainda não está manifesto o que seremos. Porém sabemos que, quando ele se 
+manifestar, seremos semelhantes a ele, pois o veremos como ele é.
 \v 1Jo.3.3
-E todo aquele que tem esta esperança nele, purifica a si mesmo, assim como ele é puro.
+E todo aquele que tem nele essa esperança purifica a si mesmo, como também ele é puro.
 \v 1Jo.3.4
 Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é injustiça.
 \v 1Jo.3.5
-E vós sabeis que ele se manifestou para tirar nossos pecados; e nele não há pecado.
+E sabeis que ele apareceu para tirar os
+ pecados; e nele não há pecado.
 \v 1Jo.3.6
-Todo aquele que permanece nele não pratica o pecado; todo aquele que continua sendo pecador, não o viu, nem o conheceu.
+Todo aquele que nele permanece não pratica o pecado; todo aquele que costuma pecar não o viu nem o conheceu.
 \v 1Jo.3.7
-Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como ele 
-\added
-, Jesus
-\*added
-,é justo.
+Filhinhos, ninguém vos engane. Quem pratica a justiça é justo, assim como ele é justo.
 \v 1Jo.3.8
-Quem pratica o pecado é do diabo; porque o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou, para desfazer as obras do diabo.
+Quem pratica o pecado é do diabo, pois o diabo peca desde o princípio. Para isto o Filho de Deus se manifestou, para 
+desfazer as obras do diabo.
 \v 1Jo.3.9
-Todo aquele que é nascido de Deus não pratica o pecado; porque sua semente permanece nele; e não pode pecar, porque é nascido de Deus.
+Todo aquele que é nascido de Deus não pratica o pecado, pois a sua semente reside nele; e não pode praticar o pecado, 
+porque é nascido de Deus.
 \v 1Jo.3.10
-Nisto são manifestos os filhos de Deus, e os filhos do diabo: todo aquele que não pratica a justiça, e não ama a seu irmão, não é de Deus;
+Nisto são reconhecíveis os filhos de Deus, e os filhos do diabo: todo aquele que não pratica a justiça, e não ama o 
+seu irmão, não é de Deus.
 \v 1Jo.3.11
-Porque esta é a mensagem que ouvistes desde o princípio: que amemos uns aos outros.
+Pois esta é a mensagem que ouvistes desde o princípio: que nos amemos uns aos outros.
 \v 1Jo.3.12
-Não como Caim, 
+Não 
 \added
-que
+sejamos
 \*added
- era do maligno, e matou a seu irmão. E por que o matou? Porque suas obras eram más, e as de seu irmão, justas.
+ como Caim, 
+\added
+ que
+\*added
+ era do maligno, e matou o seu irmão. E por que o matou? Porque as suas obras eram más, e as do seu irmão justas.
 \v 1Jo.3.13
-Meus irmãos, não vos maravilheis se o mundo vos odeia.
+Irmãos, não vos surpreendeis se o mundo vos odeia.
 \v 1Jo.3.14
-Nós sabemos que já passamos da morte para a vida, dado que amamos aos irmãos. Quem não ama a 
-\added
-seu
-\*added
- irmão continua na morte.
+Nós sabemos que já passamos da morte para a vida, pois amamos os irmãos. Quem não ama
+ permanece na morte.
 \v 1Jo.3.15
-Todo aquele que odeia a seu irmão é homicida. E vós sabeis que nenhum homicida tem consigo a vida eterna.
+Todo aquele que odeia o seu irmão é homicida. E sabeis que nenhum homicida tem a vida eterna habitando nele.
 \v 1Jo.3.16
-Nisto conhecemos o amor: que ele deu sua vida por nós; e nós 
-\added
-também
-\*added
- devemos dar 
+Nisto conhecemos o amor: ele deu a sua vida por nós. E nós devemos dar as 
 \added
 nossas
 \*added
- vidas por 
-\added
-nossos
-\*added
- irmãos.
+ vidas pelos irmãos.
 \v 1Jo.3.17
-Quem pois tiver os bens do mundo, e vir seu irmão passar necessidade, e não se compadecer dele, como o amor de Deus está nele?
+Se alguém tiver bens do mundo, e vir o seu irmão em necessidade, e não se compadecer dele, como pode o amor de Deus 
+estar nele?
 \v 1Jo.3.18
-Meus filhinhos, amemos não de palavra, nem de língua, mas por meio de ações e de verdade.
+Filhinhos, amemos não de palavra, nem de língua, mas sim com ação e verdade.
 \v 1Jo.3.19
-E nisto conhecemos que somos da verdade, e diante dele teremos confiança nos nossos corações.
+E nisto saberemos
+ que somos da verdade, e teremos segurança no nosso coração diante dele.
 \v 1Jo.3.20
-Porque, se nosso coração 
+Pois, se o nosso coração 
 \added
 nos
 \*added
- condena, Deus é maior que nosso coração, e conhece tudo.
+ condena, maior é Deus que o nosso coração, e conhece tudo.
 \v 1Jo.3.21
-Amados, se nosso coração não nos condena, 
-\added
-então
-\*added
- temos confiança diante de Deus.
+Amados, se nosso coração não
+ condena, temos confiança diante de Deus.
 \v 1Jo.3.22
-E qualquer coisa que pedirmos, dele receberemos; porque obedecemos a seus mandamentos, e fizemos o que lhe era agradável.
+E qualquer coisa que pedirmos, dele receberemos; porque guardamos os seus mandamentos, e fazemos o que lhe agrada.
 \v 1Jo.3.23
-E este é seu mandamento: que creiamos no nome de seu Filho Jesus Cristo, e nos amemos uns aos outros, assim como ele nos mandou.
+E este é o seu mandamento: que creiamos no nome do seu Filho Jesus Cristo, e nos amemos uns aos outros, como ele nos
+ mandou.
 \v 1Jo.3.24
-E a pessoa que obedece a seus mandamentos, nele está, e ele 
-\added
-está
-\*added
- nesta pessoa. E nisto conhecemos que ele está em nós: pelo Espírito que ele tem nos dado.
+E a pessoa que guarda os seus mandamentos está nele, e ele nela. E nisto sabemos que ele está em nós: pelo Espírito 
+que ele nos deu.
 \v 1Jo.4.1
-Amados, não creiais em todo espírito, mas provai aos espíritos, se 
-\added
-eles
-\*added
- são de Deus; porque muitos falsos profetas têm surgido no mundo.
+Amados, não creiais em todo espírito, mas provai se os espíritos são da parte de Deus; porque muitos falsos profetas 
+têm vindo ao mundo.
 \v 1Jo.4.2
-Nisto conhecereis ao Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus.
+Nisto conhecereis o Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus;
 \v 1Jo.4.3
-E todo espírito que não confessa Jesus
- não é de Deus; e este é o 
-\added
-espírito
-\*added
- do anticristo, do qual já ouvistes que virá, e que já agora está no mundo.
+e todo espírito que não confessa Jesus
+ não é de Deus; e este é o do anticristo, do qual já ouvistes que virá, e que já agora está no mundo.
 \v 1Jo.4.4
-Filhinhos, vós sois de Deus, e 
-\added
-já
-\*added
- tendes os vencido; porque maior é o que está em vós do que o que está no mundo.
+Filhinhos, vós sois de Deus, e tendes vencido esses; pois maior é o que está em vós do que o que está no mundo.
 \v 1Jo.4.5
-Eles são do mundo; por isso falam do mundo, e o mundo os ouve.
+Eles são do mundo, por isso falam do mundo, e o mundo os ouve.
 \v 1Jo.4.6
-Nós somos de Deus. Aquele que conhece a Deus nos ouve; aquele que não é de Deus não nos ouve. Nisto nós conhecemos ao Espírito da verdade, e ao espírito do erro.
+Nós somos de Deus. Aquele que conhece Deus ouve-nos; aquele que não é de Deus não nos ouve. Nisto conhecemos o 
+Espírito da verdade e o espírito do erro.
+\fn
+Ou: engano
+\*fn
 \v 1Jo.4.7
-Amados, amemos uns aos outros; porque o amor é de Deus, e todo aquele que ama é nascido de Deus, e conhece a Deus.
+Amados, nos amemos uns aos outros; porque o amor é de Deus, e todo aquele que ama é nascido de Deus e conhece a Deus.
 \v 1Jo.4.8
-Aquele que não ama não conhece a Deus; porque Deus é amor.
+Aquele que não ama não conhece a Deus, porque Deus é amor.
 \v 1Jo.4.9
-Nisto o amor de Deus se manifestou por nós: que Deus enviou a seu Filho unigênito ao mundo, para que vivamos por meio dele.
+Nisto se manifestou o amor de Deus por nós:
+\fn
+Ou: entre nós
+\*fn
+ que Deus enviou o seu Filho unigênito ao mundo, para que por meio dele vivamos.
 \v 1Jo.4.10
-Nisto está o amor, não que nós tenhamos amado a Deus, mas que ele nos amou, e enviou a seu Filho como sacrifício para o perdão de nossos pecados.
+Nisto está o amor, não que nós tenhamos amado a Deus, mas sim, que ele nos amou, e enviou seu Filho como sacrifício 
+para perdão dos nossos pecados.
 \v 1Jo.4.11
-Amados, se Deus assim nos amou, também devemos amar uns aos outros.
+Amados, se Deus assim nos amou, também nós devemos amar uns aos outros.
 \v 1Jo.4.12
-Ninguém jamais viu a Deus; se amamos uns aos outros, Deus está em nós, e o amor dele é aperfeiçoado em nós.
+Ninguém jamais viu Deus; se nos amamos uns aos outros, Deus está em nós, e o amor dele em nós é aperfeiçoado.
 \v 1Jo.4.13
-Nisto conhecemos que estamos nele, e ele em nós, porque eles nos deu do seu Espírito.
+Nisto sabemos que estamos nele, e ele em nós, porque ele nos deu do seu Espírito.
 \v 1Jo.4.14
-E nós o vimos, e testemunhamos de que o Pai enviou a 
-\added
-seu
-\*added
- Filho 
+E vimos e damos testemunho de que o Pai enviou o Filho 
 \added
 para ser
 \*added
- o Salvador do mundo.
+ Salvador do mundo.
 \v 1Jo.4.15
-Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.
+Todo aquele que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.
 \v 1Jo.4.16
-E conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem está no amor está em Deus, e Deus 
-\added
-está
-\*added
- nele.
+E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem está no amor está em Deus, e 
+Deus habita nele.
 \v 1Jo.4.17
-Nisto o amor tem se aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, porque assim como ele é, assim também somos nós neste mundo.
+Nisto o amor é aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, pois, como ele é, assim somos nós 
+neste mundo.
 \v 1Jo.4.18
-No amor não há medo, porém o amor perfeito expulsa o medo; porque o medo tem a ver com a punição; e o que teme não 
+No amor não há medo; pelo contrário, o perfeito amor expulsa o medo; pois o medo envolve castigo; e o que teme não 
 está aperfeiçoado em amor.
 \v 1Jo.4.19
-Nós o amamos, porque ele nos amou primeiro.
+Nós amamos,
+\fn
+TR, RP: Nós o amamos
+\*fn
+ porque ele nos amou primeiro.
 \v 1Jo.4.20
-Se alguém diz: Eu amo a Deus,E odeia a seu irmão, 
-\added
-então
-\*added
- é mentiroso; porque quem não ama a seu irmão, que 
-\added
-já
-\*added
- viu, como pode amar a Deus, que nunca viu?
+Se alguém diz: “Eu amo a Deus”, e odeia seu irmão, é mentiroso. Pois quem não ama seu irmão, ao qual viu, 
+não pode amar a Deus, a quem nunca viu.
 \v 1Jo.4.21
-E nós temos este mandamento dele: que quem ama a Deus, ame também a seu irmão.
+E dele temos este mandamento: quem ama a Deus, ame também seu irmão.
 \v 1Jo.5.1
-Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que gerou, também ama ao que dele é nascido.
+Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que gerou, também ama ao que dele 
+é nascido.
 \v 1Jo.5.2
-Nisto conhecemos que amamos aos filhos de Deus: quando amamos a Deus, e obedecemos a seus mandamentos;
+Nisto sabemos que amamos os filhos de Deus: quando amamos a Deus, e praticamos
+ os seus mandamentos.
 \v 1Jo.5.3
-Porque este é o amor de Deus: que guardemos seus mandamentos. E seus mandamentos não são pesados,
+Pois este é o amor de Deus: que guardemos os seus mandamentos. E os seus mandamentos não são pesados.
 \v 1Jo.5.4
-Porque todo aquele que é nascido de Deus vence ao mundo; e esta é a vitória que vence ao mundo: a nossa fé.
+Pois todo aquele que é nascido de Deus vence o mundo; e esta é a vitória que vence o mundo: a nossa fé.
 \v 1Jo.5.5
-Quem é que vence ao mundo, senão aquele que crê que Jesus é o Filho de Deus?
+Quem é o que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?
 \v 1Jo.5.6
 Este é aquele que veio por água e sangue: Jesus, o Cristo. Não só pela água, mas pela água e 
 \added
@@ -329,55 +284,47 @@ pelo
 \*added
  sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
 \v 1Jo.5.7
-Porque são três os que testemunham no céu: 
+Pois são três os que dão testemunho:
 \fn
-TR acrescenta: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra: 
+TR acrescenta: no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra: 
 \*fn
 \v 1Jo.5.8
  o Espírito, a água e o sangue; e estes três estão em unidade.
 \v 1Jo.5.9
-Se recebemos testemunho dos homens, o testemunho de Deus é maior; porque este é o testemunho de Deus, que testemunhou de seu Filho.
+Se recebemos o testemunho humano, o testemunho de Deus é maior; pois este é o testemunho de Deus, que testificou de seu Filho.
 \v 1Jo.5.10
-Quem crê no Filho de Deus tem testemunho em si mesmo; quem não crê no 
-\added
-testemunho de
-\*added
- Deus, o fez de mentiroso; porque não creu no testemunho que Deus testemunhou de seu Filho.
+Quem crê no Filho de Deus tem testemunho em si;
+ quem não crê em Deus o fez de mentiroso, porque não creu no testemunho que Deus deu acerca do seu Filho.
 \v 1Jo.5.11
-E este é o testemunho: que Deus nos deu a vida eterna; e esta vida está em seu Filho.
+E este é o testemunho: que Deus nos deu a vida eterna; e essa vida está no seu Filho.
 \v 1Jo.5.12
 Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
 \v 1Jo.5.13
-Estas coisas escrevi para vós, os que credes no nome do Filho de Deus, para que saibais que tendes a vida eterna.
- 
+Estas coisas escrevi para vós que credes no nome do Filho de Deus, para que saibais que tendes a 
+vida eterna.
 \fn
-TR, RP acrescentam: “e para que continueis a crer no nome do Filho de Deus” 
+TR, RP contêm no final do versículo: “e que creiais no nome do Filho de Deus” 
 \*fn
 \v 1Jo.5.14
-E esta é a confiança que temos nele: que se alguma coisa pedirmos segundo sua vontade, ele nos ouve.
+E esta é a confiança que diante dele: que se pedirmos alguma coisa conforme a sua vontade, ele nos ouve.
 \v 1Jo.5.15
-E se sabemos que tudo o que 
-\added
-lhe
-\*added
- pedimos ele nos ouve, 
-\added
-então
-\*added
- sabemos que alcançamos os pedidos que fizermos a ele.
+E se sabemos que nos ouve em tudo o que pedimos, sabemos que alcançamos as coisas que lhe pedimos.
 \v 1Jo.5.16
-Se alguém vir o seu irmão pecar um pecado que não é para a morte, orará, e 
-\added
-Deus
-\*added
- lhe dará vida, para aqueles que não pecarem para a morte. Há pecado para a morte, pelo qual eu digo que não ore.
+Se alguém vê o seu irmão cometer um pecado que não é para a morte, orará, e lhe dará vida, para os que não pecarem 
+para a morte. Há pecado para a morte, pelo qual não digo que ore.
 \v 1Jo.5.17
-Toda injustiça é pecado; porém há pecado que não é para a morte.
+Toda injustiça é pecado; e há pecado que não é para a morte.
 \v 1Jo.5.18
-Sabemos que todo aquele que é nascido de Deus não pratica o pecado; mas o que é gerado de Deus guarda a si mesmo, e o maligno não o toca.
+Sabemos que todo aquele que é nascido de Deus não pratica o pecado; mas o que é gerado 
+de Deus o guarda,
+\fn
+TR, RP: o que é gerado de Deus guarda a si mesmo
+\*fn
+ e o maligno não o toca.
 \v 1Jo.5.19
-Sabemos que somos de Deus, e que todo o mundo jaz no maligno.
+Sabemos que somos de Deus, e que o mundo todo jaz no maligno.
 \v 1Jo.5.20
-E sabemos que o Filho de Deus já veio, e nos deu entendimento, para conhecer ao Verdadeiro; e nós estamos no verdadeiro: em seu Filho Jesus Cristo. Este é o verdadeiro Deus, e a vida eterna.
+E sabemos que o Filho de Deus veio, e nos deu entendimento para conhecermos o Verdadeiro; e no Verdadeiro estamos, em 
+seu Filho Jesus Cristo. Este é o verdadeiro Deus, e a vida eterna.
 \v 1Jo.5.21
-Filhinhos, guardai-vos dos ídolos. Amém.
+Filhinhos, guardai-vos dos ídolos.

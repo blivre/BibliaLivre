@@ -11,147 +11,153 @@ Segunda Carta de Paulo a Timóteo
 2TI
 \*ubs-code
 \v 2Tm.1.1
-Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida, que está em Cristo Jesus,
+Paulo, apóstolo de {tr,rp:Jesus Cristo}{n4:Cristo Jesus},
+{trnc:\fn
+N4: Cristo Jesus
+\*fn}
+ pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,
 \v 2Tm.1.2
-A Timóteo, 
+a Timóteo, 
 \added
 meu
 \*added
  amado filho. 
-\added
-Haja em ti
-\*added
- graça, misericórdia, 
+Graça, misericórdia, 
 \added
 e
 \*added
- paz de Deus Pai, e de Cristo Jesus, nosso Senhor.
+ paz, da parte de Deus Pai, e de Cristo Jesus, nosso Senhor.
 \v 2Tm.1.3
-Eu dou graças a Deus, ao qual desde 
+Agradeço a Deus, a quem desde os 
 \added
 meus
 \*added
- antepassados eu sirvo com pura consciência, assim como sem cessar tenho lembrança de ti em minhas orações noite e dia;
+ antepassados sirvo com uma consciência pura, de que sem cessar tenho memória de ti nas minhas orações noite e dia.
 \v 2Tm.1.4
-Lembrando-me de tuas lágrimas; desejando muito te ver, para eu me encher de alegria;
+Lembro-me das tuas lágrimas, e desejo muito te ver, para me encher de alegria;
 \v 2Tm.1.5
-Trazendo à memória a fé não fingida que está em ti, a qual primeiro habitou em tua avó Loide, e em tua mãe Eunice; e tenho certeza de que também 
+Trago à memória a fé não fingida que há em ti, 
 \added
-habita
+fé
 \*added
- em ti.
+ que habitou primeiro na tua avó Loide, e na tua mãe Eunice; e tenho certeza que também em ti.
 \v 2Tm.1.6
-Por esta causa eu te lembro 
-\added
-para que
-\*added
- reacendas o dom de Deus que está tem ti pela imposição das minhas mãos.
+Por essa causa lembro-te que reacendas o dom de Deus que está em ti pela imposição das minhas mãos.
 \v 2Tm.1.7
-Porque Deus não nos deu espírito de medo; mas sim 
-\added
-o
-\*added
- de poder, e de amor, e de moderação.
+Pois Deus não nos deu espírito de medo; mas sim de força, de amor, e de moderação.
 \v 2Tm.1.8
-Portanto não te envergonhes do testemunho do nosso Senhor, nem de mim, que sou prisioneiro dele; mas sim, participa em sofrer aflições com o Evangelho conforme o poder de Deus;
+Portanto não te envergonhes do testemunho do nosso Senhor, nem de mim, que sou prisioneiro dele; em vez disso, 
+participa das aflições do Evangelho segundo o poder de Deus.
 \v 2Tm.1.9
-O qual nos salvou, e chamou com santo chamamento; não segundo nossas obras, mas segundo seu próprio propósito, e graça, que nos foi dada em Cristo Jesus antes dos princípios dos tempos;
+Ele nos salvou, e chamou com um chamado santo; não conforme as nossas obras, mas sim, conforme a sua própria intenção,
+\fn
+Ou: seu próprio propósito
+\*fn
+ e a graça que nos foi dada em Cristo Jesus antes dos princípios dos tempos;
 \v 2Tm.1.10
-Mas agora é manifesta pelo aparecimento de nosso Salvador Jesus Cristo, o qual aniquilou a morte, e para a luz trouxe a vida e a incorrupção por meio do Evangelho;
+mas agora é manifesta pela aparição do nosso Salvador {tr,rp:Jesus Cristo}{n4:Cristo Jesus},
+{trnc:\fn
+N4: Cristo Jesus
+\*fn}
+ que anulou a morte, e trouxe para a luz a vida e a imortalidade
+\fn
+Ou “incorrupção”, isto é, o apodrecimento do corpo
+\*fn
+ por meio do evangelho;
 \v 2Tm.1.11
-para o qual eu fui posto como pregador e apóstolo, e instrutor dos gentios.
+do qual eu fui constituído pregador e apóstolo, e instrutor{tr,rp: dos gentios}.
+{trnc:\fn
+N4 não contém “dos gentios”
+\*fn}
 \v 2Tm.1.12
-Por causa disto eu também sofro estas coisas; mas eu não me envergonho. Porque eu conheço a quem tenho crido, e tenho certeza de que ele é poderoso para guardar meu depósito que 
-\added
-eu lhe
-\*added
- confiei até aquele dia.
+Por causa disso também sofro essas coisas; porém não me envergonho. Pois sei em quem tenho crido, e tenho certeza de 
+que ele é poderoso para guardar o que lhe confiei
+\fn
+Ou: guardar o meu depósito
+\*fn
+ até aquele dia.
 \v 2Tm.1.13
-Mantém o exemplar das sãs palavras que tens ouvido de mim, na fé e amor que 
+Preserva o exemplo das sãs palavras que tens ouvido de mim, na fé e no amor que 
 \added
-está
+há
 \*added
  em Cristo Jesus.
 \v 2Tm.1.14
-Guarda o bom depósito que 
-\added
-te
-\*added
- foi confiado pelo Espírito Santo que habita em nós.
+Guarda o bem que te foi confiado
+\fn
+Lit. Guarda o bom depósito
+\*fn
+ por meio do Espírito Santo que habita em nós.
 \v 2Tm.1.15
-Tu sabes isto, que todos os que 
-\added
-estão
-\*added
- na Ásia se desviaram de mim, entre os quais foram Fígelo e Hermógenes.
+Sabes isto, que todos os que estão na Ásia Romana me abandonaram, entre os quais estavam Fígelo e Hermógenes.
 \v 2Tm.1.16
-Que o Senhor conceda misericórdia à casa de Onesíforo, porque muitas vezes ele me aliviou, e não se envergonhou de minha cadeia;
+O Senhor conceda misericórdia à casa de Onesíforo, pois muitas vezes ele me consolou, e não se envergonhou de eu estar em cadeias;
 \v 2Tm.1.17
-Mas ele, 
-\added
-ao invés disso
-\*added
-,vindo a Roma, me buscou com muito empenho, e 
+Pelo contrário, quando veio a Roma, com {n4:muito} empenho me procurou,
+{trnc:\fn
+N4: com empenho
+\*fn}
+ e 
 \added
 me
 \*added
- achou.
+ encontrou.
 \v 2Tm.1.18
-Que o Senhor lhe conceda para que naquele dia ele encontre misericórdia diante do Senhor; e tu conheces muito bem como ele 
+O Senhor lhe conceda que naquele dia ele encontre misericórdia diante do Senhor. E tu sabes muito bem como ele 
 \added
 me
 \*added
  ajudou em Éfeso.
 \v 2Tm.2.1
-Portanto tu, meu filho, esforça-te na graça que está em Cristo Jesus;
+Portanto tu, meu filho, fortifica-te na graça que há em Cristo Jesus.
 \v 2Tm.2.2
-E as coisas que ouviste de mim 
-\added
-confirmadas
-\*added
- por muitas testemunhas, confia sob a responsabilidade de homens fiéis, que sejam competentes para ensinarem também a outros.
+E o que de mim ouviste entre muitas testemunhas, confia-o a pessoas fiéis, que sejam competentes para ensinar também 
+a outros.
 \v 2Tm.2.3
-Tu, pois, sofre as aflições como bom soldado de Jesus Cristo.
+{tr,rp:Tu, pois, sofre}{n4:Sofre comigo}
+{trnc:\fn
+N4: Sofre comigo
+\*fn}
+ as aflições como bom soldado de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}.
+{trnc:\fn
+N4: Cristo Jesus
+\*fn}
 \v 2Tm.2.4
-Ninguém que está batalhando se envolve com assuntos d 
-\added
-esta
-\*added
- vida, para agradar a aquele que 
-\added
-o
-\*added
- alistou para a guerra.
+Nenhum soldado em batalha se envolve com assuntos desta vida, pois tem como objetivo agradar àquele que o alistou.
 \v 2Tm.2.5
-E se também alguém está lutando em 
-\added
-alguma
-\*added
- competição, não recebe a coroa de prêmio se não competir conforme as regras.
+E, também, se alguém está competindo como atleta, não recebe a coroa se não seguir as regras.
 \v 2Tm.2.6
-O lavrador que trabalha deve 
-\added
-ser
-\*added
- o primeiro a receber sua parte dos frutos.
+O lavrador que trabalha deve ser o primeiro a receber da partilha dos frutos.
 \v 2Tm.2.7
-Reflita no que eu digo; porque 
-\added
-eu quero que
-\*added
- o Senhor te dê entendimento em tudo.
+Considera o que digo; {tr,rp:que o Senhor te dê}{n4:pois o Senhor te dará}
+{trnc:\fn
+\key
+que o Senhor te dê
+\*key
+N4: pois o senhor te dará
+\*fn}
+ entendimento em tudo.
 \v 2Tm.2.8
-Lembra-te de Jesus Cristo, ressuscitado dos mortos, da semente de Davi, segundo meu Evangelho;
+Lembra-te de Jesus Cristo, ressuscitado dos mortos, da descendência
+\fn
+Lit. “semente”
+\*fn
+ de Davi, segundo o meu evangelho.
 \v 2Tm.2.9
-Pelo qual até as prisões, como criminoso, sofro aflições; mas a palavra de Deus não está presa.
-\v 2Tm.2.10
-Por isso sofro tudo por causa dos escolhidos, para que também eles obtenham a salvação que está em Cristo Jesus com glória eterna.
-\v 2Tm.2.11
-Fiel 
+Por esse 
 \added
-é esta
+evangelho
 \*added
- palavra: porque se morrermos com 
+ sofro aflições, e até prisões, como um criminoso; mas a palavra de Deus não está presa.
+\v 2Tm.2.10
+Por isso tudo suporto por causa dos escolhidos, a fim de que também eles obtenham a salvação que está em Cristo Jesus 
+com glória eterna.
+\v 2Tm.2.11
+Esta afirmação 
+\added
+é
+\*added
+ fiel: se morrermos com 
 \added
 ele
 \*added
@@ -161,241 +167,216 @@ ele
 \*added
  viveremos;
 \v 2Tm.2.12
-Se sofrermos, também com 
+se sofrermos, também com 
 \added
 ele
 \*added
- reinaremos; se o negarmos, ele também nos negará;
+ reinaremos; se o {tr,rp:negamos}{n4:negarmos},
+{trnc:\fn
+N4: negarmos
+\*fn}
+ também ele nos negará;
 \v 2Tm.2.13
-Se formos infiéis, ele continua fiel; 
-\added
-porque
-\*added
+se formos infiéis, ele continua fiel; {n4:porque}
+{trnc:\fn
+N4 contém “porque” depois de “fiel”
+\*fn}
  ele não pode negar a si mesmo.
 \v 2Tm.2.14
-Traze estas coisas à memória 
-\added
-deles
-\*added
-, ordenando sob juramento diante do Senhor, que não tenham brigas por meio de palavras, que para nada aproveitam, 
+Lembra-os disso, alertando-os diante {tr,rp:do Senhor}{n4:de Deus},
+{trnc:\fn
+N4: de Deus
+\*fn}
+ que não tenham brigas de palavras, que não têm proveito algum, 
 \added
 a não ser
 \*added
- para a perversão dos ouvintes.
+ para a ruína dos ouvintes.
 \v 2Tm.2.15
-Procura te apresentares aprovado diante de Deus, 
+Procura apresentar-te aprovado a Deus
 \added
 como
 \*added
- trabalhador que não tem de que se envergonhar, que utiliza corretamente a palavra da verdade.
+ um trabalhador que não tem de que se envergonhar, que usa bem a palavra da verdade.
 \v 2Tm.2.16
-Mas mantenha distância das conversas profanas 
+Mas evita conversas profanas 
 \added
 e
 \*added
- vãs; porque elas prosseguirão em muito mais maldade.
+ inútes; pois tendem a produzir maior irreverência.
 \v 2Tm.2.17
-E a palavra deles se propagará como uma gangrena; dentre os quais são Himeneu e Fileto;
+E a palavra deles se espalhará como uma gangrena; entre os quais são Himeneu e Fileto.
 \v 2Tm.2.18
-Os quais se desviaram da verdade, dizendo que a ressurreição já aconteceu; e pervertem a fé de alguns.
+Esses se desviaram da verdade, dizendo que a ressurreição já aconteceu; e perverteram a fé de alguns.
 \v 2Tm.2.19
-Porém o firme fundamento de Deus continua, tendo este selo: o Senhor conhece os que são dele, e qualquer um que declara o nome de Cristo, que se afaste da injustiça.
+Porém o fundamento de Deus continua firme, e tem este selo:
+\fn
+Ou: esta inscrição
+\*fn
+ o Senhor conhece os que são seus, e que todo aquele que 
+faz uso do nome {tr:de Cristo}{rp,n4:do Senhor},
+{trnc:\fn
+RP, N4: do Senhor
+\*fn}
+ se afaste da injustiça.
 \v 2Tm.2.20
-Mas em uma grande casa não há somente vasos de ouro e de prata, mas também de madeira e de barro; e uns para honra, mas outros para desonra.
+Numa grande casa não há somente utensílios de ouro e de prata, mas também de madeira e de barro; e uns para honra, porém outros para desonra.
 \v 2Tm.2.21
-Portanto se alguém se purifica destas coisas, será vaso para honra, santificado e adequado para uso do Dono, 
+Portanto, se alguém se purificar destas coisas, será utensílio para honra, santificado e adequado para uso do Dono,
+\fn
+Ou: Senhor
+\*fn
 \added
 e
 \*added
  preparado para toda boa obra.
 \v 2Tm.2.22
-Mas foge dos desejos da juventude; e segue a justiça, a fé, o amor, 
+Foge também dos desejos da juventude; e segue a justiça, a fé, o amor, 
 \added
 e
 \*added
- a paz, com os que de coração puro chamam ao Senhor.
+ a paz, com os que, de coração puro, invocam o Senhor.
 \v 2Tm.2.23
-Rejeita as questões sem sentido e desprovidas de instrução, sabendo que elas produzem brigas.
+E rejeita as questões tolas e sem instrução, como sabes que elas produzem brigas.
 \v 2Tm.2.24
-E não convém ao servo do Senhor brigar, mas sim ser gentil para com todos, apto para ensinar e suportar o mal;
+E ao servo do Senhor não convém brigar, mas sim ser manso com todos, apto para ensinar e suportar;
 \v 2Tm.2.25
-Instruindo com mansidão aos que se opõem, a fim de que talvez Deus lhes dê arrependimento para conhecerem a verdade;
+deve instruir com mansidão aos que se opõem, pois talvez Deus lhes dê arrependimento para conhecerem a verdade;
 \v 2Tm.2.26
-E se libertem da armadilha do diabo, em cuja vontade estão presos.
+e se libertem da armadilha do diabo, em que foram presos à vontade dele.
 \v 2Tm.3.1
-Sabe porém disto, que nos últimos dias virão tempos difíceis.
+Sabe porém isto, que nos últimos dias virão tempos difíceis.
 \v 2Tm.3.2
-Porque haverá homens que 
-\added
-só
-\*added
- amam a si mesmos, avarentos, presunçosos, soberbos, blasfemos, desobedientes a pais e a mães, ingratos, maus,
+Pois haverá alguns que serão egoístas, gananciosos, presunçosos, soberbos, blasfemos, desobedientes a pais e a mães, ingratos, profanos,
 \v 2Tm.3.3
-Sem afeto natural, irreconciliáveis, caluniadores, incontroláveis, cruéis, sem amor para com os bons,
+sem afeto natural, irreconciliáveis, caluniadores, sem dominio próprio, cruéis, sem amor com os bons,
 \v 2Tm.3.4
-Traidores, precipitados, orgulhosos, que amam mais os prazeres do que amam a Deus;
+traidores, precipitados, orgulhosos, que amam mais os prazeres que a Deus.
 \v 2Tm.3.5
-Tendo uma aparência de devoção 
-\added
-a Deus
-\*added
-,mas negando o poder dela. Também mantenha distância destes.
+Eles têm uma aparência de devoção divina, mas negam o poder dela. Afasta-te desses também.
 \v 2Tm.3.6
-Porque dentre estes que são os que entram pelas casas, e levam cativas as mulheres imprudentes carregadas de pecados, levadas por vários maus desejos;
+Pois dentre esses são os que entram pelas casas, e levam cativas as mulheres insensatas carregadas de pecados, levadas 
+com vários maus desejos;
 \v 2Tm.3.7
-Que sempre estão aprendendo, e jamais podem chegar ao conhecimento da verdade.
+que sempre estão aprendendo, e jamais conseguem chegar ao conhecimento da verdade.
 \v 2Tm.3.8
-E assim como Janes e Jambres se opuseram a Moisés, assim também estes se opõem a verdade; homens corruptos de entendimento, 
-\added
-e
-\*added
- reprovados quanto à fé.
+E assim como Janes e Jambres se opuseram a Moisés, assim também esses se opõem a verdade; esses são corruptos de 
+entendimento, e reprovados quanto à fé.
 \v 2Tm.3.9
-Porém eles não avançarão; porque a todos sua loucura será manifesta, assim como também foi a daqueles.
+Eles, porém, não avançarão; pois a insensatez deles será evidente a todos, como também foi a daqueles.
 \v 2Tm.3.10
-Mas tu tens seguido minha doutrina, modo de viver, intenção, fé, paciência, amor, perseverança;
+Porém tu tens seguido a minha doutrina, conduta, intenção, fé, paciência, amor, perseverança,
 \v 2Tm.3.11
-Perseguições, aflições; tais quais aconteceram a mim em Antioquia, em Icônio 
-\added
-e
-\*added
- em Listra; tais perseguições eu sofri; e o Senhor me livrou de todas elas.
+perseguições, aflições; as quais me aconteceram em Antioquia, em Icônio e em Listra; tais perseguições sofri, e o Senhor me 
+livrou de todas.
 \v 2Tm.3.12
-E também todos os que querem viver devotamente em Cristo Jesus sofrerão perseguição.
+E também todos os que querem viver com devoção em Cristo Jesus sofrerão perseguição.
 \v 2Tm.3.13
-Mas os homens maus e enganadores irão avançar n 
-\added
-aquilo
-\*added
- que é pior, enganando e sendo enganados.
+Mas os que são maus e enganadores irão de mal a pior, enganando e sendo enganados.
 \v 2Tm.3.14
-Porém tu, continua nas coisas que aprendeste, e 
-\added
-das quais
-\*added
- foste confirmado, sabendo de quem tendes aprendido.
+Tu, porém, continua nas coisas que aprendeste e das quais foste convencido, pois sabes{n4: aqueles} de quem as aprendeste.
+{trnc:\fn
+N4: pois sabes aqueles de quem tendes aprendido
+\*fn}
 \v 2Tm.3.15
-E que desde tua infância conheceste as Sagradas Escrituras; as quais te podem fazer sábio para a salvação pela fé em Cristo Jesus.
+e que desde tua infância conheceste as Sagradas Escrituras, que podem te fazer sábio para a salvação pela fé em Cristo Jesus.
 \v 2Tm.3.16
-Toda a Escritura é divinamente inspirada e proveitosa para o ensino, para a exposição de erros, para a correção, e para a instrução na justiça;
+Toda a Escritura 
+\added
+é
+\*added
+ divinamente inspirada e
+\fn
+Ou: Toda a Escritura divinamente inspirada é também
+\*fn
+ proveitosa para ensinar, para mostrar o erro, para corrigir, e para instruir na justiça;
 \v 2Tm.3.17
-Para que o homem de Deus seja completo, plenamente instruído para toda boa obra.
+para que o homem de Deus seja completo, plenamente instruído para toda boa obra.
 \v 2Tm.4.1
-Portanto eu te ordeno sob juramento, diante de Deus e do Senhor Jesus Cristo, que irá julgar aos vivos e aos mortos em seu aparecimento e seu Reino:
+{tr,rp:Portanto te convoco}{n4:Convoco-te} diante de Deus e {tr,rp:do Senhor Jesus Cristo}{n4:de Cristo Jesus},
+{trnc:\fn
+\key
+do Senhor Jesus Cristo
+\*key
+N4: de Cristo Jesus
+\*fn}
+ que irá julgar os vivos e os mortos{tr,rp: em}{n4:, e pela} sua aparição e seu reino:
 \v 2Tm.4.2
-Prega a palavra; insiste em tempo e fora de tempo; expõe os erros; repreende 
+prega a palavra; insiste em tempo e fora de tempo; mostra os erros; repreende 
 \added
 e
 \*added
- exorta com toda paciência e ensinamento.
+ exorta, com toda paciência e ensino.
 \v 2Tm.4.3
-Porque haverá tempo quando não aguentarão a sã doutrina, mas tendo incômodo no ouvido, serão amontoados doutores segundo seus próprios desejos.
+Pois virá tempo em que não suportarão a sã doutrina; em vez disso, terão comichão no ouvido e amontoarão para si 
+instrutores conforme os seus próprios desejos maus;
 \v 2Tm.4.4
-E os ouvidos 
-\added
-deles
-\*added
- se desviarão da verdade, e se voltarão para os mitos.
+desviarão os ouvidos da verdade, e se voltarão aos mitos.
 \v 2Tm.4.5
-Porém tu, sê vigilante em todas as coisas; sofre as aflições, cumpre a obra de pregador do Evangelho, 
-\added
-e
-\*added
- faze por completo o teu serviço.
+Tu, porém, vigia-te em todas as coisas; suporta as aflições, faz a obra de evangelista, cumpre o teu serviço.
 \v 2Tm.4.6
-Porque já agora estão a 
-\added
-ponto de
-\*added
- oferecerem a mim como aspersão de sacrifício, e o tempo de minha partida está perto.
+Pois já sou uma oferta de derramamento, e o tempo da minha partida está perto.
 \v 2Tm.4.7
-Eu lutei o bom combate, terminei 
-\added
-minha
-\*added
- carreira, 
-\added
-e
-\*added
- guardei a fé.
+Lutei a boa luta, terminei a carreira, guardei a fé.
 \v 2Tm.4.8
-A partir de agora a coroa da justiça me está reservada, a qual o Senhor, o justo Juiz, naquele dia me dará; e não somente a mim, mas também a todos os que amarem a sua vinda.
+Desde agora a coroa da justiça me está reservada, a qual o Senhor, o justo Juiz, me dará naquele dia; e não somente 
+a mim, mas também a todos os que amarem a sua vinda.
 \v 2Tm.4.9
 Procura vir logo até mim,
 \v 2Tm.4.10
-Porque Demas me desamparou, amando o tempo presente, e foi para Tessalônica; Crescente 
-\added
-foi
-\*added
- para a Galácia, 
-\added
-e
-\*added
- Tito para a Dalmácia.
+porque Demas me desamparou: ele amou o tempo presente, e partiu para Tessalônica; Crescente para a Galácia, e Tito 
+para a Dalmácia.
 \v 2Tm.4.11
-Somente Lucas está comigo. Toma juntamente a Marcos, e traze 
-\added
--o
-\*added
- contigo, porque ele é muito útil para o trabalho deste serviço.
+Só Lucas está comigo. Toma Marcos, e o traz contigo, porque ele me é muito útil para o serviço.
 \v 2Tm.4.12
-E Tíquico eu enviei a Éfeso.
+Enviei Tíquico a Éfeso.
 \v 2Tm.4.13
-Quando vieres, traz 
-\added
-contigo
-\*added
- a capa que eu deixei em Trôade com Carpo, e 
-\added
-traz também
-\*added
- os livros, em especial os pergaminhos.
+Quando vieres, traz a capa que deixei em Trôade na casa de Carpo, e os livros, principalmente os pergaminhos.
 \v 2Tm.4.14
-Alexandre, o artífice em objetos metálicos, me ocasionou muitos males; o Senhor pague a ele conforme suas obras.
+Alexandre, o que trabalha com cobre, me causou muitos males; o Senhor {tr,rp:retribua}{n4:retribuirá}
+{trnc:\fn
+N4: pagará
+\*fn}
+ a ele conforme suas obras.
 \v 2Tm.4.15
-Guarda-te dele também, porque ele muito se opôs a nossas palavras.
+Toma cuidado com ele também, porque ele se opôs muito às nossas palavras.
 \v 2Tm.4.16
-Em minha primeira defesa ninguém me apoiou, mas todos me desampararam. 
-\added
-Tomara
-\*added
- que isso não lhes seja levado em conta.
+Na minha primeira defesa ninguém esteve comigo para me ajudar, pelo contrário, todos me desampararam. Que isso não seja levado em consideração contra eles.
 \v 2Tm.4.17
-Mas o Senhor me apoiou, e me fortaleceu, para que por meio de mim a pregação fosse proclamada, e todos os gentios 
+Mas o Senhor me ajudou e me fortaleceu, a fim de que por mim a pregação fosse completamente divulgada, e todos os gentios 
 \added
 a
 \*added
- ouvissem; e eu fiquei livre da boca do leão.
+ ouvissem; e fui livrado da boca do leão.
 \v 2Tm.4.18
-E o Senhor me livrará de toda má obra, e me preservará para seu Reino celestial. A ele 
+{tr,rp:E
+{trnc:\fn
+N4 não contém “E”
+\*fn}
+ o}{n4:O} Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
 \added
 seja
 \*added
- a glória para todo o sempre. Amém!
+ glória para todo o sempre. Amém.
 \v 2Tm.4.19
-Saúda a Prisca e a Áquila, e 
-\added
-aos da
-\*added
- casa de Onesíforo.
+Cumprimenta Prisca e Áquila, e a casa de Onesíforo.
 \v 2Tm.4.20
-Erasto ficou em Corinto, e a Trófimo eu 
-\added
-o
-\*added
- deixei doente em Mileto.
+Erasto ficou em Corinto, e deixei Trófimo doente em Mileto.
 \v 2Tm.4.21
-Procura vir antes do inverno. Êubulo, Pudente, Lino, Cláudia e todos os irmãos te saúdam.
+Procura vir antes do inverno. Êubulo, Pudente, Lino, Cláudia e todos os irmãos te cumprimentam.
 \v 2Tm.4.22
-O Senhor Jesus Cristo 
-\added
-seja
-\*added
- com o teu espírito. A graça seja convosco. Amém.{tr: 
-\added
-A segunda carta a Timóteo (o primeiro bispo escolhido para a igreja dos efésios) foi escrita em Roma, quando Paulo foi apresentado pela segunda vez ao imperador Nero
-\*added
- }{trnc:
-\fn
-\*fn
- }
+O Senhor{tr,rp: Jesus Cristo}
+{trnc:\fn
+N4 não contém “Jesus Cristo”
+\*fn}
+ seja com o teu espírito. A graça seja convosco.{tr,rp: Amém.}
+{trnc:\fn
+N4 não contém “Amém”
+\*fn}
+{tr:\added
+A segunda carta a Timóteo (o primeiro bispo escolhido para a igreja dos efésios) foi escrita em Roma, quando Paulo foi 
+apresentado pela segunda vez ao imperador Nero
+\*added}
+{trnc:\fn
+RP, N4 não contêm “A segunda carta (...) imperador Nero”
+\*fn}

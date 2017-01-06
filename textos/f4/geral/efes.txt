@@ -11,7 +11,11 @@ Ef
 EPH
 \*ubs-code
 \v Ef.1.1
-Paulo, apóstolo de Jesus Cristo pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
+Paulo, apóstolo de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
+{trnc:\fn
+N4: Cristo Jesus
+\*fn}
+ pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
 \v Ef.1.2
 Graça e paz, de Deus nosso Pai, e do Senhor Jesus Cristo, 
 \added
@@ -104,7 +108,11 @@ não paro de agradecer
 \added
 a Deus
 \*added
- por vós, lembrando-me de vós em minhas orações.
+ por vós, lembrando-me{tr,rp: de vós}
+{trnc:\fn
+N4 não contém “de vós”
+\*fn}
+ em minhas orações.
 \v Ef.1.17
 \added
 Oro
@@ -115,7 +123,7 @@ Lit. Pai da glória
 \*fn
 , vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
 \v Ef.1.18
-e que sejam iluminados os olhos de vosso {tr:entendimento}{rp,n4:coração},{trnc: 
+e que sejam iluminados os olhos do vosso {tr:entendimento}{rp,n4:coração},{trnc: 
 \fn
 RP, N4: coração 
 \*fn
@@ -151,7 +159,11 @@ para a Igreja,
 \v Ef.1.23
 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
 \v Ef.2.1
-E vós estáveis mortos em ofensas e pecados,
+E vós estáveis mortos em{n4: vossas} ofensas
+{trnc:\fn
+N4: vossas ofensas
+\*fn}
+ e pecados,
 \v Ef.2.2
 nos quais antes andastes conforme o proceder deste mundo, conforme o príncipe do poder do ar, do espírito que agora 
 opera nos filhos da desobediência.
@@ -226,7 +238,11 @@ Ele veio, e proclamou o evangelho da paz a vós que
 \added
 estáveis
 \*added
- longe, e aos que estavam perto.
+ longe, e{n4: paz}
+ {trnc:\fn
+ N4: e paz
+ \*fn}
+ aos que estavam perto.
 \v Ef.2.18
 Pois por meio dele ambos temos acesso ao Pai por um 
 \added
@@ -236,7 +252,11 @@ mesmo
 \v Ef.2.19
 Portanto, já não sois estrangeiros, nem forasteiros, mas sim, concidadãos dos santos, e membros da família de Deus,
 \v Ef.2.20
-edificados sobre o fundamento dos apóstolos e dos profetas, do qual Jesus Cristo é a pedra principal da esquina.
+edificados sobre o fundamento dos apóstolos e dos profetas, do qual {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
+{trnc:\fn
+N4: Cristo Jesus
+\*fn}
+ é a pedra principal da esquina.
 \v Ef.2.21
 Nele o edifício todo, bem ajustado, cresce para 
 \added
@@ -254,7 +274,7 @@ Por isso eu, Paulo,
 \added
 sou
 \*added
- prisioneiro de Jesus Cristo, para o benefício de vós, gentios.
+ prisioneiro de Cristo Jesus, para o benefício de vós, gentios.
 \v Ef.3.2
 Se é que já ouvistes da responsabilidade
 \fn
@@ -288,7 +308,15 @@ isto é,
 \added
 membros
 \*added
- de um mesmo corpo, e participantes da sua promessa em Cristo por meio do evangelho.
+ de um mesmo corpo, e participantes da{tr,rp: sua}
+{tnrc:\fn
+N4 não contém “sua”
+\*fn}
+ promessa em Cristo{n4: Jesus}
+{trnc:\fn
+N4: Cristo Jesus
+\*fn}
+ por meio do evangelho.
 \v Ef.3.7
 Eu fui feito servidor desse 
 \added
@@ -296,10 +324,18 @@ evangelho
 \*added
  conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
 \v Ef.3.8
-A mim, o menor de todos os santos, foi dada esta graça de anunciar entre os gentios, por meio do Evangelho, as 
+A mim, o menor de todos os santos, foi dada esta graça de anunciar {tr,rp:entre os}{n4:aos} gentios,
+{trnc:\fn
+N4: aos gentios
+\*fn}
+ por meio do Evangelho, as 
 inimagináveis riquezas de Cristo,
 \v Ef.3.9
-E para esclarecer a todos qual é a {tr:comunhão}{rp,n4:administração
+E para esclarecer{tr,rp: a todos}
+{trnc:\fn
+N4 não contém “a todos”
+\*fn}
+ qual é a {tr:comunhão}{rp,n4:administração
 \fn
 Ou, tradicionalmente: dispensação
 \*fn}{trnc: 
@@ -373,7 +409,12 @@ e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios d
 \v Ef.3.20
 E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
 \v Ef.3.21
-a ele seja a glória na Igreja, em Cristo Jesus, por todas as gerações para todo o sempre, Amém!
+a ele seja a glória na Igreja,{n4: e} em
+{trnc:
+\fn
+N4: e em
+\*fn}
+ Cristo Jesus, por todas as gerações para todo o sempre, Amém!
 \v Ef.4.1
 Portanto, eu, o prisioneiro no Senhor, rogo-vos que andeis como é digno do chamado com que fostes chamados,
 \v Ef.4.2
@@ -413,7 +454,13 @@ um
 \added
 só
 \*added
- Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos vós.
+ Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos{tr vós}{rp:nós}.
+{trnc:\fn
+\key
+todos vós
+\*key
+RP: todos nós ; N4: todos
+\*fn}
 \v Ef.4.7
 Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo.
 \v Ef.4.8
@@ -426,7 +473,11 @@ Ou: levou os cativos
 Salmos 68:18
 \*ref
 \v Ef.4.9
-(O que significa este “ele subiu”, senão que ele antes tinha descido às partes mais baixas da terra?)
+(O que significa este “ele subiu”, senão que ele também{tr,rp: antes}
+{trnc:\fn
+N4 não contém “antes”
+\*fn}
+ tinha descido às partes mais baixas da terra?)
 \v Ef.4.10
 Aquele que desceu é também o mesmo que subiu muito acima de todos os céus, para preencher
 \fn
@@ -460,7 +511,11 @@ Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é 
 É dele que todo o corpo, bem ajustado e unido por todos os ligamentos, conforme a operação de cada parte na medida 
 devida, proporciona o crescimento do corpo, para a sua própria edificação em amor.
 \v Ef.4.17
-Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os outros gentios andam, na futilidade das suas mentes.
+Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os{tr,rp: outros}
+{trnc:\fn
+N4 não contém “outros”
+\*fn}
+ gentios andam, na futilidade das suas mentes.
 \v Ef.4.18
 Esses têm o entendimento nas trevas, e estão separados da vida de Deus pela ignorância que há neles, pela dureza do seu coração.
 \v Ef.4.19
@@ -494,7 +549,11 @@ Lit. Irai-vos, e não pequeis
 \v Ef.4.27
 nem deis lugar ao diabo.
 \v Ef.4.28
-O que furtava, não furte mais; em vez disso, trabalhe, operando com as mãos o bem, para que tenha o que repartir com o que tiver necessidade.
+O que furtava, não furte mais; em vez disso, trabalhe, operando com as{n4: próprias} mãos
+{trnc:\fn
+N4: as próprias mãos
+\*fn}
+ o bem, para que tenha o que repartir com o que tiver necessidade.
 \v Ef.4.29
 Não saia de vossa boca palavra imoral; mas sim a boa para a edificação conforme a necessidade; para que comunique graça aos que a ouvem.
 \v Ef.4.30
@@ -510,7 +569,11 @@ perdoou em Cristo.
 \v Ef.5.1
 Portanto, sede imitadores de Deus, como filhos amados;
 \v Ef.5.2
-e andai em amor, como também Cristo nos amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
+e andai em amor, como também Cristo {tr,rp:nos}{n4:vos}
+{trnc:\fn
+N4: vos
+\*fn}
+ amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
 \v Ef.5.3
 Mas o pecado sexual, e toda impureza ou cobiça, nem mesmo se nomeie entre vós, como convém a santos;
 \v Ef.5.4
@@ -572,9 +635,13 @@ falando entre vós com salmos, hinos e cânticos espirituais; cantando e louvand
 \v Ef.5.20
 agradecendo sempre por tudo a Deus, o Pai, no nome do nosso Senhor Jesus Cristo;
 \v Ef.5.21
-sujeitando-vos uns aos outros no temor a Deus.
+sujeitando-vos uns aos outros no temor a {tr:Deus}{rp,n4:Cristo}.
 \v Ef.5.22
-Mulheres, sujeitai-vos aos vossos próprios maridos, assim como ao Senhor;
+Mulheres, 
+{n4:\added}
+sujeitai-vos
+{n4:\*added}
+ aos vossos próprios maridos, assim como ao Senhor;
 \v Ef.5.23
 porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e ele é o salvador do corpo.
 \v Ef.5.24
@@ -582,7 +649,7 @@ Mas, assim como a Igreja está sujeita a Cristo, assim também as mulheres
 \added
 estejam
 \*added
- em tudo sujeitas aos seus próprios maridos.
+ em tudo sujeitas aos{tr,rp: seus próprios} maridos.
 \v Ef.5.25
 Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela;
 \v Ef.5.26
@@ -598,7 +665,15 @@ e irrepreensível.
 Assim os maridos devem amar as suas próprias esposas como os seus próprios corpos. Quem ama a sua esposa, ama a 
 si mesmo;
 \v Ef.5.29
-pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também o Senhor à Igreja.
+pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também 
+{tr,rp:o Senhor}{n4:Cristo}
+{trnc:\fn
+\key
+o Senhor
+\*key
+N4: Cristo
+\*fn}
+ à Igreja.
 \v Ef.5.30
 pois somos membros de seu corpo{tr,rp:, da sua carne, e dos seus ossos}.{trnc: 
 \fn
@@ -609,7 +684,14 @@ N4 omite “da sua carne, e dos seus ossos”
 TR, RP acrescentam: “da sua carne, e dos seus ossos” ao fim do versículo 
 \*fn}
 \v Ef.5.31
-Por isso o homem deixará o seu pai e 
+Por isso o homem deixará o
+{n4:\added}
+seu
+{n4:\*added}
+{trnc:\fn
+N4 não contém “seu”
+\*fn}
+ pai e 
 \added
 a sua
 \*added
@@ -656,12 +738,23 @@ que
 \*added
  com ele não há acepção de pessoas.
 \v Ef.6.10
-Por fim, meus irmãos, fortalecei-vos no Senhor e na força do seu poder.
+Por fim,{tr,rp: meus irmãos,}
+{trnc:\fn
+N4 não contém “meus irmãos”
+\*fn}
+ fortalecei-vos no Senhor e na força do seu poder.
 \v Ef.6.11
 Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as ciladas do diabo.
 \v Ef.6.12
-Pois temos de lutar não contra carne e sangue, mas sim contra os domínios e poderes, contra os senhores das 
-trevas deste mundo, contra os males espirituais nos lugares celestes.
+Pois temos de lutar não contra carne e sangue, mas sim contra os domínios e poderes, contra os senhores 
+{tr,rp:das trevas deste mundo}{n4:destas trevas},
+{trnc:\fn
+\key
+das trevas deste mundo
+\*key
+N4: destas trevas
+\*fn}
+ contra os males espirituais nos lugares celestes.
 \v Ef.6.13
 Portanto pegai toda a armadura de Deus, para que possais resistir no dia mal, e depois que fizerdes tudo, continuar firmes.
 \v Ef.6.14
@@ -669,7 +762,11 @@ Estai, pois, firmes, com a vossa cintura envolvida com o cinturão da verdade, e
 \v Ef.6.15
 e calçados os pés com a prontidão do evangelho da paz.
 \v Ef.6.16
-Pegai, sobretudo, o escudo da fé, com o qual podereis apagar todas as flechas inflamadas do maligno.
+{tr,rp:Sobretudo pegai}{n4:Em tudo pegai}
+{trnc:\fn
+N4: Em tudo pegai
+\*fn}
+ o escudo da fé, com o qual podereis apagar todas as flechas inflamadas do maligno.
 \v Ef.6.17
 Pegai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus;
 \v Ef.6.18
@@ -708,8 +805,11 @@ com amor que não falha
 \*key
 Lit. em incorrupção
 \*fn
- Amém!{tr: 
-\added
+ {tr,rp:Amém!}
+{trnc:\fn
+N4 não contém “Amém!”
+\*fn}
+{tr:\added
 Escrita de Roma para os efésios, e enviada por Tíquico
 \*added}
 {trnc: 
