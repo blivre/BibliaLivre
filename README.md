@@ -15,6 +15,9 @@ Os arquivos estão distribuídos da seguinte maneira, dentro do diretório **tex
 	 - **tr**: arquivos gerados com o Novo Testamento grego *Textus Receptus*.
 	 - **n4**: arquivos gerados com o Novo Testamento *Nestle 1904* (texto crítico).
 	 - **geral**: arquivos que servem de base para a geração das versões tr e n4. (o Antigo Testamento é idêntico para ambos os formatos)
+	 
+Além desses arquivos-fonte, outros formatos são disponibilizados como download (na parte de releases):	 
+	 
  - **CrossWireSword**: versões tr e n4 para o formato Sword, da CrossWire.
  - **epub**: versões tr e n4 no formato epub, livro eletrônico.
  - **mobi**: versões tr e n4 no formato mobi, para dispositivos *Kindle* (convertidos do formato epub).
@@ -32,7 +35,7 @@ A Bíblia Livre tem uso livre, porém a menção da obra de forma adequada é ob
 
 > Todas as Escrituras em português citadas são da Bíblia Livre (BLIVRE),
 > Copyright © Diego Santos, Mario Sérgio, e Marco Teles,
-> http://sites.google.com/site/biblialivre/ - dezembro de 2016. Licença
+> http://sites.google.com/site/biblialivre/ - janeiro de 2017. Licença
 > Creative Commons Atribuição 3.0 Brasil
 > (http://creativecommons.org/licenses/by/3.0/br/). Reprodução permitida
 > desde que devidamente mencionados fonte e autores.
