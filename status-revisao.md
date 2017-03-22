@@ -4,7 +4,7 @@ Status da revisão
 Livro(s) em andamento
 ---------------------
 
-Lucas (não iniciado)
+Lucas até 9:55 - tc até 6:18
 
 Livros completos
 -----------------
@@ -24,3 +24,6 @@ Livros completos
 - 1 Pedro[3]
 - 1 João [15]
 - 3 João[2]
+
+“”
+‘’

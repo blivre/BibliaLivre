@@ -438,10 +438,10 @@ texto
 Salmos 110:4 
 \*ref
 \v Hb.5.7
-Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para aquele que podia o livrar da morte, e foi ouvido por causa da reverência.
+Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
 \fn
 \key
-reverência
+devoção
 \*key
 ou: temor
 \*fn
@@ -475,17 +475,19 @@ Portanto deixemos os tópicos elementares da doutrina de Cristo, e prossigamos a
 \v Hb.6.2
 da doutrina dos batismos, da imposição das mãos, da ressurreição dos mortos, e do juízo eterno.
 \v Hb.6.3
-E isso {tr,n4:faremos}{rp:façamos},{trnc:
-\fn
+E isso {tr,n4:faremos}{rp:façamos},
+{trnc:\fn
 RP: façamos
-\*fn
- } se Deus permitir.
+\*fn}
+ se Deus permitir.
 \v Hb.6.4
-Pois é impossível que os que uma vez foram iluminados, e experimentaram o dom celestial, e foram feitos participantes do Espírito Santo,
+Pois é impossível que os que uma vez foram iluminados, e experimentaram o dom celestial, e foram feitos 
+participantes do Espírito Santo,
 \v Hb.6.5
 e experimentaram a boa palavra de Deus, e os poderes do mundo futuro;
 \v Hb.6.6
-e caíram, outra vez renová-los para o arrependimento; já que estão novamente crucificando o Filho de Deus para si mesmos, e expondo-o à vergonha pública.
+e então caíram, outra vez renová-los para o arrependimento, porque estão novamente crucificando o 
+Filho de Deus para si mesmos, e o expondo à vergonha pública.
 \fn
 \key
 conversão
@@ -502,8 +504,8 @@ Mas, ainda que estejamos falando assim, quanto a vós mesmos, amados, confiamos 
 Pois Deus não é injusto para se esquecer da vossa obra, e do {tr,rp: trabalho do} amor{trnc:
 \fn
 N4 omite “trabalho do”
-\*fn
- } que mostrastes para com o nome dele, quando servistes aos santos, e continuais a servir.
+\*fn}
+ que mostrastes para com o nome dele, quando servistes aos santos, e continuais a servir.
 \v Hb.6.11
 Mas desejamos que cada um de vós mostre o mesmo empenho até o fim, para que a 
 \added
@@ -568,23 +570,11 @@ onde,
 \added
 como
 \*added
- precursor,
-\fn
-\key
-precursor
-\*key
-i.e., aquele que chega antes
-\*fn
- Jesus entrou para nos favorecer,
-\fn
-\key
-para nos favorecer
-\*key
-lit. por nós
-\*fn
- pois ele se tornou Sumo Sacerdote para sempre, segundo a ordem de Melquisedeque.
+ precursor, Jesus entrou para nosso benefício, pois ele se tornou Sumo Sacerdote 
+para sempre, segundo a ordem de Melquisedeque.
 \v Hb.7.1
-Porque este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, o qual se encontrou com Abraão, que estava retornando da matança dos reis, e o abençoou;
+Porque este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, o qual se encontrou com 
+Abraão, que estava retornando da matança dos reis, e o abençoou;
 \v Hb.7.2
 a quem também Abraão deu o dízimo de tudo; primeiramente significa Rei de justiça, e depois também rei de Salém, que é, rei de paz;
 \v Hb.7.3
@@ -1298,8 +1288,8 @@ Permanecendo
  na fé, todos esses morreram sem receberem as promessas. Mas as viram de longe, {tr:creram,}{trnc:
 \fn
 RP, N4 omitem “creram”
-\*fn
- } e felicitaram-se nelas, declarando que eram estrangeiros e peregrinos na terra.
+\*fn}
+ e felicitaram-se nelas, declarando que eram estrangeiros e peregrinos na terra.
 \v Hb.11.14
 Pois os que dizem tais coisas mostram claramente que estão buscando a 
 \added
@@ -1367,11 +1357,11 @@ Pela fé, ele deixou o Egito sem temer a ira do rei, pois perseverou como que ve
 \v Hb.11.28
 Pela fé, ele celebrou a Páscoa e o derramamento do sangue, para que o destruidor dos primogênitos não os tocasse.
 \v Hb.11.29
-Pela fé, atravessaram o mar Vermelho, como que por {tr,rp:
-\added
-} terra {tr,rp:
-\*added
-} seca, o que, quando os Egípcios tentaram, afogaram-se.
+Pela fé, atravessaram o mar Vermelho, como que por 
+{tr,rp:\added}
+ terra 
+{tr,rp:\*added}
+ seca, o que, quando os Egípcios tentaram, afogaram-se.
 \v Hb.11.30
 Pela fé, os muros de Jericó caíram, depois de serem rodeados por sete dias.
 \v Hb.11.31
@@ -1577,8 +1567,8 @@ ou: gratidão
  {tr,n4:e por ela sirvamos}{rp:pela qual servimos}{trnc:
 \fn
 RP: pela qual servimsos
-\*fn
- } a Deus de maneira que o agrade, com reverência e temor,
+\*fn}
+ a Deus de maneira que o agrade, com devoção e temor,
 \fn
 \key
 temor
@@ -1601,17 +1591,17 @@ vossos
 \*added
  corpos.
 \v Hb.13.4
-O matrimônio seja honrado entre todos, e o leito conjugal sem contaminação; {tr,rp:mas}{n4:pois}{trnc:
-\fn
+O matrimônio seja honrado entre todos, e o leito conjugal sem contaminação; {tr,rp:mas}{n4:pois}
+{trnc:\fn
 N4:pois
-\*fn
- } Deus julgará os pecadores sexuais e os adúlteros.
+\*fn}
+ Deus julgará os pecadores sexuais e os adúlteros.
 \v Hb.13.5
-O 
+A 
 \added
-vosso
+vossa
 \*added
- modo de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, nem te desampararei. 
+ maneira de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, nem te desampararei.
 \ref
 Deuteronômio 31:6 
 \*ref
@@ -1667,48 +1657,45 @@ a eles
 \added
 delas
 \*added
- ; para que o façam com alegria, e não gemendo, porque isso não vos seria proveitoso.
+; para que o façam com alegria, e não gemendo, porque isso não vos seria proveitoso.
 \v Hb.13.18
-Orai por nós; porque {tr,rp:confiamos}{n4:estamos convencidos de}{trnc:
-\fn
+Orai por nós; porque {tr,rp:confiamos}{n4:estamos convencidos de}
+{trnc:\fn
 N4: estamos convencidos de
-\*fn
- } que temos boa consciência, e desejamos nos comportar da maneira correta em tudo.
+\*fn}
+ que temos boa consciência, e desejamos nos comportar da maneira correta em tudo.
 \v Hb.13.19
 E eu vos rogo ainda mais que façais isto, para que eu vos seja restituído mais depressa.
 \v Hb.13.20
 O Deus da paz, que, pelo sangue do eterno Testamento eterno, voltou a trazer dentre os mortos o grande Pastor das ovelhas, o nosso Senhor Jesus,
 \v Hb.13.21
-vos aperfeiçoe em {tr,rp:toda boa obra}{n4:todo bem},{trnc:
-\fn
+vos aperfeiçoe em {tr,rp:toda boa obra}{n4:todo bem},
+{trnc:\fn
 N4: todo bem
-\*fn
- } para fazerdes a sua vontade, operando em {tr,rp:vós}{n4:nós}{trnc:
-\fn
+\*fn}
+ para fazerdes a sua vontade, operando em {tr,rp:vós}{n4:nós}
+{trnc:\fn
 N4: nós
-\*fn
- } o que é agradável diante dele, por meio de Jesus Cristo, a quem seja a glória para todo o sempre. Amém!
+\*fn}
+ o que é agradável diante dele, por meio de Jesus Cristo, a quem seja a glória para todo o sempre. Amém!
 \v Hb.13.22
 Eu vos rogo, porém, irmãos, que suportai esta palavra de exortação; pois eu vos escrevi de maneira breve.
 \v Hb.13.23
 Sabei que o {n4:nosso} irmão{trnc:
 \fn
 N4: nosso irmão
-\*fn
- } Timóteo já está solto. Se ele vier depressa, com ele eu vos verei.
+\*fn}
+ Timóteo já está solto. Se ele vier depressa, com ele eu vos verei.
 \v Hb.13.24
 Saudai a todos os vossos líderes, e a todos os santos. Os da Itália vos saúdam.
 \v Hb.13.25
-A graça seja com todos vós. {tr,rp: Amém.}{trnc:
-\fn
+A graça seja com todos vós. {tr,rp: Amém.}
+{trnc:\fn
 N4 omite “Amém”
-\*fn
- }{tr: 
-\added
+\*fn}
+{tr:\added
 Escrita da Itália para os Hebreus, e enviada por Timóteo
-\*added
- }{trnc:
-\fn
+\*added}
+{trnc:\fn
 RP, N4 não contêm “Escrita da Itália para os Hebreus, e enviada por Timóteo”
-\*fn
- }
+\*fn}

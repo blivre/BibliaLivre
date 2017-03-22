@@ -28,25 +28,14 @@ em amor.
 \v Ef.1.5
 E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
 \v Ef.1.6
-para louvor de sua gloriosa graça,
-\fn
-Lit. glória de sua graça
-\*fn
- pela qual
- nos agraciou
-\fn
-Isto é, nos tornou aceitáveis
-\*fn
+para louvor da glória de sua graça, pela qual nos fez aceitáveis
  no Amado.
 \v Ef.1.7
 Nele temos a libertação
 \fn
 Ou: redenção, isto é, a libertação por meio do pagamento de um resgate
 \*fn
- pelo seu sangue, o perdão dos pecados, conforme a sua rica graça,
-\fn
-Lit. as riquezas de sua graça
-\*fn
+ pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
 \v Ef.1.8
 que ele fez transbordar em nós em toda sabedoria e prudência.
 \v Ef.1.9
@@ -110,28 +99,17 @@ e que sejam iluminados os olhos do vosso entendimento,
 \added
 são
 \*added
- as riquezas da herança gloriosa
+ as riquezas da gloriosa herança
 \fn
 Lit. glória da herança
 \*fn
  dele nos santos,
 \v Ef.1.19
-e qual é a superabundante grandeza de seu poder para nós, que cremos, conforme a operação da sua poderosa força.
+e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força,
 \v Ef.1.20
-Ele operou essa força
-\fn
-\key
-essa força
-\*key
-Lit. Ele a operou. “essa força” adicionado para aumentar a clareza
-\*fn
- em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
+a qual ele operou em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
 \v Ef.1.21
-acima de todo governo, autoridade, poder, domínio, e 
-\added
-acima
-\*added
- de todo nome que se nomeia, não só nesta era, mas também na futura.
+acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia, não só nesta era, mas também na futura.
 \v Ef.1.22
 Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas 
 para a Igreja,
@@ -215,7 +193,6 @@ Ele veio, e proclamou o evangelho da paz a vós que
 estáveis
 \*added
  longe, e
- 
  aos que estavam perto.
 \v Ef.2.18
 Pois por meio dele ambos temos acesso ao Pai por um 
@@ -513,7 +490,6 @@ sois
  luz no Senhor; andai como filhos da luz
 \v Ef.5.9
 (porque o fruto do Espírito
- 
 \added
 consiste
 \*added

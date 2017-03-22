@@ -16,9 +16,9 @@ Paulo, servo de Cristo Jesus,
 \added
 para ser
 \*added
- apóstolo, separado para o Evangelho de Deus,
+ apóstolo, separado para o evangelho de Deus,
 \v Rm.1.2
-(que antes havia prometido por meio dos seus profetas nas Santas Escrituras),
+que antes havia prometido por meio dos seus profetas nas santas Escrituras,
 \v Rm.1.3
 acerca do seu Filho (que, quanto à carne, nasceu da descendência
 \fn
@@ -40,7 +40,7 @@ para serdes
 \*added
  de Jesus Cristo.
 \v Rm.1.7
-A todos que estais em Roma, amados de Deus, e chamados de santos;
+A todos que estais em Roma, amados de Deus, e chamados de santos:
 \fn
 ou: “chamados para serdes santos”
 \*fn
@@ -48,25 +48,26 @@ ou: “chamados para serdes santos”
 \v Rm.1.8
 Em primeiro lugar, agradeço ao meu Deus por meio de Jesus Cristo, por todos vós, porque a vossa fé é anunciada no mundo todo.
 \v Rm.1.9
-Pois Deus, a quem sirvo em meu espírito no Evangelho do seu Filho, é minha testemunha, de como sem cessar faço menção de vós,
+Pois Deus, a quem sirvo em meu espírito no evangelho do seu Filho, é minha testemunha de como sem cessar faço menção de vós,
 \v Rm.1.10
 rogando sempre em minhas orações, que agora, de alguma maneira, finalmente, tenha eu a oportunidade de, pela vontade de Deus, vir vos visitar.
 \v Rm.1.11
-Pois eu desejo vos ver, para compartilhar convosco algum dom espiritual, para que sejais fortalecidos;
+Pois eu desejo ver-vos, para compartilhar convosco algum dom espiritual, para que sejais fortalecidos;
 \v Rm.1.12
-isto é, para ser consolado juntamente convosco pela fé mútua, tanto a vossa, como a minha.
+isto é, para eu ser consolado juntamente convosco pela fé mútua, tanto a vossa, como a minha.
 \v Rm.1.13
-Porém irmãos, não quero que ignoreis que muitas vezes pretendi vir à vossa presença (mas fui impedido até agora), a fim de que eu também tivesse algum fruto entre vós, como também entre os demais gentios.
+Porém, irmãos, não quero que ignoreis que muitas vezes pretendi vir à vossa presença (mas fui impedido até agora), a 
+fim de que eu também tivesse algum fruto entre vós, como também entre os demais gentios.
 \v Rm.1.14
 Eu sou devedor, tanto a gregos como a bárbaros, tanto a sábios como a não sábios.
 \v Rm.1.15
-Portanto, quanto a mim, pronto estou para anunciar o Evangelho também a vós, que estais em Roma.
+Portanto, quanto a mim, pronto estou para anunciar o evangelho também a vós, que estais em Roma.
 \v Rm.1.16
 Porque não me envergonho do Evangelho,
 \fn
 TR, RP: Evangelho de Cristo
 \*fn
-  pois é o poder de Deus para a salvação de todo aquele que crê, primeiramente do judeu, e também do grego.
+ pois é o poder de Deus para a salvação de todo aquele que crê, primeiramente do judeu, e também do grego.
 \v Rm.1.17
 Pois no Evangelho
 \fn
@@ -77,11 +78,13 @@ lit. nele
 Habacuque 2:4 
 \*ref
 \v Rm.1.18
-Porque a ira de Deus se manifesta do céu contra toda maldade e injustiça dos seres humanos, que bloqueiam a verdade por causa da injustiça;
+Porque a ira de Deus se manifesta do céu contra toda irreverência e injustiça das pessoas que bloqueiam a verdade 
+pela injustiça;
 \v Rm.1.19
 pois o que se pode conhecer de Deus é evidente a eles, porque Deus lhes manifestou.
 \v Rm.1.20
-pois as suas características invisíveis, inclusive o seu eterno poder e divindade, desde a criação do mundo são entendidas e claramente vistas por meio das coisas criadas, para que não tenham desculpa;
+Pois as suas características invisíveis, inclusive o seu eterno poder e divindade, desde a criação do mundo são 
+entendidas e claramente vistas por meio das coisas criadas, para que não tenham desculpa;
 \v Rm.1.21
 Porque, ainda que tenham conhecido Deus, não o glorificaram como Deus, nem foram gratos; em vez disso, perderam o bom senso em seus pensamentos,
 \fn
@@ -89,19 +92,19 @@ lit. tornaram-se vãos (ou fúteis) em seus pensamentos
 \*fn
  e seus tolos corações ficaram em trevas.
 \v Rm.1.22
- Chamando a si mesmos de sábios, tornaram-se tolos,
+Chamando a si mesmos de sábios, tornaram-se tolos,
 \v Rm.1.23
 e trocaram a glória de Deus indestrutível por semelhança de imagem do ser humano destrutível, e de aves, de quadrúpedes, e de répteis.
 \v Rm.1.24
-Por isso Deus os entregou à imundície, nos desejos dos seus corações, para desonrarem os seus corpos entre si.
+Por isso, Deus os entregou à imundície, nos desejos dos seus corações, para desonrarem os seus corpos entre si.
 \v Rm.1.25
-Trocaram a verdade de Deus pela mentira, e adoraram e serviram à criatura mais que ao Criador, que é bendito eternamente, Amém!
+Trocaram a verdade de Deus pela mentira, e adoraram e serviram à criatura mais do que ao Criador, que é bendito eternamente, Amém!
 \v Rm.1.26
-Por isso Deus os entregou a paixões infames. Pois até suas mulheres trocaram o hábito 
+Por isso, Deus os entregou a paixões infames. Pois até suas mulheres trocaram o hábito 
 \added
 sexual
 \*added
- natural para o que era contra a natureza;
+ natural pelo que era contra a natureza;
 \v Rm.1.27
 e também, de semelhante maneira, os machos abandonaram o hábito 
 \added
@@ -109,46 +112,41 @@ sexual
 \*added
  natural com a mulher, e acenderam sua sensualidade uns com os outros, homens com homens, praticando indecência, e recebendo em si mesmos a devida retribuição pelo seu erro.
 \v Rm.1.28
-E como não aprovaram reconhecer a Deus, 
+E como recusaram reconhecer a Deus, 
 \added
 o mesmo
 \*added
- Deus os entregou a uma mente reprovada, para fazerem coisas impróprias.
+ Deus os entregou a uma mente corrompida, para fazerem coisas impróprias.
 \v Rm.1.29
 \added
-Assim estão
+Assim, estão
 \*added
  cheios de toda injustiça,
 \fn
 TR, RP acrescentam “pecado sexual”
 \*fn
-  
- malícia, ganância, maldade; são repletos de inveja, homicídio, briga, engano, malignidade;
+ malícia, ganância, maldade; estão repletos de inveja, homicídio, brigas, engano, malignidade;
 \v Rm.1.30
-são murmuradores, difamadores, e odeiam Deus; são insolentes, soberbos, presunçosos, inventores de males, e desobedientes aos pais;
+são murmuradores, difamadores, e odeiam a Deus; são insolentes, soberbos, presunçosos, inventores de males, e desobedientes aos pais;
 \v Rm.1.31
 não têm entendimento, quebram acordos, são insensíveis, e recusam-se 
- mostrar misericórdia.
+a mostrar misericórdia.
 \fn
 TR, RP: “recusam-se a perdoar ou a mostrar misericórdia”
 \*fn
- 
 \v Rm.1.32
-Apesar de conhecerem o juízo de Deus, de que os que fazem tais coisas merecem a morte, não somente as fazem, como também se agradam dos que as praticam.
+Apesar de conhecerem o juízo de Deus (de que os que fazem tais coisas merecem a morte), não somente as fazem, como 
+também aprovam os que as praticam.
 \v Rm.2.1
-Por isso tu,
+Por isso, tu,
 \fn
 lit. tu, ó ser humano
 \*fn
- que julgas, não tens desculpa, quem quer que sejas! Pois condenas a ti mesmo naquilo que julgas o outro, porque tu, que julgas, fazes as mesmas coisas.
+ que julgas, não tens desculpa; quem quer que sejas! Pois condenas a ti mesmo naquilo que julgas o outro, porque tu, que julgas, fazes as mesmas coisas.
 \v Rm.2.2
 E sabemos que o julgamento de Deus é segundo a verdade sobre os que fazem tais coisas.
 \v Rm.2.3
-E tu,
-\fn
-lit. tu, ó ser humano
-\*fn
- , que julgas os que praticam tais coisas, e fazes as mesmas, pensas que escaparás do julgamento de Deus?
+E tu, humano, que julgas os que praticam tais coisas, ao fazê-las, pensas que escaparás do julgamento de Deus?
 \v Rm.2.4
 Ou desprezas tu as riquezas de sua bondade, tolerância,
 \fn
@@ -156,53 +154,53 @@ Isto é, demora para manifestar ira
 \*fn
  e paciência, ignorando que é a bondade de Deus que te conduz ao arrependimento?
 \v Rm.2.5
-Mas, conforme a tua dureza e o teu coração que não se arrepende, tu ajuntas ira para o dia da ira e da manifestação do justo julgamento de Deus,
+Mas, conforme a tua dureza e o teu coração que não se arrepende, tu ajuntas ira para ti no dia da ira e da manifestação do justo julgamento de Deus,
 \v Rm.2.6
 que recompensará a cada um segundo as suas obras:
 \v Rm.2.7
 vida eterna aos que procuram glória, honra, e imortalidade, fazendo o bem com perseverança;
 \v Rm.2.8
 mas ira e indignação
- aos que agem com egoísmo, obedecendo à injustiça, mas não à verdade.
+ aos que agem com egoísmo, obedecendo à injustiça, e não à verdade.
 \v Rm.2.9
 Haverá aflição e angústia a toda pessoa
 \fn
 Lit. alma humana
 \*fn
- que pratica o mal, primeiramente ao judeu, e também ao grego,
+ que pratica o mal, primeiramente ao judeu, e também ao grego;
 \v Rm.2.10
-porém glória, honra, e paz, a todo aquele que pratica o bem, primeiramente ao judeu, e também ao grego;
+porém, glória, honra, e paz, a todo aquele que pratica o bem, primeiramente ao judeu, e também ao grego;
 \v Rm.2.11
 porque com Deus não há acepção de pessoas.
 \v Rm.2.12
-Pois todos os que sem Lei pecaram, sem Lei também perecerão; e todos os que pecaram sob a Lei, pela Lei serão julgados
+Pois todos os que sem Lei pecaram, sem Lei também perecerão; e todos os que pecaram sob a Lei, pela Lei serão julgados;
 \v Rm.2.13
-(porque não são os que ouvem a Lei que são justos diante de Deus, mas sim, os que praticam a Lei que serão justificados.
+porque não são os que ouvem a Lei que são justos diante de Deus, mas sim, os que praticam a Lei que serão justificados.
 \v Rm.2.14
-Pois quando os gentios, que não têm a Lei, fazem naturalmente as coisas que são da Lei, estes, ainda que não tenham a Lei, são lei para si mesmos.
+Pois quando os gentios, que não têm a Lei, praticam naturalmente as coisas que são da Lei, estes, ainda que não tenham a Lei, são lei para si mesmos.
 \v Rm.2.15
-Eles mostram a obra da Lei escrita em seus corações, dando-lhes testemunho juntamente com a sua consciência, e os pensamentos, acusando-os ou defendendo-os entre si);
+Eles mostram a obra da Lei escrita em seus corações, dando-lhes testemunho juntamente a sua consciência, e os pensamentos, ora acusando-os, ora defendendo-os.
 \v Rm.2.16
-no dia em que Deus julgará os segredos dos seres humanos por meio de Cristo Jesus,
+Isso acontecerá no dia em que Deus julgará os segredos dos seres humanos por meio de Cristo Jesus,
  conforme o meu Evangelho.
 \v Rm.2.17
 Mas se 
 \fn
 TR, RP: Eis que
 \*fn
-  tu és chamado de judeu, e descansas confiando na Lei, e te orgulhas em Deus,
+ tu és chamado de judeu, e descansas confiando na Lei, e te orgulhas em Deus,
 \v Rm.2.18
 conheces a vontade 
 \added
 dele
 \*added
-,e aprova as melhores coisas, por seres instruído da Lei;
+, e aprovas as melhores coisas, por seres instruído na lei;
 \v Rm.2.19
-e confias que és guias dos cegos, luz dos que estão nas trevas,
+e confias ser guia dos cegos, luz dos que estão nas trevas,
 \v Rm.2.20
-instrutor dos tolos, professor das crianças, e que consideras a lei como a forma do conhecimento e da verdade,–
+instrutor dos tolos, professor das crianças, e que consideras a lei como a forma do conhecimento e da verdade;
 \v Rm.2.21
-tu, pois, que ensinas o outro, não ensinas a ti mesmo? Tu que pregas que não se deve furtar, furtas?
+tu, pois, que ensinas ao outro, não ensinas a ti mesmo? Tu que pregas que não se deve furtar, furtas?
 \v Rm.2.22
 Tu que dizes que não se deve adulterar, adulteras? Tu que odeias os ídolos, profanas
 \fn
@@ -212,7 +210,7 @@ Ou: roubas
 \v Rm.2.23
 Tu, que te orgulhas da Lei, pela transgressão da Lei desonras a Deus;
 \v Rm.2.24
-porque, como está escrito: O nome de Deus é blasfemado entre os gentios por vossa causa. 
+porque, como está escrito: “O nome de Deus é blasfemado entre os gentios por vossa causa”. 
 \ref
 Isaías 52:5; Ezequiel 36:22 
 \*ref
@@ -229,7 +227,7 @@ Lit. letra
 \v Rm.2.28
 Pois judeu não é o de aparência externa, nem circuncisão é a na carne,
 \v Rm.2.29
-mas judeu é o no interior, e circuncisão é a de coração, no espírito,
+mas é judeu o que é no interior, e circuncisão é a de coração, no espírito,
 \fn
 Ou: Espírito
 \*fn
@@ -237,13 +235,13 @@ Ou: Espírito
 \fn
 Lit. letra
 \*fn
- Essa pessoa é elogiada não pelas pessoas, mas sim por Deus.
+ Esse é elogiado não pelas pessoas, mas sim, por Deus.
 \v Rm.3.1
-Qual, pois, é a vantagem vantagem do judeu? Ou qual é a utilidade da circuncisão?
+Qual, pois, é a vantagem do judeu? Ou qual é a utilidade da circuncisão?
 \v Rm.3.2
 Muita, em toda maneira. Pois, em primeiro lugar, as palavras de Deus lhes foram confiadas.
 \v Rm.3.3
-Que, pois? Se alguns foram infiéis
+Então, quê? Se alguns foram infiéis,
 \fn
 Ou: incrédulos
 \*fn
@@ -253,7 +251,7 @@ Ou: incredulidade
 \*fn
  deles anulará a fidelidade de Deus?
 \v Rm.3.4
-De maneira nenhuma! Antes seja Deus verdadeiro, e todo ser humano mentiroso, como está escrito: Para que sejas justificado em tuas palavras, e prevaleças quando julgares.
+De maneira nenhuma! Antes seja Deus verdadeiro, e todo ser humano mentiroso, como está escrito: “Para que sejas justificado em tuas palavras, e prevaleças quando julgares”.
 \fn
 Ou: quando fores julgado
 \*fn
@@ -265,7 +263,7 @@ E, se a nossa injustiça evidencia a justiça de Deus, que diremos? Acaso Deus �
 \added
 a sua
 \*added
- ira? (Falo na lógica humana.)
+ ira? (Falo na lógica humana).
 \v Rm.3.6
 De maneira nenhuma! De outro modo, como Deus julgará o mundo?
 \v Rm.3.7
@@ -275,62 +273,63 @@ E por que não
 \added
 dizer
 \*added
- : “Façamos o mal, para que venha o bem”,como alguns nos caluniam, afirmando que nós dizemos isto? (A condenação destes é justa).
+: “Façamos o mal, para que venha o bem”, como alguns nos caluniam, afirmando que nós dizemos isto? (A condenação destes é justa).
 \v Rm.3.9
-Que, pois? Somos nós melhores? Não, de maneira nenhuma. Pois já delatamos que todos, tanto judeus como gregos, estão debaixo do pecado,
+Então, quê? Somos nós melhores? Não, de maneira nenhuma. Pois já delatamos que todos, tanto judeus como gregos, estão debaixo do pecado,
 \v Rm.3.10
 como está escrito: Não há justo, nem um sequer.
 \v Rm.3.11
 Ninguém há que entenda, ninguém há que busque a Deus.
 \v Rm.3.12
-Todos se desviaram, e juntamente se tornaram inúteis. Não há quem faça o bem, não há um sequer. 
+Todos se desviaram, e juntamente se tornaram inúteis. “Não há quem faça o bem, não há um sequer”. 
 \ref
 Salmos 14:1-3; 53:1-3; Eclesiastes 7:20 
 \*ref
 \v Rm.3.13
-Suas gargantas
+“Suas gargantas
 \fn
 Lit. “A garganta deles é”
 \*fn
- são sepulcro aberto; com suas línguas enganam; 
+ são sepulcro aberto; com suas línguas enganam”; 
 \ref
 Salmos 5:9 
 \*ref
-veneno de serpentes
+“veneno de serpentes
 \fn
 Ou, mais precisamente, áspides
 \*fn
- está sob seus lábios. 
+ está sob seus lábios”. 
 \ref
 Salmos 140:3 
 \*ref
 \v Rm.3.14
-Suas bocas estão cheias de maldição e amargura. 
+“Suas bocas estão cheias de maldição e amargura”. 
 \ref
 Salmos 10:7 
 \*ref
 \v Rm.3.15
-Seus pés são velozes para derramar sangue.
+“Seus pés são velozes para derramar sangue.
 \v Rm.3.16
 Destruição e miséria há em seus caminhos,
 \v Rm.3.17
-e não conheceram o caminho da paz. 
+e não conheceram o caminho da paz”. 
 \ref
 Isaías 59:7-8 
 \*ref
 \v Rm.3.18
-Diante dos seus olhos não há temor a Deus. 
+“Diante dos seus olhos não há temor a Deus”. 
 \ref
 Salmos 36:1 
 \*ref
 \v Rm.3.19
-Ora, sabemos que tudo o que a Lei diz, diz aos que estão na Lei, para que toda boca se cale, e todo o mundo seja condenável para Deus.
+Ora, sabemos que tudo o que a Lei diz, diz aos que estão na Lei, para que toda boca se cale, e todo o mundo seja 
+condenável perante Deus.
 \v Rm.3.20
 Assim, ninguém
 \fn
 Lit. nenhuma carne
 \*fn
- será justificado diante dele pelas obras da Lei, porque o que há pela Lei é o conhecimento do pecado.
+ será justificado diante dele pelas obras da Lei, porque o que vem pela Lei é o conhecimento do pecado.
 \v Rm.3.21
 Mas agora, independentemente da Lei, a justiça de Deus se manifestou, tendo testemunho da Lei e dos Profetas;
 \v Rm.3.22
@@ -346,7 +345,7 @@ os que creem; pois não há diferença;
 \v Rm.3.23
 porque todos pecaram, e estão destituídos da glória de Deus;
 \v Rm.3.24
-e são justificados gratuitamente pela graça dele, por meio da redenção
+e são justificados gratuitamente pela sua graça, por meio da redenção
 \fn
 Isto é, resgate
 \*fn
@@ -356,57 +355,50 @@ Deus propôs Jesus
 \fn
 Lit. “Cristo Jesus, a quem Deus propôs”. A longa frase no original foi dividida para facilitar a leitura
 \*fn
- por sacrifício de reconciliação pela fé em seu sangue, para demonstrar a sua justiça. Ele deixou de considerar os pecados antes cometidos, sob a paciência de Deus,
+ por sacrifício de reconciliação, pela fé em seu sangue, para demonstrar a sua justiça. Ele deixou de considerar os 
+pecados antes cometidos, sob a paciência de Deus,
 \v Rm.3.26
 para demonstrar a sua justiça neste presente tempo, a fim de que ele seja justo, e justificador daquele que tem fé em Jesus.
 \v Rm.3.27
-Onde, pois, está o orgulho? Este é excluído. Por qual Lei? A das obras? Não, mas sim pela Lei da fé.
+Onde, pois, está o orgulho? Este é excluído. Por qual lei? A das obras? Não, mas sim, pela Lei da fé.
 \v Rm.3.28
 Concluímos, portanto, que o ser humano é justificado pela fé, independentemente das obras da Lei.
 \v Rm.3.29
-Por acaso Deus é somente dos Judeus, e não também dos gentios? Certamente que dos gentios também;
+Por acaso Deus é somente dos judeus, e não também dos gentios? Certamente que dos gentios também;
 \v Rm.3.30
-dado que há um só Deus, que justificará pela fé os circuncisos, e por meio da fé os incircuncisos.
+já que há um só Deus, que justificará pela fé os circuncisos, e por meio da fé os incircuncisos.
 \v Rm.3.31
-Então anulamos a Lei pela fé? De maneira nenhuma. Ao contrário, confirmamos a Lei.
+Por acaso anulamos a Lei pela fé? De maneira nenhuma. Pelo contrário, confirmamos a Lei.
 \v Rm.4.1
-Que, pois, diremos que Abraão, nosso ancestral 
+Então, que diremos que Abraão, nosso ancestral 
  segundo a carne, obteve?
 \v Rm.4.2
 Pois se Abraão foi justificado pelas obras, ele tem do que se orgulhar, mas não diante de Deus.
 \v Rm.4.3
-Pois o que diz a Escritura? Abraão creu em Deus, e foi lhe reputado como justiça. 
+Pois o que diz a Escritura? Abraão creu em Deus, e isso lhe foi lhe imputado como justiça. 
 \ref
 Gênesis 15:6 
 \*ref
 \v Rm.4.4
-Ora, ao que trabalha, seu pagamento não é considerado um favor, mas sim uma dívida.
+Ora, ao que trabalha, seu pagamento não é considerado um favor, mas sim, uma dívida.
 \v Rm.4.5
-Porém ao que não tem obra, mas crê naquele que torna justo o pecador,
-\fn
-Tradicionalmente “ímpio”
-\*fn
- sua fé lhe é reputada como justiça.
+Porém, ao que não tem obra, mas crê naquele que torna justo o ímpio, sua fé lhe é reputada como justiça.
 \v Rm.4.6
 Desta maneira, também Davi afirma que bendito
 \fn
-Tradicionalmente “bem-aventurado”
+Ou: “bem-aventurado”, “feliz”
 \*fn
  é aquele a quem Deus atribui justiça independentemente das obras:
 \v Rm.4.7
  Benditos
 \fn
-Ou: Bem-aventurados
+Ou: “Bem-aventurados”, “felizes”
 \*fn
  são os que têm as transgressões perdoadas, e seus pecados são cobertos.
 \v Rm.4.8
-Bendito
-\fn
-Ou: Bem-aventurado
-\*fn
- é o homem a quem o Senhor não atribui pecado.
+Bendito é o homem a quem o Senhor não atribui pecado.
 \v Rm.4.9
-Ora, essa bênção
+Ora, essa bendição
 \fn
 Ou: bem-aventurança
 \*fn
@@ -420,15 +412,17 @@ Como, pois,
 \added
 lhe
 \*added
- foi reputada? Enquanto ele estava na circuncisão ou na incircuncisão? Não na circuncisão, mas sim na incircuncisão.
+ foi reputada? Enquanto ele estava na circuncisão ou na incircuncisão? Não na circuncisão, mas sim, na incircuncisão.
 \v Rm.4.11
-E ele recebeu o sinal da circuncisão como selo da justiça da fé quando ainda era incircunciso, para que fosse pai de todos os que creem, ainda que não estejam circuncisos, para que a justiça 
+E ele recebeu o sinal da circuncisão como selo da justiça da fé quando ainda era incircunciso, para que fosse pai de 
+todos os que creem, ainda que não estejam circuncidados, para que a justiça 
 \added
  também 
 \*added
- a eles seja reputada;
+ lhes seja imputada;
 \v Rm.4.12
-e fosse pai da circuncisão, dos que não somente são circuncisos, mas que também andam nos passos da fé do nosso pai Abraão, quando ainda não era circunciso.
+e para que fosse pai da circuncisão, dos que não somente são circuncidados, mas que também andam nos passos da fé do 
+nosso pai Abraão, quando ainda não era circuncidado.
 \v Rm.4.13
 Pois não foi pela Lei que a promessa de ser herdeiro do mundo 
 \added
@@ -447,13 +441,13 @@ Lit.“toda a semente”
 \*fn
  não somente aos que são da Lei, mas também aos que são da fé de Abraão, que é Pai de todos nós,
 \v Rm.4.17
-(como está escrito: Eu te constituí pai de muitas nações) 
+(como está escrito: “Eu te constituí pai de muitas nações”) 
 \ref
 Gênesis 17:5 
 \*ref
 diante daquele em quem ele creu, Deus, que vivifica os mortos, e chama as coisas que não são como se já fossem.
 \v Rm.4.18
-Com esperança 
+Com esperança, 
 \added
 Abraão
 \*added
@@ -461,35 +455,36 @@ Abraão
 \added
 lhe
 \*added
- fora dito: Assim será a tua descendência. 
+ fora dito: “Assim será a tua descendência”. 
 \ref
 Gênesis 15:5 
 \*ref
 \v Rm.4.19
-Ele não fraquejou na fé, mesmo considerando o seu próprio corpo já praticamente morto (pois já era de quase cem anos), e o ventre de Sara em estado de morte ; morto (pois já era de quase cem anos), nem ao estado de morte do ventre de Sara” %fn|
+Ele não fraquejou na fé, mesmo considerando o seu próprio corpo já praticamente 
+morto (pois já era de quase cem anos), e o ventre de Sara em estado de morte ;
 \v Rm.4.20
-nem duvidou por descrença da promessa de Deus; ao contrário, fortaleceu-se na fé, dando glória a Deus;
+nem duvidou da promessa de Deus; pelo contrário, fortaleceu-se na fé, dando glória a Deus;
 \v Rm.4.21
 e teve plena certeza de que aquele que havia prometido também era poderoso para cumprir.
 \v Rm.4.22
-Por isso também que lhe foi reputado como justiça.
+Por esse motivo que também isso lhe foi imputado como justiça.
 \v Rm.4.23
-Ora, não só por ele está escrito que lhe foi reputado;
+Ora, não só por causa dele está escrito que lhe foi imputado;
 \v Rm.4.24
-mas também por nós, a quem será reputado, aos que creem naquele que ressuscitou dos mortos a Jesus nosso Senhor,
+mas também por nós, a quem será imputado, aos que creem naquele que ressuscitou dos mortos a Jesus, nosso Senhor,
 \v Rm.4.25
 que foi entregue por nossos pecados, e ressuscitou para a nossa justificação.
 \v Rm.5.1
-Já, pois, que somos justificados pela fé, tenhamos
+Portanto, agora que somos justificados pela fé, tenhamos
  paz com Deus por meio do nosso Senhor Jesus Cristo.
 \v Rm.5.2
-Por meio dele também temos acesso pela fé a esta graça, na qual estamos firmes, e jubilamos na esperança da glória de Deus.
+Por meio dele também temos acesso pela fé a esta graça, na qual estamos firmes, e nos alegramos na esperança da glória de Deus.
 \v Rm.5.3
 E não somente 
 \added
 isso
 \*added
-,mas também jubilamos nas tribulações, sabendo que a tribulação produz paciência;
+, mas também nos alegramos nas tribulações, sabendo que a tribulação produz paciência;
 \v Rm.5.4
 a paciência 
 \added
@@ -507,25 +502,25 @@ produz
 \v Rm.5.5
 E a esperança não frustra, porque o amor de Deus está derramado em nossos corações pelo Espírito Santo que nos foi dado.
 \v Rm.5.6
-Pois quando ainda éramos fracos, Cristo morreu a seu tempo pelos desobedientes.
+Pois quando ainda éramos fracos, Cristo morreu a seu tempo pelos ímpios.
 \v Rm.5.7
 Ora, dificilmente alguém morre por um justo, ainda que talvez alguém possa ousar morrer por uma boa pessoa.
 \v Rm.5.8
-Mas Deus prova o seu amor por nós ao Cristo haver morrido por nós, quando nós ainda éramos pecadores.
+Mas Deus prova o seu amor por nós através de Cristo haver morrido por nós, quando ainda éramos pecadores.
 \v Rm.5.9
-Por isso muito mais agora, que já somos justificados em seu sangue, seremos por ele salvos da ira.
+Por isso, muito mais agora, que já somos justificados por seu sangue, seremos por ele salvos da ira.
 \v Rm.5.10
-Pois, se quando éramos inimigos, fomos reconciliados com Deus pela morte do seu Filho, muito mais, quando somos reconciliados, seremos salvos pela sua vida.
+Pois, se quando éramos inimigos, fomos reconciliados com Deus pela morte do seu Filho, muito mais, tendo sido reconciliados, seremos salvos pela sua vida.
 \v Rm.5.11
 E não somente 
 \added
 isso
 \*added
-,mas também jubilamos em Deus por meio do nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.
+, mas também nos alegramos em Deus por meio do nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.
 \v Rm.5.12
 Portanto, assim como por um homem o pecado entrou no mundo, e pelo pecado a morte, assim também a morte passou a todos os seres humanos, porque todos pecaram.
 \v Rm.5.13
-Porque, antes da Lei, o pecado 
+Pois, antes da Lei, o pecado 
 \added
 já
 \*added
@@ -533,30 +528,33 @@ já
 \v Rm.5.14
 Mas a morte reinou desde Adão até Moisés, até sobre aqueles que não pecaram à semelhança da transgressão de Adão, o qual era uma figura daquele que estava para vir.
 \v Rm.5.15
-Mas o dom gratuito não é como a transgressão; porque, se pela transgressão de um muitos morreram, muito mais a graça de Deus, e o dom pela graça de um homem, Jesus Cristo, têm sido abundantes sobre muitos.
+Mas o dom gratuito não é como a transgressão; porque, se pela transgressão de um, muitos morreram, muito mais a graça 
+de Deus, e o dom pela graça de um homem, Jesus Cristo, têm sido abundantes sobre muitos.
 \v Rm.5.16
 E o dom não é como 
 \added
 a transgressão
 \*added
- por um que pecou; porque o julgamento de uma só 
+ de um que pecou; porque o julgamento de uma só 
 \added
 transgressão
 \*added
- trouxe condenação, mas o dom gratuito de muitas transgressões trouxe justificação.
+ trouxe condenação, mas o dom gratuito, de muitas transgressões, trouxe justificação.
 \fn
 Ou: absolvição
 \*fn
 \v Rm.5.17
-Pois, se pela transgressão de um, a morte reinou por causa daquele um, muito mais os que recebem a abundância da graça, e do dom da justiça reinarão em vida por este um, Jesus Cristo.
+Pois, se pela transgressão de um, a morte reinou por causa desse, muito mais os que recebem a abundância da graça, e 
+do dom da justiça reinarão em vida por um só, Jesus Cristo.
 \v Rm.5.18
-Portanto, assim como uma transgressão resultou em condenação sobre todos os seres humanos, assim também um ato de justiça resultou em justificação da vida sobre todos os seres humanos.
+Portanto, assim como uma transgressão resultou em condenação sobre todos os seres humanos, assim também um ato de 
+justiça resultou em justificação da vida sobre todos os seres humanos.
 \v Rm.5.19
-Pois, assim como pela desobediência daquele um homem muitos foram feitos pecadores, assim também, pela obediência deste um, muitos serão feitos justos.
+Pois, assim como pela desobediência de um só homem muitos foram feitos pecadores, assim também, pela obediência de um só, muitos serão justificados.
 \v Rm.5.20
 A Lei veio para que a transgressão aumentasse; mas onde o pecado aumentou, a graça superabundou;
 \v Rm.5.21
-a fim de que, assim como o pecado reinou para a morte, assim também a graça reine pela justiça para a vida eterna, por meio de Jesus Cristo nosso Senhor.
+a fim de que, assim como o pecado reinou para a morte, também a graça reine pela justiça para a vida eterna, por meio de Jesus Cristo, nosso Senhor.
 \v Rm.6.1
 Que diremos, pois? Continuaremos no pecado, para que a graça aumente?
 \v Rm.6.2
@@ -564,9 +562,10 @@ De maneira nenhuma! Nós, que morremos para o pecado, como ainda viveremos nele?
 \v Rm.6.3
 Ou não sabeis que todos os que somos batizados em Cristo Jesus, somos batizados em sua morte?
 \v Rm.6.4
-Por isso estamos sepultados com ele pelo batismo na morte; para que, assim como Cristo ressuscitou dos mortos para a glória do Pai, assim também nós andemos em novidade de vida.
+Por isso, estamos sepultados com ele pelo batismo na morte; para que, assim como Cristo ressuscitou dos mortos para a 
+glória do Pai, assim também nós andemos em novidade de vida.
 \v Rm.6.5
-Pois se fomos unidos 
+Pois, se fomos unidos 
 \added
 a ele
 \*added
@@ -584,7 +583,7 @@ Lit. “ser humano” ou “homem”
 \added
 ele
 \*added
-,para que o corpo do pecado seja extinto, a fim de que não mais sirvamos ao pecado;
+, para que o corpo do pecado seja extinto, a fim de que não mais sirvamos ao pecado;
 \v Rm.6.7
 pois o que está morto já está absolvido
 \fn
@@ -594,31 +593,35 @@ Ou: “livre”
 \v Rm.6.8
 Ora, se já morremos com Cristo, cremos que também com ele viveremos.
 \v Rm.6.9
-porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais o domina.
+Porque sabemos que, depois que Cristo foi ressuscitado dos mortos, já não morre mais; a morte já não mais o domina.
 \v Rm.6.10
 Pois, ao morrer, ele morreu para o pecado de uma vez por todas; mas, ao viver, vive para Deus.
 \v Rm.6.11
-Assim também vós, considerai que estais mortos para o pecado, mas vivendo para Deus em Cristo Jesus nosso Senhor.
+Assim também vós, considerai que estais mortos para o pecado, mas vivendo para Deus, em Cristo Jesus, nosso Senhor.
 \v Rm.6.12
-Portanto, não reine o pecado em vosso corpo mortal, para lhe obedecer em seus maus desejos.
+Portanto, não reine o pecado em vosso corpo mortal, para obedecer a ele em seus maus desejos.
 \v Rm.6.13
-Nem apresenteis os membros do vosso corpo ao pecado como instrumentos de injustiça; em vez disso, apresentai-vos a Deus, como revividos dos mortos, e vossos membros como instrumentos de justiça para Deus.
+Nem apresenteis os membros do vosso corpo ao pecado como instrumentos de injustiça; em vez disso, apresentai-vos a 
+Deus, como vivos dentre os mortos, e vossos membros como instrumentos de justiça para Deus.
 \v Rm.6.14
 Pois o pecado não vos dominará, porque não estais sob a Lei, mas sim, sob a graça.
 \v Rm.6.15
-Que, pois? Pecaremos, já que não estamos sob a Lei, mas sob a graça? De maneira nenhuma!
+Então, quê? Pecaremos, já que não estamos sob a Lei, mas sob a graça? De maneira nenhuma!
 \v Rm.6.16
-Não sabeis vós, que a quem vos apresentardes por servos para obedecer, sois servos daquele a quem obedeceis? Ou do pecado para a morte, ou da obediência para a justiça.
+Não sabeis vós, que a quem vos apresentardes por servos para obedecer, sois servos daquele a quem obedeceis? Ou do 
+pecado para a morte, ou da obediência para a justiça.
 \v Rm.6.17
-Porém graças a Deus que vós éreis servos do pecado, mas 
+Porém, graças a Deus que vós éreis servos do pecado, mas 
 \added
 agora
 \*added
- de coração obedeceis à forma de doutrina a que vós fostes entregues;
+, de coração obedeceis à forma de doutrina a que vós fostes entregues;
 \v Rm.6.18
 e, sendo libertos do pecado, vos tornastes servos da justiça.
 \v Rm.6.19
-Estou falando na lógica humana pela fraqueza de vossa carne. Pois, assim como apresentastes os membros do vosso corpo como servos da impureza e da maldade para a maldade, assim também apresentai agora os vossos membros como servos da justiça para a santificação.
+Estou falando na lógica humana, pela fraqueza de vossa carne. Pois, assim como apresentastes os membros do vosso corpo 
+como servos da impureza e da maldade para a maldade, assim também apresentai agora os vossos membros como servos da 
+justiça para a santificação.
 \v Rm.6.20
 Porque quando éreis servos do pecado, estáveis livres da justiça.
 \v Rm.6.21
@@ -626,24 +629,26 @@ Afinal, que fruto obtivestes das coisas de que agora vos envergonhais? Pois o fi
 \v Rm.6.22
 Mas agora, libertos do pecado, e feitos servos de Deus, tendes o vosso fruto para a santificação, e por fim a vida eterna;
 \v Rm.6.23
-porque o pagamento do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor.
+porque o salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus nosso Senhor.
 \v Rm.7.1
-Não sabeis vós, irmãos (pois estou falando com os que entendem a Lei), que a Lei domina o ser humano todo o tempo que vive?
+Não sabeis vós, irmãos (pois estou falando com os que entendem a Lei), que a Lei domina o ser humano por todo o tempo que vive?
 \v Rm.7.2
-Pois a mulher casada está pela Lei ligada ao marido enquanto o ele viver; porém, depois do marido morrer, ela está livre da Lei do marido.
+Pois a mulher casada está, pela Lei, ligada ao marido enquanto o ele viver; porém, depois do marido morrer, ela está livre da Lei do marido.
 \v Rm.7.3
-Ou seja, enquanto o marido viver, ela será chamada de adúltera, se for de outro homem; mas depois de morto o marido, ela está livre da Lei, de maneira que não será adúltera se for de outro homem.
+Ou seja, enquanto o marido viver, ela será chamada de adúltera, se for de outro homem; mas depois de morto o marido, 
+ela está livre da Lei, de maneira que não será adúltera se for de outro homem.
 \v Rm.7.4
-Assim, meus irmãos, também vós estais mortos para a Lei por meio do corpo de Cristo, para que sejais de outro, daquele que foi ressuscitado dos mortos, a fim de frutificarmos para Deus.
+Assim, meus irmãos, também vós estais mortos para a Lei por meio do corpo de Cristo, para que sejais de outro, daquele 
+que foi ressuscitado dos mortos, a fim de frutificarmos para Deus.
 \v Rm.7.5
 Pois, quando estávamos na carne, as paixões dos pecados, que eram pela Lei, operavam nos membros do nosso corpo, a fim de frutificarem para a morte.
 \v Rm.7.6
-Mas agora estamos livres da Lei, sendo mortos para aquilo em que estávamos presos, para que sirvamos em novidade de espírito, e não na velhice da norma escrita.
+Mas agora estamos livres da Lei, estando mortos para aquilo em que estávamos presos, para que sirvamos em novidade de espírito, e não na velhice da norma escrita.
 \fn
 Lit. letra
 \*fn
 \v Rm.7.7
-Que, pois, diremos? É a Lei pecado? De maneira nenhuma! Todavia, eu não teria conhecido o pecado, se não fosse pela Lei; porque não conheceria a cobiça,
+Que diremos, pois? É a Lei pecado? De maneira nenhuma! Todavia, eu não teria conhecido o pecado, se não fosse pela Lei; porque não conheceria a cobiça,
 \fn
 Isto é, desejo malicioso
 \*fn
@@ -658,15 +663,17 @@ estaria
 \*added
  morto.
 \v Rm.7.9
-Nalgum tempo, eu vivia sem a Lei; mas quando veio o mandamento, o pecado reviveu, e eu morri;
+Antes eu vivia sem a Lei; mas quando veio o mandamento, o pecado reviveu, e eu morri;
 \v Rm.7.10
 e descobri que o mandamento, que era para a vida, resultou-me para a morte.
 \v Rm.7.11
 Pois o pecado, aproveitando o mandamento, me enganou, e por ele me matou.
 \v Rm.7.12
-Portanto a Lei é santa, e o mandamento é santo, justo, e bom.
+Portanto, a Lei é santa, e o mandamento é santo, justo, e bom.
 \v Rm.7.13
-Então o que é bom se tornou para mim morte? De maneira nenhuma! Mas foi o pecado, para que se mostrasse como pecado, que operou a morte em mim por meio do bem, a fim de que, por meio do mandamento, o pecado se tornasse excessivamente pecaminoso.
+Então o que é bom se tornou para mim morte? De maneira nenhuma! Mas foi o pecado, para que se mostrasse como pecado, 
+que operou a morte em mim por meio do bem, a fim de que, por meio do mandamento, o pecado se tornasse 
+excessivamente pecaminoso.
 \v Rm.7.14
 Pois sabemos que a Lei é espiritual; mas eu sou carnal, vendido como servo do pecado.
 \fn
@@ -680,13 +687,13 @@ Porque não entendo o que faço, pois o que quero, isso não faço; mas o que eu
 \v Rm.7.16
 E se faço o que não quero, consinto que a Lei é boa;
 \v Rm.7.17
-De maneira que agora não sou mais eu que faço aquilo, mas sim o pecado que habita em mim.
+De maneira que agora não sou mais eu que faço aquilo, mas sim, o pecado que habita em mim.
 \v Rm.7.18
 Porque sei que em mim, isto é, em minha carne, não habita bem algum; porque o querer está em mim; porém o fazer o bem, não.
 \v Rm.7.19
 Pois o bem que quero, não faço; mas o mal que não quero, isso faço.
 \v Rm.7.20
-Ora, se faço o que não quero, não sou eu que faço, mas sim o pecado que habita em mim.
+Ora, se faço o que não quero, não sou eu que faço, mas sim, o pecado que habita em mim.
 \v Rm.7.21
 Acho, então, esta Lei: que quando quero fazer o bem, o mal está comigo.
 \v Rm.7.22
@@ -696,49 +703,50 @@ mas em meus membros vejo outra lei, que batalha contra a lei do meu entendimento
 \v Rm.7.24
 Miserável homem 
 \added
-sou
+que sou
 \*added
- ! Quem me livrará deste corpo de morte?
+! Quem me livrará deste corpo de morte?
 \fn
 Lit. do corpo desta morte
 \*fn
 \v Rm.7.25
-Graças a Deus por Jesus Cristo nosso Senhor. Assim, pois, eu mesmo com o entendimento sirvo à Lei de Deus, mas com a carne à Lei do pecado.
+Graças a Deus por Jesus Cristo, nosso Senhor. Assim, eu mesmo com o entendimento sirvo à Lei de 
+Deus, mas, com a carne, à Lei do pecado.
 \v Rm.8.1
-Portanto agora nenhuma condenação há para os que estão em Cristo Jesus.
+Portanto, agora, nenhuma condenação há para os que estão em Cristo Jesus.
 \fn
-TR, RP acrescentam: “que não andam segundo a carne, mas sim segundo o Espírito” ao final do versículo.
+TR, RP contém: “que não andam segundo a carne, mas sim segundo o Espírito” ao final do versículo.
 \*fn
- 
 \v Rm.8.2
 Porque a Lei do Espírito de vida, em Cristo Jesus, te
  livrou da Lei do pecado e da morte.
 \v Rm.8.3
-Pois o que era impossível para a Lei, por estar enferma pela carne, Deus 
+Pois o que era impossível para a Lei, porque estava enferma pela carne, Deus 
 \added
 fez
 \*added
- : enviando o seu próprio Filho em semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne;
+: ele enviou o seu próprio Filho em semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne,
 \v Rm.8.4
-para que a exigência da Lei se cumprisse em nós, que andamos, não segundo a carne, mas sim segundo o Espírito.
+para que a exigência da lei se cumprisse em nós, que andamos, não segundo a carne, mas sim, segundo o Espírito.
 \v Rm.8.5
-Pois os que são segundo a carne fixam os pensamentos nas coisas da carne; mas os que são segundo o Espírito, nas coisas do Espírito.
+Pois os que são segundo a carne costumam pensar nas coisas da carne, mas os que são segundo o Espírito, nas coisas do Espírito.
 \v Rm.8.6
-Pois a maneira de pensar da carne é morte, mas os maneira de pensar do Espírito é vida e paz.
+Pois a mentalidade da carne é morte, mas a mentalidade do Espírito é vida e paz.
 \v Rm.8.7
-Pois a maneira de pensar da carne é inimizade contra Deus, pois não se sujeita à Lei de Deus, porque nem sequer pode.
+Pois a mentalidade da carne é inimizade contra Deus, pois não se sujeita à Lei de Deus, porque nem sequer pode.
 \v Rm.8.8
-Portanto, os que estão na carne não podem agradar a Deus.
+Portanto os que estão na carne não podem agradar a Deus.
 \v Rm.8.9
-Porém vós não estais na carne, mas sim no Espírito, se é que o Espírito de Deus habita em vós. Porém, se alguém não tem o Espírito de Cristo, este tal não lhe pertence.
+Porém vós não estais na carne, mas sim, no Espírito, se é que o Espírito de Deus habita em vós. Porém, se alguém não 
+tem o Espírito de Cristo, esse não lhe pertence.
 \v Rm.8.10
 E se Cristo está em vós, apesar do corpo estar morto por causa do pecado, o Espírito é vida
 \fn
-Ou: o [vosso] espírito está vivo
+Ou: o (vosso) espírito está vivo
 \*fn
  por causa da justiça.
 \v Rm.8.11
-E se o Espírito daquele que dos mortos ressuscitou Jesus habita em vós, aquele que dos mortos ressuscitou Cristo Jesus
+E se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos ressuscitou Cristo Jesus
  também dará vida aos vossos corpos mortais por meio do seu Espírito, que habita em vós.
 \v Rm.8.12
 Por isso, irmãos, somos devedores, não à carne, para vivermos segundo a carne;
@@ -755,7 +763,8 @@ Ou: ao
 \*fn
  o nosso espírito de que somos filhos de Deus.
 \v Rm.8.17
-E, se somos filhos, logo somos também herdeiros; herdeiros de Deus, e coerdeiros de Cristo; se sofremos com ele, é para que também com ele sejamos glorificados.
+E, se somos filhos, logo somos também herdeiros; herdeiros de Deus, e coerdeiros de Cristo; se sofremos 
+com ele, é para que também com ele sejamos glorificados.
 \v Rm.8.18
 Pois considero que as aflições deste tempo presente nem se comparam com a glória que nos será revelada.
 \v Rm.8.19
@@ -767,7 +776,7 @@ Lit. a ansiedade da criação espera
 \v Rm.8.20
 porque a criação ficou sujeita à futilidade (não por vontade própria, mas sim por causa daquele que a sujeitou),
 \v Rm.8.21
-na esperança de que também a mesma criação será liberta da escravidão da degradação
+na esperança de que também a mesma criação seja liberta da escravidão da degradação
 \fn
 Ou: morte
 \*fn
@@ -779,51 +788,54 @@ E não somente
 \added
 isso
 \*added
-,mas também nós, que temos os primeiros frutos do Espírito, gememos em nós mesmos, esperando a 
+, mas também nós, que temos os primeiros frutos do Espírito, gememos em nós mesmos, esperando a 
 \added
 adoção
 \*added
-,
+, 
 \added
 isto é
 \*added
-,a redenção do nosso corpo.
+, a redenção do nosso corpo.
 \v Rm.8.24
 Pois fomos salvos na esperança. Ora, a esperança que se vê não é esperança; afinal, por que alguém ainda espera o que já vê?
 \v Rm.8.25
 Mas, se esperamos o que não vemos, com paciência esperamos.
 \v Rm.8.26
-E da mesma maneira também o Espírito ajuda em nossas fraquezas. Pois não sabemos orar como se deve, mas o próprio Espírito intercede  
+E da mesma maneira também o Espírito ajuda em nossas fraquezas. Pois não sabemos orar como se deve, mas o próprio Espírito intercede 
 \added
 por nós
 \*added
- 
  com gemidos inexprimíveis.
 \v Rm.8.27
-E aquele que examina os corações sabe qual é a intenção do Espírito, pois ele intercede pelos santos segundo 
+E aquele que examina os corações sabe qual é a intenção do Espírito, pois ele intercede pelos santos, segundo 
 \added
 a vontade
 \*added
  de Deus.
 \v Rm.8.28
-E sabemos que todas as coisas juntamente contribuem para o bem daqueles que amam Deus, dos que são chamados segundo o seu propósito.
+E sabemos que todas as coisas juntamente contribuem para o bem daqueles que amam a Deus, dos que são chamados segundo o seu propósito.
 \v Rm.8.29
 Pois aos que desde antes conheceu, também os predestinou para serem conformes à imagem do seu Filho, para que ele seja o primogênito entre muitos irmãos.
 \v Rm.8.30
 E aos que predestinou, a esses também chamou; e aos que chamou, a esses também justificou; e aos que justificou, a esses também glorificou.
 \v Rm.8.31
-Que, pois, diremos em face destas coisas? Se Deus é por nós, quem será contra nós?
+Então, que diremos acerca dessas coisas? Se Deus é por nós, quem será contra nós?
 \v Rm.8.32
 Aquele que nem mesmo ao seu próprio Filho poupou, como não nos dará também com ele todas as coisas?
 \v Rm.8.33
-Quem fará acusação contra os escolhidos de Deus? Deus é o que justifica.
+Quem fará acusação contra os escolhidos de Deus? Deus é quem justifica.
 \v Rm.8.34
-Quem condenará? Cristo Jesus
+Quem 
+\added
+os
+\*added
+ condenará? Cristo Jesus
  é o que morreu; além disto é o que também ressuscitou; o que também está à direita de Deus, e que intercede por nós.
 \v Rm.8.35
 Quem nos separará do amor de Cristo? A aflição, a angústia, a perseguição, a fome, a nudez, o perigo, ou a espada?
 \v Rm.8.36
-(Como está escrito: Pois por causa de ti somos entreges à morte o dia todo; somos contados como ovelhas para o matadouro.) 
+Como está escrito: “Pois por causa de ti somos entreges à morte o dia todo; somos contados como ovelhas para o matadouro”.
 \ref
 Salmos 44:22 
 \*ref
@@ -833,15 +845,15 @@ Mas em todas estas coisas somos mais que vencedores, por meio daquele que nos am
 Pois tenho certeza que nem a morte, nem a vida, nem anjos, nem principados, 
  nem o presente, nem o futuro,  nem poderes,
 \v Rm.8.39
-nem altura, nem profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus nosso Senhor.
+nem altura, nem profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor.
 \v Rm.9.1
 Digo a verdade em Cristo, não minto, e minha consciência dá testemunho comigo pelo Espírito Santo,
 \v Rm.9.2
-que tenho grande tristeza, e contínuo tormento em meu coração.
+de que tenho grande tristeza e contínuo tormento em meu coração.
 \v Rm.9.3
 Porque desejaria eu mesmo ser separado de Cristo em proveito dos meus irmãos, que são meus parentes segundo a carne;
 \v Rm.9.4
-que são israelitas, e deles é a adoção como filhos, a glória, os pactos, a Lei, o culto, e as promessas;
+que são israelitas, e a quem pertencem a adoção como filhos, a glória, os pactos, a Lei, o culto, e as promessas;
 \v Rm.9.5
 deles são os patriarcas, e deles, quanto à carne, é Cristo, que é sobre todos, Deus bendito eternamente, Amém!
 \v Rm.9.6
@@ -851,7 +863,7 @@ verdadeiros
 \*added
  israelitas.
 \v Rm.9.7
-Nem por serem descendentes de Abraão são todos filhos, mas: Em Isaque será chamada tua descendência. 
+Nem por serem descendentes de Abraão são todos filhos, mas: “Em Isaque será chamada a tua descendência”.
 \ref
 Gênesis 21:12 
 \*ref
@@ -867,9 +879,10 @@ Isto é, no ano seguinte, aproximadamente na mesma data
 Gênesis 18:10,14 
 \*ref
 \v Rm.9.10
-E não somente isso, mas também Rebeca, quando esteve grávida por um, o nosso pai Isaque,
+E não somente isso, mas também Rebeca, quando esteve grávida por intermédio de um só, Isaque, nosso ancestral
 \v Rm.9.11
-(pois, como não eram ainda nascidos, não haviam feito bem ou mal, para que o propósito de Deus, segundo a escolha, continuasse; não pelas obras, mas por causa daquele que chama)
+(pois, como não eram ainda nascidos, não haviam feito bem ou mal, para que o propósito de Deus, segundo a 
+escolha, continuasse; não pelas obras, mas por causa daquele que chama),
 \v Rm.9.12
 foi dito a ela: O mais velho servirá o mais jovem;
 \fn
@@ -879,14 +892,14 @@ Lit. “o maior servirá o menor”
 Gênesis 25:23 
 \*ref
 \v Rm.9.13
-como está escrito: Amei Jacó, mas odiei Esaú. 
+como está escrito: “Amei Jacó, mas odiei Esaú”.
 \ref
 Malaquias 1:2-3 
 \*ref
 \v Rm.9.14
-Que, pois, diremos? Que há injustiça da parte de Deus? De maneira nenhuma!
+Que diremos, então? Que há injustiça da parte de Deus? De maneira nenhuma!
 \v Rm.9.15
-Pois ele diz a Moisés: Terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem eu me compadecer. 
+Pois ele diz a Moisés: “Terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem eu me compadecer”.
 \ref
 Êxodo 33:19 
 \*ref
@@ -899,18 +912,19 @@ depende
 \fn
 Lit. “que corre”
 \*fn
- mas sim de Deus que se compadece.
+ mas sim, de Deus, que se compadece.
 \v Rm.9.17
-Pois a Escritura diz a Faraó: Para isto mesmo te levantei: para mostrar em ti o meu poder, e para que o meu nome seja anunciado em toda a terra. 
+Pois a Escritura diz a Faraó: “Para isto mesmo te levantei: para mostrar em ti o meu poder, e para que o meu nome seja 
+anunciado em toda a terra”.
 \ref
 Êxodo 9:16 
 \*ref
 \v Rm.9.18
 Portanto, ele tem misericórdia de quem quer, e endurece a quem quer.
 \v Rm.9.19
-Tu, então, me dirás: Por que ele ainda se queixa? Pois quem resiste à sua vontade?
+Tu, então, me dirás: “Por que ele ainda se queixa? Pois quem resiste à sua vontade?”
 \v Rm.9.20
-Mas antes, quem és tu, ó, humano, para questionares a Deus? Por acaso a coisa formada dirá ao que a formou: Por que me fizeste assim? 
+Mas antes, quem és tu, ó, humano, para questionares a Deus? Por acaso a coisa formada dirá ao que a formou: “Por que me fizeste assim?”
 \ref
 Isaías 29:16; 45-9 
 \*ref
@@ -927,21 +941,21 @@ a fim de fazer conhecidas as riquezas da sua glória nos vasos da misericórdia,
 \v Rm.9.24
  que somos nós, aos quais ele chamou, não somente dentre os judeus, mas também dentre os gentios?
 \v Rm.9.25
-Como também diz em Oseias: Ao que era Não-Meu-Povo, chamarei de Meu-Povo; e a que não era Não-Amada, 
+Como também diz em Oseias: “Ao que era Não-Meu-Povo, chamarei de Meu-Povo; e a que não era Não-Amada, 
 \added
 chamarei
 \*added
- de Amada. 
+ de Amada”.
 \ref
 Oseias 2:23 
 \*ref
 \v Rm.9.26
-E será que, no lugar onde lhes foi dito: Vós não sois meu povo, Aí serão chamados filhos do Deus vivo. 
+E será que, no lugar onde lhes foi dito: “Vós não sois meu povo, Aí serão chamados filhos do Deus vivo”.
 \ref
 Oseias 1:10 
 \*ref
 \v Rm.9.27
-Também Isaías clama acerca de Israel: Ainda que o número dos filhos de Israel seja como a areia do mar, 
+Também Isaías clama acerca de Israel: “Ainda que o número dos filhos de Israel seja como a areia do mar, 
 \added
 apenas
 \*added
@@ -951,32 +965,30 @@ porque o Senhor concluirá e executará brevemente a sentença
 \fn
 TR, RP acrescentam: “em justiça; pois ele fará uma breve sentença”
 \*fn
- 
- sobre a terra.
+ sobre a terra”.
 \v Rm.9.29
-E como Isaías predisse: Se o Senhor dos Exércitos não houvesse nos deixado descendência,
+E como Isaías predisse: “Se o Senhor dos Exércitos não houvesse nos deixado descendência,
 \fn
 Lit. semente
 \*fn
- nós nos teríamos tornado como Sodoma, e como Gomorra teríamos sido semelhantes. 
+ nós nos teríamos tornado como Sodoma, e como Gomorra teríamos sido semelhantes”.
 \ref
 Isaías 1:9 
 \*ref
 \v Rm.9.30
-Que, pois, diremos? Que os gentios, que não buscavam a justiça, obtiveram a justiça, a justiça que épela fé,
+Então, que diremos? Que os gentios, que não buscavam a justiça, alcançaram a justiça, mas a justiça que é pela fé;
 \v Rm.9.31
-porém Israel, que buscava a Lei da justiça, não alcançou a Lei? 
+porém, Israel, que buscava a Lei da justiça, não alcançou a Lei
 \v Rm.9.32
 Por quê? Porque não 
 \added
 a buscavam
 \*added
- pela fé, mas sim como que pelas obras
- 
+ pela fé, mas sim, como que pelas obras
 . Tropeçaram na pedra de tropeço,
 \v Rm.9.33
-como está escrito: Eis que ponho em Sião uma pedra de tropeço, e uma rocha de escândalo; e 
- aquele que nela crer não será envergonhado.
+como está escrito: “Eis que ponho em Sião uma pedra de tropeço, e uma rocha de escândalo; e 
+ aquele que nela crer não será envergonhado”.
 \v Rm.10.1
 Irmãos, o bom desejo do meu coração, e a oração que 
 \added
@@ -986,7 +998,7 @@ faço
 \fn
 TR, RP: “por Israel”
 \*fn
-  é que sejam salvos.
+ é que sejam salvos.
 \fn
 Lit. “é para a salvação”
 \*fn
@@ -995,29 +1007,29 @@ Pois lhes dou testemunho de que eles têm zelo por Deus, mas não com entendimen
 \v Rm.10.3
 Pois, como ignoraram a justiça de Deus, e procuraram estabelecer a sua própria justiça, eles não se sujeitaram à justiça de Deus.
 \v Rm.10.4
-Pois o fim da Lei é Cristo, para justiça a todo aquele que crê.
+Porque o fim da Lei é Cristo, para justiça de todo aquele que crê.
 \fn
 Ou: “justificação a todo aquele que crê”
 \*fn
 \v Rm.10.5
-Pois Moisés descreve a justiça que é pela Lei: A pessoa que praticar estas coisas viverá por elas. 
+Pois Moisés descreve a justiça que é pela Lei: “A pessoa que praticar estas coisas viverá por elas”. 
 \ref
 Levítico 18:5 
 \*ref
 \v Rm.10.6
-Mas a justiça que é pela fé assim diz: Não digas em teu coração: Quem subirá ao céu? 
+Mas a justiça que é pela fé assim diz: “Não digas em teu coração: ‘Quem subirá ao céu?’
 \ref
 Deuteronômio 30:12 
 \*ref
 (Isto é, trazer Cristo abaixo),
 \v Rm.10.7
-ou: Quem descerá ao abismo? 
+ou: ‘Quem descerá ao abismo?’”
 \ref
 Deuteronômio 30:13 
 \*ref
 (Isto é, trazer Cristo dentre os mortos).
 \v Rm.10.8
-Porém o que diz? A palavra está perto de ti, na tua boca, e no teu coração. 
+Porém, o que diz? “A palavra está perto de ti, na tua boca, e no teu coração”.
 \ref
 Deuteronômio 30:14 
 \*ref
@@ -1031,21 +1043,21 @@ Ou: justificação
 \*fn
  e com a boca se confessa para a salvação.
 \v Rm.10.11
-Porque a Escritura diz: Todo aquele que nele crê não será envergonhado. 
+Porque a Escritura diz: “Todo aquele que nele crê não será envergonhado.”
 \ref
 Isaías 28:16 
 \*ref
 \v Rm.10.12
-Pois não há diferença entre o judeu e grego, porque um mesmo é o Senhor de todos, rico para todos os que o invocam.
+Pois não há diferença entre judeu e grego, porque um mesmo é o Senhor de todos, rico para todos os que o invocam.
 \v Rm.10.13
-Pois: Todo aquele que invocar o nome do Senhor será salvo. 
+Pois: “Todo aquele que invocar o nome do Senhor será salvo.”
 \ref
 Joel 2:32 
 \*ref
 \v Rm.10.14
-Mas como invocarão em quem não creram? E como crerão em quem não ouviram? E como ouvirão sem haver quem pregue?
+Mas como invocarão em quem não creram? E como crerão naquele de quem não ouviram? E como ouvirão sem haver quem pregue?
 \v Rm.10.15
-E como pregarão se não forem enviados? Como está escrito: Como são agradáveis
+E como pregarão se não forem enviados? Como está escrito: “Como são agradáveis
 \fn
 tradicionalmente: belos
 \*fn
@@ -1053,17 +1065,17 @@ tradicionalmente: belos
 \fn
 TR, RP acrescentam: “anunciam o evangelho da paz, dos que”
 \*fn
-  anunciam as boas novas! 
+ anunciam as boas novas!”
 \ref
 Isaías 52:7 
 \*ref
 \v Rm.10.16
-Mas nem todos obedeceram ao Evangelho, pois Isaías diz: Senhor, quem creu na nossa pregação? 
+Mas nem todos obedeceram ao Evangelho, pois Isaías diz: “Senhor, quem creu na nossa pregação?”
 \ref
 Isaías 53:1 
 \*ref
 \v Rm.10.17
-Portanto a fé 
+Portanto, a fé 
 \added
 vem
 \*added
@@ -1071,41 +1083,40 @@ vem
 \fn
 TR, RP: Deus
 \*fn
- 
 \v Rm.10.18
-Mas pergunto: Por acaso não ouviram? Sim, certamente. 
+Mas pergunto: por acaso não ouviram? Sim, certamente. 
 \added
 Pois:
 \*added
- Seu som saiu por toda a terra, e suas palavras até os confins do mundo. 
+ “Sua voz saiu por toda a terra, e suas palavras até os confins do mundo.”
 \ref
 Salmos 19:4 
 \*ref
 \v Rm.10.19
-Mas pergunto: Por acaso Israel não entendeu? Primeiramente Moisés disse: Eu vos provocarei ciúmes com os que não são do povo; com uma nação insensata vos provocarei à ira. 
+Mas pergunto: por acaso Israel não entendeu? Primeiramente Moisés disse: “Eu vos provocarei ciúmes com os que não são do povo; com uma nação insensata vos provocarei à ira.”
 \ref
 Deuteronômio 32:31 
 \*ref
 \v Rm.10.20
-E Isaías ousou dizer: Fui achado pelos que não me buscavam; fui revelado aos que por mim não perguntavam. 
+E Isaías ousou dizer: “Fui achado pelos que não me buscavam; fui revelado aos que por mim não perguntavam.”
 \ref
 Isaías 65:1 
 \*ref
 \v Rm.10.21
-Mas sobre Israel diz: Todo o dia estendi as minhas mãos a um povo rebelde e hostil. 
+Mas sobre Israel diz: “Todo o dia estendi as minhas mãos a um povo rebelde e hostil.”
 \ref
 Isaías 65:2 
 \*ref
 \v Rm.11.1
-Então pergunto: Por acaso Deus rejeitou seu povo? De maneira nenhuma! Pois também eu sou israelita, da descendência
+Então pergunto: por acaso Deus rejeitou seu povo? De maneira nenhuma! Pois também eu sou israelita, da descendência
 \fn
 Lit. semente
 \*fn
  de Abraão, da tribo de Benjamim.
 \v Rm.11.2
-Deus não rejeitou seu povo, o qual desde antes conheceu. Ou não sabeis o que a Escritura diz de Elias? Como ele fala a Deus, contra Israel:
+Deus não rejeitou seu povo, o qual desde antes conhecia. Ou não sabeis o que a Escritura diz de Elias? Como ele fala a Deus, contra Israel:
 \v Rm.11.3
-Senhor, mataram os teus profetas, e derrubaram os teus altares; só eu fiquei, e buscam tirar-me a vida.
+“Senhor, mataram os teus profetas, e derrubaram os teus altares; só eu fiquei, e buscam tirar-me a vida.”
 \fn
 Lit. “buscam a minha vida” (ou alma)
 \*fn
@@ -1113,12 +1124,12 @@ Lit. “buscam a minha vida” (ou alma)
 1 Reis 19:10,14 
 \*ref
 \v Rm.11.4
-Mas o que lhe disse a divina resposta? Reservei para mim sete mil homens que não dobraram os joelhos a Baal. 
+Mas o que lhe disse a divina resposta? “Reservei para mim sete mil homens que não dobraram os joelhos a Baal.”
 \ref
 1 Reis 19:18 
 \*ref
 \v Rm.11.5
-Assim, portanto, também agora no presente tempo ficou um remanescente, escolhido pela graça.
+Portanto, também agora no presente tempo ficou um remanescente, escolhido pela graça.
 \fn
 Lit. “conforme a escolha pela graça”
 \*fn
@@ -1126,40 +1137,36 @@ Lit. “conforme a escolha pela graça”
 E, se é pela graça, logo não é pelas obras; de outra maneira, a graça já não é graça.
 .
 \v Rm.11.7
-Que, pois? O que Israel busca, isso não obteve; mas os escolhidos o obtiveram, e os demais foram endurecidos,
+Então, quê? O que Israel busca, isso não obteve; mas os escolhidos o obtiveram, e os demais foram endurecidos,
 \v Rm.11.8
-como está escrito: Deus lhes deu espírito de insensibilidade;
+como está escrito: “Deus lhes deu espírito de insensibilidade;
 \fn
 Ou: estupor
 \*fn
- olhos que não veem, e ouvidos que não ouvem; até o dia de hoje. 
+ olhos que não veem, e ouvidos que não ouvem; até o dia de hoje.”
 \ref
 Deuteronômio 29:4; Isaías 29:10 
 \*ref
 \v Rm.11.9
-E Davi diz: A mesa deles se torne em laço, e armadilha; em tropeço, e retribuição para eles.
+E Davi diz: “A mesa deles se torne em laço e armadilha; em tropeço e retribuição para eles.
 \v Rm.11.10
-Seus olhos se escureçam para que não vejam, e suas costas fiquem constantemente encurvadas.
+Seus olhos se escureçam, para que não vejam, e suas costas fiquem constantemente encurvadas.”
 \fn
 Salmos 69:22,23
 \*fn
 \v Rm.11.11
-Então pergunto: Por acaso tropeçaram para que permanecessem caídos?
-\fn
-Lit. “para que caíssem”
-\*fn
- De maneira nenhuma! Mas pela queda deles a salvação 
+Então, pergunto: por acaso tropeçaram para que caíssem? De maneira nenhuma! Mas pela queda deles a salvação 
 \added
 veio
 \*added
  aos gentios, para lhes provocarem ciúmes.
 \v Rm.11.12
-Ora, se a queda deles é o enriquecimento do mundo, e se o prejuízo deles é o enriquecimento dos gentios, quanto mais a sua plenitude deles!
+Ora, se a queda deles é o enriquecimento do mundo, e se o prejuízo deles é o enriquecimento dos gentios, quanto mais a sua plenitude!
 \v Rm.11.13
 Mas
  falo a vós mesmos, gentios; como sou apóstolo dos gentios, honro meu ministério,
 \v Rm.11.14
-a fim de que, de alguma maneira, eu provoque ciúmes aos do meu povo em termos da carne,
+a fim de que, de alguma maneira, eu provoque ciúmes aos do meu povo,
 \fn
 Lit. “aos da minha carne”
 \*fn
@@ -1177,29 +1184,31 @@ Isto é, os demais pães
 \*fn
  também é; e se a raiz é santa, os ramos também são.
 \v Rm.11.17
-Porém, se alguns dos ramos foram quebrados fora, e sendo tu oliveira selvagem, foste enxertado neles, e feito participante da raiz, e nutrido pela boa oliveira,
+Porém, se alguns dos ramos foram quebrados e separados, e sendo tu oliveira selvagem, foste enxertado no lugar deles, 
+e feito participante da raiz, e nutrido pela boa oliveira,
 \v Rm.11.18
-não te orgulhes de ser melhor que os ramos. Mesmo se te orgulhares, não és tu que sustentas a raiz, mas sim a raiz a ti.
+não te orgulhes de ser melhor que os ramos. Mesmo se te orgulhares, não és tu que sustentas a raiz, mas sim, a raiz a ti.
 \v Rm.11.19
-Tu, então, dirás: 
-Ramos foram quebrados para que eu fosse enxertado.
+Tu, então, dirás: “Os ramos foram quebrados para que eu fosse enxertado.”
 \v Rm.11.20
-É verdade. Por causa da incredulidade eles foram quebrados fora, e tu por causa da fé estás firme. Não tenhas orgulho, mas sim temor;
+É verdade. Por causa da incredulidade eles foram quebrados, e tu, por causa da fé estás firme. Não tenhas orgulho, mas sim temor,
 \v Rm.11.21
 pois, se Deus não poupou os ramos naturais, ele poderá não poupar a ti também.
 \v Rm.11.22
-Olha, pois, a bondade e severidade de Deus; a severidade sobre os que caíram, mas a bondade  de Deus 
+Olha, pois, a bondade e severidade de Deus; a severidade sobre os que caíram, mas a bondade  de Deus
  sobre ti, se continuares na bondade; de outra maneira, também tu serás cortado fora.
 \v Rm.11.23
-Porém também eles, se não continuarem na incredulidade, serão enxertados, porque Deus é poderoso para enxertá-los de volta.
+E também eles, se não continuarem na incredulidade, serão enxertados, porque Deus é poderoso para enxertá-los de volta.
 \v Rm.11.24
-Pois, se tu foste cortado da oliveira naturalmente selvagem, e contra a natureza enxertado na oliveira boa, quanto mais estes, que são naturais, serão enxertados na sua própria oliveira!
+Pois, se tu foste cortado da oliveira naturalmente selvagem, e contra a natureza enxertado na oliveira boa, quanto 
+mais estes, que são naturais, serão enxertados na sua própria oliveira!
 \v Rm.11.25
-Pois não quero, irmãos, que ignoreis este mistério, para que não sejais sábios apenas a vós mesmos: o endurecimento veio em parte sobre Israel, até que a plenitude dos gentios tenha entrado;
+Não quero, irmãos, que ignoreis este mistério, para que não sejais sábios apenas a vós mesmos: o endurecimento veio 
+em parte sobre Israel, até que a plenitude dos gentios tenha entrado;
 \v Rm.11.26
-e assim todo o Israel será salvo, como está escrito: O Libertador virá de Sião, e afastará as perversidades de Jacó.
+e assim, todo o Israel será salvo, como está escrito: “O Libertador virá de Sião, e afastará as irreverências de Jacó.
 \v Rm.11.27
-E este será o meu pacto com eles, quando eu tirar os seus pecados. 
+E este será o meu pacto com eles, quando eu tirar os seus pecados.”
 \ref
 Isaías 59:20,21; 27:9; Jeremias 31:33-34 
 \*ref
@@ -1212,14 +1221,14 @@ Ou: “por causa de vós”
 \added
 divina
 \*added
-,são amados, por causa dos patriarcas.
+, são amados, por causa dos patriarcas.
 \v Rm.11.29
 Pois os dons gratuitos e o chamado da parte de Deus não podem ser cancelados.
 \fn
 Lit. “não são arrependidos”, isto é, Deus não se arrepende deles
 \*fn
 \v Rm.11.30
-Pois, assim como vós também antigamente fostes desobedientes a Deus, porém agora recebestes misericórdia pela desobediência deles,
+Pois, assim como vós também antigamente fostes desobedientes a Deus, agora recebestes misericórdia pela desobediência deles,
 \v Rm.11.31
 assim também agora eles foram desobedientes, a fim de que, pela misericórdia que foi a vós 
 \added
@@ -1228,7 +1237,7 @@ concedida
 , eles também agora
  recebam misericórdia;
 \v Rm.11.32
-porque Deus encarcerou a todos sob a desobediência a fim de ter misericórdia para com todos.
+porque Deus pôs todos debaixo da desobediência, a fim de ter misericórdia para com todos.
 \v Rm.11.33
 Ó profundidade das riquezas, tanto da sabedoria como do conhecimento de Deus! Quão incompreensíveis são os seus juízos, e inimagináveis os seus caminhos!
 \v Rm.11.34
@@ -1261,9 +1270,9 @@ assim também nós,
 \added
 ainda que
 \*added
- muitos, somos um único corpo em Cristo; porém cada qual membros uns dos outros.
+ muitos, somos um único corpo em Cristo; porém, individualmente, membros uns dos outros.
 \v Rm.12.6
-Temos, contudo, diferentes dons, segundo a graça que nós foi dada: se é o de profecia, seja segundo a medida da fé;
+Temos, contudo, diferentes dons, segundo a graça que nos foi dada: se é o de profecia, seja segundo a medida da fé;
 \v Rm.12.7
 se é o de serviço,
 \fn
@@ -1285,7 +1294,7 @@ lidere
 \*added
  com empenho, o que usa de misericórdia, 
 \added
-faça
+faça-o
 \*added
  com alegria.
 \v Rm.12.9
@@ -1303,13 +1312,14 @@ Abençoai os que vos perseguem; abençoai, e não amaldiçoeis.
 \v Rm.12.15
 Alegrai-vos com os que se alegram, e chorai com os que choram.
 \v Rm.12.16
-Estimai-vos uns aos outros como semelhantes. Não fiqueis pensando com soberba; em vez disso, acompanhai-vos dos humildes. Não sejais sábios apenas a vós mesmos.
+Estimai-vos uns aos outros como semelhantes. Não fiqueis pensando com soberba; em vez disso, acompanhai-vos dos 
+humildes. Não sejais sábios em vós mesmos.
 \v Rm.12.17
 A ninguém pagueis o mal com o mal; buscai fazer o que é certo diante de todos.
 \v Rm.12.18
 No que for possível de vossa parte, tende paz com todos.
 \v Rm.12.19
-Não vingueis por vós mesmos, amados. Em vez disso, dai lugar à ira 
+Não vos vingueis por vós mesmos, amados. Em vez disso, dai lugar à ira 
 \added
 divina
 \*added
@@ -1319,17 +1329,19 @@ Deuteronômio 32:35
 \*ref
 \v Rm.12.20
 Mas
- se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber. Pois, quando fizeres isto, estarás amontoando brasas de fogo sobre a cabeça dele.
+ se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber. Pois, quando fizeres isto, estarás 
+amontoando brasas de fogo sobre a cabeça dele.
 \v Rm.12.21
-Não sejas vencido pelo mal, mas vence ao mal com o bem.
+Não sejas vencido pelo mal, mas vence o mal com o bem.
 \v Rm.13.1
-Toda pessoa esteja sujeita às autoridades superiores, porque não há autoridade que não seja da parte de Deus; e as 
- que há são ordenadas por Deus.
+Toda pessoa esteja sujeita às autoridades superiores, porque não há autoridade que não seja da parte de Deus; e 
+as 
+ que existem são ordenadas por Deus.
 \v Rm.13.2
 Por isso, quem se opõe à autoridade resiste à ordem de Deus; e os que lhe resistem trarão a si mesmos condenação.
 \v Rm.13.3
-Pois os que possuem autoridade não causam temor à boa obra, mas sim ao mal.
- Queres tu não ter medo de autoridade? Faze o bem, e dela receberás elogio,
+Pois os que possuem autoridade não causam temor à boa obra, mas sim, ao mal.
+ Queres tu não ter medo de autoridade? Faz o bem, e dela receberás elogio,
 \v Rm.13.4
 porque ela é serva de Deus para o teu bem. Porém, se fizeres o mal, teme; porque ela não traz a espada em vão. Pois é serva de Deus, vingadora, para castigar
 \fn
@@ -1337,21 +1349,25 @@ Lit. ira
 \*fn
  a quem faz o mal.
 \v Rm.13.5
-Portanto é necessário estar sujeito não somente por causa do castigo, mas também por causa da consciência.
+Portanto, é necessário estar sujeito não somente por causa do castigo, mas também por causa da consciência.
 \v Rm.13.6
-Pois por isso também pagais impostos; porque são servidores de Deus, atendendo a essa função.
+Por isso também pagais impostos; porque são servidores de Deus, atendendo a essa função.
 \v Rm.13.7
 Dai
  a cada um o que deveis; a quem imposto, imposto; a quem taxa, taxa; a quem temor, temor; a quem honra, honra.
 \v Rm.13.8
-A ninguém devais coisa alguma, a não ser o amar uns aos outros, pois quem ama o outro tem cumprido a Lei.
+A ninguém devais coisa alguma, a não ser o amor uns aos outros, pois quem ama o outro tem cumprido a Lei.
 \v Rm.13.9
-Porque isto: não adulterarás, não matarás, não roubarás, 
+Porque estes 
+\added
+mandamentos
+\*added
+: não adulterarás, não matarás, não roubarás, 
  não cobiçarás; 
 \ref
 Êxodo 20:13-15,17; Deuteronômio 5:17-19,21 
 \*ref
-e, qualquer outro mandamento que há, nesta frase se resume: Amarás ao teu próximo como a ti mesmo. 
+e qualquer outro mandamento que há, nesta frase se resumem: “Amarás ao teu próximo como a ti mesmo”.
 \ref
 Levítico 19:18 
 \*ref
@@ -1361,13 +1377,13 @@ O amor não faz mal ao próximo. Assim, o cumprimento da Lei é o amor.
 Além disso, conheceis o tempo, que já é hora de despertardes
  do sono, porque a salvação está agora mais perto de nós do que quando começamos a crer.
 \v Rm.13.12
-A noite está se acabando, e o dia chegando. Deixemos, pois, as obras das trevas, e vistamo-nos das armas da luz.
+A noite está se acabando, e o dia, chegando. Deixemos, pois, as obras das trevas, e vistamo-nos das armas da luz.
 \v Rm.13.13
 Andemos de maneira decente, como de dia; não em orgias e bebedeiras; não em pecados sexuais ou depravações; não em brigas, nem em inveja.
 \v Rm.13.14
 Em vez disso, revesti-vos do Senhor Jesus Cristo, e não fiqueis pensando em 
 \added
-fazer
+realizar
 \*added
  os desejos da carne.
 \v Rm.14.1
@@ -1377,7 +1393,7 @@ envolvê-lo
 \*added
  em temas controversos.
 \v Rm.14.2
-Um crê que pode comer de tudo, e outro, que é fraco come 
+Um crê que pode comer de tudo, e outro, que é fraco, come 
 \added
 somente
 \*added
@@ -1390,36 +1406,37 @@ Quem és tu para julgares o servo alheio? É ao seu próprio senhor que ele fica
 \v Rm.14.5
 Um faz diferença entre um dia e outro; porém outro considera iguais todos os dias. Cada um mantenha certeza em sua própria mente.
 \v Rm.14.6
-O que faz diferença de dias, para o Senhor a faz.
+O que faz diferença entre dias, para o Senhor a faz.
 \fn
-TR, RP acrescentam: “e aquele que não faz diferença de dias, para o Senhor não a faz”
+TR, RP acrescentam: “e aquele que não faz diferença entre dias, para o Senhor não a faz”
 \*fn
-  O que come, come para o Senhor, porque dá graças a Deus; e o que não come, deixa de comer para o Senhor, e dá graças a Deus.
+ O que come, come para o Senhor, porque dá graças a Deus; e o que não come, deixa de comer para o Senhor, e dá graças a Deus.
 \v Rm.14.7
 Pois nenhum de nós vive para si mesmo; e nenhum morre para si mesmo.
 \v Rm.14.8
-Pois se vivemos, para o Senhor vivemos; e se morremos, para o Senhor morremos. Portanto, quer vivamos, quer morramos, do Senhor somos.
+Porque, se vivemos, para o Senhor vivemos; e se morremos, para o Senhor morremos. Portanto, quer vivamos, quer morramos, do Senhor somos.
 \v Rm.14.9
 Pois para isto Cristo 
  morreu, 
  e voltou a viver, para ser Senhor tanto dos mortos como dos vivos.
 \v Rm.14.10
-Tu, porém, por que julgas o teu irmão? Ou tu também, por que desprezas o teu irmão? Pois todos nós seremos apresentados diante do tribunal de .
+Tu, porém, por que julgas o teu irmão? Ou tu também, por que desprezas o teu irmão? Pois todos nós seremos 
+apresentados diante do tribunal de Deus.
 \v Rm.14.11
 Porque está escrito: 
 \added
-Tão certo como
+“Tão certo como
 \*added
- eu vivo, diz o Senhor, que todo joelho se dobrará diante de mim, e toda língua confessará a Deus; 
+ eu vivo, diz o Senhor, que todo joelho se dobrará diante de mim, e toda língua confessará a Deus”;
 \ref
 Isaías 45:23 
 \*ref
 \v Rm.14.12
 de maneira que cada um de nós dará conta de si mesmo a Deus.
 \v Rm.14.13
-Portanto não julguemos mais uns aos outros; em vez disso, julgai nunca pôr alguma pedra de obstáculo ou de tropeço diante do seu irmão.
+Portanto, não julguemos mais uns aos outros; em vez disso, decidi nunca pôr alguma pedra de obstáculo ou de tropeço diante do seu irmão.
 \v Rm.14.14
-Eu sei, e tenho certeza no Senhor Jesus, que nada é impura por si mesma; a não ser para quem considera algo impuro: aquilo para ele se torna impuro.
+Eu sei, e tenho certeza no Senhor Jesus, que nada é impuro por si mesmo; a não ser para quem o considera impuro: aquilo para ele se torna impuro.
 \v Rm.14.15
 Pois,
  se por causa do que comes
@@ -1434,18 +1451,19 @@ Ou: ofende
 \v Rm.14.16
 Não seja insultado o vosso bem,
 \v Rm.14.17
-pois o reino de Deus não é comida nem bebida, mas sim justiça, paz, e alegria no Espírito Santo.
+porque o reino de Deus não é comida nem bebida, mas sim justiça, paz, e alegria no Espírito Santo.
 \v Rm.14.18
 Pois quem nisso
- serve a Cristo é agradável a Deus e aprovado pelos seres humanos.
+ serve a Cristo é agradável a Deus e aprovado pelas pessoas.
 \v Rm.14.19
 Sigamos, pois, as coisas que 
 \added
 resultam em
 \*added
- paz e edificação uns aos outros.
+ paz e edificação de uns aos outros.
 \v Rm.14.20
-Não destruas a obra de Deus por causa da comida. É verdade que todas as coisas são limpas, porém é mau ao ser humano que coma causando ofensa.
+Não destruas a obra de Deus por causa da comida. É verdade que todas as coisas são limpas, porém mau é ao ser humano 
+comer causando ofensa.
 \fn
 Ou: escândalo
 \*fn
@@ -1461,26 +1479,26 @@ TR, RP acrescentam: “ou se ofender, ou enfraquecer” ao final do versículo
  
 \v Rm.14.22
 A convicção que tu tens,
- tenha para ti mesmo diante de Deus. Feliz
+ tenha-a para ti mesmo diante de Deus. Feliz
 \fn
 Tradicionalmente: bem-aventurado
 \*fn
  é quem não se culpa naquilo que aprova.
 \v Rm.14.23
-Mas aquele que tem dúvida, se comer é culpado, porque não foi pela fé; e tudo que não é pela fé é pecado.
+Mas aquele que tem dúvida, se comer, é culpado, porque não foi pela fé; e tudo que não é pela fé é pecado.
 \v Rm.15.1
 Mas nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos.
 \v Rm.15.2
 Portanto, cada um de nós agrade ao próximo no que é bom para a edificação.
 \v Rm.15.3
-Pois também Cristo não agradou a si mesmo; mas, como está escrito: Os insultos dos que te insultavam caíram sobre mim. 
+Pois também Cristo não agradou a si mesmo; mas, como está escrito: “Os insultos dos que te insultavam caíram sobre mim”.
 \ref
 Salmos 69:9 
 \*ref
 \v Rm.15.4
 Pois todas as coisas que foram escritas com antecedência foram escritas para o nosso ensino; para que, pela paciência e consolação das Escrituras, tenhamos esperança.
 \v Rm.15.5
-O Deus da paciência e da consolação vos dê a mesma mentalidade uns com os outros, segundo Cristo Jesus,
+O Deus da paciência e da consolação vos dê a mesma mentalidade uns para com os outros, segundo Cristo Jesus,
 \v Rm.15.6
 a fim de que, em comum acordo, como uma só boca, glorifiqueis ao Deus e Pai de nosso Senhor Jesus Cristo.
 \v Rm.15.7
@@ -1495,30 +1513,26 @@ feitas
 \*added
  aos patriarcas;
 \v Rm.15.9
-E 
-\added
-para que
-\*added
- os gentios glorifiquem a Deus por causa de 
+e para que os gentios glorifiquem a Deus por causa de 
 \added
 sua
 \*added
- misericórdia, como está escrito: Por isso entre os gentios te confessarei, e ao teu nome cantarei. 
+ misericórdia, como está escrito: “Por isso entre os gentios te confessarei, e ao teu nome cantarei.”
 \ref
 2 Samuel 22:50; Salmos 18:49 
 \*ref
 \v Rm.15.10
-E outra vez diz: Alegrai-vos, gentios, com o povo dele. 
+E outra vez diz: “Alegrai-vos, gentios, com o povo dele.”
 \ref
 Deuteronômio 32:43 
 \*ref
 \v Rm.15.11
-E outra vez: Louvai ao Senhor todas as nações, e celebrai-o todos os povos. 
+E outra vez: “Louvai ao Senhor todas as nações, e celebrai-o todos os povos.”
 \ref
 Salmos 117:1 
 \*ref
 \v Rm.15.12
-E outra vez Isaías diz: Haverá a raiz de Jessé, e aquele que se levantará para governar as nações; nele os gentios esperarão. 
+E outra vez Isaías diz: “Haverá a raiz de Jessé, e aquele que se levantará para governar as nações; nele os gentios esperarão.”
 \ref
 Isaías 11:10 
 \*ref
@@ -1534,8 +1548,8 @@ Ou: “admoestardes”, “repreenderdes”
 Mas
  em parte vos escrevi com mais ousadia, como que para vos relembrar, por causa da graça que me foi dada por Deus,
 \v Rm.15.16
-a fim de que eu seja servidor de Cristo Jesus
- entre os gentios, servindo através do Evangelho de Deus, para que a oferta dos gentios seja agradável, santificada pelo Espírito Santo.
+a fim de que eu seja um servidor de Cristo Jesus
+ entre os gentios, ministrando o evangelho de Deus, para que a oferta dos gentios seja agradável, santificada pelo Espírito Santo.
 \v Rm.15.17
 Assim eu me orgulho em Jesus Cristo das coisas relacionadas a Deus,
 \v Rm.15.18
@@ -1550,43 +1564,39 @@ com poder de sinais e milagres, no poder do EspíritoSanto;
 \v Rm.15.20
 E assim quis muito anunciar o Evangelho onde Cristo não houvesse sido pregado, para que eu não construísse sobre fundamento alheio;
 \v Rm.15.21
-ao contrário, como está escrito: Aqueles a quem dele não foi anunciado 
+ao contrário, como está escrito: “Aqueles a quem dele não foi anunciado 
 \added
 o
 \*added
- verão; e os que não ouviram entenderão. 
+ verão; e os que não ouviram entenderão.” 
 \ref
 Isaías 52:15 
 \*ref
 \v Rm.15.22
-Por isso também muitas vezes tenho sido impedido de vir até vós.
+Por isso também muitas vezes tenho sido impedido de ir até vós.
 \v Rm.15.23
-Mas agora, como nessas regiões não há mais lugar que eu não já tenha pregado,
+Mas agora, como nessas regiões não há mais lugar em que eu precise trabalhar,
 \fn
 Lit. “não tenho mais lugar”
 \*fn
- e já por muitos anos tive grande desejo de vir até vós,
+ e já por muitos anos tive grande desejo de ir até vós,
 \v Rm.15.24
 quando eu for para a Espanha
- pois espero vos ver no caminho, e receber ajuda de vossa parte para a viagem, depois de primeiramente ficar um tempo satisfazendo o desejo de estar convosco.
+ pois espero vos ver no caminho, e receber ajuda de vossa parte para a viagem, depois de primeiramente ficar um tempo 
+satisfazendo o desejo de estar convosco.
 \v Rm.15.25
-Mas por agora vou a Jerusalém, a fim de auxiliar os santos.
+Mas por ora, vou a Jerusalém, a fim de auxiliar os santos.
 \v Rm.15.26
-Pois aos da Macedônia e Acaia pareceu bem fazer uma contribuição para os pobres dentre os santos que estão em Jerusalém.
+Pois, aos da Macedônia e Acaia pareceu bem fazer uma contribuição para os pobres dentre os santos que estão em Jerusalém.
 \v Rm.15.27
-Pois 
 \added
-isso
+Isso
 \*added
- lhes pareceu bem, assim como estão em dívida para com eles; porque, se os gentios foram participantes dos seus 
+ lhes pareceu bem, como quem está em dívida para com eles; porque, se os gentios foram participantes dos seus 
 \added
 bens
 \*added
- espirituais, devem também 
-\added
-lhes
-\*added
- ajudar com os materiais.
+ espirituais, devem também ajudá-los com os materiais.
 \v Rm.15.28
 Assim que eu concluir isso, e garantir 
 \added
@@ -1601,11 +1611,11 @@ E sei que, quando chegar até vós, virei com a plenitude da bênção
 \fn
 RP, TR acrescentam: “do Evangelho”
 \*fn
-  de Cristo.
+ de Cristo.
 \v Rm.15.30
 Rogo-vos, porém, irmãos, pelo nosso Senhor Jesus Cristo, e pelo amor do Espírito, que luteis comigo em orações a Deus por mim,
 \v Rm.15.31
-para que eu esteja livre dos desobedientes na Judeia, e que este meu serviço em Jerusalém seja bem aceito pelos santos,
+para que eu esteja livre dos rebeldes na Judeia, e que este meu serviço em Jerusalém seja bem aceito pelos santos,
 \v Rm.15.32
 a fim de que eu possa chegar até vós com alegria, pela vontade de Deus, e que eu possa descansar convosco.
 \v Rm.15.33
@@ -1613,22 +1623,25 @@ E o Deus da paz esteja com todos vós. Amém!
 \v Rm.16.1
 Eu vos recomendo a nossa irmã Febe, que é servidora da Igreja que está em Cencreia,
 \v Rm.16.2
-para que a recebais no Senhor, como convém aos santos; e para que a ajudeis em qualquer coisa que necessitar de vós; pois ela tem ajudado a muitos, inclusive a mim mesmo.
+para que a recebais no Senhor, como convém aos santos; e para que a ajudeis em qualquer coisa que necessitar de vós; 
+pois ela tem ajudado a muitos, inclusive a mim mesmo.
 \v Rm.16.3
 Saudai a Prisca
 \fn
 Ou: Priscila
 \*fn
- 
  e a Áquila, meus cooperadores em Cristo Jesus,
 \v Rm.16.4
 que arriscaram seus pescoços por minha vida; a eles não somente eu agradeço, como também todas as igrejas dos gentios.
 \v Rm.16.5
- 
 \added
 Saudai
 \*added
- também a igreja na casa deles. Saudai Epêneto, meu amado, que é o primeiro fruto
+ também a igreja 
+\added
+que se reúne
+\*added
+ na casa deles. Saudai Epêneto, meu amado, que é o primeiro fruto
 \fn
 Isto é, o primeiro convertido
 \*fn
@@ -1641,7 +1654,7 @@ Saudai Andrônico e Júnia, meus parentes,
 \fn
 Ou “compatriotas”
 \*fn
- e meus companheiros na prisão, que são notáveis entre os apóstolos, e também foram antes de mim em Cristo.
+ e meus companheiros na prisão, que são notáveis entre os apóstolos, e também estavam antes de mim em Cristo.
 \v Rm.16.8
 Saudai Amplíato,
  meu amado no Senhor.
@@ -1652,12 +1665,11 @@ Saudai Apeles, aprovado em Cristo. Saudai os que são da
 \added
 casa
 \*added
-
 \fn
 \key
-O
+casa
 \*key
-“família” : também no v. 11
+Ou: “família” - também no v. 11
 \*fn
  de Aristóbulo.
 \v Rm.16.11
@@ -1673,7 +1685,7 @@ casa
 \v Rm.16.12
 Saudai Trifena e Trifosa, que trabalham no Senhor. Saudai a amada Pérside, que trabalhou muito no Senhor.
 \v Rm.16.13
-Saudai Rufo, o escolhido no Senhor, e a mãe dele, que também é minha.
+Saudai Rufo, o escolhido no Senhor, e a mãe dele, e minha também.
 \v Rm.16.14
 Saudai Asíncrito, Flegonte, Hermes, Pátrobas, Hermas
  e os irmãos que estão com eles.
@@ -1686,14 +1698,18 @@ Saudai-vos uns aos outros com beijo santo.  igrejas
 E rogo-vos, irmãos, que sejais cuidadosos com os que causam divisões e ofensas
 \fn
 \key
-O
+ofensas
 \*key
-“obstáculos” : isto é, dificuldades que induzem à perda da fé ou ao pecado - tradicionalmente “escândalos”
+isto é, dificuldades que induzem à perda da fé ou ao pecado - tradicionalmente “escândalos”
 \*fn
  contrárias a doutrina que aprendestes; e afastai-vos deles;
 \v Rm.16.18
-pois tais pessoas não servem ao nosso Senhor 
- Cristo,  fn _c|TR, RP: Senhor Jesus Cristo %fn| mas sim ao próprio ventre; e com palavras suaves e elogios enganam os corações dos ingênuos.
+pois tais pessoas não servem ao nosso Senhor
+ Cristo, 
+\fn
+TR, RP: Senhor Jesus Cristo
+\*fn
+ mas sim, ao próprio ventre; e com palavras suaves e elogios enganam os corações dos ingênuos.
 \v Rm.16.19
 Pois a vossa obediência chegou 
 \added
@@ -1702,7 +1718,7 @@ ao conhecimento
  de todos. Por isso eu me alegro por vossa causa; quero, porém, que sejais sábios no bem, e inocentes quanto ao mal.
 \v Rm.16.20
 E o Deus de paz esmagará Satanás em pedaços debaixo dos vossos pés. A graça de nosso Senhor Jesus  
- seja convosco. 
+ seja convosco.
 \v Rm.16.21
 Saúdam-vos o meu cooperador Timóteo, e os meus parentes
 \fn
@@ -1720,16 +1736,18 @@ Gaio, hospedeiro meu e toda a igreja, vos saúda. Erasto, tesoureiro da cidade, 
 \v Rm.16.24
 ---
 \fn
-TR, RP incluem o versículo 24:”A graça de nosso Senhor Jesus Cristo seja com todos vós, Amém!”
+TR, RP incluem o versículo 24:“A graça de nosso Senhor Jesus Cristo seja com todos vós, Amém!”
 \*fn
- 
- 25 Ora, para aquele que tem o poder de vos manter firmes segundo o meu Evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério, que foi encoberto 
+\v Rm.16.25
+Ora, para aquele que tem o poder de vos manter firmes segundo o meu Evangelho e a pregação de Jesus Cristo, conforme a 
+revelação do mistério, que foi encoberto 
 \added
 desde
 \*added
- os princípios dos tempos;
+ o princípio dos tempos;
 \v Rm.16.26
-Mas agora se manifestou, e se tornou conhecido pelas Escrituras dos profetas, segundo o mandado do Deus eterno, para a obediência da fé entre todas as nações;
+Mas agora se manifestou, e se tornou conhecido pelas Escrituras dos profetas, segundo o mandado do Deus eterno, para a 
+obediência da fé entre todas as nações;
 \v Rm.16.27
 Ao único Deus sábio seja a glória, por meio de Jesus Cristo, para 
 \added

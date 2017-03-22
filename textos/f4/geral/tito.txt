@@ -11,13 +11,9 @@ Tt
 TIT
 \*ubs-code
 \v Tt.1.1
-Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos escolhidos de Deus, e o conhecimento da verdade, que é segundo a devoção 
-\added
-a Deus
-\*added
- ;
+Paulo, servo de Deus e apóstolo de Jesus Cristo, segundo a fé dos escolhidos de Deus, e o conhecimento da verdade, que é segundo a devoção divina;
 \v Tt.1.2
-Em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos princípios dos tempos,
+em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos princípios dos tempos,
 \v Tt.1.3
 E a seu 
 \added
@@ -137,7 +133,7 @@ lhes
 \v Tt.2.11
 Porque a graça salvadora de Deus se manifestou a todos os homens.
 \v Tt.2.12
-Ensinando-nos que, ao renunciarmos à maldade, e aos maus desejos mundanos, vivamos neste tempo presente de modo sóbrio, justo e devotamente.
+Ensinando-nos que, ao renunciarmos à irreverência e aos maus desejos mundanos, vivamos neste tempo presente de maneira sóbria, justa e devota.
 \v Tt.2.13
 Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Salvador Jesus Cristo;
 \v Tt.2.14

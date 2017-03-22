@@ -31,15 +31,15 @@ da vontade
 \*added
  de Deus.
 \v 3Jo.1.7
-Pois foi por causa do Nome {rp,n4:
-\added
-}dele{rp,n4:
-\*added
-}{trnc: 
-\fn
+Pois foi por causa do Nome 
+{rp,n4:\added}
+dele
+{rp,n4:
+\*added}
+{trnc:\fn
 N4 omite “dele” 
-\*fn
-} que partiram em jornada, sem nada aceitar dos gentios. 
+\*fn}
+ que partiram em jornada, sem nada aceitar dos gentios. 
 \fn
 \key
 gentios
@@ -47,17 +47,17 @@ gentios
 i.e., dos gentios não-cristãos 
 \*fn
 \v 3Jo.1.8
-Portanto devemos {tr,rp:acolher}{n4:apoiar}{trnc: 
-\fn
+Portanto devemos {tr,rp:acolher}{n4:apoiar}
+{trnc:\fn
 TR,RP: acolher – N4: apoiar 
-\*fn
-} tais pessoas, para que sejamos cooperadores da verdade.
+\*fn}
+ tais pessoas, para que sejamos cooperadores da verdade.
 \v 3Jo.1.9
-Eu tenho escrito {n4:algo}{trnc: 
-\fn
+Eu tenho escrito {n4:algo}
+{trnc:\fn
 N4 adiciona: “algo” 
-\*fn
-} aos da igreja; 
+\*fn}
+ aos da igreja; 
 \fn
 \key
 aos da igreja
@@ -74,15 +74,14 @@ Demétrio tem alcançado
 \added
 bom
 \*added
- testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e {tr,rp:vós sabeis}{n4:tu sabes}{tr,rp,trnc: 
-\fn
+ testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e {tr,rp:vós sabeis}{n4:tu sabes}
+{tr,rp,trnc:\fn
 N4: tu sabes 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP: vós sabeis 
-\*fn
-} que o nosso testemunho é verdadeiro.
+\*fn}
+ que o nosso testemunho é verdadeiro.
 \v 3Jo.1.13
 Eu tinha muitas coisas para escrever, porém não quero escrever a ti 
 \added
@@ -90,9 +89,7 @@ sobre elas
 \*added
  com tinta e pena;
 \v 3Jo.1.14
-mas espero te ver em breve, e falaremos face a face.
-\v 3Jo.1.15
-Paz seja contigo. Os amigos 
+mas espero te ver em breve, e falaremos face a face. Paz seja contigo. Os amigos 
 \added
 daqui
 \*added
@@ -100,4 +97,4 @@ daqui
 \added
 daí
 \*added
-,cada um por nome.
+, cada um por nome.

@@ -287,11 +287,12 @@ para pedir
 \v At.3.11
 E o aleijado que tinha sido curado, tendo se apegado a Pedro e a João, todo o povo correu maravilhado a eles ao alpendre, que se chama de Salomão.
 \v At.3.12
-E Pedro, vendo 
+Quando Pedro viu 
 \added
-isto
+isso
 \*added
-,respondeu ao povo: Homens israelitas, por que vos maravilhais disto? Ou por que vós olhais com tanta atenção para nós, como se por nosso próprio poder ou santidade tivéssemos feito ele andar?
+, respondeu ao povo: “Homens israelitas, por que vos maravilhais disto? Ou por que vós olhais tão atentamente para 
+nós, como se por nosso próprio poder ou devoção divina o tivéssemos feito andar?
 \v At.3.13
 O Deus de Abraão, e de Isaque, e de Jacó, o Deus de nossos pais, glorificou a seu filho Jesus, ao qual vós entregastes, e diante do rosto de Pilatos o negastes, 
 \added
@@ -341,7 +342,7 @@ Deus, ao ressuscitar seu filho Jesus, primeiro o enviou a vós, para que
 \added
 nisto
 \*added
- vos abençoasse: afastando cada um de vós de vossas maldades.
+ vos abençoasse: afastando cada um de vós de vossas maldades”.
 \v At.4.1
 E enquanto eles ainda estavam falando ao povo, vieram sobre eles os sacerdotes, e o oficial do Templo, e os saduceus,
 \v At.4.2
@@ -812,11 +813,525 @@ E José mandou chamar a seu pai Jacó, e toda a sua parentela, setenta e cinco a
 \v At.7.15
 E Jacó desceu ao Egito, e morreu; ele, e nossos pais;
 \v At.7.16
-E foram levados a Siquém, e postos na sepultura que Abraão, por uma quantia em dinheiro, tinha comprado dos filhos de Emor, 
+E foram levados a Siquém, e postos na sepultura que Abraão, por uma quantia em dinheiro, tinha comprado dos filhos de Emor
+, 
 \added
 pai
 \*added
  de Siquém.
+\v At.7.17
+Mas quando chegou perto o tempo da promessa que Deus tinha prometido a Abraão, o povo cresceu e se multiplicou no Egito.
+\v At.7.18
+Até que se levantou outro rei, que não tinha conhecido a José.
+\v At.7.19
+Este, usando de astúcia para com nossa parentela, maltratou a nossos pais, até fazendo com que eles rejeitassem suas crianças, para que não sobrevivessem.
+\v At.7.20
+Naquele tempo nasceu Moisés, e ele era muito formoso para Deus, e ele foi criado por três meses na casa de seu pai.
+\v At.7.21
+E tendo sido abandonado, a filha de Faraó o tomou, e o criou para si como filho.
+\v At.7.22
+E Moisés foi instruído em toda a sabedoria dos egípcios; e era poderoso em palavras e ações.
+\v At.7.23
+E quando lhe foi completado o tempo de quarenta anos 
+\added
+de idade
+\*added
+, veio ao seu coração 
+\added
+o desejo
+\*added
+ de visitar a seus irmãos, os filhos de Israel.
+\v At.7.24
+E vendo um 
+\added
+deles
+\*added
+ sofrendo injustamente, defendeu 
+\added
+-o
+\*added
+,e vingou pelo que tinha sido oprimido, matando ao egípcio.
+\v At.7.25
+E ele pensava que seus irmãos tivessem entendido que Deus ia lhes dar liberdade por meio da mão dele; mas eles não entenderam.
+\v At.7.26
+E no dia seguinte, estando 
+\added
+uns deles
+\*added
+ lutando, ele foi visto por eles, e ordenou-lhes 
+\added
+fazerem
+\*added
+ as pazes, dizendo: Homens, vós sois irmãos, por que fazeis mal um ao outro?
+\v At.7.27
+Mas aquele que maltratava a seu próximo empurrou-o, dizendo: Quem te pôs por chefe e juiz sobre nós?
+\v At.7.28
+Queres tu 
+\added
+também
+\*added
+ matar a mim, assim como ontem mataste ao egípcio?
+\v At.7.29
+E com esta palavra Moisés fugiu, e foi peregrino na terra de Midiã, onde ele gerou dois filhos.
+\v At.7.30
+E completados quarenta anos, um anjo do Senhor lhe apareceu no deserto do monte Sinai, em uma sarça inflamada.
+\v At.7.31
+Moisés, ao ver 
+\added
+isso
+\*added
+,maravilhou-se da visão; e ao aproximar-se para ver, veio até ele a voz do Senhor,
+\v At.7.32
+\added
+Dizendo
+\*added
+ : Eu 
+\added
+sou
+\*added
+ o Deus de teus pais, o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó. E Moisés, estando tremendo, não ousava olhar com atenção.
+\v At.7.33
+E o Senhor lhe disse: Descalça-te as sandálias de teus pés, porque o lugar em que estás é terra santa.
+\v At.7.34
+Eu tenho visto com atenção a aflição de meu povo que 
+\added
+está
+\*added
+ no Egito, e ouvi o gemido deles, e eu desci para livrá-los; então vem agora, eu te enviarei ao Egito.
+\v At.7.35
+A este Moisés, ao qual tinham negado, dizendo: Quem te pôs por chefe e juiz, A este Deus enviou por chefe e libertador, pela mão do anjo que lhe apareceu na sarça.
+\v At.7.36
+Este os levou para fora, fazendo milagres e sinais na terra do Egito, e no mar Vermelho, e no deserto, 
+\added
+por
+\*added
+ quarenta anos.
+\v At.7.37
+Este é o Moisés que disse aos filhos de Israel: O Senhor, vosso Deus, vos levantará um profeta dentre vossos irmãos, como a mim; a ele ouvireis.
+\v At.7.38
+Este é aquele que esteve na congregação 
+\added
+do povo
+\*added
+ no deserto com o anjo que tinha lhe falado no monte Sinai, e 
+\added
+com
+\*added
+ nossos pais; o qual recebeu as palavras vivas, para dar a nós;
+\v At.7.39
+Ao qual nossos pais não quiseram obedecer; mas 
+\added
+o
+\*added
+ rejeitaram, e seus corações voltaram ao Egito;
+\v At.7.40
+Ao dizerem a Arão: Faz-nos deuses, que irão adiante de nós; porque 
+\added
+quanto a
+\*added
+ este Moisés, que nos levou para fora da terra do Egito, nós não sabemos o que aconteceu com ele.
+\v At.7.41
+E naqueles dias eles fizeram o bezerro, o ofereceram sacrifício ao ídolo, e se alegraram nas obras de suas 
+\added
+próprias
+\*added
+ mãos.
+\v At.7.42
+E Deus se virou 
+\added
+contra eles
+\*added
+,e os entregou, para que servissem ao exército do céu, assim como está escrito no livro dos profetas: Por acaso, casa de Israel, vós oferecestes a mim animais mortos, e sacrifícios no deserto 
+\added
+por
+\*added
+ quarenta anos?
+\v At.7.43
+Mas tomastes 
+\added
+para si
+\*added
+ a tenda de Moloque, e a estrela de vosso Deus Renfã, figuras que vós fizeste para adorá-las; e eu 
+\added
+por isso
+\*added
+ vos expulsarei para além da Babilônia.
+\v At.7.44
+No deserto estava entre nossos pais o Tabernáculo do testemunho, assim como ele tinha ordenado, falando a Moisés, que o fizesse segundo o modelo que tinha visto.
+\v At.7.45
+O qual, recebendo 
+\added
+-o
+\*added
+ também nossos Pais, eles levaram com Josué para a possessão dos gentios que Deus expulsou diante de nossos Pais, até os dias de Davi;
+\v At.7.46
+O qual foi do agrado diante de Deus, e pediu para achar um tabernáculo para o Deus de Jacó.
+\v At.7.47
+E Salomão lhe construiu uma casa.
+\v At.7.48
+Mas o Altíssimo não habita em templos feitos por mãos, assim como o profeta diz:
+\v At.7.49
+O céu é o meu trono, e a terra 
+\added
+é
+\*added
+ o estrado dos meus pés; que casa vós construireis para mim?, diz o Senhor; ou Qual é o lugar do meu repouso?
+\v At.7.50
+Por acaso não 
+\added
+foi
+\*added
+ minhão mão 
+\added
+que
+\*added
+ fez todas estas coisas?
+\v At.7.51
+Vós, obstinados e incircuncisos de coração e de ouvidos! Vós sempre resistis ao Espírito Santo! Tal como vossos pais 
+\added
+foram
+\*added
+,assim também 
+\added
+sois
+\*added
+ vós!
+\v At.7.52
+Qual dos profetas vossos pais não perseguiram? E eles mataram a todos os que anunciaram com antecedência a vinda do Justo, do qual agora vós tendes sido traidores e homicidas;
+\v At.7.53
+Que recebestes a Lei por ordem de anjos, e não 
+\added
+a
+\*added
+ guardastes.
+\v At.7.54
+Eles, ao ouvirem estas coisas, retalharam-se de raiva em seus corações, e rangiam os dentes contra ele.
+\v At.7.55
+Mas ele, estando cheio do Espírito Santo, olhando firmemente para o céu, viu à glória de Deus, e a Jesus, que estava à direita de Deus.
+\v At.7.56
+E disse: Eis que vejo os céus abertos, e o Filho do homem, que está a direita de Deus!
+\v At.7.57
+Mas eles, clamando com alta voz, taparam seus próprios ouvidos, e correram juntos contra ele;
+\v At.7.58
+E, lançando 
+\added
+-o
+\*added
+ fora da cidade, 
+\added
+o
+\*added
+ apedrejaram; e as testemunhas puseram as roupas deles junto aos pés de um rapaz chamado Saulo.
+\v At.7.59
+E apedrejaram a Estêvão, que estava clamando e dizendo:  Senhor Jesus, recebe o meu espírito.
+\v At.7.60
+E pondo-se de joelhos, clamou com alta voz: Senhor, não os culpes por este pecado.E tendo dito isto, morreu. 
+\fn
+morreu = lit. adormeceu 
+\*fn
+\v At.8.1
+E Saulo também consentia na morte dele. E naquele dia foi feita uma grande perseguição contra a igreja que estava em Jerusalém; e todos foram dispersos pelas regiões da Judeia, e de Samaria, exceto os apóstolos.
+\v At.8.2
+E 
+\added
+alguns
+\*added
+ homens devotos levaram juntos a Estêvão 
+\added
+para enterrá-lo
+\*added
+,e fizeram grande pranto por causa dele.
+\v At.8.3
+E Saulo tentava destruir a igreja, entrando nas casas, e puxando a homens e mulheres, entregava-os à prisão.
+\v At.8.4
+Os que, pois, estavam dispersos, passavam anunciando a palavra.
+\v At.8.5
+E Filipe, tendo descido à cidade de Samaria, pregava-lhes a Cristo.
+\v At.8.6
+E as multidões prestavam atenção em concordância às coisas que eram ditas por Filipe, ao ouvirem e verem os sinais que ele fazia.
+\v At.8.7
+Porque os espíritos imundos, clamando em alta voz, saíam de muitos que os tinham; e muitos paralíticos e aleijados foram curados.
+\v At.8.8
+E havia grande alegria naquela cidade.
+\v At.8.9
+E havia um certo homem, de nome Simão, que antes naquela cidade usava de magia, e fazia o povo de Samaria ficar admirado, dizendo de si mesmo ser alguém grande;
+\v At.8.10
+A quem eles todos davam atenção, desde o menor até o maior, diziam: Este é o grande poder de Deus.
+\v At.8.11
+E davam atenção a ele, porque com suas magias ele há muito tempo tinha lhes causado admiração.
+\v At.8.12
+Mas quando creram em Filipe, que lhes anunciava o Evangelho do Reino de Deus, e o nome de Jesus Cristo, eles foram batizados, tanto homens como mulheres.
+\v At.8.13
+E até mesmo Simão creu; e tendo sido batizado, ele continuou com Filipe; e vendo os sinais e maravilhas que eram feitas, ele ficou admirado.
+\v At.8.14
+E os apóstolos que estavam em Jerusalém, ao ouvirem que Samaria tinha recebido a palavra de Deus, enviaram-lhes a Pedro e a João.
+\v At.8.15
+Os quais, tendo descido, oraram por eles, para que recebessem ao Espírito Santo.
+\v At.8.16
+(Porque ainda sobre nenhum deles tinha descido; mas somente tinham sido batizados no nome do Senhor Jesus).
+\v At.8.17
+Então puseram as mãos sobre eles, e receberam o Espírito Santo.
+\v At.8.18
+E Simão ao ver que pela imposição das mãos dos apóstolos se dava o Espírito Santo, ofereceu-lhes dinheiro,
+\v At.8.19
+Dizendo: Dai também a mim este poder, que sobre qualquer um em quem eu puser as mãos, receba o Espírito Santo.
+\v At.8.20
+Mas Pedro lhe disse: Teu dinheiro seja contigo para perdição, porque pensaste que o dom de Deus 
+\added
+pudesse
+\*added
+ ser obtido por meio de dinheiro.
+\v At.8.21
+Tu não tens parte nem porção nesta palavra; porque teu coração não é correto diante de Deus.
+\v At.8.22
+Arrepende-te, pois, desta tua maldade, e ora a Deus, para que talvez este pensamento de teu coração te seja perdoado;
+\v At.8.23
+Porque eu vejo que tu estás em fel amargo, e atado em injustiça.
+\v At.8.24
+Mas respondendo Simão, disse: Orai vós por mim ao Senhor, para que nada do que dissestes venha sobre mim.
+\v At.8.25
+Tendo eles pois dado testemunho e falado a palavra do Senhor, voltaram a Jerusalém, e em muitas aldeias dos samaritanos anunciaram o Evangelho.
+\v At.8.26
+E um anjo do Senhor falou a Filipe, dizendo: Levanta-te, e vai para o sul, ao caminho que desce de Jerusalém para Gaza, que é deserto.
+\v At.8.27
+E ele levantou-se, e foi, e eis que um homem etíope, eunuco, administrador 
+\added
+subordinado
+\*added
+ a Candace, a rainha dos etíopes, que estava sobre 
+\added
+o controle
+\*added
+ de todos os bens dela, tinha vindo a Jerusalém para adorar;
+\v At.8.28
+E ele estava voltando, sentado em sua carruagem, 
+\added
+e
+\*added
+ lia ao profeta Isaías.
+\v At.8.29
+E o Espírito disse a Filipe: Aproxima-te, e ajunta-te a esta carruagem.
+\v At.8.30
+E Filipe, correndo, ouviu que ele estava lendo ao profeta Isaías, e disse: Tu entendes o que estás lendo?
+\v At.8.31
+E ele disse: Como eu poderia, se alguém não me ensinar? E pediu a Filipe que subisse e se sentasse com ele.
+\v At.8.32
+E o lugar da Escritura que ele estava lendo era este: Como ovelha ele foi levado ao matadouro, e como um cordeiro mudo fica diante do que o tosquia, assim 
+\added
+também
+\*added
+ ele não abriu sua boca.
+\v At.8.33
+Em sua humilhação foi tirado seu julgamento; e quem anunciará sua geração? Porque da terra sua vida é tirada.
+\v At.8.34
+E respondendo o eunuco a Filipe, disse: Eu te rogo, de quem o profeta diz isto? De si mesmo, ou de alguém outro?
+\v At.8.35
+E Filipe, abrindo sua boca, e começando desta escritura, anunciou-lhe o Evangelho 
+\added
+de
+\*added
+ Jesus.
+\v At.8.36
+E enquanto eles iam caminhando, chegaram a uma certa 
+\added
+porção
+\*added
+ de água; e o eunuco disse: Eis aqui água; o que me impede de ser batizado?
+\v At.8.37
+E Filipe disse: Se tu crês de todo coração, 
+\added
+então
+\*added
+ é lícito;E respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.
+\v At.8.38
+E ele mandou parar a carruagem; e desceram ambos à água, tanto Filipe como o eunuco; e ele o batizou.
+\v At.8.39
+E quando eles subiram da água, o Espírito do Senhor arrebatou a Filipe, e o eunuco não mais o viu, porque ele foi 
+\added
+em
+\*added
+ seu caminho com alegria.
+\v At.8.40
+Mas Filipe se achou em Azoto; e passando, anunciava ao Evangelho 
+\added
+em
+\*added
+ todas as cidades, até que veio a Cesareia.
+\v At.9.1
+E Saulo, ainda assoprando ameaças e mortes contra os discípulos do Senhor, foi ao chefe dos sacerdotes.
+\v At.9.2
+E pediu-lhe cartas para Damasco, para as sinagogas, para que se achasse alguns deste caminho, tanto homens como mulheres, ele 
+\added
+os
+\*added
+ trouxesse presos a Jerusalém.
+\v At.9.3
+E indo, aconteceu que chegando perto de Damasco, repentinamente brilhou ao redor dele uma luz do céu.
+\v At.9.4
+E caindo em terra, ouviu ma voz lhe dizendo: Saulo, Saulo, por que me persegues?
+\v At.9.5
+E ele disse: Quem és, Senhor?E o Senhor disse
+:
+ Eu sou Jesus, a quem tu persegues; duro é para ti dar coices contra os aguilhões.
+\v At.9.6
+E ele, tremendo e atônito, disse: Senhor, que queres que eu faça?E o Senhor lhe 
+\added
+disse
+\*added
+ :
+ Levanta-te
+, e entra na cidade; e 
+\added
+ali
+\*added
+ te será dito o que deves fazer.
+\v At.9.7
+E os homens que viajavam com ele pararam emudecidos, ouvindo, de fato, a voz, porém não vendo ninguém.
+\v At.9.8
+E Saulo se levantou da terra e, tendo aberto seus olhos, não via ninguém; e sendo guiado pela mão, levaram-no a Damasco.
+\v At.9.9
+E ele estava três dias sem ver; e não comeu, nem bebeu.
+\v At.9.10
+E havia em Damasco um certo discípulo, de nome Ananias; e disse-lhe o Senhor em visão: Ananias!E ele respondeu: Eis-me aqui, Senhor!
+\v At.9.11
+E o Senhor lhe 
+\added
+disse
+\*added
+ : Levanta-te, e vai a rua chamada Direita, e pergunta na casa de Judas por um chamado Saulo, de Tarso; porque que ele ora.
+\v At.9.12
+E ele viu em visão que um homem, de nome Ananias, entrava, e sobre ele punha a mão, para que voltasse a ver.
+\v At.9.13
+E Ananias respondeu: Senhor, eu ouvi de muitos sobre este homem, quantos males ele tem feito aos teus santos em Jerusalém;
+\v At.9.14
+E aqui ele tem poder dos chefes dos sacerdotes para prender a todos os que invocam o teu nome.
+\v At.9.15
+Mas o Senhor lhe disse: Vai, porque este me é um vaso escolhido para levar meu nome diante dos gentios, e dos reis, e dos filhos de Israel;
+\v At.9.16
+Porque eu mostrarei a ele o quanto ele deve sofrer por causa do meu nome.
+\v At.9.17
+E Ananias foi, e entrou na casa; e pondo as mãos sobre ele, disse: Irmão Saulo, o Senhor, 
+\added
+que é
+\*added
+ Jesus, aquele que apareceu a ti no caminho, me enviou para que tu voltes a ver, e sejas cheio do Espírito Santo.
+\v At.9.18
+E logo lhe caíram como que escamas dos olhos, e imediatamente voltou a ver; e levantando-se, foi batizado.
+\v At.9.19
+E ao comer, ele se fortaleceu. E Saulo ficou alguns dias com os discípulos 
+\added
+que estavam
+\*added
+ em Damasco.
+\v At.9.20
+E logo nas sinagogas pregava a Cristo, 
+\added
+dizendo
+\*added
+ que aquele era o Filho de Deus.
+\v At.9.21
+E todos os que o ouviam ficavam admirados, e diziam: Não é este aquele que em Jerusalém tentava destruir aos que invocavam este nome? E 
+\added
+não foi
+\*added
+ para isso 
+\added
+que
+\*added
+ ele veio aqui, para os levar presos aos chefes dos sacerdotes?
+\v At.9.22
+Mas Saulo se esforçava muito mais, e confundia aos judeus que habitavam em Damasco, provando que aquele era o Cristo.
+\v At.9.23
+E passados vários dias, os judeus tiveram conselho entre si para o matarem.
+\v At.9.24
+Mas as ciladas deles foram conhecidas por Saulo; e eles vigiavam as portas, tanto de dia como de noite, para poderem matá-lo.
+\v At.9.25
+Porém os discípulos, tomando-o de noite, levaram-no abaixo pelo muro em um cesto.
+\v At.9.26
+E Saulo, tendo vindo a Jerusalém, procurava se juntar aos discípulos; mas todos tinham medo dele, não crendo que fosse discípulo.
+\v At.9.27
+Mas Barnabás, tomando-o consigo, trouxe 
+\added
+-o
+\*added
+ aos apóstolos, e contou-lhes como no caminho tinha visto ao Senhor, e tinha lhe falado, e como em Damasco tinha falado ousadamente no nome de Jesus.
+\v At.9.28
+E ele estava junto deles, entrando e saindo em Jerusalém;
+\v At.9.29
+E falando ousadamente no nome do Senhor Jesus;
+ falava e discutia também contra os gregos; mas eles procuravam matá-lo.
+\v At.9.30
+E os irmãos, ao perceberem 
+\added
+isto
+\*added
+, o levaram até Cesareia, e o enviaram a Tarso.
+\v At.9.31
+Então as igrejas por toda a Judeia, e Galileia, e Samaria, tinham paz, e eram edificadas; e andando no temor do Senhor, e 
+\added
+na
+\*added
+ consolação do Espírito Santo, se multiplicavam.
+\v At.9.32
+E aconteceu que, Pedro, passando por todos 
+\added
+os lugares
+\*added
+, veio também aos santos que habitavam em Lida.
+\v At.9.33
+E ali ele achou a um certo homem chamado Enéas, que havia oito anos que jazia numa cama, que era paralítico.
+\v At.9.34
+E Pedro lhe disse: Enéas, Jesus Cristo te cura; levanta-te, e faz tua cama. E logo ele se levantou.
+\v At.9.35
+E todos os que habitavam em Lida e Sarona o viram, os quais se converteram ao Senhor.
+\v At.9.36
+E havia em Jope uma certa discípula, de nome Tabita, que traduzido se diz Dorcas. 
+\fn
+Dorcas = equiv. gazela 
+\*fn
+Esta estava cheia de boas obras e doações que ela fazia 
+\added
+aos necessitados
+\*added
+.
+\v At.9.37
+E aconteceu naqueles dias, que tendo ela ficado doente, morreu; e tendo a lavado, puseram-na no compartimento superior.
+\v At.9.38
+E como Lida era perto de Jope, os discípulos, ao ouvirem que Pedro estava ali, mandaram-lhe dois homens, rogando 
+\added
+-lhe
+\*added
+ que não demorasse a vir a eles.
+\v At.9.39
+E Pedro, tendo se levantado, foi com eles; o qual chegou, e 
+\added
+o
+\*added
+ levaram ao compartimento superior, e todas as viúvas o rodearam, chorando, e mostrando 
+\added
+-lhe
+\*added
+ as túnicas e roupas que Dorcas tinha feito quando estava com elas.
+\v At.9.40
+Mas Pedro, pondo para fora a todas; pôs-se de joelhos, e orou; e virando-se para o corpo, disse: Tabita, levanta-te;E ela abriu seus olhos, e vendo a Pedro, sentou-se.
+\v At.9.41
+E ele, dando-lhe a mão, levantou-a; e tendo chamado aos santos, e às viúvas, apresentou-a viva.
+\v At.9.42
+E isto ficou conhecido por toda Jope, e muitos creram no Senhor.
+\v At.9.43
+E aconteceu que ele ficou muitos dias em Jope, com um certo Simão curtidor.
+\v At.10.1
+E havia um certo homem em Cesareia, de nome Cornélio, centurião, do esquadrão chamado Italiano;
+\v At.10.2
+Devoto, e temente a Deus, com toda a sua casa; e que fazia muitas doações ao povo, e continuamente orava a Deus.
+\v At.10.3
+Ele viu claramente em visão, cerca da hora nona do dia, a um anjo de Deus, que vinha a ele, e lhe dizia: Cornélio!
+\v At.10.4
+E ele, olhando-lhe atentamente, e muito atemorizado, disse: O que é, Senhor?E disse-lhe: Tuas orações e doações subiram à memória diante de Deus.
+\v At.10.5
+E agora envia homens a Jope, e manda chamar a Simão, que tem por sobrenome Pedro.
+\v At.10.6
+Este está hospedado na casa de um Simão curtidor, cuja casa é junto ao mar; este te dirá o que deves fazer.
 \v At.10.7
 E tendo partido o anjo que falava com Cornélio, ele chamou a dois de seus servos, e a um soldado devoto, dos que permaneciam continuamente com ele.
 \v At.10.8
@@ -2943,21 +3458,17 @@ E o governador, tendo lido
 \added
 a carta
 \*added
-,perguntou de que província ele era; e ao entender que 
+, perguntou de que província ele era; e ao entender que 
 \added
 era
 \*added
  da Cilícia,
 \v At.23.35
-Disse: Eu te ouvirei quando também vierem 
-\added
-aqui
-\*added
- teus acusadores.E mandou que o guardassem na 
-\added
-s dependências da
-\*added
- sala de audiência de Herodes.
+disse: “Eu te ouvirei quando também chegarem os teus acusadores”. E mandou que o guardassem no palácio
+\fn
+Ou: pretório
+\*fn
+ de Herodes.
 \v At.24.1
 E cinco dias depois, desceu o sumo sacerdote Ananias, com os anciãos e um certo orador Tértulo; os quais compareceram diante do governador contra Paulo.
 \v At.24.2

@@ -19,15 +19,15 @@ Como seu divino poder ele tem nos dado tudo o que
 \added
 pertence
 \*added
- à vida e à devoção, por meio do conhecimento daquele que nos chamou à glória e virtude;
+ à vida e à devoção divina, por meio do conhecimento daquele que nos chamou à glória e virtude;
 \v 2Pd.1.4
 Pelas quais nos são dadas grandíssimas e preciosas promessas, para que por meio delas sejais participantes da natureza divina, tendo escapado da corrupção que há no mundo pelo mau desejo.
 \v 2Pd.1.5
 E por isso mesmo, pondo todo o empenho, acrescentai a vossa fé virtude; e à virtude, conhecimento;
 \v 2Pd.1.6
-E ao conhecimento, domínio próprio; e ao domínio próprio, paciência; e à paciência, devoção;
+E ao conhecimento, domínio próprio; e ao domínio próprio, paciência; e à paciência, devoção divina;
 \v 2Pd.1.7
-E à devoção, amor fraternal; e ao amor fraternal, amor.
+E à devoção divina, amor fraternal; e ao amor fraternal, amor.
 \v 2Pd.1.8
 Porque se em vós existirem e abundarem estas coisas, elas não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo.
 \v 2Pd.1.9
@@ -66,10 +66,11 @@ Sabendo primeiramente isto: que nenhuma profecia da Escritura é de interpretaç
 Porque a profecia jamais foi produzida pela vontade humana, mas{tr,rp: os santos homens de Deus falaram}{n4: homens falaram da parte de Deus}{trnc:
 \fn
 TR, RP: os santos homens de Deus falaram – N4: homens falaram da parte de Deus
-\*fn
- } conduzidos pelo Espírito Santo.
+\*fn}
+ conduzidos pelo Espírito Santo.
 \v 2Pd.2.1
-E também houve falsos profetas entre o povo, assim como também haverá falsos instrutores entre vós, que disfarçadamente introduzirão heresias de perdição, e negarão ao Senhor que os comprou, trazendo sobre eles mesmos repentina destruição.
+E também houve falsos profetas entre o povo, assim como também haverá falsos instrutores entre vós, que 
+disfarçadamente introduzirão heresias de perdição, e negarão ao Senhor que os comprou, trazendo sobre eles mesmos repentina destruição.
 \v 2Pd.2.2
 Muitos seguirão suas perdições, e por meio deles o caminho da verdade será insultado.
 \v 2Pd.2.3
@@ -77,13 +78,9 @@ E por ganância, eles vos farão de mercadoria com palavras falsamente inventada
 \v 2Pd.2.4
 Porque se Deus não perdoou aos anjos que pecaram, em vez disso lançando-os no inferno, entregou-os às cadeias da escuridão, tendo sido reservados para o julgamento;
 \v 2Pd.2.5
-Nem perdoou ao mundo antigo, mas guardou a Noé, anunciador da justiça, com outros sete, trazendo o dilúvio sobre o mundo dos perversos;
+Nem perdoou ao mundo antigo, mas guardou a Noé, anunciador da justiça, com outros sete, trazendo o dilúvio sobre o mundo dos ímpios;
 \v 2Pd.2.6
-E condenou as cidades de Sodoma e Gomorra à destruição, reduzindo-as a cinza, e pondo 
-\added
--as
-\*added
- como exemplo para aqueles que vivessem perversamente;
+E condenou as cidades de Sodoma e Gomorra à destruição, reduzindo-as a cinza, e pondo-as como exemplo para os que vivessem impiamente;
 \v 2Pd.2.7
 E livrou ao justo Ló, 
 \added
@@ -99,13 +96,12 @@ enquanto
 \added
 deles
 \*added
- ).
+).
 \v 2Pd.2.9
- 
 \added
 Assim
 \*added
- o Senhor sabe livrar aos devotos das tentações, e reservar aos injustos para o dia do julgamento, para serem punidos.
+ o Senhor sabe livrar os devotos das tentações, e reservar aos injustos para o dia do julgamento, para serem punidos.
 \v 2Pd.2.10
 Porém principalmente aos que segundo a carne andam em mau desejo de impureza, e desprezam as autoridades; atrevidos, agradando a si mesmos, não tendo medo de insultar as 
 \added
@@ -159,7 +155,7 @@ conforme
 \added
 que diz
 \*added
- :	O cão voltou ao seu próprio vômito; e a porca lavada 
+: O cão voltou ao seu próprio vômito; e a porca lavada 
 \added
 voltou
 \*added
@@ -204,7 +200,8 @@ saiu
 \v 2Pd.3.6
 Pelas quais o mundo anterior foi destruído, coberto com as águas do dilúvio.
 \v 2Pd.3.7
-E os céus e a terra que são agora, pela mesma palavra estão reservados, e são guardados para o fogo até o dia do juízo, e da perdição dos homens perversos.
+E os céus e a terra de agora, pela mesma palavra estão reservados, e são guardados para o fogo até o dia do juízo, e 
+da perdição das pessoas ímpias.
 \v 2Pd.3.8
 Mas amados, desta uma coisa não ignoreis: que um dia para o Senhor 
 \added
@@ -226,29 +223,19 @@ Mas o dia do Senhor virá como um ladrão durante a noite, no qual os céus se d
 \added
 há
 \*added
- serão {tr,rp:queimadas}{n4:descobertas}.{trnc:
-\fn
+ serão {tr,rp:queimadas}{n4:descobertas}.
+{trnc:\fn
 N4: descobertas
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP: queimadas
-\*fn
- }
+\*fn}
 \v 2Pd.3.11
- 
-\added
-Dado
-\*added
-,pois, que todas estas coisas estão para serem desfeitas, o tipo de pessoas que vós deveis ser 
-\added
-é
-\*added
- em santo comportamento e piedade,
+Visto, pois, que todas estas coisas estão para serem desfeitas, de que maneira vós deveis ser em santo comportamento e piedade,
 \v 2Pd.3.12
-Esperando, e tendo pressa para a vinda do dia de Deus, pelo qual os céus, ao serem incendiados se desfarão, e os elementos ao serem inflamados se derreterão.
+esperando, e tendo pressa para a vinda do dia de Deus, pelo qual os céus, incendiados, se desfarão, e os elementos, inflamados, se derreterão.
 \v 2Pd.3.13
-Porém, segundo sua promessa, aguardamos novos céus e nova terra, em que a justiça habita.
+Porém, segundo a sua promessa, aguardamos novos céus e nova terra, em que a justiça habita.
 \v 2Pd.3.14
 Por isso, amados, aguardando essas coisas, procurai que por ele sejais achados incontaminados e irrepreensíveis em paz;
 \v 2Pd.3.15

@@ -31,26 +31,12 @@ em amor.
 \v Ef.1.5
 E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
 \v Ef.1.6
-para louvor de sua gloriosa graça,
-\fn
-Lit. glória de sua graça
-\*fn
- {tr,rp:pela}{n4:a} qual{trnc: 
-\fn
-N4: a qual 
-\*fn
-}{n4: 
-\fn
-TR, RP: pela qual 
-\*fn
-} nos agraciou
-{tr,rp:
-\fn
-Isto é, nos tornou aceitáveis
+para louvor da glória de sua graça, {tr,rp:pela qual nos fez aceitáveis}{n4:a qual nos concedeu gratuitamente}
+{trnc:\fn
+N4: a qual nos concedeu gratuitamente
 \*fn}
-{n4:
-\fn
-Isto é, nos concedeu gratuitamente
+{n4:\fn
+TR, RP: pela qual nos fez aceitáveis
 \*fn}
  no Amado.
 \v Ef.1.7
@@ -58,10 +44,7 @@ Nele temos a libertação
 \fn
 Ou: redenção, isto é, a libertação por meio do pagamento de um resgate
 \*fn
- pelo seu sangue, o perdão dos pecados, conforme a sua rica graça,
-\fn
-Lit. as riquezas de sua graça
-\*fn
+ pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
 \v Ef.1.8
 que ele fez transbordar em nós em toda sabedoria e prudência.
 \v Ef.1.9
@@ -123,36 +106,25 @@ Lit. Pai da glória
 \*fn
 , vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
 \v Ef.1.18
-e que sejam iluminados os olhos do vosso {tr:entendimento}{rp,n4:coração},{trnc: 
-\fn
+e que sejam iluminados os olhos do vosso {tr:entendimento}{rp,n4:coração},
+{trnc: \fn
 RP, N4: coração 
-\*fn
-} para que conheçais qual é a esperança para a qual ele chamou, quais 
+\*fn}
+ para que conheçais qual é a esperança para a qual ele chamou, quais 
 \added
 são
 \*added
- as riquezas da herança gloriosa
+ as riquezas da gloriosa herança
 \fn
 Lit. glória da herança
 \*fn
  dele nos santos,
 \v Ef.1.19
-e qual é a superabundante grandeza de seu poder para nós, que cremos, conforme a operação da sua poderosa força.
+e qual é a superabundante grandeza do seu poder para nós, que cremos, conforme a operação da sua poderosa força,
 \v Ef.1.20
-Ele operou essa força
-\fn
-\key
-essa força
-\*key
-Lit. Ele a operou. “essa força” adicionado para aumentar a clareza
-\*fn
- em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
+a qual ele operou em Cristo, ressuscitando-o dos mortos; e o colocou à direita dele nos céus,
 \v Ef.1.21
-acima de todo governo, autoridade, poder, domínio, e 
-\added
-acima
-\*added
- de todo nome que se nomeia, não só nesta era, mas também na futura.
+acima de todo governo, autoridade, poder, domínio, e de todo nome que se nomeia, não só nesta era, mas também na futura.
 \v Ef.1.22
 Ele também sujeitou todas as coisas debaixo dos seus pés, e o constituiu por cabeça sobre todas as coisas 
 para a Igreja,
@@ -239,9 +211,9 @@ Ele veio, e proclamou o evangelho da paz a vós que
 estáveis
 \*added
  longe, e{n4: paz}
- {trnc:\fn
+{trnc:\fn
  N4: e paz
- \*fn}
+\*fn}
  aos que estavam perto.
 \v Ef.2.18
 Pois por meio dele ambos temos acesso ao Pai por um 
@@ -341,15 +313,14 @@ Ou, tradicionalmente: dispensação
 \*fn}{trnc: 
 \fn
 RP, N4: dispensação 
-\*fn
-} do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas{tr,rp: por meio de 
-Jesus Cristo},{trnc: 
-\fn
+\*fn}
+ do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas{tr,rp: por meio de 
+Jesus Cristo},
+{trnc:\fn
 N4 omite “por meio de Jesus Cristo” 
-\*fn
-}{n4: 
-\fn
-TR, RP acrescentam “por meio de Jesus Cristo” ao final do versículo 
+\*fn}
+{n4:\fn
+TR, RP contêm adicionalmente “por meio de Jesus Cristo” ao final do versículo 
 \*fn}
 \v Ef.3.10
 para que a multiforme sabedoria de Deus seja agora manifestada pela igreja aos domínios e autoridades nos lugares celestes,
@@ -371,12 +342,11 @@ vos
 \*added
  peço que não vos desanimeis em minhas aflições por vós. Elas são a vossa glória.
 \v Ef.3.14
-Por causa disso me ponho de joelhos diante do Pai{tr,rp: do nosso Senhor Jesus Cristo};{trnc: 
-\fn
+Por causa disso me ponho de joelhos diante do Pai{tr,rp: do nosso Senhor Jesus Cristo};
+{trnc: \fn
 N4 omite “do nosso Senhor Jesus Cristo” 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “do nosso Senhor Jesus Cristo” ao fim do versículo 
 \*fn}
 \v Ef.3.15
@@ -595,14 +565,13 @@ sois
 \*added
  luz no Senhor; andai como filhos da luz
 \v Ef.5.9
-(porque o fruto {tr,rp:do Espírito}{n4:da luz}{trnc: 
-\fn
+(porque o fruto {tr,rp:do Espírito}{n4:da luz}
+{trnc:\fn
 N4: fruto da luz 
-\*fn}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP: fruto do Espírito 
-\*fn
-} 
+\*fn}
 \added
 consiste
 \*added

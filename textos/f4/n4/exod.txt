@@ -148,7 +148,7 @@ E desci para livrá-los da mão dos egípcios, e tirá-los daquela terra a uma t
 \v Ex.3.9
 O clamor, pois, dos filhos de Israel veio diante de mim, e também vi a opressão com que os egípcios os oprimem.
 \v Ex.3.10
-Vem, portanto, agora, e te enviarei a Faraó, para que tires a meu povo, os filhos de Israel, do Egito.
+Vem, pois, agora, e te enviarei a Faraó, para que tires meu povo, os filhos de Israel, do Egito.
 \v Ex.3.11
 Então Moisés respondeu a Deus: Quem sou eu, para que vá a Faraó, e tire do Egito aos filhos de Israel?
 \v Ex.3.12
@@ -292,7 +292,8 @@ E também estabeleci meu pacto com eles, de dar-lhes a terra de Canaã, a terra 
 \v Ex.6.5
 E também eu ouvi o gemido dos filhos de Israel, aos quais fazem servir os egípcios, e lembrei-me de meu pacto.
 \v Ex.6.6
-Portanto dirás aos filhos de Israel: EU SOU O SENHOR; e eu vos tirarei de debaixo das cargas do Egito, e vos livrarei de sua servidão, e vos redimirei com braço estendido, e com juízos grandes:
+Portanto dirás aos filhos de Israel: EU SOU O SENHOR; e eu vos tirarei de debaixo das cargas do Egito, e vos 
+livrarei de sua servidão, e vos resgatarei com braço estendido, e com grandes juízos;
 \v Ex.6.7
 E vos tomarei por meu povo e serei vosso Deus: e vós sabereis que eu sou o SENHOR vosso Deus, que vos tiro de debaixo das cargas do Egito:
 \v Ex.6.8
@@ -731,9 +732,9 @@ Sete dias comerás sem levedar, e o sétimo dia será festa ao SENHOR.
 \v Ex.13.7
 Por os sete dias se comerão os pães sem levedura; e não se verá contigo levedado, nem levedura ao todo teu termo.
 \v Ex.13.8
-E contarás naquele dia a teu filho, dizendo: Faze-se isto com motivo do que o SENHOR fez comigo quando me tirou do Egito.
+E contarás naquele dia a teu filho, dizendo: Isto se faz por causa do que o SENHOR fez comigo quando me tirou do Egito.
 \v Ex.13.9
-E será para ti como um sinal sobre tua mão, e como uma memória diante de teus olhos, para que a lei do SENHOR esteja em tua boca; porquanto com mão forte te tirou o SENHOR do Egito.
+E será para ti como um sinal sobre tua mão, e como uma memória diante de teus olhos, para que a lei do SENHOR esteja na tua boca; pois com mão forte te tirou o SENHOR do Egito.
 \v Ex.13.10
 Portanto, tu guardarás este rito em seu tempo de ano em ano.
 \v Ex.13.11
@@ -741,11 +742,13 @@ E quando o SENHOR te houver posto na terra dos cananeus, como jurou a ti e a teu
 \v Ex.13.12
 Farás passar ao SENHOR todo o que abrir a madre, também todo primeiro que abrir a madre de teus animais: os machos serão do SENHOR.
 \v Ex.13.13
-Mas todo primogênito de asno redimirás com um cordeiro; e se não o redimires, o degolarás: também redimirás todo humano primogênito de teus filhos.
+Mas todo primogênito de asno resgatarás com um cordeiro; e se não o resgatares, o degolarás: também resgatarás todo homem primogênito de teus filhos.
 \v Ex.13.14
 E quando amanhã te perguntar teu filho, dizendo: Que é isto? Tu lhe dirás: o SENHOR tirou com mão forte do Egito, de casa de servidão;
 \v Ex.13.15
-E endurecendo-se Faraó em não nos deixar ir, o SENHOR matou na terra do Egito a todo primogênito, desde o primogênito humano até o primogênito do animal: e por esta causa eu sacrifício ao SENHOR todo primogênito macho, e redimo todo primogênito de meus filhos.
+E endurecendo-se Faraó em não nos deixar ir, o SENHOR matou na terra do Egito a todo primogênito, desde 
+o primogênito homem até o primogênito do animal; e por esta causa eu sacrifico ao SENHOR todo primogênito macho, e resgato 
+todo primogênito de meus filhos.
 \v Ex.13.16
 Será para ti, pois, como um sinal sobre tua mão, e por uma memória diante de teus olhos; já que o SENHOR tirou do Egito com mão forte.
 \v Ex.13.17
@@ -779,17 +782,17 @@ E endureceu o SENHOR o coração de Faraó rei do Egito, e seguiu aos filhos de 
 \v Ex.14.9
 Seguindo-os, pois, os egípcios, com toda a cavalaria e carros de Faraó, seus cavaleiros, e todo seu exército, alcançaram-nos assentando o acampamento junto ao mar, ao lado de Pi-Hairote, diante de Baal-Zefom.
 \v Ex.14.10
-E quando Faraó se aproximou, os filhos de Israel levantaram seus olhos, e eis que os egípcios que vinham atrás eles; pelo que temeram em grande maneira, e clamaram os filhos de Israel ao SENHOR.
+E quando Faraó se aproximou, os filhos de Israel levantaram seus olhos, e eis que os egípcios vinham atrás deles; por isso temeram muito, e os filhos de Israel clamaram ao SENHOR.
 \v Ex.14.11
-E disseram a Moisés: Não havia sepulcros no Egito, que nos hás tirado para que morramos no deserto? Por que o fizeste assim conosco, que nos tiraste do Egito?
+E disseram a Moisés: Não havia sepulcros no Egito, que nos tiraste para morrermos no deserto? Por que o fizeste assim conosco, que nos tiraste do Egito?
 \v Ex.14.12
-Não é isto o que te falamos no Egito, dizendo: Deixa-nos servir aos egípcios? Que melhor nos fora servir aos egípcios, que morrermos no deserto.
+Não é isto o que te falamos no Egito, dizendo: Deixa-nos servir aos egípcios? Pois melhor nos teria sido servir aos egípcios, que morrermos no deserto.
 \v Ex.14.13
 E Moisés disse ao povo: Não temais; ficai quietos, e vede a salvação do SENHOR, que ele fará hoje convosco; porque os egípcios que hoje vistes, nunca mais para sempre os vereis.
 \v Ex.14.14
-O SENHOR lutará por vós, e vós estareis quietos.
+O SENHOR lutará por vós, e vós ficai quietos.
 \v Ex.14.15
-Então o SENHOR disse a Moisés: Por que clamas a mim? Dize aos filhos de Israel que marchem.
+Então o SENHOR disse a Moisés: Por que clamas a mim? Diz aos filhos de Israel que marchem.
 \v Ex.14.16
 E tu ergue tua vara, e estende tua mão sobre o mar, e divide-o; e entrem os filhos de Israel por meio do mar em seco.
 \v Ex.14.17
@@ -803,9 +806,9 @@ E ia entre o acampamento dos egípcios e o acampamento de Israel; e era nuvem e 
 \v Ex.14.21
 E estendeu Moisés sua mão sobre o mar, e fez o SENHOR que o mar se retirasse por forte vento oriental toda aquela noite; e tornou o mar em seco, e as águas restaram divididas.
 \v Ex.14.22
-Então os filhos de Israel entraram por meio do mar em seco, tendo as águas como muro à sua direita e à sua esquerda:
+Então os filhos de Israel entraram por meio do mar em seco, tendo as águas como muro à sua direita e à sua esquerda;
 \v Ex.14.23
-E seguindo-os os egípcios, entraram atrás eles até o meio do mar, toda a cavalaria de Faraó, seus carros, e seus cavaleiros.
+E seguindo-os os egípcios, entraram atrás deles até o meio do mar, toda a cavalaria de Faraó, seus carros, e seus cavaleiros.
 \v Ex.14.24
 E aconteceu à vigília da manhã, que o SENHOR olhou ao campo dos egípcios desde a coluna de fogo e nuvem, e perturbou o acampamento dos egípcios.
 \v Ex.14.25
@@ -833,19 +836,19 @@ Os carros de Faraó e a seu exército lançou no mar; E seus escolhidos príncip
 \v Ex.15.5
 Os abismos os cobriram; Como pedra desceram aos profundos.
 \v Ex.15.6
-Tua direita, ó SENHOR, foi engrandecida em força; Tua direita, ó SENHOR, quebrantou ao inimigo.
+Tua mão direita, ó SENHOR, foi engrandecida em força; Tua mão direita, ó SENHOR, quebrantou ao inimigo.
 \v Ex.15.7
 E com a grandeza de tua poder transtornaste aos que se levantaram contra ti: Enviaste teu furor; os tragou como o restolho.
 \v Ex.15.8
 Com o sopro de tuas narinas se amontoaram as águas; Pararam-se as correntezas como em um amontoado; Os abismos se solidificaram em meio do mar.
 \v Ex.15.9
-O inimigo disse: Perseguirei, prenderei, repartirei despojos; Minha alma se encherá deles; Tirarei minha espada, destruí-los há minha mão.
+O inimigo disse: Perseguirei, prenderei, repartirei despojos; Minha alma se encherá deles; Tirarei minha espada, minha mão os destruirá.
 \v Ex.15.10
 Sopraste com teu vento, cobriu-os o mar: Afundaram-se como chumbo nas impetuosas águas.
 \v Ex.15.11
 Quem como tu, SENHOR, entre os deuses? Quem como tu, magnífico em santidade, Terrível em louvores, autor de maravilhas?
 \v Ex.15.12
-Estendeste tua direita; A terra os tragou.
+Estendeste a tua mão direita; a terra os tragou.
 \v Ex.15.13
 Conduziste em tua misericórdia a este povo, ao qual salvaste; Levaste-o com tua força à habitação de teu santuário.
 \v Ex.15.14
@@ -877,7 +880,8 @@ E disse: Se ouvires atentamente a voz do SENHOR teu Deus, e fizeres o correto di
 \v Ex.15.27
 E chegaram a Elim, onde havia doze fontes de águas, e setenta palmeiras; e assentaram ali junto às águas.
 \v Ex.16.1
-E partindo de Elim toda a congregação dos filhos de Israel, veio ao deserto de Sim, que está entre Elim e Sinai, aos quinze dias do segundo mês depois que saíram da terra do Egito.
+Depois que partiram de Elim, toda a congregação dos filhos de Israel veio ao deserto de Sim, que está entre Elim e Sinai, 
+aos quinze dias do segundo mês depois que saíram da terra do Egito.
 \v Ex.16.2
 E toda a congregação dos filhos de Israel murmurou contra Moisés e Arão no deserto;
 \v Ex.16.3
@@ -889,9 +893,12 @@ Mas ao sexto dia prepararão o que coletarem, que será o dobro do que costumam 
 \v Ex.16.6
 Então disse Moisés e Arão a todos os filhos de Israel: À tarde sabereis que o SENHOR vos tirou da terra do Egito:
 \v Ex.16.7
-E à manhã vereis a glória do SENHOR; porque ele ouviu vossas murmurações contra o SENHOR; que nós, que somos, para que vós murmureis contra nós?
+E à próxima manhã vereis a glória do SENHOR; porque ele ouviu as vossas murmurações contra o SENHOR; pois quem 
+somos nós, para que vós murmureis contra nós?
 \v Ex.16.8
-E disse Moisés: o SENHOR vos dará à tarde carne para comer, e à manhã pão em fartura; porquanto o SENHOR ouviu vossas murmurações com que murmurastes contra ele: que nós, que somos? vossas murmurações não são contra nós, mas sim contra o SENHOR.
+E disse Moisés: o SENHOR vos dará à tarde carne para comer, e à manhã pão em fartura; pois o SENHOR 
+ouviu as vossas murmurações com que murmurais contra ele; pois quem somos nós? As vossas murmurações não são 
+contra nós, mas sim contra o SENHOR.
 \v Ex.16.9
 E disse Moisés a Arão: Dize a toda a congregação dos filhos de Israel: Aproximai-vos à presença do SENHOR; que ele ouviu vossas murmurações.
 \v Ex.16.10
@@ -919,9 +926,10 @@ Mas eles não obedeceram a Moisés, mas sim que alguns deixaram dele para outro 
 \v Ex.16.21
 E recolhiam-no cada manhã, cada um segundo o que havia de comer: e logo que o sol aquecia, derretia-se.
 \v Ex.16.22
-No sexto dia recolheram dobrada comida, dois gômeres para cada um: e todos os príncipes da congregação vieram a Moisés, e se o fizeram saber.
+No sexto dia recolheram comida em dobro, dois gômeres para cada um; e todos os príncipes da congregação vieram a Moisés, e contaram-lhe isso.
 \v Ex.16.23
-E ele lhes disse: Isto é o que disse o SENHOR: Amanhã é o santo sábado, o repouso do SENHOR: o que houverdes de cozer, cozei-o hoje, e o que houverdes de cozinhar, cozinhai-o; e todo o que vos sobrar, guardai-o para amanhã.
+E ele lhes disse: Isto é o que o SENHOR disse: Amanhã é o repouso, o santo sábado do SENHOR; o que houverdes de assar, 
+assai-o hoje, e o que houverdes de cozinhar, cozinhai-o; e tudo o que vos sobrar, guardai-o para amanhã.
 \v Ex.16.24
 E eles o guardaram até a manhã, segundo que Moisés havia mandado, e não se apodreceu, nem houve nele bicho.
 \v Ex.16.25
@@ -945,7 +953,8 @@ E disse Moisés a Arão: Toma um vaso e põe nele um gômer cheio de maná, e p�
 \v Ex.16.34
 E Arão o pôs diante do testemunho para guardá-lo, como o SENHOR o mandou a Moisés.
 \v Ex.16.35
-Assim comeram os filhos de Israel maná quarenta anos, até que entraram na terra habitada; maná comeram, até que chegaram ao termo da terra de Canaã.
+Assim os filhos de Israel comeram maná por quarenta anos, até que entraram em terra habitada; comeram maná até que chegaram 
+ao limite da terra de Canaã.
 \v Ex.16.36
 E um gômer é a décima parte do efa.
 \v Ex.17.1
@@ -1481,7 +1490,7 @@ E um côvado da uma parte, e outro côvado da outra que sobra no comprimento das
 \v Ex.26.14
 Farás também à tenda uma coberta de couros de carneiros, tingidos de vermelho, e uma coberta de couros finos encima.
 \v Ex.26.15
-E farás para o tabernáculo tábuas de madeira de acácia, que estejam direitas.
+E farás para o tabernáculo tábuas de madeira de acácia, que estejam na vertical.
 \v Ex.26.16
 O comprimento de cada tábua será de dez côvados, e de côvado e meio a largura de cada tábua.
 \v Ex.26.17
@@ -2013,7 +2022,7 @@ A festa dos pães ázimos guardarás: sete dias comerás sem levedar, segundo te
 \v Ex.34.19
 Todo o que abre madre, meu é; e de teu gado todo primeiro de vaca ou de ovelha que for macho.
 \v Ex.34.20
-Porém redimirás com cordeiro o primeiro do asno; e se não o redimires, lhe hás de cortar a cabeça. Redimirás todo primogênito de teus filhos, e não serão vistos vazios diante de mim.
+Porém resgatarás com cordeiro o primeiro do asno; e se não o resgatares, lhe cortarás a cabeça. Resgatarás todo primogênito de teus filhos, e não serão vistos vazios diante de mim.
 \v Ex.34.21
 Seis dias trabalharás, mas no sétimo dia cessarás: cessarás ainda na arada e na colheita.
 \v Ex.34.22

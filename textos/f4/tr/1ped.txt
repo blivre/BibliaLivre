@@ -431,14 +431,10 @@ sofre
 \v 1Pd.4.17
 Pois já é tempo do julgamento começar pela casa de Deus; e se é primeiro conosco, qual será o fim daqueles que são desobedientes ao Evangelho de Deus?
 \v 1Pd.4.18
-E se o justo se salva com dificuldade, o que será do
-\fn
-\key
-o que será do
-\*key
-lit. onde comparecerá
-\*fn
- irreverente a Deus e pecador?
+E se o justo se salva com dificuldade, em que situação aparecerá o ímpio e pecador?
+\ref
+Provérbios 11:31
+\*ref
 \v 1Pd.4.19
 Portanto, os que sofrem segundo a vontade de Deus, confiem suas almas ao fiel Criador, fazendo o bem.
 \v 1Pd.5.1

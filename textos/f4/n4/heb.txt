@@ -396,10 +396,10 @@ texto
 Salmos 110:4 
 \*ref
 \v Hb.5.7
-Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para aquele que podia o livrar da morte, e foi ouvido por causa da reverência.
+Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
 \fn
 \key
-reverência
+devoção
 \*key
 ou: temor
 \*fn
@@ -436,11 +436,13 @@ da doutrina dos batismos, da imposição das mãos, da ressurreição dos mortos
 E isso faremos,
  se Deus permitir.
 \v Hb.6.4
-Pois é impossível que os que uma vez foram iluminados, e experimentaram o dom celestial, e foram feitos participantes do Espírito Santo,
+Pois é impossível que os que uma vez foram iluminados, e experimentaram o dom celestial, e foram feitos 
+participantes do Espírito Santo,
 \v Hb.6.5
 e experimentaram a boa palavra de Deus, e os poderes do mundo futuro;
 \v Hb.6.6
-e caíram, outra vez renová-los para o arrependimento; já que estão novamente crucificando o Filho de Deus para si mesmos, e expondo-o à vergonha pública.
+e então caíram, outra vez renová-los para o arrependimento, porque estão novamente crucificando o 
+Filho de Deus para si mesmos, e o expondo à vergonha pública.
 \fn
 \key
 conversão
@@ -520,23 +522,11 @@ onde,
 \added
 como
 \*added
- precursor,
-\fn
-\key
-precursor
-\*key
-i.e., aquele que chega antes
-\*fn
- Jesus entrou para nos favorecer,
-\fn
-\key
-para nos favorecer
-\*key
-lit. por nós
-\*fn
- pois ele se tornou Sumo Sacerdote para sempre, segundo a ordem de Melquisedeque.
+ precursor, Jesus entrou para nosso benefício, pois ele se tornou Sumo Sacerdote 
+para sempre, segundo a ordem de Melquisedeque.
 \v Hb.7.1
-Porque este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, o qual se encontrou com Abraão, que estava retornando da matança dos reis, e o abençoou;
+Porque este Melquisedeque, rei de Salém, sacerdote do Deus Altíssimo, o qual se encontrou com 
+Abraão, que estava retornando da matança dos reis, e o abençoou;
 \v Hb.7.2
 a quem também Abraão deu o dízimo de tudo; primeiramente significa Rei de justiça, e depois também rei de Salém, que é, rei de paz;
 \v Hb.7.3
@@ -1430,7 +1420,7 @@ graça
 ou: gratidão
 \*fn
  e por ela sirvamos
- a Deus de maneira que o agrade, com reverência e temor,
+ a Deus de maneira que o agrade, com devoção e temor,
 \fn
 \key
 temor
@@ -1456,11 +1446,11 @@ vossos
 O matrimônio seja honrado entre todos, e o leito conjugal sem contaminação; pois
  Deus julgará os pecadores sexuais e os adúlteros.
 \v Hb.13.5
-O 
+A 
 \added
-vosso
+vossa
 \*added
- modo de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, nem te desampararei. 
+ maneira de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, nem te desampararei.
 \ref
 Deuteronômio 31:6 
 \*ref
@@ -1512,7 +1502,7 @@ a eles
 \added
 delas
 \*added
- ; para que o façam com alegria, e não gemendo, porque isso não vos seria proveitoso.
+; para que o façam com alegria, e não gemendo, porque isso não vos seria proveitoso.
 \v Hb.13.18
 Orai por nós; porque estamos convencidos de
  que temos boa consciência, e desejamos nos comportar da maneira correta em tudo.

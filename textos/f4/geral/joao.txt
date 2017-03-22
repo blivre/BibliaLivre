@@ -727,7 +727,7 @@ Sabendo pois Jesus que viriam, e o tomariam, para fazê-lo rei, voltou a se reti
 \v Jo.6.16
 E quando veio o entardecer, seus discípulos desceram para o mar.
 \v Jo.6.17
-E entrando no barco, vieram da outro lado do mar para Cafarnaum. E era já escuro, e Jesus 
+E entrando no barco, vieram do outro lado do mar para Cafarnaum. E era já escuro, e Jesus 
 \added
 ainda
 \*added
@@ -2241,7 +2241,8 @@ E o levaram primeiramente a Anás, porque era sogro de Caifás, o qual era o sum
 \v Jo.18.14
 E era Caifás o que havia aconselhado aos judeus de que convinha que um homem morresse pelo povo.
 \v Jo.18.15
-E Simão Pedro seguia a Jesus com outro discípulo. E este discípulo era conhecido do sacerdote, e entrou com Jesus na sala do sacerdote.
+E Simão Pedro seguia a Jesus com outro discípulo. E este discípulo era conhecido do sacerdote, e entrou com Jesus no 
+pátio do sumo sacerdote.
 \v Jo.18.16
 E Pedro estava fora à porta. Saiu pois o outro discípulo, que era conhecido do sacerdote, e falou à porteira, e pôs dentro a Pedro.
 \v Jo.18.17

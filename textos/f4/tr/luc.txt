@@ -11,67 +11,60 @@ Lc
 LUK
 \*ubs-code
 \v Lc.1.1
-Uma vez que muitos empreenderam pôr em ordem o relato das coisas que se cumpriram entre nós,
+Como muitos empreenderam pôr em ordem o relato das coisas que entre nós se cumpriram,
 \v Lc.1.2
-Assim como eles, os que desde o princípio viram 
+conforme os que 
 \added
-tais coisas
+as
 \*added
-, e foram ministros das palavra, nos entregaram,
+ viram que desde o princípio, e foram servidores das palavra, nos transmitiram,
 \v Lc.1.3
-Pareceu-me bom que também eu, que tenho me informado com exatidão desde o princípio, escrevesse 
-\added
-estas coisas
-\*added
- em ordem para ti, excelentíssimo Teófilo,
+pareceu-me bom que também eu, que tenho me informado com exatidão desde o princípio, escrevesse-as em ordem a ti, 
+caríssimo Teófilo,
 \v Lc.1.4
-Para que tenhas a certeza das coisas de que foste ensinado.
+para que conheças a certeza das coisas de que foste ensinado.
 \v Lc.1.5
-Houve nos dias de Herodes, rei da Judeia, um sacerdote, por nome Zacarias, da ordem de Abias; e sua mulher das filhas de Arão, e 
-\added
-era
-\*added
- seu nome Isabel.
+Houve nos dias de Herodes, rei da Judeia, um sacerdote chamado Zacarias, da ordem de Abias; sua mulher das filhas de 
+Arão, e o seu nome era Isabel.
 \v Lc.1.6
-E eram ambos justos diante de Deus, andando em todos os mandamentos e preceitos do Senhor sem repreensão.
+E ambos eram justos diante de Deus; andavam sem repreensão em todos os mandamentos e preceitos do Senhor.
 \v Lc.1.7
-E não tinham filhos, porque Isabel era estéril, e ambos tinham muitos anos de vida. 
+Mas não tinham filho, porque Isabel era estéril, e ambos tinham idade avançada.
 \fn
 \key
-tinham muitos anos de vida
+tinham idade avançada
 \*key
 lit. eram avançados em dias 
 \*fn
 \v Lc.1.8
-E aconteceu que, fazendo ele o trabalho sacerdotal diante de Deus, na ordem de sua vez,
+E aconteceu que, quando ele fazia o trabalho sacerdotal diante de Deus, na ordem da sua turma,
 \v Lc.1.9
-Conforme o costume do sacerdócio, lhe caiu em sorte entrar no santuário do Senhor, para oferecer o incenso.
+conforme o costume do sacerdócio, foi sorteado a entrar no santuário do Senhor para oferecer o incenso.
 \v Lc.1.10
-E toda a multidão do povo estava fora orando, na hora do incenso.
+E toda a multidão do povo estava fora orando, à hora do incenso.
 \v Lc.1.11
-E apareceu-lhe um anjo do Senhor, em pé, à direita do altar do incenso.
+Então um anjo do Senhor lhe apareceu em pé, à direita do altar do incenso.
 \v Lc.1.12
 Quando Zacarias 
 \added
 o
 \*added
- viu, ficou perturbado, e foi tomado pelo medo.
+ viu, perturbou-se, e o medo o tomou.
 \v Lc.1.13
-Mas o anjo lhe disse: Zacarias, não temas, porque tua oração foi ouvida, e tua mulher Isabel dará a ti um filho, e chamarás seu nome João.
+Mas o anjo lhe disse: Zacarias, não temas, pois a tua oração foi ouvida. E Isabel, tua mulher, dará à luz um filho, e 
+lhe porás o nome de João.
 \v Lc.1.14
-E terás prazer e alegria, e muitos se alegrarão de seu nascimento.
+E terás prazer e alegria, e muitos se alegrarão do seu nascimento;
 \v Lc.1.15
-Porque ele será grande diante do Senhor, e não beberá vinho, nem bebida alcoólica, e será cheio do Espírito Santo, já desde o ventre de sua mãe.
+pois ele será grande diante do Senhor, e não beberá vinho nem bebida alcoólica, e será cheio do Espírito Santo, já 
+desde o ventre da sua mãe.
 \v Lc.1.16
-E 
-\added
-ele
-\*added
- converterá a muitos dos filhos de Israel ao Senhor Deus deles.
+E converterá muitos dos filhos de Israel ao Senhor seu Deus.
 \v Lc.1.17
-E irá diante dele no espírito e virtude de Elias, para converter os corações dos pais aos filhos, e os rebeldes à prudência dos justos; para preparar um povo pronto para o Senhor.
+E irá adiante dele no espírito e virtude de Elias, para converter os corações dos pais aos filhos, e os rebeldes à 
+prudência dos justos; a fim de preparar um povo pronto ao Senhor.
 \v Lc.1.18
-E disse Zacarias ao anjo: Como terei certeza disso? Pois eu sou velho, e a minha mulher de idade avançada.
+Então Zacarias disse ao anjo: Como terei certeza disso? Pois sou velho, e a minha mulher de idade avançada.
 \fn
 \key
 idade avançada
@@ -79,45 +72,37 @@ idade avançada
 Lit. avançada em dias
 \*fn
 \v Lc.1.19
-E respondendo o anjo, disse-lhe: Eu sou Gabriel, que fico presente diante de Deus, e fui mandado para falar a ti, e para te dar estas boas notícias.
+O anjo lhe respondeu: Eu sou Gabriel, que fico presente diante de Deus, e fui enviado para te falar e te dar estas 
+boas notícias.
 \v Lc.1.20
-E eis que tu ficarás mudo, e não poderás falar, até o dia em que estas coisas aconteçam, porque não creste nas minhas palavras, que se cumprirão a seu tempo.
+Eis que ficarás mudo, e não poderás falar até o dia em que essas coisas aconteçam, porque não creste nas minhas 
+palavras, que se cumprirão no devido tempo.
 \v Lc.1.21
-E o povo estava esperando a Zacarias, e maravilhavam-se de que demorava no Templo.
+E o povo estava esperando Zacarias, e se surpreenderam de que ele demorava no santuário.
 \v Lc.1.22
-Quando ele saiu, não podia lhes falar; e entenderam que havia tido alguma visão no santuário. E 
-\added
-apenas
-\*added
- lhes fazia gestos, e ficou mudo.
+Quando ele saiu, não conseguia lhes falar; e entenderam que havia tido alguma visão no santuário. Ele lhes fazia 
+gestos, e continuou mudo.
 \v Lc.1.23
-E sucedeu que, cumpridos os dias de seu serviço, veio para sua casa.
+E sucedeu que, terminados os dias do seu serviço, voltou à sua casa.
 \v Lc.1.24
-E depois daqueles dias sua mulher Isabel concebeu, e 
-\added
-ela
-\*added
- se escondia por cinco meses, dizendo:
+E depois daqueles dias Isabel, sua mulher, Isabel, engravidou-se, e por cinco meses se escondeu, dizendo:
 \v Lc.1.25
-Porque isto me fez o Senhor nos dias em que 
+Pois isto o Senhor me fez nos dias em que ele 
 \added
-ele me
+me
 \*added
- observou , para tirar minha humilhação entre as pessoas.
+olhou, para acabar a minha humilhação entre as pessoas.
 \v Lc.1.26
-E no sexto mês o anjo Gabriel foi enviado por Deus a uma cidade da Galileia, chamada Nazaré;
+E no sexto mês o anjo Gabriel foi enviado por
+ Deus a uma cidade da Galileia, chamada Nazaré,
 \v Lc.1.27
-A uma virgem prometida em casamento com um homem, cujo nome era José, da casa de Davi; e o nome da virgem era Maria.
+a uma virgem prometida em casamento com um homem chamado José, da descendência
+\fn
+Lit. “casa”
+\*fn
+ de Davi; e o nome da virgem era Maria.
 \v Lc.1.28
-E entrando o anjo 
-\added
-onde
-\*added
- ela 
-\added
-estava
-\*added
-,disse: Tenhas alegria, agraciada; o Senhor 
+O anjo entrou onde ela estava, e disse: Alegra-te, agraciada; o Senhor 
 \added
 é
 \*added
@@ -131,33 +116,43 @@ Quando ela
 \added
 o
 \*added
- viu, perturbou-se muito por suas palavras, e perguntava a si mesma que saudação seria esta.
+ viu,
+ 
+ perturbou-se muito por suas palavras,
+  e se perguntava que saudação seria esta.
 \v Lc.1.30
-E o anjo disse-lhe: Maria, não temas, porque encontraste graça diante de Deus.
+Então o anjo lhe disse: Maria, não temas, porque encontraste graça diante de Deus.
 \v Lc.1.31
-E eis que ficarás grávida, e farás nascer um filho, e chamarás seu nome Jesus.
+E eis que em teu ventre conceberás, darás à luz um filho, e chamarás o seu nome de Jesus.
 \v Lc.1.32
-Este será grande, e será chamado Filho do Altíssimo; e o Senhor Deus lhe dará o trono de seu pai Davi.
+Ele será grande, e será chamado Filho do Altíssimo; e o Senhor Deus lhe dará o trono de Davi, seu ancestral.
+\fn
+Lit. pai
+\*fn
 \v Lc.1.33
-E reinará na casa de Jacó eternamente, e o Reino dele não terá fim.
+E reinará eternamente na casa de Jacó; o seu reino não terá fim.
 \v Lc.1.34
-E disse Maria ao anjo: Como será isto? Pois não conheço o íntimo de homem algum.
+Maria disse ao anjo: Como será isso? Pois não conheço intimamente homem algum.
 \v Lc.1.35
-E respondendo o anjo, disse-lhe: O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra. Por isso o Santo que nascerá de ti será chamado Filho de Deus.
+O anjo lhe respondeu: O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra. 
+Por isso o Santo que nascerá de ti
+ será chamado Filho de Deus.
 \v Lc.1.36
-E eis que Isabel, tua prima, também concebeu um filho em sua velhice; e este é o sexto mês daquela que era chamada a estéril.
+E eis que Isabel, tua prima, também está grávida de um filho na sua velhice; e este é o sexto mês para a que era 
+chamada de estéril.
 \v Lc.1.37
-Porque para Deus nenhuma palavra será impossível.
+Pois para Deus nada será impossível.
 \v Lc.1.38
-Então disse Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra. E o anjo saiu de onde ela estava.
+Então Maria disse: Eis aqui a serva do Senhor; cumpra-se em mim conforme a tua palavra. E o anjo ausentou-se dela.
 \v Lc.1.39
-E levantando-se Maria naqueles dias, foi-se apressadamente às montanhas, a uma cidade de Judá.
+E naqueles dias, Maria levantou-se, e foi apressada à região montanhosa, a uma cidade de Judá.
 \v Lc.1.40
-E entrou na casa de Zacarias, e saudou a Isabel.
+Ela entrou na casa de Zacarias, e cumprimentou Isabel.
 \v Lc.1.41
-E aconteceu que, quando Isabel ouviu a saudação de Maria, a criança saltou em seu ventre, e Isabel foi cheia do Espírito Santo.
+E aconteceu que, quando Isabel ouviu o cumprimento de Maria, a criança saltou no seu ventre, e Isabel foi cheia do 
+Espírito Santo.
 \v Lc.1.42
-E exclamou com grande voz, e disse: Bendita 
+Então exclamou em alta voz: Bendita 
 \added
 és
 \*added
@@ -165,153 +160,142 @@ E exclamou com grande voz, e disse: Bendita
 \added
 é
 \*added
- o fruto de teu ventre!
+ o fruto do teu ventre!
 \v Lc.1.43
-E de onde me 
-\added
-vem
-\*added
- isto, que a mãe de meu Senhor venha a mim?
+Como me acontece isto,
+\fn
+Lit. “De onde me acontece isto”
+\*fn
+ que a mãe de meu Senhor venha a mim?
 \v Lc.1.44
-Porque eis que, quando a voz de tua saudação chegou a meus ouvidos, a criança saltou de alegria em meu ventre.
+Pois eis que, quando a voz do teu cumprimento chegou aos meus ouvidos, a criança saltou de alegria no meu ventre.
 \v Lc.1.45
-E bem-aventurada 
-\added
-a
-\*added
- que creu; pois se cumprirão as coisas que do Senhor lhe foram ditas.
+E bendita
+\fn
+Ou: bem-aventurada
+\*fn
+ a que creu, pois se cumprirão as coisas que do Senhor lhe foram ditas.
 \v Lc.1.46
-E disse Maria: Minha alma engrandece ao Senhor;
+Então Maria disse: A minha alma engrandece ao Senhor,
 \v Lc.1.47
-E meu espírito se alegrou em Deus meu Salvador.
+e o meu espírito se alegra em Deus meu Salvador.
 \v Lc.1.48
-Porque 
-\added
-ele
-\*added
- olhou para o estado de humilhação de sua serva; pois eis que desde agora todas as gerações me chamarão bem-aventurada.
+Porque ele olhou para a humilde condição da sua serva; pois eis que desde agora todas as gerações me chamarão bendita.
+\fn
+Ou: bem-aventurada
+\*fn
 \v Lc.1.49
-Porque o Poderoso me fez grandes coisas, e santo 
+Pois o Poderoso me fez grandes coisas; e santo 
 \added
 é
 \*added
- seu Nome.
+ o seu nome.
 \v Lc.1.50
-E sua misericórdia é de geração em geração, para com os que o temem.
+E a sua misericórdia é de geração em geração sobre os que o temem.
 \v Lc.1.51
-Com seu braço 
-\added
-ele
-\*added
- demonstrou poder, 
-\added
-e
-\*added
- dispersou os soberbos do pensamento 
-\added
-que tinham
-\*added
- no coração.
+Com o seu braço manifestou poder; dispersou os soberbos no pensamento dos seus corações.
 \v Lc.1.52
-Tirou aos poderosos dos tronos, e levantou aos humildes.
+Derrubou os poderosos dos tronos, e elevou os humildes.
 \v Lc.1.53
-Aos famintos encheu de bens, e aos ricos enviou vazios.
+Encheu de bens aos famintos, e despediu vazios os ricos.
 \v Lc.1.54
-Susteve a Israel seu servo, lembrando-se de 
+Auxiliou ao seu servo Israel, lembrando-se da 
 \added
 sua
 \*added
  misericórdia,
 \v Lc.1.55
-Como falou a nossos pais, a Abraão, e à sua semente, para sempre.
+como falou aos nossos ancestrais,
+\fn
+Lit. pais
+\*fn
+ a Abraão, e à sua descendência,
+\fn
+Lit. semente
+\*fn
+ para sempre.
 \v Lc.1.56
-E Maria ficou com ela quase três meses: e 
-\added
-depois
-\*added
- voltou para sua casa.
+Maria esteve com ela por quase três meses; então voltou para sua casa.
 \v Lc.1.57
-E a Isabel se lhe cumpriu o tempo do parto, e fez nascer um filho.
+E completou-se à Isabel o tempo de dar à luz, e teve um filho.
 \v Lc.1.58
-E os vizinhos e seus parentes ouviram que o Senhor havia lhe sido grandemente misericordioso; e alegraram-se com ela.
+Os seus vizinhos e parentes ouviram que o Senhor havia feito a ela grande misericórdia, e alegraram-se com ela.
 \v Lc.1.59
-E aconteceu que ao oitavo dia vieram para circuncidarem ao menino; e o chamavam do nome de seu pai, Zacarias.
+E aconteceu que ao oitavo dia vieram circuncidar o menino, e o chamavam Zacarias, do nome do seu pai.
 \v Lc.1.60
-E respondendo sua mãe, disse: Não, mas 
-\added
-ele
-\*added
- será chamado João.
+E sua mãe respondeu: Não, porém será chamado João.
 \v Lc.1.61
-E disseram-lhe: Ninguém há entre teus parentes que se chame deste nome.
+E disseram-lhe: Ninguém há entre os teus parentes que se chame deste nome.
 \v Lc.1.62
-E fizeram gestos a seu pai, 
-\added
-perguntando
-\*added
- como queria que lhe chamassem.
+E perguntaram por gestos ao seu pai como queria que lhe chamassem.
 \v Lc.1.63
-E pedindo ele uma tábua, escreveu: João é o nome dele. E todos se maravilharam.
+Ele pediu uma tábua, e escreveu: O seu nome é João. E todos se surpeenderam.
 \v Lc.1.64
-E logo sua boca se abriu, e sua língua se 
+E logo a sua boca se abriu, e a sua língua se 
 \added
 soltou
 \*added
- ; e 
-\added
-ele
-\*added
- falava, louvando a Deus.
+; e voltou a falar, louvando a Deus.
 \v Lc.1.65
-E veio um temor sobre todos seus vizinhos; e em todas as regiões montanhosas da Judeia foram divulgadas todas estas coisas.
+E veio temor sobre todos os seus vizinhos; e em toda a região montanhosa da Judeia todas essas coisas foram divulgadas.
 \v Lc.1.66
-E todos os que 
-\added
-as
-\*added
- ouviam, colocavam
-\added
--nas
-\*added
- em seus corações, dizendo: Ora, quem será este menino? E a mão do Senhor era com ele.
+E todos os que ouviam, guardavam em seus corações, dizendo: Quem será este menino? E
+ a mão do Senhor estava com ele.
 \v Lc.1.67
-E Zacarias seu pai foi cheio do Espírito Santo, e profetizou, dizendo:
+E Zacarias, seu pai, foi cheio do Espírito Santo, e profetizou, dizendo:
 \v Lc.1.68
-Bendito o Senhor Deus de Israel, porque visitou, e redimiu a seu povo;
-\v Lc.1.69
-E levantou o poder da salvação para nós, na casa de seu servo Davi,
-\v Lc.1.70
-Assim como falara pela boca de seus santos profetas, desde o princípio do mundo;
-\v Lc.1.71
- 
+Bendito 
 \added
-Que nos
+seja
 \*added
- livraria de nossos inimigos, e da mão de todos os que nos odeiam,
+ o Senhor Deus de Israel, porque visitou e redimiu o seu povo.
+\v Lc.1.69
+E nos levantou uma poderosa salvação
+\fn
+Ou: “um poderoso Salvador”. Lit. “um chifre de salvação”
+\*fn
+ na casa de seu servo Davi,
+\v Lc.1.70
+como falou pela boca dos seus santos profetas, desde o princípio do mundo;
+\v Lc.1.71
+Que 
+\added
+nos
+\*added
+ livraria dos nossos inimigos e da mão de todos os que nos odeiam,
 \v Lc.1.72
-Para fazer misericórdia a nossos pais, e se lembrar de seu santo compromisso;
+para manifestar misericórdia aos nossos ancestrais,
+\fn
+Lit. pais
+\*fn
+ e se lembrar do seu santo pacto,
 \v Lc.1.73
-do juramento, que jurou a Abraão nosso pai que nos daria;
+do juramento que fez a Abraão, nosso ancestral;
 \v Lc.1.74
-Que libertados da mão de nossos inimigos, o serviríamos sem temor,
+de nos conceder que, libertos da mão dos nossos
+ inimigos, o serviríamos sem temor,
 \v Lc.1.75
-Em santidade e justiça diante dele, todos os dias de nossa vida.
+em santidade e justiça diante dele, todos os dias da nossa vida.
 \v Lc.1.76
-E tu, menino, serás chamado profeta do Altíssimo; porque irás diante da face do Senhor, para preparar seus caminhos;
+E tu, menino, serás chamado profeta do Altíssimo; porque irás adiante da face do Senhor, para preparar os seus caminhos,
 \v Lc.1.77
-Para dar a seu povo conhecimento da salvação, em remissão de seus pecados;
+para dar a seu povo conhecimento da salvação, na remissão de seus pecados;
 \v Lc.1.78
-Pelas entranhas da misericórdia de nosso Deus, com que o nascer do sol do alto nos visitou;
+por causa da misericórdia
+\fn
+Lit. das entranhas de misericórdia 
+\*fn
+ do nosso Deus, com que o nascer do sol nos visitou;
 \v Lc.1.79
-Para aparecer aos que estão sentados nas trevas, e em sobra de morte; para endireitar nossos pés pelo caminho da paz.
+para iluminar os que estão sentados nas trevas e sombra de morte; a fim de guiar os nossos pés pelo caminho da paz.
 \v Lc.1.80
-E o menino crescia, e era fortalecido em espírito. E esteve nos desertos até o dia em que se mostrou a Israel.
+E o menino crescia e se fortalecia em espírito. E esteve nos desertos até o dia em que se mostrou a Israel.
 \v Lc.2.1
-E aconteceu naqueles dias, que saiu um decreto da parte de César Augusto, que todo o império se registrasse.
+E aconteceu naqueles dias que saiu um decreto da parte de César Augusto, para que todo a terra se registrasse.
 \v Lc.2.2
-(Este registro foi feita pela primeira vez sendo Cirênio o governador da Síria.)
+(Esse primeiro censo foi feito quando Quirino era o governador da Síria.)
 \v Lc.2.3
-E iam todos para se registrarem, cada qual à sua própria cidade.
+E todos foram se registrar, cada um à sua própria cidade.
 \v Lc.2.4
 E José também subiu da Galileia, da cidade de Nazaré à Judeia, à cidade de Davi, que se chama Belém; (porque 
 \added
@@ -319,31 +303,25 @@ ele
 \*added
  era da casa e família de Davi.)
 \v Lc.2.5
-Para se registrar com Maria sua mulher, com ele prometida em casamento, estando ela grávida.
+Para se registrar com Maria, sua mulher,
+ com ele prometida em casamento, que estava grávida.
 \v Lc.2.6
-E aconteceu que, estando eles ali, se cumpriram os dias do seu parto.
+E aconteceu que, enquanto eles ali, completaram-se os dias em que ela havia de dar à luz.
 \v Lc.2.7
-E ela gerou o seu filho, o primogênito, e o envolveu em panos, e o deitou em uma manjedoura; porque não havia lugar para eles onde iriam se hospedar.
+E deu à luz seu filho primogênito, e o envolveu em panos, e o deitou numa manjedoura; porque não havia lugar para eles na hospedaria.
 \v Lc.2.8
-E havia pastores naquela mesma localidade, que estavam no campo, e guardavam o seu rebanho durante as vigílias da noite.
+E naquela mesma localidade havia pastores que estavam no campo, e vigiavam o seu rebanho durante as vigílias da noite.
 \v Lc.2.9
-E eis que um anjo do Senhor veio sobre eles, e a glória do Senhor lhes resplandeceu, e temeram grandemente.
+E eis que
+ um anjo do Senhor lhe apareceu, e a glória do Senhor os cercou de resplendor. Então tiveram grande temor.
 \v Lc.2.10
-E o anjo lhes disse: Não temais; porque eis que vos dou boas notícias de grande alegria, que será para todo o povo;
+E o anjo lhes disse: Não temais; pois eis que vos dou notícias de grande alegria, que será para todo o povo:
 \v Lc.2.11
-Que hoje vos é nascido o Salvador, que é Cristo o Senhor, na cidade de Davi.
+que hoje na cidade de Davi vos nasceu o Salvador, que é Cristo, o Senhor.
 \v Lc.2.12
-E isto vos será 
-\added
-por
-\*added
- sinal: achareis ao menino envolto em panos, 
-\added
-e
-\*added
- deitado em uma manjedoura.
+E isto vos será por sinal: achareis o menino envolto em panos, deitado numa manjedoura.
 \v Lc.2.13
-E no mesmo instante houve com o anjo uma multidão de exércitos celestiais, que louvavam a Deus, e diziam:
+E no mesmo instante apareceu com o anjo uma multidão de exércitos celestiais, louvando a Deus, e dizendo:
 \v Lc.2.14
 Glória nas alturas a Deus, paz na terra, 
 \added
@@ -351,185 +329,208 @@ e
 \*added
  aos seres humanos boa vontade.
 \v Lc.2.15
-E aconteceu que, quando os anjos partiram-se da presença deles rumo ao céu, os pastores disseram uns aos outros:  Vamos, pois, até Belém, e vejamos isto que aconteceu, e o Senhor nos informou.
+E aconteceu que, quando os anjos se ausentaram deles para o céu, os pastores disseram uns aos outros: Vamos, pois, 
+até Belém, e vejamos isso que aconteceu, e o Senhor nos informou.
 \v Lc.2.16
-E foram apressadamente, e acharam a Maria, e a José, e ao menino deitado na manjedoura.
+Então foram apressadamente, e acharam Maria, e José, e o menino deitado na manjedoura.
 \v Lc.2.17
-E vendo 
+Quando 
 \added
--o
+o
 \*added
-,contaram a palavra que lhes havia sido dita sobre o menino.
+ viram, contaram o que lhes havia sido dito sobre o menino.
 \v Lc.2.18
-E todos os que a ouviram, se maravilharam do que os pastores lhes diziam.
+E todos os que ouviram se admiraram com o que os pastores lhes diziam.
 \v Lc.2.19
-Mas Maria guardava todas estas palavras, conferindo 
+Mas Maria guardava todas essas palavras, considerando 
 \added
 -as
 \*added
- em seu coração.
+ no seu coração.
 \v Lc.2.20
-E os pastores voltaram glorificando e louvando a Deus, por todas as coisas que tinham ouvido e visto; 
-\added
-exatamente
-\*added
- como lhes havia sido dito.
+Os pastores voltaram glorificando e louvando a Deus por tudo o que haviam ouvido e visto, como lhes havia sido dito.
 \v Lc.2.21
-E cumpridos os oito dias, para circuncidar ao menino, foi seu nome chamado Jesus; o qual lhe foi posto pelo anjo, antes que fosse concebido no ventre.
+Quando se completaram os oito dias para circuncidar o menino,
+ foi chamado o seu nome Jesus, o qual havia sido posto pelo anjo antes que fosse concebido.
 \v Lc.2.22
-E cumprindo-se os dias de purificação dela, segundo a Lei de Moisés, o trouxeram a Jerusalém, para o apresentarem ao Senhor.
+E quando se completaram os dias da purificação dela,
+ segundo a Lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor,
 \v Lc.2.23
-(Como está escrito na Lei do Senhor: Todo macho que for o primeiro no ventre da mãe será chamado santo ao Senhor.)
+conforme o que está escrito na Lei do Senhor: Todo macho primogênito
+\fn
+\key
+primogênito
+\*key
+Lit. que abrir o ventre materno
+\*fn
+ será consagrado ao Senhor.
+\ref
+Êxodo 13:2,12
+\*ref
 \v Lc.2.24
-E para darem a oferta, segundo o que está dito na Lei do Senhor, um par de rolas, ou dois pombinhos.
+E para darem a oferta segundo o que se diz na Lei do Senhor: um par de rolinhas ou dois pombinhos.
 \v Lc.2.25
-E eis que havia um homem em Jerusalém, cujo nome era Simeão; e este homem era justo, e temente a Deus, e esperava a consolação de Israel; e o Espírito Santo estava sobre ele.
+E eis que havia em Jerusalém um homem de nome Simeão; e esse homem era justo e devoto, e esperava a 
+consolação de Israel; e o Espírito Santo estava sobre ele.
 \v Lc.2.26
-E lhe fora revelado pelo Espírito Santo, que não veria a morte, antes que visse ao Cristo do Senhor.
+E havia lhe sido revelado pelo Espírito Santo que ele não veria a morte antes de ter visto o Cristo do Senhor.
 \v Lc.2.27
-E veio pelo Espírito ao Templo; e quando os pais trouxeram o menino Jesus, para com ele fazerem segundo o costume da Lei;
+E pelo Espírito foi ao Templo; e quando os pais trouxeram o menino Jesus, para fazerem com ele conforme o costume da 
+Lei,
+\fn
+a lei (ou instrução) de Moisés, a Torá
+\*fn
 \v Lc.2.28
-Então 
-\added
-Simeão
-\*added
- o tomou em seus braços, louvou a Deus, e disse:
+Então ele o tomou em seus braços, louvou a Deus, e disse:
 \v Lc.2.29
-Agora, Senhor, despedes o teu servo em paz, segundo a tua palavra;
+Agora, Senhor, despedes o teu servo em paz, conforme a tua palavra,
 \v Lc.2.30
-Pois meus olhos já têm visto tua salvação.
+pois os meus olhos viram a tua salvação,
 \v Lc.2.31
-A qual preparaste perante a face de todos os povos.
+a qual preparaste diante de todos os povos;
 \v Lc.2.32
-Luz para iluminação dos gentios, e para glória de teu povo Israel.
+Luz para iluminar as gentios, e para a glória do teu povo Israel.
 \v Lc.2.33
 E José
- e sua mãe se maravilharam das coisas que se diziam sobre ele.
+ e sua mãe se admiraram das coisas que se diziam sobre ele.
 \v Lc.2.34
-E Simeão os abençoou, e disse a sua mãe Maria: Eis que este é posto para queda e levantamento de muitos em Israel; e para sinal que falarão contra ele,
+Simeão os abençoou, e disse a Maria, sua mãe: Eis que este é posto para queda e levantamento de muitos em Israel; e 
+para sinal que terá oposição,
 \v Lc.2.35
-(E também uma espada traspassará tua própria alma) para que de muitos corações se manifestem os pensamentos.
+(também uma espada atravessará a tua própria alma) para que os pensamentos de muitos corações se manifestem.
 \v Lc.2.36
-E estava ali Ana, profetisa, filha de Fanuel da tribo de Aser. Esta já tinha grande idade, e havia vivido com 
-\added
-seu
-\*added
- marido sete anos desde sua virgindade.
+E estava ali a profetiza Ana, filha de Fanuel, da tribo de Aser. Ela já tinha idade avançada, e havia vivido com o 
+marido sete anos desde sua virgindade.
 \v Lc.2.37
-E era viúva de quase oitenta e quatro anos, e não deixava o Templo em jejuns, e orações, servindo 
+E era viúva de cerca de oitenta e quatro anos,
+ e não se afastava do Templo, servindo  
 \added
 a Deus
 \*added
- de noite e de dia.
+ com jejuns e orações, de noite e de dia.
 \v Lc.2.38
-E esta, vindo esta na mesma hora, agradecia ao Senhor, e falava dele a todos os que esperavam a redenção em Jerusalém.
+E ela veio na mesma hora; ela agradeci ao Senhor,
+ e falava dele a todos os que esperavam a redenção em
+ Jerusalém.
 \v Lc.2.39
-E quando acabaram de cumprir todas as coisas, segundo a Lei do Senhor, voltaram para a Galileia, para sua cidade de Nazaré.
+E quando acabaram de cumprir tudo, segundo a Lei do Senhor, voltaram à Galileia, para a sua cidade de Nazaré.
 \v Lc.2.40
-E o menino crescia, e era fortalecido em espírito, e cheio de sabedoria; e a graça de Deus estava sobre ele.
+E o menino crescia e se fortalecia em espírito,
+ e cheio de sabedoria; e a graça de Deus estava sobre ele.
 \v Lc.2.41
-E seus pais iam todos os anos a Jerusalém, para a festa da Páscoa.
+Todos os anos, seus pais iam a Jerusalém, para a festa da Páscoa.
 \v Lc.2.42
-E sendo 
+E quando 
 \added
 Jesus
 \*added
- já de doze anos, subiram a Jerusalém, segundo o costume do dia da festa;
+ tinha doze anos, subiram a Jerusalém, conforme o costume do festival;
 \v Lc.2.43
-E já acabados aqueles dias, voltando eles, o menino Jesus ficou em Jerusalém sem que José e sua mãe
- o soubessem.
+E quando aqueles dias terminaram, eles partiram de volta, mas o menino Jesus ficou em Jerusalém sem que José e sua mãe
+ soubessem.
 \v Lc.2.44
-Porém pensando eles, que vinha pelo caminho por entre a multidão, andaram caminho de um dia; e buscavam-no entre os parentes, e entre os conhecidos.
+Porém, como pensavam que ele vinha pelo caminho entre os companheiros de viagem, eles andaram o caminho de um dia; e 
+o procuraram entre os parentes e conhecidos.
 \v Lc.2.45
-E como não o acharam, voltaram em busca dele a Jerusalém.
+E como não o acharam, voltaram a Jerusalém em busca dele.
 \v Lc.2.46
-E aconteceu que, depois de três dias, o acharam no Templo, sentado no meio dos mestres, ouvindo-os, e perguntando-lhes.
+E aconteceu que, três dias depois, o acharam no templo, sentado no meio dos mestres, ouvindo-os, e perguntando-lhes.
 \v Lc.2.47
-E todos os que o ouviam se admiravam de seu entendimento e respostas;
+E todos os que o ouviam admiravam a sua inteligência e respostas;
 \v Lc.2.48
-E eles, vendo-o se espantaram; e disse-lhe sua mãe: Filho, por que fizeste assim conosco? Eis que teu pai e eu com ansiedade te buscávamos.
+Quando eles o viram, ficarm surpresos. E sua mãe lhe disse: Filho, por que fizeste assim conosco? Eis que teu pai e eu 
+com ansiedade te procurávamos.
 \v Lc.2.49
-E ele lhes disse: Por que me buscáveis? Não sabeis que devo estar nos negócios de meu Pai?
+Ele lhes disse: Por que me procuráveis? Não sabeis que devo estar nos negócios de meu Pai?
 \v Lc.2.50
 E eles não entenderam as palavras que lhes dizia.
 \v Lc.2.51
-E desceu com eles, e veio a Nazaré, e era-lhes sujeito. E sua mãe guardava todas estas coisas em seu coração.
+Então desceu com eles, e veio a Nazaré, e os obedecia. E a sua mãe guardava todas essas coisas no seu coração.
 \v Lc.2.52
-E Jesus crescia em sabedoria, e em estatura, e em graça para com Deus e as pessoas.
+Jesus crescia em sabedoria, em estatura, e em graça para com Deus e as pessoas.
 \v Lc.3.1
-E no ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Galileia, e seu irmão Filipe o tetrarca da Itureia, e da província de Traconites, e Lisânias o tetrarca de Abilene;
+No ano quinze do império de Tibério César, sendo Pôncio Pilatos o governador da Judeia, Herodes tetraca da Galileia, e 
+seu irmão Filipe o tetrarca da Itureia e da província de Traconites, e Lisânias o tetrarca de Abilene;
 \v Lc.3.2
-Sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus veio a João, filho de Zacarias, no deserto.
+sendo Anás e Caifás os sumos sacerdotes, a palavra de Deus veio a João, filho de Zacarias, no deserto.
 \v Lc.3.3
-E 
-\added
-ele
-\*added
- percorreu toda a terra em redor do Jordão, pregando o batismo de arrependimento, para perdão dos pecados.
+Ele percorreu toda a região ao redor do Jordão, pregando o batismo de arrependimento, para o perdão dos pecados;
 \v Lc.3.4
-Como está escrito no livro das palavras do profeta Isaías, que diz: Voz do que clama no deserto:  Preparai o caminho do Senhor, endireitai suas veredas.
+conforme o que está escrito no livro das palavras do profeta Isaías, que diz:
+ “Voz do que clama no deserto: Preparai o 
+caminho do Senhor, endireitai as suas veredas.
 \v Lc.3.5
-Todo vale se encherá, e todo monte e colina se abaixará; e os torcidos serão endireitados; e os caminhos ásperos se suavizarão.
+Todo vale se encherá, e todo monte e colina se abaixará; os tortos serão endireitados, e os caminhos ásperos se suavizarão;
 \v Lc.3.6
-E toda carne verá a salvação de Deus.
+e todos verão
+\fn
+Lit. toda carne verá
+\*fn
+ a salvação de Deus.”
 \v Lc.3.7
-Dizia pois às multidões, que saíam para serem batizadas por ele: Raça de víboras; quem vos ensinou a fugirdes da ira que está para vir?
-\v Lc.3.8
-Dai pois frutos dignos de arrependimento, e não comeceis a dizer em vós mesmos: Temos por pai a Abraão;  porque eu vos digo, que até destas pedras pode Deus levantar filhos a Abraão.
-\v Lc.3.9
-E também o machado já está posto à raiz das árvores; portanto, toda árvore que não dá bom fruto, se corta e lança no fogo.
-\v Lc.3.10
-E as multidões lhe perguntavam, dizendo: Que faremos, então?
-\v Lc.3.11
-E respondendo ele, disse-lhes: Quem tiver duas túnicas, reparta com quem não tem; e quem tiver alimentos, faça da mesma maneira.
-\v Lc.3.12
-E vieram também 
-\added
-a ele
-\*added
- os cobradores de impostos, para serem batizados; e disseram-lhe: Mestre, que faremos?
-\v Lc.3.13
-E ele lhes disse: Não exijais mais do que vos está ordenado.
-\v Lc.3.14
-E perguntaram-lhe também os soldados, dizendo:  E nós, que faremos? E ele lhes disse:  Não trateis mal a ninguém, nem a ninguém acuseis falsamente; e contentai-vos com vossos salários.
-\v Lc.3.15
-E, enquanto o povo estava esperando, com todos imaginando em seus corações, se talvez João fosse o Cristo,
-\v Lc.3.16
-João respondeu a todos, dizendo: Eu bem vos batizo com água, mas vem o que é mais forte do que eu, de quem eu não sou digno de atar-lhe a tira das sandálias; este vos batizará com Espírito Santo e com fogo.
-\v Lc.3.17
-Cuja pá está em sua mão, e limpará sua eira, e juntará o trigo em seu celeiro; porém a palha queimará com fogo que nunca se apaga.
-\v Lc.3.18
-Assim, instruindo também em muitas outras coisas, 
 \added
 João
 \*added
- anunciava o Evangelho ao povo.
-\v Lc.3.19
-Sendo, porém, Herodes, o tetrarca, repreendido por ele por causa de Herodias, mulher do seu irmão Filipe, e por todas as 
+ dizia às multidões que vinham ser batizadas por ele: “Raça de víboras, quem vos ensinou a fugir da ira que está 
+para chegar?
+\v Lc.3.8
+Dai, pois, frutos condizentes com o arrependimento, e não comeceis a dizer em vós mesmos: ‘Temos Abraão por pai’; 
+pois eu vos digo que até destas pedras Deus pode produzir
+\fn
+Lit. levantar
+\*fn
+ filhos a Abraão.
+\v Lc.3.9
+E também o machado já está posto à raiz das árvores; portanto, toda árvore que não dá bom fruto é cortada e lançada ao fogo.
+\v Lc.3.10
+E as multidões lhe perguntavam: Então o que devemos fazer?
+\v Lc.3.11
+E ele lhes respondeu: Quem tiver duas túnicas, reparta com o não tem; e quem tiver comida, faça da mesma maneira.
+\v Lc.3.12
+E chegaram também uns cobradores de impostos, para serem batizados; e disseram-lhe: Mestre, que devemos fazer?
+\v Lc.3.13
+E ele lhes disse: Não exijais mais do que vos está ordenado.
+\v Lc.3.14
+E uns soldados também lhe perguntaram: E nós, que devemos fazer? E ele lhes disse: Não maltrateis nem defraudeis a 
+ninguém; e contentai-vos com vossos salários.
+\v Lc.3.15
+E, enquanto o povo estava em expectativa, e todos pensando em seus corações se talvez João seria o Cristo,
+\v Lc.3.16
+João respondeu a todos: De fato, eu vos batizo com água, mas vem um que é mais poderoso do que eu, de quem eu não sou 
+digno de desatar a tira das sandálias; ele vos batizará com o Espírito Santo e com fogo.
+\v Lc.3.17
+Sua pá está na sua mão, e limpará
+ sua eira, e juntará
+ o trigo no seu celeiro; porém queimará a palha com fogo que nunca se apaga.
+\v Lc.3.18
+Assim, exortando com muitas outras coisas, 
 \added
-demais
+João
 \*added
- maldades que Herodes havia feito,
+ anunciava a boa notícia ao povo.
+\v Lc.3.19
+Porém, quando Herodes, o tetrarca, foi repreendido por ele por causa de Herodias, mulher do seu irmão Filipe,
+ e por todas as maldades que Herodes havia feito,
 \v Lc.3.20
-Acrescentou ainda sobre todas esta: que encarcerou João na prisão.
+acrescentou a todas ainda esta: encarcerou João na prisão.
 \v Lc.3.21
-E aconteceu que, enquanto todo o povo se batizava, e Jesus 
+E aconteceu que, quando todo o povo era batizado, Jesus 
 \added
 também
 \*added
- sendo batizado, e orando, o céu se abriu;
+ foi batizado, e enquanto orava, o céu se abriu,
 \v Lc.3.22
-E desceu o Espírito Santo sobre ele em forma corporal, como pomba; e surgiu uma voz do céu que dizia:  Tu és o meu amado filho, em ti me agrado.
+e o Espírito Santo desceu sobre ele em forma corpórea, como pomba; e veio do céu uma voz que dizia:
+ Tu és o meu Filho amado, em ti me agrado.
 \v Lc.3.23
-E o mesmo Jesus começava a ser como de trinta anos, sendo (como se cuidava) filho de José, 
+E o mesmo Jesus começou quando tinha cerca de trinta anos, sendo (como se pensava) filho de José, 
 \added
 filho
 \*added
  de Eli,
 \v Lc.3.24
- 
 \added
-Filho
+filho
 \*added
  de Matate, 
 \added
@@ -549,9 +550,8 @@ filho
 \*added
  de José.
 \v Lc.3.25
- 
 \added
-Filho
+filho
 \*added
  de Matatias, 
 \added
@@ -571,9 +571,8 @@ filho
 \*added
  de Nagai.
 \v Lc.3.26
- 
 \added
-Filho
+filho
 \*added
  de Maate, 
 \added
@@ -587,21 +586,23 @@ filho
 \added
 filho
 \*added
- de José, 
+ de José,
+ 
 \added
 filho
 \*added
  de Judá.
-\v Lc.3.27
  
-\added
-Filho
-\*added
- de Joaná, 
+\v Lc.3.27
 \added
 filho
 \*added
- de Resá, 
+ de Joaná,
+ 
+\added
+filho
+\*added
+ de Resa, 
 \added
 filho
 \*added
@@ -615,9 +616,8 @@ filho
 \*added
  de Neri.
 \v Lc.3.28
- 
 \added
-Filho
+filho
 \*added
  de Melqui, 
 \added
@@ -631,21 +631,20 @@ filho
 \added
 filho
 \*added
- de Elmodã, ' 
+ de Elmodã,  
 \added
 filho
 \*added
  de Er.
 \v Lc.3.29
- 
-\added
-Filho
-\*added
- de José, e 
 \added
 filho
 \*added
- de Eliezer, 
+ de José,
+\added
+filho
+\*added
+ de Eliézer, 
 \added
 filho
 \*added
@@ -659,9 +658,8 @@ filho
 \*added
  de Levi.
 \v Lc.3.30
- 
 \added
-Filho
+filho
 \*added
  de Simeão, 
 \added
@@ -681,15 +679,15 @@ filho
 \*added
  de Eliaquim.
 \v Lc.3.31
- 
 \added
-Filho
+filho
 \*added
  de Meleá, 
 \added
 filho
 \*added
- de Mainã, 
+ de Mainã,
+  
 \added
 filho
 \*added
@@ -703,7 +701,6 @@ filho
 \*added
  de Davi.
 \v Lc.3.32
- 
 \added
 Filho
 \*added
@@ -719,13 +716,13 @@ filho
 \added
 filho
 \*added
- de Salmom, 
+ de Salmom,
+ 
 \added
 filho
 \*added
  de Naassom.
 \v Lc.3.33
- 
 \added
 Filho
 \*added
@@ -735,7 +732,6 @@ filho
 \*added
  de Arão
 ,
- 
 \added
 filho
 \*added
@@ -749,9 +745,8 @@ filho
 \*added
  de Judá.
 \v Lc.3.34
- 
 \added
-Filho
+filho
 \*added
  de Jacó, 
 \added
@@ -771,19 +766,18 @@ filho
 \*added
  de Naor.
 \v Lc.3.35
- 
 \added
-Filho
+filho
 \*added
  de Serugue, 
 \added
 filho
 \*added
- de Reú, 
+ de Ragaú, 
 \added
 filho
 \*added
- de Pelegue, 
+ de Faleque, 
 \added
 filho
 \*added
@@ -793,7 +787,6 @@ filho
 \*added
  de Salá.
 \v Lc.3.36
- 
 \added
 Filho
 \*added
@@ -815,7 +808,6 @@ filho
 \*added
  de Lameque.
 \v Lc.3.37
- 
 \added
 Filho
 \*added
@@ -837,9 +829,8 @@ filho
 \*added
  de Cainã.
 \v Lc.3.38
- 
 \added
-Filho
+filho
 \*added
  de Enos, 
 \added
@@ -851,597 +842,640 @@ filho
 \*added
  de Adão, 
 \added
-filho
+e Adão
 \*added
  de Deus.
 \v Lc.4.1
 E Jesus, cheio do Espírito Santo, voltou do Jordão, e foi levado pelo Espírito ao deserto.
 \v Lc.4.2
-E por quarenta dias foi tentado pelo diabo; e não comeu coisa alguma naqueles dias; e acabados esses 
-\added
-dias
-\*added
-, finalmente teve fome.
+E por quarenta dias foi tentado pelo diabo; e não comeu coisa alguma naqueles dias; e terminados 
+eles, depois
+ teve fome.
 \v Lc.4.3
-E disse-lhe o diabo: Se tu és Filho de Deus, diz a esta pedra que se torne pão.
+Então o diabo lhe disse: Se tu és Filho de Deus, diz a esta pedra que se transforme em pão.
 \v Lc.4.4
-E Jesus lhe respondeu, dizendo: Está escrito que não só de pão viverá o ser humano, mas de toda palavra de Deus.
+Jesus lhe respondeu: Está escrito que não só de pão viverá o ser humano, mas de toda palavra de Deus.
+\ref
+Deuteronômio 8:3
+\*ref
 \v Lc.4.5
-E levando-o o diabo a um alto monte, mostrou-lhe todos os reinos do mundo em um momento de tempo.
+E o 
+diabo
+ o levou a um alto monte,
+ e lhe mostrou todos os reinos do mundo num instante.
 \v Lc.4.6
-E disse-lhe o diabo: Darei a ti todo este poder, e sua glória; porque a mim me está entregue, e a quem quero o dou.
+E o diabo lhe disse: Darei a ti todo este poder e sua glória; pois a mim foram entregues, e os dou a quem quero.
 \v Lc.4.7
 Portanto, se tu me adorares, tudo será teu.
 \v Lc.4.8
-E respondendo Jesus, disse-lhe: Para trás de mim, Satanás!
- Porque
+E Jesus lhe respondeu: Para trás de mim, Satanás!
+Porque
  está escrito:
-  Ao Senhor, teu Deus, adorarás, e só a ele servirás.
+ Adorarás ao Senhor teu Deus, e servirás só a ele.
 \ref
 Deuteronômio 6:13
 \*ref
 \v Lc.4.9
-E levou-o a Jerusalém, e o pôs sobre a ponta da torre do Templo, e disse-lhe: Se tu és o Filho de Deus, lança-te daqui abaixo.
+Então o levou a Jerusalém, e o pôs sobre a parte mais alta do templo, e disse-lhe: Se tu és o
+ Filho
+ de Deus, lança-te daqui abaixo.
 \v Lc.4.10
-Porque está escrito que: A seus anjos mandará quanto a ti, que te guardem.
+Porque está escrito que: Mandará aos seus acerca de ti que te guardem.
+\ref
+Salmos 91:11
+\*ref
 \v Lc.4.11
-E que nas mãos te tomarão, para que nunca tropeces com teu pé em alguma pedra.
+E que: te sustentarão pelas mãos, para que nunca tropeces com o teu pé em alguma pedra.
+\ref
+Salmos 91:12
+\*ref
 \v Lc.4.12
-E Jesus, respondendo, disse-lhe: Dito está:  Não a tentarás ao Senhor, teu Deus.
+Jesus lhe respondeu: Dito está: Não tentes
+\fn
+Ou: testes
+\*fn
+ ao Senhor teu Deus.
+\ref
+Deuteronômio 6:16
+\*ref
 \v Lc.4.13
-E, quando o diabo acabou toda a tentação, saiu da presença dele por algum tempo.
+E quando o diabo acabou toda a tentação, ausentou-se dele por algum tempo.
 \v Lc.4.14
-E Jesus voltou no poder do Espírito para a Galileia, e saiu sua fama por toda a terra do redor.
+Então Jesus, no poder do Espírito, voltou para a Galileia, e sua fama se espalhou por toda a região ao redor.
 \v Lc.4.15
-E ensinava em suas sinagogas, e era louvado por todos.
+Ele ensinava em suas sinagogas, e era recebido com honra por todos.
 \v Lc.4.16
-Ele veio a Nazaré, onde havia sido criado, e entrou, segundo o seu costume, num dia de Sábado, na sinagoga; e levantou-se para ler.
+Ele veio a Nazaré, onde havia sido criado, e entrou, conforme o seu costume, num dia de Sábado, na sinagoga; e 
+levantou-se para ler.
 \v Lc.4.17
-Foi-lhe dado o livro do Profeta Isaías; e quando abria o livro, achou o lugar onde estava escrito:
+Foi-lhe dado o livro do profeta Isaías; e quando abriu o livro, achou o lugar onde estava escrito:
 \v Lc.4.18
 O Espírito do Senhor 
 \added
 está
 \*added
- sobre mim, portanto me ungiu; para evangelizar aos pobres me enviou, para curar aos contritos de coração;
+ sobre mim, porque ele me ungiu para evangelizar os pobres, me enviou para curar os contritos de coração;
 \v Lc.4.19
-para pregar liberdade aos cativos e dar vista aos cegos; para enviar em liberdade aos abatidos, para apregoar o ano agradável do Senhor.
+para proclamar liberdade aos cativos e dar vista aos cegos, para enviar livres os oprimidos, para proclamar o ano 
+agradável do Senhor.
+\fn
+\key
+ano agradável do Senhor
+\*key
+Ou: ano do favor do Senhor
+\*fn
+\ref
+Isaías 61:1-2
+\*ref
 \v Lc.4.20
-E fechando o livro, e devolvendo-o ao assistente, sentou-se; e os olhos de todos na sinagoga se dirigiram a ele.
+Ele fechou o livro, e devolveu-o ao assistente, e se sentou. Os olhos de todos na sinagoga estavam fixos nele.
 \v Lc.4.21
-E começou-lhes a dizer: Hoje se cumpriu esta escritura em vossos ouvidos.
+Então ele começou a lhes dizer: Hoje esta escritura se cumpriu em vossos ouvidos.
 \v Lc.4.22
-E todos lhe davam testemunho, e se maravilhavam das palavras de graça que saíam de sua boca; e diziam: Não é este o filho de José?
+E todos davam testemunho dele, e se admiravam das palavras graciosas que saíam da sua boca; e diziam: Não é este o 
+filho de José?
 \v Lc.4.23
-E ele lhes disse: Sem duvida este provérbio me direis:  Médico, cura a ti mesmo; de todas as coisas que ouvimos que foram feitas em Cafarnaum, faz também aqui 
-\added
-algumas
-\*added
- em tua pátria.
+E ele lhes disse: Sem dúvida me direis este provérbio: Médico, cura a ti mesmo; faz também aqui na tua terra natal 
+todas as coisas que ouvimos terem sido feitas em Cafarnaum.
 \v Lc.4.24
-E disse: Em verdade vos digo que nenhum profeta é aceito em sua terra.
+E disse: Em verdade vos digo que nenhum profeta é bem recebido na sua terra natal.
 \v Lc.4.25
-Porém em verdade vos digo, que muitas viúvas havia em Israel nos dias de Elias, quando o céu se fechou por três anos e seis meses; de modo que em toda a terra houve grande fome.
+Porém em verdade vos digo que hava muitas viúvas em Israel nos dias de Elias, quando o céu se fechou por três anos e 
+seis meses, de modo que em todo o país houve grande fome.
 \v Lc.4.26
-E a nenhuma delas Elias foi enviado, a não ser a uma mulher viúva de Sarepta de Sidom.
+Mas a nenhuma delas Elias foi enviado, a não ser a uma mulher viúva de Sarepta de Sidom.
 \v Lc.4.27
-E muitos leprosos havia em Israel, no tempo do profeta Eliseu; e nenhum deles foi limpo, a não ser Naamã o sírio.
+E havia muitos leprosos em Israel no tempo do profeta Eliseu; mas nenhum deles foi limpo, a não ser Naamã, o sírio.
 \v Lc.4.28
-E todos na sinagoga, ao ouvirem estas coisas, encheram-se de ira.
+E todos na sinagoga, quando ouviram essas coisas, encheram-se de ira.
 \v Lc.4.29
-E levantando-se, expulsaram-no da cidade, e o levaram até o topo do monte em que sua cidade havia sido construída, para o lançarem dali do alto abaixo.
+Então se levantaram, expulsaram-no da cidade, e o levaram até o topo do monte em que sua cidade era construída, para 
+dali o lançarem abaixo.
 \v Lc.4.30
-Mas ele, passando por meio deles, retirou-se.
+Porém ele passou por meio deles, e se retirou.
 \v Lc.4.31
-E desceu a Cafarnaum, cidade de Galileia; e 
+Ele desceu a Cafarnaum, cidade de Galileia; e 
 \added
 ali
 \*added
  os ensinava nos sábados.
 \v Lc.4.32
-E admiravam de sua doutrina, porque sua palavra era com autoridade.
+E admiravam o seu ensino, pois a sua palavra era com autoridade.
 \v Lc.4.33
-E estava na sinagoga um homem que tinha um espírito de um demônio imundo, e clamou com alta voz,
+E estava na sinagoga um homem que tinha um espírito de um demônio imundo, e gritou com alta voz,
 \v Lc.4.34
-dizendo:  Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Bem sei quem és: o Santo de Deus.
+dizendo:
+ Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Sei quem és: o Santo de Deus.
 \v Lc.4.35
-E Jesus o repreendeu, dizendo: Cala-te, e, sai dele. E o demônio, derrubando-o no meio 
+E Jesus o repreendeu, dizendo: Cala-te, e, sai dele. E o demônio o derrubou no meio 
 \added
-das pessoas
+do povo
 \*added
-, saiu dele, sem lhe fazer dano algum.
+, e saiu dele sem lhe fazer dano algum.
 \v Lc.4.36
-E veio espanto sobre todos; e falavam entre si uns com os outros, dizendo: Que palavra é esta, que até aos espíritos imundos manda com autoridade e poder, e saem?
+E espanto veio sobre todos; e falavam entre si uns aos outros, dizendo: Que palavra é esta, que até aos espíritos 
+imundos ele manda com autoridade e poder, e eles saem?
 \v Lc.4.37
-E sua fama foi divulgada em todos os lugares em redor daquele território.
+E sua fama era divulgada em todos os lugares em redor daquela região.
 \v Lc.4.38
-E levantando-se 
 \added
 Jesus
 \*added
- da Sinagoga, entrou na casa de Simão; e a sogra de Simão estava enferma de uma grande febre, e rogaram-lhe por ela.
+ levantou-se da sinagoga, e entrou na casa de Simão. A sogra de Simão estava doente de uma grande febre, e 
+rogaram-lhe por ela.
 \v Lc.4.39
-E inclinando-se sobre ela, repreendeu a febre; e a 
-\added
-febre a
-\*added
- deixou. E levantando-se logo, servia-os.
+Ele se inclinou a ela, e repreendeu a febre, que a deixou. Ela imediatamente se levantou e começou a lhes servir.
 \v Lc.4.40
-E pondo-se já o sol, trouxeram todos os que estavam enfermos de varias doenças até ele; e pondo as mãos sobre cada um deles, curava-os.
+Quando o sol estava se pondo, troxeram-lhe todos os que estavam enfermos de varias doenças. Ele punha as mãos sobre 
+cada um deles e os curava.
 \v Lc.4.41
-E também os demônios saíam de muitos, clamando, e dizendo: Tu és o Cristo, o Filho de Deus; e ele, reprendendo-os, não os deixava falar, porque sabiam que ele era o Cristo.
+E também de muitos saíam demônios, gritando, e dizendo: Tu és o Cristo,
+ o Filho de Deus. Ele os repreendia, e não os deixava falar, porque sabiam que ele era o Cristo.
 \v Lc.4.42
-E sendo já dia, ele saiu, e foi para um lugar deserto; e as multidões o buscavam, e vieram a ele; e o detinham, para que não os deixasse.
+E sendo já dia, ele saiu, e foi a um lugar deserto. As multidões o buscavam; então vieram a ele, e queriam detê-lo, 
+para que não os deixasse.
 \v Lc.4.43
-Porém ele lhes disse:  Também é necessário que eu anuncie o Evangelho do Reino de Deus às outras cidades; pois para isso sou enviado.
+Porém ele lhes disse: Também é necessário que eu anuncie a outras cidades o evangelho do Reino de Deus; pois para isso sou
+ enviado.
 \v Lc.4.44
 E ele pregava nas sinagogas da Galileia.
 \v Lc.5.1
-E aconteceu que, amontoando-se as multidões sobre ele, por ouvirem a palavra de Deus, ele estava junto ao lago de Genesaré.
+E aconteceu que as multidões o comprimiam para ouvir a palavra de Deus, quando ele estava junto ao lago de Genesaré.
 \v Lc.5.2
-E viu dois barcos que estavam junto ao lago, e havendo os pescadores descido deles, estavam lavando as redes.
-\v Lc.5.3
-E entrando em um daqueles barcos, que era o de Simão, pediu-lhe que o desviasse um pouco da terra; e sentando-se, ensinava às multidões enquanto estava no barco.
-\v Lc.5.4
-E quando terminou de falar, disse a Simão: Vai ao alto mar, e lançai vossas redes para pescar.
-\v Lc.5.5
-E respondendo Simão, disse-lhe: Mestre, trabalhamos toda a noite, mas nada tomamos; porém por tua palavra lançarei a rede.
-\v Lc.5.6
-E fazendo-o assim, recolheram grande quantidade de peixes, a ponto da rede se romper.
-\v Lc.5.7
-E acenaram aos companheiros que estavam no outro barco, que viessem ajudar. E vieram, e encheram ambos os barcos, de tal modo, que quase afundavam.
-\v Lc.5.8
-E vendo Simão Pedro 
+Então ele viu dois barcos que estavam próximos 
 \added
-isto
+da margem
 \*added
-,derrubou-se aos pés de Jesus, dizendo: Sai de mim, Senhor, porque sou homem pecador.
+do lago, e os pescadores haviam descido deles, e estavam lavando as redes.
+\v Lc.5.3
+Ele entrou num daqueles barcos, que era o de Simão, e lhe pediu que o afastasse um pouco da terra. Depois se sentou, e 
+do barco ensinou às multidões.
+\v Lc.5.4
+Quando acabou de falar, disse a Simão: Vai à água profunda, e lançai as vossas redes para pescar.
+\v Lc.5.5
+Simão lhe respondeu: Mestre, trabalhamos toda a noite, mas nada pegamos; mas pela tua palavra 
+lançarei a rede.
+\v Lc.5.6
+Eles fizeram assim, e recolheram grande quantidade de peixes, e sua rede estava se rompendo.
+\v Lc.5.7
+Então acenaram aos companheiros que estavam no outro barco, para que viessem os ajudar. Vieram, e encheram ambos os 
+barcos, de tal maneira que quase afundavam.
+\v Lc.5.8
+Quando Simão Pedro viu
+\added
+isso
+\*added
+, prostrou-se aos pés de Jesus, dizendo: Afasta-te de mim, Senhor, porque sou um homem pecador.
 \v Lc.5.9
-Porque ele havia sido tomado pelo espanto, assim como todos os que estavam com ele.
+Pois ele estava cheio de espanto, como todos os que estavam com ele, por causa da coleta de peixes que haviam feito.
 \v Lc.5.10
-E semelhantemente também como Tiago e João, filhos de Zebedeu, que eram colegas de Simão. E disse Jesus a Simão: Não temas, a partir de agora pescarás gente.
+E semelhantemente, também, Tiago e João, filhos de Zebedeu, que eram colegas de Simão. E Jesus disse a Simão: Não 
+temas, de agora em diante pescarás gente.
 \v Lc.5.11
-E quando levaram os barcos à terra, deixaram tudo, e o seguiram.
+Eles levaram os barcos para a terra, deixaram tudo, e o seguiram.
 \v Lc.5.12
-E aconteceu que, estando em uma daquelas cidades, eis um homem cheio de lepra, e vendo a Jesus, prostrou-se sobre o rosto, e rogou-lhe, dizendo: Senhor, se quiseres, bem me podes limpar.
+E aconteceu que, quando ele estava numa daquelas cidades, eis que um homem cheio de lepra viu Jesus; então prostrou-se 
+sobre o rosto, e lhe rogou, dizendo: Senhor, se quiseres, podes me tornar limpo.
 \v Lc.5.13
-E estendendo ele a mão, tocou-o, dizendo: Quero, sê limpo.E logo a lepra o deixou.
+Ele estendeu a mão, e o tocou, dizendo: Quero; sê limpo. E logo a lepra desapareceu dele.
 \v Lc.5.14
-E mandou-lhe que o não dissesse a ninguém: Mas vai, mostra-te ao sacerdote, e oferte por tua limpeza, como mandou Moisés, para lhes dar testemunho.
+E mandou-lhe que não o dissesse a ninguém: Mas vai, mostra-te ao sacerdote, e oferece por tua purificação, como Moisés 
+mandou, para lhes dar testemunho.
 \v Lc.5.15
-Porém sua fama andava tanto mais; e ajuntaram-se muitas multidões para o ouvir, e para serem curadas por ele de suas enfermidades.
+Porém a sua fama se espalhava ainda mais; e ajuntavam-se muitas multidões para o ouvir, e para serem por ele
+ curadas de suas enfermidades.
 \v Lc.5.16
-Mas ele se retirava para os desertos, e 
+Porém ele se retirava para os desertos, e 
 \added
 ali
 \*added
  orava.
 \v Lc.5.17
-E aconteceu em um daqueles dias que estava ensinando, e estavam ali sentados fariseus e doutores da Lei, que tinham vindo de todas as aldeias da Galileia, e da Judeia, e de Jerusalém; e o poder do Senhor estava 
+E aconteceu num daqueles dias que estava ensinando, e estavam 
+\added
+ali
+\*added
+ sentados fariseus e instrutores da lei, que tinham 
+vindo de todas as aldeias da Galileia, da Judeia, e de Jerusalém; e o poder do Senhor estava 
 \added
 ali
 \*added
  para os curar.
 \v Lc.5.18
-E eis que 
-\added
-uns
-\*added
- homens, que traziam em uma cama um homem que estava paralítico; e procuravam levá-lo para dentro, e o porem diante dele.
+E eis que uns homens traziam numa cama um homem que estava paralítico; e procuravam levá-lo para dentro, a fim de o 
+porem diante dele.
 \v Lc.5.19
-E não achando por onde o poder levar para dentro, subiram em cima do telhado, e pelas telhas o abaixaram com o leito para o meio 
+Como não acharam por onde pudessem levá-lo para dentro, por causa da multidão, subiram ao telhado, e pelas telhas o 
+baixaram com o leito para o meio 
 \added
-da casa
+do povo
 \*added
-,diante de Jesus.
+, diante de Jesus.
 \v Lc.5.20
-E vendo ele a fé deles, disse-lhe: Homem, teus pecados são perdoados.
+Ele viu a fé deles, e disse-lhe:
+ Homem, teus pecados são perdoados.
 \v Lc.5.21
-E os escribas e os fariseus começaram a questionar, dizendo: Quem é este, que fala blasfêmias? Quem pode perdoar pecados, senão só Deus?
+E os escribas e os fariseus começaram a questionar, dizendo: Quem é este que fala blasfêmias? Quem pode perdoar 
+pecados, senão só Deus?
 \v Lc.5.22
-Porém conhecendo Jesus seus pensamentos, respondeu, e disse-lhes: O que vós imaginais em vossos corações?
+Porém Jesus, conhecendo os seus pensamentos, respondeu-lhes: O que pensais em vossos corações?
 \v Lc.5.23
 O que é mais fácil? Dizer: Teus pecados são perdoados? Ou dizer: Levanta-te, e anda?
 \v Lc.5.24
-Ora, para que saibais que o Filho do homem tem poder para na terra perdoar pecados,(Disse ao paralítico:) Eu digo a ti, levanta-te, toma o teu leito, e vai para tua casa.
+Para que saibais que o Filho do homem tem poder sobre a terra para perdoar pecados, (disse ao paralítico:) Eu te digo, 
+levanta-te, toma o teu leito, e vai para a tua casa.
 \v Lc.5.25
-E ele, levantando-se logo diante deles, tomou o 
+E ele levantou-se imediatamente diante deles, tomou o 
 \added
 leito
 \*added
- em que estava deitado, 
-\added
-e
-\*added
- foi para a sua casa, glorificando a Deus.
+ em que estava deitado, e foi para a sua casa, glorificando a Deus.
 \v Lc.5.26
-E todos ficaram admirados, e glorificavam a Deus; e ficaram cheios de temor, dizendo: Hoje vimos coisas incríveis!
+E todos ficaram admirados, e glorificaram a Deus; e ficaram cheios de temor, dizendo: Hoje vimos maravilhas!
 \v Lc.5.27
-Depois destas coisas, ele saiu; e viu a um cobrador de impostos, chamado Levi, sentado na casa de tributos, e disse-lhe: Segue-me.
+Depois destas coisas, ele saiu; e viu um cobrador de impostos, chamado Levi, sentado na coletoria de tributos, e 
+disse-lhe: Segue-me.
 \v Lc.5.28
-E ele, deixando tudo, seguiu-o.
+Ele deixou tudo, levantou-se, e o seguiu.
 \v Lc.5.29
-E Levi lhe fez um grande banquete em sua casa; e 
+E Levi lhe fez um grande banquete em sua casa; e havia 
 \added
 ali
 \*added
- estavam uma grande multidão de publicanos, e de outros que estavam sentados com eles 
+ uma grande multidão de publicanos e de outros que estavam sentados com eles 
 \added
 à mesa
 \*added
- .
+.
 \v Lc.5.30
-E seus escribas e fariseus murmuravam contra seus discípulos, dizendo: Por que comeis e bebeis com cobradores de impostos e pecadores?
+E seus escribas e fariseus
+ murmuravam contra os seus discípulos, dizendo: Por que comeis e bebeis com cobradores de impostos e pecadores?
 \v Lc.5.31
-E respondendo Jesus, disse-lhes: Os que estão sãos não necessitam de médico, mas sim os que estão enfermos.
+Jesus lhes respondeu: Os que estão sãos não precisam de médico, mas sim os que estão doentes.
 \v Lc.5.32
-Eu não vim para chamar os justos, mas aos pecadores, para arrependimento.
+Eu não vim para chamar os justos, mas sim, os pecadores, ao arrependimento.
 \v Lc.5.33
-Então eles lhe disseram: Por que os discípulos de João jejuam muitas vezes, e fazem orações, como também os dos fariseus, mas os teus comem e bebem?
+Então eles lhe disseram: Por que
+ os discípulos de João jejuam muitas vezes, e fazem orações, como também os dos fariseus, mas os teus comem e bebem?
 \v Lc.5.34
-Mas ele lhes disse: Podeis vós fazer jejuar aos que estão na festa do casamento, enquanto o noivo está com eles?
+Mas ele
+ lhes disse: Podeis vós fazer jejuar os convidados do casamento,
+\fn
+\key
+convidados do casamento
+\*key
+Lit. filhos da câmara nupcial
+\*fn
+ enquanto o noivo está com eles?
 \v Lc.5.35
-Porém dias virão, quando o esposo lhes será tirado; 
-\added
-e
-\*added
- então naqueles dias jejuarão.
+Porém virão dias em que o esposo lhes será tirado; então naqueles dias jejuarão.
 \v Lc.5.36
-E dizia-lhes também uma parábola: Ninguém põe remendo de pano novo em vestido velho; de outra maneira, o novo rompe 
-\added
-o velho
-\*added
-; e ao velho não convém remendo do novo.
+E dizia-lhes também uma parábola: Ninguém põe remendo de pano novo em roupa velha
+;
+ de outra maneira, o novo rompe,
+ e o remendo do novo não será adequado ao velho.
 \v Lc.5.37
-E ninguém põe vinho novo em odres velhos; de outra maneira, o vinho novo romperá os odres, e se derramaria, e os odres se perdem.
+E ninguém põe vinho novo em odres velhos; de outra maneira, o vinho novo romperá os odres, e se derramará, e os odres 
+são destruídos.
 \v Lc.5.38
-Mas o vinho novo é posto em odres novos; e ambos juntamente se conservam.
+Mas o vinho novo deve ser posto em odres novos, e ambos se conservam.
 \v Lc.5.39
-E ninguém que beber o velho, quer logo o novo; por que diz: O velho é melhor.
+E ninguém que beber do velho quer logo
+ o novo; porque diz: O velho é melhor.
 \v Lc.6.1
-E aconteceu que 
+E aconteceu que, no segundo
+ sábadodepois do primeiro, 
 \added
 Jesus
 \*added
- passou por umas plantações, no segundo sábado, e seus discípulos iam arrancando espigas, e comendo, debulhando-as com as mãos.
+ passou pelas plantações, e seus discípulos iam arrancando espigas, e comiam, debulhando-as com as mãos.
 \v Lc.6.2
-E alguns dos fariseus lhes disseram: Por que fazeis o que não é lícito fazer nos sábados?
+E alguns dos fariseus lhes
+ disseram: Por que fazeis o que não é lícito fazer
+ nos sábados?
 \v Lc.6.3
-E respondendo-lhes Jesus, disse: Nem ainda isto lestes, o que Davi fez quando teve fome, ele e os que estavam com ele?
+E Jesus lhes respondeu: Nunca lestes isto, o que Davi fez quando teve fome, ele e os que com ele estavam?
 \v Lc.6.4
-Como entrou na casa de Deus, e tomou, e comeu os pães da oferta, e deu também aos que estavam com ele, os quais não é lícito comer, a não ser somente os sacerdotes?
-\v Lc.6.5
-E dizia-lhes: O Filho do homem é Senhor até do sábado.
-\v Lc.6.6
-E aconteceu também em outro sábado que entrou na sinagoga, e ensinava; e ali estava um homem que tinha a mão direita definhada.
-\v Lc.6.7
-E os escribas e fariseus prestavam atenção nele, se o curaria no sábado; para encontrarem 
+Como entrou na casa de Deus, tomou, e comeu os pães da apresentação, e deu também
+ aos que estavam com ele, 
 \added
-motivo
+pães
 \*added
- de o acusarem.
+ que não é lícito comer, a não ser só os sacerdotes?
+\v Lc.6.5
+E dizia-lhes: O Filho do homem é Senhor até
+ do sábado.
+\v Lc.6.6
+E aconteceu também
+ em outro sábado que entrou na sinagoga, e estava ensinado; e ali estava um homem que tinha a mão direita definhada.
+\v Lc.6.7
+E os escribas e fariseus  o
+ observavam, se o curaria no sábado; para acharem de que o acusar.
 \v Lc.6.8
-Pois ele bem sabia dos seus pensamentos; e disse ao homem que tinha a mão definhada: Levanta-te, e põe-te em pé no meio. E ele, levantando-se, pôs-se de pé.
+Mas ele bem sabia dos seus pensamentos; e disse ao homem que tinha a mão definhada: Levanta-te, e põe-te em pé no 
+meio. E ele se levantou e se pôs de pé.
 \v Lc.6.9
-Então Jesus lhes disse: Uma coisa vos perguntarei: o que é lícito nos sábados? Fazer bem, ou fazer mal? Salvar uma pessoa, ou matá-la?
+Então Jesus lhes disse: Uma coisa vos perguntarei:
+ 
+ É lícito nos sábados
+ fazer bem, ou fazer mal? Salvar uma pessoa, ou matá-la?
 \v Lc.6.10
-E olhando para todos ao redor, disse ao homem: Estende tua mão.E ele assim o fez; e a mão foi lhe restituída sã como a outra.
+E ele, olhando para todos em redor, disse ao homem:
+ Estende a tua mão. E ele assim
+ o fez; e a mão foi lhe restituída sã como a outra.
 \v Lc.6.11
-E ficaram cheios de ira; e conversavam uns com os outros 
+Então encheram-se de ira; e conversaram uns com os outros 
 \added
 sobre
 \*added
  o que fariam a Jesus.
 \v Lc.6.12
-E aconteceu naqueles dias 
-\added
-que
-\*added
- ele saiu ao monte para orar; e passou a noite orando a Deus.
+E aconteceu que naqueles dias ele foi ao monte para orar; e passou a noite orando a Deus.
 \v Lc.6.13
-E quando já era de dia, chamou a si seus discípulos, e escolheu doze deles, a quem também chamou apóstolos:
+E quando já era dia, chamou a si os seus discípulos, e escolheu doze deles, a quem também chamou de apóstolos:
 \v Lc.6.14
-Simão, a quem também chamou Pedro, e André seu irmão; Tiago, e João; Filipe, e Bartolomeu.
+Simão, a quem também chamou de Pedro, e seu irmão André; Tiago, e João; Filipe, e Bartolomeu.
 \v Lc.6.15
 Mateus, Tomé; Tiago 
 \added
 filho
 \*added
- de Alfeu, e Simão chamado Zelote.
+ de Alfeu, e Simão chamado “o Zelote”.
 \v Lc.6.16
-Judas irmão de Tiago, e Judas Iscariotes, o mesmo que foi o traidor.
+Judas de Tiago, e Judas Iscariotes, o mesmo
+ que foi o traidor.
 \v Lc.6.17
-E descendo com eles, parou em um lugar plano, e 
+Ele desceu com eles, parou num lugar plano, e também 
 \added
 com ele
 \*added
- os seus muitos discípulos, e grande multidão do povo de toda a Judeia, e de Jerusalém, e da costa marítima de Tiro, e de Sidom.
+ uma grande quantidade dos seus discípulos, e grande multidão do povo de toda a Judeia, de 
+Jerusalém, da costa marítima de Tiro, e de Sidom,
 \v Lc.6.18
-Que tinham vindo para o ouvir, e para serem curados de suas enfermidades; como também aos atormentados de espíritos imundos; e foram curados.
+que tinham vindo para o ouvir, e para serem curados das suas enfermidades, como também os atormentados por 
+espíritos imundos; e
+ foram curados.
 \v Lc.6.19
-E toda a multidão procurava tocá-lo; porque saia poder, e curava a todos.
+E toda a multidão procurava tocá-lo; porque dele saía poder, e curava a todos.
 \v Lc.6.20
-E levantando ele os olhos para seus discípulos, dizia: Bem-aventurados vós pobres, porque o Reino de Deus é vosso.
+Ele levantou os olhos aos seus discípulos, e disse: Benditos
+\fn
+Ou: Bem-aventurados; também nos versos seguintes
+\*fn
+ sois vós, os pobres, porque o Reino de Deus é vosso.
 \v Lc.6.21
-Bem-aventurados vós que agora tendes fome, porque sereis fartos. Bem-aventurados vós que agora chorais, porque rireis.
+Benditos sois vós que agora tendes fome, porque sereis saciados. Benditos sois vós que agora chorais, porque rireis.
 \v Lc.6.22
-Bem-aventurados sereis quando as pessoas vos odiarem, e quando vos separarem, e vos insultarem, e rejeitarem vosso nome como 
-\added
-se fosse
-\*added
+Benditos sereis quando as pessoas vos odiarem, quando vos separarem, vos insultarem, e rejeitarem o vosso nome como
  mau, por causa do Filho do homem.
 \v Lc.6.23
-Alegrai-vos naquele dia, e saltai de alegria, porque eis que grande é a vossa recompensa nos céus; porque assim faziam seus pais aos profetas.
+Contentai-vos nesse dia, e saltai de alegria, porque eis que grande é a vossa recompensa nos céus; 
+pois assim os pais deles faziam aos profetas.
 \v Lc.6.24
-Mas ai de vós, ricos, porque já tendes vosso contento.
+Mas ai de vós, ricos, porque já tendes a vossa consolação.
 \v Lc.6.25
-Ai de vós que estais fartos, porque tereis fome. Ai de vós que agora rides, porque lamentareis, e chorareis.
+Ai de vós que estais saciados, porque tereis fome. Ai de vós que agora rides, porque lamentareis, e chorareis.
 \v Lc.6.26
-Ai de vós, quando todos falarem bem de vós; porque assim faziam seus pais aos falsos profetas.
+Ai de vós quando todos falarem bem de vós; porque assim os pais deles faziam aos falsos profetas.
 \v Lc.6.27
-Mas a vós, que ouvis, digo: amai a vossos inimigos; fazei bem aos que vos odeiam.
+Mas a vós, que estais ouvindo, digo: amai os vossos inimigos; fazei bem aos que vos odeiam;
 \v Lc.6.28
-Bendizei aos que vos maldizem, e orai pelos que vos violentam.
+bendizei aos que vos maldizem, e orai pelos que vos maltratam.
 \v Lc.6.29
-Ao que te ferir em uma face, oferece-lhe também a outra; e ao que te tirar a capa, não 
-\added
-lhe
-\*added
- recuse 
-\added
-de tirar
-\*added
- a roupa.
+Ao que te ferir numa face, oferece-lhe também a outra; e ao que te tirar a capa, não recuses a túnica.
 \v Lc.6.30
-E a qualquer que te pedir, dá; e ao que te tomar o teu, não o peças de volta.
+Dá a quem te pedir; e ao que te tomar o 
+\added
+que é
+\*added
+teu, não o peças de volta.
 \v Lc.6.31
 E como vós quereis que as pessoas vos façam, fazei-lhes vós também da mesma maneira.
 \v Lc.6.32
-E se amardes aos que vos amam, que favor vós fazeis? Porque os pecadores também amam aos que os amam.
+E se amardes aos que vos amam, que mérito tereis? Pois também os pecadores amam os que os amam.
 \v Lc.6.33
-E se fizerdes bem aos que vos fazem bem, que mérito tereis? Pois os pecadores também fazem o mesmo.
+E se fizerdes bem aos que vos fazem bem, que mérito tereis? Pois também os pecadores fazem o mesmo.
 \v Lc.6.34
-E se emprestardes a aqueles de quem esperais receber de volta, que mérito tereis? Pois os pecadores também emprestam a pecadores, para voltarem a receber tanto quanto 
-\added
-tiverem emprestado
-\*added
- .
+E se emprestardes àqueles de quem esperais receber de volta, que mérito tereis? Pois também os pecadores emprestam 
+aos pecadores, para receberam de volta o tanto equivalente.
 \v Lc.6.35
-Amai pois a vossos inimigos, e fazei o bem, e emprestai, sem disso nada esperar; e será grande vossa recompensa, e sereis filhos do Altíssimo; porque é benigno 
+Em vez disso, amai aos vossos inimigos, fazei o bem, e emprestai, sem nada esperar disso; e grande será a vossa 
+recompensa, e sereis filhos do Altíssimo; porque é benigno 
 \added
 até
 \*added
  para com os ingratos e maus.
 \v Lc.6.36
-Sede pois misericordiosos, como também vosso Pai é misericordioso.
+Portanto, sede misericordiosos, como também o vosso Pai é misericordioso.
 \v Lc.6.37
-E não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; soltai, e vos soltarão.
+Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; liberai, e vos liberarão.
 \v Lc.6.38
-Dai, e será vos dado; medida boa, comprimida, sacudida e transbordando vos darão em vosso colo; porque com a mesma medida que medirdes vos medirão de volta.
+Dai, e será vos dado; medida boa, comprimida, sacudida e transbordante vos darão no vosso colo; 
+pois com a mesma medida que medirdes vos medirão de volta.
 \v Lc.6.39
-E ele lhes disse uma parábola: Pode, por acaso, o cego guiar 
+E disse-lhes uma parábola: Acaso pode o cego guiar 
 \added
 outro
 \*added
  cego? Não cairão ambos no buraco?
 \v Lc.6.40
-O discípulo não está acima de seu mestre; mas qualquer um que for preparado será como seu mestre.
+O discípulo não está acima do seu mestre; mas todo aquele que estiver completamente capacitado será como o seu mestre.
 \v Lc.6.41
-E por que tu prestas atenção no cisco que está no olho do teu irmão, e a trave que está em teu próprio olho não enxergas?
+E por que tu prestas atenção no cisco que está no olho do teu irmão, e não enxergas a trave que está no teu 
+próprio olho?
 \v Lc.6.42
-Ou como podes dizer a teu irmão: Irmão, deixa-me tirar o cisco que está em teu olho? Se tu mesmo não prestas atenção para a trave que está em teu olho? Hipócrita, tira primeiro a trave de teu olho, e então enxergarás para tirar o cisco que está no olho de teu irmão.
+Ou como podes dizer a teu irmão: “Irmão, deixa-me tirar o cisco que está no teu olho”, se tu mesmo não prestas atenção 
+na trave que está no teu olho? Hipócrita, tira primeiro a trave de teu olho, e então verás bem para tirar o cisco que 
+está no olho do teu irmão.
 \v Lc.6.43
-Porque não é boa a árvore que dá mau fruto, nem má a árvore que dá bom fruto.
+Pois não há boa árvore que dê mau fruto, nem árvore má que dê bom fruto.
 \v Lc.6.44
-Porque cada árvore se conhece por seu próprio fruto; que não se colhem figos dos espinheiros, nem tiram uvas dos abrolhos.
+Porque cada árvore se conhece pelo seu próprio fruto; pois não se colhem figos dos espinheiros, nem se tiram uvas 
+dos abrolhos.
 \v Lc.6.45
-A boa pessoa tira o bem do bom tesouro de seu coração; e a má pessoa tira o mal do mau tesouro de seu coração; porque a sua boca fala d 
-\added
-aquilo que
-\*added
- o coração 
-\added
-tem em
-\*added
- abundância.
+A boa pessoa tira o bem do bom tesouro do seu coração, e a pessoa má tira o mal do mau tesouro do seu coração; pois 
+a sua boca fala daquilo que o coração tem em abundância.
 \v Lc.6.46
-E por que me chamais: Senhor, Senhor! E não fazeis o que digo?
+E por que me chamais: “Senhor!”, “Senhor!”, e não fazeis o que eu digo?
 \v Lc.6.47
-Qualquer que vem a mim, e ouve minhas palavras, e as faz, eu vos mostrarei a quem é semelhante:
+Todo aquele que vem a mim, ouve as minhas palavras, e as pratica, eu vos mostrarei a quem é semelhante:
 \v Lc.6.48
-Semelhante é ao homem que construiu uma casa, e cavou bem fundo, e pôs o fundamento sobre a rocha; e vindo a enchente, a corrente veio com força naquela casa, e não a pode abalar, porque estava fundada sobre a rocha.
+Semelhante é ao homem que construiu uma casa, cavou, abriu bem fundo, e pôs o fundamento sobre a rocha; e quando 
+veio a enchente, a corrente bateu com ímpeto naquela casa, e não a pôde abalar, porque estava fundada sobre a rocha.
 \v Lc.6.49
-Mas o que as ouvir, e não 
-\added
-as
-\*added
- fizer, semelhante é ao homem que construiu 
-\added
-sua
-\*added
- casa sobre a terra sem fundamento, na qual a corrente veio com força, e logo caiu; e foi grande a queda daquela casa.
+Mas aquele que ouve e não pratica é semelhante ao homem que construiu uma casa sobre a terra, sem fundamento, na qual 
+a corrente bateu com ímpeto, e logo caiu; e foi grande a queda daquela casa.
 \v Lc.7.1
-E depois de acabar todas suas palavas aos ouvidos do povo, ele entrou em Cafarnaum.
+E depois de acabar todos os seus discursos aos ouvidos do povo, ele entrou em Cafarnaum.
 \v Lc.7.2
-E um certo centurião 
-\added
-tinha
-\*added
- um servo a quem muito estimava, que estava enfermo, a ponto de morrer.
+E o servo de um certo centurião, a quem muito estimava, que estava doente, e a ponto de morrer.
 \v Lc.7.3
-E ele, ao ouvir sobre Jesus, enviou-lhe os anciãos dos judeus, rogando-lhe que viesse e curasse a seu servo.
+E quando 
+\added
+o centurião
+\*added
+ ouviu falar sobre Jesus, enviou-lhe uns anciãos dos judeus, rogando-lhe que viesse curar o seu servo.
 \v Lc.7.4
-E eles, vindo a Jesus, rogaram-lhe com urgência, dizendo: Ele é digno de lhe concederes isto,
+Eles vieram a Jesus, e rogaram-lhe com urgência, dizendo: Ele é digno de lhe concederes isto,
 \v Lc.7.5
-Porque ama a nossa nação, e ele mesmo edificou para nós a sinagoga.
+porque ele ama a nossa nação, e ele mesmo construiu a nossa sinagoga.
 \v Lc.7.6
-E Jesus foi com eles; mas quando já não estava longe da casa, o centurião lhe mandou uns amigos, dizendo-lhe: Senhor, não te incomodes, porque não sou digno que entres abaixo de meu telhado.
+Jesus foi com eles; mas quando já não estava longe da casa, o centurião lhe enviou uns amigos, dizendo-lhe: “Senhor, 
+não te incomodes, porque não sou digno que entres abaixo do meu telhado.
 \v Lc.7.7
-Por isso que nem mesmo me considerei digno de vir a ti; mas dize uma palavra, e meu servo sarará.
+Por isso que nem mesmo me considerei digno de vir a ti; mas diz uma palavra, e o meu servo sarará.
 \v Lc.7.8
-Porque eu também sou homem subordinado à autoridade, 
-\added
-e
-\*added
- tenho soldados abaixo de mim, e digo a este: Vai,  e ele vai; e a outro:  Vem,  e ele vem; e a meu servo:  Faze isto,  e ele faz.
+Porque também eu sou homem subordinado à autoridade, e tenho soldados sob o meu comando, e digo a este: 'Vai', e ele 
+vai; e a outro: 'Vem', e ele vem; e a meu servo: 'Faz isto', e ele faz”.
 \v Lc.7.9
-E Jesus, ouvindo isto, maravilhou-se dele; e virando-se, disse à multidão que o seguia: Digo-vos, 
-\added
-que
-\*added
- nem mesmo em Israel achei tanta fé.
+Quando Jesus ouviu isso, admirou-se dele; então se virou, e disse à multidão que o seguia: Digo-vos que nem mesmo em 
+Israel achei tanta fé.
 \v Lc.7.10
-E os que foram enviados, ao voltarem para casa, acharam são ao servo enfermo.
+E quando os que foram enviados voltaram para casa, acharam são o servo doente.
 \v Lc.7.11
 E aconteceu no dia seguinte, que 
 \added
 Jesus
 \*added
- ia a uma cidade chamada Naim, e iam com ele muitos de seus discípulos, e grande multidão.
+ ia a uma cidade chamada Naim, e com ele iam muitos de seus discípulos, e uma grande multidão.
 \v Lc.7.12
 E quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que 
 \added
 era
 \*added
- viúva; e 
+ viúva; e com ela 
 \added
-havia
+ia
 \*added
- com ela grande multidão da cidade.
+ grande multidão da cidade.
 \v Lc.7.13
-E o Senhor, ao vê-la, comoveu-se de intima compaixão por ela, e disse-lhe: Não chores.
+Quando o Senhor a viu, comoveu-se de intima compaixão por ela, e disse-lhe: Não chores.
 \v Lc.7.14
-E chegando perto, tocou a caixa 
-\added
-onde estava o morto
-\*added
- ; (e os que a levavam, pararam), e ele disse: Jovem, a ti eu digo: levanta-te.
+Então se aproximou, tocou o caixão (e os que a levavam, pararam), e disse: Jovem, a ti eu digo: levanta-te.
 \v Lc.7.15
-E o defunto se sentou, e começou a falar; e ele o deu a sua mãe.
+E o defunto se sentou e começou a falar; e ele o entregou à sua mãe.
 \v Lc.7.16
-E temor veio sobre todos, e glorificavam a Deus, dizendo: Grande profeta se levantou entre nós, e Deus visitou a seu povo!
+Todos se encheram de temor, e glorificavam a Deus, dizendo: “Um grande profeta se levantou entre nós, e Deus visitou o 
+seu povo!”
 \v Lc.7.17
-E saiu esta fama dele por toda a Judeia, e por toda a terra ao redor.
+E essa sua fama correu por toda a Judeia, e por toda a região em redor.
 \v Lc.7.18
-E os discípulos de João lhe anunciaram estas coisas.
+E os discípulos de João lhe anunciaram essas coisas.
 \v Lc.7.19
-E João, chamando a certos dois de seus discípulos, mandou-os a Jesus, dizendo: És tu aquele que havia de vir, ou esperamos a outro?
+Então João chamou dois de seus discípulos, e os enviou a Jesus, dizendo: “És tu aquele que havia de vir, ou 
+esperamos outro?”
 \v Lc.7.20
-E quando aqueles homens vieram a ele, disseram: João, o Batista, nos mandou a ti, dizendo: És tu aquele que havia de vir, ou esperamos a outro?
+E quando aqueles homens vieram a ele, disseram: “João Batista nos enviou a ti, dizendo: 'És tu aquele que havia de 
+vir, ou esperamos outro?'”
 \v Lc.7.21
-E naquela mesma hora ele curou a muitos de enfermidades, e males, e espíritos maus, e a muitos cegos deu a vista.
+E naquela mesma hora ele curou a muitos de enfermidades, males, e espíritos maus, e a deu vista a muitos cegos.
 \v Lc.7.22
-E Jesus, respondendo, disse-lhes: Ide, e anunciai a João as coisas que tendes visto e ouvido: que os cegos veem, os mancos andam, os leprosos são limpos, os surdos ouvem, os mortos ressuscitam, e aos pobres se anuncia o Evangelho.
+Jesus lhes respondeu: Ide, e anunciai a João as coisas que tendes visto e ouvido: que os cegos veem, os mancos andam, 
+os leprosos são purificados, os surdos ouvem, os mortos ressuscitam, e aos pobres é anunciado o Evangelho.
 \v Lc.7.23
-E bem-aventurado aquele que em mim não se ofender.
+E bendito
+\fn
+Ou: bem-aventurado
+\*fn
+ é aquele que não se ofender em mim.
 \v Lc.7.24
-E quando os mensageiros de João se foram, começou a dizer de João às multidões: Que saístes para ver no deserto? Alguma cana sacudida pelo vento?
+E quando os mensageiros de João se foram, 
+\added
+Jesus
+\*added
+ começou a dizer às multidões acerca de João: Que saístes para ver no deserto? Alguma cana sacudida pelo vento?
 \v Lc.7.25
-Mas que saístes para ver? Algum homem vestido de roupas preciosas? Eis que os que 
+Mas que saístes para ver? Um homem vestido de roupas delicadas? Eis que os que 
 \added
 vestem
 \*added
- roupas preciosas e vivem em prazeres estão nos palácios reais.
+ roupas delicadas e vivem no luxo estão nos palácios reais.
 \v Lc.7.26
-Mas que saístes para ver? Algum profeta? Também vos digo, e 
-\added
-ele é
-\*added
- muito mais que profeta.
+Mas que saístes para ver? Um profeta? Sim, vos digo, e muito mais que profeta.
 \v Lc.7.27
-Este é aquele de quem está escrito: Eis que envio a meu mensageiro diante de tua face, o qual preparará teu caminho diante de ti.
+Este é aquele de quem está escrito: Eis que envio o meu mensageiro adiante de tua face, o qual preparará o teu caminho 
+diante de ti.
 \v Lc.7.28
-Porque eu vos digo, que dentre os nascidos de mulheres, não há maior profeta que João o Batista; mas o menor no Reino dos céus é maior que ele.
+Pois eu vos digo, que dentre os nascidos de mulheres, não há profeta maior que João, o Batista; mas o menor no Reino 
+dos céus é maior que ele.
 \v Lc.7.29
-E todo o povo, e os cobradores de impostos, que foram batizados com o batismo de João, ao ouvirem, concordaram que Deus era justo.
+E todo o povo e os cobradores de impostos ouviram, concordaram que Deus era justo, e foram batizados com o batismo de João.
 \v Lc.7.30
-Mas os fariseus e os estudiosos da Lei rejeitaram o conselho de Deus contra si mesmos, não sendo batizados por ele.
+Mas os fariseus e os estudiosos da Lei rejeitaram o conselho de Deus contra si mesmos, e não foram batizados por ele.
 \v Lc.7.31
-E disse o Senhor: A quem pois compararei as pessoas desta geração? E a quem são semelhantes?
+E o Senhor disse: “A quem, pois, compararei as pessoas desta geração? E a quem são semelhantes?
 \v Lc.7.32
-Semelhantes são aos meninos, sentados na praça, que gritam uns aos outros, e dizem: Tocamos flautas para vós, mas não dançastes; cantamos lamentações para vós, mas não chorastes.
+São semelhantes às crianças sentadas na praça, que gritam umas às outras: 'Tocamo-vos flautas, mas não dançastes; 
+cantamos-vos lamentações, mas não chorastes'.
 \v Lc.7.33
-Porque veio João Batista, que nem comia pão, nem bebia vinho, e dizeis: Ele tem demônio;
+Porque veio João Batista, que não comia pão, nem bebia vinho, e dizeis: 'Ele tem demônio';
 \v Lc.7.34
-Veio o Filho do homem, que come e bebe, e dizeis: Eis um homem comilão, e bebedor de vinho, amigo de cobradores de impostos e pecadores.
+Veio o Filho do homem, que come e bebe, e dizeis: 'Eis um homem comilão e bebedor de vinho, amigo dos cobradores de 
+impostos e dos pecadores'.
 \v Lc.7.35
-Mas a sabedoria foi considerada justa por todos os seus filhos.
+Mas a sabedoria foi considerada justa por todos os seus filhos”.
 \v Lc.7.36
-E um dos fariseus lhe rogou que comesse com ele; e entrando na casa do fariseus, sentou-se 
+E um dos fariseus lhe pediu que comesse com ele; então entrou na casa do fariseu, e sentou-se 
 \added
 à mesa
 \*added
- .
+.
 \v Lc.7.37
-E eis que uma mulher, que era pecadora na cidade, sabendo que estava 
-\added
-à mesa
-\*added
- na casa do fariseu, trouxe um vaso de alabastro de óleo perfumado.
+E eis que uma mulher da cidade, que era pecadora, quando soube que ele estava na casa do fariseu, trouxe um vaso de 
+alabastro de óleo perfumado.
 \v Lc.7.38
-E estando de trás de seus pés, chorando, começou a molhar-lhe os pés com lágrimas; e limpava-os com os cabelos de sua cabeça; e beijava-lhe os pés, e ungia-os com o óleo perfumado.
+E estando atrás, aos seus pés, chorando, começou a molhar-lhe os pés com lágrimas; e os enxugava com os cabelos da sua 
+cabeça; e beijava-lhe os pés, e os ungia com o óleo perfumado.
 \v Lc.7.39
-E quando o fariseu que o tinha convidado viu 
+E quando o fariseu que o havia convidado viu 
 \added
-isto
+isso
 \*added
-,falou com ele, dizendo: Se tu foste profeta, bem saberia quem e qual é a mulher que o toca; porque ela é pecadora.
+, falou consigo mesmo: Se ele fosse profeta, saberia quem e qual é a mulher que o toca; porque ela é pecadora.
 \v Lc.7.40
-E respondendo Jesus, disse-lhe: Simão, uma coisa tenho que te dizer;E ele disse: Dize-a, Mestre.
+E Jesus lhe respondeu: “Simão, tenho uma coisa a te dizer”; e ele disse: “Dize-a, Mestre”.
 \v Lc.7.41
- 
 \added
 Jesus
 \*added
- disse: Um certo credor tinha dois devedores: um lhe devia quinhentas moedas de prata, e o outro cinquenta.
+ disse: “Certo credor tinha dois devedores. Um lhe devia quinhentas moedas de prata, e o outro cinquenta.
 \v Lc.7.42
-E eles, não tendo com que pagar, perdoou-lhes 
+Como não tinham com que pagar, perdoou-lhes 
 \added
 a dívida
 \*added
- de ambos. Dize pois, qual destes o amará mais?
+ de ambos. Diz, pois, qual deles o amará mais?”
 \v Lc.7.43
-E respondendo Simão, disse: Para mim tenho que aquele a quem mais perdoou.E ele lhe disse: Corretamente julgaste.
+Simão respondeu: Tenho para mim que aquele a quem mais perdoou. E ele lhe disse: Julgaste corretamente.
 \v Lc.7.44
-E virando-se para a mulher, disse a Simão: Vês tu esta mulher? Eu entrei em tua casa, 
-\added
-e
-\*added
- não me deste água para os pés; e esta molhou os meus pés com lágrimas, e os limpou com os cabelos de sua cabeça.
+Ele se voltou à mulher, e disse a Simão: Vês tu esta mulher? Entrei na tua casa, e não me deste água para os pés; 
+porém esta molhou os meus pés com lágrimas, e os enxugou com os seu cabelos da cabeça.
 \v Lc.7.45
-Tu não me deste beijo; e esta, desde que entrou, não parou de me beijar os pés.
+Tu não me beijaste; porém esta, desde que entrou, não parou de me beijar os pés.
 \v Lc.7.46
-Não ungiste a cabeça com óleo, e esta ungiu os meus pés com óleo perfumado.
+Não ungiste a minha cabeça com óleo, porém esta ungiu os meus pés com óleo perfumado.
 \v Lc.7.47
-Portanto eu te digo, os muitos pecados dela são perdoados, porque muito amou; mas ao que pouco se perdoa, pouco ama.
+Por isso te digo, os muitos pecados dela são perdoados, porque muito amou; mas ao que pouco se perdoa, pouco ama.
 \v Lc.7.48
-E ele disse a ela: Teus pecados são perdoados.
+E disse a ela: Os teus pecados são perdoados.
 \v Lc.7.49
-E os que estavam juntamente sentados 
-\added
-à mesa
-\*added
- começaram a dizer entre si: Quem é este, que também perdoa pecados?
+E os que estavam sentados começaram a dizer entre si: Quem é este, que até perdoa pecados?
 \v Lc.7.50
-E disse à mulher: Tua fé te salvou; vai em paz.
+E disse à mulher: A tua fé te salvou; vai em paz.
 \v Lc.8.1
-E aconteceu depois disto, que 
+E aconteceu depois disso, que 
 \added
 Jesus
 \*added
- andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o Evangelho do Reino de Deus; e os doze com ele.
+ andava de cidade em cidade, e de aldeia em aldeia, pregando e anunciando o evangelho do reino de Deus; e com ele os doze,
 \v Lc.8.2
-E 
-\added
-também
-\*added
- algumas mulheres que haviam sido curadas de espíritos malignos, e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios;
+e algumas mulheres que haviam sido curadas de espíritos malignos e de enfermidades: Maria, chamada Madalena, da qual saíram sete demônios;
 \v Lc.8.3
-E Joana, a mulher de Chusas, mordomo de Herodes; e Susana, e muitas outras, que lhe serviam com seus bens.
+e Joana, a mulher de Cuza, mordomo de Herodes; e Susana, e muitas outras, que lhe serviam com seus bens.
 \v Lc.8.4
-E ajuntando-se uma grande multidão, e vindo a ele de todas as cidades, disse por parábola:
+E quando se ajuntou uma multidão, e vindo a ele de todas as cidades, disse por parábola:
 \v Lc.8.5
-Saiu um semeador para semear sua semente; e ele, semeando, caiu uma 
+Saiu um semeador a semear sua semente; e quando semeava, caiu uma 
 \added
 parte
 \*added
@@ -1457,334 +1491,349 @@ E outra
 \added
 parte
 \*added
- caiu entre espinhos, e nascendo, os espinhos juntamente a sufocaram.
+ caiu entre espinhos, e nascendo com ela, os espinhos a sufocaram.
 \v Lc.8.8
 E outra 
 \added
 parte
 \*added
- caiu em boa terra, e nascida, deu fruto a cem por um.Dizendo ele estas coisas, clamava: Quem tem ouvidos para ouvir, ouça.
+ caiu em boa terra, e nascida, produziu fruto a cem por um. Depois que disse coisas, clamava: Quem tem ouvidos para 
+ouvir, ouça.
 \v Lc.8.9
-E seus discípulos lhe perguntaram, dizendo: Que parábola é esta?
+E os seus discípulos lhe perguntaram: Que parábola é esta?
 \v Lc.8.10
-E disse ele: A vós é dado entender os mistérios do Reino de Deus; mas aos outros por parábolas, para que vendo, não vejam; e ouvindo, não entendam.
+Ele disse: A vós é dado conhecer os mistérios do reino de Deus; mas aos outros por parábolas, para que vendo, não 
+vejam; e ouvindo, não entendam.
 \v Lc.8.11
 Esta é, pois, a parábola: a semente é a palavra de Deus.
 \v Lc.8.12
-E os de junto ao caminho, estes são os que ouvem; depois vem o diabo, e tira-lhes a palavra do coração, para que não creiam nem se salvem.
+Os que estão junto ao caminho são os que ouvem; depois vem o diabo, e tira-lhes do coração a palavra, para que não creiam nem 
+se salvem.
 \v Lc.8.13
-E os de sobre a pedra, estes são os que ouvindo, recebem a palavra com alegria, mas estes não têm raiz, que por um tempo creem, e no tempo da tentação se desviam.
+E os que estão sobre a pedra são os que, quando ouvem, recebem a palavra com alegria, mas esses não têm raiz, pois 
+creem por algum tempo, mas no tempo da tentação se desviam.
 \v Lc.8.14
-E o que caiu entre espinhos, estes são os que ouviram, e idos, se sufocam com as preocupações, e riquezas, e prazeres da vida, e não dão bom fruto.
+E o que caiu entre espinhos são os que ouviram, e indo, sufocam-se com as preocupações, e riquezas, e prazeres 
+da vida, e não produzem bom fruto.
 \v Lc.8.15
-E o que caiu em boa terra, estes são os que, ouvindo a palavra, a retêm em um honesto e bom coração, e dão fruto que permanece.
+E o que caiu em boa terra, estes são os que, ouvindo a palavra, conservam-na num coração honesto e bom, 
+e dão fruto que permanece.
 \v Lc.8.16
-E ninguém, acendendo a lâmpada, a cobre com algum vaso, ou a põe debaixo da cama; mas põe na luminária, para que os que entrem vejam a luz.
+E ninguém, quando acende uma lâmpada, cobre-a com algum vaso, ou a põe debaixo da cama; em vez disso 
+põe na luminária, para que os que entram vejam a luz.
 \v Lc.8.17
-Porque não há coisa oculta, que não venha a ser apresentada; nem coisa escondida, que não haja de ser conhecida, e vir à luz.
+Porque não há coisa oculta que não venha a se manifestar; nem coisa escondida que não venha a ser conhecida, 
+e chegada à luz.
 \v Lc.8.18
-Olhai pois como ouvis; porque a qualquer que tiver, lhe será dado; e a qualquer que não tiver, até o que lhe parece que tem, lhe será tirado.
+Portanto, prestai atenção a como ouvis; pois àquele que tiver lhe será dado; e àquele que não tiver, até o que lhe parece ter, dele será tirado.
 \v Lc.8.19
-E vieram a ele sua mãe, e irmãos, e não podiam chegar a ele por causa da multidão.
+E vieram a ele sua mãe e seus irmãos, mas não conseguiam chegar a ele por causa da multidão.
 \v Lc.8.20
-E foi-lhe anunciado, dizendo: Tua mãe e teus irmãos estão fora, e querem te ver.
+E foi-lhe anunciado, dizendo: “Tua mãe e teus irmãos estão fora, e querem te ver”.
 \v Lc.8.21
-Porém, respondendo ele, disse-lhes: Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus, e a fazem.
+Porém, ele lhes respondeu: “Minha mãe e meus irmãos são aqueles que ouvem a palavra de Deus e a praticam”.
 \v Lc.8.22
-E aconteceu um daqueles dias, que 
+E aconteceu, num daqueles dias, que 
 \added
 Jesus
 \*added
- entrou em um barco, com seus discípulos; e disse-lhes: Passemos para o outro lado do lago.E partiram.
+ entrou em um barco com seus discípulos, e disse-lhes: “Passemos para o outro lado do lago”. E partiram.
 \v Lc.8.23
-E enquanto eles estavam navegando, 
+E enquanto navegavam, 
 \added
 Jesus
 \*added
- adormeceu; e desceu uma tempestade de vento no lago, e enchiam-se 
+ adormeceu; então desceu uma tempestade de vento no lago, e enchiam-se 
 \added
 de água
 \*added
-,e corriam perigo.
+, e estavam em perigo.
 \v Lc.8.24
-E chegando-se a ele, o despertaram, dizendo: Mestre, Mestre, estamos perecendo!E ele se levantou, repreendeu ao vento, e as ondas da água; e pararam, e fez-se bonança.
+Então se aproximaram dele e o despertaram, dizendo: “Mestre, Mestre, estamos perecendo!” E ele 
+se levantou, repreendeu o vento e as ondas da água; e pararam, e fez-se bonança.
 \v Lc.8.25
-E disse-lhes: Onde está vossa fé?Mas eles, temendo, maravilharam-se, dizendo uns aos outros: Quem é este, que manda até aos ventos, e à água, e lhe obedecem?
+E disse-lhes: “Onde está a vossa fé?” Mas eles, temendo, admiravam-se, e diziam uns aos outros: 
+“Quem é este, que manda até aos ventos, e à água, e lhe obedecem?”
 \v Lc.8.26
-E navegaram para a terra dos gadarenos, que é vizinha à Galileia.
+E navegaram para a terra dos gadarenos, que é do lado oposto à Galileia.
 \v Lc.8.27
-E saindo ele à terra, veio da cidade ao seu encontro um homem, que já de muito tempo atrás tinha demônios, e não andava vestido, e não parava em casa nenhuma, mas 
-\added
-ficava entre
-\*added
- as sepulturas.
+E quando ele desceu à terra, veio da cidade ao seu encontro um homem, que havia muito 
+tempo que tinha demônios, e não andava vestido, nem habitava em casa nenhuma, mas sim, nos sepulcros.
 \v Lc.8.28
-E vendo a Jesus, e exclamando, prostrou-se diante dele, e disse com grande voz: O que eu tenho contigo, Jesus, Filho do Deus Altíssimo? Peço-te que não me incomodes.
+Ele viu Jesus, então exclamou, prostrou-se diante dele, e disse com grande voz: “O que eu tenho contigo, Jesus, Filho do Deus Altíssimo? Rogo-te que não me atormentes.”
 \v Lc.8.29
-Porque mandava ao espírito imundo que saísse daquele homem; porque muitas vezes ele o tomava. E o mantinham preso com cadeias e prendedores de pés; mas ele, quebrando o que lhe prendia, era levado pelo demônio aos desertos.
+Porque ele mandava ao espírito imundo que saísse daquele homem; pois muitas vezes apoderava-se dele. 
+E o mantinham preso com cadeias e grilhões; porém ele quebrava o que lhe prendia, e era conduzido 
+pelo demônio aos desertos.
 \v Lc.8.30
-E perguntou-lhe Jesus, dizendo: Qual é teu nome?E ele disse: Legião; (porque muitos demônios tinham entrado nele).
+E Jesus lhe perguntou: “Qual é teu nome?” E ele disse: “Legião” (porque muitos demônios tinham entrado nele).
 \v Lc.8.31
 E rogavam-lhe que não os mandasse ir para o abismo.
 \v Lc.8.32
-E havia ali uma manada de muitos porcos, que comiam no monte; e rogaram-lhe que lhes concedesse entrar neles; e ele lhes concedeu.
+E havia ali uma manada de muitos porcos, que pastavam no monte; e rogaram-lhe que lhes 
+concedesse entrar neles; e ele lhes concedeu.
 \v Lc.8.33
-E os demônios, saindo daquele homem, entraram nos porcos; e a manada se lançou de um precipício no lago, e se afogou.
+Os demônios saíram daquele homem e entraram nos porcos; e a manada se lançou de um precipício 
+no lago e se afogou.
 \v Lc.8.34
-E vendo os que cuidavam 
+Quando os que cuidavam 
 \added
 dos porcos
 \*added
- o que acontecera, fugiram; e indo, o anunciaram na cidade, e nos campos.
+ viram o que havia acontecido, fugiram; então foram anunciar na cidade e nos campos.
 \v Lc.8.35
-E saíram para ver o que acontecera, e vieram a Jesus; e acharam ao homem, do qual os demônios tinham saído, vestido e em pleno juízo, sentado aos pés de Jesus; e temeram.
+E saíram para ver o acontecido, e vieram até Jesus; e acharam ao homem de quem os demônios tinham saído, 
+vestido e em pleno juízo, sentado aos pés de Jesus; e temeram.
 \v Lc.8.36
-E contaram-lhes também os que o tinham visto, como aquele endemoninhado havia sido liberto.
+E os que tinham visto contaram-lhes também como aquele endemoninhado havia sido liberto.
 \v Lc.8.37
-E toda a multidão da terra dos gadarenos, ao redor, rogaram-lhe que se retirasse deles; porque foram tomados por grande temor. E ele, entrando no barco, voltou.
+E toda o povo da terra dos gadarenos ao redor lhe rogou que se retirasse deles; porque foram tomados por grande temor. Então ele entrou no barco e voltou.
 \v Lc.8.38
-E aquele homem, do qual os demônios tinham saído, lhe rogou para que pudesse estar com ele; mas Jesus o despediu, dizendo:
+E aquele homem, de quem os demônios tinham saído, rogou-lhe para que lhe permitisse estar com ele; 
+mas Jesus o despediu, dizendo:
 \v Lc.8.39
-Volta para tua casa, e conta como foram grandes as coisas que Deus te fez. E ele se foi, pregando por toda a cidade, como foram grandes as coisas que Jesus lhe tinha feito.
+“Volta para tua casa, e conta como foram grandes as coisas que Deus te fez”. Ele se foi, e pregou por 
+toda a cidade, como foram grandes as coisas que Jesus lhe tinha feito.
 \v Lc.8.40
-E aconteceu que, voltando Jesus, a multidão o recebeu; porque todos estavam o esperando.
+E aconteceu que, quando Jesus voltou, a multidão o recebeu; porque todos o estavam esperando.
 \v Lc.8.41
-E eis que veio um homem, cujo nome era Jairo, e era chefe da sinagoga; e ele, caindo aos pés de Jesus, rogava-lhe que entrasse em sua casa.
+E eis que chegou um homem, cujo nome era Jairo, e era chefe da sinagoga. Então ele se prostrou 
+aos pés de Jesus e rogou-lhe que entrasse em sua casa;
 \v Lc.8.42
-Porque tinha uma filha única, com doze anos de idade, e estava próxima da morte. E enquanto ele ia, as multidões o apertavam.
+porque tinha uma filha única, com doze anos de idade, que estava a ponto de morrer. 
+E enquanto ele ia, as multidões o apertavam.
 \v Lc.8.43
-E uma mulher que tinha um fluxo de sangue, havia doze anos, a qual já tinha gastado todo seu dinheiro com médicos, e não pôde ser curada por nenhum.
+E uma mulher que tinha um fluxo de sangue, havia doze anos, e já tinha gastado todos os seus pertences 
+com médicos, e não pôde ser curada por nenhum.
 \v Lc.8.44
- 
+Ela se aproximou 
 \added
-Ela
+de Jesus
 \*added
-,chegando-se a ele por trás, tocou a borda de sua roupa; e logo parou o fluxo de seu sangue.
+ por detrás, e tocou a borda de sua roupa; e logo o fluxo de seu sangue parou.
 \v Lc.8.45
-E disse Jesus: Quem me tocou?Enquanto todos negavam, disse Pedro e os que com ele estavam:
+E Jesus disse: “Quem me tocou?” Enquanto todos negavam, disse Pedro e os que com ele estavam:
  Mestre, as multidões te apertam e empurram, e dizes: Quem me tocou?
 \v Lc.8.46
-E Jesus disse: Alguém me tocou, pois sei que poder saiu de mim.
+Jesus disse: “Alguém me tocou, pois sei que poder saiu de mim”.
 \v Lc.8.47
-Vendo a mulher, então, que não podia ficar despercebida, veio tremendo, e prostrando-se diante dele, declarou-lhe diante de todo o povo a causa porque o havia tocado, e como logo sarara.
+Então a mulher, vendo que não podia se esconder, veio tremendo, prostrou-se diante dele, e 
+declarou-lhe diante de todo o povo a causa por que o havia tocado, e como logo havia sarado.
 \v Lc.8.48
-E ele lhe disse: Tem bom ânimo,
- filha; a tua fé te sarou; vai em paz.
+E ele lhe disse: “Tem bom ânimo,
+ filha; a tua fé te sarou; vai em paz”.
 \v Lc.8.49
-Estando ele ainda falando, veio um líder da sinagoga, dizendo-lhe: Tua filha já está morta, não incomodes o Mestre.
+Estando ele ainda falando, veio um da 
+\added
+casa
+\*added
+ do chefe da sinagoga, que lhe disse: “Tua filha já está morta, não incomodes o Mestre.”
 \v Lc.8.50
-Porém, ouvindo-o Jesus, respondeu-lhe, dizendo: Não temas; crê somente, e ela será curada.
+Porém quando Jesus o ouviu, respondeu-lhe: “Não temas; crê somente, e ela será curada”.
 \v Lc.8.51
-E entrando na casa, a ninguém deixou entrar, a não ser a Pedro, e a Tiago, e a João, e ao pai, e à mãe da menina.
+E quando entrou na casa, a ninguém deixou entrar, a não ser a Pedro, Tiago, João, e ao pai e à mãe da menina.
 \v Lc.8.52
-E todos choravam, e lamentavam por ela; e ele disse: Não choreis; ela não está morta, mas dorme.
+E todos choravam e lamentavam por ela; mas ele disse: “Não choreis; ela não está morta, mas dorme”.
 \v Lc.8.53
-E riam dele, sabendo que estava morta.
+E riam dele, porque sabiam que estava morta.
 \v Lc.8.54
-Porém ele, lançando-os todos para fora, e segurando a mão dela, clamou, dizendo: Levanta-te, menina.
+Porém ele, depois de expulsá-los todos, segurou a mão dela e clamou: “Levanta-te, menina”.
 \v Lc.8.55
-E seu espírito voltou, e ela logo se levantou; e 
+Então seu espírito voltou, e ela logo se levantou; e 
 \added
 Jesus
 \*added
  mandou que dessem de comer a ela.
 \v Lc.8.56
-E seus pais se espantavam, e ele lhes mandou que a ninguém dissessem o que havia acontecido.
+E seus pais ficaram maravilhados, mas ele lhes mandou que a ninguém dissessem o que havia acontecido.
 \v Lc.9.1
-E convocando seus doze discípulos, deu-lhes poder e autoridade sobre todos os demônios, e para curarem enfermidades.
+\added
+Jesus
+\*added
+convocou seus doze discípulos, e lhes deu poder e autoridade sobre todos os demônios, e 
+para curarem enfermidades.
 \v Lc.9.2
-E mandou-os para pregar o Reino de Deus, e para curar aos enfermos.
+E os enviou para pregar o reino de Deus e para curar os enfermos.
 \v Lc.9.3
-E disse-lhes: Não tomeis nada convosco para o caminho, nem vara, nem bolsa, nem pão, nem dinheiro, nem tenhais duas roupas cada um.
+E disse-lhes: “Não tomeis nada convosco para o caminho: nem vara, nem bolsa, 
+nem pão, nem dinheiro, nem tenhais duas túnicas cada um.
 \v Lc.9.4
-E em qualquer casa que entrardes, ficai ali, e saí dali.
+E em qualquer casa que entrardes, ficai ali, e dali saí.
 \v Lc.9.5
-E quaisquer que não vos receber, saindo vós daquela cidade, até o pó sacudi de vossos pés, em testemunho contra eles.
+E a todo os que não vos receberem, quando sairdes daquela cidade, sacudi até o pó dos vossos pés, 
+em testemunho contra eles”.
 \v Lc.9.6
-E eles, saindo, passavam por todas as aldeias, anunciando o Evangelho, e curando 
-\added
-aos enfermos
-\*added
- em todos os lugares.
+Então eles partiram, e percorreram todas as aldeias, anunciando o Evangelho, e curando em todos os lugares.
 \v Lc.9.7
-E Herodes, o Tetrarca, ouvia todas as coisas que fazia; e estava em dúvida, porque alguns diziam que João tinha ressuscitado dos mortos.
+E o tetrarca Herodes ouvia falar todas as coisas que ele fazia; e estava perplexo, porque alguns 
+diziam que João tinha ressuscitado dos mortos;
 \v Lc.9.8
-E outros, que Elias havia aparecido; e outros, que algum profeta dos antigos havia ressuscitado.
+e outros, que Elias havia aparecido; e outros, que algum profeta dos antigos havia ressuscitado.
 \v Lc.9.9
-E disse Herodes: A João eu degolei; quem, pois, é este, de quem tantas coisas ouço?E procurava vê-lo.
+E Herodes disse: “A João mandei degolar; quem, pois, é este, de quem tais coisas ouço?” E procurava vê-lo.
 \v Lc.9.10
-E os apóstolos, tendo voltado, contaram-lhe todas as coisas que tinham feito. E tomando-os consigo, retirou-se à parte a um lugar deserto da cidade, chamado Betsaida.
-\v Lc.9.11
-E as multidões, ao saberem, o seguiram; e ele as recebeu, e lhes falava do Reino de Deus; e curava aos que precisavam de cura.
-\v Lc.9.12
-E o dia já começava a declinar; e chegando-se a ele os doze, disseram-lhe: Despede a multidão, para irem aos lugares e aldeias ao redor, se agasalhem, e achem o que comer; porque aqui estamos em lugar deserto.
-\v Lc.9.13
-Porém ele lhes disse: Dai-lhes vós de comer.E eles disseram: Não temos mais que cinco pães, e dois peixes; a não ser se formos nós 
+E quando os apóstolos, voltaram, contaram 
 \added
-mesmos
+a Jesus
 \*added
- comprar de comer para todo este povo.
+ todas as coisas que tinham feito. 
+Então ele os tomou consigo, e retirou-se à parte a um lugar deserto de uma cidade chamada Betsaida.
+\v Lc.9.11
+E quando as multidões souberam, seguiram-no. Ele as recebeu, e lhes falava do Reino de Deus, e 
+curava aos que precisavam de cura.
+\v Lc.9.12
+E o dia já começava a declinar. Então os doze se aproximaram dele, e lhe disseram: “Despede a multidão, 
+para irem aos lugares e aldeias ao redor, se agasalhem, e achem o que comer; porque aqui estamos em lugar deserto”.
+\v Lc.9.13
+Mas ele lhes disse: “Dai-lhes vós de comer”. E eles disseram: “Não temos mais que cinco pães 
+e dois peixes; a não ser se formos nós mesmos comprar de comer para todo este povo”.
 \v Lc.9.14
-Porque havia ali quase cinco mil homens. Então disse a seus discípulos: Fazei-os se sentarem em grupos, de cinquenta em cinquenta.
+Porque havia ali quase cinco mil homens. Então disse aos seus discípulos: “Fazei-os se sentarem 
+em grupos de cinquenta em cinquenta”.
 \v Lc.9.15
-E fizeram assim, e fizeram todos se sentarem.
+E assim procederam, fazendo todos se sentarem.
 \v Lc.9.16
-E tomando os cinco pães, e os dois peixes, e olhando para o céu, os abençoou, e os partiu, e os deu a seus discípulos, para 
+Então ele tomou os cinco pães e os dois peixes e, olhando para o céu, abençoou-os e partiu-os, 
+e os deu a seus discípulos, para 
 \added
 os
 \*added
  porem diante da multidão.
 \v Lc.9.17
-E todos comeram, e ficaram satisfeitos; e levantaram doze cestos de pedaços que sobraram.
+E todos comeram, e saciaram-se; e levantaram doze cestos de pedaços que sobraram.
 \v Lc.9.18
-E aconteceu que, enquanto ele estava orando só, e seus discípulos estavam com ele, que ele lhes perguntou, dizendo: Quem as multidões dizem que eu sou?
+E aconteceu que, quando ele estava orando só, e seus discípulos estavam com ele, 
+que ele lhes perguntou: “Quem as multidões dizem que eu sou?”
 \v Lc.9.19
-E respondendo eles, disseram: 
+E eles responderam: “
 \added
-Alguns
+Uns
 \*added
-,João Batista; e outros, Elias; e outros, que algum dos profetas antigos ressuscitou.
+, João Batista; outros, Elias; e outros, que algum dos profetas antigos ressuscitou”.
 \v Lc.9.20
-E disse-lhes: E vós, quem dizeis que eu sou?E respondendo Pedro, disse: O Cristo de Deus.
+E disse-lhes: “E vós, quem dizeis que eu sou?” E Pedro respondeu: “O Cristo de Deus”.
 \v Lc.9.21
-E ele, advertindo-os, mandou-lhes que não dissessem a ninguém;
+Então ele os alertou, e mandou-lhes que não dissessem a ninguém,
 \v Lc.9.22
-Dizendo: É necessário que o Filho do homem sofra muitas coisas, e seja rejeitado pelos anciãos, e pelos chefes dos sacerdotes, e pelos escribas; e seja morto, e ressuscitado ao terceiro dia.
+dizendo: “É necessário que o Filho do homem sofra muitas coisas; que seja rejeitado 
+pelos anciãos, pelos chefes dos sacerdotes, e pelos escribas; que seja morto, e que seja 
+ressuscitado ao terceiro dia”.
 \v Lc.9.23
-E dizia a todos: Se alguém quer vir depois de mim, negue-se a si mesmo, e tome cada dia sua cruz, e siga- me.
+E dizia a todos: “Se alguém quer vir após mim, negue-se a si mesmo, tome cada dia sua cruz, e siga- me.
 \v Lc.9.24
-Porque qualquer que quiser salvar sua vida a perderá; porém qualquer que, por causa de mim, perder sua vida, esse a salvará.
+Pois quem quiser salvar sua vida a perderá; porém quem, por minha causa, perder a sua vida, esse a salvará.
 \v Lc.9.25
-Porque, de que aproveita ao homem, ganhar o mundo todo, e perder ou prejudicar a si mesmo?
+Porque, que aproveita para alguém ganhar o mundo todo, e perder ou prejudicar a si mesmo?
 \v Lc.9.26
-Porque qualquer que se envergonhar de mim e de minhas palavras, dele o Filho do homem se envergonhará, quando vier em sua glória, e 
-\added
-na
-\*added
- do Pai, e dos santos anjos.
+Pois quem se envergonhar de mim e das minhas palavras, dele o Filho do homem se envergonhará, 
+quando vier na sua glória, e na do Pai, e dos santos anjos.
 \v Lc.9.27
-E vos digo em verdade, que há alguns dentre os que estão aqui, que não experimentarão a morte, até que vejam o Reino de Deus.
+E em verdade vos digo que, dentre os que aqui estão, há alguns que não experimentarão a 
+morte, até que vejam o Reino de Deus”.
 \v Lc.9.28
-E aconteceu que, quase oito dias depois destas palavras, tomou consigo a Pedro, e a João, e a Jacó, e subiu ao monte para orar.
+E aconteceu que, quase oito dias depois dessas palavras, ele tomou consigo a Pedro, João, e a Jacó, 
+e subiu ao monte para orar.
 \v Lc.9.29
-E ele, enquanto estava orando, a aparência do seu rosto se transfigurou, e seu vestido 
+E ele, enquanto estava orando, a aparência do seu rosto se transfigurou, e sua roupa 
 \added
 ficou
 \*added
- branco e brilhante.
+ branca e brilhante.
 \v Lc.9.30
-E eis que dois homens estavam falando com ele, que eram Moisés e Elias.
+E eis que estavam falando com ele dois homens, que eram Moisés e Elias,
 \v Lc.9.31
-Os quais apareceram em glória, e falavam de sua partida, que estava para se cumprir em Jerusalém.
+os quais apareceram com glória, e falavam de sua partida, que estava para se cumprir em Jerusalém.
 \v Lc.9.32
-E Pedro, e os que 
-\added
-estavam
-\*added
- com ele estavam cheios de sono; e quando despertaram, viram a glória dele, e 
-\added
-viram
-\*added
- a aqueles dois homens que estavam com ele.
+Pedro e os que estavam com ele estavam cheios de sono; e quando despertaram, viram a glória dele, e 
+aqueles dois homens que estavam com ele.
 \v Lc.9.33
-E aconteceu, que eles, saindo de 
-\added
-onde
-\*added
- ele 
-\added
-estava
-\*added
-,disse Pedro a Jesus: Mestre, é bom estarmos nós aqui; e façamos três tendas; uma para ti, e uma para Moisés, e uma para Elias (não sabendo o que dizia).
+E aconteceu que, quando eles estavam saíndo da presença dele, Pedro disse a Jesus: “Mestre, 
+é bom estarmos nós aqui. Façamos três tendas, uma para ti, uma para Moisés, e uma para Elias”, não sabendo o que dizia.
 \v Lc.9.34
-E enquanto ele dizia isto, veio uma nuvem que os cobriu com sua sombra; e eles temeram ao entrar na nuvem.
+E enquanto ele dizia isso, veio uma nuvem que os cobriu com a sua sombra; e, quando entraram na nuvem, temeram.
 \v Lc.9.35
-E veio uma voz da nuvem, que dizia: Este é o meu Filho amado; a ele ouvi.
+E veio uma voz da nuvem, que dizia: “Este é o meu Filho amado; a ele ouvi”.
 \v Lc.9.36
-E terminando aquela voz, Jesus se encontrava só; e eles se calaram, e por aqueles dias não contaram a ninguém nada do que tinham visto.
+E, depois de terminada aquela voz, Jesus se encontrava só; e eles se calaram, e 
+por aqueles dias não contaram a ninguém nada do que tinham visto.
 \v Lc.9.37
-E aconteceu no dia seguinte, que descendo eles do monte, uma grande multidão lhe saiu ao encontro.
+E aconteceu no dia seguinte que, descendo eles do monte, uma grande multidão lhe saiu ao encontro.
 \v Lc.9.38
-E eis que um homem da multidão clamou, dizendo: Mestre, peço-te que vejas a meu filho, que é o único que tenho.
+E eis que um homem da multidão clamou: “Mestre, rogo-te que vejas a meu filho, que é o único que tenho,
 \v Lc.9.39
-E eis que um espírito o toma, e de repente ele grita, e o convulsiona até a boca espumar, e dificilmente sai dele quando o maltrata.
+e eis que um espírito o toma, e de repente grita, e o convulsiona até espumar, e somente sai dele 
+quando o maltrata severamente.
 \v Lc.9.40
-E roguei a teus discípulos que o lançassem fora, mas não puderam.
+E roguei aos teus discípulos que o exupulsassem, mas não conseguiram”.
 \v Lc.9.41
-E respondendo Jesus, disse: Ó geração incrédula e perversa, até quando eu estarei ainda convosco, e vos tolerarei? Traze aqui teu filho.
+E Jesus respondeu: “Ó geração incrédula e perversa! Até quando estarei ainda convosco, e vos suportarei? 
+Traze aqui teu filho”.
 \v Lc.9.42
-E quando ainda vinha chegando, o demônio o derrubou, e o convulsionou. E Jesus repreendeu ao espírito imundo, e curou ao menino, e o devolveu a seu pai.
+E quando ainda vinha chegando, o demônio o derrubou, e o convulsionou. Porém Jesus 
+repreendeu o espírito imundo, curou ao menino, e o devolveu ao seu pai.
 \v Lc.9.43
-E todos se espantavam da grandeza de Deus. E enquanto todos se maravilhavam de tudo o que Jesus fazia, ele disse a seus discípulos:
+E todos ficaram perplexos com a grandeza de Deus. E enquanto todos se maravilhavam 
+de tudo o que Jesus fazia, disse aos seus discípulos:
 \v Lc.9.44
-Ponde vós em vossos ouvidos estas palavras: que o Filho do homem será entregue nas mãos dos homens.
+“Ponde vós em vossos ouvidos estas palavras: que o Filho do homem será entregue nas mãos dos homens”.
 \v Lc.9.45
-Mas eles não entendiam esta palavra, e 
-\added
-seu significado
-\*added
- lhes era oculto, para que eles não a compreendessem; e temiam perguntar-lhe sobre esta palavra.
+Mas eles não entendiam essa palavra, e era-lhes encoberta, para que não a compreendessem; 
+e temiam perguntar-lhe sobre essa palavra.
 \v Lc.9.46
-E levantou-se uma discussão entre eles, sobre qual deles seria o maior.
+E levantou-se entre eles uma discussão sobre qual deles seria o maior.
 \v Lc.9.47
-Mas Jesus, conhecendo o pensamento de seus corações, tomou a uma criança, e a pôs do seu lado.
+Mas Jesus, conhecendo o pensamento de seus corações, pegou uma criança, e a pôs junto a si.
 \v Lc.9.48
-E disse-lhes: Qualquer um que receber esta criança em meu nome, a mim me recebe; e qualquer que receber a mim, recebe ao que me enviou; porque o que entre todos vós for o menor, esse 
-\added
-é o que
-\*added
- será grande.
+Então disse-lhes: “Quem receber esta criança em meu nome, a mim me recebe; e quem receber a mim, 
+recebe o que me enviou; porque aquele que entre todos vós for o menor, esse será grande”.
 \v Lc.9.49
-E respondendo João, disse: Mestre, temos visto a um, que em teu nome lançava fora aos demônios, e nós o proibimos, porque não 
-\added
-te
-\*added
- segue conosco.
+João respondeu: “Mestre, vimos um que em teu nome expulsava os demônios, e nós o proibimos, 
+porque não segue conosco”.
 \v Lc.9.50
-E Jesus lhe disse: Não o proibais, porque quem não é contra nós, é por nós.
+E Jesus lhe disse: “Não o proibais, porque quem não é contra nós, é por nós”.
 \v Lc.9.51
-E aconteceu que, cumprindo-se os dias em que ele viria a partir para o alto, ele se determinou a ir para Jerusalém.
+E aconteceu que, quando completaram-se os dias em que ele viria a ser recebido no alto, 
+ele se determinou a ir para Jerusalém.
 \v Lc.9.52
-E mandou mensageiros adiante de sua face; e indo eles, entraram em uma aldeia de samaritanos, para lhe prepararem a sua 
-\added
-estadia ali
-\*added
- .
+E mandou mensageiros adiante de si;
+\fn
+Lit. adiante de sua face
+\*fn
+ e eles se foram, e entraram numa aldeia de samaritanos, para lhe fazerem os preparativos.
 \v Lc.9.53
-E não o receberam, porque seu rosto demonstrava que ele ia para Jerusalém.
+Mas não o receberam, porque seu rosto demonstrava que ele ia para Jerusalém.
 \v Lc.9.54
-E seus discípulos, Tiago e João, vendo 
+Quando seus discípulos, Tiago e João, viram 
 \added
-isto
+isso
 \*added
-,disseram: Senhor, queres que digamos para que desça fogo do céu, e os consuma, como Elias também fez?
+, disseram: “Senhor, queres que digamos que desça fogo do céu e os consuma, como Elias também fez?”
 \v Lc.9.55
-Porém ele, se virando, repreendeu-os, e disse: Vós não sabeis de que espírito sois.
+Porém ele se virou, repreendeu-os, e disse: Vós não sabeis de que espírito sois.
 \v Lc.9.56
+Porque o Filho do homem não veio para destruir as almas dos seres humanos, mas sim para salvá-las.
 E
  foram para outra aldeia.
 \v Lc.9.57
-E aconteceu que, enquanto eles iam pelo caminho, alguém lhe disse: Senhor, para onde quer que tu fores, eu te seguirei.
+E aconteceu que, enquanto eles iam pelo caminho, alguém lhe disse: “Senhor, eu te seguirei para onde quer que fores”.
 \v Lc.9.58
-E Jesus lhe disse: As raposas têm tocas, e as aves do céu 
-\added
-têm
-\*added
- ninhos; mas o Filho do homem não tem onde deitar a cabeça.
+E Jesus lhe disse: “As raposas têm tocas, e as aves do céu, ninhos; mas o Filho do homem não tem onde deitar a cabeça”.
 \v Lc.9.59
-E disse a outro: Segue-me.Porém ele disse: Senhor, deixa-me ir, para que antes eu enterre a meu pai.
+E disse a outro: “Segue-me”. Porém ele disse: “Senhor, deixa-me que primeiro eu vá, e eu enterre meu pai”.
 \v Lc.9.60
-Mas Jesus lhe disse: Deixa os mortos enterrarem seus próprios mortos; mas tu vai, e anuncia o Reino de Deus.
+Mas Jesus lhe disse: “Deixa os mortos enterrarem os seus próprios mortos; tu, porém, vai, e anuncia o reino de Deus”.
 \v Lc.9.61
-E outro também disse: Senhor, eu te seguirei; mas deixa-me antes despedir dos que estão em minha casa.
+E outro também disse: “Senhor, eu te seguirei; mas deixa-me primeiro despedir dos que estão em minha casa”.
 \v Lc.9.62
-E Jesus lhe disse: Ninguém que colocar sua mão no arado, e olhar para trás, é apto para o Reino de Deus.
+E Jesus lhe disse: “Ninguém que colocar a sua mão no arado e olhar para trás é apto para o reino de Deus”.
 \v Lc.10.1
-E depois disto, o Senhor ordenou ainda outros setenta, e os mandou de dois em dois adiante de sua face, para toda cidade e lugar para onde ele viria.
+E depois disso, o Senhor ordenou ainda outros setenta, e os mandou de dois em dois adiante de sua face, 
+para toda cidade e lugar aonde ele havia de vir.
 \v Lc.10.2
-E lhes dizia: A colheita verdadeiramente é grande, mas os trabalhadores são poucos; portanto rogai ao Senhor da colheita para que ele traga trabalhadores para sua colheita.
+E lhes dizia: “A colheita verdadeiramente é grande, mas os trabalhadores são poucos; portanto rogai 
+ao Senhor da colheita para que ele envie trabalhadores para a sua colheita.
 \v Lc.10.3
-Saí; eis que eu vos mando como a cordeiros no meio dos lobos.
+Ide; eis que eu vos mando como cordeiros no meio dos lobos.
 \v Lc.10.4
 Não leveis bolsa, nem sacola, nem sandálias; e a ninguém saudeis pelo caminho.
 \v Lc.10.5
@@ -1794,43 +1843,34 @@ seja
 \*added
  nesta casa.
 \v Lc.10.6
-E se ali houver algum filho da paz, a vossa paz repousará sobre ele; e se não, ela voltará para vós.
+E se ali houver algum filho da paz, a vossa paz repousará sobre ele; e se não, ela voltará para vós mesmos.
 \v Lc.10.7
-E ficai na mesma casa, comendo e bebendo do que tiverem; pois o trabalhador é digno de seu salário. Não passeis de casa em casa.
+E ficai na mesma casa, comendo e bebendo do que eles vos derem; pois o trabalhador é digno do seu salário. Não 
+vos mudeis de casa em casa.
 \v Lc.10.8
-E em qualquer cidade que entrardes, e vos receberem, comei o que puserem diante de vós.
+E em qualquer cidade que entrardes, e vos receberem, comei do que puserem diante de vós.
 \v Lc.10.9
-E curai os enfermos que nela houver, e dizei-lhes: Chegado é para vós o Reino de Deus.
+E curai os enfermos que nela houver, e dizei-lhes: Chegado é para vós o reino de Deus.
 \v Lc.10.10
-Mas em qualquer cidade que entrardes e não vos receberem, saí pelas ruas, e dizei:
+Mas em qualquer cidade em que entrardes e não vos receberem, saí pelas ruas, e dizei:
 \v Lc.10.11
-Até o pó de vossa cidade que ficou em nós, sacudimos sobre vós; porém disto sabeis, que o Reino de Deus já chegou a vós.
+Até o pó da vossa cidade que ficou em nós, sacudimos sobre vós; porém disto sabeis, que o 
+reino de Deus é chegado até vós.
 \v Lc.10.12
 E eu vos digo, que mais tolerável será naquele dia para Sodoma, do que para aquela cidade.
 \v Lc.10.13
-Ai de ti, Corazim! Ai de ti, Betsaida! Porque se em Tiro e em Sidom tivessem sido feitas as maravilhas que foram feitas entre vós, há muito tempo que teriam se arrependido, em saco e em cinza.
+Ai de ti, Corazim! Ai de ti, Betsaida! Porque se em Tiro e em Sidom tivessem sido feitas as maravilhas que foram 
+feitas entre vós, há muito tempo que teriam se arrependido em saco e em cinza.
 \v Lc.10.14
-Portanto para Tiro e Sidom será mais tolerável no juízo, do que para vós.
+Portanto, para Tiro e Sidom será mais tolerável no juízo, do que para vós.
 \v Lc.10.15
 E tu, Cafarnaum, que 
 \added
-pensas que
+pensas 
 \*added
- estás levantada até o céu, serás derrubada até o mundo dos mortos!
+ estar elevada ao céu, até o mundo dos mortos serás derrubada!
 \v Lc.10.16
-Quem ouve a vós, 
-\added
-também
-\*added
- ouve a mim; e quem vos rejeita, 
-\added
-também
-\*added
- rejeita a mim; e quem me rejeita, 
-\added
-também
-\*added
- rejeita ao que me enviou.
+Quem vos ouve, ouve a mim; e quem vos rejeita, rejeita a mim; e quem me rejeita, rejeita aquele que me enviou.
 \v Lc.10.17
 E os setenta voltaram com alegria, dizendo: Senhor, até os demônios se sujeitam a nós por teu nome.
 \v Lc.10.18
@@ -2711,7 +2751,7 @@ Pois se nas riquezas da injustiça não fostes fiéis, quem vos confiará as ver
 \added
 riquezas
 \*added
- ?
+?
 \v Lc.16.12
 E se nas 
 \added
@@ -3652,7 +3692,7 @@ E os que estavam com ele, vendo o que iria acontecer, disseram-lhe: Senhor, feri
 \v Lc.22.50
 E um deles feriu a um servo do chefe dos sacerdotes, e cortou-lhe a orelha direita.
 \v Lc.22.51
-E respondendo Jesus, disse: Para com isto!E tocando-lhe a orelha, o curou.
+E respondendo Jesus, disse: Para com isto! E tocando-lhe a orelha, o curou.
 \v Lc.22.52
 E disse Jesus aos chefes dos sacerdotes, e aos oficiais do Templo, e aos anciãos, que tinham vindo contra ele: Como 
 \added
@@ -3670,13 +3710,13 @@ E prendendo-o,
 \added
 o
 \*added
- trouxeram e o puseram na casa do chefe dos sacerdotes. E Pedro 
+ trouxeram e o puseram na casa do sumo sacerdote. E Pedro 
 \added
 o
 \*added
  seguia de longe.
 \v Lc.22.55
-E acenderam fogo no meio da sala, e sentaram-se juntos, e Pedro se sentou entre eles.
+E acenderam fogo no meio do pátio, e sentaram-se juntos, e Pedro se sentou entre eles.
 \v Lc.22.56
 E uma serva, vendo-o sentado junto ao fogo, fixando o olhos nele, disse: Este também estava com ele.
 \v Lc.22.57

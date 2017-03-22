@@ -294,11 +294,12 @@ para pedir
 \v At.3.11
 E o aleijado que tinha sido curado, tendo se apegado a Pedro e a João, todo o povo correu maravilhado a eles ao alpendre, que se chama de Salomão.
 \v At.3.12
-E Pedro, vendo 
+Quando Pedro viu 
 \added
-isto
+isso
 \*added
-,respondeu ao povo: Homens israelitas, por que vos maravilhais disto? Ou por que vós olhais com tanta atenção para nós, como se por nosso próprio poder ou santidade tivéssemos feito ele andar?
+, respondeu ao povo: “Homens israelitas, por que vos maravilhais disto? Ou por que vós olhais tão atentamente para 
+nós, como se por nosso próprio poder ou devoção divina o tivéssemos feito andar?
 \v At.3.13
 O Deus de Abraão, e de Isaque, e de Jacó, o Deus de nossos pais, glorificou a seu filho Jesus, ao qual vós entregastes, e diante do rosto de Pilatos o negastes, 
 \added
@@ -326,12 +327,11 @@ Arrependei-vos, pois, e convertei-vos, para que vosso pecados sejam apagados, qu
 E ele enviar a Jesus Cristo, que já vos foi {tr,rp:pregado}{n4:designado}{trnc: 
 \fn
 N4: designado 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP: pregado 
-\*fn
-} anteriormente.
+\*fn}
+ anteriormente.
 \v At.3.21
 Ao qual convém que o céu receba até os tempos da restauração de todas as coisas, que Deus falou pela boca de todos os seus santos profetas, desde o princípio.
 \v At.3.22
@@ -355,7 +355,7 @@ Deus, ao ressuscitar seu filho Jesus, primeiro o enviou a vós, para que
 \added
 nisto
 \*added
- vos abençoasse: afastando cada um de vós de vossas maldades.
+ vos abençoasse: afastando cada um de vós de vossas maldades”.
 \v At.4.1
 E enquanto eles ainda estavam falando ao povo, vieram sobre eles os sacerdotes, e o oficial do Templo, e os saduceus,
 \v At.4.2
@@ -841,19 +841,18 @@ E José mandou chamar a seu pai Jacó, e toda a sua parentela, setenta e cinco a
 \v At.7.15
 E Jacó desceu ao Egito, e morreu; ele, e nossos pais;
 \v At.7.16
-E foram levados a Siquém, e postos na sepultura que Abraão, por uma quantia em dinheiro, tinha comprado dos filhos de Emor{tr,rp:, 
+E foram levados a Siquém, e postos na sepultura que Abraão, por uma quantia em dinheiro, tinha comprado dos filhos de Emor
+{tr,rp:, 
 \added
 pai
 \*added
- de}{n4: em} Siquém.{trnc: 
-\fn
+ de}{n4: em} Siquém.
+{trnc:\fn
 TR, RP: [pai] de Siquém – N4: em Siquém 
-\*fn
-{n4: 
-\fn
-TR, RP: [pai] de Siquém 
-\*fn
-}
+\*fn}
+{n4:\fn
+TR, RP: [pai] de Siquém
+\*fn}
 \v At.7.17
 Mas quando chegou perto o tempo da promessa que Deus tinha prometido a Abraão, o povo cresceu e se multiplicou no Egito.
 \v At.7.18
@@ -871,7 +870,7 @@ E quando lhe foi completado o tempo de quarenta anos
 \added
 de idade
 \*added
-,veio ao seu coração 
+, veio ao seu coração 
 \added
 o desejo
 \*added
@@ -917,7 +916,6 @@ isso
 \*added
 ,maravilhou-se da visão; e ao aproximar-se para ver, veio até ele a voz do Senhor,
 \v At.7.32
- 
 \added
 Dizendo
 \*added
@@ -1226,11 +1224,10 @@ TR, RP contêm: “E o Senhor disse”
 \fn
 N4 omite “o Senhor disse” 
 \*fn
-} Eu sou Jesus, a quem tu persegues{tr:; duro é para ti dar coices contra os aguilhões}.{trnc: 
-\fn
+} Eu sou Jesus, a quem tu persegues{tr:; duro é para ti dar coices contra os aguilhões}.
+{trnc:\fn
 RP, N4 omitem: “duro é para ti dar coices contra os aguilhões” 
-\*fn
-}
+\*fn}
 \v At.9.6
 {tr:E ele, tremendo e atônito, disse: Senhor, que queres que eu faça?E o Senhor lhe 
 \added
@@ -1336,7 +1333,7 @@ E os irmãos, ao perceberem
 \added
 isto
 \*added
-,o levaram até Cesareia, e o enviaram a Tarso.
+, o levaram até Cesareia, e o enviaram a Tarso.
 \v At.9.31
 Então as igrejas por toda a Judeia, e Galileia, e Samaria, tinham paz, e eram edificadas; e andando no temor do Senhor, e 
 \added
@@ -1348,7 +1345,7 @@ E aconteceu que, Pedro, passando por todos
 \added
 os lugares
 \*added
-,veio também aos santos que habitavam em Lida.
+, veio também aos santos que habitavam em Lida.
 \v At.9.33
 E ali ele achou a um certo homem chamado Enéas, que havia oito anos que jazia numa cama, que era paralítico.
 \v At.9.34
@@ -1364,7 +1361,7 @@ Esta estava cheia de boas obras e doações que ela fazia
 \added
 aos necessitados
 \*added
- .
+.
 \v At.9.37
 E aconteceu naqueles dias, que tendo ela ficado doente, morreu; e tendo a lavado, puseram-na no compartimento superior.
 \v At.9.38
@@ -1402,15 +1399,13 @@ E ele, olhando-lhe atentamente, e muito atemorizado, disse: O que é, Senhor?E d
 \v At.10.5
 E agora envia homens a Jope, e manda chamar a Simão, que tem por sobrenome Pedro.
 \v At.10.6
-Este está hospedado na casa de um Simão curtidor, cuja casa é junto ao mar{tr:; este te dirá o que deves fazer}.{trnc: 
-\fn
+Este está hospedado na casa de um Simão curtidor, cuja casa é junto ao mar{tr:; este te dirá o que deves fazer}.
+{trnc:\fn
 RP, N4 omitem “este te dirá o que deves fazer” 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR acrescenta “este te dirá o que deves fazer” ao fim do versículo 
-\*fn
-}}
+\*fn}
 \v At.10.7
 E tendo partido o anjo que falava com Cornélio, ele chamou a dois de seus servos, e a um soldado devoto, dos que permaneciam continuamente com ele.
 \v At.10.8
@@ -3625,21 +3620,17 @@ E o governador, tendo lido
 \added
 a carta
 \*added
-,perguntou de que província ele era; e ao entender que 
+, perguntou de que província ele era; e ao entender que 
 \added
 era
 \*added
  da Cilícia,
 \v At.23.35
-Disse: Eu te ouvirei quando também vierem 
-\added
-aqui
-\*added
- teus acusadores.E mandou que o guardassem na 
-\added
-s dependências da
-\*added
- sala de audiência de Herodes.
+disse: “Eu te ouvirei quando também chegarem os teus acusadores”. E mandou que o guardassem no palácio
+\fn
+Ou: pretório
+\*fn
+ de Herodes.
 \v At.24.1
 E cinco dias depois, desceu o sumo sacerdote Ananias, com os anciãos e um certo orador Tértulo; os quais compareceram diante do governador contra Paulo.
 \v At.24.2
