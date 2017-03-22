@@ -35,7 +35,7 @@ A Bíblia Livre tem uso livre, porém a menção da obra de forma adequada é ob
 
 > Todas as Escrituras em português citadas são da Bíblia Livre (BLIVRE),
 > Copyright © Diego Santos, Mario Sérgio, e Marco Teles,
-> http://sites.google.com/site/biblialivre/ - janeiro de 2017. Licença
+> http://sites.google.com/site/biblialivre/ - março de 2017. Licença
 > Creative Commons Atribuição 3.0 Brasil
 > (http://creativecommons.org/licenses/by/3.0/br/). Reprodução permitida
 > desde que devidamente mencionados fonte e autores.
