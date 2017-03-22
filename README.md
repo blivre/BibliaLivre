@@ -5,7 +5,7 @@ BibliaLivre
 
 A página principal do projeto é https://sites.google.com/site/biblialivre/ .
 
-Este repositório contem os arquivos-fonte da tradução.
+Este repositório contém os arquivos-fonte da tradução.
 
 Conteúdo
 --------
