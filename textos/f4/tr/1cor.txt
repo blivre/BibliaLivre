@@ -111,7 +111,7 @@ Lit. nenhuma carne
 \v 1Co.1.30
 Mas vós sois dele em Jesus Cristo, o qual de Deus nos foi feito sabedoria, e justiça, e santificação, e resgate.
 \v 1Co.1.31
-Para que, como está escrito: Aquele que se orgulha, orgulhe-se por causa do Senhor.
+Para que, como está escrito: Aquele que se orgulha, orgulhe-se no Senhor.
 \v 1Co.2.1
 E eu, irmãos, quando vim até vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
 \v 1Co.2.2
@@ -259,7 +259,7 @@ tendes
 \v 1Co.4.16
 Portanto eu vos chamo para que sejais meus imitadores.
 \v 1Co.4.17
-Por isto eu enviei para vós Timóteo, que é meu amado e fiel filho no Senhor; ele vos lembrará os meus caminhos em Cristo, como por todas os lugares ensino em cada igreja.
+Por isso eu vos enviei Timóteo, que é meu amado e fiel filho no Senhor; ele vos lembrará dos meus caminhos em Cristo, como por todos os lugares ensino em cada igreja.
 \v 1Co.4.18
 Mas alguns andam arrogantes, como se eu não fosse até vós.
 \v 1Co.4.19
@@ -457,11 +457,12 @@ Mas se o descrente se separar, separe-se
 \added
 também
 \*added
- . Em tal 
+. Em tal 
 \added
 situação
 \*added
- o irmão ou a irmã não estão sujeitos à servidão; mas Deus vos chamou para a paz.
+ o irmão ou a irmã não estão sujeitos à servidão; mas Deus nos
+ chamou para a paz.
 \v 1Co.7.16
 Porque o que tu sabes, mulher, se salvarás ao marido? Ou o que tu sabes, marido, se salvarás a mulher?
 \v 1Co.7.17

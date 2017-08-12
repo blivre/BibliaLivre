@@ -310,11 +310,14 @@ E tu, menino, serás chamado profeta do Altíssimo; porque irás adiante da face
 \v Lc.1.77
 para dar a seu povo conhecimento da salvação, na remissão de seus pecados;
 \v Lc.1.78
-por causa da misericórdia
+por causa da profunda misericórdia
 \fn
+\key
+profunda misericórdia
+\*key
 Lit. das entranhas de misericórdia 
 \*fn
- do nosso Deus, com que o nascer do sol nos {tr,rp:visitou}{n4:visitará};
+ do nosso Deus, pela qual o raiar da manhã nos {tr,rp:visitou}{n4:visitará};
 {trnc:\fn
 N4: visitará
 \*fn}

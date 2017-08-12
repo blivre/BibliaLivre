@@ -27,19 +27,21 @@ de tempo
 \*added
  entristecidos com várias provações,
 \v 1Pd.1.7
-para que a prova de vossa fé, muito mais preciosa que o ouro que perece (mesmo sendo provado pelo fogo), seja achada em louvor, {tr,rp:honra, e }glória{n4:, e honra}{trnc:
+para que a prova de vossa fé, muito mais preciosa que o ouro que perece (mesmo sendo provado pelo fogo), seja achada em louvor, {tr,rp:honra, e }glória{n4:, e honra}
+{trnc:
 \fn
 N4: “glória, e honra”
-\*fn
- }, na revelação de Jesus Cristo.
+\*fn}
+, na revelação de Jesus Cristo.
 \v 1Pd.1.8
 A ele, sem terdes visto, vós o amais. Ainda que não estejais o vendo agora, mas crendo nele, vós estais alegres com júbilo indescritível e glorioso.
 \v 1Pd.1.9
-Assim estais alcançando o resultado da {tr,rp:vossa}{trnc:
+Assim estais alcançando o resultado da {tr,rp:vossa}
+{trnc:
 \fn
 N4 omite “vossa”
-\*fn
- } fé: a salvação das 
+\*fn}
+ fé: a salvação das 
 \added
 vossas
 \*added
@@ -60,11 +62,11 @@ ou: a pessoa
 \*fn
  ou ocasião que o Espírito de Cristo dentro deles indicava, quando dava prévio testemunho dos sofrimentos de Cristo e das glórias seguintes.
 \v 1Pd.1.12
-A eles foi revelado que não foi para eles mesmos, mas sim para {tr:nós}{rp,n4:vós},{trnc:
-\fn
+A eles foi revelado que não foi para eles mesmos, mas sim para {tr:nós}{rp,n4:vós},
+{trnc:\fn
 RP, N4 - vós
-\*fn
-} que eles prestaram serviço com estas coisas. E agora, elas vos foram anunciadas pelos que, pelo Espírito Santo enviado do céu, vos pregaram o Evangelho. Tais coisas os anjos desejam atentamente observar.
+\*fn}
+ que eles prestaram serviço com estas coisas. E agora, elas vos foram anunciadas pelos que, pelo Espírito Santo enviado do céu, vos pregaram o Evangelho. Tais coisas os anjos desejam atentamente observar.
 \v 1Pd.1.13
 Portanto, preparai as vossas mentes, sede sóbrios, e esperai completamente na graça que vos será trazida na revelação de Jesus Cristo.
 \fn
@@ -118,23 +120,22 @@ conhecido
 \*key
 isto é, conhecido o seu papel como o Salvador. Trad. alt: predestinado
 \*fn
- desde antes da fundação do mundo, mas foi manifesto {tr,rp:nestes últimos}{n4:no fim dos} tempos{trnc:
-\fn
+ desde antes da fundação do mundo, mas foi manifesto {tr,rp:nestes últimos}{n4:no fim dos} tempos
+{trnc:\fn
 N4: no fim dos tempos
-\*fn
-} por causa de vós,
+\*fn}
+ por causa de vós,
 \v 1Pd.1.21
 que, por meio dele, credes em Deus, que o ressuscitou dos mortos e lhe deu glória, para que a vossa fé e esperança estejam em Deus.
 \v 1Pd.1.22
-Uma vez que purificastes vossas almas na obediência da verdade{tr,rp: por meio do Espírito},{trnc:
-\fn
+Uma vez que purificastes vossas almas na obediência da verdade{tr,rp: por meio do Espírito},
+{trnc:\fn
 N4 omite “por meio do Espírito”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “por meio do Espírito”
-\*fn
-} para o sincero
+\*fn}
+ para o sincero
 \fn
 \key
 sincero
@@ -241,7 +242,7 @@ Antes, vós não éreis povo, mas agora sois povo de Deus.
 \added
 Antes
 \*added
-,não havíeis recebido misericórdia, mas agora recebestes misericórdia.
+, não havíeis recebido misericórdia, mas agora recebestes misericórdia.
 \v 1Pd.2.11
 Amados, como a peregrinos e estrangeiros, eu vos peço que vos abstenhais dos desejos carnais, que batalham contra a alma,
 \v 1Pd.2.12
@@ -249,17 +250,16 @@ e que tenhais um bom comportamento vosso entre os pagãos; para que, naquilo que
 \added
 vossas
 \*added
- boas obras que {tr,rp:tiverem visto}{n4:virem}.{trnc:
-\fn
+ boas obras que {tr,rp:tiverem visto}{n4:virem}.
+{trnc:\fn
 TR, RP: tiverem visto – N4: virem
-\*fn
- }
+\*fn}
 \v 1Pd.2.13
-{tr,rp:Portanto{trnc:
-\fn
+{tr,rp:Portanto
+{trnc:\fn
 N4 omite “Portanto”
-\*fn
-} sujeitai-vos}{n4:Sujeitai-vos} a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;
+\*fn}
+ sujeitai-vos}{n4:Sujeitai-vos} a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;
 \v 1Pd.2.14
 seja aos governantes, como enviados por ele, com o objetivo de castigar os malfeitores, e de conceder honra aos que fazem o bem.
 \v 1Pd.2.15
@@ -286,19 +286,18 @@ Pois coisa agradável é se alguém, por causa da consciência a respeito de Deu
 \v 1Pd.2.20
 Afinal, que mérito há em suportar serdes espancados por cometerdes pecado? Contudo, se, quando fazeis o bem, sois afligidos e suportais, isso é a Deus.
 \v 1Pd.2.21
-Pois para isto fostes chamados, porque também Cristo sofreu por {tr,rp:nós}{n4:vós},{trnc:
-\fn
+Pois para isto fostes chamados, porque também Cristo sofreu por {tr,rp:nós}{n4:vós},
+{trnc:\fn
 N4: “por vós”
-\*fn
-}{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP: “por nós”
-\*fn
-} deixando-{tr:nos}{rp,n4:vos}{trnc:
-\fn
+\*fn}
+ deixando-{tr:nos}{rp,n4:vos}
+{trnc:\fn
 RP, N4: deixando-vos
-\*fn
-} exemplo, para que sigais os seus passos.
+\*fn}
+ exemplo, para que sigais os seus passos.
 \v 1Pd.2.22
 Ele não cometeu pecado, nem engano foi achado em sua boca.
 \v 1Pd.2.23
@@ -340,11 +339,11 @@ elas e vós
 \v 1Pd.3.8
 E por fim, sede todos de uma mesma mentalidade, compassivos, tenhais amor pelos irmãos, e sede misericordiosos e benevolentes.
 \v 1Pd.3.9
-Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, {tr,rp:sabendo que}{n4:pois}{trnc:
-\fn
+Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, {tr,rp:sabendo que}{n4:pois}
+{trnc:\fn
 TR, RP: sabendo que – N4: pois
-\*fn
-} para isto fostes chamados, para que herdeis a bênção.
+\*fn}
+ para isto fostes chamados, para que herdeis a bênção.
 \v 1Pd.3.10
 Pois: quem quer amar a vida e ver dias bons, refreie sua língua do mal, e que seus lábios não falem engano.
 \v 1Pd.3.11
@@ -359,11 +358,11 @@ atentos
 Salmos 34:12-16 
 \*ref
 \v 1Pd.3.13
-E quem vos fará mal se fordes {tr,rp:adeptos}{n4:zelosos}{trnc:
-\fn
+E quem vos fará mal se fordes {tr,rp:adeptos}{n4:zelosos}
+{trnc:\fn
 TR, RP: adeptos – N4: zeolosos
-\*fn
-} do bem?
+\*fn}
+ do bem?
 \v 1Pd.3.14
 Porém, mesmo se sofrerdes por causa da justiça, benditos
 \fn
@@ -374,24 +373,23 @@ ou: bem-aventurados
 \*fn
  sois. Não tenhais medo deles, nem vos perturbeis.
 \v 1Pd.3.15
-Mas santificai a {tr,rp:Deus}{n4:Cristo}{trnc:
-\fn
+Mas santificai a {tr,rp:Deus}{n4:Cristo}
+{trnc:\fn
 TR, RP: Deus – N4: Cristo
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 \key
-N
+Cristo
 \*key
-Cristo : TR, RP: Deus
-\*fn
- } como Senhor em vossos corações; e estai sempre preparados para responder com mansidão e respeito a todo aquele que vos pedir a razão da esperança que há em vós,
+TR, RP: Deus
+\*fn}
+ como Senhor em vossos corações; e estai sempre preparados para responder com mansidão e respeito a todo aquele que vos pedir a razão da esperança que há em vós,
 \v 1Pd.3.16
-tendo uma boa consciência; para que, naquilo que {tr,rp:falam mal de vós como malfeitores}{n4:sois malfalados},{trnc:
-\fn
+tendo uma boa consciência; para que, naquilo que {tr,rp:falam mal de vós como malfeitores}{n4:sois malfalados},
+{trnc:\fn
 TR, RP: falam mal de vós como malfeitores – N4: sois malfalados
-\*fn
- } os que insultam o vosso bom comportamento em Cristo sejam envergonhados.
+\*fn}
+ os que insultam o vosso bom comportamento em Cristo sejam envergonhados.
 \v 1Pd.3.17
 Pois é melhor que sofrais fazendo o bem, se 
 \added
@@ -399,36 +397,36 @@ assim
 \*added
  a vontade de Deus quer, do que fazendo o mal.
 \v 1Pd.3.18
-Porque também Cristo {tr,rp:sofreu}{n4:morreu}{trnc:
-\fn
+Porque também Cristo {tr,rp:sofreu}{n4:morreu}
+{trnc:\fn
 TR, RP: sofreu – N4: morreu
-\*fn
- } uma vez pelos pecados, o justo pelos injustos; para que {tr:nos}{rp,n4:vos}{trnc:
-\fn
+\*fn}
+ uma vez pelos pecados, o justo pelos injustos; para que {tr:nos}{rp,n4:vos}
+{trnc:\fn
 RP, N4: vos
-\*fn
- } levasse a Deus. 
+\*fn}
+ levasse a Deus. 
 \added
 Ele estava
 \*added
-,de fato, morto na carne, mas vivificado pelo Espírito,
+, de fato, morto na carne, mas vivificado pelo Espírito,
 \v 1Pd.3.19
 no qual ele também foi pregar aos espíritos em prisão.
 \v 1Pd.3.20
 \added
 Estes são
 \*added
- os que antigamente foram rebeldes, quando{tr: uma vez}{trnc:
-\fn
+ os que antigamente foram rebeldes, quando{tr: uma vez}
+{trnc:\fn
 RP, N4 omitem “uma vez”
-\*fn
- } a paciência de Deus aguardava nos dias de Noé, enquanto era preparada a arca. Nela, poucas almas (isto é, oito) foram salvas por meio da água.
+\*fn}
+ a paciência de Deus aguardava nos dias de Noé, enquanto era preparada a arca. Nela, poucas almas (isto é, oito) foram salvas por meio da água.
 \v 1Pd.3.21
-Esta é uma representação do batismo, que agora também {tr,rp:nos}{n4:vos}{trnc:
-\fn
+Esta é uma representação do batismo, que agora também {tr,rp:nos}{n4:vos}
+{trnc:\fn
 N4:vos
-\*fn
- } salva, não como remoção da sujeira do corpo, mas sim como o pedido
+\*fn}
+ salva, não como remoção da sujeira do corpo, mas sim como o pedido
 \fn
 \key
 pedido

@@ -21,23 +21,23 @@ Que nos consola em toda aflição nossa, para que também possamos consolar aos 
 \v 2Co.1.5
 Porque assim como os sofrimentos de Cristo são abundantes em nós, assim também por Cristo é abundante nossa consolação.
 \v 2Co.1.6
-Porém se nós somos afligidos, é para vossa consolação e salvação{tr,rp:, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos}{trnc:
-\fn
+Porém se nós somos afligidos, é para vossa consolação e salvação{tr,rp:, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos}
+{trnc:\fn
 N4 move “que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos” para a última ocorrência da palavra “consolação” do versículo
-\*fn
- }{rp: (e a nossa esperança por vós é firme)};{trnc:
-\fn
+\*fn}
+{rp: (e a nossa esperança por vós é firme)};
+{trnc:\fn
 RP move “e a esperança por nós é firme” do versículo 7 para o 6
-\*fn
- } se estamos consolados, 
+\*fn}
+ se estamos consolados, 
 \added
 também é
 \*added
- para vossa consolação{tr,rp: e salvação}{trnc:
-\fn
+ para vossa consolação{tr,rp: e salvação}
+{trnc:\fn
 N4 omite “e salvação”
-\*fn
- }{rp;}{tr:.}{n4:, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos.}
+\*fn}
+{rp;}{tr:.}{n4:, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos.}
 \v 2Co.1.7
 {tr,n4:E nossa esperança por vós é firme,} sabendo que, como sois participantes dos sofrimentos, assim também 
 \added
@@ -91,7 +91,7 @@ Quando eu planejei isso, por acaso fiz de forma irresponsável? Ou o que eu plan
 \added
 ao mesmo tempo
 \*added
- ?
+?
 \v 2Co.1.18
 Porém 
 \added
@@ -101,13 +101,13 @@ assim como
 \added
 ao mesmo tempo
 \*added
- .
+.
 \v 2Co.1.19
 Porque o Filho de Deus, Jesus Cristo, o que por nós foi pregado entre vós, 
 \added
 isto é
 \*added
-,por mim, e Silvano, e Timóteo, não foi sim e não, mas nele foi o “sim”.
+, por mim, e Silvano, e Timóteo, não foi sim e não, mas nele foi o “sim”.
 \v 2Co.1.20
 Porque todas as promessas nele são “sim”, e nele 
 \added
@@ -147,7 +147,7 @@ me
 \added
 somente
 \*added
-,mas em parte (para que não se exagere) a todos.
+, mas em parte (para que não se exagere) a todos.
 \v 2Co.2.6
 Basta ao tal esta repreensão feita pela maioria.
 \v 2Co.2.7
@@ -205,7 +205,7 @@ Por acaso começamos a recomendarmos a nós mesmos outra vez? Ou necessitamos, c
 \added
 necessitam
 \*added
-,de cartas de recomendação para vós, ou de vossa recomendação?
+, de cartas de recomendação para vós, ou de vossa recomendação?
 \v 2Co.3.2
 Vós sois nossa carta 
 \added
@@ -291,7 +291,6 @@ mesmo
 \v 2Co.4.7
 Porém temos este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.
 \v 2Co.4.8
- 
 \added
 Somos
 \*added
@@ -411,7 +410,7 @@ E nós, como trabalhadores conjuntamente
 \added
 com ele
 \*added
-,rogamos que não tenhais recebido a graça de Deus em vão.
+, rogamos que não tenhais recebido a graça de Deus em vão.
 \v 2Co.6.2
 Porque ele diz: Em tempo agradável te ouvi, e no dia da salvação te socorri; eis agora o tempo agradável, eis agora o dia da salvação
 \v 2Co.6.3
@@ -511,7 +510,7 @@ Porque vede isto mesmo, quanto empenho que vossa tristeza segundo Deus produziu 
 \added
 própria
 \*added
-,indignação, temor, saudades, zelo, e desejo de justiça! Em tudo vos mostrastes estar puros quanto a este assunto.
+, indignação, temor, saudades, zelo, e desejo de justiça! Em tudo vos mostrastes estar puros quanto a este assunto.
 \v 2Co.7.12
 Portanto, ainda que tenha escrito para vós, eu não 
 \added
@@ -555,15 +554,14 @@ depois
 \v 2Co.8.6
 De maneira que convocamos a Tito para que, assim como tinha começado antes, assim também terminasse esta graça entre vós.
 \v 2Co.8.7
-Portanto, assim como em tudo abundais: em fé, em palavra, em conhecimento, em todo empenho, e em {tr,rp:vosso amor por nós}{n4:nosso amor por vós};{trnc:
-\fn
+Portanto, assim como em tudo abundais: em fé, em palavra, em conhecimento, em todo empenho, e em {tr,rp:vosso amor por nós}{n4:nosso amor por vós};
+{trnc:\fn
 N4: nosso amor por vós
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP: vosso amor por nós
-\*fn
- } sede também abundantes nesta graça.
+\*fn}
+ sede também abundantes nesta graça.
 \v 2Co.8.8
 Eu não digo 
 \added
@@ -611,7 +609,7 @@ Como está escrito: O que muito
 \added
 colhe
 \*added
-,não teve mais; e o que 
+, não teve mais; e o que 
 \added
 colhe
 \*added
@@ -631,7 +629,7 @@ E não somente
 \added
 isto
 \*added
-,mas também foi escolhido pelas igrejas como companheiro de nossa viagem com esta graça, que é administrada por nós para a glória do mesmo Senhor, e a prontidão de vosso ânimo.
+, mas também foi escolhido pelas igrejas como companheiro de nossa viagem com esta graça, que é administrada por nós para a glória do mesmo Senhor, e a prontidão de vosso ânimo.
 \v 2Co.8.20
 Assim evitamos que ninguém nos critique nesta abundância que é administrada por nós,
 \v 2Co.8.21
@@ -675,11 +673,10 @@ avareza
 trad. alt. obrigação
 \*fn
 \v 2Co.9.6
-Digo porém 
 \added
-isto
+Digo
 \*added
-,que o que semeia pouco, também pouco colherá; e o que semeia generosamente, também generosamente colherá.
+, porém isto, que o que semeia pouco, também pouco colherá; e o que semeia generosamente, também generosamente colherá.
 \v 2Co.9.7
 Cada qual 
 \added
@@ -731,7 +728,6 @@ Pois ainda que andemos na carne, não batalhamos segundo a carne.
 \v 2Co.10.4
 Porque as armas de nossa batalha não são carnais, mas sim poderosas em Deus, para destruirmos fortalezas;
 \v 2Co.10.5
- 
 \added
 Assim
 \*added
@@ -785,7 +781,7 @@ e
 \added
 pregadores
 \*added
-,para nos orgulharmos de coisas que já estavam prontas.
+, para nos orgulharmos de coisas que já estavam prontas.
 \v 2Co.10.17
 Porém o que se orgulha, se orgulhe no Senhor.
 \v 2Co.10.18
@@ -893,7 +889,7 @@ vos
 \added
 de vós
 \*added
-,se alguém age com arrogância, se alguém vos fere no rosto.
+, se alguém age com arrogância, se alguém vos fere no rosto.
 \v 2Co.11.21
 Eu digo como algo desonroso, como se tivéssemos estado fracos; mas naquilo em que algum outro é atrevido, eu também sou atrevido (falo como tolo).
 \v 2Co.11.22
@@ -935,7 +931,7 @@ no pecado
 \added
 por dentro
 \*added
- ?
+?
 \v 2Co.11.30
 Se é necessário se orgulhar, eu me orgulharei das coisas relativas à minha fraqueza.
 \v 2Co.11.31
@@ -947,7 +943,7 @@ E me fizeram descer num cesto por uma janela da muralha
 \added
 da cidade
 \*added
-,e 
+, e 
 \added
 assim
 \*added
@@ -981,7 +977,8 @@ isso
 \*added
  de afastasse de mim.
 \v 2Co.12.9
-E ele me disse: Minha graça te basta, porque meu poder se aperfeiçoa na fraqueza.Portanto, com a maior alegria, eu me orgulharei em minhas fraquezas, para que o poder de Cristo habite em mim.
+Mas ele me disse: “Minha graça te basta, porque meu poder se aperfeiçoa na fraqueza”. Por isso, com muito prazer, eu me 
+orgulharei nas minhas fraquezas, para que o poder de Cristo habite em mim.
 \v 2Co.12.10
 Por isso tenho prazer nas fraquezas, nos insultos, nas necessidades, nas perseguições, nas angústias por causa de Cristo; porque quando estou fraco, então fico forte.
 \v 2Co.12.11
@@ -993,13 +990,13 @@ mas
 \added
 a isso
 \*added
- ; porque eu devia ser louvado por vós, pois eu em nada fui inferior aos “superapóstolos”, apesar de eu nada ser.
+; porque eu devia ser louvado por vós, pois eu em coisa nenhuma fui inferior aos “superapóstolos”, ainda que eu nada seja.
 \v 2Co.12.12
-Os 
+Os sinais do 
 \added
-meus
+meu
 \*added
- sinais de apóstolo foram efetuados entre vós em toda paciência, em sinais, milagres e maravilhas.
+ apostolado foram efetuados entre vós em toda paciência, em sinais, milagres e maravilhas.
 \v 2Co.12.13
 Afinal, qual foi a coisa em que fostes inferiores às outras igrejas, a não ser em que eu mesmo não vos fui incômodo? Perdoai-me esta injustiça!
 \v 2Co.12.14

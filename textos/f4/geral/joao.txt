@@ -38,7 +38,6 @@ foi enviado
 \*added
  para que testemunhasse da Luz.
 \v Jo.1.9
- 
 \added
 Esta
 \*added
@@ -67,12 +66,12 @@ Porque a Lei foi dada por Moisés; a graça e a verdade foi feita por Jesus Cris
 A Deus nunca ninguém o viu; o unigênito {tr,rp:Filho}{n4:Deus
 \fn
 RP, TR contêm "unigênito Filho"
-\*fn
- },{trnc:
-\fn
+\*fn}
+,
+{trnc:\fn
 N4 contém: "unigênito Deus" em lugar de "unigênito Filho"
-\*fn
- } que está no seio do Pai, ele 
+\*fn}
+ que está no seio do Pai, ele 
 \added
 o
 \*added
@@ -86,7 +85,7 @@ E lhe perguntaram: Que, então? És tu Elias? E ele disse: Não sou.
 \added
 Eles disseram
 \*added
- : Tu és o Profeta? E ele respondeu: Não.
+: Tu és o Profeta? E ele respondeu: Não.
 \v Jo.1.22
 Disseram-lhe pois: Quem és? Para darmos resposta aos que nos enviaram. Que dizes de ti mesmo?
 \v Jo.1.23
@@ -98,15 +97,15 @@ E perguntaram-lhe, e disseram-lhe: Por que pois batizas, se tu não és o Cristo
 \v Jo.1.26
 João lhes respondeu, dizendo: Eu batizo com água; mas em meio de vós, está a quem vós não conheceis,
 \v Jo.1.27
-Este é aquele que vem após mim,{tr,rp: o qual já foi antes de mim,}{trnc:
+Este é aquele que vem após mim,{tr,rp: o qual já foi antes de mim,}
+{trnc:
 \fn
 N4 omite "o qual já foi antes de mim"
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: "o qual já foi antes de mim"
-\*fn
- } do qual eu não sou digno de desatar a tira de sua sandália.
+\*fn}
+ do qual eu não sou digno de desatar a tira de sua sandália.
 \v Jo.1.28
 Estas coisas aconteceram em Betábara, do outro lado do Jordão, onde João estava batizando.
 \v Jo.1.29
@@ -197,7 +196,7 @@ duas ou três metretas
 \*key
 cerca de 100 litros (1 metreta era aproximadamente 40 litros
 \*fn
- )
+)
 \v Jo.2.7
 Disse-lhes Jesus: Enchei estes vasos com água. E encheram-nas até encima.
 \v Jo.2.8
@@ -301,27 +300,25 @@ Em verdade, em verdade te digo, que o que sabemos, falamos; e o que temos visto,
 \v Jo.3.12
 Se eu vos disse coisas terrenas, e não credes, como crereis, se vos disser as celestiais?
 \v Jo.3.13
-E ninguém subiu ao céu, a não ser o que desceu do céu: o Filho do homem{tr,rp:, que está no céu}.{trnc:
+E ninguém subiu ao céu, a não ser o que desceu do céu: o Filho do homem{tr,rp:, que está no céu}.
+{trnc:
 \fn
 N4 omite “que está no céu”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “que está no céu” ao fim do versículo
-\*fn
- }
+\*fn}
 \v Jo.3.14
 E como Moisés levantou a serpente no deserto, assim deve o Filho do homem ser levantado,
 \v Jo.3.15
-Para que todo aquele que nele crer{tr,rp: não pereça, mas}{trnc:
-\fn
+Para que todo aquele que nele crer{tr,rp: não pereça, mas}
+{trnc:\fn
 N4 omite “não pereça, mas”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP: “crer não pereça, mas”
-\*fn
- } tenha a vida eterna.
+\*fn}
+ tenha a vida eterna.
 \v Jo.3.16
 Porque Deus amou ao mundo de tal maneira, que deu o seu Filho unigênito; para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
 \v Jo.3.17
@@ -341,7 +338,7 @@ E João também batizava em Enom, junto a Salim, porque havia ali muitas águas;
 \added
 ali
 \*added
-,e eram batizados,
+, e eram batizados,
 \v Jo.3.24
 Porque João ainda não tinha sido lançado na prisão.
 \v Jo.3.25
@@ -387,7 +384,7 @@ Aquele que crê no Filho tem vida eterna; porém aquele que é desobediente ao F
 \added
 eterna
 \*added
-,mas a ira de Deus continua sobre ele.
+, mas a ira de Deus continua sobre ele.
 \v Jo.4.1
 Quando, pois, o Senhor entendeu que os fariseus ouviram que Jesus fazia e batizava mais discípulos que João
 \v Jo.4.2
@@ -554,12 +551,10 @@ e de corpo
 Porque um anjo descia de vez em quando ao tanque, e agitava a água; e o primeiro que descia nele, depois do movimento da água, sarava de qualquer enfermidade que tivesse.{n4:»
 \fn
 Alguns manuscritos antigos omitem parte do versículo 3 e todo o versículo 4
-\*fn
- }{trnc:
-\fn
+\*fn}
+{trnc:\fn
 N4 não considera original o texto desde o versículo 3: “aguardando...” até o final do versículo 4
-\*fn
- }
+\*fn}
 \v Jo.5.5
 E estava ali um certo homem, que havia trinta e oito anos que estava enfermo.
 \v Jo.5.6
@@ -595,15 +590,14 @@ Depois Jesus achou-o no Templo, e disse-lhe: Eis que já estás são; não peque
 \v Jo.5.15
 Aquele homem foi anunciar aos judeus que Jesus era o que o curara.
 \v Jo.5.16
-E por isso os judeus perseguiam Jesus{tr,rp: e procuravam matá-lo},{trnc:
-\fn
+E por isso os judeus perseguiam Jesus{tr,rp: e procuravam matá-lo},
+{trnc:\fn
 N4 omite “e procuravam matá-lo”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “e procuravam matá-lo”
-\*fn
- } porque ele fazia estas coisas no sábado.
+\*fn}
+ porque ele fazia estas coisas no sábado.
 \v Jo.5.17
 E Jesus lhes respondeu: Meu Pai até agora trabalha, e eu 
 \added
@@ -807,15 +801,14 @@ Escrito está nos profetas: E todos serão ensinados por Deus. Portanto todo aqu
 \v Jo.6.46
 Não que alguém tenha visto ao Pai, a não ser aquele que é de Deus; este tem visto ao Pai.
 \v Jo.6.47
-Em verdade, em verdade vos digo, que aquele que crê{tr,rp: em mim}{trnc:
-\fn
+Em verdade, em verdade vos digo, que aquele que crê{tr,rp: em mim}
+{trnc:\fn
 N4 omite “em mim”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP: “crê em mim”
-\*fn
- } tem vida eterna.
+\*fn}
+ tem vida eterna.
 \v Jo.6.48
 Eu sou o pão da vida.
 \v Jo.6.49
@@ -849,11 +842,10 @@ Muitos pois de seus discípulos, ao ouvirem
 \added
 isto
 \*added
-,disseram: Dura é esta palavra; quem a pode ouvir?
+, disseram: Dura é esta palavra; quem a pode ouvir?
 \v Jo.6.61
 Sabendo pois Jesus em si mesmo, que seus discípulos murmuravam disto, disse-lhes: Isto vos ofende?
 \v Jo.6.62
- 
 \added
 Que seria
 \*added
@@ -871,18 +863,17 @@ Disse, então, Jesus aos doze: Por acaso também vós quereis ir?
 \v Jo.6.68
 Respondeu-lhe pois Simão Pedro: Senhor, a quem iremos? Tu tens as palavras da vida eterna;
 \v Jo.6.69
-E nós cremos e conhecemos que tu és o {tr,rp:Cristo, o Filho do Deus vivo}{n4:Santo de Deus}{trnc:
-\fn
+E nós cremos e conhecemos que tu és o {tr,rp:Cristo, o Filho do Deus vivo}{n4:Santo de Deus}
+{trnc:\fn
 TR,RP: “o Cristo, o Filho do Deus vivo” - N4: “o Santo de Deus
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 \key
-N
+o Santo de Deus
 \*key
-“o Santo de Deus” : TR,RP: “o Cristo, o Filho do Deus vivo”
-\*fn
- }.
+TR,RP: o Cristo, o Filho do Deus vivo
+\*fn}
+.
 \v Jo.6.70
 Jesus lhes respondeu: Por acaso não 
 \added

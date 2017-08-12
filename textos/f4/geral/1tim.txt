@@ -92,7 +92,6 @@ Ao Rei dos tempos, imortal, invisível, o único Deus{tr,rp: sábio},
 {trnc:\fn
 N4 não contém “sábio”
 \*fn}
- 
 \added
 seja
 \*added

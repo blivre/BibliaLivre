@@ -45,23 +45,21 @@ seja
 \v Ap.1.7
 Eis que ele vem com as nuvens, e todo olho o verá, até mesmo aqueles que o perfuraram; e todas as tribos da terra lamentarão sobre ele; sim, Amém.
 \v Ap.1.8
-Eu sou o Alfa e o Ômega{tr:, o princípio e o fim},{trnc: 
-\fn
+Eu sou o Alfa e o Ômega{tr:, o princípio e o fim},
+{trnc:\fn
 RP, N4 omitem “o princípio e o fim” 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR acrescenta: “o princípio e o fim” 
-\*fn
-}Diz o Senhor{rp,n4: Deus},{trnc: 
-\fn
+\*fn}
+Diz o Senhor{rp,n4: Deus},
+{trnc:\fn
 RP, N4: Senhor Deus 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR omite “Deus” 
-\*fn
-} que é, e que era, e que virá, o Todo-Poderoso.
+\*fn}
+ que é, e que era, e que virá, o Todo-Poderoso.
 \v Ap.1.9
 Eu, João, (que também sou vosso irmão, e companheiro na aflição, e no Reino, e 
 \added
@@ -75,23 +73,22 @@ arrebatado
 \*added
  em espírito, e atrás de mim eu ouvi uma grande voz, como de trombeta,
 \v Ap.1.11
-Dizendo:{rp,n4: 
-\fn
+Dizendo:
+{rp,n4:\fn
 TR acrescenta: “Eu sou o Alfa e o Ômega, o primeiro e o último; e” 
-\*fn
-} {tr:Eu sou o Alfa e o Ômega, o primeiro e o último; e o}{rp,n4:O}{trnc: 
-\fn
+\*fn}
+ {tr:Eu sou o Alfa e o Ômega, o primeiro e o último; e o}{rp,n4:O}
+{trnc:\fn
 RP, N4 omitem: “Eu sou o Alfa e o Ômega, o primeiro e o último; e” 
-\*fn
-} que tu estás vendo, escreve em um livro, e envia às sete igrejas{tr: que estão na Ásia}:{trnc: 
-\fn
+\*fn}
+ que tu estás vendo, escreve em um livro, e envia às sete igrejas{tr: que estão na Ásia}:
+{trnc:\fn
 RP, N4 omitem: “que estão na Ásia” 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR acrescenta: “que estão na Ásia” 
-\*fn
-} a Éfeso, e a Esmirna, e a Pérgamo, e a Tiatira, e a Sardes, e a Filadélfia, e a Laodiceia.
+\*fn}
+ a Éfeso, e a Esmirna, e a Pérgamo, e a Tiatira, e a Sardes, e a Filadélfia, e a Laodiceia.
 \v Ap.1.12
 E eu me virei para ver a voz que tinha falado comigo; e ao me virar, vi sete castiçais de ouro;
 \v Ap.1.13
@@ -151,27 +148,22 @@ E suportaste
 \added
 sofrimentos
 \*added
-,e tens paciência; e trabalhaste pelo meu nome, e não te cansaste.
+, e tens paciência; e trabalhaste pelo meu nome, e não te cansaste.
 \v Ap.2.4
 Mas eu tenho contra ti, que deixaste o teu primeiro amor.
 \v Ap.2.5
-Então lembra-te de onde tu caíste, e arrepende-te, e faze as primeiras obras; senão{tr,rp: em breve}{trnc: 
-\fn
+Então lembra-te de onde tu caíste, e arrepende-te, e faze as primeiras obras; senão{tr,rp: em breve}
+{trnc:\fn
 N4 omite “em breve” 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “em breve” 
-\*fn
-} eu virei a ti, e tirarei teu castiçal de seu lugar, se tu não te arrependeres.
+\*fn}
+ eu virei a ti, e tirarei teu castiçal de seu lugar, se tu não te arrependeres.
 \v Ap.2.6
 Mas isto tu tens: que odeias as obras dos nicolaítas, as quais eu também odeio.
 \v Ap.2.7
-Quem tem ouvido 
-\added
-s
-\*added
-,ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer da árvore da vida, que está no meio do paraíso de Deus.
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer da árvore da vida, que está no meio do paraíso de Deus.
 \v Ap.2.8
 E escreve ao anjo da igreja dos de Esmirna: Isto diz o o primeiro e o último, que foi morto, e vive:
 \v Ap.2.9
@@ -187,11 +179,7 @@ alguns
 \*added
  de vós em prisão, para que sejais tentados; e vós tereis aflição de dez dias. Sê fiel até a morte, e eu te darei a coroa da vida.
 \v Ap.2.11
-Quem tem ouvido 
-\added
-s
-\*added
-,ouça o que o Espírito diz às igrejas: o que vencer, não sofrerá o dano da segunda morte.
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas: o que vencer, não sofrerá o dano da segunda morte.
 \v Ap.2.12
 E escreve ao anjo da igreja que está em Pérgamo: Isto diz aquele que tem a espada aguda de dois fios:
 \v Ap.2.13
@@ -223,11 +211,7 @@ Assim tu tens também aos que retém a doutrina dos nicolaítas, que eu odeio.
 \v Ap.2.16
 Arrepende-te; senão, em breve virei a ti, e batalharei contra eles com a espada de minha boca.
 \v Ap.2.17
-Quem tem ouvido 
-\added
-s
-\*added
-,ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer do maná escondido, e lhe darei uma pedrinha branca, e na pedrinha um novo nome escrito, o qual ninguém conhece, a não ser aquele que 
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer do maná escondido, e lhe darei uma pedrinha branca, e na pedrinha um novo nome escrito, o qual ninguém conhece, a não ser aquele que 
 \added
 o
 \*added
@@ -245,19 +229,19 @@ que
 \*added
  as últimas são mais que as primeiras.
 \v Ap.2.20
-Mas eu tenho {tr: 
-\added
+Mas eu tenho 
+{tr:\added
 algumas
 \*added
- poucas coisas}{trnc: 
-\fn
-RP,N4 omitem “ [algumas] poucas coisas” 
-\*fn
-} contra ti{tr::} que tu deixas a{rp: tua}{trnc,n4: 
-\fn
+ poucas coisas}
+{trnc:\fn
+RP,N4 omitem “[algumas] poucas coisas” 
+\*fn}
+ contra ti{tr::} que tu deixas a{rp: tua}
+{trnc,n4:\fn
 RP acrecenta “tua” 
-\*fn
-} mulher Jezabel, que se diz profetiza, ensinar e enganar meus servos, para que façam pecados sexuais, e comam dos sacrifícios aos ídolos.
+\*fn}
+ mulher Jezabel, que se diz profetiza, ensinar e enganar meus servos, para que façam pecados sexuais, e comam dos sacrifícios aos ídolos.
 \v Ap.2.21
 E eu dei a ela tempo para que se arrependesse de seu pecado sexual; mas ela não se arrependeu.
 \v Ap.2.22
@@ -279,11 +263,7 @@ E as dominará com vara de ferro; como vasos de oleiro serão quebradas em peda�
 \v Ap.2.28
 E eu lhe darei a estrela da manhã.
 \v Ap.2.29
-Quem tem ouvido 
-\added
-s
-\*added
-,ouça o que o Espírito diz às igrejas.
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 \v Ap.3.1
 E escreve ao anjo da igreja que 
 \added
@@ -291,15 +271,14 @@ está
 \*added
  em Sardes: Isto diz aquele que tem os sete espíritos de Deus, e as sete estrelas: Eu conheço tuas obras; que tu tens nome de que vives, e estás morto.
 \v Ap.3.2
-Sê vigilante, e firma o resto que {tr,n4:está a ponto de morrer}{rp:estavas a ponto de lançares fora};{trnc: 
-\fn
+Sê vigilante, e firma o resto que {tr,n4:está a ponto de morrer}{rp:estavas a ponto de lançares fora};
+{trnc:\fn
 TR, N4: “está a ponto de morrer” - RP: “estavas a ponto de lançares fora” 
-\*fn
-}{rp: 
-\fn
+\*fn}
+{rp:\fn
 RP: “estavas a ponto de lançares fora”- TR, N4: “está a ponto de morrer” 
-\*fn
-} porque eu não achei tuas obras completas diante de Deus.
+\*fn}
+ porque eu não achei tuas obras completas diante de Deus.
 \v Ap.3.3
 Então lembra-te do que tu tens recebido e ouvido, e guarda, e arrepende-te. Portanto, se tu não vigiares, eu virei sobre ti como ladrão, e tu não saberás a que hora eu virei sobre ti.
 \v Ap.3.4
@@ -349,11 +328,7 @@ também
 \*added
  meu novo nome.
 \v Ap.3.13
-Quem tem ouvido 
-\added
-s
-\*added
-,ouça o que o Espírito diz às igrejas.
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 \v Ap.3.14
 E escreve ao anjo da igreja dos laodicenses: Isto diz o Amém, a testemunha fiel e verdadeira, o principal da criação de Deus;
 \v Ap.3.15
@@ -371,11 +346,7 @@ Eis que eu estou à porta, e bato; se alguém ouvir a minha voz, e abrir a porta
 \v Ap.3.21
 Ao que vencer, eu lhe concederei que se sente comigo em meu trono; assim como eu também venci, e me sentei com meu Pai no trono dele.
 \v Ap.3.22
-Quem tem ouvido 
-\added
-s
-\*added
-,ouça o que o Espírito diz às igrejas.
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas.
 \v Ap.4.1
 Depois destas coisas eu olhei, e eis que uma porta estava aberta no céu; e a primeira voz que eu ouvi, como uma trombeta ao falar comigo, disse: Sobe aqui, e eu te mostrarei as coisas que devem acontecer depois destas.
 \v Ap.4.2
@@ -389,15 +360,15 @@ alguém
 \*added
  sentado sobre o trono{tr,n4:.}{rp:,}
 \v Ap.4.3
-{tr,n4:E o que estava sentado era}{rp: 
-\added
+{tr,n4:E o que estava sentado era}
+{rp:\added
 que era
-\*added
- }{trnc: 
+\*added}
+{trnc: 
 \fn
 RP omite: “E o que estava sentado era” 
-\*fn
-} de aparência semelhante à pedra jaspe e sárdio; e o arco colorido celeste estava ao redor do trono, de aparência semelhante à esmeralda.
+\*fn}
+ de aparência semelhante à pedra jaspe e sárdio; e o arco colorido celeste estava ao redor do trono, de aparência semelhante à esmeralda.
 \v Ap.4.4
 E ao redor do trono 
 \added
@@ -435,7 +406,6 @@ eram
 \v Ap.4.9
 E quando os animais dão glória, honra, e agradecimento ao que estava sentado sobre o trono, ao que vive para todo o sempre;
 \v Ap.4.10
- 
 \added
 Então
 \*added
@@ -905,15 +875,14 @@ E o sétimo anjo tocou a trombeta, e houve grandes vozes no céu, dizendo: Os re
 \v Ap.11.16
 E os vinte e quatro anciãos, que estão sentados diante de Deus em seus tronos, prostraram-se sobre seus rostos, e adoraram a Deus,
 \v Ap.11.17
-Dizendo: Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era{tr:, e que virá};{trnc: 
-\fn
+Dizendo: Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era{tr:, e que virá};
+{trnc:\fn
 RP, N4 omitem: “e que virá” 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR acrescenta “e que virá” 
-\*fn
-} porque tu tomaste teu grande poder, e tens reinado;
+\*fn}
+ porque tu tomaste teu grande poder, e tens reinado;
 \v Ap.11.18
 E as nações se irarão, porém veio a tua ira, e o tempo dos mortos, para serem julgados, e para tu dares a recompensa a teus servos, os profetas, e aos santos, e aos que temem o teu nome, a pequenos e a grandes; e para destruir aos que destroem a terra.
 \v Ap.11.19
@@ -1180,15 +1149,13 @@ são
 \added
 ó
 \*added
- Rei {tr:dos santos}{rp,n4:das nações}!{trnc: 
-\fn
+ Rei {tr:dos santos}{rp,n4:das nações}!
+{trnc:\fn
 RP, N4: das nações 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR: dos santos 
-\*fn
-}
+\*fn}
 \v Ap.15.4
 Quem não te temeria, 
 \added
@@ -1604,15 +1571,14 @@ já
 \v Ap.21.5
 E o que estava sentado sobre o trono disse: Eis que eu faço novas todas as coisas.E ele me disse: Escreve, porque esta palavras são verdadeiras e fiéis.
 \v Ap.21.6
-E ele me disse: {tr,n4:Está feito. Eu sou}{rp:Tornei-me} o Alfa e o Ômega,{trnc: 
-\fn
+E ele me disse: {tr,n4:Está feito. Eu sou}{rp:Tornei-me} o Alfa e o Ômega,
+{trnc:\fn
 TR, N4: “Está feito. Eu sou o Alfa e o Ômega” - RP: “Tornei-me o Alfa e o Ômega” 
-\*fn
-}{rp: 
-\fn
+\*fn}
+{rp:\fn
 RP: “Tornei-me o Alfa e o Ômega”- TR, N4: “Está feito. Eu sou o Alfa e o Ômega” 
-\*fn
-} o princípio e o fim. Quem tiver sede, de graça eu lhe darei da fonte da água da vida.
+\*fn}
+ o princípio e o fim. Quem tiver sede, de graça eu lhe darei da fonte da água da vida.
 \v Ap.21.7
 Quem vencer herdará todas as coisas; e eu serei Deus dele, e ele será meu filho.
 \v Ap.21.8
@@ -1634,13 +1600,11 @@ vinda
 \*added
  de Deus;
 \v Ap.21.11
- 
 \added
 E
 \*added
  tendo a glória de Deus; e sua luz era semelhante a uma pedra preciosíssima, como a pedra de jaspe, como cristal brilhante;
 \v Ap.21.12
- 
 \added
 E
 \*added
@@ -1712,19 +1676,17 @@ E a cidade não necessita de sol nem de lua para que brilhem nela; porque a gló
 \*added
  o Cordeiro.
 \v Ap.21.24
-E as nações{tr: dos salvos}{trnc: 
-\fn
+E as nações{tr: dos salvos}
+{trnc:\fn
 RP, N4 omitem “dos salvos” 
-\*fn
-}{n4,rp: 
-\fn
+\*fn}
+{n4,rp:\fn
 TR acrescenta: “dos salvos” 
-\*fn
-} andarão na luz dela; e os reis da terra trarão a ela a glória e honra {tr,n4:deles}{rp:das nações}.{trnc: 
-\fn
+\*fn}
+ andarão na luz dela; e os reis da terra trarão a ela a glória e honra {tr,n4:deles}{rp:das nações}.
+{trnc:\fn
 TR, N4: deles – RP: das nações 
-\*fn
-}
+\*fn}
 \v Ap.21.25
 E suas portas não se fecharão de dia; porque ali não haverá noite.
 \v Ap.21.26
@@ -1768,7 +1730,7 @@ E ele me disse: Olha, não
 \added
 faça isto
 \*added
- ! Porque eu sou um companheiro servo teu, e de teus irmãos, os profetas, e dos que guardam as palavras deste livro. Adora a Deus.
+! Porque eu sou um companheiro servo teu, e de teus irmãos, os profetas, e dos que guardam as palavras deste livro. Adora a Deus.
 \v Ap.22.10
 E ele me disse: Não seles as palavras da profecia deste livro, porque perto está o tempo.
 \v Ap.22.11
@@ -1778,18 +1740,19 @@ Eis que logo venho, e minha recompensa está comigo, para retribuir a cada um as
 \v Ap.22.13
 Eu sou o Alfa e o Ômega, o principio e o fim, o primeiro e o último.
 \v Ap.22.14
-Bem-aventurados os que {tr,rp:guardam os mandamentos dele}{n4:lavam as suas vestes},{trnc: 
+Bem-aventurados os que {tr,rp:guardam os mandamentos dele}{n4:lavam as suas vestes},
+{trnc: 
 \fn
-TR, RP: “os que guardam os mandamentos dele” - N4: “os que lavam as suas vestes” 
-\*fn
-}{n4: 
+TR, RP: os que guardam os mandamentos dele - N4: os que lavam as suas vestes
+\*fn}
+{n4: 
 \fn
 \key
-N
+os que lavam as suas vestes
 \*key
-“os que lavam as suas vestes” : TR, RP: “os que guardam os mandamentos dele” 
-\*fn
-} para que tenham direito à árvore da vida, e possam entrar na cidade pelas portas.
+TR, RP: os que guardam os mandamentos dele
+\*fn}
+ para que tenham direito à árvore da vida, e possam entrar na cidade pelas portas.
 \v Ap.22.15
 Mas de fora 
 \added
@@ -1815,36 +1778,34 @@ que
 \*added
  se alguém acrescentar a estas, Deus lhe acrescentará as pragas que estão escritas neste livro;
 \v Ap.22.19
-E se alguém tirar das palavras do livro desta profecia, Deus {tr,n4:tirará}{rp:tire}{trnc: 
-\fn
+E se alguém tirar das palavras do livro desta profecia, Deus {tr,n4:tirará}{rp:tire}
+{trnc:\fn
 RP: tire 
-\*fn
-} sua parte {tr:do livro}{rp,n4:da árvore}{trnc: 
-\fn
+\*fn}
+ sua parte {tr:do livro}{rp,n4:da árvore}
+{trnc:\fn
 RP, N4: da árvore 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR: do livro 
-\*fn
-} da vida, e da cidade santa, e das coisas que estão escritas neste livro.
+\*fn}
+ da vida, e da cidade santa, e das coisas que estão escritas neste livro.
 \v Ap.22.20
-Aquele que dá testemunho destas coisas diz: Certamente logo venho.Amém! Sim, vem, Senhor Jesus!
+Aquele que dá testemunho destas coisas diz: Certamente logo venho. Amém! Sim, vem, Senhor Jesus!
 \v Ap.22.21
 A graça do nosso Senhor Jesus Cristo 
 \added
 seja
 \*added
- com todos{tr: vós}{rp: os santos}.{trnc,rp,n4: 
+ com todos{tr: vós}{rp: os santos}.
+{trnc,rp,n4: 
 \fn
-TR – todos vós – RP – todos os santos – N4: todos 
-\*fn
-}{tr,rp: Amém!}{trnc: 
-\fn
+TR: todos vós – RP: todos os santos – N4: todos 
+\*fn}
+{tr,rp: Amém!}
+{trnc:\fn
 N4 omite “Amém!” 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “Amém!” 
-\*fn
-}
+\*fn}

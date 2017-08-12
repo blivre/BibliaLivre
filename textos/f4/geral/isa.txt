@@ -143,7 +143,7 @@ Mas tu,
 \added
 SENHOR
 \*added
-,desamparaste a teu povo, à casa de Jacó; porque se encheram 
+, desamparaste a teu povo, à casa de Jacó; porque se encheram 
 \added
 dos costumes
 \*added
@@ -183,15 +183,14 @@ Naquele dia, o homem lançará seus ídolos de prata, e seus ídolos de ouro, qu
 \v Is.2.21
 E se porão nas fendas das rochas, e nas cavernas das penhas, por causa da temível presença do SENHOR, e por causa da glória de sua majestade, quando ele se levantar para espantar a terra.
 \v Is.2.22
- 
 \added
-Portanto
+Portanto,
 \*added
- deixai d 
+ cessai de 
 \added
-e confiar n
+confiar no
 \*added
- o homem, cujo fôlego está em suas narinas; pois o que há nele que mereça se dar algum valor?
+ homem, cujo fôlego está em suas narinas; pois o que há nele que mereça se dar algum valor?
 \v Is.3.1
 Porque eis que o Senhor DEUS dos exércitos tirará de Jerusalém e de Judá o apoio e o sustento:
 \fn
@@ -399,7 +398,7 @@ até que
 \v Is.5.12
 E harpas, liras, tamborins, gaitas e vinho há em seus banquetes; porém não olham para a obra do SENHOR, nem prestam atenção no agir das mãos deles.
 \v Is.5.13
-Por isso meu povo será levado capturado, porque não tem conhecimento; e seus nobres sofrem de fome, e sua multidão está seca de sede.
+Por isso meu povo será levado cativo, porque não tem conhecimento; e seus nobres sofrem de fome, e sua multidão está seca de sede.
 \v Is.5.14
 Por isso o mundo dos mortos alargou seu apetite, e sua boca se abriu tanto que não se pode medir, para que caia a nobreza de 
 \added
@@ -4087,7 +4086,11 @@ animais
 \*added
  já cansados.
 \v Is.46.2
-Juntamente se encurvam; não puderam salvar a carga, mas eles mesmos foram ao cativeiro.
+Juntamente se encurvam e se abaixam; não podem salvar a carga, mas eles mesmos
+\fn
+Lit. suas próprias almas
+\*fn
+ vão ao cativeiro.
 \v Is.46.3
 Ouvi-me, ó casa de Jacó, e todo o restante da casa de Israel; vós a quem eu carreguei desde o ventre, a quem levei desde o útero.
 \v Is.46.4

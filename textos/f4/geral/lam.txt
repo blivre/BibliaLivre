@@ -22,7 +22,8 @@ Trad. alt. angústia
 \v Lm.1.4
 Os caminhos de Sião estão em pranto, pois ninguém vem aos festivais; todas as suas portas estão desertas, seus sacerdotes gemem, suas virgens se afligem, e ela sofre de amargura.
 \v Lm.1.5
-Seus oponentes estão no comando, seus inimigos prosperam; pois o SENHOR a afligiu por causa das suas muitas transgressões; suas crianças foram em cativeiro levadas ao adversário.
+Seus oponentes estão no comando, seus inimigos prosperam; pois o SENHOR a afligiu por causa das suas muitas 
+transgressões; suas crianças foram em cativeiro adiante do adversário.
 \v Lm.1.6
 Partiu-se toda a beleza da filha de Sião; seus líderes estão como cervos, não acham pasto algum; eles andam fracos, fugindo do perseguidor.
 \v Lm.1.7
@@ -82,7 +83,8 @@ Por estas coisas que eu choro; meus olhos, de meus olhos correm águas; pois afa
 \v Lm.1.17
 Sião estendeu suas mãos, não há quem a console; o SENHOR deu ordens contra Jacó, para que seus inimigos o cercassem: Jerusalém se tornou imunda entre eles.
 \v Lm.1.18
-O SENHOR é justo; eu que me rebelei contra sua boca. Ouvi, pois, todos os povos, e vede minha dor; minhas virgens e meus rapazes foram em cativeiro.
+O SENHOR é justo; eu que me rebelei contra sua boca. Ouvi, pois, todos os povos, e vede minha dor; minhas virgens e 
+meus rapazes foram em cativeiro.
 \v Lm.1.19
 Clamei a meus amantes, porém eles me enganaram; meus sacerdotes e meus anciãos pereceram na cidade; pois buscam comida para si tentarem sobreviver.
 \fn
@@ -155,7 +157,14 @@ Eles dizem às suas mães: Onde está o trigo e o vinho?, enquanto desfalecem co
 \v Lm.2.13
 Que testemunho te trarei, ou a quem te compararei, ó filha de Jerusalém? A quem te assemelharei para te consolar, ó virgem, filha de Sião? Pois teu quebrantamento é tão grande quanto o mar; quem te curará?
 \v Lm.2.14
-Teus profetas previram para ti coisas inúteis e enganosas; e não expuseram tua maldade para evitarem teu cativeiro; em vez disso te predisseram profecias mentirosas e ilusórias.
+Teus profetas previram para ti futilidades e enganos; e não expuseram tua maldade para evitar teu cativeiro;
+\fn
+\key
+evitar teu cativeiro
+\*key
+Ou: consertar o teu destino
+\*fn
+ em vez disso te predisseram profecias mentirosas e ilusórias.
 \v Lm.2.15
 Todos os que passam pelo caminho, batem palmas 
 \added

@@ -103,17 +103,14 @@ obscuro – trads. alts. poços, cavernas
 \*fn
 de pastores, e currais de rebanhos.
 \v Sf.2.7
-E aquela região será para o restante da casa de Judá, para que nela apascentem; ao anoitecer se deitarão nas casas de Asquelom, porque o SENHOR seu Deus os visitará, e dará fim à sua desgraça. 
-\fn
-\key
-dará fim à sua desgraça
-\*key
-trad. alt. trará de volta seus cativos 
-\*fn
+E aquela região será para o restante da casa de Judá, para que nela apascentem; ao anoitecer se deitarão nas casas de 
+Asquelom, porque o SENHOR, seu Deus, os visitará, e os restaurará de seu infortúnio.
 \v Sf.2.8
 Eu ouvi os escárnios de Moabe, e os insultos dos filhos de Amom com que escarneceram a meu povo, e se engrandeceram contra suas fronteiras.
 \v Sf.2.9
-Portanto vivo eu,diz o SENHOR dos exércitos, Deus de Israel,  que Moabe será como Sodoma, e os filhos de Amom como Gomorra; campo de urtigas, e mina de sal, e desolação perpétua; o restante de meu povo os saqueará, e o restante de minha nação tomará posse daquilo que era deles.
+Portanto vivo eu,diz o SENHOR dos exércitos, Deus de Israel, que Moabe será como Sodoma, e os filhos de Amom como 
+Gomorra; campo de urtigas, e mina de sal, e desolação perpétua; o restante de meu povo os saqueará, e o restante de 
+minha nação tomará posse daquilo que era deles.
 \v Sf.2.10
 Isto terão por sua soberba, porque escarneceram e se engrandeceram contra o povo do SENHOR dos exércitos.
 \v Sf.2.11
@@ -150,7 +147,7 @@ Seus príncipes no meio dela são leões que rugem; seus juízes são lobos da n
 \added
 seguinte
 \*added
- .
+.
 \v Sf.3.4
 Seus profetas são levianos, homens enganadores; seus sacerdotes profanam o santuário, 
 \added
@@ -175,7 +172,7 @@ Então certamente darei lábio puro aos povos, para que todos invoquem o nome do
 \key
 unidade
 \*key
-lit. com ombro único 
+lit. com um único ombro
 \*fn
 \v Sf.3.10
 Dalém dos rios de Cuxe, meus adoradores, a filha de meus dispersos, me trarão oferta.
@@ -206,11 +203,5 @@ de saudade
 \v Sf.3.19
 Eis que naquele tempo acabarei com todos os teus opressores; e salvarei a manca, e ajuntarei a expulsa; e os tornarei louvor e renome em toda terra em que foram envergonhados.
 \v Sf.3.20
-Naquele tempo eu vos trarei de volta, naquele tempo eu vos ajuntarei; pois eu vos tornarei renome e louvor entre todos os povos da terra, quando eu der fim à vossa desgraça 
-\fn
-\key
-der fim à vossa desgraça
-\*key
-trad. alt. trouxer de volta os teus cativos 
-\*fn
-diante de vossos olhos,diz o SENHOR.
+Naquele tempo eu vos trarei de volta, naquele tempo eu vos ajuntarei; pois vos tornarei renome e louvor entre todos 
+os povos da terra, quando eu vos resutaurar de vosso infortúnio diante de vossos olhos, diz o SENHOR.

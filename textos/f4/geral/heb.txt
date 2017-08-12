@@ -29,7 +29,6 @@ o universo
 lit. as eras – o termo grego literalmente indicava longos períodos de tempo, mas também podia indicar lugares, isto é, o mundo ou mundos
 \*fn
 \v Hb.1.3
- 
 \added
 O Filho
 \*added
@@ -105,12 +104,11 @@ Eles perecerão, mas tu continuas. Todos eles como roupa se envelhecerão;
 como uma manta tu os envolverás, e{n4: como roupa
 \fn
 TR, RP omitem: “como roupa”
-\*fn
- }{trnc:
-\fn
+\*fn}
+{trnc:\fn
 N4 acrescenta: “como roupa”
-\*fn
- } serão mudados; porém tu és o mesmo, e os teus anos não cessarão. 
+\*fn}
+ serão mudados; porém tu és o mesmo, e os teus anos não cessarão. 
 \ref
 Salmos 102:25-27 
 \*ref
@@ -137,12 +135,10 @@ Mas em certo lugar alguém testemunhou, dizendo: O que é o homem, para que te l
 Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste, {tr: e o estabeleceste sobre as obras das tuas mãos;}{trnc:
 \fn
 RP, N4 omitem “e o estabeleceste sobre as obras das tuas mãos”
-\*fn
- }{rp,n4:
-\fn
+\*fn}
+{rp,n4:\fn
 TR acrescenta: “estabeleceste sobre as obras das tuas mãos” ao final do versículo
-\*fn
- }
+\*fn}
 \v Hb.2.8
 Sujeitaste todas as coisas debaixo de seus pés.Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
 \ref
@@ -183,11 +179,11 @@ E outra vez: Eis-me aqui, com os filhos que Deus me deu.
 Ref. Isaías 8:18 
 \*ref
 \v Hb.2.14
-Portanto, uma vez que os filhos compartilham {tr,rp:da carne e do sangue}{n4: do sangue e da carne},{trnc:
-\fn
+Portanto, uma vez que os filhos compartilham {tr,rp:da carne e do sangue}{n4: do sangue e da carne},
+{trnc:\fn
 N4 troca a ordem entre “carne” e “sangue”
-\*fn
- } também ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
+\*fn}
+ também ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
 \v Hb.2.15
 e libertar a todos os que, por medo da morte, estavam sujeitos à servidão durante a vida toda.
 \v Hb.2.16
@@ -402,14 +398,14 @@ mas
 \*added
  sem pecado.
 \v Hb.4.16
-Acheguemo-nos, pois, com confiança, ao trono da graça, para que possamos receber misericórdia, e encontremos graça para sermos ajudados
+Portanto, acheguemo-nos com confiança ao trono da graça, para que possamos receber misericórdia e encontrar graça para sermos socorridos
 \fn
 \key
-para sermos ajudados
+para sermos socorridos
 \*key
-lit. para ajuda
+lit. para socorro
 \*fn
- em tempo oportuno.
+ no tempo adequado.
 \v Hb.5.1
 Pois todo sumo sacerdote tomado dentre os homens é constituído em prol das pessoas nas coisas 
 \added
@@ -1512,6 +1508,7 @@ RP, N4 omitem “ou perfurado com um dardo”
 TR acrescenta: “ou perfurado com um dado” ao final do versículo
 \*fn
  }
+
 \v Hb.12.21
 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo). 
 \ref

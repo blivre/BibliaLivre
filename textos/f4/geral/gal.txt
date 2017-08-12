@@ -612,11 +612,11 @@ Porém não cansemos de fazer o bem, pois no tempo devido colheremos, se não de
 na língua original, desistir por esgotamento
 \*fn
 \v Gl.6.10
-Portanto, enquanto {tr,rp:temos}{n4:tivermos}{trnc:
-\fn
+Portanto, enquanto {tr,rp:temos}{n4:tivermos}
+{trnc:\fn
 N4: tivermos
-\*fn
- } oportunidade, façamos o bem a todos; mas principalmente aos familiares
+\*fn}
+ oportunidade, façamos o bem a todos; mas principalmente aos familiares
 \fn
 Ou domésticos, isto é, os da mesma casa
 \*fn

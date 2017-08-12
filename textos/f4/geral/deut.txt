@@ -1649,7 +1649,7 @@ E será que, quando te sobrevierem todas estas coisas, a bênção e a maldiçã
 \v Dt.30.2
 E te converteres ao SENHOR teu Deus, e obedeceres à sua voz conforme tudo o que eu te mando hoje, tu e teus filhos, com todo teu coração e com toda tua alma,
 \v Dt.30.3
-O SENHOR também voltará teus cativos, e terá misericórdia de ti, e voltará a recolher-te de todos os povos aos quais te houver disperso o SENHOR teu Deus.
+O SENHOR te restaurará de teu infortúnio, terá misericórdia de ti, e voltará a recolher-te de todos os povos aos quais o SENHOR, teu Deus, te houver disperso.
 \v Dt.30.4
 Se houveres sido lançado até a extremidade dos céus, dali te recolherá o SENHOR teu Deus, e dali te tomará:
 \v Dt.30.5
@@ -1778,9 +1778,9 @@ Achou-o em terra de deserto, E em deserto horrível e ermo; Cercou-o, instruiu-o
 \v Dt.32.11
 Como a água desperta sua ninhada, paira sobre seus passarinhos, Estende suas asas, os toma, os leva sobre suas penas:
 \v Dt.32.12
-O SENHOR sozinho o guiou, Que não houve com ele deus alheio.
+O SENHOR sozinho o guiou, e nenhum deus estrangeiro esteve com ele.
 \v Dt.32.13
-Fê-lo subir sobre as alturas da terra, E comeu os frutos do campo, E fez que chupasse mel da rocha, E azeite da dura pederneira;
+Ele o fez cavalgar sobre as alturas da terra; comeu os frutos do campo, e o fez que chupar mel da rocha, e azeite da dura pederneira;
 \v Dt.32.14
 Manteiga de vacas e leite de ovelhas, Com gordura de cordeiros, E carneiros de Basã; também machos de bode, Com o melhor do trigo: E sangue de uva bebeste, vinho puro.
 \v Dt.32.15
@@ -1790,15 +1790,17 @@ Provocaram-lhe ciúmes com os deuses alheios; irritaram-lhe com abominações.
 \v Dt.32.17
 Sacrificaram aos demônios, não a Deus; a deuses que não conheciam, a novos deuses vindos de perto, Que não haviam temido vossos pais.
 \v Dt.32.18
-Deixaste de pensar na Rocha que te criou; esqueceste-te de Deus teu criador.
+Abandonaste a Rocha que te gerou; e te esqueceste do Deus que te criou.
 \v Dt.32.19
 E o SENHOR o viu, e acendeu-se em ira, pelo menosprezo de seus filhos e de suas filhas.
 \v Dt.32.20
-E disse: Esconderei deles meu rosto, Verei qual será seu fim: Que são geração de perversidades, filhos sem fidelidade.
+E disse: esconderei deles meu rosto, verei qual será seu fim; pois são geração de perversidades, filhos sem fidelidade.
 \v Dt.32.21
-Eles me moveram ciúmes com o que não é Deus; Fizeram-me irar com suas vaidades: Eu também os moverei ciúmes com um povo que não é povo, Com gente insensata os farei irar.
+Eles me provocaram ciúmes com o que não é Deus; com suas vaidades provocaram-me à ira; eu também provocarei os ciúmes 
+com aqueles que não são povo, e com uma nação insensata eu os provocarei à ira.
 \v Dt.32.22
-Porque fogo se acenderá em meu furor, E arderá até o profundo; E devorará a terra e seus frutos, E abrasará os fundamentos dos montes.
+Porque um fogo se acendeu em meu furor, e arderá até as profundezas do mundo dos mortos; e consumirá a terra e seus 
+frutos, e abrasará os fundamentos dos montes.
 \v Dt.32.23
 Eu trarei males sobre eles; Gastarei neles minhas flechas.
 \v Dt.32.24
@@ -1832,17 +1834,23 @@ E dirá: Onde estão seus deuses, A rocha em que se refugiavam;
 \v Dt.32.38
 Que comiam a gordura de seus sacrifícios, Bebiam o veio de suas libações? Levante-se, que vos ajudem E vos defendam.
 \v Dt.32.39
-Vede agora que eu, eu sou, E não há deuses além de mim: Eu faço morrer, e eu faço viver: Eu firo, e eu curo: E não há quem possa livrar de minha mão.
+Vede agora que Eu, Eu Sou, e não há deus além de mim; eu trago a morte, e eu faço viver; eu firo, e eu curo; e não há 
+quem possa escapar da minha mão.
 \v Dt.32.40
-Quando eu erguer aos céus minha mão, E disser: Vivo eu para sempre,
+Quando eu erguer aos céus minha mão, e disser: “Tão certo como eu vivo para sempre”,
 \v Dt.32.41
-Se afiar minha reluzente espada, E minha mão arrebatar o juízo, Eu voltarei a vingança a meus inimigos, E darei o pagamento aos que me aborrecem.
+Se eu afiar minha espada reluzente, e minha mão agarrar o juízo, devolverei a vingança sobre os meus adversários, e 
+retribuirei aos que me odeiam.
 \v Dt.32.42
-Embriagarei de sangue minhas flechas, E minha espada devorará carne: No sangue dos mortos e dos cativos, Das cabeças, com vinganças de inimigo.
+Embriagarei de sangue minhas flechas, e minha espada devorará carne, no sangue dos mortos e dos cativos, das cabeças dos líderes inimigos.
+\fn
+Ou: das longas cabeleiras dos inimigos
+\*fn
 \v Dt.32.43
-Louvai, nações, a seu povo, Porque ele vingará o sangue de seus servos, E fará voltar a vingança a seus inimigos, E expiará sua terra, a seu povo.
+Jubilai, ó nações, com o povo dele, porque ele vingará o sangue dos seus servos, e devolverá a vingança sobre os seus 
+inimigos, e expiará sua terra, pelo seu povo.
 \v Dt.32.44
-E veio Moisés, e recitou todas as palavras deste cântico aos ouvidos do povo, ele, e Josué filho de Num.
+E Moisés veio, e recitou todas as palavras deste cântico aos ouvidos do povo, ele, e Josué filho de Num.
 \v Dt.32.45
 E acabou Moisés de recitar todas estas palavras a todo Israel;
 \v Dt.32.46

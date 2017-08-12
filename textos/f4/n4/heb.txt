@@ -29,7 +29,6 @@ o universo
 lit. as eras – o termo grego literalmente indicava longos períodos de tempo, mas também podia indicar lugares, isto é, o mundo ou mundos
 \*fn
 \v Hb.1.3
- 
 \added
 O Filho
 \*added
@@ -91,7 +90,6 @@ como uma manta tu os envolverás, e como roupa
 \fn
 TR, RP omitem: “como roupa”
 \*fn
- 
  serão mudados; porém tu és o mesmo, e os teus anos não cessarão. 
 \ref
 Salmos 102:25-27 
@@ -120,7 +118,6 @@ Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste,
 \fn
 TR acrescenta: “estabeleceste sobre as obras das tuas mãos” ao final do versículo
 \*fn
- 
 \v Hb.2.8
 Sujeitaste todas as coisas debaixo de seus pés.Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
 \ref
@@ -360,14 +357,14 @@ mas
 \*added
  sem pecado.
 \v Hb.4.16
-Acheguemo-nos, pois, com confiança, ao trono da graça, para que possamos receber misericórdia, e encontremos graça para sermos ajudados
+Portanto, acheguemo-nos com confiança ao trono da graça, para que possamos receber misericórdia e encontrar graça para sermos socorridos
 \fn
 \key
-para sermos ajudados
+para sermos socorridos
 \*key
-lit. para ajuda
+lit. para socorro
 \*fn
- em tempo oportuno.
+ no tempo adequado.
 \v Hb.5.1
 Pois todo sumo sacerdote tomado dentre os homens é constituído em prol das pessoas nas coisas 
 \added
@@ -1373,6 +1370,7 @@ lhes
 TR acrescenta: “ou perfurado com um dado” ao final do versículo
 \*fn
  
+
 \v Hb.12.21
 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo). 
 \ref

@@ -267,7 +267,7 @@ Toda oração e todo rogo que fizer qualquer homem, ou todo teu povo Israel, qua
 \v 2Cr.6.30
 Tu ouvirás desde os céus, desde o lugar de tua habitação, e perdoarás, e darás a cada um conforme a seus caminhos, havendo conhecido seu coração; (porque só tu conheces o coração dos filhos dos homens);
 \v 2Cr.6.31
-Para que te temam e andem em teus caminhos, todos os dias que viverem sobre a face da terra que tu deste a nossos pais.
+Para que te temam e andem em teus caminhos, todos os dias que viverem sobre a face da terra que tu deste aos nossos pais.
 \v 2Cr.6.32
 E também ao estrangeiro que não for de teu povo Israel, que houver vindo de distantes terras a causa de teu grande nome, e de tua mão forte, e de teu braço estendido, se vierem, e orarem em esta casa,
 \v 2Cr.6.33
@@ -277,11 +277,17 @@ Se teu povo sair à guerra contra seus inimigos pelo caminho que tu os enviares,
 \v 2Cr.6.35
 Tu ouvirás desde os céus sua oração e seu rogo, e ampararás seu direito.
 \v 2Cr.6.36
-Se pecarem contra ti, (pois não há homem que não peque,) e te irares contra eles, e os entregares diante de seus inimigos, para que os que os tomarem os levem cativos a terra de inimigos, distante ou próxima,
+Se pecarem contra ti, (pois não há ser humano que não peque), e te irares contra eles, e os entregares diante de seus 
+inimigos, para que os que os tomarem os levem cativos à terra de inimigos, distante ou próxima,
 \v 2Cr.6.37
-E eles voltarem em si na terra de onde forem levados cativos; se se converterem, e orarem a ti na terra de seu cativeiro, e disserem: Pecamos, fizemos iniquamente, impiamente agimos;
+e eles se conscientizarem
+\fn
+Ou: “caírem em si”. Lit. “voltarem-se aos seus corações”
+\*fn
+ na terra de onde forem levados cativos; se se converterem, e orarem a ti na terra de seu cativeiro, e disserem: Pecamos, fizemos perversidade, agimos com maldade;
 \v 2Cr.6.38
-Se se converterem a ti de todo seu coração e de toda sua alma na terra de seu cativeiro, de onde os houverem levado cativos, e orarem até sua terra que tu deste a seus pais, até a cidade que tu escolheste, e até a casa que edifiquei a teu nome;
+se se converterem a ti de todo o seu coração e de toda a sua alma na terra de seu cativeiro, aonde forem levados 
+cativos, e orarem até sua terra que tu deste a seus pais, até a cidade que tu escolheste, e até a casa que edifiquei a teu nome;
 \v 2Cr.6.39
 Tu ouvirás desde os céus, desde o lugar de tua morada, sua oração e seu rogo, e ampararás sua causa, e perdoarás a teu povo que pecou contra ti.
 \v 2Cr.6.40
@@ -1242,7 +1248,7 @@ E ainda fecharam as portas do pórtico, e apagaram as lâmpadas; não queimaram 
 \v 2Cr.29.8
 Portanto a ira do SENHOR veio sobre Judá e Jerusalém, e os entregou à aflição, ao espanto, e ao escárnio, como vedes vós com vossos olhos.
 \v 2Cr.29.9
-E eis que nossos pais caíram à espada, nossos filhos e nossas filhas e nossas mulheres são cativas por isto.
+E eis que nossos pais caíram à espada, nossos filhos e nossas filhas e nossas mulheres estão em cativeiro por isso.
 \v 2Cr.29.10
 Agora, pois, eu determinei fazer aliança com o SENHOR o Deus de Israel, para que afaste de nós a ira de seu furor.
 \v 2Cr.29.11

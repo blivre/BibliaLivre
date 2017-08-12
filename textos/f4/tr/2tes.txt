@@ -13,7 +13,6 @@ Segunda Carta de Paulo aos Tessalonicenses
 \v 2Ts.1.1
 Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai, e no Senhor Jesus Cristo.
 \v 2Ts.1.2
- 
 \added
 Haja entre vós
 \*added
@@ -23,7 +22,6 @@ Nós sempre devemos dar graças a Deus por vós, irmãos, como é o correto, por
 \v 2Ts.1.4
 De maneira que nós mesmos nos orgulhamos de vós nas igrejas de Deus, por causa de vossa paciência e fé, em todas as vossas perseguições aflições que suportais;
 \v 2Ts.1.5
- 
 \added
 Que é
 \*added
@@ -108,7 +106,6 @@ tirado
 \v 2Ts.2.8
 E então será manifestado aquele injusto, ao qual o Senhor destruirá, pelo sopro de sua boca, e o aniquilará pelo aparecimento de sua vinda;
 \v 2Ts.2.9
- 
 \added
 Aquele injusto
 \*added
@@ -154,19 +151,19 @@ Não porque não tivéssemos autoridade
 \added
 para fazer isso
 \*added
-,mas sim porque nós mesmos dávamos exemplo a vós, para 
+, mas porque nós mesmos dávamos exemplo a vós, para 
 \added
 assim
 \*added
  nos imitardes.
 \v 2Ts.3.10
-Porque também quando estávamos convosco, isto vos mandávamos: que se alguém não quiser trabalhar, também não coma.
+Porque, quando ainda estávamos convosco, isto vos mandamos: que se alguém não quiser trabalhar, também não coma.
 \v 2Ts.3.11
-Porque ouvimos que alguns entre vós andam desordenadamente, não trabalhando, mas se intrometendo no trabalho dos outros.
+Porque ouvimos que alguns entre vós andam desordenadamente, não trabalhando, mas se intrometendo no que os outros fazem.
 \v 2Ts.3.12
 Mas aos tais mandamos e exortamos, por nosso Senhor Jesus Cristo, que trabalhem sem causar incômodo, e comam seu próprio pão.
 \v 2Ts.3.13
-E vós, irmãos, não canseis de fazer o bem.
+E vós, irmãos, não vos canseis de fazer o bem.
 \v 2Ts.3.14
 Mas se alguém não obedecer à nossa palavra 
 \added

@@ -169,13 +169,13 @@ Ora, o que tu tens a ver
 \key
 o que tu tens a ver
 \*key
-i.e., que proveito tens
+i.e. que proveito tens
 \*fn
  com o caminho do Egito, para que bebas água do Nilo? E o que tens a ver com o caminho de Assíria, para que bebas água do rio 
 \added
 Eufrates
 \*added
- ?
+?
 \v Jr.2.19
 A tua maldade te castigará e tuas infidelidades te repreenderão; então conhece e vê como é mal e amargo teres abandonado ao SENHOR teu Deus, 
 e não teres tido temor a mim, diz o Senhor DEUS dos exércitos.
@@ -1865,7 +1865,8 @@ Porque assim diz o SENHOR: Eis que eu farei de ti um terror a ti mesmo, e a todo
 \v Jr.20.5
 Entregarei também toda a riqueza desta cidade, e todo seu trabalho, e todas suas coisas preciosas; e entregarei todos os tesouros dos reis de Judá nas mãos de seus inimigos, e os saquearão, e os tomarão, e os levarão a Babilônia.
 \v Jr.20.6
-E tu, Pasur, e todos os moradores de tua casa ireis cativos, e entrarás na Babilônia, e ali morrerás; e ali serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente.
+E tu, Pasur, e todos os moradores de tua casa ireis ao cativeiro, e entrarás na Babilônia, e ali morrerás; e ali 
+serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente.
 \v Jr.20.7
 Persuadiste-me, ó SENHOR, e eu fiquei persuadido; mais forte foste que eu, e prevaleceste; sirvo de escárnio o dia todo; cada deles zomba de mim.
 \v Jr.20.8
@@ -1888,7 +1889,7 @@ trad. alt. denunciaremos
 \added
 dizendo
 \*added
- : Talvez se enganará; então prevaleceremos contra ele, e nos vingaremos dele.
+: Talvez se enganará; então prevaleceremos contra ele, e nos vingaremos dele.
 \v Jr.20.11
 Mas o SENHOR está comigo como temível guerreiro; por isso meus perseguidores tropeçarão, e não prevalecerão; eles serão muito envergonhados, por não terem agido prudentemente; 
 \added
@@ -1896,11 +1897,11 @@ terão
 \*added
  humilhação perpétua, que jamais será esquecida.
 \v Jr.20.12
-Tu, SENHOR dos exércitos, que examinas ao justo, que vês os sentimentos e pensamentos,
+Tu, SENHOR dos exércitos, que examinas o justo, que vês os sentimentos e pensamentos,
 \fn
 sentimentos e pensamentos = lit. rins e coração
 \*fn
- veja eu a tua vingança neles; pois a ti tenho mostrado a minha causa.
+ faz-me ver a tua vingança sobre eles; pois a ti revelei a minha causa.
 \v Jr.20.13
 Cantai ao SENHOR, louvai ao SENHOR; pois ele livra a alma do necessitado da mão dos malfeitores.
 \v Jr.20.14
@@ -2023,7 +2024,7 @@ Mas teus olhos e teu coração não são
 \added
 para outra coisa
 \*added
-,a não ser para tua ganância, para derramar sangue inocente, e para praticar opressão e violência.
+, a não ser para tua ganância, para derramar sangue inocente, e para praticar opressão e violência.
 \v Jr.22.18
 Portanto assim diz o SENHOR quanto a Jeoaquim, filho de Josias, rei de Judá: Não lamentarão por ele, dizendo: Ai meu irmão!, ou Ai minha irmã!, Nem lamentarão por ele, dizendo: Ai senhor! Ai sua majestade!
 \v Jr.22.19
@@ -2055,7 +2056,7 @@ i.e. obedeceste
 \*fn
  à minha voz.
 \v Jr.22.22
-O vento apascentará a todos os teus pastores, e teus amantes irão em cativeiro; então certamente te envergonharás e te humilharás por causa de toda a tua maldade.
+O vento apascentará a todos os teus pastores, e teus amantes irão ao cativeiro; então certamente te envergonharás e te humilharás por causa de toda a tua maldade.
 \v Jr.22.23
 Tu, que habitas no Líbano, que fazes teu ninho nos cedros: como gemerás quando te vierem as dores, os sofrimentos como de mulher em parto!
 \v Jr.22.24
@@ -2373,7 +2374,7 @@ Uivai, pastores, e clamai; e revolvei-vos
 \added
 na cinza
 \*added
-,líderes do rebanho; porque já se cumpriram vossos dias para serdes mortos; e sereis dispersos e caireis como um vaso precioso.
+, líderes do rebanho; porque já se cumpriram vossos dias para serdes mortos; e sereis dispersos e caireis como um vaso precioso.
 \v Jr.25.35
 E não haverá meio de fuga para os pastores, nem escape para os líderes do rebanho.
 \v Jr.25.36
@@ -2433,7 +2434,7 @@ Miqueias, o morastita, profetizou nos dias de Ezequias rei de Judá, e falou a t
 \added
 de pedras
 \*added
-,e o monte do templo em lugares altos de mato.
+, e o monte do templo em lugares altos de mato.
 \v Jr.26.19
 Por acaso foi ele morto por Ezequias rei de Judá e todo Judá? Por acaso 
 \added
@@ -2451,7 +2452,7 @@ E quando ouviu suas palavras o rei Jeoaquim, e todos seus grandes, e todos seus 
 \added
 isso
 \*added
-,teve medo, fugiu, e foi ao Egito;
+, teve medo, fugiu, e foi ao Egito;
 \v Jr.26.22
 Porém o rei Jeoaquim enviou 
 \added
@@ -2539,7 +2540,8 @@ E eu trarei de volta a este lugar a Jeconias filho de Jeoaquim, rei de Judá, e 
 \v Jr.28.5
 Então o profeta Jeremias disse ao profeta Hananias, diante dos sacerdotes e diante de todo o povo que estava na casa do SENHOR.
 \v Jr.28.6
-Disse, pois, o profeta Jeremias: Amém! Assim o faça o SENHOR! Que o SENHOR confirme as tuas palavras, com que profetizaste; para que os objetos de valor da casa do SENHOR, e todos os cativos sejam trazidos de volta da Babilônia para este lugar.
+Disse, pois, o profeta Jeremias: Amém! Assim o faça o SENHOR! Que o SENHOR confirme as tuas palavras, com que 
+profetizaste; para que os objetos de valor da casa do SENHOR, e sejam trazidos de volta todos os cativos da Babilônia para este lugar.
 \v Jr.28.7
 Porém ouve agora esta palavra, que eu falo aos teus ouvidos e aos ouvidos de todo o povo:
 \v Jr.28.8
@@ -2573,7 +2575,6 @@ Estas são as palavras da carta que o profeta Jeremias enviou de Jerusalém ao r
 \v Jr.29.2
 Depois da saída do rei Jeconias, da rainha-mãe, dos príncipes de Judá e Jerusalém, e dos carpinteiros e ferreiros de Jerusalém,
 \v Jr.29.3
- 
 \added
 Enviada
 \*added
@@ -2603,11 +2604,14 @@ Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei;
 \v Jr.29.13
 E vós me buscareis e achareis, quando me buscardes de todo o vosso coração.
 \v Jr.29.14
-E serei achado por vós, diz o SENHOR, e reverterei vosso cativeiro, e vos juntarei de todas as nações, e de todos os lugares para onde eu vos lancei, diz o SENHOR; e vos farei voltar ao lugar de onde vos fiz serem levados.
+E serei achado por vós, diz o SENHOR, e vos restauarei de vosso infortúnio, e vos ajuntarei de todas as nações, e de 
+todos os lugares para onde eu vos lancei, diz o SENHOR; e vos farei voltar ao lugar de onde vos fiz serdes 
+levados cativos.
 \v Jr.29.15
-Visto que dizeis: O SENHOR tem nos levantado profetas na Babilônia.
+Visto que dizeis: “O SENHOR tem nos levantado profetas na Babilônia”,
 \v Jr.29.16
-Portanto assim diz o SENHOR, quanto ao rei que se senta sobre o trono de Davi, e quanto a todo o povo que mora nesta cidade: a vossos irmãos que não saíram convosco em cativeiro;
+por isso assim diz o SENHOR acerca do rei que se assenta sobre o trono de Davi, e de todo o povo que mora nesta 
+cidade, os vossos irmãos que não saíram convosco ao cativeiro;
 \v Jr.29.17
 Assim diz o SENHOR dos exércitos: Eis que enviarei contra eles espada, fome, e pestilência; e farei deles como a figos podres, que de tão ruins não podem ser comidos.
 \v Jr.29.18
@@ -2615,7 +2619,7 @@ E os perseguirei com espada, com fome e com pestilência; e os farei de horror a
 \v Jr.29.19
 Porque não deram ouvidos às minhas palavras, diz o SENHOR, que lhes enviei por meus servos os profetas, insistindo em os enviar; próem não escutastes, diz o SENHOR.
 \v Jr.29.20
-Ouvi vós, pois, a palavra do SENHOR, vós todos os levados cativos que enviei de Jerusalém à Babilônia.
+Vós, pois, ouvi a palavra do SENHOR, todos os do cativeiro que enviei de Jerusalém à Babilônia.
 \v Jr.29.21
 Assim diz o SENHOR dos exércitos, Deus de Israel, quanto a Acabe filho de Colaías, e quanto a Zedequias filho de Maaseias, que vos profetizam falsamente em meu nome: Eis que os entregarei na mão de Nabucodonosor rei da Babilônia, e ele os ferirá diante de vossos olhos.
 \v Jr.29.22
@@ -2645,7 +2649,7 @@ E o sacerdote Sofonias leu esta carta aos ouvidos do profeta Jeremias.
 \v Jr.29.30
 Então veio a palavra do SENHOR a Jeremias, dizendo:
 \v Jr.29.31
-Manda dizer a todos os que foram exilados: Assim diz o SENHOR quanto a Semaías, o neelamita: Visto que Semaías vos profetizou, sem que eu tenha o enviado, e vos fez confiar em mentiras;
+Manda dizer a todos os do cativeiro: Assim diz o SENHOR quanto a Semaías, o neelamita: Visto que Semaías vos profetizou, sem que eu tenha o enviado, e vos fez confiar em mentiras;
 \v Jr.29.32
 Portanto assim diz o SENHOR: Eis que castigarei Semaías o neelamita, e a sua descendência;
 \fn
@@ -2660,7 +2664,8 @@ Palavra que veio do SENHOR a Jeremias, dizendo:
 \v Jr.30.2
 Assim diz o SENHOR Deus de Israel, dizendo: Escreve para ti em um livro todas as palavras que tenho te falado;
 \v Jr.30.3
-Porque eis que vêm dias,diz o SENHOR, em que reverterei o cativeiro do meu povo Israel e Judá, diz o SENHOR, e os trarei de volta à terra que dei a seus pais, e a possuirão.
+Porque eis que vêm dias, diz o SENHOR, em que restaurarei o meu povo, Israel e Judá, de seus infortúnios, diz o 
+SENHOR, e os trarei de volta à terra que dei a seus pais, e a possuirão.
 \v Jr.30.4
 E estas são as palavras que o SENHOR falou quanto a Israel e a Judá;
 \v Jr.30.5
@@ -2686,7 +2691,12 @@ Pois será naquele dia,diz o SENHOR dos exércitos, que eu quebrarei seu jugo de
 \v Jr.30.9
 Em vez disso servirão ao SENHOR, seu Deus, e a Davi, seu rei, o qual lhes levantarei.
 \v Jr.30.10
-Tu pois, servo meu Jacó, não temas,diz o SENHOR, nem te espantes, ó Israel; porque eis que te salvarei de longe, e a tua semente da terra de seu cativeiro; e Jacó voltará, descansará e sossegará, e não haverá quem 
+Tu pois, servo meu Jacó, não temas, diz o SENHOR, nem te espantes, ó Israel; porque eis que te salvarei de longe, e a 
+tua descendência
+\fn
+Lit. semente
+\*fn
+ da terra do seu cativeiro; e Jacó voltará, descansará e sossegará, e não haverá quem 
 \added
 o
 \*added
@@ -2734,19 +2744,17 @@ e
 \*added
  pela multidão de teus pecados te fiz estas coisas.
 \v Jr.30.16
-Porém serão devorados todos os que te devoram; e todos os teus adversários, todos eles irão em cativeiro; e roubados serão os que te roubam, e a todos os que te despojaram entregarei para que sejam despojados.
+Porém serão devorados todos os que te devoram; e todos os teus adversários, todos eles irão ao cativeiro; e roubados 
+serão os que te roubam, e a todos os que te despojam entregarei para que sejam despojados.
 \v Jr.30.17
-Mas eu te farei ter saúde, e sararei tuas feridas,diz o SENHOR; pois te chamaram de rejeitada, 
+Mas eu te farei ter saúde, e sararei tuas feridas, diz o SENHOR; pois te chamaram de rejeitada, 
 \added
 dizendo
 \*added
- : Esta é Sião, a quem ninguém busca.
+: Esta é Sião, a quem ninguém busca.
 \v Jr.30.18
-Assim diz o SENHOR: Eis que reverterei o cativeiro das tendas de Jacó, e de suas moradas me compadecerei; e a cidade será reedificada sobre seu amontoado 
-\added
-de ruínas
-\*added
-,e o templo será posto no lugar de costume.
+Assim diz o SENHOR: Eis que restaurarei as tendas de Jacó de seu infortúnio, e me compadecerei de suas moradas; e a 
+cidade será reedificada de suas ruínas, e o templo será posto no lugar de costume.
 \v Jr.30.19
 E sairá deles louvor, e voz dos que estão cheios de alegria; e eu os multiplicarei, e não serão diminuídos; eu os glorificarei, e não serão menosprezados.
 \v Jr.30.20
@@ -2873,7 +2881,8 @@ obscuro – trad. alt. rodeará, protegerá
 \*fn
  ao varão.
 \v Jr.31.23
-Assim diz o SENHOR dos exércitos, Deus de Israel: Novamente dirão esta palavra na terra de Judá e em suas cidades, quando eu reverter seu cativeiro: O SENHOR te abençoe, ó morada de justiça, ó monte santo.
+Assim diz o SENHOR dos exércitos, Deus de Israel: Novamente dirão esta palavra na terra de Judá e em suas cidades, 
+quando eu os restaurar de seu infortúnio: O SENHOR te abençoe, ó morada de justiça, ó monte santo.
 \v Jr.31.24
 E nela habitarão Judá, e em todas as suas cidades juntamente: os lavradores, e os que caminham com o rebanho.
 \v Jr.31.25
@@ -3008,13 +3017,13 @@ E entraram, e tomaram posse
 \added
 dela
 \*added
- ; porém não obedeceram à tua voz, nem andaram em tua lei; nada fizeram do que lhes mandaste fazer; por isso fizeste vir sobre eles todo este mal.
+; porém não obedeceram à tua voz, nem andaram em tua lei; nada fizeram do que lhes mandaste fazer; por isso fizeste vir sobre eles todo este mal.
 \v Jr.32.24
 Eis aqui os cercos! Já vieram à cidade para tomá-la; e a cidade está entregue nas mãos dos caldeus que lutam contra ela, por causa da espada, da fome e da pestilência; e o que falaste se cumpriu, e eis que tu estás vendo 
 \added
 isso
 \*added
- .
+.
 \v Jr.32.25
 Porém tu, ó Senhor DEUS, me disseste: Compra para ti o campo por dinheiro, e faze com que testemunhas testemunhem; mesmo estando a cidade já entregue nas mãos dos caldeus?
 \v Jr.32.26
@@ -3073,11 +3082,9 @@ Pois assim diz o SENHOR: Assim como trouxe sobre este povo todo este grande mal,
 \v Jr.32.43
 E campos serão comprados nesta terra da qual vós dizeis: Está desolada, sem homens e sem animais; está entregue nas mãos dos caldeus.
 \v Jr.32.44
-Campos serão comprados por dinheiro, e se assinarão documentos, e os selarão, e farão testemunhas testemunharem, na terra de Benjamim, nos arredores de Jerusalém, e nas cidades de Judá; nas cidades das montanhas, e nas cidades das planícies, e nas cidades do Negueve; porque eu 
-\added
-os
-\*added
- farei voltarem de seu cativeiro, diz o SENHOR.
+Campos serão comprados por dinheiro, e se assinarão documentos, e os selarão, e farão testemunhas testificarem, na 
+terra de Benjamim, nos arredores de Jerusalém, e nas cidades de Judá; nas cidades das montanhas, e nas cidades das 
+planícies, e nas cidades do Negueve; porque eu os restaurarei de seu infortúnio, diz o SENHOR.
 \v Jr.33.1
 E veio a palavra do SENHOR a Jeremias pela segunda vez, estando ele ainda preso no pátio da guarda, dizendo:
 \v Jr.33.2
@@ -3085,7 +3092,7 @@ Assim diz o SENHOR que faz
 \added
 isto
 \*added
- ; o SENHOR, que forma isto para o confirmar; EU-SOU é o seu nome:
+; o SENHOR, que forma isto para o confirmar; EU-SOU é o seu nome:
 \v Jr.33.3
 Clama a mim, e eu te responderei; e te direi coisas grandes e difíceis
 \fn
@@ -3102,7 +3109,7 @@ Vieram lutar contra os caldeus, para enchê-las de cadáveres de homens, aos qua
 \v Jr.33.6
 Eis que eu lhes trarei saúde e cura, e os sararei; e lhes manifestarei abundância de paz e de verdade.
 \v Jr.33.7
-E reverterei o cativeiro de Judá e o cativeiro de Israel, e os edificarei como no princípio.
+E restaurarei Judá de seu infortúnio, e israel de seu infortúnio, e os edificarei como no princípio.
 \v Jr.33.8
 E os purificarei de toda a sua maldade 
 \added
@@ -3122,11 +3129,16 @@ esta cidade
 \v Jr.33.10
 Assim diz o SENHOR: Neste lugar, do qual dizeis que está desolado, sem homens nem animais, nas cidades de Judá e nas ruas de Jerusalém, que estão desoladas, sem homem, nem morador , nem animal, ainda se ouvirá
 \v Jr.33.11
-Voz de júbilo e voz de alegria, voz de noivo e voz de noiva, e voz dos que dizem: Louvai ao SENHOR dos exércitos, pois o SENHOR é bom; pois sua bondade dura para sempre; 
+Voz de júbilo e voz de alegria, voz de noivo e voz de noiva, e voz dos que dizem: Louvai ao SENHOR dos exércitos, 
+pois o SENHOR é bom; pois sua bondade dura para sempre; 
 \added
 e também
 \*added
- dos que trazem louvor à casa do SENHOR; porque reverterei o cativeiro da terra para o que era no princípio, diz o SENHOR.
+ dos que trazem louvor à casa do SENHOR; porque restaurarei o país
+\fn
+Ou: esta terra
+\*fn
+ de seu infortúnio para o que era no princípio, diz o SENHOR.
 \v Jr.33.12
 Assim diz o SENHOR dos exércitos: Neste lugar desolado, sem homem nem animal, e em todas as suas cidades, haverá novamente morada de pastores, que façam deitar o gado.
 \v Jr.33.13
@@ -3167,11 +3179,17 @@ Por acaso não tens visto o que este povo fala? Eles dizem: As duas famílias
 \fn
 famílias = i.e., as famílias (povos) de Israel e de Judá
 \*fn
- que o SENHOR havia escolhido agora ele a rejeitou. E desprezam a meu povo, como se não o considerassem mais como nação.
+ que o SENHOR havia escolhido agora ele as rejeitou. E desprezam a meu povo, como se não o considerassem mais como nação.
 \v Jr.33.25
 Assim diz o SENHOR: Se meu pacto com o dia e a noite não durasse, se eu não tivesse estabelecido as leis do céu e a terra,
 \v Jr.33.26
-Então também rejeitaria a semente de Jacó, e de Davi meu servo, para que não tomasse de sua descendência aos que governem sobre a descendência de Abraão, Isaque, e Jacó. Pois reverterei seu cativeiro, e terei deles misericórdia.
+Então também rejeitaria a descendência
+\fn
+Lit. semente
+\*fn
+ de Jacó, e de Davi meu servo, para que não tomasse da sua descendência aos que 
+governem sobre a descendência de Abraão, Isaque, e Jacó. Pois eu os restaurarei de seu infortúnio, e deles 
+terei misericórdia.
 \v Jr.34.1
 Palavra que veio do SENHOR a Jeremias, (quando Nabucodonosor rei da Babilônia, e todo o seu exército, e todos os reinos da terra que estavam sob o domínio de sua mão, e todos os povos, lutavam contra Jerusalém e contra todas as suas cidades), dizendo:
 \v Jr.34.2
@@ -3604,7 +3622,7 @@ Jeremias
 \added
 o capitão lhe disse mais
 \*added
- : Volta para Gedalias filho de Aicã, filho de Safã, ao qual o rei da Babilônia pôs sobre todas as cidades de Judá, e habita com ele em meio do povo; ou vai aonde te 
+: Volta para Gedalias, filho de Aicã, filho de Safã, ao qual o rei da Babilônia pôs sobre todas as cidades de Judá, e habita com ele em meio do povo; ou vai aonde te 
 \added
 parecer
 \*added
@@ -3619,7 +3637,7 @@ trad. alt. sustento
 \added
 para o caminho
 \*added
-,e um presente; e o despediu.
+, e um presente; e o despediu.
 \v Jr.40.6
 Assim foi Jeremias a Gedalias filho de Aicã, a Mispá, e habitou com ele em meio do povo que tinha restado na terra.
 \v Jr.40.7
@@ -3629,7 +3647,7 @@ Vieram, pois, a Gedalias em Mispá.
 \added
 Eram eles
 \*added
- : Ismael filho de Netanias, Joanã e Jônatas filhos de Careá, Seraías filho de Tanumete, os filhos de Efai o netofatita, e Jezanias filho do maacatita; eles e seu homens.
+: Ismael, filho de Netanias, Joanã e Jônatas, filhos de Careá, Seraías, filho de Tanumete, os filhos de Efai, o netofatita, e Jezanias, filho do maacatita; eles e seu homens.
 \v Jr.40.9
 E Gedalias filho de Aicã, filho de Safã, jurou a eles e a seus homens, dizendo: Não temais servir aos caldeus; habitai na terra, e servi ao rei da Babilônia, e tereis bem.
 \v Jr.40.10
@@ -3973,7 +3991,8 @@ apenas
 \v Jr.46.18
 Vivo eu, diz o Rei, cujo nome é EU-SOU dos exércitos, que como o Tabor entre os montes, e como o Carmelo no mar, assim ele virá.
 \v Jr.46.19
-Faz para ti a bagagem para a ida ao cativeiro, ó moradora filha do Egito; porque Nofe se tornará em desolação, e será devastada até não haver ali morador.
+Faz para ti a bagagem para a ida ao cativeiro, ó moradora, filha do Egito; porque Nofe se tornará em desolação, e será 
+devastada até não haver ali morador.
 \v Jr.46.20
 O Egito é uma bezerra formosa; mas a mosca carniceira vem do norte.
 \v Jr.46.21
@@ -4060,7 +4079,7 @@ Já não há mais exaltação em Moabe; em Hesbom tramaram o mal contra ela,
 \added
 dizendo
 \*added
- : Vinde, e a eliminemos das nações. Também tu, Madmém, serás cortada fora; a espada irá atrás de ti.
+: Vinde, e a eliminemos das nações. Também tu, Madmém, serás cortada fora; a espada irá atrás de ti.
 \v Jr.48.3
 \added
 Ouve-se
@@ -4084,7 +4103,8 @@ trad. alt. zimbro (junípero), tamargueira
 \*fn
  no deserto.
 \v Jr.48.7
-Pois por causa de tua confiança confiaste em tuas obras e em teus tesouros, tu também serás tomada; e Quemos sairá em cativeiro, seus sacerdotes e juntamente seus príncipes.
+Pois por causa de tua confiança confiaste em tuas obras e em teus tesouros, tu também serás tomada; e Quemos irá ao 
+cativeiro, seus sacerdotes e juntamente seus príncipes.
 \v Jr.48.8
 Pois virá o destruidor a cada uma das cidades, e nenhuma cidade escapará; e perecerá também o vale, e será destruída a planície,pois assim diz o SENHOR.
 \v Jr.48.9
@@ -4106,9 +4126,9 @@ impurezas
 \*key
 i.e., resíduos de vinho
 \*fn
- esteve quieto; e não foi esvaziado de vaso em vaso, nem nunca foi em cativeiro; por isso seu sabor ficou nele, e seu cheiro não mudou.
+ esteve quieto; e não foi esvaziado de vaso em vaso, nem nunca foi ao cativeiro; por isso seu sabor ficou nele, e seu cheiro não mudou.
 \v Jr.48.12
-Por isso eis que vêm dias,diz o SENHOR, em que eu lhe enviarei derramadores que o derramarão; e esvaziarão seus vasos, e romperão seus jarros.
+Por isso eis que vêm dias, diz o SENHOR, em que eu lhe enviarei derramadores que o derramarão; e esvaziarão seus vasos, e romperão seus jarros.
 \v Jr.48.13
 E Moabe se envergonhará de Quemos, assim como a casa de Israel se envergonhou de Betel, 
 \added
@@ -4222,13 +4242,14 @@ Os que fugiam da força, paravam à sombra de Hesbom; porém fogo saiu de Hesbom
 \v Jr.48.46
 Ai de ti, Moabe! Pereceu o povo de Quemos; pois teus filhos foram levados cativos, e tuas filhas foram em cativeiro.
 \v Jr.48.47
-Porém reverterei o cativeiro de Moabe nos últimos dias,diz o SENHOR. Até aqui é o julgamento de Moabe.
+Porém restaurarei Moabe de seu infortúnio nos últimos dias, diz o SENHOR. Até aqui é o julgamento de Moabe.
 \v Jr.49.1
 Sobre os filhos de Amom.Assim diz o SENHOR: Por acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, Malcã tomou posse de Gade, e seu povo habitou em suas cidades?
 \v Jr.49.2
 Portanto eis que vêm dias,diz o SENHOR, em que farei ouvir em Rabá dos filhos de Amom clamor de guerra; e se tornará em um amontoado de ruínas, e suas vilas serão queimadas a fogo; e Israel tomará posse daqueles que tinham lhes tomado, disse o SENHOR.
 \v Jr.49.3
-Uiva, ó Hesbom, porque Ai é destruída; clamai, ó filhas de Rabá, vesti-vos de sacos, lamentai, e rodeai pelas cercas, porque Malcã irá em cativeiro, seus sacerdotes e juntamente seus príncipes.
+Uiva, ó Hesbom, porque Ai é destruída; clamai, ó filhas de Rabá, vesti-vos de sacos, lamentai, e rodeai pelas cercas, 
+porque Malcã irá em cativeiro, seus sacerdotes e juntamente seus príncipes.
 \v Jr.49.4
 Por que te orgulhas dos vales? Teu vale
 \fn
@@ -4248,11 +4269,11 @@ lit. escorreu
 \added
 dizendo
 \*added
- : Quem virá contra mim?
+: Quem virá contra mim?
 \v Jr.49.5
 Eis que trago medo sobre ti,diz o Senhor o SENHOR dos exércitos, de todos os que estão ao redor de ti; e sereis forçados a fugir, cada um por si, e não haverá quem consiga reunir os que andam sem rumo.
 \v Jr.49.6
-Mas depois disto reverterei o cativeiro dos filhos de Amom,diz o SENHOR.
+Mas depois disso restaurarei os filhos de Amom de seu infortúnio, diz o SENHOR.
 \v Jr.49.7
 Sobre Edom.Assim diz o SENHOR dos exércitos: Por acaso não há mais sabedoria em Temã? Pereceu o conselho dos prudentes? Estragou-se sua sabedoria?
 \v Jr.49.8
@@ -4366,7 +4387,7 @@ i.e. o desastre, a calamidade
 \v Jr.49.38
 E porei meu trono em Elão, e destruirei dali o rei e os príncipes,diz o SENHOR.
 \v Jr.49.39
-Mas será nos últimos dias, que reverterei o cativeiro de Elão,diz o SENHOR.
+Mas será nos últimos dias, que restaurarei Elão de seu infortúnio, diz o SENHOR.
 \v Jr.50.1
 Palavra que o SENHOR falou sobre a Babilônia, sobre a terra dos caldeus, por meio do profeta Jeremias.
 \v Jr.50.2
@@ -4849,7 +4870,8 @@ No décimo oitavo ano Nabucodonosor, levou cativas de Jerusalém oitocentas e tr
 \v Jr.52.30
 No vigésimo terceiro ano de Nabucodonosor, Nebuzaradã capitão da guarda levou cativas setecentas e quarenta e cinco pessoas dos judeus; no total foram quatro mil e seiscentas pessoas.
 \v Jr.52.31
-Sucedeu, pois, no trigésimo sétimo ano de cativeiro de Joaquim rei de Judá, no décimo segundo mês, aos vinte e cinco do mês, que Evil-Merodaque rei da Babilônia, no 
+Sucedeu, pois, no trigésimo sétimo ano de cativeiro de Joaquim rei de Judá, no décimo segundo mês, aos vinte e cinco 
+do mês, que Evil-Merodaque, rei da Babilônia, no 
 \added
 primeiro
 \*added

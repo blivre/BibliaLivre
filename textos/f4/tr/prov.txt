@@ -117,7 +117,6 @@ e
 \*added
  vos farei saber minhas palavras.
 \v Prv.1.24
- 
 \added
 Mas
 \*added
@@ -251,7 +250,7 @@ Isto será remédio para teu corpo, e alívio para teus ossos.
 \v Prv.3.9
 Honra ao SENHOR com teus bens, e com a primeira parte de toda a tua renda.
 \v Prv.3.10
-E teus celeiros se encherão de fartura; e teus tanques de espremer transbordarão de suco de uvas.
+E teus celeiros se encherão de fartura, e teus tanques transbordarão de vinho novo.
 \v Prv.3.11
 Filho meu, não rejeites a correção do SENHOR, nem te desagrades de sua repreensão;
 \v Prv.3.12
@@ -297,21 +296,17 @@ Não temas o pavor repentino; nem da assolação dos perversos, quando vier.
 \v Prv.3.26
 Porque o SENHOR será tua esperança; e ele guardará teus pés para que não sejam presos.
 \v Prv.3.27
-Não detenhas o bem daqueles que possuem 
-\added
-o direito de recebê-l
-\*added
- o, se tiveres em tuas mãos poder para o fazeres.
+Não detenhas o bem daqueles que possuem o direito, se tiveres em tuas mãos poder para o fazeres.
 \v Prv.3.28
 Não digas a teu próximo: Vai, e volta 
 \added
 depois
 \*added
-,que amanhã te darei; Se tu tiveres contigo 
+, que amanhã te darei; se tu tiveres contigo 
 \added
 o que ele te pede
 \*added
- .
+.
 \v Prv.3.29
 Não planejes o mal contra teu próximo, pois ele mora tendo confiança em ti.
 \v Prv.3.30
@@ -323,19 +318,11 @@ seguir
 \*added
  algum dos caminhos dele.
 \v Prv.3.32
-Porque o SENHOR abomina o 
-\added
-s
-\*added
- perverso 
-\added
-s
-\*added
- ; mas ele 
+Porque o SENHOR abomina os perversos; mas ele 
 \added
 guarda
 \*added
- seu segredo com os justos.
+ o seu segredo com os justos.
 \v Prv.3.33
 A maldição do SENHOR 
 \added
@@ -1105,19 +1092,15 @@ A mulher bela mas sem discrição é como uma joia no focinho de uma porca.
 \v Prv.11.23
 O desejo dos justos é somente para o bem; mas a esperança dos perversos é a fúria.
 \v Prv.11.24
-Um dá generosamente, e tem cada vez mais; e outro retém mais do que é justo, e empobrece.
+Há quem dá generosamente e tem cada vez mais; e há quem retém mais do que é justo e empobrece.
 \v Prv.11.25
-A alma generosa prosperará, e aquele que sacia
+A alma generosa prosperará, e aquele que saciar
 \fn
 \key
 sacia
 \*key
 lit. fornece água
 \*fn
- 
-\added
-os outros
-\*added
  também será saciado.
 \v Prv.11.26
 O povo amaldiçoa ao que retém o trigo; mas bênção haverá sobre a cabeça daquele que 
@@ -1128,7 +1111,7 @@ o
 \v Prv.11.27
 Aquele que com empenho busca o bem, busca favor; porém o que procura o mal, sobre ele isso lhe virá.
 \v Prv.11.28
-Aquele que confia em suas riquezas cairá; mas os justos brotarão como a folhagem.
+Aquele que confia em suas riquezas cairá; mas os justos florescerão como as folhas.
 \v Prv.11.29
 Aquele que perturba sua 
 \added
@@ -2063,7 +2046,6 @@ O ouvido que ouve e o olho que vê, o SENHOR os fez ambos.
 \v Prv.20.13
 Não ames ao sono, para que não empobreças; abre teus olhos, e te fartarás de pão.
 \v Prv.20.14
- 
 \added
 Preço
 \*added
@@ -2319,15 +2301,19 @@ suborno
 \*added
  ao rico certamente empobrecerão.
 \v Prv.22.17
-Inclina teu ouvido e escuta as palavras dos sábios; dispõe teu coração ao meu conhecimento;
+Inclina o teu ouvido e escuta as palavras dos sábios; dispõe teu coração ao meu conhecimento;
 \v Prv.22.18
-Porque é agradável que os guardes dentro de ti, juntos estarão prontos para os teus lábios;
+porque é agradável que as guardes dentro de ti, e estejam prontas para os teus lábios;
 \v Prv.22.19
-Para que tua confiança esteja no SENHOR, eu os ensino a ti hoje.
+para que tua confiança esteja no SENHOR, eu as ensino a ti hoje.
 \v Prv.22.20
-Por acaso não te escrevi coisas maravilhosas sobre o conselho e o conhecimento,
+Por acaso não te escrevi excelentes
+\fn
+obuscuro - trad. alt. trinta
+\*fn
+ coisas sobre o conselho e o conhecimento,
 \v Prv.22.21
-Para fazer teres certeza de que sabes as palavras da verdade, para que possas responder palavras de verdade aos que te enviarem?
+para te ensinar a certeza das palavras da verdade, para que possas responder palavras de verdade aos que te enviarem?
 \v Prv.22.22
 Não roubes ao pobre, porque ele é pobre; nem oprimas ao aflito junto à porta do julgamento.
 \v Prv.22.23
@@ -2335,7 +2321,7 @@ Porque o SENHOR defenderá a causa deles em juízo, e quanto aos que os roubam, 
 \v Prv.22.24
 Não seja companheiro de quem se irrita facilmente, nem andes com o homem furioso,
 \v Prv.22.25
-Para que não aprendas o caminho dele, e te ponhas numa armadilhas para tua alma.
+Para que não aprendas o caminho dele, e te ponhas em armadilhas para tua alma.
 \v Prv.22.26
 Não estejas entre os que se comprometem em acordos com as mãos, 
 \added
@@ -2403,13 +2389,13 @@ bom
 \added
 para ti
 \*added
-,e tua expectativa não será cortada.
+, e tua expectativa não será cortada.
 \v Prv.23.19
 Ouve, filho meu, e sê sábio; e conduz teu coração no caminho 
 \added
 correto
 \*added
- .
+.
 \v Prv.23.20
 Não esteja entre os beberrões de vinho, 
 \added

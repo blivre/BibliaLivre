@@ -15,11 +15,11 @@ E sucedeu que, aos trinta anos, no quarto
 \added
 mês
 \*added
-,aos cinco do mês, estando eu em meio dos exilados, junto ao rio Quebar, os céus se abriram, e vi visões de Deus.
+, aos cinco do mês, estando eu em meio dos exilados, junto ao rio Quebar, os céus se abriram, e vi visões de Deus.
 \v Ez.1.2
-Aos cinco do mês, que foi no quinto ano desde que rei Joaquim havia sido levado cativo,
+Aos cinco do mês, que foi no quinto ano do cativeiro do rei Joaquim,
 \v Ez.1.3
-Verdadeiramente veio a palavra do SENHOR ao sacerdote Ezequiel, filho de Buzi, na terra dos caldeus, junto ao rio Quebar; e ali a mão do SENHOR esteve sobre ele.
+verdadeiramente veio a palavra do SENHOR ao sacerdote Ezequiel, filho de Buzi, na terra dos caldeus, junto ao rio Quebar; e ali a mão do SENHOR esteve sobre ele.
 \v Ez.1.4
 Então olhei, e eis que um vento tempestuoso vinha do norte, uma grande nuvem, e um fogo incandescente, e ao seu redor um resplendor, e no meio do fogo uma coisa que parecia como de âmbar,
 \v Ez.1.5
@@ -77,7 +77,7 @@ E seus aros eram altos e espantosos; e seus aros estavam cheios de olhos ao redo
 \added
 rodas
 \*added
- .
+.
 \v Ez.1.19
 E quando os animais andavam, as rodas andavam junto a eles: e quando os animais se levantavam da terra, levantavam-se 
 \added
@@ -169,7 +169,7 @@ Fiz tua testa como o diamante, mais forte que a pederneira; não os temas, nem t
 \v Ez.3.10
 Disse-me mais: Filho do homem, toma em teu coração todas a minhas palavras que te falarei, e ouve com os teus ouvidos. 
 \v Ez.3.11
-Então vai, e chega aos transportados, aos filhos de teu povo, e tu lhes falarás e lhes dirás: Assim diz o Senhor DEUS; quer ouçam, quer deixem 
+Então vai, e chega aos do cativeiro, aos filhos de teu povo, e tu lhes falarás e lhes dirás: Assim diz o Senhor DEUS; quer ouçam, quer deixem 
 \added
 de ouvir
 \*added
@@ -179,9 +179,8 @@ Então o Espírito me levantou, e ouvi detrás de mim uma voz de grande estrondo
 \added
 que dizia
 \*added
- : Bendita seja a glória do SENHOR desde seu lugar.
+: Bendita seja a glória do SENHOR desde seu lugar.
 \v Ez.3.13
- 
 \added
 Ouvi
 \*added
@@ -196,7 +195,7 @@ lit. ardor, calor
 \*fn
 de meu espírito; mas a mão do SENHOR era forte sobre mim.
 \v Ez.3.15
-E vim aos transportados a Tel-Abibe, que moravam junto ao rio de Quebar, e eu morava onde eles moravam; e ali permaneci sete dias atônito entre eles.
+E vim aos do cativeiro, a Tel-Abibe, que moravam junto ao rio de Quebar, e eu morava onde eles moravam; e ali permaneci sete dias atônito entre eles.
 \v Ez.3.16
 E aconteceu que, ao fim de sete dias, veio a mim a palavra do SENHOR, dizendo:
 \v Ez.3.17
@@ -310,7 +309,7 @@ Tomarás também dali alguns poucos
 \added
 cabelos
 \*added
-,e os atarás nas bordas 
+, e os atarás nas bordas 
 \added
 de
 \*added
@@ -719,9 +718,9 @@ Depois os querubins levantaram suas asas, e as rodas ao lado deles; e a glória 
 \v Ez.11.23
 E a glória do SENHOR subiu do meio da cidade, e se pôs sobre o monte que está ao oriente da cidade.
 \v Ez.11.24
-Depois o Espírito me levantou, e levou-me à Caldeia, aos transportados, em visão do Espírito de Deus. E a visão que vi foi embora acima de mim.
+Depois o Espírito me levantou, e levou-me à Caldeia, aos do cativeiro, em visão do Espírito de Deus. E a visão que vi foi embora acima de mim.
 \v Ez.11.25
-E falei aos transportados todas as palavras do SENHOR que ele tinha me mostrado.
+E falei aos do cativeiro todas as palavras do SENHOR que ele havia me mostrado.
 \v Ez.12.1
 E veio a mim a palavra do SENHOR, dizendo:
 \v Ez.12.2
@@ -759,7 +758,7 @@ Filho do homem, por acaso a casa de Israel, aquela casa rebelde, não te pergunt
 \v Ez.12.10
 Dize-lhes: Assim diz o Senhor DEUS: esta revelação é para o príncipe em Jerusalém, e para toda a casa de Israel que está em meio dela.
 \v Ez.12.11
-Dize: Eu sou vosso sinal; tal como eu fiz, assim se fará a eles; por transportação irão em cativeiro.
+Dize: Eu sou vosso sinal; tal como eu fiz, assim se fará a eles; serão removidos; irão em cativeiro.
 \v Ez.12.12
 E o príncipe que está entre eles, levará nos ombros 
 \added
@@ -767,7 +766,7 @@ sua bagagem
 \*added
  de noite, e sairá; na parede cavarão 
 \added
-um buraco
+uma abertura
 \*added
  para saírem por ela; cobrirá seu rosto para não ver com 
 \added
@@ -1111,7 +1110,6 @@ pois
 \*added
  desprezaste o pagamento,
 \v Ez.16.32
- 
 \added
 Mas foste
 \*added
@@ -1182,7 +1180,7 @@ Também Samaria não cometeu sequer a metade de teus pecados; e tu multiplicaste
 \v Ez.16.52
 Tu também, leva tua vergonha, tu que julgaste em favor de tuas irmãs por meio de teus pecados, que fizeste mais abomináveis que elas; mais justas são que tu; envergonha-te, pois, tu também, e leva tua vergonha, pois justificaste a tuas irmãs.
 \v Ez.16.53
-Eu, pois, trarei de volta seus cativos, os cativos de Sodoma e de suas filhas, e os cativos de Samaria e de suas filhas, e os cativos de teu cativeiro entre elas,
+Eu, pois, os restaurarei de seu infortúnio, os cativos de Sodoma e de suas filhas, e os cativos de Samaria e de suas filhas, e os cativos do teu cativeiro entre elas,
 \v Ez.16.54
 Para que leves tua vergonha, e sejas envergonhada por tudo que fizeste, dando-lhes tu consolo.
 \v Ez.16.55
@@ -2178,7 +2176,9 @@ E veio a mim a palavra do SENHOR, dizendo:
 \v Ez.25.2
 Filho do homem, dirige tua face contra os filhos de Amom, e profetiza sobre eles.
 \v Ez.25.3
-E dize aos filhos de Amom: Ouvi a palavra do Senhor DEUS; assim diz o Senhor DEUS:  Dado que disseste:  Ha, ha!  Acerca de meu santuário quando foi profanado, e acerca da terra de Israel quando foi desolada, e acerca da casa de Judá quando foram em cativeiro, 
+E diz aos filhos de Amom: Ouvi a palavra do Senhor DEUS; assim diz o Senhor DEUS: Dado que disseste: Ha, ha! Acerca de 
+meu santuário quando foi profanado, e acerca da terra de Israel quando foi desolada, e acerca da casa de Judá quando 
+foram ao cativeiro, 
 \v Ez.25.4
 Por isso, eis, eu te entregarei como possessão aos filhos do oriente, e estabelecerão suas acampamentos em ti, e porão suas tendas em ti; eles comerão teus frutos e beberão teu leite.
 \v Ez.25.5
@@ -2546,7 +2546,7 @@ Porque tornarei a terra do Egito em desolação, em meio a terras desoladas; e s
 \v Ez.29.13
 Porém assim diz o Senhor DEUS: Ao fim de quarenta anos ajuntarei os egípcios dos povos entre os quais forem espalhados;
 \v Ez.29.14
-E voltarei a trazer os cativos do Egito, e os trarei de volta à terra de Patros, à terra de seu nascimento; e ali serão um reino inferior.
+E restaurarei o Egito de seu infortúnio, e os trarei de volta à terra de Patros, à terra de seu nascimento; e ali serão um reino inferior.
 \v Ez.29.15
 Será mais inferior que os 
 \added
@@ -2659,7 +2659,7 @@ E sucedeu no décimo primeiro ano, no primeiro
 \added
 mês
 \*added
-,aos sete do mês, que veio a mim a palavra do SENHOR, dizendo:
+, aos sete do mês, que veio a mim a palavra do SENHOR, dizendo:
 \v Ez.30.21
 Filho do homem, quebrei o braço de Faraó, rei do Egito; e eis que não será enfaixado com remédios, nem lhe porão faixa para o envolver, a fim de curá-lo para que possa segurar espada.
 \v Ez.30.22
@@ -2677,7 +2677,7 @@ E sucedeu no décimo primeiro ano, no terceiro
 \added
 mês
 \*added
-,ao primeiro 
+, ao primeiro 
 \added
 dia
 \*added
@@ -2727,7 +2727,7 @@ A quem,
 \added
 pois
 \*added
-,tu és semelhante em glória e em grandeza entre as árvores do Éden? Porém tu serás derrubado com as árvores do Éden para abaixo da terra; entre os incircuncisos jazerás, com os mortos à espada. Este é Faraó e toda a sua multidão,diz o Senhor DEUS.
+, tu és semelhante em glória e em grandeza entre as árvores do Éden? Porém tu serás derrubado com as árvores do Éden para abaixo da terra; entre os incircuncisos jazerás, com os mortos à espada. Este é Faraó e toda a sua multidão,diz o Senhor DEUS.
 \v Ez.32.1
 E sucedeu no décimo segundo ano, no décimo segundo mês, no primeiro 
 \added
@@ -2864,7 +2864,7 @@ Portanto tu, filho do homem, dize aos filhos de teu povo: A justiça do justo n�
 \added
 justiça
 \*added
-,no dia que pecar. 
+, no dia que pecar. 
 \v Ez.33.13
 Quando eu ao justo: Certamente viverá,  e ele, confiante em sua justiça, passar a praticar perversidade, todas suas justiças não serão lembradas, mas na perversidade que fez, por ela morrerá.
 \v Ez.33.14
@@ -2890,7 +2890,7 @@ E aconteceu no décimo segundo ano de nosso cativeiro, no décimo
 \added
 mês
 \*added
-,aos cinco do mês, que veio a mim um que havia escapado de Jerusalém, dizendo: A cidade já foi ferida. 
+, aos cinco do mês, que veio a mim um que havia escapado de Jerusalém, dizendo: A cidade já foi ferida. 
 \v Ez.33.22
 Ora, a mão do SENHOR estivera sobre mim à tarde, antes que o escapado viesse, e abrira minha boca, até que chegou a mim pela manhã; e minha boca se abriu, e nunca mais fiquei mudo.
 \v Ez.33.23
@@ -2908,7 +2908,7 @@ Porque tornarei a terra em desolação e ruínas, e a soberba de sua força cess
 \added
 por eles
 \*added
- .
+.
 \v Ez.33.29
 Então saberão que eu sou o SENHOR, quando eu tornar a terra em desolação e ruínas, por causa de todas as suas abominações que fizeram.
 \v Ez.33.30
@@ -2985,7 +2985,7 @@ Eu apascentarei minhas ovelhas, e eu farei elas se deitarem
 \added
 em segurança
 \*added
-,diz o Senhor DEUS.
+, diz o Senhor DEUS.
 \v Ez.34.16
 Eu buscarei a perdida, e trarei de volta a desgarrada; porei curativo na que estiver ferida, e fortalecerei a enferma; mas a gorda e a forte destruirei. Eu as apascentarei com julgamento.
 \v Ez.34.17
@@ -3069,7 +3069,7 @@ por ele
 \added
 por ele
 \*added
- .
+.
 \v Ez.35.8
 E encherei seus montes de seus mortos; em teus morros, em teus vales, e em todas as tuas correntes de águas, cairão os mortos à espada.
 \v Ez.35.9
@@ -3260,15 +3260,14 @@ queres dizer
 \*added
  com isso? 
 \v Ez.37.19
- 
 \added
 Então
 \*added
- tu lhes dirás: Assim diz o Senhor DEUS:  Eis que eu tomo a vara de José que esteve na mão de Efraim, e das tribos de Israel seus companheiros, e os juntarei com ele à vara de Judá, e as farei uma só vara, e serão uma minha mão. 
+ tu lhes dirás: Assim diz o Senhor DEUS: Eis que eu tomo a vara de José que esteve na mão de Efraim, e das tribos de Israel seus companheiros, e os juntarei com ele à vara de Judá, e as farei uma só vara, e serão uma minha mão. 
 \v Ez.37.20
 E as varas sobre as quais houverdes escrito estarão em tua mão diante dos olhos deles;
 \v Ez.37.21
-Dize-lhes, pois: Assim diz o Senhor DEUS:  Eis que eu tomarei os filhos de Israel dentre as nações para onde foram, e os ajuntarei desde os arredores e os trarei à sua 
+Dize-lhes, pois: Assim diz o Senhor DEUS: Eis que eu tomarei os filhos de Israel dentre as nações para onde foram, e os ajuntarei desde os arredores e os trarei à sua 
 \added
 própria
 \*added
@@ -3429,7 +3428,7 @@ E separarão homens para que continuamente percorram a terra
 \added
 de Israel
 \*added
-,e enterrem aos passantes que restaram sobre a face da terra, para que purifiquem; ao fim de sete meses completarão a busca.
+, e enterrem aos passantes que restaram sobre a face da terra, para que purifiquem; ao fim de sete meses completarão a busca.
 \v Ez.39.15
 E os que passam pela terra, caso passem e vejam 
 \added
@@ -3461,28 +3460,23 @@ E porei minha glória entre as nações; e todas as nações verão meu julgamen
 \v Ez.39.22
 E daquele dia em diante a casa de Israel saberá que eu sou o SENHOR seu Deus.
 \v Ez.39.23
-E as nações saberão que os da casa de Israel foram levados cativos por sua 
+E as nações saberão que os da casa de Israel foram levados ao cativeiro por sua 
 \added
 própria
 \*added
- maldade, porque se rebelaram contra mim; então eu escondi deles meu rosto, e os entreguei na mão de seus adversários, e todos caíram à espada.
+ maldade, porque se rebelaram contra mim; então escondi meu rosto deles, e os entreguei na mão de seus adversários, e todos caíram à espada.
 \v Ez.39.24
 Conforme a imundície deles e conforme suas rebeliões eu fiz com eles; e deles escondi meu rosto.
 \v Ez.39.25
-Portanto assim diz o Senhor DEUS: Agora trarei de volta aos cativos de Jacó, 
-\fn
-\key
-trarei de volta aos cativos de Jacó
-\*key
-trad. alt. restaurarei a sorte de Jacó 
-\*fn
-terei misericórdia de toda a casa de Israel, e zelarei por meu santo nome.
+Portanto assim diz o Senhor DEUS: Agora restaurarei Jacó de seu infortúnio, terei misericórdia de toda a casa de 
+Israel, e zelarei por meu santo nome.
 \v Ez.39.26
 Quando eles tiverem levado sobre si sua vergonha, e toda sua rebeldia com que se rebelaram contra mim, quando habitarem seguros em sua terra, e não houver quem os espante;
 \v Ez.39.27
 Quando eu trouxé-los de volta dos povos, e os juntar das terras de seus inimigos, e for eu santificado neles diante dos olhos de muitas nações.
 \v Ez.39.28
-Então saberão que eu sou o SENHOR seu Deus, porque eu os fiz serem levados cativos entre as nações, e os juntarei de volta em sua terra, sem deixar mais nenhum deles lá.
+Então saberão que eu sou o SENHOR seu Deus, porque eu os fiz serem levados em cativeiro entre as nações, e os 
+ajuntarei de volta em sua terra, sem deixar mais nenhum deles lá.
 \v Ez.39.29
 Nem esconderei mais deles meu rosto; pois derramarei 
 \fn
@@ -3493,7 +3487,8 @@ trad. alt. quando eu derramar
 \*fn
 meu Espírito sobre a casa de Israel, diz o Senhor DEUS. 
 \v Ez.40.1
-No vigésimo quinto ano de nosso cativeiro, no princípio do ano, aos dez do mês, aos catorze anos depois que a cidade fora ferida, naquele mesmo dia veio sobre mim a mão do SENHOR, e me levou para lá.
+No vigésimo quinto ano de nosso cativeiro, no princípio do ano, aos dez do mês, aos catorze anos depois que a cidade 
+foi ferida, naquele mesmo dia veio sobre mim a mão do SENHOR, e me levou para lá.
 \v Ez.40.2
 Em visões de Deus me levou à terra de Israel, e me pôs sobre um monte muito alto, sobre o qual havia como um edifício de uma cidade ao sul.
 \v Ez.40.3
@@ -4590,3 +4585,4 @@ O SENHOR Está Ali
 \*key
 hebraico: YHWH-Samá 
 \*fn
+

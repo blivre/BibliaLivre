@@ -29,7 +29,6 @@ o universo
 lit. as eras – o termo grego literalmente indicava longos períodos de tempo, mas também podia indicar lugares, isto é, o mundo ou mundos
 \*fn
 \v Hb.1.3
- 
 \added
 O Filho
 \*added
@@ -365,14 +364,14 @@ mas
 \*added
  sem pecado.
 \v Hb.4.16
-Acheguemo-nos, pois, com confiança, ao trono da graça, para que possamos receber misericórdia, e encontremos graça para sermos ajudados
+Portanto, acheguemo-nos com confiança ao trono da graça, para que possamos receber misericórdia e encontrar graça para sermos socorridos
 \fn
 \key
-para sermos ajudados
+para sermos socorridos
 \*key
-lit. para ajuda
+lit. para socorro
 \*fn
- em tempo oportuno.
+ no tempo adequado.
 \v Hb.5.1
 Pois todo sumo sacerdote tomado dentre os homens é constituído em prol das pessoas nas coisas 
 \added
@@ -1361,6 +1360,7 @@ lhes
 \ref
 Êxodo 19:12,13 
 \*ref
+
 \v Hb.12.21
 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo). 
 \ref

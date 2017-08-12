@@ -96,7 +96,7 @@ E o rei Herodes, ao ouvir
 \added
 isto
 \*added
-,ficou perturbado, e com ele toda Jerusalém.
+, ficou perturbado, e com ele toda Jerusalém.
 \v Mt.2.4
 E tendo reunido todos os chefes dos sacerdotes e escribas do povo, perguntou-lhes onde o Cristo havia de nascer.
 \v Mt.2.5
@@ -550,7 +550,7 @@ ou: qual de vós poderá, por sua ansiedade, alongar um pouco sua vida?
 \v Mt.6.28
 E por que andais ansiosos pela roupa? Prestai atenção aos lírios do campo, como crescem; eles nem trabalham nem fiam.
 \v Mt.6.29
-E eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.
+Mas eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.
 \v Mt.6.30
 Se Deus veste desta maneira a erva do campo, que hoje existe, e amanhã é lançada no forno, não 
 \added
@@ -768,7 +768,7 @@ Jesus
 \added
 de Mateus
 \*added
-,eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
+, eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
 \fn
 \key
 reclinar-se à mesa
@@ -780,7 +780,7 @@ E quando os fariseus viram
 \added
 isto
 \*added
-,perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
+, perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
 \v Mt.9.12
 Porém 
 Jesus
@@ -828,7 +828,7 @@ Então Jesus se levantou e o seguiu com seus discípulos.
 \added
 dele
 \*added
-,e tocou a borda de sua roupa;
+, e tocou a borda de sua roupa;
 \v Mt.9.21
 Porque dizia consigo mesma: Se eu tão-somente tocar a roupa dele, serei curada.
 \v Mt.9.22
@@ -869,7 +869,6 @@ Então disse aos seus discípulos: Em verdade a colheita é grande, porém os tr
 \v Mt.9.38
 Portanto rogai ao Senhor da colheita que envie trabalhadores à sua colheita.
 \v Mt.10.1
- 
 \added
 Jesus
 \*added

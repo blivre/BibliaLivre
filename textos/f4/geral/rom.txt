@@ -1466,11 +1466,11 @@ Portanto, é necessário estar sujeito não somente por causa do castigo, mas ta
 \v Rm.13.6
 Por isso também pagais impostos; porque são servidores de Deus, atendendo a essa função.
 \v Rm.13.7
-{tr,rp:Portanto, dai}{n4:Dai}{trnc:
-\fn
+{tr,rp:Portanto, dai}{n4:Dai}
+{trnc:\fn
 N4 omite “Portanto”
-*fn
-} a cada um o que deveis; a quem imposto, imposto; a quem taxa, taxa; a quem temor, temor; a quem honra, honra.
+\*fn}
+ a cada um o que deveis; a quem imposto, imposto; a quem taxa, taxa; a quem temor, temor; a quem honra, honra.
 \v Rm.13.8
 A ninguém devais coisa alguma, a não ser o amor uns aos outros, pois quem ama o outro tem cumprido a Lei.
 \v Rm.13.9

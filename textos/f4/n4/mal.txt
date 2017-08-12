@@ -69,7 +69,7 @@ lixo
 \*key
 fezes ou vísceras animais
 \*fn
- sobre vossos rostos, o lixo de vossas festas, e com ele sereis removidos.
+ sobre os vossos rostos, o lixo de vossas festas, e com ele sereis removidos.
 \v Ml.2.4
 Então sabereis que eu vos enviei este mandamento, para que meu pacto seja com Levi,diz o SENHOR dos exércitos.
 \v Ml.2.5
@@ -97,7 +97,7 @@ então
 \*added
 , traímos cada um a seu irmão, profanando o pacto de nossos pais?
 \v Ml.2.11
-Judá tem agido com traição, e abominação se comete em Israel e em Jerusalém; porque Judá profana a o santuário do SENHOR, o qual ele ama, e se casou com filha de deus estranho.
+Judá tem agido com traição, e abominação se comete em Israel e em Jerusalém; porque Judá profana o santuário do SENHOR, o qual ele ama, e se casou com filha de deus estranho.
 \v Ml.2.12
 O SENHOR removerá das tendas de Jacó ao homem que fizer isto, ao que vela, e ao que responde, e ao que traz oferta ao SENHOR dos exércitos.
 \v Ml.2.13
@@ -107,9 +107,6 @@ Vós dizeis: Por que razão? Porque o SENHOR foi testemunha entre ti e a mulher 
 \v Ml.2.15
 E não fez ele somente um ainda que lhe sobre o espírito? E por que um? Para buscar uma descendência
 \fn
-\key
-descendência
-\*key
 lit. semente
 \*fn
  de Deus. Guardai-vos pois em vosso espírito, e ninguém de vós seja infiel à mulher de vossa juventude.
@@ -154,7 +151,8 @@ Pode o ser humano roubar a Deus? Vós, pois, me roubais. Mas vós dizeis: Em que
 \v Ml.3.9
 Com maldição sois amaldiçoados porque vós me roubais, toda a nação.
 \v Ml.3.10
-Trazei todos os dízimos à casa do tesouro, para que haja alimento em minha casa; e provai- me nisto,diz o SENHOR dos exércitos, se não vos abrir as janelas dos céu, e derramar sobre vós bênção transbordante.
+Trazei todos os dízimos à casa do tesouro, para que haja alimento em minha casa; e provai-me nisto, diz o SENHOR dos 
+exércitos, se não vos abrir as janelas dos céu, e derramar sobre vós bênção transbordante.
 \v Ml.3.11
 E por causa de vós repreenderei ao devorador, para não corrompa vosso fruto da terra; e vossa vide no campo não será estéril,diz o SENHOR dos exércitos.
 \v Ml.3.12
@@ -174,7 +172,7 @@ Então aqueles que temeram ao SENHOR falaram cada um a seu próximo, e o SENHOR 
 \v Ml.3.17
 E eles serão minha propriedade especial no dia que eu preparo,diz o SENHOR dos exércitos; e os pouparei como o homem que poupa a seu filho que lhe serve.
 \v Ml.3.18
-Então voltareis de ver a diferença entre o justo e o perverso, entre o que serve a Deus e o que não lhe serve.
+Então voltareis a ver a diferença entre o justo e o perverso, entre o que serve a Deus e o que não lhe serve.
 \v Ml.4.1
 Porque eis que aquele dia vem ardendo como forno; e todos os soberbos e todos os que praticam perversidade serão palha; e o dia que vem os incendiará,diz o SENHOR dos exércitos, de tal maneira que não lhes deixará nem raiz nem ramo.
 \v Ml.4.2

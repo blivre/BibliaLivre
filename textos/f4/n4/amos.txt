@@ -23,13 +23,13 @@ seu castigo
 \v Am.1.4
 Por isso meterei fogo na casa de Hazael, que consumirá os palácios de Ben-Hadade.
 \v Am.1.5
-E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o dono do cetro de de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir,diz o SENHOR.
+E quebrarei o ferrolho de Damasco, e exterminarei o morador do vale de Áven, e o dono do cetro de de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
 \v Am.1.6
 Assim diz o SENHOR: Por três transgressões de Gaza, e pela quarta, não desviarei 
 \added
 seu castigo
 \*added
- ; pois levaram a todos do povo em cativeiro, para os entregar a Edom.
+; pois levaram a todos do povo em cativeiro, para os entregar a Edom.
 \v Am.1.7
 Por isso meterei fogo no muro de Gaza, que consumirá seus palácios.
 \v Am.1.8
@@ -69,7 +69,7 @@ lit. limites
 \v Am.1.14
 Por isso acenderei fogo no muro de Rabá, que consumirá seus palácios com grito no dia de batalha, com tempestade no dia do vento forte.
 \v Am.1.15
-E seu rei irá em cativeiro, e junto dele seus príncipes,diz o SENHOR.
+E seu rei irá ao cativeiro, e junto dele seus príncipes, diz o SENHOR.
 \v Am.2.1
 Assim diz o SENHOR: Por três transgressões de Moabe, e pela quarta, não desviarei 
 \added
@@ -110,7 +110,7 @@ lit. vinho dos multados
 \*fn
  da casa de seus deuses.
 \v Am.2.9
-Eu, ao contrário, destruí diante deles ao amorreus, cuja altura era como a altura dos cedros, e eram fortes como carvalhos; e destruí seu fruto acima, e suas raízes abaixo.
+Eu, pelo contrário, destruí diante deles os amorreus, cuja altura era como a altura dos cedros, e eram fortes como carvalhos; e destruí seu fruto acima, e suas raízes abaixo.
 \v Am.2.10
 Também vos fiz a vós subir da terra do Egito, e por quarenta anos vos conduzi pelo deserto, para que possuísseis a terra dos amorreus.
 \v Am.2.11
@@ -307,7 +307,7 @@ Por acaso vós oferecestes a mim sacrifícios e ofertas de alimento no deserto d
 \v Am.5.26
 Em vez disso, levastes as imagens de vosso rei Sicute, e de Quium, a estrela de vossos deus, que fizestes para vós mesmos.
 \v Am.5.27
-Portanto eu vos levarei cativos, para além de Damasco,diz o SENHOR, cujo nome é Deus dos exércitos.
+Portanto eu vos levarei cativos, para além de Damasco, diz o SENHOR, cujo nome é Deus dos exércitos.
 \v Am.6.1
 Ai dos que estão tranquilos em Sião, e dos que se sentem seguros no monte de Samaria, que são os príncipes da principal das nações, aos quais o povo
 \fn
@@ -495,13 +495,6 @@ Para que tomem posse do restante de Edom, e todas as nações que se chamam pelo
 \v Am.9.13
 Eis que vêm dias, diz o SENHOR, em que o que ara alcançará ao que colhe, e o que pisa as uvas ao que leva a semente; e os montes destilarão suco de uva, e todos os morros se derreterão.
 \v Am.9.14
-E reverterei o cativeiro
-\fn
-\key
-reverterei o cativeiro
-\*key
-trad. alt. mudarei o destino
-\*fn
- de meu povo Israel; então eles reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
+E restaurarei meu povo Isarael de seu infortúnio; então reconstruirão as cidades assoladas, e nelas habitarão; e plantarão vinhas, e beberão o vinho delas; e farão jardins, e comerão o fruto deles.
 \v Am.9.15
-Pois eu os plantarei em sua terra, e nunca mais serão arrancados de sua terra, que eu lhes dei, diz o SENHOR teu Deus.
+Pois eu os plantarei em sua terra, e nunca mais serão arrancados de sua terra, que eu lhes dei, diz o SENHOR, teu Deus.

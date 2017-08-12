@@ -270,7 +270,6 @@ estes
 \*added
  quatro de Bate-Sua, filha de Amiel.
 \v 1Cr.3.6
- 
 \added
 Nasceram-lhe
 \*added
@@ -334,9 +333,10 @@ E os filhos de Helá foram: Zerete, Zoar, e Etnã.
 \v 1Cr.4.8
 E Coz gerou a Anube, e a Zobeba, e as famílias de Aarel, filho de Harum.
 \v 1Cr.4.9
-E Jabez foi mais nobre que seus irmãos; sua mãe o chamara de Jabez, dizendo: Pois com dores eu o dei à luz.
+E Jabez foi mais honrado que seus irmãos; sua mãe o chamara de Jabez, dizendo: Pois com dores eu o dei à luz.
 \v 1Cr.4.10
-Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se tu me abençoares muito, e ampliares os meus limites, e se tua mão for comigo, e me protegeres do mal, para que eu não sofra!E Deus fez acontecer o que ele tinha pedido.
+Mas Jabez invocou ao Deus de Israel, dizendo: Ah, se tu me abençoares muito, e ampliares os meus limites, e se tua mão 
+for comigo, e me protegeres do mal, para que eu não sofra! E Deus fez suceder o que ele havia pedido.
 \v 1Cr.4.11
 E Quelube, irmão de Suá gerou a Maquir, que foi o pai de Estom.
 \v 1Cr.4.12
@@ -554,7 +554,6 @@ Seu filho Taate, seu filho Uriel, seu filho Uzias, e seu filho Saul.
 \v 1Cr.6.25
 E os filhos Elcana foram: Amasai e Aimote.
 \v 1Cr.6.26
- 
 \added
 Quanto
 \*added
@@ -976,7 +975,6 @@ E filho de Jônatas foi Meribe-Baal; e Meribe-Baal gerou a Mica.
 \v 1Cr.9.41
 E os filhos de Mica foram: Pitom, Meleque, Tareia,
 \v 1Cr.9.42
- 
 \added
 E
 \*added
@@ -1460,11 +1458,10 @@ Que andavam de nação em nação, de um reino a outro povo.
 \v 1Cr.16.21
 A ninguém ele permitiu que os oprimisse; por causa deles repreendeu a reis,
 \v 1Cr.16.22
- 
 \added
 Dizendo
 \*added
- : Não toqueis a meus ungidos, nem façais mal a meus profetas.
+: Não toqueis em meus ungidos, nem façais mal a meus profetas.
 \v 1Cr.16.23
 Cantai ao SENHOR, toda a terra, anunciai de dia em dia sua salvação.
 \v 1Cr.16.24

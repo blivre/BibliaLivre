@@ -11,25 +11,23 @@ Mc
 MRK
 \*ubs-code
 \v Mc.1.1
-Princípio do Evangelho de Jesus Cristo{tr:, }{n4:«, }Filho de Deus{n4:»}.{trnc: 
-\fn
+Princípio do Evangelho de Jesus Cristo{tr:, }{n4:«, }Filho de Deus{n4:»}.
+{trnc:\fn
 N4 põe entre colchetes “Filho de Deus”
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 Alguns manuscritos antigos não contêm “Filho de Deus” 
 \*fn}
 \v Mc.1.2
 Como está escrito {tr,rp:nos profetas}{n4:no profeta Isaías}:{trnc: 
 \fn
 TR, RP: nos profetas - N4: no profeta Isaías
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 RP, TR contêm: “nos profetas” no lugar de “no profeta Isaías”
-\*fn
-} Eis que eu envio o meu mensageiro diante de tua face, que preparará o teu caminho {tr,rp: diante de ti }.{trnc: 
-\fn
+\*fn}
+ Eis que eu envio o meu mensageiro diante de tua face, que preparará o teu caminho {tr,rp: diante de ti }.
+{trnc:\fn
 N4 omite “diante de ti”
 \*fn}
 \ref
@@ -38,6 +36,7 @@ Malaquias 3:1
 \v Mc.1.3
 Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai suas veredas. 
 \ref
+Isaías 40:3
 \*ref
 \v Mc.1.4
 João veio a batizar no deserto, e a pregar o batismo de arrependimento para perdão dos pecados.
@@ -855,8 +854,7 @@ Lit. “Não há profeta sem honra”
 \*fn
 menos em sua terra, entre os parentes, e em sua própria casa.
 \v Mc.6.5
-Ele não pôde ali fazer milagre algum, a não ser somente, pondo as mãos sobre uns poucos enfermos, os curou.
-\*added
+Ele não pôde ali fazer milagre algum, a não ser somente para uns poucos enfermos, sobre os quais pôs as mãos e os curou.
 \v Mc.6.6
 E ficou admirado da incredulidade deles. Ele percorreu as aldeias do redor, ensinando.
 \v Mc.6.7
@@ -997,21 +995,21 @@ E mandou-lhes que fizessem sentar a todos em grupos sobre a grama verde.
 \v Mc.6.40
 E sentaram-se repartidos de cem em cem, e de cinquenta em cinquenta.
 \v Mc.6.41
-Ele tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos {tr,rp:seus}{trnc: 
-\fn
+Ele tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos {tr,rp:seus}
+{trnc:\fn
 N4 omite “seus”
-\*fn
-} discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos.
+\*fn}
+ discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos.
 \v Mc.6.42
 Todos comeram e se saciaram.
 \v Mc.6.43
 E dos pedaços de pão e dos peixes levantaram doze cestos cheios.
 \v Mc.6.44
-Os que comeram os pães eram {tr:quase}{trnc: 
-\fn
+Os que comeram os pães eram {tr:quase}
+{trnc:\fn
 RP, N4 omitem “quase”
-\*fn
-} cinco mil homens.
+\*fn}
+ cinco mil homens.
 \v Mc.6.45
 Logo depois, ordenou seus discípulos a subirem no barco, e ir adiante para o outro lado, em Betsaida, enquanto ele despedia a multidão.
 \v Mc.6.46
@@ -1029,11 +1027,11 @@ Mas quando eles o viram andando sobre o mar, pensaram que era uma fantasma, e gr
 \v Mc.6.50
 pois todos o viam, e ficaram perturbados. Então logo falou com eles, dizendo: Tende coragem! Sou eu, não tenhais medo.
 \v Mc.6.51
-E subiu a eles no barco, e o vento se aquietou. Eles ficaram muito espantados {tr,rp:e maravilhados}{trnc: 
-\fn
+E subiu a eles no barco, e o vento se aquietou. Eles ficaram muito espantados {tr,rp:e maravilhados}
+{trnc:\fn
 N4 omite “maravilhados”
-\*fn
-} entre si,
+\*fn}
+ entre si,
 \v Mc.6.52
 pois não haviam entendido o que tinha acontecido com os pães, {tr,rp:porque}{n4:em vez disso} o coração deles estava endurecido.
 \v Mc.6.53
@@ -1147,6 +1145,7 @@ Todos estes males procedem de dentro, e contaminam o ser humano.
 \v Mc.7.24
 \added
 Jesus
+
 \*added
  levantou-se dali e foi para a região de Tiro{tr,rp: e de Sidom}.{trnc: 
 \fn
@@ -1506,15 +1505,8 @@ E sentando-se ele, chamou aos doze, e disse-lhes: Se alguém quiser ser o primei
 \v Mc.9.36
 E tomando um menino, ele o pôs no meio deles, e tomando-o entre seus braços, disse-lhes:
 \v Mc.9.37
-Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não 
-\added
-somente
-\*added
- recebe a mim, mas 
-\added
-também
-\*added
- ao que me enviou.
+Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não é a mim que 
+recebe, mas, sim, àquele que me enviou.
 \v Mc.9.38
 E respondeu-lhe João, dizendo: Mestre, vimos um que em teu nome expulsava os demônios, e ele não nos segue. Então o proibimos, porque não nos segue.
 \v Mc.9.39

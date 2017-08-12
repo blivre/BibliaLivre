@@ -12,13 +12,11 @@ MRK
 \*ubs-code
 \v Mc.1.1
 Princípio do Evangelho de Jesus Cristo«, Filho de Deus».
- 
 \fn
 Alguns manuscritos antigos não contêm “Filho de Deus” 
 \*fn
 \v Mc.1.2
 Como está escrito no profeta Isaías:
- 
 \fn
 RP, TR contêm: “nos profetas” no lugar de “no profeta Isaías”
 \*fn
@@ -29,6 +27,7 @@ Malaquias 3:1
 \v Mc.1.3
 Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai suas veredas. 
 \ref
+Isaías 40:3
 \*ref
 \v Mc.1.4
 João veio a batizar no deserto, e a pregar o batismo de arrependimento para perdão dos pecados.
@@ -664,8 +663,7 @@ Lit. “Não há profeta sem honra”
 \*fn
 menos em sua terra, entre os parentes, e em sua própria casa.
 \v Mc.6.5
-Ele não pôde ali fazer milagre algum, a não ser somente, pondo as mãos sobre uns poucos enfermos, os curou.
-\*added
+Ele não pôde ali fazer milagre algum, a não ser somente para uns poucos enfermos, sobre os quais pôs as mãos e os curou.
 \v Mc.6.6
 E ficou admirado da incredulidade deles. Ele percorreu as aldeias do redor, ensinando.
 \v Mc.6.7
@@ -886,6 +884,7 @@ Todos estes males procedem de dentro, e contaminam o ser humano.
 \v Mc.7.24
 \added
 Jesus
+
 \*added
  levantou-se dali e foi para a região de Tiro.
  Ele entrou numa casa, e não queria que ninguém soubesse disso, mas não pôde se esconder.
@@ -1167,15 +1166,8 @@ E sentando-se ele, chamou aos doze, e disse-lhes: Se alguém quiser ser o primei
 \v Mc.9.36
 E tomando um menino, ele o pôs no meio deles, e tomando-o entre seus braços, disse-lhes:
 \v Mc.9.37
-Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não 
-\added
-somente
-\*added
- recebe a mim, mas 
-\added
-também
-\*added
- ao que me enviou.
+Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não é a mim que 
+recebe, mas, sim, àquele que me enviou.
 \v Mc.9.38
 E respondeu-lhe João, dizendo: Mestre, vimos um que em teu nome expulsava os demônios, e ele não nos segue. Então o proibimos, porque não nos segue.
 \v Mc.9.39

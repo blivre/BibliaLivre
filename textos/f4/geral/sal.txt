@@ -33,7 +33,7 @@ Os reis da terra se levantam, e os governantes tomam conselhos reunidos contra o
 \added
 dizendo
 \*added
- :
+:
 \v Sl.2.3
 Rompamos as correntes deles, e lancemos fora de nós as cordas deles.
 \v Sl.2.4
@@ -43,7 +43,7 @@ Então ele lhes falará em sua ira; em seu furor ele os assombrará,
 \added
 dizendo
 \*added
- :
+:
 \v Sl.2.6
 E eu ungi a meu Rei sobre Sião, o monte de minha santidade.
 \v Sl.2.7
@@ -233,7 +233,6 @@ com
 \*added
  mal ao que tinha paz comigo (mas fiz escapar ao que me oprimia sem causa);
 \v Sl.7.5
- 
 \added
 Então
 \*added
@@ -331,7 +330,7 @@ Louvarei a
 \added
 ti
 \*added
-,SENHOR com todo o meu coração; contarei todas as tuas maravilhas.
+, SENHOR com todo o meu coração; contarei todas as tuas maravilhas.
 \v Sl.9.2
 Em ti eu ficarei contente e saltarei de alegria; cantarei a teu nome, ó Altíssimo.
 \v Sl.9.3
@@ -341,7 +340,6 @@ Porque tu fizeste conforme meu direito e minha causa; tu te sentaste no teu trib
 \v Sl.9.5
 Severamente repreendeste às nações, destruíste ao perverso; tu tiraste o nome dele para sempre e eternamente.
 \v Sl.9.6
- 
 \added
 Ao
 \*added
@@ -419,7 +417,7 @@ Levanta-te, SENHOR, não prevaleça o homem
 \added
 contra ti
 \*added
- ; sejam julgadas as nações diante de ti.
+; sejam julgadas as nações diante de ti.
 \v Sl.9.20
 Põe medo neles, SENHOR; saibam as nações que eles são meros mortais. (Selá)
 \v Sl.10.1
@@ -499,7 +497,7 @@ até que
 \added
 mais dela
 \*added
- .
+.
 \v Sl.10.16
 O SENHOR é Rei eterno e para todo o sempre; as nações perecerão de sua terra.
 \v Sl.10.17
@@ -567,7 +565,7 @@ e toda
 \added
 mentiras
 \*added
- .
+.
 \v Sl.12.4
 Pois dizem: Com nossa língua prevaleceremos; nossos lábios 
 \added
@@ -579,7 +577,7 @@ O SENHOR diz: Pela opressão aos humildes, pelo gemido dos necessitados, eu agor
 \added
 desejando oprimir
 \*added
- .
+.
 \v Sl.12.6
 As palavras do SENHOR são palavras puras, 
 \added
@@ -641,15 +639,8 @@ Ali eles se encherão de medo, porque Deus está com a geração dos justos.
 \v Sl.14.6
 Vós envergonhais os planos do humilde, mas o SENHOR é o refúgio dele.
 \v Sl.14.7
-Ah, que 
-\added
-logo
-\*added
- venha de Sião a libertação de Israel! Quando o SENHOR fizer voltar os prisioneiros de seu povo, 
-\added
-então
-\*added
- Jacó se alegrará, Israel se encherá de alegria.
+Ah, que de Sião venha a salvação de Israel! Quando o SENHOR restaurar o seu povo de seu infortúnio, Jacó jubilará, 
+Israel se alegrará.
 \psalm-title
 Salmo de Davi:
 \*psalm-title
@@ -658,7 +649,6 @@ SENHOR, quem morará em tua tenda? Quem habitará no monte de tua santidade?
 \v Sl.15.2
 Aquele que anda sinceramente, e pratica a justiça; e com seu coração fala a verdade;
 \v Sl.15.3
- 
 \added
 Aquele que
 \*added
@@ -670,7 +660,6 @@ seu próprio
 \*added
  prejuízo, e não muda.
 \v Sl.15.5
- 
 \added
 Tal pessoa
 \*added
@@ -691,7 +680,6 @@ chega
 \*added
  até ti.
 \v Sl.16.3
- 
 \added
 Mas
 \*added
@@ -713,7 +701,7 @@ para servir
 \added
 deuses
 \*added
- ; eu não oferecerei seus sacrifícios de derramamento de sangue, e não tomarei seus nomes em meus lábios.
+; eu não oferecerei seus sacrifícios de derramamento de sangue, e não tomarei seus nomes em meus lábios.
 \v Sl.16.5
 O SENHOR é a porção da minha herança e o meu cálice; tu sustentas a minha sorte.
 \v Sl.16.6
@@ -721,7 +709,7 @@ Em lugares agradáveis foram postos os limites
 \added
 do meu terreno
 \*added
- ; sim, eu recebo uma bela propriedade.
+; sim, eu recebo uma bela propriedade.
 \v Sl.16.7
 Eu louvarei ao SENHOR, que me aconselhou; até de noite meus sentimentos me ensinam.
 \v Sl.16.8
@@ -784,7 +772,7 @@ em ti
 \added
 ti
 \*added
- .
+.
 \v Sl.17.8
 Guarda-me como a pupila do olho; esconde-me debaixo da sombra de tuas asas,
 \v Sl.17.9
@@ -814,7 +802,7 @@ esta
 \added
 tesouro
 \*added
- ; os filhos se fartam, e deixam sua sobra para suas crianças.
+; os filhos se fartam, e deixam sua sobra para suas crianças.
 \v Sl.17.15
 \added
 Mas
@@ -1203,7 +1191,7 @@ Eles clamaram a ti, e escaparam
 \added
 do perigo
 \*added
- ; eles confiaram em ti, e não foram envergonhados.
+; eles confiaram em ti, e não foram envergonhados.
 \v Sl.22.6
 Mas eu sou um verme, e não um homem; 
 \added
@@ -1219,7 +1207,7 @@ e
 \added
 dizendo
 \*added
- :
+:
 \v Sl.22.8
 Ele confiou no “SENHOR”; 
 \added
@@ -1289,7 +1277,6 @@ e
 \v Sl.22.21
 Salva-me da boca do leão; e responde-me dos chifres dos touros selvagens.
 \v Sl.22.22
- 
 \added
 Então
 \*added
@@ -1315,7 +1302,7 @@ Todos os extremos da terra se lembrarão
 \added
 disso
 \*added
-,e se converterão ao SENHOR; e todas as gerações das nações adorarão diante de ti.
+, e se converterão ao SENHOR; e todas as gerações das nações adorarão diante de ti.
 \v Sl.22.28
 Porque o reino 
 \added
@@ -1337,7 +1324,7 @@ A descendência o servirá; ela será contada ao Senhor, para a geração
 \added
 seguinte
 \*added
- .
+.
 \v Sl.22.31
 Chegarão, e anunciarão a justiça dele ao povo que nascer, porque ele 
 \added
@@ -1408,7 +1395,7 @@ Meu Deus, eu confio em ti; não me deixes envergonhado, nem que meus inimigos se
 \added
 vencerem
 \*added
- .
+.
 \v Sl.25.3
 Certamente todos os que esperam em ti, nenhum será envergonhado; envergonhados serão os que traem sem motivo.
 \v Sl.25.4
@@ -1422,7 +1409,7 @@ Não te lembres dos pecados de minha juventude e das minhas transgressões;
 \added
 mas sim
 \*added
-,conforme tua misericórdia, lembra-te de mim por tua bondade, SENHOR.
+, conforme tua misericórdia, lembra-te de mim por tua bondade, SENHOR.
 \v Sl.25.8
 O SENHOR é bom e correto; por isso ele ensinará o caminho aos pecadores.
 \v Sl.25.9
@@ -1432,6 +1419,8 @@ bom
 \*added
  juízo; e ensinará aos humildes seu caminho.
 \v Sl.25.10
+
+
 Todos os caminhos do SENHOR são bondade e verdade, para aqueles que guardam seu pacto e seus testemunhos.
 \v Sl.25.11
 Pelo teu nome, SENHOR, perdoa a minha maldade, porque ela é grande.
@@ -1544,7 +1533,7 @@ Se eu não tivesse crido que veria a bondade do SENHOR na terra dos viventes,
 \added
 certamente já teria perecido
 \*added
- .
+.
 \v Sl.27.14
 Espera no SENHOR, esforça-te, e ele fortalecerá o teu coração; espera pois ao SENHOR.
 \psalm-title
@@ -1646,7 +1635,7 @@ O SENHOR se sentou sobre as muitas águas
 \added
 como dilúvio
 \*added
- ; e o SENHOR se sentará como rei para sempre.
+; e o SENHOR se sentará como rei para sempre.
 \v Sl.29.11
 O SENHOR dará força a seu povo; o SENHOR abençoará a seu povo com paz.
 \psalm-title
@@ -1696,7 +1685,7 @@ A ti, DEUS, eu clamei; e supliquei ao SENHOR,
 \added
 Dizendo
 \*added
- : Que proveito 
+: Que proveito 
 \added
 há
 \*added
@@ -1710,13 +1699,13 @@ Ouve
 \added
 -me
 \*added
-,SENHOR, e tem piedade de mim; sê tu, SENHOR, o meu ajudador.
+, SENHOR, e tem piedade de mim; sê tu, SENHOR, o meu ajudador.
 \v Sl.30.11
 Tu tornaste meu pranto em dança; tu desamarraste o meu saco 
 \added
 de lamentação
 \*added
-,e me envolveste de alegria.
+, e me envolveste de alegria.
 \v Sl.30.12
 Por isso a 
 \added
@@ -2148,7 +2137,7 @@ Tu, SENHOR, tens visto
 \added
 isso
 \*added
- ; não fiques calado; SENHOR, não fiques longe de mim.
+; não fiques calado; SENHOR, não fiques longe de mim.
 \v Sl.35.23
 Levanta-te e acorda para meu direito, Deus meu, e Senhor meu, para minha causa.
 \v Sl.35.24
@@ -2158,7 +2147,7 @@ Não digam eles em seus corações: Ahá,
 \added
 vencemos
 \*added
-,alma nossa!nem digam: Nós já o devoramos!
+, alma nossa!nem digam: Nós já o devoramos!
 \v Sl.35.26
 Que eles se envergonhem, e sejam juntamente humilhados os que se alegram pelo meu mal; vistam-se de vergonha e confusão os que se engrandecem contra mim.
 \v Sl.35.27
@@ -2229,7 +2218,7 @@ Porque contigo está a fonte da vida; em tua luz vemos a luz
 \added
 verdadeira
 \*added
- .
+.
 \v Sl.36.10
 Estende tua bondade sobre os que te conhecem; e tua justiça sobre os corretos de coração.
 \v Sl.36.11
@@ -2272,11 +2261,11 @@ E ainda um pouco, e o perverso não
 \added
 mais existirá
 \*added
- ; e tu olharás para o lugar dele, e ele não 
+; e tu olharás para o lugar dele, e ele não 
 \added
 aparecerá
 \*added
- .
+.
 \v Sl.37.11
 Mas os mansos herdarão a terra, e se agradarão com muita paz.
 \v Sl.37.12
@@ -2338,7 +2327,6 @@ está
 \v Sl.37.32
 O perverso espia ao justo, e procura matá-lo.
 \v Sl.37.33
- 
 \added
 Mas
 \*added
@@ -2352,7 +2340,7 @@ Porém ele já foi embora, e eis que ele não
 \added
 existe mais
 \*added
- ; eu o procurei, e não foi achado.
+; eu o procurei, e não foi achado.
 \v Sl.37.37
 Olha ao sincero, e vê o correto; porque o fim de 
 \added
@@ -2512,7 +2500,7 @@ Eu estou calado, não abrirei a minha boca, porque tu fizeste
 \added
 assim
 \*added
- .
+.
 \v Sl.39.10
 Tira teu tormento de sobre mim; estou consumido pelo golpe de tua mão.
 \v Sl.39.11
@@ -2528,7 +2516,7 @@ Não prestes atenção em mim
 \added
 em tua ira
 \*added
-,antes que eu vá, e pereça.
+, antes que eu vá, e pereça.
 \psalm-title
 Salmo de Davi, para o regente:
 \*psalm-title
@@ -2569,7 +2557,7 @@ Eu anuncio a justiça na grande congregação; eis que não retenho meus lábios
 \added
 disso
 \*added
- .
+.
 \v Sl.40.10
 Eu não escondo tua justiça no meio de meu coração; eu declaro tua fidelidade e tua salvação; não escondo tua bondade e tua verdade na grande congregação.
 \v Sl.40.11
@@ -2614,7 +2602,7 @@ Meus inimigos falam mal de mim,
 \added
 dizendo
 \*added
- : Quando ele morrerá? 
+: Quando ele morrerá? 
 \added
 Quando
 \*added
@@ -2638,7 +2626,7 @@ Todos os que me odeiam murmuram juntamente de mim; contra mim eles planejam o ma
 \added
 dizendo
 \*added
- :
+:
 \v Sl.41.8
 Uma doença maligna está posta sobre ele; e aquele que está deitado não se levantará mais.
 \v Sl.41.9
@@ -2652,7 +2640,7 @@ Porém tu, SENHOR, tem piedade de mim, e levanta-me; e eu lhes darei o pagamento
 \added
 que merecem
 \*added
- .
+.
 \v Sl.41.11
 Por isto eu sei que tu te agradas de mim: porque meu inimigo não se declara vencedor sobre mim;
 \v Sl.41.12
@@ -2685,7 +2673,7 @@ Disto eu me lembro, e derramo minha alma em mim
 \added
 com choros
 \*added
-,porque eu ia entre a multidão, 
+, porque eu ia entre a multidão, 
 \added
 e
 \*added
@@ -2707,7 +2695,6 @@ outro
 \*added
  abismo, ao ruído de suas cascatas; todos as tuas ondas e vagas têm passado sobre mim.
 \v Sl.42.8
- 
 \added
 Mas
 \*added
@@ -2750,17 +2737,19 @@ e o meu Deus.
 Instrução para o regente; dos filhos de Coré:
 \*psalm-title
 \v Sl.44.1
-Ó Deus, com nossos ouvidos ouvimos, nossos pais nos contaram a obra que tu fizeste nos dias deles, nos dias antigos.
+Ó Deus, com nossos ouvidos ouvimos, nossos pais nos contaram a obra que tu fizeste nos seus dias, nos dias antigos.
 \v Sl.44.2
-Tu com tua mão tiraste as nações e os plantaste; tu afligiste aos povos, mas engrandeceste 
-\added
-aos nossos pais
-\*added
- .
+Para plantá-los, expulsaste as nações com a tua própria mão; para fazê-los crescer, afligiste os povos.
+\fn
+\key
+para fazê-los crescer, afligiste os povos
+\*key
+Obscuro - Trad. alt. “afligiste os povos, e os dispersaste”
+\*fn
 \v Sl.44.3
 Porque não conquistaram a terra pelas espadas deles, nem o braço deles os salvou; mas sim tua mão direita e o teu braço, e a luz de teu rosto; porque tu os favoreceste.
 \v Sl.44.4
-. Deus, tu és meu Rei; ordena salvações a Jacó.
+Deus, tu és meu Rei; ordena salvações a Jacó.
 \v Sl.44.5
 Por ti venceremos nossos adversários; por teu nome passaremos por cima dos que se levantam contra nós.
 \v Sl.44.6
@@ -2788,11 +2777,7 @@ Tu vendes a teu povo ao preço de nada, e não aumentas o seu valor.
 \v Sl.44.13
 Tu nos pões como humilhação por nossos vizinhos; como escárnio e zombaria pelos que estão ao redor de nós.
 \v Sl.44.14
-Tu nos pões como provérbio 
-\added
-de escárnio
-\*added
- entre as nações; como balançar de cabeça entre os povos;
+Tu nos pões como provérbio de escárnio entre as nações; como balançar de cabeça entre os povos;
 \v Sl.44.15
 Minha humilhação está o dia todo diante de mim; e a vergonha cobre o meu rosto,
 \v Sl.44.16
@@ -2806,7 +2791,7 @@ Tu tens nos afligido num lugar de chacais, e nos cobriste com sobra de morte.
 \v Sl.44.20
 Se tivéssemos esquecido do nome do nosso Deus, e estendido nossas mãos a um outro deus,
 \v Sl.44.21
-Por acaso Deus não o descobriria? Pois ele conhece os segredos do coração.
+por acaso Deus não o descobriria? Pois ele conhece os segredos do coração.
 \v Sl.44.22
 Mas por causa de ti somos mortos o dia todo; somos considerados como ovelhas para o matadouro.
 \v Sl.44.23
@@ -2816,13 +2801,9 @@ nos
 \*added
  rejeites para sempre.
 \v Sl.44.24
-Por que escondes tua face, 
-\added
-e
-\*added
- te esqueces de nossa humilhação e de nossa opressão?
+Por que escondes tua face, e te esqueces de nossa humilhação e de nossa opressão?
 \v Sl.44.25
-Pois nossa alma caiu ao chão; nosso ventre está junto à terra.
+Pois nossa alma está abatida ao pó; nosso ventre está junto à terra.
 \v Sl.44.26
 Levanta-te para nosso socorro; e resgata-nos por tua bondade.
 \psalm-title
@@ -2881,7 +2862,7 @@ Gloriosa é a filha do Rei dentro
 \added
 do palácio
 \*added
- ; de fios de ouro é a sua roupa.
+; de fios de ouro é a sua roupa.
 \v Sl.45.14
 Com roupas bordadas a levarão ao Rei; as virgens atrás dela, suas companheiras, serão trazidas a ti.
 \v Sl.45.15
@@ -2901,8 +2882,6 @@ Deus
  nosso refúgio e força; socorro oportuno nas angústias.
 \v Sl.46.2
 Por isso não temeremos, ainda que a terra se mova, e ainda que as montanhas passem ao interior dos mares;
-\v Sl.46.3
- 
 \added
 Ainda que
 \*added
@@ -3055,9 +3034,17 @@ Porque este Deus
 Salmo para o regente, dos filhos de Coré:
 \*psalm-title
 \v Sl.49.1
-Ouvi isto, vós todos os povos; daí ouvidos, todos os moradores do mundo;
+Ouvi isto, vós todos os povos; dai ouvidos, todos os moradores do mundo;
 \v Sl.49.2
-Todos vós filhos dos homens e de seres humanos, juntamente ricos e pobres.
+vós, povo, filhos dos homens,
+\fn
+\key
+povo, filhos dos homens
+\*key
+Lit. filhos de homem, filhos de homem. (com outra palavra hebraica, diferente da primeira). As duas palavras significam 
+homem, mas em contextos diferentes. Uma trad. alt. é “tanto as pessoas comuns quanto os nobres”
+\*fn
+ tanto os ricos como os pobres.
 \v Sl.49.3
 Minha boca falará da sabedoria; e o pensamento do meu coração 
 \added
@@ -3067,101 +3054,65 @@ estará cheio de
 \v Sl.49.4
 Inclinarei meus ouvidos a uma parábola; ao 
 \added
-tocar
+som
 \*added
  da harpa declararei o meu enigma.
 \v Sl.49.5
-Por que eu temeria nos dias do mal, 
+Por que temeria eu nos dias do mal, 
 \added
 quando
 \*added
- a maldade dos meus traidores me cercar?
+ a maldade dos meus adversários
+\fn
+\key
+meus adversários
+\*key
+Lit. aqueles que me armam ciladas
+\*fn
+ me cercar?
 \v Sl.49.6
 Eles confiam em seus bens, e se orgulham da abundância de suas riquezas.
 \v Sl.49.7
-Ninguém resgatará a 
-\added
-seu
-\*added
- irmão, nem dará a Deus o seu resgate,
+Mas ninguém pode livrar o seu irmão, nem pagar a Deus o seu resgate,
 \v Sl.49.8
-(Porque o resgate da alma deles é caríssima, e sempre será insuficiente).
+porque a redenção da sua alma é caríssima, e sempre será insuficiente
 \v Sl.49.9
-Para que viva para sempre, nem veja a corrupção 
-\added
-da morte
-\*added
- .
+para viver eternamente, e jamais ver a cova.
+\fn
+Isto é: a morte
+\*fn
 \v Sl.49.10
-Porque se vê que os sábios morrem, assim como o tolo e o bruto perecem; e deixam seus bens a outros.
+Pois se vê que os sábios morrem, que o tolo e o bruto igualmente perecem; e deixam suas riquezas a outros.
 \v Sl.49.11
-Dentro de si 
-\added
-pensam
-\*added
- que suas casas durarão eternamente, 
-\added
-e
-\*added
- suas habitações 
-\added
-continuarão
-\*added
- de geração em geração; chamam as terras pelos seus nomes.
+Seu pensamento interior é que suas casas serão perpétuas, que suas moradas durarão de geração em geração;
+dão às terras os seus próprios nomes.
 \v Sl.49.12
-Mas o homem que orgulha de si mesmo não permanece; ele é semelhante aos animais, que perecem.
+Mas o ser humano, ainda que em honra, não dura para sempre; semelhante é aos animais, que perecem.
 \v Sl.49.13
-Este caminho deles é a sua loucura; mas seus descendentes se agradam de suas palavras. (Selá)
+Este é o caminho dos tolos e dos seus seguidores, que se agradam de suas palavras. (Selá)
 \v Sl.49.14
-Assim como ovelhas, eles estão designados para o mundo dos mortos; a morte os apascentará; e os corretos os sujeitarão naquela manhã; e sua aparência será consumida no mundo dos mortos, 
-\added
-que será
-\*added
- a habitação deles.
+São como ovelhas trazidas ao mundo dos mortos; a morte se alimentará deles. Os corretos os dominarão pela manhã; 
+a forma deles se consumirá no mundo dos mortos, a sua habitação.
 \v Sl.49.15
-Mas Deus resgatará minha alma, 
-\added
-para longe
-\*added
- do poder do mundo dos mortos, pois ele me tomará 
-\added
-para si
-\*added
- . (Selá)
-\v Sl.49.16
-Não temas quando um homem se enriquece, quando a glória de sua casa se engrandece.
-\v Sl.49.17
-Pois na sua morte, ele nada tomará 
+Mas Deus resgatará a minha alma da violência
+\fn
+Lit. mão
+\*fn
+ do mundo dos mortos, pois ele me tomará 
 \added
 consigo
 \*added
- ; nem sua glória o seguirá descendo com ele.
+. (Selá)
+\v Sl.49.16
+Não temas quando um homem enriquece, quando a glória de sua casa se engrandece.
+\v Sl.49.17
+Pois ele, quando morrer, nada levará; nem sua glória o seguirá abaixo.
 \v Sl.49.18
-Ainda que, enquanto vivesse, tenha falado bem à sua própria alma, 
-\added
-dizendo
-\*added
- : 
-\added
-As pessoas
-\*added
- te louvam quando tu fazes bem a ti mesmo.
+Ainda que, em vida, tenha pronunciado a si mesmo a bênção “Louvam-te ao fazeres o bem a ti”,
 \v Sl.49.19
-Mas ela seguirá para a geração de seus pais, 
-\added
-que
-\*added
- para sempre não verão a luz.
+ele, porém, se juntará à geração de seus pais; nunca mais verão a luz.
 \v Sl.49.20
-O homem 
-\added
-que
-\*added
- tem orgulho de si mesmo e não tem entendimento é semelhante aos animais 
-\added
-que
-\*added
- perecem.
+O homem em posição de honra que não tem entendimento é semelhante aos animais, que perecem.
 \psalm-title
 Salmo de Asafe:
 \*psalm-title
@@ -3271,7 +3222,6 @@ Não me rejeites de tua face, e não tires teu Espírito Santo de mim.
 \v Sl.51.12
 Restaura a alegria de tua salvação, e que tu me sustentes com um espírito de boa vontade.
 \v Sl.51.13
- 
 \added
 Então
 \*added
@@ -3291,7 +3241,7 @@ Os sacrifícios a Deus são um espírito quebrado
 \added
 em arrependimento
 \*added
- ; tu não desprezarás um coração quebrado e triste.
+; tu não desprezarás um coração quebrado e triste.
 \v Sl.51.18
 Faze bem a Sião conforme tua boa vontade; edifica os muros de Jerusalém.
 \v Sl.51.19
@@ -3363,15 +3313,7 @@ onde
 \*added
  não havia medo; porque Deus espalhou os ossos daquele que te cercava; tu os humilhaste, porque Deus os rejeitou.
 \v Sl.53.6
-Ah, que 
-\added
-logo
-\*added
- venham de Sião as salvações de Israel! Quando Deus fizer voltar os prisioneiros de seu povo, 
-\added
-então
-\*added
- Jacó se alegrará; Israel se encherá de alegria.
+Ah, que de Sião venha a salvação de Israel! Quando Deus restaurar seu povo de seu infortúnio, Jacó jubilará, Israel se alegrará.
 \psalm-title
 Instrução de Davi, para o regente, para instrumentos de cordas, quando os zifeus vieram, e disseram a Saul: “Não está Davi escondido entre nós?”:
 \*psalm-title
@@ -3495,15 +3437,14 @@ que havia
 \added
 prejudicar
 \*added
- .
+.
 \v Sl.55.19
 Deus ouvirá, e os humilhará, ele que governa desde os princípios dos tempos. (Selá)Porque eles não mudam 
 \added
 de comportamento
 \*added
-,nem temem a Deus.
+, nem temem a Deus.
 \v Sl.55.20
- 
 \added
 Meu antigo amigo
 \*added
@@ -3725,7 +3666,6 @@ dizem
 \v Sl.59.8
 Porém tu, SENHOR, rirás deles; zombarás de todas as nações.
 \v Sl.59.9
- 
 \added
 Por causa
 \*added
@@ -3739,7 +3679,6 @@ o fim
 \v Sl.59.11
 Não os mates, para que meu povo não se esqueça; faze-os fugir de um lado para o outro pelo teu poder, e abate-os; ó Senhor, escudo nosso;
 \v Sl.59.12
- 
 \added
 Por causa do
 \*added
@@ -3959,6 +3898,7 @@ de
  Deus 
 \added
 vem
+
 \*added
  o poder.
 \v Sl.62.12
@@ -4008,7 +3948,7 @@ Ouve, Deus, minha voz, em minha meditação
 \added
 de súplica
 \*added
- ; guarda minha vida do terror do inimigo.
+; guarda minha vida do terror do inimigo.
 \v Sl.64.2
 Esconde-me do grupo dos malignos, e do ajuntamento dos praticantes de maldade,
 \v Sl.64.3
@@ -4109,7 +4049,6 @@ Ele
 \v Sl.65.7
 Ele é o que amansa o ruído dos mares, o ruído de suas ondas, e o tumulto dos povos.
 \v Sl.65.8
- 
 \added
 Até
 \*added
@@ -4123,7 +4062,7 @@ está
 \added
 a terra
 \*added
-,e lhes dá trigo.
+, e lhes dá trigo.
 \v Sl.65.10
 Enche seus regos de 
 \added
@@ -4285,15 +4224,19 @@ Tu fizeste a chuva cair abundantemente, e firmaste tu herança, que estava cansa
 \v Sl.68.10
 Nela o teu rebanho habitou; por tua bondade, Deus, sustentaste ao miserável.
 \v Sl.68.11
-O Senhor falou; havia um grande exército de anunciadoras de boas notícias.
+O Senhor falou; grande é o exército das que anunciam as boas novas.
 \v Sl.68.12
-Reis de exércitos fugiam, e fugiam; e aquela que ficava em casa repartia os despojos.
+Reis de exércitos fugiam apressadamente;
+\fn
+Lit. fugiam, e fugiam
+\*fn
+ e aquela que ficava em casa repartia os despojos.
 \v Sl.68.13
 Ainda que estivésseis cercados por ambos os lados, 
 \added
 estais protegidos
 \*added
- como que pelas asas de pomba, cobertas de prata, e suas penas revestidas de ouro.
+ como que por asas de pomba, cobertas de prata, e suas penas revestidas de ouro.
 \v Sl.68.14
 Quando o Todo-Poderoso espalhou os reis, houve neve em Salmom.
 \v Sl.68.15
@@ -4317,11 +4260,7 @@ nele
 \*added
  para sempre.
 \v Sl.68.17
-As carruagens de Deus são várias dezenas de milhares; o Senhor 
-\added
-está
-\*added
- entre elas, 
+As carruagens de Deus são várias dezenas de milhares; o Senhor está entre elas, 
 \added
 como
 \*added
@@ -4331,15 +4270,11 @@ seu
 \*added
  santuário.
 \v Sl.68.18
-Tu subiste ao alto, levaste cativos ao cativeiro, tomaste 
+Tu subiste ao alto, levaste cativos, recebeste bens dos homens, até dos rebeldes, para que 
 \added
-para ti
+ali
 \*added
- bens dentre os homens; até dos rebeldes. 
-\added
-Ali
-\*added
- é a habitação do SENHOR Deus.
+ o SENHOR Deus habitasse.
 \v Sl.68.19
 Bendito seja o Senhor; dia após dia ele nos carrega; Deus 
 \added
@@ -4724,7 +4659,6 @@ tais
 \v Sl.72.19
 E bendito seja seu glorioso nome eternamente; e que sua glória encha toda a terra! Amem, e amém!
 \v Sl.72.20
- 
 \added
 Aqui
 \*added
@@ -4769,7 +4703,7 @@ E dizem: Como Deus saberia? Será que o Altíssimo tem conhecimento
 \added
 disto
 \*added
- ?
+?
 \v Sl.73.12
 Eis que estes 
 \added
@@ -4777,11 +4711,10 @@ são
 \*added
  perversos, sempre estão confortáveis e aumentam seus bens.
 \v Sl.73.13
- 
 \added
 Cheguei a pensar
 \*added
- : Certamente purifiquei meu coração e lavei minhas mãos na inocência inutilmente,
+: Certamente purifiquei meu coração e lavei minhas mãos na inocência inutilmente,
 \v Sl.73.14
 Porque sou afligido o dia todo, e castigado toda manhã.
 \v Sl.73.15
@@ -4789,7 +4722,7 @@ Se eu tivesse dito
 \added
 isto
 \*added
-,eu falaria desse jeito; eis que teria decepcionado a geração de teus filhos.
+, eu falaria dessa maneira; eis que teria decepcionado a geração de teus filhos.
 \v Sl.73.16
 Quando tentei entender, isto me pareceu trabalhoso.
 \v Sl.73.17
@@ -4833,7 +4766,7 @@ A quem tenho no céu
 \added
 além de ti
 \*added
- ? E 
+? E 
 \added
 quando estou
 \*added
@@ -5013,7 +4946,7 @@ Por tua repreensão, ó Deus de Jacó, carruagens e cavalos caíram no sono
 \added
 da morte
 \*added
- .
+.
 \v Sl.76.7
 Tu, terrível és tu; e quem subsistirá perante ti com tua ira?
 \v Sl.76.8
@@ -5048,7 +4981,7 @@ De noite eu me lembrava de minha canção; meditava em meu coração; e meu esp�
 \added
 entender
 \*added
- .
+.
 \v Sl.77.7
 Será que o Senhor rejeitará para sempre? E nunca mais mostrará seu favor?
 \v Sl.77.8
@@ -5245,11 +5178,11 @@ ainda
 \*added
  não satisfeitos, enquanto a comida ainda estava em suas bocas,
 \v Sl.78.31
-A ira de Deus subiu contra eles, e ele matou os mais bem alimentados dentre eles, e fez cair aos escolhidos de Israel.
+a ira de Deus subiu contra eles; matou os mais robustos deles e abateu os jovens de Israel.
 \v Sl.78.32
 Com tudo isto ainda pecaram, e não creram nas maravilhas que ele fez.
 \v Sl.78.33
-Por isso gastaram seus dias em coisas inúteis, e seus anos em terrores.
+Por isso gastaram seus dias em futilidades, e seus anos em terrores.
 \v Sl.78.34
 Quando ele matava 
 \added
@@ -5269,7 +5202,6 @@ Porque o coração deles não era comprometido para com ele, e não foram fiéis
 \v Sl.78.38
 Porém ele, sendo misericordioso, perdoava a maldade deles, e não os destruía; e muitas vezes desviou de mostrar sua ira, e não despertou todo o seu furor;
 \v Sl.78.39
- 
 \added
 Porque
 \*added
@@ -5279,7 +5211,7 @@ como
 \*added
  o vento, que vai, e não volta mais.
 \v Sl.78.40
-Quantas vezes eles o provocaram no deserto, e o maltrataram na terra solitária?!
+Quantas vezes o provocaram no deserto, e o maltrataram na terra desabitada!
 \v Sl.78.41
 Pois voltavam a tentar a Deus, e perturbavam ao Santo de Israel.
 \v Sl.78.42
@@ -5313,47 +5245,40 @@ mortalmente
 \v Sl.78.52
 E levou a seu povo como a ovelhas; e os guiou pelo deserto como a um rebanho.
 \v Sl.78.53
-E os conduziu em segurança, e não temeram, porque ele fez o mar encobrir seus inimigos.
+Ele os conduziu em segurança, e não temeram. O mar encobriu seus inimigos.
 \v Sl.78.54
 E os trouxe até os limites de sua 
 \added
 terra
 \*added
- santa, a este monte, que sua mão direita adquiriu.
+ santa, até este monte, que sua mão direita adquiriu.
 \v Sl.78.55
-E tirou as 
-\added
-outras
-\*added
- nações de diante deles, e fez com que eles repartissem as linhas de sua herança, e fez as tribos de Israel habitarem em suas tendas.
+E expulsou as nações de diante deles, e fez com que eles repartissem as linhas de sua herança, e fez as tribos de 
+Israel habitarem em suas tendas.
 \v Sl.78.56
-Porém eles tentaram e irritaram ao Deus Altíssimo; e não guardaram os testemunhos dele.
+Porém eles tentaram e provocaram ao Deus Altíssimo; e não guardaram os testemunhos dele.
 \v Sl.78.57
 E voltaram a ser 
 \added
 tão
 \*added
- falsos como seus pais; desviaram-se como um arco de engano.
+ infiéis como os seus pais; desviaram-se como um arco enganoso.
 \v Sl.78.58
-E provocaram a ira dele com seus 
-\added
-ídolos de
-\*added
- lugares altos, e com suas imagens de escultura moveram-no de ciúmes.
+E provocaram a ira dele com seus altares pagãos,
+\fn
+Lit. “lugares altos”, isto é, altares pagãos geralmente situados em montanhas
+\*fn
+ e com suas imagens de escultura moveram-no de ciúmes.
 \v Sl.78.59
 Deus ouviu 
 \added
 isto
 \*added
-,e se irritou; e rejeitou gravemente a Israel.
+, e se indignou; e rejeitou gravemente a Israel.
 \v Sl.78.60
-Por isso ele abandonou o tabernáculo em Siló, a tenda que ele tinha estabelecido como 
-\added
-sua
-\*added
- habitação entre os homens.
+Por isso ele abandonou o tabernáculo em Siló, a tenda que ele havia estabelecido como habitação entre as pessoas.
 \v Sl.78.61
-E ele entregou o 
+E entregou o 
 \added
 símbolo
 \*added
@@ -5443,7 +5368,7 @@ Puseste-nos como a briga de nossos vizinhos, e nossos inimigos zombam
 \added
 de nós
 \*added
- .
+.
 \v Sl.80.7
 Restaura-nos, ó Deus dos exércitos, e faz brilhar o teu rosto; e 
 \added
@@ -5483,7 +5408,6 @@ O porco do campo a destruiu; os animais selvagens a devoraram.
 \v Sl.80.15
 E a videira que tua mão direita plantou; o ramo que fortificaste para ti.
 \v Sl.80.16
- 
 \added
 Ela está
 \*added
@@ -5526,11 +5450,7 @@ Ele o pôs como testemunho em José, quando tinha saído contra a terra do Egito
 \added
 onde
 \*added
- ouvi 
-\added
-n
-\*added
- uma língua que eu não entendia:
+ ouvi uma língua que eu não entendia:
 \v Sl.81.6
 Tirei seus ombros de debaixo da carga; suas mãos foram livrados dos cestos.
 \v Sl.81.7
@@ -5646,64 +5566,57 @@ Até o pardal acha casa, e a andorinha ninho para si, onde ponha filhotes perto 
 \v Sl.84.4
 Bem-aventurados os que habitam em tua casa; eles louvam a ti continuamente. (Selá)
 \v Sl.84.5
-Bem-aventurado o homem cuja força está em ti, em cujos corações estão os caminhos 
+Bem-aventurados aqueles cuja força está em ti, em cujos corações estão os caminhos 
 \added
-para tua habitação
+corretos
 \*added
 .
 \v Sl.84.6
-Passando pelo Vale de Baca, 
-\added
-teus caminhos
-\*added
- fornecem uma fonte; a chuva também os cobrirá abundantemente.
+Eles, ao passarem pelo Vale de Baca, fazem dele uma fonte; e a chuva o cobre de bênçãos.
+\fn
+\key
+cobre de bênçãos
+\*key
+Obscuro. Trad. alt. enche os tanques
+\*fn
 \v Sl.84.7
-Vão indo de força em força; 
+Eles vão de força em força; 
 \added
 cada um deles
 \*added
- aparecerá diante de Deus em Sião.
+ comparece diante de Deus em Sião.
 \v Sl.84.8
 SENHOR Deus dos exércitos, escuta minha oração; inclina os teus ouvidos, ó Deus de Jacó. (Selá)
 \v Sl.84.9
-Olha o nosso escudo, ó Deus; e presta atenção ao rosto do teu Ungido.
+Olha o nosso escudo, ó Deus; e observa o rosto do teu ungido.
 \v Sl.84.10
-Porque 
+Porque melhor é um dia nos teus pátios, do que mil 
 \added
-é
+fora
 \*added
- melhor um dia nos teus pátios, do que mil 
-\added
-fora dele
-\*added
- . Eu preferiria estar à porta na casa do meu Deus, do que morar por muito em tendas de perversidade.
+. Prefiro estar à porta da casa do meu Deus, a morar nas tendas dos perversos.
+\fn
+Lit. tendas de perversidade
+\*fn
 \v Sl.84.11
-Porque o SENHOR Deus 
-\added
-é nosso
-\*added
- sol e 
-\added
-nosso
-\*added
- escudo; graça e glória o SENHOR dará; ele não reterá o bem para os que andam em integridade.
+Porque o SENHOR Deus é sol e escudo; o SENHOR concederá graça e honra; ele não negará o bem aos que andam em integridade.
 \v Sl.84.12
 Ó SENHOR dos exércitos, bem-aventurado é o homem que confia em ti!
 \psalm-title
 Salmo para o regente, dos filhos de Coré:
 \*psalm-title
 \v Sl.85.1
-SENHOR, tu tens sido favorável a tua terra; fizeste voltar Jacó do cativeiro.
+Foste favorável, ó SENHOR, à tua terra; restauraste Jacó de seu infortúnio.
 \v Sl.85.2
-Tu perdoaste a perversidade de teu povo; encobriste todos os pecados deles. (Selá)
+Perdoaste a perversidade de teu povo; encobriste todos os seus pecados. (Selá)
 \v Sl.85.3
-Tiraste toda a tua irritação; tu te desviaste do ardor de tua ira.
+Removeste toda a tua indignação; do ardor de tua ira te desviaste.
 \v Sl.85.4
-Restaura-nos, ó Deus de nossa salvação; e elimina tua ira de sobre nós.
+Restaura-nos, ó Deus de nossa salvação; e cessa tua ira de sobre nós.
 \v Sl.85.5
-Ficarás tu irritado contra nós para sempre? Continuarás tua ira de geração em geração?
+Acaso estarás irado contra nós para sempre? Estenderás a tua ira de geração em geração?
 \v Sl.85.6
-Não voltarás tu a nos reviver, para que teu povo se alegre em ti?
+Não voltará a dar-nos vida, para que o teu povo se alegre em ti?
 \v Sl.85.7
 Mostra-nos tua bondade, SENHOR, e dá para nós tua salvação.
 \v Sl.85.8
@@ -5729,7 +5642,7 @@ Guarda minha alma, porque eu sou dedicado
 \added
 a ti
 \*added
- ; ó Deus, salva o teu servo, que confia em ti.
+; ó Deus, salva o teu servo, que confia em ti.
 \v Sl.86.3
 Tem misericórdia de mim, SENHOR, porque clamo a ti o dia todo.
 \v Sl.86.4
@@ -5772,35 +5685,30 @@ Faze-me um sinal de bondade, para que os que me odeiam vejam, e se envergonhem; 
 Salmo e cântico, dos filhos de Coré:
 \*psalm-title
 \v Sl.87.1
-O fundamento d 
-\added
-a cidade de Deus
-\*added
- está nos santos montes.
+Seu fundamento está nos santos montes.
 \v Sl.87.2
-O SENHOR ama mais os portões de Sião do que todas as habitações de Jacó.
+O SENHOR ama os portões de Sião mais que todas as habitações de Jacó.
 \v Sl.87.3
 Gloriosas coisas são faladas de ti, ó cidade de Deus. (Selá)
 \v Sl.87.4
-Farei menção de Raabe e Babilônia aos que me conhecem; eis que da Filístia, Tiro e Cuxe 
+Farei menção de Raabe e Babilônia aos que me conhecem;
+\fn
+Ou: entre os que me conhecem
+\*fn
+ eis que da Filístia, Tiro e Cuxe 
 \added
 se dirá
 \*added
- : Este é nascido ali.
+: Este é nascido ali.
 \v Sl.87.5
-E de Sião se dirá: Este e aquele outro nasceram ali.E ele, o Altíssimo, a fortificará.
+E de Sião se dirá: Este e aquele outro nasceram ali. E o próprio Altíssimo a manterá firme.
+\fn
+Ou: segura
+\*fn
 \v Sl.87.6
-O SENHOR os contará, quando escrever sobre os povos, 
-\added
-dizendo
-\*added
- : Este nasceu ali. (Selá)
+O SENHOR contará, quando escrever dos povos: Este nasceu ali. (Selá)
 \v Sl.87.7
-E 
-\added
-assim também dirão
-\*added
- os cantores com os tocadores de flauta; todas as minhas fontes estão em ti.
+Assim como os cantores e instrumentistas; todas as minhas fontes estão em ti.
 \psalm-title
 Cântico e Salmo dos filhos de Coré, para o regente, conforme “Maalate Leanote”. Instrução feita por Hemã, o Ezraíta:
 \*psalm-title
@@ -5872,15 +5780,14 @@ Tua
 \*added
  bondade durará para sempre; confirmaste tua fidelidade até nos céus.
 \v Sl.89.3
- 
 \added
 Tu disseste
 \*added
- : Eu fiz um pacto com o meu escolhido, jurei a meu servo Davi. 
+: Eu fiz um pacto com o meu escolhido, jurei a meu servo Davi. 
 \added
 Eu lhe disse
 \*added
- :
+:
 \v Sl.89.4
 Confirmarei tua semente para sempre, e farei teu trono continuar de geração em geração. (Selá)
 \v Sl.89.5
@@ -6099,7 +6006,6 @@ nem
 \*added
  da flecha que voa de dia;
 \v Sl.91.6
- 
 \added
 Nem
 \*added
@@ -6133,13 +6039,16 @@ Ele me chamará, e eu o responderei; estarei com ele na angústia;
 \added
 dela
 \*added
- eu o livrarei, e o glorificarei.
+ eu o livrarei, e o honrarei.
 \v Sl.91.16
-Com muitos dias 
-\added
-de vida
-\*added
- eu o fartarei, e lhe mostrarei a minha salvação.
+Eu o satisfarei com uma longa vida
+\fn
+\key
+longa vida
+\*key
+Lit. longos dias
+\*fn
+, e lhe mostrarei a minha salvação.
 \psalm-title
 Salmo e cântico para o dia do Sábado:
 \*psalm-title
@@ -6208,7 +6117,6 @@ Teu trono está firme desde o passado; tu
 \v Sl.93.3
 SENHOR, os rios levantam; os rios levantam seus ruídos; os rios levantam suas ondas.
 \v Sl.93.4
- 
 \added
 Porém
 \*added
@@ -6230,7 +6138,7 @@ Eles falam
 \added
 demais
 \*added
-,e dizem palavras soberbas; todos os que praticam a maldade se orgulham.
+, e dizem palavras soberbas; todos os que praticam a maldade se orgulham.
 \v Sl.94.5
 Eles despedaçam ao teu povo, SENHOR, e humilham a tua herança.
 \v Sl.94.6
@@ -6240,7 +6148,7 @@ E dizem: O SENHOR não vê
 \added
 isso
 \*added
-,e o Deus de Jacó não está prestando atenção.
+, e o Deus de Jacó não está prestando atenção.
 \v Sl.94.8
 Entendei, ó tolos dentre o povo; e vós 
 \added
@@ -7380,6 +7288,7 @@ Meus joelhos estão fracos de
 tanto
 \*added
  jejuar; minha carne está magra, sem gordura alguma.
+
 \v Sl.109.25
 E eu por eles sou humilhado; quando me veem, sacodem suas cabeças.
 \v Sl.109.26
@@ -7950,6 +7859,7 @@ livremente
  por longas distâncias, pois busquei teus preceitos.
 \v Sl.119.46
 Também falarei de teus testemunhos perante reis, e não me envergonharei.
+
 \v Sl.119.47
 E terei prazer em teus mandamentos, que eu amo.
 \v Sl.119.48
@@ -8546,9 +8456,10 @@ seja
 Cântico dos degraus:
 \*psalm-title
 \v Sl.126.1
-Quando o SENHOR trouxe de volta os cativos de Sião, estivemos como os que sonham.
+Quando o SENHOR restaurou Sião de seu infortúnio, estivemos como os que sonham.
 \v Sl.126.2
-Então nossa boca se encheu de riso, e nossa língua de alegria; então diziam entre as nações: Grandes coisas o SENHOR fez para estes.
+Então nossa boca se encheu de riso, e nossa língua de alegria; então diziam entre as nações: O SENHOR fez grandes 
+coisas para estes.
 \v Sl.126.3
 Grandes coisas o SENHOR fez para nós; 
 \added
@@ -8556,15 +8467,15 @@ por isso
 \*added
  estamos alegres.
 \v Sl.126.4
-Restaura nossa 
-\added
-prosperidade de antes
-\*added
- do cativeiro, tal como as correntes de águas no deserto do Sul.
+Restaura-nos,
+\fn
+Ou: “restaura-nos do nosso infortúnio”, ou ainda, “reverte o nosso cativeiro”
+\*fn
+ ó SENHOR, como as correntes de águas no sul.
 \v Sl.126.5
-Os que semeiam em lágrimas ceifarão com alegria.
+Os que semeiam em lágrimas colherão com alegria.
 \v Sl.126.6
-Aquele que sai chorando com semente para semear, voltará com alegria, trazendo sua colheita.
+Aquele que sai chorando com semente para semear voltará com alegria, trazendo sua colheita.
 \psalm-title
 Cântico dos degraus, de Salomão:
 \*psalm-title
@@ -8600,7 +8511,7 @@ Porque comerás do trabalho de tuas mãos; tu serás bem-aventurado, e bem lhe
 \added
 sucederá
 \*added
- .
+.
 \v Sl.128.3
 Tua mulher será como a videira frutífera, ao lado de tua casa; 
 \added
@@ -8692,11 +8603,10 @@ e
 \*added
  fez um voto ao Poderoso de Jacó,
 \v Sl.132.3
- 
 \added
-Dizendo
+dizendo
 \*added
- : Não entrarei na tenda de minha casa, nem subirei no leito de minha cama;
+: Não entrarei na tenda de minha casa, nem subirei no leito de minha cama;
 \v Sl.132.4
 Não darei sono aos meus olhos, 
 \added

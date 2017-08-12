@@ -21,11 +21,11 @@ E Arão gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom
 \v Mt.1.5
 E Salmom gerou de Raabe a Boaz; e Boaz gerou de Rute a Obede; e Obede gerou a Jessé.
 \v Mt.1.6
-E Jessé gerou ao rei Davi; e {tr,rp:o rei{trnc:
-\fn
+E Jessé gerou ao rei Davi; e {tr,rp:o rei
+{trnc:\fn
 N4 omite "o rei"
-\*fn
- } }Davi gerou Salomão da que 
+\*fn}}
+ Davi gerou Salomão da que 
 \added
 fora mulher
 \*added
@@ -84,15 +84,14 @@ intimamente
 ,até que ela deu à luz {tr,rp:o filho dela, o primogênito}{n4:um filho},{trnc:
 \fn
 TR, RP: o filho dela, o primogênito - N4: um filho
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 \key
 um filho
 \*key
 TR, RP contêm: o filho dela, o primogênito
-\*fn
- } e lhe pôs por nome JESUS.
+\*fn}
+ e lhe pôs por nome JESUS.
 \v Mt.2.1
 E sendo Jesus já nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do oriente a Jerusalém,
 \v Mt.2.2
@@ -109,7 +108,7 @@ E o rei Herodes, ao ouvir
 \added
 isto
 \*added
-,ficou perturbado, e com ele toda Jerusalém.
+, ficou perturbado, e com ele toda Jerusalém.
 \v Mt.2.4
 E tendo reunido todos os chefes dos sacerdotes e escribas do povo, perguntou-lhes onde o Cristo havia de nascer.
 \v Mt.2.5
@@ -152,8 +151,8 @@ Então se cumpriu o que foi dito pelo profeta Jeremias, que disse:
 Uma voz se ouviu em Ramá, {tr,rp:lamentação,{trnc:
 \fn
 N4 omite "lamentação"
-\*fn
- } }choro, e grande pranto; Raquel chorava por seus filhos, e não quis ser consolada, pois já não existem.
+\*fn}}
+ choro, e grande pranto; Raquel chorava por seus filhos, e não quis ser consolada, pois já não existem.
 \ref
 Jeremias 31:15 
 \*ref
@@ -517,11 +516,11 @@ Ouvistes o que foi dito: “Olho por olho, e dente por dente”.
 Êxodo 21:24; Levítico 24:20; Deuteronômio 19:21 
 \*ref
 \v Mt.5.39
-Mas eu vos digo que não resistais a quem for mau; em vez disso, a qualquer um que te bater à {tr,n4:tua{trnc:
-\fn
+Mas eu vos digo que não resistais a quem for mau; em vez disso, a qualquer um que te bater à {tr,n4:tua
+{trnc:\fn
 RP omite "tua"
-\*fn
- } }face direita, mostra-lhe também a outra.
+\*fn}
+ }face direita, mostra-lhe também a outra.
 \v Mt.5.40
 E ao que quiser disputar contigo, e te tomar tua túnica, deixa-lhe também a capa.
 \v Mt.5.41
@@ -534,43 +533,41 @@ Ouvistes o que foi dito: “Amarás teu próximo”, e “odiarás teu inimigo�
 Levítico 19:18 
 \*ref
 \v Mt.5.44
-Porém eu vos digo: amai vossos inimigos{tr,rp:, bendizei os que vos maldizem, fazei bem aos que vos odeiam,{trnc:
-\fn
+Porém eu vos digo: amai vossos inimigos{tr,rp:, bendizei os que vos maldizem, fazei bem aos que vos odeiam,}
+{trnc:\fn
 N4 omite "bendizei os que vos maldizem, fazei bem aos que vos odeiam"
-\*fn
- } }e orai pelos que vos {tr,rp:maltratam e{trnc:
-\fn
+\*fn}
+ e orai pelos que vos {tr,rp:maltratam e
+{trnc:\fn
 N4 omite "vos maltratam e"
-\*fn
- } vos }perseguem,{n4:
-\fn
+\*fn}
+ vos }perseguem,
+{n4:\fn
 \key
-N
+orai pelos que vos perseguem
 \*key
-orai pelos que vos perseguem : TR, RP: bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem. Compare com Lucas 6:27,28
-\*fn
- }
+TR, RP: bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem. Comparar com Lucas 6:27,28
+\*fn}
 \v Mt.5.45
 Para que sejais filhos de vosso Pai que está nos céus; porque ele faz seu sol sair sobre maus e bons, e chover sobre justos e injustos.
 \v Mt.5.46
 Pois se amardes os que vos amam, que recompensa tereis? Não fazem os cobradores de impostos também o mesmo?
 \v Mt.5.47
-E se saudardes somente os vossos {tr,n4:irmãos}{rp:amigos},{trnc:
-\fn
+E se saudardes somente os vossos {tr,n4:irmãos}{rp:amigos},
+{trnc:\fn
 TR, N4: irmãos - RP: amigos
-\*fn
- } o que fazeis de mais? Não fazem os {tr,rp:cobradores de impostos}{n4:gentios
+\*fn}
+ o que fazeis de mais? Não fazem os {tr,rp:cobradores de impostos}{n4:gentios
 \fn
 \key
-N
+gentios
 \*key
-gentios : TR, RP: cobradores de impostos
-\*fn
- }{trnc:
-\fn
+TR, RP: cobradores de impostos
+\*fn}
+{trnc:\fn
 TR, RP: cobradores de impostos - N4: gentios
-\*fn
- } também assim?
+\*fn}
+ também assim?
 \v Mt.5.48
 Portanto, sede vós perfeitos, assim como vosso Pai {tr,rp:que está nos céus}{n4:celestial}{trnc:
 \fn
@@ -591,16 +588,14 @@ Mas quando tu fizeres esmola, não saiba tua mão esquerda o que faz a tua direi
 Para que a tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará{tr,rp: em público}.{trnc:
 \fn
 N4 omite "em público"
-\*fn
- }
+\*fn}
 \v Mt.6.5
 E quando orares, não sejas como os hipócritas; porque eles amam orar em pé nas sinagogas e nas esquinas das ruas para serem vistos pelas pessoas. Em verdade vos digo que já receberam sua recompensa.
 \v Mt.6.6
 Porém tu, quando orares, entra em teu quarto, fecha tua porta, e ora a teu Pai, que está em segredo; e teu Pai, que vê em segredo, ele te recompensará{tr,rp: em público}.{trnc:
 \fn
 N4 omite "em público"
-\*fn
- }
+\*fn}
 \v Mt.6.7
 E quando orardes, não façais repetições inúteis como os gentios, que pensam que por muito falarem serão ouvidos.
 \v Mt.6.8
@@ -614,43 +609,40 @@ O pão nosso de cada dia nos dá hoje.
 \v Mt.6.12
 E perdoa-nos nossas dívidas, assim como nós também perdoamos aos nossos devedores.
 \v Mt.6.13
-E não nos conduzas à tentação, mas livra-nos do mal{tr,rp:; porque teu é o Reino, o poder, e a glória, para sempre, Amém}.{n4:
-\fn
+E não nos conduzas à tentação, mas livra-nos do mal{tr,rp:; porque teu é o Reino, o poder, e a glória, para sempre, Amém}.
+{n4:\fn
 TR, RP contêm: "porque teu é o Reino, o poder, e a glória, para sempre, Amém" ao final do versículo
-\*fn
- }{trnc:
-\fn
+\*fn}
+{trnc:\fn
 N4 omite: porque teu (...) Amém
-\*fn
- }
+\*fn}
 \v Mt.6.14
 Porque se perdoardes às pessoas suas ofensas, vosso Pai celestial também vos perdoará;
 \v Mt.6.15
-Mas se não perdoardes às pessoas{tr,rp: suas ofensas}{trnc:
-\fn
+Mas se não perdoardes às pessoas{tr,rp: suas ofensas}
+{trnc:\fn
 N4 omite: suas ofensas
-\*fn
- }, também vosso Pai não vos perdoará vossas ofensas.
+\*fn}
+, também vosso Pai não vos perdoará vossas ofensas.
 \v Mt.6.16
 E quando jejuardes, não vos mostreis tristonhos, como os hipócritas; porque eles desfiguram seus rostos, para parecerem aos outros que jejuam. Em verdade vos digo que eles já receberam sua recompensa.
 \v Mt.6.17
 Porém tu, quando jejuares, unge a tua cabeça e lava o teu rosto,
 \v Mt.6.18
-Para não pareceres às pessoas que jejuas, mas sim ao teu Pai, que está em segredo; e teu Pai, que vê em segredo, ele te recompensará{tr: em público}{trnc:
-\fn
+Para não pareceres às pessoas que jejuas, mas sim ao teu Pai, que está em segredo; e teu Pai, que vê em segredo, ele te recompensará{tr: em público}
+{trnc:\fn
 RP, N4 não contêm "em público"
-\*fn
- }.
+\*fn}
+.
 \v Mt.6.19
 Não ajunteis para vós tesouros na terra, onde e a traça e a ferrugem gastam, e onde os ladrões invadem e roubam;
 \v Mt.6.20
 Mas ajuntai para vós tesouros no céu, onde nem a traça nem a ferrugem gastam, e onde os ladrões não invadem nem roubam.
 \v Mt.6.21
-Porque onde estiver o {tr,rp:vosso}{n4:teu} tesouro, ali estará também o {tr,rp:vosso}{n4:teu} coração.{trnc:
-\fn
+Porque onde estiver o {tr,rp:vosso}{n4:teu} tesouro, ali estará também o {tr,rp:vosso}{n4:teu} coração.
+{trnc:\fn
 N4 contém: teu tesouro, (...) teu coração
-\*fn
- }
+\*fn}
 \v Mt.6.22
 A lâmpada do corpo é o olho; portanto, se o teu olho for puro,
 \fn
@@ -690,7 +682,7 @@ ou: qual de vós poderá, por sua ansiedade, alongar um pouco sua vida?
 \v Mt.6.28
 E por que andais ansiosos pela roupa? Prestai atenção aos lírios do campo, como crescem; eles nem trabalham nem fiam.
 \v Mt.6.29
-E eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.
+Mas eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.
 \v Mt.6.30
 Se Deus veste desta maneira a erva do campo, que hoje existe, e amanhã é lançada no forno, não 
 \added
@@ -706,21 +698,20 @@ Mas buscai primeiramente o {tr,rp:Reino de Deus}{n4:
 \added
 seu
 \*added
- Reino}{trnc:
-\fn
+ Reino}
+{trnc:\fn
 N4 omite "de Deus"
-\*fn
- } e a sua justiça, e todas estas coisas vos serão acrescentadas.
+\*fn}
+ e a sua justiça, e todas estas coisas vos serão acrescentadas.
 \v Mt.6.34
 Não andeis, pois, ansiosos pelo dia de amanhã, porque o amanhã cuidará de si mesmo. Basta a cada dia o seu mal.
 \v Mt.7.1
 Não julgueis, para que não sejais julgados.
 \v Mt.7.2
-Porque com o juízo que julgardes sereis julgados; e com a medida que medirdes vos medirão{tr: de volta}.{trnc:
-\fn
+Porque com o juízo que julgardes sereis julgados; e com a medida que medirdes vos medirão{tr: de volta}.
+{trnc:\fn
 RP, N4 omitem: de volta
-\*fn
- }
+\*fn}
 \v Mt.7.3
 Ora, por que vês o cisco que está no olho de teu irmão e não enxergas a trave que está em teu próprio olho?
 \v Mt.7.4
@@ -992,7 +983,7 @@ Jesus
 \added
 de Mateus
 \*added
-,eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
+, eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
 \fn
 \key
 reclinar-se à mesa
@@ -1004,21 +995,20 @@ E quando os fariseus viram
 \added
 isto
 \*added
-,perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
+, perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
 \v Mt.9.12
-Porém {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+Porém 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } ouviu, e respondeu{tr,rp:-lhes}:{trnc:
-\fn
+\*fn}
+ ouviu, e respondeu{tr,rp:-lhes}:
+{trnc:\fn
 N4: respondeu-lhes
-\*fn
- } Os que têm saúde não precisam de médico, mas sim os que estão doentes.
+\*fn}
+ Os que têm saúde não precisam de médico, mas sim os que estão doentes.
 \v Mt.9.13
 Mas ide aprender o que significa: “Quero misericórdia, e não sacrifício”. 
 \ref
@@ -1027,18 +1017,16 @@ Oseías 6:6
 Porque eu não vim chamar os justos, mas sim os pecadores{tr,rp:, ao arrependimento}.{trnc:
 \fn
 N4 omite "ao arrependimento"
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP contêm: não vim chamar os justos, mas sim os pecadores, ao arrependimento
-\*fn
- }
+\*fn}
 \v Mt.9.14
-Então os discípulos de João vieram a ele, e perguntaram: Por que nós e os fariseus jejuamos{tr,rp: muitas vezes},{trnc:
-\fn
+Então os discípulos de João vieram a ele, e perguntaram: Por que nós e os fariseus jejuamos{tr,rp: muitas vezes},
+{trnc:\fn
 N4 omite "muitas vezes"
-\*fn
- } mas os teus discípulos não jejuam?
+\*fn}
+ mas os teus discípulos não jejuam?
 \v Mt.9.15
 E Jesus lhes respondeu: Podem, por acaso, os convidados do casamento
 \fn
@@ -1072,7 +1060,7 @@ Então Jesus se levantou e o seguiu com seus discípulos.
 \added
 dele
 \*added
-,e tocou a borda de sua roupa;
+, e tocou a borda de sua roupa;
 \v Mt.9.21
 Porque dizia consigo mesma: Se eu tão-somente tocar a roupa dele, serei curada.
 \v Mt.9.22
@@ -1080,11 +1068,11 @@ Jesus se virou e a viu. Então disse: Tem bom ânimo, filha, a tua fé te sarou.
 \v Mt.9.23
 Quando Jesus chegou à casa daquele chefe, viu os tocadores de flauta e a multidão que fazia alvoroço,
 \v Mt.9.24
-E disse{tr,rp:-lhes}:{trnc:
-\fn
+E disse{tr,rp:-lhes}:
+{trnc:\fn
 N4 omite "lhes"
-\*fn
- } Retirai-vos, porque a menina não está morta, mas sim dormindo. E riram dele.
+\*fn}
+ Retirai-vos, porque a menina não está morta, mas sim dormindo. E riram dele.
 \v Mt.9.25
 Mas quando a multidão foi expulsa, ele entrou, pegou a mão dela, e a menina se levantou.
 \v Mt.9.26
@@ -1100,33 +1088,31 @@ E os olhos deles se abriram. Então Jesus os advertiu severamente, dizendo: Tend
 \v Mt.9.31
 Porém eles saíram e divulgaram a notícia acerca dele por toda aquela terra.
 \v Mt.9.32
-Enquanto eles saíam, eis que lhe trouxeram um {tr,rp:homem}{tr-nc:
-\fn
+Enquanto eles saíam, eis que lhe trouxeram um {tr,rp:homem}
+{trnc:\fn
 N4 omite "homem"
-\*fn
- } mudo e endemoninhado.
+\*fn}
+ mudo e endemoninhado.
 \v Mt.9.33
 Quando o demônio foi expulso, o mudo passou a falar. Então as multidões ficaram maravilhadas, e disseram: Nunca se viu algo assim em Israel!
 \v Mt.9.34
 Mas os fariseus diziam: É pelo chefe dos demônios que ele expulsa os demônios.
 \v Mt.9.35
-Jesus percorria todas as cidades e aldeias, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando toda enfermidade e toda doença{tr,rp: entre o povo}.{trnc:
-\fn
+Jesus percorria todas as cidades e aldeias, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando toda enfermidade e toda doença{tr,rp: entre o povo}.
+{trnc:\fn
 N4 omite "entre o povo"
-\*fn
- }
+\*fn}
 \v Mt.9.36
-Quando ele viu as multidões, teve compaixão delas, porque andavam {tr:cansadas}{rp,n4:afligidas}{trnc:
-\fn
+Quando ele viu as multidões, teve compaixão delas, porque andavam {tr:cansadas}{rp,n4:afligidas}
+{trnc:\fn
 TR: cansadas - RP, N4: afligidas
-\*fn
- } e desamparadas, como ovelhas que não têm pastor.
+\*fn}
+ e desamparadas, como ovelhas que não têm pastor.
 \v Mt.9.37
 Então disse aos seus discípulos: Em verdade a colheita é grande, porém os trabalhadores são poucos.
 \v Mt.9.38
 Portanto rogai ao Senhor da colheita que envie trabalhadores à sua colheita.
 \v Mt.10.1
- 
 \added
 Jesus
 \*added
@@ -1316,23 +1302,22 @@ tradicionalmente “escandalizar-se”
 \v Mt.11.7
 Depois que eles se foram, Jesus começou a dizer às multidões acerca de João: Que saístes ao deserto para ver? Uma cana que se move pelo vento?
 \v Mt.11.8
-Mas que saístes para ver? Um homem vestido com {n4: 
-\added
-}roupas{n4:
-\*added
- }{trnc:
-\fn
+Mas que saístes para ver? Um homem vestido com 
+{n4:\added}
+roupas
+{n4:\*added}
+{trnc:\fn
 N4 omite "roupas"
-\*fn
- } delicadas? Eis que os que usam roupas delicadas estão nas casas dos reis.
+\*fn}
+ delicadas? Eis que os que usam roupas delicadas estão nas casas dos reis.
 \v Mt.11.9
 Mas que saístes para ver? Um profeta? Sim, eu vos digo, e muito mais que um profeta;
 \v Mt.11.10
-{tr,rp:Porque{trnc:
-\fn
+{tr,rp:Porque
+{trnc:\fn
 N4 omite "Porque"
-\*fn
- } este}{n4:Este} é aquele sobre o qual está escrito: “Eis que diante de tua face envio o meu mensageiro, que preparará o teu caminho diante de ti.” 
+\*fn}
+ este}{n4:Este} é aquele sobre o qual está escrito: “Eis que diante de tua face envio o meu mensageiro, que preparará o teu caminho diante de ti.” 
 \ref
 Malaquias 3:1 
 \*ref
@@ -1355,38 +1340,35 @@ Porque todos os profetas e a Lei profetizaram até João.
 \v Mt.11.14
 E se estais dispostos a aceitar, este é o Elias que havia de vir.
 \v Mt.11.15
-Quem tem ouvidos{tr,rp: para ouvir},{trnc:
-\fn
+Quem tem ouvidos{tr,rp: para ouvir},
+{trnc:\fn
 N4 omite "para ouvir"
-\*fn
- } ouça.
+\*fn}
+ ouça.
 \v Mt.11.16
-Mas com quem compararei esta geração? Semelhante é às crianças que se sentam nas praças, {tr,rp:e}{n4:que} chamam aos {tr,rp:seus colegas}{n4:outros},{trnc:
-\fn
+Mas com quem compararei esta geração? Semelhante é às crianças que se sentam nas praças, {tr,rp:e}{n4:que} chamam aos {tr,rp:seus colegas}{n4:outros},
+{trnc:\fn
 TR, RP: e chamam aos seus colegas - N4: que chamam aos outros
-\*fn
- }
+\*fn}
 \v Mt.11.17
-E dizem: “Tocamos flauta para vós, mas não dançastes; cantamos lamentações{tr,rp: para vós},{trnc:
-\fn
+E dizem: “Tocamos flauta para vós, mas não dançastes; cantamos lamentações{tr,rp: para vós},
+{trnc:\fn
 N4 omite "para vós"
-\*fn
- } mas não chorastes.”
+\*fn}
+ mas não chorastes.”
 \v Mt.11.18
 Porque veio João, sem comer nem beber, e dizem: “Ele tem demônio.”
 \v Mt.11.19
-Veio o Filho do homem, que come e bebe, e dizem: “Eis aqui um homem comilão e beberrão, amigo de cobradores de impostos e pecadores!” Mas a sabedoria prova-se justa por meio de {tr,rp:seus filhos}{n4:suas obras}.{trnc:
-\fn
+Veio o Filho do homem, que come e bebe, e dizem: “Eis aqui um homem comilão e beberrão, amigo de cobradores de impostos e pecadores!” Mas a sabedoria prova-se justa por meio de {tr,rp:seus filhos}{n4:suas obras}.
+{trnc:\fn
 TR, RP: seus filhos - N4: suas obras
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 \key
-N
+suas obras
 \*key
-suas obras : TR, RP: seus filhos
-\*fn
- }
+TR, RP: seus filhos
+\*fn}
 \v Mt.11.20
 Então ele começou a acusar as cidades em que a maioria de seus milagres haviam sido feitos, por não terem se arrependido:
 \v Mt.11.21
@@ -1394,11 +1376,11 @@ Ai de ti Corazim! Ai de ti Betsaida! Porque se em Tiro e em Sidom tivessem sido 
 \v Mt.11.22
 Porém eu vos digo que mais tolerável será para Tiro e Sidom, no dia do juízo, que para vós.
 \v Mt.11.23
-E tu, Cafarnaum, {tr,rp:que estás exaltada até o céu,{trnc:
-\fn
+E tu, Cafarnaum, {tr,rp:que estás exaltada até o céu,
+{trnc:\fn
 TR, RP:que estás exaltada até o céu - N4: estarás tu exaltada até o céu?
-\*fn
- } ao}{n4:estarás tu exaltada até o céu? Ao} mundo dos mortos serás derrubada! Pois se em Sodoma tivessem sido feitos os milagres que foram feitos em ti, ela teria permanecido até hoje.
+\*fn}
+ ao}{n4:estarás tu exaltada até o céu? Ao} mundo dos mortos serás derrubada! Pois se em Sodoma tivessem sido feitos os milagres que foram feitos em ti, ela teria permanecido até hoje.
 \v Mt.11.24
 Porém eu vos digo que mais tolerável será para os da região de Sodoma, no dia de juízo, que para ti.
 \v Mt.11.25
@@ -2615,11 +2597,11 @@ E começando a fazer acerto de contas, foi-lhe apresentado um que lhe devia dez 
 \v Mt.18.25
 Como ele não tinha com que pagar, o seu senhor mandou que ele, sua mulher, filhos, e tudo quanto tinha fossem vendidos para se fazer o pagamento.
 \v Mt.18.26
-Então aquele servo caiu e ficou prostrado diante dele, dizendo: “{tr,rp:Senhor,{trnc:
-\fn
+Então aquele servo caiu e ficou prostrado diante dele, dizendo: “{tr,rp:Senhor,
+{trnc:\fn
 N4 omite "Senhor"
-\*fn
- } tem}{n4:Tem} paciência comigo, e tudo te pagarei”.
+\*fn}
+ tem}{n4:Tem} paciência comigo, e tudo te pagarei”.
 \v Mt.18.27
 O senhor daquele servo compadeceu-se dele, então o soltou e lhe perdoou a dívida.
 \v Mt.18.28
@@ -2630,11 +2612,11 @@ denários
 \*key
 uma moeda de prata que valia um dia de trabalho braçal
 \*fn
- então o agarrou e o sufocou, dizendo: “Paga{tr,rp:-me}{trnc:
-\fn
+ então o agarrou e o sufocou, dizendo: “Paga{tr,rp:-me}
+{trnc:\fn
 N4 omite "-me"
-\*fn
- } o que 
+\*fn}
+ o que 
 \added
 me
 \*added

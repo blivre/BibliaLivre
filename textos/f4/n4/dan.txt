@@ -134,7 +134,7 @@ A ti, ó Deus de meus pais, te agradeço e louvo, pois tu me deste sabedoria e p
 \v Dn.2.24
 Depois disto Daniel veio a Arioque, ao qual o rei tinha constituído para matar os sábios da Babilônia; ele veio, e disse-lhe assim: Não mates os sábios da Babilônia; leva-me diante do rei, que eu mostrarei ao rei a interpretação.
 \v Dn.2.25
-Então Arioque levou depressa a Daniel diante do rei, e disse-lhe assim: Achei um homem dos transportados de Judá, o qual mostrará ao rei a interpretação.
+Então Arioque levou depressa a Daniel diante do rei, e disse-lhe assim: Achei um homem dos do cativos de Judá, o qual mostrará ao rei a interpretação.
 \v Dn.2.26
 Respondeu o rei, e disse a Daniel (cujo nome era Beltessazar): Podes tu me explicar o sonho que vi, e sua interpretação?
 \v Dn.2.27
@@ -375,7 +375,6 @@ Portanto, ó rei, aceita meu conselho, e desfaze teus pecados por meio da justi�
 \v Dn.4.28
 Tudo isso veio sobre o rei Nabucodonosor;
 \v Dn.4.29
- 
 \added
 Pois
 \*added
@@ -724,7 +723,7 @@ durará
 \added
 sacrifício
 \*added
-,e da transgressão assoladora, de modo que o santuário e o exército são entregues para serem pisoteados?
+, e da transgressão assoladora, de modo que o santuário e o exército são entregues para serem pisoteados?
 \v Dn.8.14
 E ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.
 \v Dn.8.15
@@ -970,6 +969,7 @@ para a guerra
 \*added
 ,e ajuntarão uma multidão de grandes exércitos; e certamente avançará, inundará, e passará; e quando voltar, se agitará 
 \added
+
 em guerra
 \*added
  até sua fortaleza.

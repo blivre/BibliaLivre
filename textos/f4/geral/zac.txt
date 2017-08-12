@@ -132,7 +132,7 @@ Depois disse: Ponham um turbante limpo sobre sua cabeça. E puseram um turbante 
 \added
 junto
 \*added
- .
+.
 \v Zc.3.6
 E o anjo do SENHOR exortou a Josué, dizendo:
 \v Zc.3.7
@@ -210,15 +210,15 @@ Então me disse: Esta é a maldição que sairá por toda a face da terra, porqu
 \added
 rolo
 \*added
- ) será removido; e todo aquele que jura 
+) será removido; e todo aquele que jura 
 \added
 falsamente
 \*added
-,(conforme está do outro lado do 
+, (conforme está do outro lado do 
 \added
 rolo
 \*added
- ) será removido.
+) será removido.
 \v Zc.5.4
 Eu a mando,diz o SENHOR dos exércitos,  para que venha à casa do ladrão, e à casa do que jura falsamente pelo meu nome; e fique no meio de sua casa, e a destrua com suas colunas e suas pedras.
 \v Zc.5.5
@@ -276,11 +276,11 @@ E ele me chamou, e falou comigo, dizendo: Eis que aqueles que foram para a terra
 \v Zc.6.9
 E a palavra do SENHOR veio a mim, dizendo:
 \v Zc.6.10
-Toma dos que foram levados cativos: Heldai, e de Tobias, e de Jedaías, que voltaram da Babilônia; e naquele mesmo dia vem, e entra na casa de Josias filho de Sofonias;
+Toma dos que foram levados cativos: Heldai, e de Tobias, e de Jedaías, que voltaram da Babilônia; e naquele mesmo dia vem, e entra na casa de Josias, filho de Sofonias;
 \v Zc.6.11
 Toma prata e ouro, e faze coroas, e põe sobre a cabeça do sumo sacerdote Josué, filho de Jeozadaque;
 \v Zc.6.12
-E fala com ele, dizendo: Assim diz o SENHOR dos exércitos:  Eis aqui o homem cujo nome é Renovo; ele brotará de seu lugar, e edificará o templo do SENHOR;
+E fala com ele, dizendo: Assim diz o SENHOR dos exércitos: Eis aqui o homem cujo nome é Renovo; ele brotará de seu lugar, e edificará o templo do SENHOR;
 \v Zc.6.13
 Ele mesmo edificará o templo do SENHOR, e levará sobre si majestade; e se sentará e dominará em seu trono, e será sacerdote em seu trono; e haverá conselho de paz entre ambos.
 \v Zc.6.14
@@ -442,7 +442,7 @@ e despertarei teus filhos, ó Sião, contra teus filhos, ó Grécia; e farei de 
 \added
 Sião
 \*added
-,como espada de guerreiro.
+, como espada de guerreiro.
 \v Zc.9.14
 E o SENHOR será visto acima deles, e sua flecha sairá como relâmpago; o Senhor DEUS tocará trombeta, e irá como os turbilhões do sul.
 \v Zc.9.15
@@ -493,7 +493,7 @@ Eu assoviarei a eles, e os ajuntarei, porque eu os resgatarei; e serão muitos a
 \added
 no passado
 \*added
- .
+.
 \v Zc.10.9
 E eu os semearei entre os povos, e se lembrarão de mim em lugares remotos; e viverão com seus filhos, e voltarão.
 \v Zc.10.10
@@ -511,7 +511,6 @@ Abre tuas portas, ó Líbano, para que o fogo consuma teus cedros.
 \v Zc.11.2
 Lamenta, ó cipreste, porque o cedro caiu, porque os maiorais foram destruídos. Lamentai, ó carvalhos de Basã, porque o forte bosque foi derrubado.
 \v Zc.11.3
- 
 \added
 Ouve-se
 \*added
@@ -617,7 +616,8 @@ E porei esta terceira parte no fogo, e a refinarei como se refina a prata; e eu 
 \v Zc.14.1
 Eis que vem o dia do SENHOR, e teus despojos serão repartidos no meio de ti.
 \v Zc.14.2
-Porque eu ajuntarei todas as nações em batalha contra Jerusalém; e a cidade será tomada, as casas serão saqueadas, e as mulheres forçadas; e a metade da cidade irá em cativeiro, mas o restante do povo não será exterminado da cidade.
+Porque eu ajuntarei todas as nações em batalha contra Jerusalém; e a cidade será tomada, as casas serão saqueadas, e 
+as mulheres forçadas; e a metade da cidade irá em cativeiro, mas o restante do povo não será exterminado da cidade.
 \v Zc.14.3
 Então o SENHOR virá, e lutará contra essas nações, como ele lutou no dia da batalha.
 \v Zc.14.4
@@ -653,7 +653,7 @@ E habitarão nela, e nunca mais haverá maldição
 \added
 sobre ela
 \*added
- ; porque Jerusalém habitará em segurança.
+; porque Jerusalém habitará em segurança.
 \v Zc.14.12
 E esta será a praga com que o SENHOR ferirá a todos os povos que guerrearam contra Jerusalém: a carne deles se apodrecerá estando eles sobre seus pés, seus olhos se apodrecerão em suas órbitas, e sua língua se lhes apodrecerá em sua boca.
 \v Zc.14.13

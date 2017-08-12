@@ -143,7 +143,7 @@ seu
 \added
 dedicados aos ídolos
 \*added
- .
+.
 \v Os.3.2
 Então eu a comprei para mim por quinze peças de prata, e um ômer e meio de cevada;
 \v Os.3.3
@@ -245,7 +245,7 @@ Efraim será desolado no dia do castigo; nas tribos de Israel eu fiz saber o que
 \added
 acontecerá
 \*added
- .
+.
 \v Os.5.10
 Os príncipes de Judá são como os mudam os limites; derramarei como água meu furor sobre eles.
 \v Os.5.11
@@ -289,14 +289,7 @@ Tal como um bando de assaltantes à espera de um homem, assim é o grupo de sace
 \v Os.6.10
 Na casa de Israel tenho visto coisa detestável; ali Efraim se prostitui, Israel se contamina.
 \v Os.6.11
-Também para ti, ó Judá, há uma ceifa, quando eu reverter o cativeiro 
-\fn
-\key
-reverter o cativeiro
-\*key
-trad. alt. mudar o destino 
-\*fn
-do meu povo.
+Também para ti, ó Judá, há uma ceifa, quando eu restaurar o meu povo de seu infortúnio.
 \v Os.7.1
 Ainda que eu esteja 
 \added
@@ -360,7 +353,6 @@ lit. enganoso
 \*fn
 seus príncipes caem à espada por causa da insolência de suas línguas; por isso serão escarnecidos na terra do Egito.
 \v Os.8.1
- 
 \added
 Põe
 \*added
@@ -370,7 +362,6 @@ O inimigo vem
 \*added
  como uma águia contra a casa do SENHOR, porque violaram meu pacto, e transgrediram minha lei.
 \v Os.8.2
- 
 \added
 Então
 \*added
@@ -572,7 +563,6 @@ lit. queixos
 \*fn
 e lhes dei alimento.
 \v Os.11.5
- 
 \added
 Israel
 \*added
@@ -678,11 +668,10 @@ Mas Jacó fugiu à terra de Arã, e Israel serviu em troca de uma mulher, e por 
 \added
 ovelhas
 \*added
- .
+.
 \v Os.12.13
 Mas o SENHOR por um profeta fez subir a Israel do Egito, e por um profeta foi preservado.
 \v Os.12.14
- 
 \added
 Porém
 \*added

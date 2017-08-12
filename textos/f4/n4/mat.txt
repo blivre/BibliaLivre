@@ -22,7 +22,7 @@ E Arão gerou a Aminadabe; e Aminadabe gerou a Naassom; e Naassom gerou a Salmom
 E Salmom gerou de Raabe a Boaz; e Boaz gerou de Rute a Obede; e Obede gerou a Jessé.
 \v Mt.1.6
 E Jessé gerou ao rei Davi; e 
-Davi gerou Salomão da que 
+ Davi gerou Salomão da que 
 \added
 fora mulher
 \*added
@@ -85,7 +85,7 @@ um filho
 \*key
 TR, RP contêm: o filho dela, o primogênito
 \*fn
-  e lhe pôs por nome JESUS.
+ e lhe pôs por nome JESUS.
 \v Mt.2.1
 E sendo Jesus já nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do oriente a Jerusalém,
 \v Mt.2.2
@@ -102,7 +102,7 @@ E o rei Herodes, ao ouvir
 \added
 isto
 \*added
-,ficou perturbado, e com ele toda Jerusalém.
+, ficou perturbado, e com ele toda Jerusalém.
 \v Mt.2.4
 E tendo reunido todos os chefes dos sacerdotes e escribas do povo, perguntou-lhes onde o Cristo havia de nascer.
 \v Mt.2.5
@@ -143,7 +143,7 @@ da idade
 Então se cumpriu o que foi dito pelo profeta Jeremias, que disse:
 \v Mt.2.18
 Uma voz se ouviu em Ramá, 
-choro, e grande pranto; Raquel chorava por seus filhos, e não quis ser consolada, pois já não existem.
+ choro, e grande pranto; Raquel chorava por seus filhos, e não quis ser consolada, pois já não existem.
 \ref
 Jeremias 31:15 
 \*ref
@@ -474,15 +474,14 @@ Levítico 19:18
 \*ref
 \v Mt.5.44
 Porém eu vos digo: amai vossos inimigos
-e orai pelos que vos 
+ e orai pelos que vos 
 perseguem,
 \fn
 \key
-N
+orai pelos que vos perseguem
 \*key
-orai pelos que vos perseguem : TR, RP: bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem. Compare com Lucas 6:27,28
+TR, RP: bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem. Comparar com Lucas 6:27,28
 \*fn
- 
 \v Mt.5.45
 Para que sejais filhos de vosso Pai que está nos céus; porque ele faz seu sol sair sobre maus e bons, e chover sobre justos e injustos.
 \v Mt.5.46
@@ -492,11 +491,10 @@ E se saudardes somente os vossos irmãos,
  o que fazeis de mais? Não fazem os gentios
 \fn
 \key
-N
+gentios
 \*key
-gentios : TR, RP: cobradores de impostos
+TR, RP: cobradores de impostos
 \*fn
- 
  também assim?
 \v Mt.5.48
 Portanto, sede vós perfeitos, assim como vosso Pai celestial
@@ -534,7 +532,6 @@ E não nos conduzas à tentação, mas livra-nos do mal.
 \fn
 TR, RP contêm: "porque teu é o Reino, o poder, e a glória, para sempre, Amém" ao final do versículo
 \*fn
- 
 \v Mt.6.14
 Porque se perdoardes às pessoas suas ofensas, vosso Pai celestial também vos perdoará;
 \v Mt.6.15
@@ -592,7 +589,7 @@ ou: qual de vós poderá, por sua ansiedade, alongar um pouco sua vida?
 \v Mt.6.28
 E por que andais ansiosos pela roupa? Prestai atenção aos lírios do campo, como crescem; eles nem trabalham nem fiam.
 \v Mt.6.29
-E eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.
+Mas eu vos digo que nem mesmo Salomão, em toda a sua glória, se vestiu como um deles.
 \v Mt.6.30
 Se Deus veste desta maneira a erva do campo, que hoje existe, e amanhã é lançada no forno, não 
 \added
@@ -824,7 +821,7 @@ Jesus
 \added
 de Mateus
 \*added
-,eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
+, eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
 \fn
 \key
 reclinar-se à mesa
@@ -836,13 +833,12 @@ E quando os fariseus viram
 \added
 isto
 \*added
-,perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
+, perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
 \v Mt.9.12
-Porém  
+Porém 
 \added
 Jesus
 \*added
- 
  ouviu, e respondeu:
  Os que têm saúde não precisam de médico, mas sim os que estão doentes.
 \v Mt.9.13
@@ -854,7 +850,6 @@ Porque eu não vim chamar os justos, mas sim os pecadores.
 \fn
 TR, RP contêm: não vim chamar os justos, mas sim os pecadores, ao arrependimento
 \*fn
- 
 \v Mt.9.14
 Então os discípulos de João vieram a ele, e perguntaram: Por que nós e os fariseus jejuamos,
  mas os teus discípulos não jejuam?
@@ -891,7 +886,7 @@ Então Jesus se levantou e o seguiu com seus discípulos.
 \added
 dele
 \*added
-,e tocou a borda de sua roupa;
+, e tocou a borda de sua roupa;
 \v Mt.9.21
 Porque dizia consigo mesma: Se eu tão-somente tocar a roupa dele, serei curada.
 \v Mt.9.22
@@ -932,7 +927,6 @@ Então disse aos seus discípulos: Em verdade a colheita é grande, porém os tr
 \v Mt.9.38
 Portanto rogai ao Senhor da colheita que envie trabalhadores à sua colheita.
 \v Mt.10.1
- 
 \added
 Jesus
 \*added
@@ -1109,11 +1103,10 @@ tradicionalmente “escandalizar-se”
 \v Mt.11.7
 Depois que eles se foram, Jesus começou a dizer às multidões acerca de João: Que saístes ao deserto para ver? Uma cana que se move pelo vento?
 \v Mt.11.8
-Mas que saístes para ver? Um homem vestido com  
+Mas que saístes para ver? Um homem vestido com 
 \added
 roupas
 \*added
- 
  delicadas? Eis que os que usam roupas delicadas estão nas casas dos reis.
 \v Mt.11.9
 Mas que saístes para ver? Um profeta? Sim, eu vos digo, e muito mais que um profeta;
@@ -1154,11 +1147,10 @@ Porque veio João, sem comer nem beber, e dizem: “Ele tem demônio.”
 Veio o Filho do homem, que come e bebe, e dizem: “Eis aqui um homem comilão e beberrão, amigo de cobradores de impostos e pecadores!” Mas a sabedoria prova-se justa por meio de suas obras.
 \fn
 \key
-N
+suas obras
 \*key
-suas obras : TR, RP: seus filhos
+TR, RP: seus filhos
 \*fn
- 
 \v Mt.11.20
 Então ele começou a acusar as cidades em que a maioria de seus milagres haviam sido feitos, por não terem se arrependido:
 \v Mt.11.21
