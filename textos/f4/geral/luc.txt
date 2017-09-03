@@ -3171,7 +3171,7 @@ gado
 \added
 à mesa
 \*added
- .
+.
 \v Lc.17.8
 E não lhe diga antes: Prepara-me o jantar, e apronta-te, e serve-me, até que eu tenha comido e bebido; e depois, come e bebe tu.
 \v Lc.17.9
@@ -3179,15 +3179,13 @@ Por acaso
 \added
 o senhor
 \*added
- agradece a tal servo, porque fez o que lhe foi mandado?{tr,rp: Acho que não.}{trnc: 
-\fn
+ agradece a tal servo, porque fez o que lhe foi mandado?{tr,rp: Acho que não.}
+{trnc:\fn
 N4 omite "Acho que não" 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: "Acho que não" ao fim do versículo 
-\*fn
-}
+\*fn}
 \v Lc.17.10
 Assim também vós, quando fizerdes tudo o que vos for mandado, dizei: Somos servos inúteis, porque fizemos 
 \added

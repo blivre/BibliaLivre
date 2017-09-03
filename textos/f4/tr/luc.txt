@@ -2852,7 +2852,7 @@ gado
 \added
 à mesa
 \*added
- .
+.
 \v Lc.17.8
 E não lhe diga antes: Prepara-me o jantar, e apronta-te, e serve-me, até que eu tenha comido e bebido; e depois, come e bebe tu.
 \v Lc.17.9
