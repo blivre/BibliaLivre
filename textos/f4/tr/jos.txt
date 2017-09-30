@@ -93,7 +93,11 @@ E caminhando eles, chegaram ao monte, e estiveram ali três dias, até que os qu
 \v Js.2.23
 E voltando-se os dois homens, desceram do monte, e passaram, e vieram a Josué filho de Num, e contaram-lhe todas as coisas que lhes haviam acontecido.
 \v Js.2.24
-E disseram a Josué: O SENHOR entregou toda a terra em nossas mãos; e também todos os moradores do país estão desmaiados diante de nós.
+E disseram a Josué: O SENHOR entregou toda esta terra em nossas mãos; e também todos os moradores desta terra estão apavorados
+\fn
+Lit. derretidos
+\*fn
+ por nossa causa.
 \v Js.3.1
 E levantou-se Josué de manhã, e partiram de Sitim, e vieram até o Jordão, ele e todos os filhos de Israel, e repousaram ali antes que passassem.
 \v Js.3.2
@@ -923,7 +927,7 @@ Vós, pois, demarcareis a terra em sete partes, e me trareis a descrição aqui,
 \v Js.18.7
 Porém os levitas nenhuma parte têm entre vós; porque o sacerdócio do SENHOR é a herança deles: Gade também e Rúben, e a meia tribo de Manassés, já receberam sua herança da outra parte do Jordão ao oriente, a qual lhes deu Moisés servo do SENHOR.
 \v Js.18.8
-Levantando-se, pois, aqueles homens, foram: e mandou Josué aos que iam para demarcar a terra, dizendo-lhes: Ide, percorrei a terra, e demarcai-a, e voltai a mim, para que eu vos lance as sortes aqui diante do SENHOR em Siló.
+Então aqueles homens se levantaram e se foram; e Josué deu ordem aos que iam demarcar a terra, dizendo-lhes: Ide, percorrei a terra, e demarcai-a, e voltai a mim, para que eu vos lance as sortes aqui diante do SENHOR em Siló.
 \v Js.18.9
 Foram, pois, aqueles homens e passaram pela terra, demarcando-a por cidades em sete partes em um livro, e voltaram a Josué ao acampamento em Siló.
 \v Js.18.10

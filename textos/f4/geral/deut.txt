@@ -892,7 +892,7 @@ Quando se vender a ti teu irmão hebreu ou hebreia, e te houver servido seis ano
 \v Dt.15.13
 E quando o despedires livre de ti, não o enviarás vazio:
 \v Dt.15.14
-Tu lhe abastecerás generosamente de tuas ovelhas, de tua eira, e de teu lagar; lhe darás daquilo em que o SENHOR te houver abençoado.
+Tu lhe abastecerás generosamente de tuas ovelhas, de tua eira, e de tua prensa de uvas; tu lhe darás daquilo em que o SENHOR te houver abençoado.
 \v Dt.15.15
 E te lembrarás que foste servo na terra do Egito, e que o SENHOR teu Deus te resgatou: portanto eu te mando isto hoje.
 \v Dt.15.16
@@ -936,7 +936,7 @@ E te alegrarás diante do SENHOR teu Deus, tu, e teu filho, e tua filha, e teu s
 \v Dt.16.12
 E lembra-te que foste servo no Egito; portanto guardarás e cumprirás estes estatutos.
 \v Dt.16.13
-A solenidade das cabanas farás por sete dias, quando houveres feito a colheita de tua eira e de teu lagar.
+A solenidade das cabanas farás por sete dias, quando houveres feito a colheita de tua eira e de tua prensa de uvas.
 \v Dt.16.14
 E te alegrarás em tuas solenidades, tu, e teu filho, e tua filha, e teu servo, e tua serva, e o levita, e o estrangeiro, e o órfão, e a viúva, que estão em tuas povoações.
 \v Dt.16.15
@@ -1799,7 +1799,11 @@ E disse: esconderei deles meu rosto, verei qual será seu fim; pois são geraç�
 Eles me provocaram ciúmes com o que não é Deus; com suas vaidades provocaram-me à ira; eu também provocarei os ciúmes 
 com aqueles que não são povo, e com uma nação insensata eu os provocarei à ira.
 \v Dt.32.22
-Porque um fogo se acendeu em meu furor, e arderá até as profundezas do mundo dos mortos; e consumirá a terra e seus 
+Porque um fogo se acendeu em meu furor, e arderá até as profundezas do Xeol;
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e consumirá a terra e seus 
 frutos, e abrasará os fundamentos dos montes.
 \v Dt.32.23
 Eu trarei males sobre eles; Gastarei neles minhas flechas.

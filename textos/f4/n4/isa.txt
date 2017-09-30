@@ -333,7 +333,8 @@ E haverá uma tenda para sombra contra o calor do dia, e para refúgio e abrigo 
 \v Is.5.1
 Agora cantarei a meu amado o cântico de meu querido de sua vinha: meu amado tem uma vinha, em um morro fértil;
 \v Is.5.2
-E a cercou, e limpou das pedras, e a plantou de excelentes videiras, e edificou no meio dela uma torre; e também fundou nela um lagar; e esperava que desse uvas boas, porém deu uvas imprestáveis.
+E a cercou, e limpou das pedras, e a plantou de excelentes videiras, e edificou no meio dela uma torre; e também 
+fundou nela uma prensa de uvas; e esperava que desse uvas boas, porém deu uvas imprestáveis.
 \v Is.5.3
 E agora, ó moradores de Jerusalém, e vós homens de Judá? Julgai, eu vos peço, entre mim e minha vinha.
 \v Is.5.4
@@ -386,31 +387,28 @@ apenas
 1 omer = 10 efas, ou seja, a produção seria de apenas um décimo das sementes
 \*fn
 \v Is.5.11
-Ai dos que se levantam cedo pela manhã, para buscarem bebida alcoólica, 
-\added
-e
-\*added
- continuam até a noite, 
+Ai dos que se levantam cedo pela manhã, para buscarem bebida alcoólica, e continuam até a noite, 
 \added
 até que
 \*added
  o vinho os esquente.
 \v Is.5.12
-E harpas, liras, tamborins, gaitas e vinho há em seus banquetes; porém não olham para a obra do SENHOR, nem prestam atenção no agir das mãos deles.
+E harpas, liras, tamborins, gaitas e vinho há em seus banquetes; porém não olham para a obra do SENHOR, nem veem a 
+obra de suas próprias mãos.
 \v Is.5.13
-Por isso meu povo será levado cativo, porque não tem conhecimento; e seus nobres sofrem de fome, e sua multidão está seca de sede.
+Por isso meu povo será levado cativo, porque não tem conhecimento; seus nobres terão fome, e sua multidão se secará de sede.
 \v Is.5.14
-Por isso o mundo dos mortos alargou seu apetite, e sua boca se abriu tanto que não se pode medir, para que caia a nobreza de 
+Por isso o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ alargou seu avidez, e sua boca se abriu tanto que não se pode medir, e 
 \added
-Jerusalém
+ali
 \*added
-,sua multidão, com todo o seu ruído 
-\added
-de festa
-\*added
-,e com os que nela festejam.
+descerão a nobreza e também a multidão, em meio a barulhos e com os que festejam.
 \v Is.5.15
-Então os seres humanos serão abatidos, e os homens serão humilhados; e os olhos dos arrogantes se humilharão.
+Então as pessoas serão rebaixadas, e os homens serão humilhados; e os olhos dos arrogantes se humilharão.
 \v Is.5.16
 Mas o SENHOR dos exércitos será exaltado com juízo; e Deus, o Santo, será santificado com justiça.
 \v Is.5.17
@@ -455,7 +453,6 @@ que se acham
 \*added
  corajosos para beberem vinho, e homens fortes para misturarem bebida alcoólica!
 \v Is.5.23
- 
 \added
 Ai d
 \*added
@@ -577,9 +574,9 @@ E a cabeça de Efraim é Samaria, e o cabeça de Samaria é o filho de Remalias.
 \v Is.7.10
 E o SENHOR continuou a falar a Acaz, dizendo:
 \v Is.7.11
-Pede para ti um sinal do SENHOR teu Deus; pede ou de baixo nas profundezas, ou de cima nas alturas.
+Pede para ti um sinal do SENHOR teu Deus; pede ou de baixo, das profundezas, ou de cima, das alturas.
 \v Is.7.12
-Mas Acaz disse: Não pedirei, nem tentarei ao SENHOR.
+Mas Acaz disse: Não pedirei, nem porei teste ao SENHOR.
 \v Is.7.13
 Então 
 \added
@@ -1093,39 +1090,33 @@ Que feria aos povos com furor com golpes sem fim, que com ira dominava as naçõ
 \v Is.14.7
 A terra descansa, já está sossegada; gritam de prazer com alegria.
 \v Is.14.8
-Até os pinheiros se alegram por causa de ti, 
-\added
-e
-\*added
- os cedros do Líbano, dizendo: Desde que tu caíste, ninguém mais sobe contra nós, para nos cortar.
+Até os pinheiros se alegram por causa de ti, e os cedros do Líbano, dizendo: Desde que caíste, ninguém mais sobe 
+contra nós para nos cortar.
 \v Is.14.9
-O mundo dos mortos desde 
-\added
-suas
-\*added
- profundezas se agitou por causa de ti, para sair ao teu encontro em tua chegada; por causa de ti ele despertou aos mortos, todos os líderes da terra, e fez levantar de seus tronos a todos os reis das nações.
+O Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ desde as profundezas se agitou por causa de ti, para sair ao teu encontro em tua chegada; por causa de ti ele 
+despertou os mortos, todos os líderes da terra, e fez levantar de seus tronos todos os reis das nações.
 \v Is.14.10
-Eles todos responderão e te dirão: Tu enfraqueceste tal como nós, e te tornaste semelhante a nós.
+Todos eles responderão e te dirão: Tu te enfraqueceste como nós, e te tornaste semelhante a nós.
 \v Is.14.11
-Tua soberba foi derrubada ao mundo dos mortos, assim como o som de tuas harpas; larvas se espalharão por debaixo de ti, e vermes te cobrirão.
+Tua soberba foi derrubada ao Xeol, assim como o som de tuas harpas; larvas se espalharão por debaixo de ti, e vermes te cobrirão.
 \v Is.14.12
 Como caíste do céu, ó “luminoso”, filho do amanhecer! Cortado foste até a terra, tu que enfraquecias as nações!
 \v Is.14.13
-E tu dizias em teu coração: Subirei ao céu; levantarei o meu trono acima das estrelas de Deus, e me sentarei no monte da congregação, nas regiões distantes do norte.
+E dizias em teu coração: Subirei ao céu; levantarei o meu trono acima das estrelas de Deus, e me sentarei no monte da congregação, nas regiões distantes do norte.
 \v Is.14.14
-Subirei sobre as alturas das nuvens, 
-\added
-e
-\*added
- serei semelhante ao Altíssimo!
+Subirei sobre as alturas das nuvens, e serei semelhante ao Altíssimo!
 \v Is.14.15
-Porém tu serás derrubado ao mundo dos mortos, às profundezas da cova.
+Porém tu serás derrubado ao Xeol, às profundezas da cova.
 \v Is.14.16
 Os que te olharem prestarão atenção em ti, pensarão, 
 \added
 e dirão
 \*added
- : É este o homem que abalava a terra, e fazia os reinos tremerem?
+: É este o homem que abalava a terra, e fazia os reinos tremerem?
 \v Is.14.17
 Que fazia do mundo como um deserto, e arruinava suas cidades? Que nunca soltava seus prisioneiros para 
 \added
@@ -1203,17 +1194,13 @@ e
 \*added
  é devastada.
 \v Is.15.2
- 
 \added
 Os moradores
 \*added
  sobem ao templo, e a Dibom, aos lugares altos, para chorar; Moabe grita de lamento por Nebo e por Medeba; em todas as suas cabeças há calva, e toda barba está raspada.
 \v Is.15.3
-Eles se vestem de sacos em suas ruas; em seus terraços, e em suas praças todos andam gritando de lamento, 
-\added
-e
-\*added
- descem chorando.
+Eles se vestem de sacos em suas ruas; em seus terraços, e em suas praças todos andam gritando de 
+lamento, e descem chorando.
 \v Is.15.4
 Tanto Hesbom como Eleale vão gritando, até Jaaz se ouve sua voz; por causa disso os soldados armados de Moabe gritam, a alma de cada um está abalada dentro de si.
 \v Is.15.5
@@ -1287,7 +1274,8 @@ e
 \v Is.16.9
 Por isso lamentarei com pranto por Jezer, a vide de Sibma; eu te regarei com minhas lágrimas, ó Hesbom e Eleale; pois a alegria de teus frutos de verão e de tua colheita caiu.
 \v Is.16.10
-E foram tirados a alegria e o prazer do campo frutífero; e nas vinhas não se canta, nem grito de alegria se faz; o pisador não pisará as uvas nos lagares; eu pus fim aos clamores de alegria.
+E foram tirados a alegria e o prazer do campo frutífero; e nas vinhas não se canta, nem grito de alegria se faz; o 
+pisador não pisará as uvas nas prensas; eu pus fim aos clamores de alegria.
 \v Is.16.11
 Por isso meus órgãos fazem ruído por Moabe como um harpa; e meu interior por Quir- Heres.
 \v Is.16.12
@@ -2227,17 +2215,22 @@ Assim, pois, a palavra do SENHOR lhes será mandamento sobre mandamento, mandame
 \v Is.28.14
 Portanto ouvi a palavra do SENHOR, vós homens escarnecedores, dominadores deste povo, que está em Jerusalém;
 \v Is.28.15
-Pois dizeis: Fizemos um pacto com a morte, e com o mundo dos mortos fizemos um contrato: quando passar a abundância de açoites, não chegará a nós; pois pusemos a mentira como nosso refúgio, e abaixo da falsidade nos escondemos.
+Pois dizeis: Fizemos um pacto com a morte, e com o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ fizemos um acordo: quando passar a abundância de açoites, 
+não chegará a nós; pois pusemos a mentira como nosso refúgio, e sob a falsidade nos escondemos.
 \v Is.28.16
 Por isso, assim diz o Senhor DEUS: Eis que eu fundo em Sião uma pedra; uma pedra provada, pedra preciosa de esquina, firmemente fundada; quem crer, não 
-se desesperará.
+precisará fugir às pressas.
 \fn
-desesperará = lit. Terá pressa 
+precisará fugir às pressas = lit. Terá pressa 
 \*fn
 \v Is.28.17
 E porei o juízo como linha de medida, e a justiça como prumo; o granizo varrerá o refúgio da mentira, e as águas inundarão o esconderijo;
 \v Is.28.18
-E vosso pacto com a morte se anulará, e vosso contrato com o mundo dos mortos não será cumprido; e quando a abundância de açoites passar, então por ela sereis esmagados.
+E vosso pacto com a morte se anulará, e vosso acordo com o Xeol não será cumprido; e quando a abundância de açoites passar, então por ela sereis esmagados.
 \v Is.28.19
 Logo que começar a passar, ela vos tomará, porque todas as manhãs passará, de dia e de noite; e será que só de ser dada a notícia, 
 \added
@@ -2381,7 +2374,6 @@ suas
 \*added
  intenções; e fazem suas obras às escuras, e dizem: Quem nos vê? Quem nos conhece?
 \v Is.29.16
- 
 \added
 Como é grande
 \*added
@@ -3203,14 +3195,18 @@ Eis que voltarei voltar a sombra dos degraus nos quais o sol desceu na  escadari
 \v Is.38.9
 Escritura de Ezequias, rei de Judá, quando ficou doente, e se sarou de sua enfermidade:
 \v Is.38.10
-Disse eu: No melhor
+Disse eu: No meio
 \fn
 \key
-melhor
+meio
 \*key
-obscuro; trad. alt. meio – Almeida 1819, KJV 'cortadura', corte 
+obscuro; Almeida 1819, KJV 'cortadura', corte 
 \*fn
-de minha vida, irei às portas do mundo dos mortos; privado estou do resto dos meus anos.
+da minha vida, irei às portas do Xeol;
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ privado estou do resto dos meus anos.
 \v Is.38.11
 Eu disse: Não verei 
 \added
@@ -3253,7 +3249,7 @@ para trás de ti = lit. Para trás de tuas costas
 \*fn
  todos os meus pecados.
 \v Is.38.18
-Porque o mundo dos mortos não te louvará, 
+Porque o Xeol não te louvará, 
 \added
 nem
 \*added
@@ -4982,13 +4978,16 @@ obscuro – trad. alt. Onde quer que tu [a] vês – lit. mão (?)
 \*fn
 que tu vês.
 \v Is.57.9
-E foste ao rei com óleo, e multiplicaste teus perfumes; e enviaste teus embaixadores para longe, e desceste até o mundo dos mortos.
+E foste ao rei com óleo, e multiplicaste teus perfumes; e enviaste teus embaixadores para longe, e desceste até o Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Is.57.10
 Em tua longa viagem te cansaste, 
 \added
 porém
 \*added
- não disseste: Não tenho mais esperança.Achaste força em tua mão, por isso não desanimaste.
+ não disseste: Não tenho mais esperança. Achaste força em tua mão, por isso não desanimaste.
 \fn
 \key
 desanimaste
@@ -5470,9 +5469,10 @@ E os chamarão de povo santo, redimidos do SENHOR; e tu serás chamada “A Proc
 \v Is.63.1
 Quem é este, que vem de Edom, de Bozra, com vestes salpicadas de vermelho, este ornado em sua vestimenta, que marcha com grande força? Eu, o que falo em justiça, poderoso para salvar.
 \v Is.63.2
-Por que tu estás de roupa vermelha, e tuas vestes como de alguém que pisa num lagar?
+Por que tu estás de roupa vermelha, e tuas vestes como de alguém que pisa em uma prensa de uvas?
 \v Is.63.3
-Eu sozinho pisei o lagar, e ninguém dos povos houve comigo; e os pisei em minha ira, e os esmaguei em meu furor; e o sangue deles salpicou sobre minhas roupas, e sujei toda a minha vestimenta.
+Eu sozinho pisei na prensa de uvas, e ninguém dos povos houve comigo; e os pisei em minha ira, e os esmaguei em meu 
+furor; e o sangue deles salpicou sobre minhas roupas, e sujei toda a minha roupa.
 \v Is.63.4
 Porque o dia da vingança estava em meu coração; e o ano de meus redimidos havia chegado.
 \v Is.63.5

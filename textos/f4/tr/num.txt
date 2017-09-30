@@ -959,11 +959,11 @@ E Depois moveu o povo de Hazerote, e assentaram o acampamento no deserto de Par�
 \v Nm.13.1
 E o SENHOR falou a Moisés, dizendo:
 \v Nm.13.2
-Envia tu homens que reconheçam a terra de Canaã, a qual eu dou aos filhos de Israel: de cada tribo de seus pais enviareis um homem, cada um príncipe entre eles.
+Envia homens que reconheçam a terra de Canaã, a qual eu dou aos filhos de Israel; de cada tribo de seus pais enviareis um homem, cada um líder entre eles.
 \v Nm.13.3
-E Moisés os envio desde o deserto de Parã, conforme a palavra do SENHOR: e todos aqueles homens eram príncipes dos filhos de Israel.
+E Moisés os enviou desde o deserto de Parã, conforme a palavra do SENHOR; e todos aqueles homens eram príncipes dos filhos de Israel.
 \v Nm.13.4
-Os nomes dos quais são estes: Da tribo de Rúben, Samua filho de Zacur.
+Os nomes dos quais são estes: da tribo de Rúben, Samua filho de Zacur.
 \v Nm.13.5
 Da tribo de Simeão, Safate filho de Hori.
 \v Nm.13.6
@@ -1253,13 +1253,18 @@ E disse Moisés: Em isto conhecereis que o SENHOR me enviou para que fizesse tod
 \v Nm.16.29
 Se como morrem todos os homens morrerem estes, ou se forem eles visitados à maneira de todos os homens, o SENHOR não me enviou.
 \v Nm.16.30
-Mas se o SENHOR fizer uma nova coisa, e a terra abrir sua boca, e os tragar com todas suas coisas, e descerem vivos ao mundo dos mortos, então conhecereis que estes homens irritaram ao SENHOR.
+Mas se o SENHOR fizer uma nova coisa, e a terra abrir sua boca, e os tragar com todas suas coisas, e descerem vivos ao 
+Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ então conhecereis que estes homens irritaram ao SENHOR.
 \v Nm.16.31
 E aconteceu, que em acabando ele de falar todas estas palavras, rompeu-se a terra que estava debaixo deles:
 \v Nm.16.32
 E abriu a terra sua boca, e tragou-os a eles, e a suas casas, e a todos os homens de Coré, e a todos os seus pertences.
 \v Nm.16.33
-E eles, com tudo o que tinham, desceram vivos ao mundo dos mortos, e cobriu-os a terra, e pereceram do meio da congregação.
+E eles, com tudo o que tinham, desceram vivos ao Xeol, a a terra os cobriu, e pereceram do meio da congregação.
 \v Nm.16.34
 E todo Israel, os que estavam em derredor deles, fugiram ao grito deles; porque diziam: Não nos trague também a terra.
 \v Nm.16.35
@@ -1373,13 +1378,13 @@ E falou o SENHOR a Moisés, dizendo:
 \v Nm.18.26
 Assim falarás aos levitas, e lhes dirás: Quando tomardes dos filhos de Israel os dízimos que vos dei deles por vossa herança, vós apresentareis deles em oferta movida ao SENHOR o dízimo dos dízimos.
 \v Nm.18.27
-E se vos contará vossa oferta como grão da eira, e como plenitude do lagar.
+E se vos contará vossa oferta como grão da eira, e como plenitude da prensa de uvas.
 \v Nm.18.28
 Assim oferecereis também vós oferta ao SENHOR de todos vossos dízimos que houverdes recebido dos filhos de Israel; e dareis deles a oferta do SENHOR a Arão o sacerdote.
 \v Nm.18.29
 De todos vossos presentes oferecereis toda oferta ao SENHOR; de todo o melhor deles oferecereis a porção que será consagrada.
 \v Nm.18.30
-E lhes dirás: Quando oferecerdes o melhor deles, será contado aos levitas por fruto da era, e como fruto do lagar.
+E lhes dirás: Quando oferecerdes o melhor deles, será contado aos levitas por fruto da eira, e como produto da prensa de uvas.
 \v Nm.18.31
 E o comereis em qualquer lugar, vós e vossa família: pois é vossa remuneração por vosso ministério no tabernáculo do testemunho.
 \v Nm.18.32

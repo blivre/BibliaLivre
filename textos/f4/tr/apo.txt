@@ -94,7 +94,11 @@ Eu
 \added
 sou
 \*added
- o que vivo, e fui morto; e eis que eu vivo para todo o sempre; Amém. E eu tenho as chaves do mundo dos mortos, e da morte.
+ o que vivo, e fui morto; e eis que eu vivo para todo o sempre; Amém. E eu tenho as chaves  do Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e da morte.
 \v Ap.1.19
 Escreve as coisas que tens visto, e as que são, e as que estão para acontecer;
 \v Ap.1.20
@@ -425,17 +429,21 @@ E quando ele abriu o segundo selo, eu ouvi o segundo animal dizendo: Vem, e vê.
 \v Ap.6.4
 E saiu outro cavalo vermelho; e ao que estava sentado sobre ele foi concedido que tirasse a paz da terra, e que uns aos outros se matassem; e uma grande espada lhe foi dada.
 \v Ap.6.5
-E quando ele abriu o terceiro celo, eu ouvi o terceiro animal dizer: Vem, e vê.E olhei, e eis um cavalo preto, e o que estava sentado sobre ele tinha uma balança na mão dele.
+E quando ele abriu o terceiro celo, eu ouvi o terceiro animal dizer: Vem, e vê. E olhei, e eis um cavalo preto, e o que estava sentado sobre ele tinha uma balança na sua mão.
 \v Ap.6.6
 E ouvi uma voz no meio dos quatro animais, dizendo: Uma medida de trigo por um dinheiro, e três medidas de cevada por um dinheiro; e não danifiques ao azeite e ao vinho.
 \v Ap.6.7
 E quando ele abriu o quarto selo, eu ouvi a voz do quarto animal dizendo: Vem, e vê.
 \v Ap.6.8
-E eu olhei, e eis um cavalo amarelo-esverdeado, e o que estava sentado sobre ele, seu nome 
+E eu olhei, e eis um cavalo amarelo, e o que estava sentado sobre ele, seu nome 
 \added
 era
 \*added
- Morte; e o mundo dos mortos o seguia. E foi-lhes dada autoridade para matar a quarta 
+ Morte; e o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ o seguia. E foi-lhes dada autoridade para matar a quarta 
 \added
 parte
 \*added
@@ -443,7 +451,7 @@ parte
 \added
 por doença
 \*added
-,e com os animais ferozes da terra.
+, e com os animais ferozes da terra.
 \v Ap.6.9
 E quando ele abriu o quinto selo, eu vi debaixo do altar as almas dos que foram mortos por causa da palavra de Deus, e por causa do testemunho que tinham.
 \v Ap.6.10
@@ -1029,15 +1037,15 @@ já
 \v Ap.14.19
 E o anjo lançou sua foice à terra, e recolheu 
 \added
-as uvas d
+as uvas
 \*added
- a vinha da terra, e 
+ da vinha da terra, e 
 \added
 as
 \*added
- lançou no lagar da grande ira de Deus.
+ lançou na prensa da grande ira de Deus.
 \v Ap.14.20
-E o lagar foi pisado fora da cidade, e saiu sangue do lagar até os freios dos cavalos, por mil e seiscentos estádios.
+E a prensa foi pisada fora da cidade, e saiu sangue da prensa até os freios dos cavalos, por mil e seiscentos estádios.
 \v Ap.15.1
 E eu vi outro grande e admirável sinal no céu: sete anjos, que tinham as sete últimas pragas; porque nelas a ira de Deus se torna completa.
 \v Ap.15.2
@@ -1332,7 +1340,8 @@ E ele estava vestido de uma roupa tingida em sangue, e o nome dele é chamado Pa
 \v Ap.19.14
 E os exércitos no céu o seguiam em cavalos brancos, vestidos de linho fino branco e puro.
 \v Ap.19.15
-E da boca dele saía uma espada afiada, para com ela ferir às nações; e ele as dominará com vara de ferro; e ele pisa o lagar do vinho da ira e da indignação do Deus Todo-Poderoso.
+E da boca dele saía uma espada afiada, para com ela ferir às nações; e ele as dominará com vara de ferro; e ele pisa 
+na prensa do vinho da ira e da indignação do Deus Todo-Poderoso.
 \v Ap.19.16
 E ele tem sobre 
 \added
@@ -1411,9 +1420,13 @@ livro
 \*added
  da vida); e os mortos foram julgados pelas coisas que estavam escritas nos livros, segundo as obras deles.
 \v Ap.20.13
-E o mar entregou os mortos que nele havia; e a morte e o mundo dos mortos entregaram os mortos que neles havia; e foram julgados cada um segundo as obras deles.
+E o mar entregou os mortos que nele havia; e a morte e o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ entregaram os mortos que neles havia; e foram julgados cada um segundo as obras deles.
 \v Ap.20.14
-E a morte e o mundo dos mortos foram lançados no lago de fogo; esta é a segunda morte.
+E a morte e o Xeol foram lançados no lago de fogo; esta é a segunda morte.
 \v Ap.20.15
 E todo aquele que não fosse achado escrito no livro da vida foi lançado no lago de fogo.
 \v Ap.21.1

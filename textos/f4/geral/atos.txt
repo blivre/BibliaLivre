@@ -171,7 +171,14 @@ Porque Davi diz sobre ele: Eu sempre via ao Senhor diante de mim, porque ele est
 \v At.2.26
 Por isso meu coração está contente, e minha língua se alegra, e até mesmo minha carne repousará em esperança.
 \v At.2.27
-Pois tu não abandonarás minha alma no mundo dos mortos, nem entregarás a teu santo, para que veja corrupção.
+Pois tu não abandonarás minha alma no Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ nem permitirás que o teu santo veja a degradação.
+\fn
+Ou: deterioração, putrefação. Também no v. 31
+\*fn
 \v At.2.28
 Tu tens me feito conhecer os caminhos da vida; tu me encherás de alegria com tua face.
 \v At.2.29
@@ -180,25 +187,24 @@ Homens irmãos, é lícito eu vos dizer abertamente sobre o patriarca Davi, que 
 Portanto, sendo ele profeta, e sabendo que Deus tinha lhe prometido com juramento que{n4: faria 
 \added
 a um
-\*added
- }{tr,rp:,} da sua descendência 
+\*added}
+{tr,rp:,} da sua descendência 
 \fn
 \key
 da sua descendência
 \*key
 lit. do fruto de seus lombos, i.e., de um descendente biológico 
 \*fn
-{tr,rp: segundo a carne, levantaria ao Cristo para} se sentar no seu trono;{trnc,n4: 
-\fn
-TR, RP: a um da sua descendência segundo a carne, levantaria ao Cristo para se sentar N4: faria [a um] da sua descendência se sentar 
-\*fn
-}
+{tr,rp: segundo a carne, levantaria ao Cristo para} se sentar no seu trono;
+{trnc,n4:\fn
+TR, RP: a um da sua descendência segundo a carne, levantaria ao Cristo para se sentar N4: faria [a um] da sua descendência se assentar 
+\*fn}
 \v At.2.31
 Vendo 
 \added
 -o
 \*added
- com antecedência, falou da ressurreição do Cristo, que a alma dele não foi abandonada no mundo dos mortos, nem a carne dele viu corrupção.
+ com antecedência, falou da ressurreição do Cristo, que a sua alma não foi abandonada no Xeol, nem a sua carne viu a degradação.
 \v At.2.32
 A este Jesus Deus ressuscitou; do qual todos nós somos testemunhas.
 \v At.2.33
@@ -214,7 +220,7 @@ E eles, ao ouvirem
 \added
 estas coisas
 \*added
-,foram afligidos como que perfurados de coração, e disseram a Pedro, e aos outros apóstolos: Que faremos, homens irmãos?
+, foram afligidos como que perfurados de coração, e disseram a Pedro, e aos outros apóstolos: Que faremos, homens irmãos?
 \v At.2.38
 E Pedro lhes disse: Arrependei-vos, e batize-se cada um de vós no nome de Jesus Cristo, para perdão dos pecados; e vós recebereis o dom do Espírito Santo.
 \v At.2.39
@@ -280,7 +286,7 @@ E, tomando-o pela mão direita, levantou
 \added
 -o
 \*added
- ; e logo os seus pés e tornozelos ficaram firmes.
+; e logo os seus pés e tornozelos ficaram firmes.
 \v At.3.8
 E ele, saltando, pôs-se de pé, e andou, e entrou com eles no Templo, andando, e saltando, e louvando a Deus.
 \v At.3.9
@@ -405,7 +411,14 @@ eles
 \*added
 .
 \v At.4.15
-E mandando-os saírem fora do Conselho, discutiam entre si,
+E mandando-os saírem do supremo conselho,
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ discutiam entre si,
 \v At.4.16
 Dizendo: O que faremos a estes homens? Porque um sinal notório foi feito por eles, manifesto a todos os que habitam em Jerusalém, e não podemos negar.
 \v At.4.17
@@ -445,22 +458,22 @@ Que{tr,rp: pela}{n4: pelo Espírito Santo
 \fn
 TR, RP omitem “pelo Espírito Santo” 
 \*fn
-por meio da} boca{trnc: 
-\fn
+por meio da} boca
+{trnc:\fn
 N4 contém: Que pelo Espírito Santo, por meio da boca 
-\*fn
-} de{n4: nosso pai, 
+\*fn}
+ de{n4: nosso pai, 
 \fn
 i.e. ancestral 
 \*fn
 \fn
 TR, RP omitem “nosso pai” 
-\*fn
-} teu servo Davi{trnc: 
-\fn
+\*fn}
+ teu servo Davi
+{trnc:\fn
 N4 acrescenta: “nosso pai” 
-\*fn
-} disseste: Por que os gentios se irritam, e os povos gastam seus pensamentos em coisas vãs?
+\*fn}
+ disseste: Por que os gentios se irritam, e os povos gastam seus pensamentos em coisas vãs?
 \v At.4.26
 Os reis da terra se levantaram, e os príncipes se juntaram em um mesmo 
 \added
@@ -489,7 +502,7 @@ Porque também nenhum necessitado havia entre eles; porque todos os que possuía
 \added
 -as
 \*added
-,traziam o valor das coisas vendidas, e 
+, traziam o valor das coisas vendidas, e 
 \added
 o
 \*added
@@ -503,7 +516,7 @@ Tendo ele uma propriedade de terra, vendeu
 \added
 -a
 \*added
-,e trouxe o valor, e 
+, e trouxe o valor, e 
 \added
 o
 \*added
@@ -527,7 +540,6 @@ parte
 \*added
  do valor da propriedade?
 \v At.5.4
- 
 \added
 Se
 \*added
@@ -535,7 +547,7 @@ Se
 \added
 tua propriedade
 \*added
-,ela não seria mantida contigo? E, tendo sido vendida, 
+, ela não seria mantida contigo? E, tendo sido vendida, 
 \added
 o dinheiro da venda
 \*added
@@ -605,7 +617,15 @@ E eles, ouvindo
 \added
 isto
 \*added
-,entraram de manhã cedo no templo, e ensinavam. Mas vindo o sumo sacerdote, e os que estavam com ele, chamaram ao Conselho Principal, e a todos os anciãos dos filhos de Israel, e mandaram à prisão, para que os trouxessem.
+, entraram de manhã cedo no templo, e ensinavam. Mas vindo o sumo sacerdote, e os que estavam com ele, chamaram ao 
+supremo conselho,
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ e a todos os anciãos dos filhos de Israel, e mandaram à prisão, para que os trouxessem.
 \v At.5.22
 Mas quando os oficiais vieram, não os acharam na prisão; e voltando, anunciaram,
 \v At.5.23
@@ -629,7 +649,7 @@ mas
 \*added
  não com violência, porque temiam ao povo, para que não fossem apedrejados.
 \v At.5.27
-E quando os trouxeram, apresentaram-nos ao Supremo Conselho. E o sumo sacerdote perguntou a eles, dizendo:
+E quando os trouxeram, apresentaram-nos ao supremo conselho. E o sumo sacerdote perguntou a eles, dizendo:
 \v At.5.28
 Não vos ordenamos expressamente para não ensinardes 
 \added
@@ -659,15 +679,16 @@ E nós somos testemunhas dele quanto a estas palavras, e também o Espírito San
 \v At.5.33
 E eles, ouvindo 
 \added
-isto
+isso
 \*added
-,retalharam-se de raiva, e planejaram matá-los.
+, enfureceram-se grandemente, e planejaram matá-los.
 \v At.5.34
-Mas, levantando-se no Supremo Conselho um certo fariseu, de nome Gamaliel, instrutor da Lei, bem honrado por todo o povo, ele mandou levarem aos apóstolos para fora por um pouco 
+Mas, levantando-se no supremo conselho um certo fariseu, de nome Gamaliel, instrutor da Lei, bem honrado por todo o 
+povo, ele mandou levarem aos apóstolos para fora por um pouco 
 \added
 de tempo
 \*added
- .
+.
 \v At.5.35
 E lhes disse: Homens israelitas, olhai por vós mesmos, quanto ao que haveis de fazer a estes homens;
 \v At.5.36
@@ -697,7 +718,8 @@ mais
 \*added
  falassem no nome de Jesus; e os deixaram ir.
 \v At.5.41
-Então eles saíram da presença do Supremo Conselho, alegres por terem sido considerados dignos de serem humilhados por causa do nome dele.
+Então eles saíram da presença do supremo conselho, alegres por terem sido considerados dignos de serem humilhados por 
+causa do nome dele.
 \v At.5.42
 E todos os dias no Templo, e pelas casas, não paravam de ensinar e de anunciar a Jesus Cristo.
 \v At.6.1
@@ -709,7 +731,7 @@ o número
 \added
 de entrega de comida
 \*added
- .
+.
 \v At.6.2
 E os doze, chamando à multidão dos discípulos, disseram: Não é bom que nós deixemos a palavra de Deus para servirmos às mesas.
 \v At.6.3
@@ -759,7 +781,13 @@ E incitaram ao povo, aos anciãos e aos escribas; e vieram sobre
 \added
 Estêvão
 \*added
-,e o detiveram, e o levaram ao Supremo Conselho.
+, e o detiveram, e o levaram ao supremo conselho.
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
 \v At.6.13
 E apresentaram falsas testemunhas, que diziam: Este homem não para de falar palavras blasfemas contra este santo lugar, e 
 \added
@@ -769,13 +797,9 @@ contra
 \v At.6.14
 Porque nós o ouvimos dizer que este Jesus Nazareno vai destruir este lugar, e mudar os costumes que Moisés nos entregou.
 \v At.6.15
-Então todos os que estavam sentados no Supremo Conselho, observando-o com atenção, viram o rosto dele como de um anjo.
+Então todos os que estavam sentados no supremo conselho, observando-o com atenção, viram o rosto dele como de um anjo.
 \v At.7.1
-E disse o chefe dos sacerdotes: Essas coisas são assim 
-\added
-mesmo
-\*added
- ?
+E disse o chefe dos sacerdotes: Por acaso é isto assim?
 \v At.7.2
 E ele disse: Homens irmãos e pais, ouvi: o Deus da glória apareceu a nosso pai Abraão, estando ele na Mesopotâmia, antes de habitar em Harã;
 \v At.7.3
@@ -795,7 +819,7 @@ Deus
 \added
 ainda
 \*added
- .
+.
 \v At.7.6
 E Deus falou assim: Tua semente será peregrina em terra alheia, e a escravizarão, e a maltratarão 
 \added
@@ -884,7 +908,7 @@ deles
 \added
 -o
 \*added
-,e vingou pelo que tinha sido oprimido, matando ao egípcio.
+, e vingou pelo que tinha sido oprimido, matando ao egípcio.
 \v At.7.25
 E ele pensava que seus irmãos tivessem entendido que Deus ia lhes dar liberdade por meio da mão dele; mas eles não entenderam.
 \v At.7.26
@@ -919,7 +943,7 @@ isso
 \added
 Dizendo
 \*added
- : Eu 
+: Eu 
 \added
 sou
 \*added
@@ -971,17 +995,15 @@ próprias
 \*added
  mãos.
 \v At.7.42
-E Deus se virou 
+E Deus se afastou
 \added
-contra eles
+deles
 \*added
-,e os entregou, para que servissem ao exército do céu, assim como está escrito no livro dos profetas: Por acaso, casa de Israel, vós oferecestes a mim animais mortos, e sacrifícios no deserto 
-\added
-por
-\*added
- quarenta anos?
+, e os entregou, para que servissem ao exército do céu, como está escrito no livro dos profetas: 
+Ó casa de Israel, acaso foi a mim que oferecestes animais sacrificados, e ofertas no deserto 
+por quarenta anos?
 \v At.7.43
-Mas tomastes 
+Porém tomastes 
 \added
 para si
 \*added
@@ -1025,7 +1047,7 @@ Vós, obstinados e incircuncisos de coração e de ouvidos! Vós sempre resistis
 \added
 foram
 \*added
-,assim também 
+, assim também 
 \added
 sois
 \*added
@@ -1933,21 +1955,25 @@ E
 \added
 quanto a
 \*added
- que o ressuscitasse dos mortos, para nunca mais voltar à corrupção, assim disse: Eu vos darei as fiéis beneficências de Davi.
+ que o ressuscitasse dos mortos, para nunca mais voltar à degradação,
+\fn
+Ou: deterioração, putrefação. Também nos versículos seguintes.
+\*fn
+ assim disse: Eu vos darei as fiéis beneficências de Davi.
 \v At.13.35
 Por isso que também em outro 
 \added
 salmo
 \*added
- ele diz: Não permitirás que teu Santo veja corrupção.
+ ele diz: Não permitirás que teu Santo veja degradação.
 \v At.13.36
-Porque na verdade, tendo Davi servido ao conselho de Deus, morreu, 
+Porque, na verdade, tendo Davi servido ao conselho de Deus, morreu, 
 \fn
 morreu = lit. adormeceu 
 \*fn
-foi posto junto a seus pais, e viu corrupção.
+foi posto junto a seus pais, e viu degradação.
 \v At.13.37
-Mas aquele a quem Deus ressuscitou nenhuma corrupção viu.
+Mas aquele a quem Deus ressuscitou nenhuma degradação viu.
 \v At.13.38
 Seja-vos pois conhecido, homens irmãos, que por este vos é anunciado o perdão dos pecados.
 \v At.13.39
@@ -3472,25 +3498,32 @@ Paulo
 \*added
  era romano, e que tinha o atado.
 \v At.22.30
-E 
-\added
-n
-\*added
- o 
+E no
 \added
 dia
 \*added
- seguinte, querendo saber corretamente a causa de por que ele era acusado pelos judeus, ele o soltou das correntes, e mandou vir aos chefes dos sacerdotes e todo o Supremo Conselho deles; e tendo trazido a Paulo, apresentou 
+ seguinte, querendo saber corretamente a causa de por que ele era acusado pelos judeus, ele o soltou das correntes, e 
+mandou vir aos chefes dos sacerdotes e todo o supremo conselho
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ deles; e tendo trazido a Paulo, apresentou 
 \added
 -o
 \*added
  diante deles.
 \v At.23.1
-E Paulo, olhando fixamente a 
-\added
-os d
-\*added
- o Supremo Conselho, disse: Homens irmãos, com toda boa consciência eu tenho andado diante de Deus até o dia de hoje.
+E Paulo, olhando fixamente para o supremo conselho,
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ disse: Homens irmãos, com toda boa consciência eu tenho andado diante de Deus até o dia de hoje.
 \v At.23.2
 Mas o sumo sacerdote Ananias mandou aos que estavam perto dele, que o espancassem na boca.
 \v At.23.3
@@ -3504,21 +3537,22 @@ E os que estavam ali disseram: Tu insultas ao sumo sacerdote de Deus?
 \v At.23.5
 E Paulo disse: Eu não sabia, irmãos, que ele era o sumo sacerdote; porque está escrito: Não falarás mal do chefe do teu povo.
 \v At.23.6
-E Paulo, sabendo que uma parte era de saduceus, e outra de fariseus, ele clamou no Supremo Conselho: Homens irmãos, eu sou fariseu, filho de fariseu; pela esperança e ressurreição dos mortos eu estou sendo julgado.
+E Paulo, sabendo que uma parte era de saduceus, e outra de fariseus, ele clamou no supremo conselho: Homens irmãos, 
+eu sou fariseu, filho de fariseu; pela esperança e ressurreição dos mortos eu estou sendo julgado.
 \v At.23.7
 E ele, tendo dito isto, houve uma confusão entre os fariseus e saduceus; e a multidão se dividiu;
 \v At.23.8
 Porque os saduceus dizem que não há ressurreição, nem anjo ou espírito; mas os fariseus declaram ambas.
 \v At.23.9
-E houve uma grande gritaria; e levantando-se os escribas da parte dos fariseus, disputavam, dizendo: Nenhum mal achamos neste homem; e se algum espírito ou anjo falou com ele{tr,rp:, não briguemos contra Deus.}{trnc: 
-\fn
+E houve uma grande gritaria; e levantando-se os escribas da parte dos fariseus, disputavam, dizendo: Nenhum mal 
+achamos neste homem; e se algum espírito ou anjo falou com ele{tr,rp:, não briguemos contra Deus.}
+{trnc:\fn
 N4 omite: “não briguemos contra Deus” e transforma a frase anterior numa pergunta: “e se algum espírito ou anjo falou com ele?” 
-\*fn
-}{n4:? 
+\*fn}
+{n4:? 
 \fn
 TR, RP acrescentam: “não briguemos contra Deus” 
-\*fn
-}
+\*fn}
 \v At.23.10
 E havendo grande confusão, o comandante, temendo que Paulo não fosse despedaçado por eles, mandou descer a tropa, e tirá-lo do meio deles, e levá-lo à área fortificada.
 \v At.23.11
@@ -3538,7 +3572,8 @@ e
 \*added
  disseram: Fizemos juramento sob pena de maldição, de que nada experimentaremos enquanto não matarmos a Paulo.
 \v At.23.15
-Agora vós, então, juntamente com o Supremo Conselho, fazei saber ao comandante que amanhã ele o traga a vós, como se fosse para que investigueis mais detalhadamente; e antes que ele chegue, nós estamos prontos para o matar.
+Agora, pois, vós, com o supremo conselho, informai ao comandante que amanhã ele o traga perante vós, como se 
+fosse para que investigueis mais detalhadamente; e antes que ele chegue, estaremos prontos para o matar.
 \v At.23.16
 E o filho da irmã de Paulo, tendo ouvido esta cilada, veio e entrou na área fortificada, e avisou a Paulo.
 \v At.23.17
@@ -3554,9 +3589,10 @@ E o comandante, tomando-o pela mão, e indo para um lugar reservado, perguntou
 \added
 -lhe
 \*added
- : O que tens para me avisar?
+: O que tens para me avisar?
 \v At.23.20
-E ele disse: Os judeus combinaram de te pedirem que amanhã tu leves a Paulo ao Supremo Conselho, como se fosse para que lhe perguntem mais detalhadamente;
+E ele disse: Os judeus combinaram de te pedirem que amanhã tu leves a Paulo ao supremo conselho, como se fosse para 
+que lhe perguntem mais detalhadamente;
 \v At.23.21
 Porém tu, não acredites neles; porque mais de quarenta homens deles estão lhe preparando cilada, os quais sob pena de maldição fizeram juramento para não comerem nem beberem enquanto não o tiverem matado; e eles já estão preparados, esperando de ti a promessa.
 \v At.23.22
@@ -3588,7 +3624,7 @@ o
 \*added
  tomei, ao ser informado que ele era romano.
 \v At.23.28
-E eu, querendo saber a causa por que o acusavam, levei-o ao Supremo Conselho deles.
+E eu, querendo saber a causa por que o acusavam, levei-o ao supremo conselho deles.
 \v At.23.29
 O qual eu achei que acusavam de algumas questões da Lei deles; mas que nenhum crime digno de morte ou de prisão havia contra ele.
 \v At.23.30
@@ -3604,11 +3640,7 @@ tiverem
 \v At.23.31
 Tendo então os soldados tomado a Paulo, assim como lhes tinha sido ordenado, trouxeram-no durante a noite a Antipátride.
 \v At.23.32
-E 
-\added
-n
-\*added
- o 
+E no 
 \added
 dia
 \*added
@@ -3638,13 +3670,13 @@ E sendo chamado, Tértulo começou a acusá
 \added
 -lo
 \*added
-,dizendo:
+, dizendo:
 \v At.24.3
- 
 \added
 Visto que
 \*added
- há muita paz por causa de ti, e que por teu governo muitos bons serviços estão sendo feitos a esta nação, excelentíssimo Félix, totalmente e em todo lugar, com todo agradecimento o reconhecemos.
+ há muita paz por causa de ti, e que por teu governo muitos bons serviços estão sendo feitos a esta nação, 
+excelentíssimo Félix, totalmente e em todo lugar, com todo agradecimento o reconhecemos.
 \v At.24.4
 Mas para que eu não gaste muito o teu tempo, rogo 
 \added
@@ -3668,17 +3700,17 @@ nós
 \added
 -o
 \*added
- das nossas mãos;}{rp,n4:--- 
+ das nossas mãos;}
+{rp,n4:--- 
 \fn
 TR contém um texto mais longo, que se estende dos versículos 6 ao 8: “e quisemos julgar conforme a nossa Lei. Mas tendo vindo sobre [nós] o comandante Lísias, com grande violência, tirou [-o] das nossas mãos; mandando aos acusadores dele que viessem a ti; 
-\*fn
-}
+\*fn}
 \v At.24.8
-{rp,n4:Mandando aos acusadores dele que viessem a ti;}{trnc: 
-\fn
+{rp,n4:Mandando aos acusadores dele que viessem a ti;}
+{trnc:\fn
 RP, N4 omitem desde o versículo 6: “e quisemos julgar...” até o início do versículo 8: “mandando aos acusadores dele que viessem a ti” 
-\*fn
-} investigando-o tu mesmo, poderás entender todas estas coisas das quais o acusamos.
+\*fn}
+ investigando-o tu mesmo, poderás entender todas estas coisas das quais o acusamos.
 \v At.24.9
 E os judeus também concordaram, dizendo serem estas coisas assim.
 \v At.24.10
@@ -3706,11 +3738,7 @@ em que
 \v At.24.17
 E muitos anos depois, vim para fazer doações e ofertas à minha nação.
 \v At.24.18
-N 
-\added
-isto
-\*added
-,tendo eu me purificado, nem com multidões, nem com tumulto, alguns judeus da Ásia me acharam,
+Nisto, tendo eu me purificado, nem com multidões, nem com tumulto, alguns judeus da Ásia me acharam,
 \v At.24.19
 Os quais era necessário que estivessem 
 \added
@@ -3718,11 +3746,13 @@ aqui
 \*added
  presentes diante de ti, se tivessem alguma coisa contra mim.
 \v At.24.20
-Ou digam estes mesmos, se eles acharam alguma má ação em mim quando eu estava perante o Supremo Conselho;
+Ou digam estes mesmos, se eles acharam alguma má ação em mim quando eu estava perante o supremo conselho;
 \v At.24.21
-A não ser somente esta palavra com que, quando eu estava entre eles, clamei, que pela ressurreição dos mortos eu estou sendo julgado hoje por vós.
+A não ser somente esta palavra com que, quando eu estava entre eles, clamei, que pela ressurreição dos mortos 
+eu estou sendo julgado hoje por vós.
 \v At.24.22
-Tendo ouvido estas coisas, Félix, que sabia mais detalhadamente sobre o Caminho, adiou-lhes, dizendo: Quando o comandante Lísias descer, eu procurarei saber melhor de vossos assuntos.
+Tendo ouvido estas coisas, Félix, que sabia mais detalhadamente sobre o Caminho, adiou-lhes, dizendo: Quando o 
+comandante Lísias descer, eu procurarei saber melhor de vossos assuntos.
 \v At.24.23
 E ele mandou ao centurião que guardassem a Paulo, e estivesse com 
 \added
@@ -3770,7 +3800,7 @@ Ele disse: Então aqueles dentre vós que podem, desçam com
 \added
 igo
 \*added
-,e se houver alguma coisa errada neste homem, acusem-no.
+, e se houver alguma coisa errada neste homem, acusem-no.
 \v At.25.6
 E ele, tendo ficado entre eles mais de dez dias, desceu a Cesareia; e tendo se sentado no tribunal no 
 \added
@@ -3806,7 +3836,7 @@ Por causa do qual, estando eu em Jerusalém, os chefes dos sacerdotes e os anci�
 \added
 a mim
 \*added
-,pedindo julgamento contra ele.
+, pedindo julgamento contra ele.
 \v At.25.16
 Aos quais eu respondi não ser costume dos romanos entregar a algum homem à morte, antes que o acusado tenha seus acusadores face a face, e tenha oportunidade para se defender da acusação.
 \v At.25.17
@@ -3822,14 +3852,7 @@ aqui
 \*added
  presentes, trouxeram como acusação nenhuma das coisas que eu suspeitava.
 \v At.25.19
-Mas tinham contra ele algumas questões relativas às própria 
-\added
-s
-\*added
- crença 
-\added
-s
-\*added
+Mas tinham contra ele algumas questões relativas às próprias crenças
  deles, e de um certo morto Jesus, o qual Paulo afirmava estar vivo.
 \v At.25.20
 E eu, estando em duvida sobre 
@@ -3856,7 +3879,7 @@ aqui
 \added
 homem
 \*added
-,a quem toda a multidão dos judeus, tanto em Jerusalém como aqui, tem apelado a mim, clamando que ele não deve mais viver.
+, a quem toda a multidão dos judeus, tanto em Jerusalém como aqui, tem apelado a mim, clamando que ele não deve mais viver.
 \v At.25.25
 Mas tendo eu achado nada que ele tenha feito que fosse digno de morte, e também tendo ele mesmo apelado ao imperador, eu decidi enviá-lo.
 \v At.25.26
@@ -3918,7 +3941,7 @@ também
 \added
 eles
 \*added
- .
+.
 \v At.26.11
 E tendo lhes dado punição muitas vezes por todas as sinagogas, eu os forcei a blasfemarem. E estando extremamente enfurecido contra eles, até nas cidades estrangeiras eu os persegui;
 \v At.26.12
@@ -3976,11 +3999,10 @@ coisas
 \*added
  que os profetas e Moisés tinham dito que estavam para acontecer;
 \v At.26.23
- 
 \added
 Isto é
 \*added
-,que o Cristo sofreria, e sendo o primeiro da ressurreição dos mortos, ia anunciar a luz a este povo e aos gentios.
+, que o Cristo sofreria, e sendo o primeiro da ressurreição dos mortos, ia anunciar a luz a este povo e aos gentios.
 \v At.26.24
 E tendo 
 \added
@@ -4052,7 +4074,7 @@ receber
 \added
 deles
 \*added
- .
+.
 \v At.27.4
 E tendo partido dali, nós fomos navegando abaixo do Chipre, porque os ventos estavam contrários.
 \v At.27.5
@@ -4088,7 +4110,7 @@ E tendo o navio sido tomado por ele, e não podendo navegar contra o vento, nós
 \added
 por ele
 \*added
- .
+.
 \v At.27.16
 E correndo abaixo de uma pequena ilha, chamada Clauda, com dificuldade conseguimos manter o barquinho de reserva;
 \v At.27.17
@@ -4110,13 +4132,13 @@ dia
 \added
 do navio
 \*added
- .
+.
 \v At.27.19
 E no terceiro 
 \added
 dia
 \*added
-,com as nossas próprias mãos jogamos fora os instrumentos do navio.
+, com as nossas próprias mãos jogamos fora os instrumentos do navio.
 \v At.27.20
 E não aparecendo ainda o sol, nem estrelas havia muitos dias, e sendo afligidos por não pouca tempestade, desde então tínhamos perdido toda a esperança de sermos salvos.
 \v At.27.21
@@ -4156,7 +4178,7 @@ mar
 \added
 firme
 \*added
- .
+.
 \v At.27.28
 E tendo lançado o prumo, acharam vinte braças; e passando um pouco mais adiante, voltando a lançar o prumo, acharam quinze braças.
 \v At.27.29
@@ -4164,7 +4186,7 @@ E temendo de irem de encontro a lugares rochosos, lançaram da popa quatro ânco
 \added
 logo
 \*added
- .
+.
 \v At.27.30
 E 
 \added
@@ -4184,7 +4206,7 @@ E tendo dito isto, e tomando o pão, ele agradeceu a Deus na presença de todos;
 \added
 -o
 \*added
-,começou a comer.
+, começou a comer.
 \v At.27.36
 E todos, tendo ficado mais encorajados, também pegaram 
 \added
@@ -4224,7 +4246,7 @@ ao mar
 \added
 firme
 \*added
- .
+.
 \v At.27.44
 E 
 \added
@@ -4250,11 +4272,7 @@ E eles esperavam que ele fosse inchar, ou cair morto de repente. Mas tendo esper
 \added
 de opinião
 \*added
-,
-\added
-e
-\*added
- diziam que ele era um deus.
+, e diziam que ele era um deus.
 \v At.28.7
 E perto daquele mesmo lugar o homem mais importante da ilha, por nome Públio, tinha algumas propriedades; o qual nos recebeu e nos hospedou por três dias gentilmente.
 \v At.28.8
@@ -4294,15 +4312,15 @@ notícias
 \*added
  sobre nós, desde lá nos saíram ao encontro até a praça de Ápio, e as três tavernas; e Paulo, tendo os visto, agradeceu a Deus, e tomou coragem.
 \v At.28.16
-E quando chegamos a Roma,{n4: 
-\fn
+E quando chegamos a Roma,
+{n4:\fn
 TR, RP acrescentam: “o centurião entregou os prisioneiros ao chefe da guarda, mas” 
-\*fn
-}{tr,rp: o centurião entregou os prisioneiros ao chefe da guarda, mas}{trnc: 
-\fn
+\*fn}
+{tr,rp: o centurião entregou os prisioneiros ao chefe da guarda, mas}
+{trnc:\fn
 N4 omite “o centurião entregou os prisioneiros ao chefe da guarda, mas” 
-\*fn
-} a Paulo foi permitido morar por si mesmo à parte, junto com o soldado que o guardava.
+\*fn}
+ a Paulo foi permitido morar por si mesmo à parte, junto com o soldado que o guardava.
 \v At.28.17
 E aconteceu que, três dias depois, Paulo chamou juntos os chefes dos judeus; e ao se reunirem, disse-lhes: Homens irmãos, tendo eu nada feito contra o povo, ou contra os costumes dos pais, 
 \added
@@ -4336,7 +4354,8 @@ há quem
 \*added
  fale contra ela.
 \v At.28.23
-E tendo eles lhe determinado um dia, muitos vieram até onde ele estava morando; aos quais ele declarava e dava testemunho do Reino de Deus; e procurava persuadi-los quanto a Jesus, tanto pela Lei de Moisés, como 
+E tendo eles lhe determinado um dia, muitos vieram até onde ele estava morando; aos quais ele declarava e dava 
+testemunho do Reino de Deus; e procurava persuadi-los quanto a Jesus, tanto pela Lei de Moisés, como 
 \added
 pelos
 \*added
@@ -4363,12 +4382,10 @@ a
 {n4:--- 
 \fn
 TR, RP acrescentam o versículo 29: “}E havendo ele dito isto, os judeus foram embora, havendo entre eles grande discussão.{n4:” 
-\*fn
-}{trnc: 
-\fn
+\*fn}
+{trnc:\fn
 N4 omite todo o versículo 29 
-\*fn
-}
+\*fn}
 \v At.28.30
 E Paulo ficou dois anos inteiros em sua própria casa alugada; e recebia a todos quantos vinham a ele;
 \v At.28.31

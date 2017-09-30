@@ -66,9 +66,10 @@ porque vós não sois meu povo, por isso eu não serei vosso
 \added
 Deus
 \*added
- .
+.
 \v Os.1.10
-Todavia o número dos filhos de Israel será como a areia do mar, que não se pode medir nem contar. E acontecerá que, onde foi lhes dito: Vós não sois meu povo,  será lhes dito:  Vós sois filhos do Deus vivo.
+Todavia o número dos filhos de Israel será como a areia do mar, que não se pode medir nem contar. E acontecerá que, 
+onde foi-lhes dito: Vós não sois meu povo, lhes será dito:  Vós sois filhos do Deus vivo.
 \v Os.1.11
 E os filhos de Judá e de Israel serão reunidos em um, e levantarão para si uma única cabeça, 
 \fn
@@ -101,13 +102,13 @@ E agora deixarei exposta sua loucura diante dos olhos de seus amantes, e ningué
 \v Os.2.11
 E farei cessar toda a sua alegria, suas festas, suas novas luas e seus sábados, e todas as suas festividades.
 \v Os.2.12
-E destruirei suas vides e suas figueiras, das quais diz: Estas são meu salário, que meus amantes me deram.  E as reduzirei a uma matagal, e os animais do campo as comerão.
+Devastarei suas vides e suas figueiras, das quais diz: Estas são meu salário, que meus amantes me deram. Eu as reduzirei a uma matagal, e os animais do campo as comerão.
 \v Os.2.13
-E eu a punirei pelos dias em que ela queimava incensos a Baal, e se adornava de seus pendentes e de suas joias, e seguia seus amantes, tendo se esquecido de mim,diz o SENHOR. 
+Eu a castigarei pelos dias em que ela queimava incensos a Baal, e se adornava de seus pendentes e de suas joias, e seguia seus amantes, tendo se esquecido de mim, diz o SENHOR. 
 \v Os.2.14
-Porém eis que eu a atrairei, e a levarei ao deserto, e falarei a seu coração.
+Portanto, eis que eu a atrairei, e a levarei ao deserto, e falarei ao seu coração.
 \v Os.2.15
-E desde ali lhe darei suas vinhas, e o vale de Acor por porta de esperança; e ali ela cantará como nos tempos de sua juventude, como no dia em que subiu da terra do Egito.
+E dali lhe darei suas vinhas, e o vale de Acor por porta de esperança; e ali ela cantará como nos tempos de sua juventude, como no dia em que subiu da terra do Egito.
 \v Os.2.16
 E será naquele dia, diz o SENHOR, me chamarás de meu marido, e não mais me chamarás de meu Baal. 
 \fn
@@ -177,7 +178,6 @@ Meu povo é destruído por falta de conhecimento. Porque tu rejeitaste o conheci
 \v Os.4.7
 Quanto mais eles se multiplicaram, mais pecaram contra mim; tornarei sua honra em vergonha.
 \v Os.4.8
- 
 \added
 Os sacerdotes
 \*added
@@ -379,38 +379,30 @@ Porque semearam vento, colherão tempestade; não haverá colheita, nem a produ�
 \v Os.8.8
 Israel é tragado; agora são como um vaso que ninguém dá valor entre as nações.
 \v Os.8.9
-Porque subiram à Assíria 
+Porque eles subiram à Assíria, 
 \added
 como
 \*added
- um asno selvagem solitário; Efraim pagou em troca de amantes. 
-\fn
-\key
-pagou em troca de amantes
-\*key
-trad. alt. se vendeu a amantes 
-\*fn
+ um jumento selvagem solitário; Efraim se vendeu aos amantes.
 \v Os.8.10
-Ainda que paguem às nações, agora eu os reunirei; e começarão a ser diminuídos pela carga imposta pelo rei dos príncipes.
+Ainda que tenham se vendido às nações, agora eu as ajuntarei; e começarão a ser reduzidos pela opressão do rei de príncipes.
 \v Os.8.11
 Porque Efraim multiplicou os altares para pecar, os altares feitos para cometer pecado.
 \v Os.8.12
-Eu lhe escrevi as grandezas de minha lei, 
+Eu lhe escrevi as grandezas de minha lei,
 \fn
 \key
 as grandezas de minha lei
 \*key
 trad. alt. a minha lei em milhares de detalhes 
 \*fn
- 
-\added
-porém
-\*added
- foram consideradas coisa estranha.
+ mas foram consideradas coisa estranha.
 \v Os.8.13
-Quanto aos sacrifícios de ofertas a mim, eles sacrificam a carne, e a comem; porém o SENHOR não os aceita. Agora ele se lembrará de sua perversidade, e punirá seus pecados; eles voltarão ao Egito.
+Quanto aos sacrifícios de ofertas a mim, eles sacrificam a carne, e a comem; porém o SENHOR não os aceita. Agora 
+ele se lembrará de sua perversidade, e punirá seus pecados; eles voltarão ao Egito.
 \v Os.8.14
-Porque Israel se esqueceu de seu Criador, e edificou templos; Judá multiplicou cidades fortificadas; porém eu mandarei fogo em suas cidades, que consumirá seus palácios.
+Porque Israel se esqueceu de seu Criador, e edificou templos; Judá multiplicou cidades fortificadas; porém mandarei 
+fogo em suas cidades, que consumirá seus palácios.
 \v Os.9.1
 Não te alegres tanto, ó Israel, como os 
 \added
@@ -418,7 +410,7 @@ outros
 \*added
  povos, pois tu te prostituis, afastando-te de teu Deus; tu amas o salário de prostituta em todas as eiras de trigo.
 \v Os.9.2
-A eira e o lagar não os manterão; e o suco de uva lhes faltará.
+A eira e a prensa de uvas não os manterão; e o vinho novo lhes faltará.
 \v Os.9.3
 Não permanecerão na terra do SENHOR; em vez disso, Efraim voltará ao Egito, e na Assíria comerão coisa imunda.
 \v Os.9.4
@@ -482,22 +474,12 @@ frutos
 \v Os.9.17
 Meu Deus os rejeitará porque não o ouviram; e andarão sem rumo entre as nações.
 \v Os.10.1
-Israel é uma vinha frondosa, 
-\fn
-\key
-frondosa
-\*key
-obscuro – trad. alt. devastada 
-\*fn
-que dá fruto para si; quanto mais se multiplicavam seus frutos, mais multiplicou altares, quanto mais sua terra prosperava, mais enfeitaram suas colunas 
-\added
-dedicadas à idolatria
-\*added
- .
+Israel era uma vinha fértil, que dava frutos para si mesma; quanto mais se multiplicavam seus frutos, mais 
+multiplicou altares, quanto mais a sua terra prosperava, mais adornaram suas colunas pagãs.
 \v Os.10.2
-O coração deles está dividido, agora serão culpados; ele quebrará seus altares, destruirá seus monumentos.
+O coração deles está dividido, agora serão culpados; ele quebrará seus altares e destruirá suas colunas pagãs.
 \v Os.10.3
-Pois dirão agora: Não temos rei porque não tivemos temor ao SENHOR; porém o que um rei poderia fazer por nós? 
+Pois dirão agora: Não temos rei porque não tivemos temor ao SENHOR; mas o que um rei faria por nós? 
 \v Os.10.4
 Falaram palavras jurando falsamente ao fazerem pactos; por isso que a disputa judicial brota como erva venenosa nos sulcos dos campos.
 \v Os.10.5
@@ -709,9 +691,17 @@ o
 \v Os.13.12
 A maldade de Efraim está registrada; seu pecado está guardado.
 \v Os.13.13
-Dores de parto lhe virão; ele é um filho tolo, pois senão ele não continuaria no estado em que os filhos nascem.
+Dores de parto lhe virão; ele é um filho insensato, pois não deveria permanecer dentro na hora do parto.
 \v Os.13.14
-Eu os resgatarei do poder do mundo dos mortos; eu os livrarei da morte. Onde estão, Ó morte, tuas pestilências? Onde está, ó mundo dos mortos, tua perdição? A compaixão será escondida de meus olhos.
+Eu os resgatarei do poder do Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e os livrarei da morte.
+\fn
+Trad. alt. Eu os resgatarei do poder do Xeol e os livrarei da morte?
+\*fn
+ Onde estão, Ó morte, tuas pestilências? Onde está, ó Xeol, tua perdição? A compaixão será escondida de meus olhos.
 \v Os.13.15
 Ainda que ele frutifique entre os irmãos, virá o vento oriental, vento do SENHOR, subindo do deserto, e sua fonte se secará, sua nascente se secará; ele saqueará o tesouro de tudo o que for precioso.
 \v Os.13.16
@@ -722,12 +712,12 @@ levará sua culpa
 \*key
 trad. alt. será devastada 
 \*fn
-porque se rebelou contra seu Deus. Cairão a espada; suas crianças serão despedaçadas, e suas grávidas terão seus ventres abertos. 
+porque se rebelou contra o seu Deus. Cairão a espada; suas crianças serão despedaçadas, e suas grávidas terão seus ventres abertos. 
 \fn
 14:1 em hebraico 
 \*fn
 \v Os.14.1
-Converte-te, ó Israel, ao SENHOR teu Deus; porque caíste por tua maldade.
+Converte-te, ó Israel, ao SENHOR teu Deus; pois caíste por tua maldade.
 \v Os.14.2
 Tomai convosco palavras, e convertei-vos ao SENHOR; dizei-lhe: Tira toda a maldade, e aceita o que é bom; então ofereceremos nossos lábios como bezerros.
 \v Os.14.3

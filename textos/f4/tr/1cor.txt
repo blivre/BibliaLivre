@@ -705,11 +705,11 @@ E isto eu faço por causa do Evangelho, para que eu também dele seja participan
 \v 1Co.9.24
 Não sabeis vós que os que correm nas competições, realmente todos correm, mas somente um leva o prêmio? Correi de tal maneira, que o alcanceis.
 \v 1Co.9.25
-E todo aquele que luta, tenha domínio próprio sobre tudo. Pois aqueles fazem para receber uma coroa corruptível, porém nós 
+E todo aquele que luta, tenha domínio próprio sobre tudo. Pois aqueles fazem para receber uma coroa perecível, porém nós 
 \added
 para
 \*added
- uma incorruptível.
+ uma que não perece.
 \v 1Co.9.26
 Então assim eu corro, não como 
 \added
@@ -1176,7 +1176,7 @@ Porque o que fala língua
 \added
 estranha
 \*added
-,não fala aos seres humanos, mas sim a Deus; porque ninguém 
+, não fala aos seres humanos, mas sim a Deus; porque ninguém 
 \added
 o
 \*added
@@ -1230,13 +1230,13 @@ Portanto, o que fala em língua
 \added
 estranha
 \*added
-,ore para que possa interpretar.
+, ore para que possa interpretar.
 \v 1Co.14.14
 Porque se eu orar em língua 
 \added
 estranha
 \*added
-,meu espírito ora, mas meu entendimento fica sem fruto.
+, meu espírito ora, mas meu entendimento fica sem fruto.
 \v 1Co.14.15
 Então é o que? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento.
 \v 1Co.14.16
@@ -1288,7 +1288,7 @@ Então o que há, irmãos? Quando vos reunis, tem cada um de vós salmo, tem dou
 \added
 estranha
 \*added
-,tem revelação, tem interpretação, tudo se faça para edificação.
+, tem revelação, tem interpretação, tudo se faça para edificação.
 \v 1Co.14.27
 E se alguém falar em língua 
 \added
@@ -1469,7 +1469,7 @@ E o que semeias, não semeias o corpo que irá brotar, mas o grão nu, como o de
 \added
 grão
 \*added
- .
+.
 \v 1Co.15.38
 Mas Deus lhe dá o corpo como quer, e a cada semente seu próprio corpo.
 \v 1Co.15.39
@@ -1491,13 +1491,13 @@ Assim também será a ressurreição dos mortos. Semeia-se
 \added
 o corpo
 \*added
- em corrupção, ressuscitará em incorrupção.
+ degradável, ressuscitará capaz de nunca se degradar.
 \v 1Co.15.43
 Semeia-se em desonra, ressuscitará em glória. Semeia-se em fraqueza, ressuscitará em força.
 \v 1Co.15.44
 Semeia-se corpo natural, ressuscitará corpo espiritual. Há corpo animal, e há corpo espiritual.
 \v 1Co.15.45
-Assim também está escrito: O primeiro homem, Adão, foi feito em alma vivente;O último Adão em espírito vivificante.
+Assim também está escrito: O primeiro homem, Adão, foi feito em alma vivente; o último Adão em espírito vivificante.
 \v 1Co.15.46
 Mas não é primeiro o espiritual; mas sim o carnal, depois o espiritual.
 \v 1Co.15.47
@@ -1535,17 +1535,17 @@ são
 \v 1Co.15.49
 E assim como trouxemos a imagem do terrestre, assim também traremos a imagem do celestial.
 \v 1Co.15.50
-Porém isto digo, irmãos, que a carne e o sangue não podem herdar o Reino de Deus, nem a corrupção herda a incorrupção.
+Porém isto digo, irmãos, que a carne e o sangue não podem herdar o Reino de Deus, nem o que é degradável herda a capacidade de não se degradar.
 \v 1Co.15.51
 eis que eu vos digo um mistério: nem todos em verdade dormiremos; porém todos seremos transformados.
 \v 1Co.15.52
-Em um momento, em um piscar de olhos, à ultima trombeta; porque a trombeta soará, e os mortos ressuscitarão incorruptíveis, e nós seremos transformados.
+Em um momento, em um piscar de olhos, à ultima trombeta; porque a trombeta soará, e os mortos ressuscitarão capazes de não se degradar, e nós seremos transformados.
 \v 1Co.15.53
 Porque é necessário que este 
 \added
 corpo
 \*added
- corruptível vista a incorrupção, e este 
+ degradável revista-se da capacidade de não se degradar, e este 
 \added
 corpo
 \*added
@@ -1555,13 +1555,17 @@ E quando este
 \added
 corpo
 \*added
- se vestir de incorrupção, e este 
+ se revestir da capacidade de não se degradar, e este 
 \added
 corpo
 \*added
  mortal se vestir de imortalidade, então se cumprirá a palavra que está escrita: Na vitória, a morte é tragada.
 \v 1Co.15.55
-Onde está, ó morte, o teu aguilhão? Onde está, ó mundo dos mortos, a tua vitória?
+Onde está, ó morte, o teu aguilhão? Onde está, ó Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ a tua vitória?
 \v 1Co.15.56
 O aguilhão da morte é o pecado, e a força do pecado é a Lei.
 \v 1Co.15.57

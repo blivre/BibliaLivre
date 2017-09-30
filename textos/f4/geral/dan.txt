@@ -662,7 +662,7 @@ E vi em uma visão, (e aconteceu quando vi, que eu estava na fortaleza de Susã,
 \v Dn.8.3
 E levantei meus olhos, e vi, e eis um carneiro que estava diante do rio, o qual tinha dois chifres; e os dois chifres eram altos, porém um era mais alto que o outro; e o mais alto subiu por último.
 \v Dn.8.4
-Vi que o carneiro estava ferindo com os chifres ao ocidente, ao norte, e ao sul, e nenhum dos animais podia o deter, nem havia quem se livrasse de seu poder;
+Vi que o carneiro dava golpes com os chifres para o ocidente, para o norte, e para o sul; nenhum dos animais podia lhe resistir, nem havia quem se livrasse de seu poder;
 \fn
 \key
 poder
@@ -671,11 +671,13 @@ lit. mão – também v. 7
 \*fn
  e fazia conforme sua vontade, e se engrandecia.
 \v Dn.8.5
-E enquanto eu estava considerando, eis que um bode vinha do ocidente sobre a face de toda a terra, e ele não tocava a terra; e aquele bode tinha um chifre muito visível entre seus olhos;
+E enquanto eu estava considerando, eis um bode que vinha do ocidente sobre a face de toda a terra, e ele não tocava a terra; e aquele bode tinha um chifre muito visível entre seus olhos;
 \v Dn.8.6
-E ele veio até o carneiro que tinha os dois chifres, o qual eu tinha eu visto que estava diante do rio, e correu contra ele com o ímpeto de sua força.
+E ele veio até o carneiro que tinha os dois chifres, o qual eu havia visto que estava diante do rio, e correu contra ele com o ímpeto de sua força.
 \v Dn.8.7
-E o vi chegar junto ao carneiro, e irritou-se contra ele, feriu o carneiro, e quebrou seus dois chifres, pois não havia no carneiro força para detê-lo; então derrubou-o na terra, e o pisou; não houve quem livrasse ao carneiro de seu poder.
+E o vi chegar junto ao carneiro, e irritou-se contra ele, feriu o carneiro, e quebrou seus dois chifres, pois não 
+havia no carneiro força para resistir-lhe; então o derrubou por terra, e o pisou; não houve quem livrasse o 
+carneiro de seu poder.
 \v Dn.8.8
 E o bode se engrandeceu muito; porém, quando estava em sua 
 \added

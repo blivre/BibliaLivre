@@ -101,7 +101,7 @@ O nome do segundo rio é Giom; este é o que rodeia toda a terra de Cuxe.
 \v Gn.2.14
 E o nome do terceiro rio é Tigre; este é o que vai diante da Assíria. E o quarto rio é o Eufrates.
 \v Gn.2.15
-Tomou, pois, o SENHOR Deus ao homem, e o pôs no jardim de Éden, para que o lavrasse e o guardasse.
+Então o SENHOR Deus tomou o homem, e o pôs no jardim de Éden, para que o lavrasse e o guardasse.
 \v Gn.2.16
 E mandou o SENHOR Deus ao homem, dizendo: De toda árvore do jardim comerás;
 \v Gn.2.17
@@ -123,73 +123,85 @@ Portanto, deixará o homem a seu pai e a sua mãe, e se achegará à sua mulher,
 \v Gn.2.25
 E estavam ambos nus, Adão e sua mulher, e não se envergonhavam.
 \v Gn.3.1
-Porém a serpente era astuta, mais que todos os animais do campo que o SENHOR Deus havia feito; a qual disse à mulher: Deus vos disse: Não comais de toda árvore do jardim?
+Porém a serpente era astuta, mais que todos os animais do campo que o SENHOR Deus havia feito. E ela disse à mulher: Deus vos disse: Não comais de toda árvore do jardim?
 \v Gn.3.2
-E a mulher respondeu à serpente: Do fruto das árvores do jardim comemos;
+E a mulher respondeu à serpente: Do fruto das árvores do jardim podemos comer;
 \v Gn.3.3
-Mas do fruto da árvore que está em meio do jardim disse Deus: Não comereis dele, nem o tocareis, para que não morrais.
+mas do fruto da árvore que está no meio do jardim, Deus disse: Não comereis dele, nem o tocareis, para que não morrais.
 \v Gn.3.4
 Então a serpente disse à mulher: Não morrereis;
 \v Gn.3.5
-Mas sabe Deus que no dia que comerdes dele, serão abertos vossos olhos, e sereis como deuses sabendo o bem e o mal.
+Mas Deus sabe que no dia que comerdes dele, vossos olhos serão abertos, e sereis como deuses,
+\fn
+Ou: sereis como Deus
+\*fn
+ sabendo o bem e o mal.
 \v Gn.3.6
-E viu a mulher que a árvore era boa para comer, e que era agradável aos olhos, e árvore cobiçável para alcançar a sabedoria; e tomou de seu fruto, e comeu; e deu também a seu marido, o qual comeu assim como ela.
+E a mulher viu que a árvore era boa para se comer, agradável aos olhos, e árvore desejável para se obter conhecimento. 
+E ela tomou de seu fruto, e comeu; e deu também ao seu marido com ela, e ele comeu.
 \v Gn.3.7
-E foram abertos os olhos de ambos, e conheceram que estavam nus: então coseram folhas de figueira, e fizeram para si aventais.
+E foram abertos os olhos de ambos, e conheceram que estavam nus. Então coseram folhas de figueira, e fizeram para si aventais.
 \v Gn.3.8
-E ouviram a voz do SENHOR Deus que se passeava no jardim ao esfriar do dia: e escondeu-se o homem e sua mulher da presença do SENHOR Deus entre as árvores do jardim.
+E ouviram a voz do SENHOR Deus, que passeava no jardim à brisa do dia; e o homem e sua mulher esconderam-se da presença do SENHOR Deus entre as árvores do jardim.
 \v Gn.3.9
-E chamou o SENHOR Deus ao homem, e lhe disse: Onde estás?
+E o SENHOR Deus chamou ao homem, e lhe disse: “Onde estás?
 \v Gn.3.10
-E ele respondeu: Ouvi tua voz no jardim, e tive medo, porque estava nu; e me escondi.
+E ele respondeu: “Ouvi tua voz no jardim, e tive medo, porque estava nu; e me escondi”.
 \v Gn.3.11
-E disse-lhe: Quem te ensinou que estavas nu? Comeste da árvore de que eu te mandei não comesses?
+E disse-lhe: “Quem te ensinou que estavas nu? Comeste da árvore de que te mandei que não comesses?”
 \v Gn.3.12
-E o homem respondeu: A mulher que me deste por companheira me deu da árvore, e eu comi.
+E o homem respondeu: “A mulher que me deste por companheira me deu da árvore, e eu comi”.
 \v Gn.3.13
-Então o SENHOR Deus disse à mulher: Que é o que fizeste? E disse a mulher: A serpente me enganou, e comi.
+Então o SENHOR Deus disse à mulher: “Por que fizeste isto?” E a mulher disse: “A serpente me enganou, e comi”.
 \v Gn.3.14
-E o SENHOR Deus disse à serpente: Porquanto isto fizeste, maldita serás entre todos os animais selvagens e entre todos os animais do campo; sobre teu peito andarás, e pó comerás todos os dias de tua vida:
+E o SENHOR Deus disse à serpente: “Porque fizeste isto, maldita serás entre todos os animais selvagens e entre todos os 
+animais do campo; sobre teu ventre andarás, e pó comerás todos os dias da tua vida.
 \v Gn.3.15
-E inimizade porei entre ti e a mulher, e entre tua descendência e a descendência dela; esta te ferirá na cabeça, e tu lhe ferirás no calcanhar.
+E porei inimizade entre ti e a mulher, e entre tua descendência e a descendência dela; esta
+\fn
+Lit. ele
+\*fn
+ te ferirá a cabeça, e tu lhe ferirás o calcanhar”.
 \v Gn.3.16
-À mulher disse: Multiplicarei em grande maneira tuas dores e teus sofrimentos de parto; com dor darás à luz os filhos; e a teu marido será teu desejo, e ele exercerá domínio sobre ti.
+E para a mulher disse: “Multiplicarei grandemente as tuas dores e teus sofrimentos de parto; com dor darás à luz 
+filhos; e o teu desejo será para o teu marido, e ele te dominará”.
 \v Gn.3.17
-E ao homem disse: Porquanto obedeceste à voz de tua mulher, e comeste da árvore de que te mandei dizendo, Não comerás dela; maldita será a terra por causa de ti; com dor comerás dela todos os dias de tua vida;
+E ao homem disse: “Porque deste ouvidos à voz de tua mulher, e comeste da árvore de que te mandei dizendo, ‘Não comerás 
+dela’, maldita será a terra por causa de ti; com dor comerás dela todos os dias da tua vida;
 \v Gn.3.18
-Espinhos e cardos te produzirá, e comerás erva do campo;
+Espinhos e cardos te produzirá, e comerás erva do campo.
 \v Gn.3.19
-No suor de teu rosto comerás o pão até que voltes à terra; porque dela foste tomado: pois pó és, e ao pó voltarás.
+No suor do teu rosto comerás o pão até que voltes à terra, porque dela foste tomado; porque pó és, e ao pó voltarás”.
 \v Gn.3.20
 E chamou o homem o nome de sua mulher, Eva; porquanto ela era mãe de todos o viventes.
 \v Gn.3.21
-E o SENHOR Deus fez ao homem e à sua mulher túnicas de peles, e vestiu-as.
+E o SENHOR Deus fez ao homem e à sua mulher túnicas de peles, e os vestiu.
 \v Gn.3.22
-E disse o SENHOR Deus: Eis que o homem é como um de Nos sabendo o bem e o mal: agora, pois, para que não estenda sua mão, e tome também da árvore da vida, e coma, e viva para sempre:
+E disse o SENHOR Deus: Eis que o homem é como um de Nos sabendo o bem e o mal; agora, pois, para que não estenda sua mão, e tome também da árvore da vida, e coma, e viva para sempre:
 \v Gn.3.23
 E tirou-o o SENHOR do jardim de Éden, para que lavrasse a terra de que foi tomado.
 \v Gn.3.24
 Lançou, pois, fora ao homem, e pôs ao oriente do jardim de Éden querubins, e uma espada acesa que se revolvia a todos os lados, para guardar o caminho da árvore da vida.
 \v Gn.4.1
-E conheceu Adão a sua mulher Eva, a qual concebeu e deu à luz a Caim, e disse: Adquiri um homem pelo SENHOR.
+E Adão conheceu a sua mulher Eva, a qual concebeu e deu à luz a Caim, e disse: Obtive um homem pelo SENHOR.
 \v Gn.4.2
 E depois deu à luz a seu irmão Abel. E foi Abel pastor de ovelhas, e Caim foi lavrador da terra.
 \v Gn.4.3
-E aconteceu decorrendo o tempo, que Caim trouxe do fruto da terra uma oferta ao SENHOR.
+E aconteceu, decorrendo o tempo, que Caim trouxe do fruto da terra uma oferta ao SENHOR.
 \v Gn.4.4
 E Abel trouxe também dos primogênitos de suas ovelhas, e de sua gordura. E olhou o SENHOR com agrado a Abel e à sua oferta;
 \v Gn.4.5
-Mas não olhou com bons olhos a Caim e à sua oferta. E irritou-se Caim em grande maneira, e decaiu seu semblante.
+mas não olhou com bons olhos a Caim e à sua oferta. Caim irritou-se muito, e descaiu-lhe o semblante.
 \v Gn.4.6
-Então o SENHOR disse a Caim: Por que te irritaste, e por que se mudou teu rosto?
+Então o SENHOR disse a Caim: Por que te irritaste, e por que o teu semblante descaiu?
 \v Gn.4.7
 Se bem fizeres, não serás aceito? E se não fizeres bem, o pecado está à porta; contra ti será o seu desejo, porém tu deves dominá-lo.
 \v Gn.4.8
-E falou Caim a seu irmão Abel; e aconteceu que estando eles no campo, Caim se levantou contra seu irmão Abel, e o matou.
+Depois Caim falou a seu irmão Abel; e aconteceu que, estando eles no campo, Caim se levantou contra seu irmão Abel, e o matou.
 \v Gn.4.9
-E o SENHOR disse a Caim: Onde está Abel teu irmão? E ele respondeu: Não sei; sou eu guarda de meu irmão?
+E o SENHOR disse a Caim: Onde está teu irmão Abel? E ele respondeu: Não sei; sou eu guarda do meu irmão?
 \v Gn.4.10
-E ele lhe disse: Que fizeste? A voz do sangue de teu irmão clama a mim desde a terra.
+E ele lhe disse: Que fizeste? A voz do sangue do teu irmão clama a mim desde a terra.
 \v Gn.4.11
 Agora, pois, maldito sejas tu da terra que abriu sua boca para receber o sangue de teu irmão de tua mão:
 \v Gn.4.12
@@ -295,11 +307,12 @@ E disse o SENHOR: Não brigará meu espírito com o ser humano para sempre, porq
 \v Gn.6.4
 Havia gigantes na terra naqueles dias, e também depois que entraram os filhos de Deus às filhas dos homens, e lhes geraram filhos: estes foram os valentes que desde a antiguidade foram homens de renome.
 \v Gn.6.5
-E viu o SENHOR que a malícia dos seres humanos era muito na terra, e que todo desígnio dos pensamentos do coração deles era continuamente somente o mal.
+E o SENHOR viu que a maldade dos seres humanos era muita na terra, e que todo desígnio dos pensamentos dos seus corações era só mau continuamente.
 \v Gn.6.6
-E arrependeu-se o SENHOR de haver feito o ser humano na terra, e pesou-lhe em seu coração.
+E o SENHOR se arrependeu de haver feito o ser humano na terra, e pesou-lhe em seu coração.
 \v Gn.6.7
-E disse o SENHOR: Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e até o réptil e as aves do céu: porque me arrependo de havê-los feito.
+E disse o SENHOR: Apagarei os seres humanos que criei de sobre a face da terra, desde o ser humano até o animal, e 
+até o réptil e as aves do céu; porque me arrependo de havê-los feito.
 \v Gn.6.8
 Porém Noé achou favor aos olhos do SENHOR.
 \v Gn.6.9
@@ -307,9 +320,13 @@ Estas são as gerações de Noé: Noé, homem justo, foi íntegro em suas geraç
 \v Gn.6.10
 E gerou Noé três filhos: a Sem, a Cam, e a Jafé.
 \v Gn.6.11
-E corrompeu-se a terra diante de Deus, e estava a terra cheia de violência.
+Porém a terra se corrompeu diante de Deus, e a terra encheu-se de violência.
 \v Gn.6.12
-E olhou Deus a terra, e eis que estava contaminada; porque toda carne havia corrompido seu caminho sobre a terra.
+E Deus olhou a terra, e eis que estava corrompida; porque toda carne
+\fn
+Isto é, todo ser humano
+\*fn
+ havia corrompido seu caminho sobre a terra.
 \v Gn.6.13
 E disse Deus a Noé: O fim de toda carne veio diante de mim; porque a terra está cheia de violência por causa deles; e eis que eu os destruirei com a terra.
 \v Gn.6.14
@@ -2274,7 +2291,12 @@ E ele a reconheceu, e disse: A roupa de meu filho é; alguma fera selvagem o dev
 \v Gn.37.34
 Então Jacó rasgou suas roupas, e pôs saco sobre seus lombos, e fez luto por seu filho muitos dias.
 \v Gn.37.35
-E levantaram-se todos os seus filhos e todas as suas filhas para consolá-lo; mas ele não quis tomar consolação, e disse: Porque eu tenho de descer a meu filho com luto até à sepultura. E chorou por ele seu pai.
+E levantaram-se todos os seus filhos e todas as suas filhas para consolá-lo; mas ele não quis receber consolação, e 
+disse: Porque eu tenho de descer ao meu filho com luto ao Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ E seu pai chorou por ele.
 \v Gn.37.36
 E os midianitas o venderam no Egito a Potifar, oficial de Faraó, capitão dos da guarda.
 \v Gn.38.1
@@ -2618,7 +2640,11 @@ Então seu pai Jacó lhes disse: Vós me privastes de meus filhos; José desapar
 \v Gn.42.37
 E Rúben falou a seu pai, dizendo: Podes matar meus dois filhos, se eu não o devolver a ti; entrega-o em minha mão, que eu o devolverei a ti.
 \v Gn.42.38
-E ele disse: Não descerá meu filho convosco; que seu irmão é morto, e ele somente restou; e se lhe acontecer algum desastre no caminho por onde vades, fareis descer minhas cãs com dor ao mundo dos mortos.
+E ele disse: Não descerá meu filho convosco; que seu irmão é morto, e ele somente restou; e se lhe acontecer algum 
+desastre no caminho por onde vades, fareis descer meus cabelos brancos com tristeza ao Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Gn.43.1
 E a fome era grande na terra.
 \v Gn.43.2
@@ -2744,11 +2770,14 @@ Então teu servo meu pai nos disse: Vós sabeis que dois me deu minha mulher;
 \v Gn.44.28
 E um saiu de minha presença, e penso certamente que foi despedaçado, e até agora não o vi;
 \v Gn.44.29
-E se tomardes também este de diante de mim, e lhe acontecer algum desastre, fareis descer minhas cãs com dor ao mundo dos mortos.
+E se tomardes também este de diante de mim, e lhe acontecer algum desastre, fareis descer meus cabelos grisalhos com tristeza ao Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Gn.44.30
 Agora, pois, quando chegar eu a teu servo meu pai, e o jovem não for comigo, como sua alma está ligada à alma dele,
 \v Gn.44.31
-Sucederá que quando perceber a ausência do jovem, morrerá; e teus servos farão descer as cãs de teu servo nosso pai com dor ao mundo dos mortos.
+Sucederá que quando perceber a ausência do jovem, morrerá; e teus servos farão descer os cabelos grisalhos de teu servo, nosso pai, com tristeza ao Xeol.
 \v Gn.44.32
 Como teu servo saiu por fiador do jovem com meu pai, dizendo: Se eu não o devolver a ti, então eu serei culpável para meu pai todos os dias;
 \v Gn.44.33

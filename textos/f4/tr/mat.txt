@@ -1094,7 +1094,11 @@ Ai de ti Corazim! Ai de ti Betsaida! Porque se em Tiro e em Sidom tivessem sido 
 Porém eu vos digo que mais tolerável será para Tiro e Sidom, no dia do juízo, que para vós.
 \v Mt.11.23
 E tu, Cafarnaum, que estás exaltada até o céu,
- ao mundo dos mortos serás derrubada! Pois se em Sodoma tivessem sido feitos os milagres que foram feitos em ti, ela teria permanecido até hoje.
+ ao Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ serás derrubada! Pois se em Sodoma tivessem sido feitos os milagres que foram feitos em ti, ela teria permanecido até hoje.
 \v Mt.11.24
 Porém eu vos digo que mais tolerável será para os da região de Sodoma, no dia de juízo, que para ti.
 \v Mt.11.25
@@ -1159,7 +1163,7 @@ Então disse para aquele homem: Estende a tua mão.E ele a estendeu, e foi-lhe r
 Então os fariseus saíram e se reuniram para planejar contra ele, como o matariam.
 \v Mt.12.15
 Mas Jesus, sabendo disso, retirou-se dali. Muitas multidões
- o seguiram, e ele curou todos.
+ o seguiram, e ele curou a todos.
 \v Mt.12.16
 E ele lhes ordenava que não o tornassem conhecido;
 \v Mt.12.17
@@ -1838,15 +1842,19 @@ está
 \*added
  nos céus.
 \v Mt.16.18
-E eu também te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja; e as portas do mundo dos mortos não prevalecerão contra ela.
+E eu também te digo que tu és Pedro, e sobre esta pedra edificarei a minha igreja; e as portas do Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ não prevalecerão contra ela.
 \v Mt.16.19
 E
  a ti darei as chaves do Reino dos céus; e tudo o que ligares na terra terá sido ligado
 \fn
 \key
-o
+terá sido ligado
 \*key
-será ligado : no grego, as duas formas verbais são idênticas
+Ou: será ligado. No grego, as duas formas verbais são idênticas
 \*fn
  nos céus; e tudo o que desligares na terra terá sido desligado
 \fn
@@ -2399,7 +2407,7 @@ E perguntaram-lhe: Ouves o que estas
 \added
 crianças
 \*added
- dizem?E Jesus lhes respondeu: Sim. Nunca lestes: “Da boca das crianças e dos bebês
+ dizem? E Jesus lhes respondeu: Sim. Nunca lestes: “Da boca das crianças e dos bebês
 \fn
 \key
 bebês
@@ -2442,7 +2450,7 @@ E, aproximando-se do segundo, disse da mesma maneira. E ele respondeu: “Eu
 \added
 vou
 \*added
-,senhor”, mas não foi.
+, senhor”, mas não foi.
 \v Mt.21.31
 Qual dos dois fez a vontade do pai?Eles lhe responderam: O primeiro.
  Jesus lhes disse: Em verdade vos digo que os cobradores de impostos e as prostitutas estão indo adiante de vós ao Reino de Deus.
@@ -2451,9 +2459,10 @@ Pois João veio a vós mesmos no caminho de justiça, mas não crestes nele; enq
 \added
 isto
 \*added
-,nem assim vos arrependestes, a fim de nele crer.
+, nem assim vos arrependestes, a fim de nele crer.
 \v Mt.21.33
-Ouvi outra parábola. Havia um homem, dono de uma propriedade. Ele plantou uma vinha, cercou- a, fundou nela um lagar, e construiu uma torre. Depois a arrendou a uns lavradores, e partiu-se para um lugar distante.
+Ouvi outra parábola. Havia um homem, dono de uma propriedade. Ele plantou uma vinha, cercou-a, fundou nela 
+uma prensa de uvas, e construiu uma torre. Depois a arrendou a uns lavradores, e partiu-se para um lugar distante.
 \v Mt.21.34
 Quando chegou o tempo dos frutos, enviou seus servos aos lavradores, para receberem os frutos que a ele pertenciam.
 \v Mt.21.35
@@ -3418,10 +3427,10 @@ Os que prenderam Jesus o trouxeram
 E Pedro o seguia de longe, até o pátio do sumo sacerdote; e entrou, e se assentou com os servos, para ver o fim.
 \v Mt.26.59
 Os chefes dos sacerdotes, os anciãos,
- e todo o conselho
+ e todo o supremo conselho
 \fn
 \key
-conselho
+supremo conselho
 \*key
 lit. sinédrio – o conselho ou tribunal para assuntos da religião judaica
 \*fn

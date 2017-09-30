@@ -51,35 +51,35 @@ João se vestia de pelos de camelo, e um cinto de couro em sua cintura; e comia 
 \v Mc.1.7
 Ele pregava assim: Após mim vem aquele que é mais forte do que eu. A ele não sou digno de me abaixar para desatar a tira das suas sandálias.
 \v Mc.1.8
-{tr,rp:De fato eu}{n4: Eu}{trnc: 
-\fn
+{tr,rp:De fato eu}{n4: Eu}
+{trnc:\fn
 N4 omite “de fato”
-\*fn
-} tenho vos batizado com água, porém ele vos batizará com Espírito Santo.
+\*fn}
+ tenho vos batizado com água, porém ele vos batizará com Espírito Santo.
 \v Mc.1.9
 E aconteceu que, naqueles dias, Jesus de Nazaré da Galileia veio, e foi batizado por João no Jordão.
 \v Mc.1.10
 E assim que saiu da água, viu os céus se abrirem, e o Espírito, que como pomba descia sobre ele.
 \v Mc.1.11
-E veio uma voz dos céus: Tu és meu Filho amado, em {tr,rp:quem}{n4:ti}{trnc: 
-\fn
+E veio uma voz dos céus: Tu és meu Filho amado, em {tr,rp:quem}{n4:ti}
+{trnc:\fn
 N4: em ti
-\*fn
-} me agrado.
+\*fn}
+ me agrado.
 \v Mc.1.12
 E logo o Espírito o impeliu ao deserto.
 \v Mc.1.13
 Ele esteve {tr,rp:ali}{trnc: 
 \fn
 N4 omite “ali”
-\*fn
-} no deserto quarenta dias, tentado por Satanás. Ele estava com os animais selvagens, e os anjos o serviam.
+\*fn}
+ no deserto quarenta dias, tentado por Satanás. Ele estava com os animais selvagens, e os anjos o serviam.
 \v Mc.1.14
-Depois que João foi preso, Jesus veio para a Galileia, pregando o Evangelho {tr,rp:do Reino}{trnc: 
-\fn
+Depois que João foi preso, Jesus veio para a Galileia, pregando o Evangelho {tr,rp:do Reino}
+{trnc:\fn
 N4 omite “do Reino”
-\*fn
-} de Deus,
+\*fn}
+ de Deus,
 \v Mc.1.15
 e dizendo: O tempo se cumpriu, e o Reino de Deus está perto; arrependei-vos, e crede no Evangelho.
 \v Mc.1.16
@@ -87,17 +87,17 @@ E enquanto andava junto ao mar da Galileia, ele viu Simão e seu irmão André, 
 \v Mc.1.17
 Jesus lhes disse: Vinde após mim, e farei serdes pescadores de gente.
 \v Mc.1.18
-Então logo deixaram {tr,rp:suas}{n4:as}{trnc: 
-\fn
+Então logo deixaram {tr,rp:suas}{n4:as}
+{trnc:\fn
 N4 omite “suas”
-\*fn
-} redes, e o seguiram.
+\*fn}
+ redes, e o seguiram.
 \v Mc.1.19
-E passando {tr,rp:dali}{trnc: 
-\fn
+E passando {tr,rp:dali}
+{trnc:\fn
 N4 omite “dali”
-\*fn
-} um pouco mais adiante, viu Tiago 
+\*fn}
+ um pouco mais adiante, viu Tiago 
 \added
 filho
 \*added
@@ -866,7 +866,7 @@ mas que calçassem sandálias, e não se vestissem de duas túnicas.
 \v Mc.6.10
 E dizia-lhes: Onde quer que entrardes em alguma casa, ficai ali até que dali saiais.
 \v Mc.6.11
-E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles.{tr,rp: Em verdade vos digo, que mais tolerável será a 
+E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles{tr,rp: Em verdade vos digo, que mais tolerável será a 
 \added
 os de
 \*added
@@ -874,12 +874,11 @@ os de
 \added
 os d
 \*added
-aquela cidade}.{trnc: 
-\fn
+aquela cidade}.
+{trnc:\fn
 N4 omite “Em verdade vos digo (...) a [os d]aquela cidade”
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP, acrescentam ao final do versículo: "Em verdade vos digo, que mais tolerável será a [os de] Sodoma ou Gomorra no dia do juízo, do 
 que a[os d]aquela cidade”. Compare com Mateus 10:15
 \*fn}
@@ -1934,11 +1933,11 @@ TR, RP contêm o versículo 26: “Mas se vós não perdoardes, também vosso Pa
 \v Mc.11.27
 Depois voltaram a Jerusalém; e, enquanto ele andava pelo Templo, vieram a ele os chefes dos sacerdotes, os escribas, e os anciãos.
 \v Mc.11.28
-E disseram-lhe: Com que autoridade fazes estas coisas? {tr,rp:E}{n4:Ou}{trnc:
-\fn
+E disseram-lhe: Com que autoridade fazes estas coisas? {tr,rp:E}{n4:Ou}
+{trnc:\fn
 TR, RP: E - N4: Ou
-\*fn
-} quem te deu esta autoridade, para fazerdes estas coisas?
+\*fn}
+ quem te deu esta autoridade, para fazerdes estas coisas?
 \v Mc.11.29
 Jesus lhes respondeu: Também eu vos farei uma pergunta, e respondei-me; então vos direi com que autoridade faço estas coisas.
 \v Mc.11.30
@@ -1958,25 +1957,21 @@ Jesus
 \added
 nela
 \*added
- um esmagador de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se d
-\added
-aquela
-\*added
- terra.
+ uma prensa de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se daquela terra.
 \v Mc.12.2
 E, quando chegou o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
 \v Mc.12.3
 Mas eles, tomando-o à força, feriram-no, e mandaram-no vazio.
 \v Mc.12.4
-E voltou a lhes mandar outro servo; e eles{tr,rp:, apedrejando-o,}{trnc:
-\fn
+E voltou a lhes mandar outro servo; e eles{tr,rp:, apedrejando-o,}
+{trnc:\fn
 N4 omite “apedrejando-o”
-\*fn
-} feriram-no na cabeça e {tr,rp:voltaram a mandá-lo maltratado}{n4:maltrataram-no}{trnc:
-\fn
+\*fn}
+ feriram-no na cabeça e {tr,rp:voltaram a mandá-lo maltratado}{n4:maltrataram-no}
+{trnc:\fn
 TR,RP: voltaram a mandá-lo maltratado - N4: maltrataram-no
-\*fn
-}.
+\*fn}
+.
 \v Mc.12.5
 E voltou a mandar outro, ao qual mataram, e 
 \added
@@ -2033,11 +2028,11 @@ Então Jesus, lhes respondeu:  Dai, pois, a César o que é de César, e a Deus 
 \v Mc.12.18
 E vieram a ele os saduceus, que dizem não haver ressurreição, e perguntaram-lhe:
 \v Mc.12.19
-Mestre, Moisés nos escreveu que, se o irmão de alguém morresse, e deixasse mulher, mas não {tr,rp:filhos}{n4:filho}{trnc:
-\fn
+Mestre, Moisés nos escreveu que, se o irmão de alguém morresse, e deixasse mulher, mas não {tr,rp:filhos}{n4:filho}
+{trnc:\fn
 N4: filho
-\*fn
-}, que seu irmão se casasse com a viúva
+\*fn}
+, que seu irmão se casasse com a viúva
 \fn
 Lit.  “a mulher dele” (isto é, do morto)
 \*fn
@@ -2048,17 +2043,14 @@ Lit. “levantasse semente”
  ao seu irmão.
 \v Mc.12.20
 Houve, pois, sete irmãos, e o primeiro casou-se com a mulher, e morrendo, não deixou descendente.
-\fn
-
-\*fn
 \v Mc.12.21
 Casou-se com ela também o segundo, e morreu; e nem este deixou descendente; e o terceiro da mesma maneira.
 \v Mc.12.22
-Os sete {tr,rp:casaram-se com ela, mas}{trnc:
-\fn
+Os sete {tr,rp:casaram-se com ela, mas}
+{trnc:\fn
 Lit. semente. Também nos v. 21 e 22
-\*fn
-} não deixaram descendente. Finalmente, depois de todos, morreu também a mulher.
+\*fn}
+ não deixaram descendente. Finalmente, depois de todos, morreu também a mulher.
 \v Mc.12.23
 Na ressurreição, pois, quando ressuscitarem, ela será a mulher de qual deles? Porque os sete a tiveram por mulher.
 \v Mc.12.24
@@ -2083,63 +2075,63 @@ Jesus
 \*added
  havia lhes respondido bem, perguntou-lhe:  Qual é o primeiro mandamento de todos?
 \v Mc.12.29
-E Jesus {tr,rp:lhe}{trnc:
-\fn
+E Jesus {tr,rp:lhe}
+{trnc:\fn
 N4 omite “lhe”
-\*fn
-} respondeu: O primeiro {tr,rp:de todos os mandamentos}{trnc:
-\fn
+\*fn}
+ respondeu: O primeiro {tr,rp:de todos os mandamentos}
+{trnc:\fn
 N4 omite “de todos o mandamentos”
-\*fn
-} é:  “Ouve Israel, o Senhor nosso Deus é o único Senhor;
+\*fn}
+ é:  “Ouve Israel, o Senhor nosso Deus é o único Senhor;
 \v Mc.12.30
 amarás, pois, ao Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças.”
 \ref
 Deuteronômio 6:4-5
 \*ref
-{tr,rp: Este é o primeiro mandamento.}{trnc:
-\fn
+{tr,rp: Este é o primeiro mandamento.}
+{trnc:\fn
 N4 omite “Este é o primeiro mandamento”
 \*fn}
 \v Mc.12.31
-E o segundo é{tr,rp: semelhante}:{trnc:
-\fn
+E o segundo é{tr,rp: semelhante}:
+{trnc:\fn
 N4 omite “semelhante”
-\*fn
-} "Amarás ao teu próximo como a ti mesmo".
+\*fn}
+ "Amarás ao teu próximo como a ti mesmo".
 \ref
 Levítico 19:18
 \*ref
 Não há outro mandamento maior que estes.
 \v Mc.12.32
-E o escriba lhe disse: Muito bem, Mestre, com verdade disseste que {tr:há um só Deus}{rp,n4:ele é um só},{trnc:
-\fn
-\*fn
-} e não há outro além dele.
+E o escriba lhe disse: Muito bem, Mestre, com verdade disseste que {tr:há um só Deus}{rp,n4:ele é um só},
+{trnc:\fn
+TR - há um só Deus ; RP, N4: ele é um só
+\*fn}
+ e não há outro além dele.
 \v Mc.12.33
-E que amá-lo com todo o coração, com todo o entendimento,{tr,rp: com toda a alma,}{trnc:
-\fn
-\*fn
-} e com todas as forças; e amar ao próximo como a si mesmo, é mais que todas as ofertas de queima e sacrifícios.
+E que amá-lo com todo o coração, com todo o entendimento,{tr,rp: com toda a alma,}
+{trnc:\fn
+N4 não contém “com toda a alma”
+\*fn}
+ e com todas as forças; e amar ao próximo como a si mesmo, é mais que todas as ofertas de queima e sacrifícios.
 \v Mc.12.34
 Jesus viu que ele havia respondido sabiamente, e disse-lhe: Não estás longe do Reino de Deus. E ninguém mais ousou lhe perguntar.
 \v Mc.12.35
 E Jesus respondia e dizia, enquanto ensinava no templo: Como os escribas dizem que o Cristo é filho de Davi?
 \v Mc.12.36
-{tr,rp:Porque{trnc:
-\fn
+{tr,rp:Porque
+{trnc:\fn
 N4 omite "Porque"
-\*fn
-} o}{n4:O} mesmo Davi disse pelo Espírito Santo: Disse o Senhor ao meu Senhor, senta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés.
+\*fn}
+ o}{n4:O} mesmo Davi disse pelo Espírito Santo: Disse o Senhor ao meu Senhor, senta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés.
 \ref
 Salmos 110:1
 \*ref
-{tr:
-\fn
+{tr:\fn
 Lit. por escabelo (um tipo de banquinho) dos teus pés
-\*fn
-}{trnc:
-\fn
+\*fn}
+{trnc:\fn
 TR, RP: por escabelo dos teus pés - N4: debaixo dos teus pés
 \*fn}
 \v Mc.12.37
@@ -2149,11 +2141,11 @@ se
 \*added
  o próprio Davi o chama de Senhor, como, pois, é so eu filho?E a grande multidão o ouvia de boa vontade.
 \v Mc.12.38
-E dizia{tr,rp:-lhes}{trnc:
-\fn
+E dizia{tr,rp:-lhes}
+{trnc:\fn
 N4 omite "-lhes"
-\*fn
-} em seu ensino:  Cuidado com os escribas, que gostam de andar com roupas compridas, das saudações nas praças,
+\*fn}
+ em seu ensino:  Cuidado com os escribas, que gostam de andar com roupas compridas, das saudações nas praças,
 \v Mc.12.39
 das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias.
 \v Mc.12.40
@@ -2523,7 +2515,14 @@ E levaram Jesus ao sumo sacerdote; e ajuntaram-se{tr,rp: a ele} todos os chefes 
 \v Mc.14.54
 E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e ficou sentado com os oficiais, esquentando-se ao fogo.
 \v Mc.14.55
-E os chefes dos sacerdotes, e todo o tribunal buscavam 
+E os chefes dos sacerdotes, e todo o supremo conselho
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ buscavam 
 \added
 algum
 \*added
@@ -2590,7 +2589,14 @@ dizendo
 negarás três vezes.” 
 Então ele retirou-se dali e chorou.
 \v Mc.15.1
-E logo ao amanhecer, os chefes dos sacerdotes tiveram uma reunião com os anciãos, com os escribas, e com todo o tribunal; e, amarrando a Jesus, levaram 
+E logo ao amanhecer, os chefes dos sacerdotes tiveram uma reunião com os anciãos, com os escribas, e com todo o supremo conselho;
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ e, amarrando Jesus, levaram 
 \added
 -no
 \*added
@@ -2792,11 +2798,10 @@ Mas ele lhes disse: Não vos espanteis. Vós buscais a Jesus Nazareno crucificad
 \v Mc.16.7
 Porém ide, dizei a seus discípulos e a Pedro, que ele vai adiante de para a Galileia; ali o vereis, como ele vos disse.
 \v Mc.16.8
-Então elas, saindo apressadamente, fugiram do sepulcro, porque temor e espanto as haviam tomado; e não disseram nada a ninguém, porque tinham medo.{trnc,n4: 
-\fn
+Então elas, saindo apressadamente, fugiram do sepulcro, porque temor e espanto as haviam tomado; e não disseram nada a ninguém, porque tinham medo.
+{trnc,n4:\fn
 N4 não considera como original o conteúdo dos versículos 9 ao 20{n4:, incluso em TR e RP}
-\*fn
-}
+\*fn}
 \v Mc.16.9
 {n4:«}E havendo ressuscitado pela manhã, no primeiro 
 \added

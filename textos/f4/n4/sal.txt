@@ -194,7 +194,11 @@ Até minha alma está muito aflita; e tu, SENHOR, até quando?
 \v Sl.6.4
 Volta, SENHOR; livra minha alma; salva-me por tua bondade.
 \v Sl.6.5
-Porque na morte não há lembrança de ti; no mundo dos mortos quem te louvará?
+Porque na morte não há lembrança de ti; no Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ quem te louvará?
 \v Sl.6.6
 Já estou cansado do meu gemido; toda a noite eu inundo a minha cama; com minhas lágrimas molho meu leito.
 \v Sl.6.7
@@ -401,11 +405,15 @@ próprias
 \*added
  mãos. (Higaiom, Selá)
 \v Sl.9.17
-Os perversos voltarão ao mundo dos mortos; e 
-\added
-também
-\*added
- todas as nações que se esquecem de Deus.
+Os perversos irão
+\fn
+Ou: voltarão
+\*fn
+ para o Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e todas as nações que se esquecem de Deus.
 \v Sl.9.18
 Porque o necessitado não será esquecido para sempre; 
 \added
@@ -721,7 +729,14 @@ ele está
 \v Sl.16.9
 Por isso meu coração está contente, e minha glória se alegra; certamente minha carne habitará em segurança.
 \v Sl.16.10
-Porque tu não deixarás a minha alma no mundo dos mortos, nem permitirás que teu Santo veja corrupção.
+Porque tu não deixarás a minha alma no Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ nem permitirás que teu Santo veja a degradação.
+\fn
+Ou: deterioração, putrefação
+\*fn
 \v Sl.16.11
 Tu me farás conhecer o caminho da vida; fartura de alegrias 
 \added
@@ -828,7 +843,11 @@ Eu clamei ao SENHOR digno de louvor; e fiquei livre de meus inimigos.
 \v Sl.18.4
 Cordas de morte me cercaram; e riachos de maldade me encheram de medo.
 \v Sl.18.5
-Cordas do mundo dos mortos me envolveram; laços de morte me confrontaram.
+Cordas do Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ me envolveram; laços de morte me afrontaram.
 \v Sl.18.6
 Em minha angústia, clamei ao SENHOR, e roguei a meu Deus; desde o seu Templo ele ouviu a minha voz; e o meu clamor diante de seu rosto chegou aos ouvidos dele.
 \v Sl.18.7
@@ -1419,8 +1438,6 @@ bom
 \*added
  juízo; e ensinará aos humildes seu caminho.
 \v Sl.25.10
-
-
 Todos os caminhos do SENHOR são bondade e verdade, para aqueles que guardam seu pacto e seus testemunhos.
 \v Sl.25.11
 Pelo teu nome, SENHOR, perdoa a minha maldade, porque ela é grande.
@@ -1459,9 +1476,9 @@ Presta atenção a meus inimigos, porque eles estão se multiplicando; eles me o
 \v Sl.25.20
 Guarda minha alma, e livra-me; não me deixes envergonhado, porque eu confio em ti.
 \v Sl.25.21
-Sinceridade e justiça me guardem, porque eu espero em ti.
+Integridade e justiça me guardem, porque eu espero em ti.
 \v Sl.25.22
-Ó Deus, resgata a Israel de todas as suas angústias.
+Ó Deus, resgata Israel de todas as suas angústias.
 \psalm-title
 Salmo de Davi:
 \*psalm-title
@@ -1646,7 +1663,11 @@ Eu te exaltarei, SENHOR, porque tu me levantaste, e fizeste com que meus inimigo
 \v Sl.30.2
 SENHOR, meu Deus; eu clamei a ti, e tu me curaste.
 \v Sl.30.3
-SENHOR, tu levantaste minha alma para fora do mundo dos mortos; tu guardaste minha vida, para que eu não descesse à sepultura.
+SENHOR, tu levantaste minha alma do Xeol;
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ preservaste-me a vida, para que eu não descesse à sepultura.
 \v Sl.30.4
 Cantai ao SENHOR, vós 
 \added
@@ -1722,7 +1743,7 @@ Inclina a mim os teus ouvidos, faze-me escapar depressa
 \added
 do perigo
 \*added
- ; sê tu por minha rocha firme, por casa fortíssima, para me salvar.
+; sê tu por minha rocha firme, por casa fortíssima, para me salvar.
 \v Sl.31.3
 Porque tu 
 \added
@@ -1780,7 +1801,10 @@ Meus tempos estão em tuas mãos; livra-me da mão dos meus inimigos e daqueles 
 \v Sl.31.16
 Faz brilhar o teu rosto sobre teu servo; salva-me por tua bondade.
 \v Sl.31.17
-SENHOR, não me deixes envergonhado, pois eu clamo a ti; que os perversos se envergonhem, calem-se eles no mundo dos mortos.
+SENHOR, não me deixes envergonhado, pois eu clamo a ti; que os perversos se envergonhem e se calem no Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Sl.31.18
 Emudeçam os lábios mentirosos, que falam coisas duras contra o justo, com arrogância e desprezo.
 \v Sl.31.19
@@ -2243,11 +2267,11 @@ trad. alt. alimenta-te da fidelidade
 \v Sl.37.4
 E agrada-te no SENHOR; e ele te dará os pedidos de teu coração.
 \v Sl.37.5
-Conduz teu caminho ao SENHOR, e confia nele; e ele lhe fará o bem.
+Entrega o teu caminho ao SENHOR; confia nele, e ele agirá,
 \v Sl.37.6
-E ele manifestará tua justiça como a luz; e teu direito como o sol do meio-dia.
+e manifestará a tua justiça como a luz, e o teu direito como o sol do meio-dia.
 \v Sl.37.7
-Descansa-te no SENHOR, e espera por ele; não te irrites contra aquele cujo caminho prospera, 
+Descansa no SENHOR, e espera nele; não te irrites contra aquele cujo caminho prospera, 
 \added
 nem
 \*added
@@ -2482,7 +2506,7 @@ Certamente o homem anda pela aparência, certamente se inquietam em vão; ajunta
 \added
 bens
 \*added
-,e não sabem que 
+, e não sabem que 
 \added
 os
 \*added
@@ -3091,8 +3115,12 @@ Mas o ser humano, ainda que em honra, não dura para sempre; semelhante é aos a
 \v Sl.49.13
 Este é o caminho dos tolos e dos seus seguidores, que se agradam de suas palavras. (Selá)
 \v Sl.49.14
-São como ovelhas trazidas ao mundo dos mortos; a morte se alimentará deles. Os corretos os dominarão pela manhã; 
-a forma deles se consumirá no mundo dos mortos, a sua habitação.
+São como ovelhas levados ao Xeol;
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ a morte se alimentará deles. Os corretos os dominarão pela manhã, 
+e sua beleza será consumida no Xeol, longe de sua morada.
 \v Sl.49.15
 Mas Deus resgatará a minha alma da violência
 \fn
@@ -3415,17 +3443,19 @@ um ao outro
 \*added
 ; na casa de Deus andávamos entre a multidão.
 \v Sl.55.15
-Que a morte os tome de surpresa, 
-\added
-e
-\*added
- desçam ao mundo dos mortos 
-\added
-ainda
-\*added
- vivos; porque maldades há na morada deles, e no interior de cada um deles.
+Que a morte os tome de surpresa, e desçam ao Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ vivos; porque há maldades em suas moradas, e no meio deles.
+\fn
+\key
+no meio deles
+\*key
+Ou: no interior deles
+\*fn
 \v Sl.55.16
-Eu clamarei a Deus, e o SENHOR me salvará.
+Clamarei a Deus, e o SENHOR me salvará.
 \v Sl.55.17
 À tarde, e pela manhã, e ao meio dia, orarei e clamarei; e ele ouvirá a minha voz.
 \v Sl.55.18
@@ -3481,7 +3511,14 @@ me
 \v Sl.56.3
 No dia em que eu tiver medo, eu confiarei em ti.
 \v Sl.56.4
-Por causa de Deus eu louvarei sua palavra; confio em Deus, não temerei; o que a carne pode fazer contra mim?
+Por causa de Deus eu louvarei sua palavra; confio em Deus, não temerei; o que pode a mera carne
+\fn
+\key
+mera carne
+\*key
+Isto é, o ser humano
+\*fn
+ fazer contra mim?
 \v Sl.56.5
 Todos os dias eles distorcem minhas palavras; todos os pensamentos deles sobre mim são para o mal.
 \v Sl.56.6
@@ -5666,9 +5703,12 @@ e
 \*added
  eu andarei em tua verdade; une meu coração com o temor ao teu nome.
 \v Sl.86.12
-Louvarei a ti, ó Senhor meu Deus, com todo o meu coração; e glorificarei o teu nome para sempre;
+Louvarei a ti, ó Senhor meu Deus, com todo o meu coração; e glorificarei o teu nome para sempre.
 \v Sl.86.13
-Pois grande é a tua bondade para comigo, e tu resgataste minha alma das profundezas do mundo dos mortos.
+Pois grande é a tua misericórdia para comigo; e livraste minha alma das profundezas do Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Sl.86.14
 Ó Deus, pessoas arrogantes têm se levantado contra mim; e muitos violentos procuram 
 \added
@@ -5721,7 +5761,10 @@ e
 \v Sl.88.2
 Que minha oração chegue à tua presença; inclina os teus ouvidos ao meu clamor.
 \v Sl.88.3
-Porque minha alma está cheia de aflições, e minha vida está quase no mundo dos mortos.
+Porque minha alma está cheia de aflições, e minha vida se aproxima do Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Sl.88.4
 Já estou contado entre os que descem à cova; tornei-me um homem sem forças.
 \v Sl.88.5
@@ -5901,7 +5944,11 @@ Até quando, SENHOR? Tu te esconderás para sempre? Arderá teu furor como o fog
 \v Sl.89.47
 Lembra-te de que curta é minha vida; por que criarias em vão todos os filhos dos homens?
 \v Sl.89.48
-Que homem vive, que não experimente a morte? Escaparia a alma dele do poder do mundo dos mortos? (Selá)
+Que homem vive, que não experimente a morte? Livrará ele a sua alma do poder do Xeol?
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ (Selá)
 \v Sl.89.49
 Senhor, onde estão as tuas bondades do passado, que juraste a Davi por tua fidelidade?
 \v Sl.89.50
@@ -7522,7 +7569,11 @@ todos
 \*added
  os meus dias.
 \v Sl.116.3
-Cordas da morte me cercaram, e angústias do mundo dos mortos me encontraram; achei opressão e aflição.
+Cordas da morte me cercaram, e angústias do Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ me afrontaram; encontrei opressão e aflição.
 \v Sl.116.4
 Mas clamei ao nome do SENHOR, 
 \added
@@ -9060,21 +9111,17 @@ Se eu subisse até os céus, lá tu
 \added
 estás
 \*added
- ; se eu fosse me deitar no mundo dos mortos, eis que tu 
+; se eu fizer meu leito no Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ eis que tu 
 \added
-também ali estarias
+também ali estás
 \*added
- .
+.
 \v Sl.139.9
- 
-\added
-Se
-\*added
- eu tomasse as asas do amanhecer, 
-\added
-e
-\*added
- morasse nos limites do mar,
+Se eu tomasse as asas do amanhecer, e morasse nas extremidades do mar,
 \v Sl.139.10
 Até ali tua mão me guiaria, e tua mão direita me seguraria.
 \v Sl.139.11
@@ -9128,11 +9175,7 @@ ainda
 \v Sl.139.17
 Como são preciosos para mim os teus pensamentos, Deus! Como é grande a quantidade deles!
 \v Sl.139.18
- 
-\added
-Se
-\*added
- eu os contasse, seriam muito mais 
+Se eu os contasse, seriam muito mais 
 \added
 numerosos
 \*added
@@ -9213,11 +9256,7 @@ para que
 \*added
  não se levantem mais.
 \v Sl.140.11
-O homem de língua maligna não se firmará na terra; o mal perseguirá o homem violento até derrubá 
-\added
--lo
-\*added
- .
+O homem de língua maligna não se firmará na terra; o mal perseguirá o homem violento até o derrubar.
 \v Sl.140.12
 Eu sei que o SENHOR cumprirá a causa do aflito, o direito dos necessitados.
 \v Sl.140.13
@@ -9262,11 +9301,10 @@ são
 \*added
  agradáveis.
 \v Sl.141.7
-Tal como alguém que fendeu e partiu a terra, 
-\added
-assim também
-\*added
- nossos ossos foram espalhados à boca do mundo dos mortos.
+Como quem lavra e fende a terra, assim nossos ossos são espalhados à entrada do Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Sl.141.8
 Porém meus olhos 
 \added
@@ -9274,7 +9312,7 @@ estão voltados
 \*added
  para ti, ó Senhor DEUS; em ti confio; não desampares minha alma.
 \v Sl.141.9
-Guarda-me do perigo da armadilha que me prepararam; e dos laços da cilada dos que praticam perversidade.
+Guarda-me do perigo da armadilha que me prepararam; e dos laços da cilada dos que praticam maldade.
 \v Sl.141.10
 Caiam os perversos cada um em suas próprias redes, e eu passe adiante 
 \added

@@ -282,7 +282,6 @@ Mas o ser humano nasce para a opressão, assim como as faíscas das brasas se le
 \v Jo.5.8
 Porém eu buscaria a Deus, e a ele confiaria minha causa;
 \v Jo.5.9
- 
 \added
 Pois
 \*added
@@ -453,7 +452,11 @@ Lembra-te que minha vida é um sopro; meus olhos não voltarão a ver o bem.
 \v Jo.7.8
 Os olhos dos que me veem não me verão mais; teus olhos estarão sobre mim, porém deixarei de existir.
 \v Jo.7.9
-A nuvem se esvaece, e passa; assim também quem desce ao mundo dos mortos nunca voltará a subir.
+A nuvem se esvaece, e passa; assim também quem desce ao Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ nunca voltará a subir.
 \v Jo.7.10
 Nunca mais voltará à sua casa, nem seu lugar o conhecerá.
 \v Jo.7.11
@@ -475,7 +478,7 @@ Odeio
 \added
 a minha vida
 \*added
- ; não viverei para sempre; deixa-me, pois que meus dias são inúteis.
+; não viverei para sempre; deixa-me, pois que meus dias são inúteis.
 \v Jo.7.17
 O que é o ser humano, para que tanto o estimes, e ponhas sobre ele teu coração,
 \v Jo.7.18
@@ -485,11 +488,8 @@ Até quando não me deixarás, nem me liberarás até que eu engula minha saliva
 \v Jo.7.20
 Se pequei, o eu que te fiz, ó Guarda dos homens? Por que me fizeste de alvo de dardos, para que eu seja pesado para mim mesmo?
 \v Jo.7.21
-E por que não perdoas minha transgressão, e tiras minha maldade? Porque agora dormirei no pó, e me buscarás de manhã, mas não existirei 
-\added
-mais
-\*added
- .
+E por que não perdoas minha transgressão, e tiras minha maldade? Porque agora dormirei no pó, e me buscarás de manhã, 
+porém não mais existirei.
 \v Jo.8.1
 Então Bildade, o suíta, respondeu, dizendo:
 \v Jo.8.2
@@ -741,11 +741,14 @@ mereces
 \v Jo.11.7
 Podes tu compreender os mistérios de Deus? Chegarás tu à perfeição do Todo-Poderoso?
 \v Jo.11.8
- 
 \added
 Sua sabedoria
 \*added
- é mais alta que os céus; que poderás tu fazer? E mais profunda que o mundo dos mortos; o que podes tu saber?
+ é mais alta que os céus; que tu poderás fazer? E mais profunda que o Xeol;
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ que tu poderás conhecer?
 \v Jo.11.9
 Sua medida é mais comprida que a terra, e mais larga que o mar.
 \v Jo.11.10
@@ -846,14 +849,13 @@ Com
 \added
 Deus
 \*added
- 
 \fn
 \key
 [Deus]
 \*key
 lit. ele 
 \*fn
-está a sabedoria e a força; o conselho e o entendimento lhe pertencem.
+ está a sabedoria e a força; o conselho e o entendimento lhe pertencem.
 \v Jo.12.14
 Eis que o que ele derruba não pode ser reconstruído; e ninguém pode libertar o homem a quem ele aprisiona.
 \v Jo.12.15
@@ -898,7 +900,7 @@ Eis que meus olhos têm visto tudo
 \added
 isto
 \*added
- ; meus ouvidos o ouviram, e entenderam.
+; meus ouvidos o ouviram, e entenderam.
 \v Jo.13.2
 Assim como vós o sabeis, eu também o sei; não sou inferior a vós.
 \v Jo.13.3
@@ -1007,15 +1009,11 @@ As águas se vão do lago, e o rio se esgota, e se seca.
 \v Jo.14.12
 Assim o homem se deita, e não se levanta; até que não haja mais céus, eles não despertarão, nem se erguerão de seu sono.
 \v Jo.14.13
-Queria eu me esconder no mundo dos mortos, e me ocultar até que tua ira se afastasse, 
-\added
-e
-\*added
- me pusesses um limite 
-\added
-de tempo
-\*added
-,e te lembrasses de mim!
+Ah, se tu me escondesses no Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e me ocultasses até que a tua ira passasse, se me pusesses um limite de tempo, e te lembrasses de mim!
 \v Jo.14.14
 Se o homem morrer, voltará a viver? Todos os dias de meu combate esperarei, até que venha minha dispensa.
 \v Jo.14.15
@@ -1239,21 +1237,22 @@ Meus dias se passaram, meus pensamentos foram arrancados, os desejos do meu cora
 \v Jo.17.12
 Tornaram a noite em dia; a luz se encurta por causa das trevas.
 \v Jo.17.13
-Se eu esperar, o mundo dos mortos será minha casa; nas trevas estenderei minha cama.
+Se eu esperar, o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ será minha casa; nas trevas estenderei minha cama.
 \v Jo.17.14
 À cova chamo: Tu és meu pai;  
+e aos vermes: 
 \added
-e
-\*added
- aos vermes:  
-\added
-Vós sois
+Sois
 \*added
  minha mãe e minha irmã.
 \v Jo.17.15
-Onde pois estaria agora minha esperança? E minha esperança quem a poderá ver?
+Onde, pois, estaria agora minha esperança? Quanto à minha esperança, quem a poderá ver?
 \v Jo.17.16
-Descerão aos ferrolhos do mundo dos mortos? Descansaremos juntos no pó da terra?
+Será que ela descerá aos ferrolhos do Xeol? Descansaremos juntos no pó da terra?
 \v Jo.18.1
 Então Bildade, o suíta, respondeu, dizendo:
 \v Jo.18.2
@@ -1589,7 +1588,10 @@ em um momento
 \*key
 trad. alt. em paz 
 \*fn
-descem ao mundo dos mortos.
+descem ao Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Jo.21.14
 Assim dizem a Deus: Afasta-te de nós, porque não queremos conhecer teus caminhos.
 \v Jo.21.15
@@ -1898,7 +1900,7 @@ Há os que
 \v Jo.24.10
 Ao nus fazem andar sem vestes, e fazem os famintos carregarem feixes.
 \v Jo.24.11
-Entre suas paredes espremem o azeite; pisam os lagares, e 
+Entre suas paredes espremem o azeite; pisam nas prensas de uvas, e 
 \added
 ainda
 \*added
@@ -1918,21 +1920,21 @@ Porque a manhã é para todos eles como sombra de morte; pois são conhecidos do
 \v Jo.24.18
 Ele é ligeiro sobre a superfície das águas; maldita é sua porção sobre a terra; não se vira para o caminho das vinhas.
 \v Jo.24.19
-A seca e o calor desfazem as águas da neve; 
+A seca e o calor desfazem as águas da neve; assim 
 \added
-assim também
+faz
 \*added
- o mundo dos mortos 
-\added
-faz aos que
-\*added
- pecaram.
+ o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ aos que pecaram.
 \v Jo.24.20
 A mãe se esquecerá dele; doce será para os vermes; nunca mais haverá memória 
 \added
 dele
 \*added
-,e a perversidade será quebrada como um árvore.
+, e a perversidade será quebrada como um árvore.
 \v Jo.24.21
 Aflige à mulher estéril, 
 \added
@@ -2010,11 +2012,15 @@ tais
 \v Jo.26.5
 Os mortos tremem debaixo das águas com os seus moradores.
 \v Jo.26.6
-O mundo dos mortos está nu diante de 
-\added
-Deus
-\*added
-,e não há cobertura para a perdição.
+O Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ está nu perante Deus
+\fn
+Lit. perante dele
+\*fn
+, e não há cobertura para a perdição.
 \v Jo.26.7
 Ele estende o norte sobre o vazio, suspende a terra sobre o nada.
 \v Jo.26.8
@@ -2094,7 +2100,7 @@ Eis que todos vós tendes visto
 \added
 isso
 \*added
- ; então por que vos deixais enganar por ilusão?
+; então por que vos deixais enganar por ilusão?
 \v Jo.27.13
 Esta é a porção do homem perverso para com Deus, a herança que os violentos receberão do Todo-Poderoso:
 \v Jo.27.14

@@ -60,7 +60,7 @@ Eis que eu repreenderei a vossa semente,
 \key
 vossa semente
 \*key
-i.e., vossos descendentes
+i.e. vossos descendentes
 \*fn
  e espalharei lixo
 \fn
@@ -174,14 +174,21 @@ E eles serão minha propriedade especial no dia que eu preparo,diz o SENHOR dos 
 \v Ml.3.18
 Então voltareis a ver a diferença entre o justo e o perverso, entre o que serve a Deus e o que não lhe serve.
 \v Ml.4.1
-Porque eis que aquele dia vem ardendo como forno; e todos os soberbos e todos os que praticam perversidade serão palha; e o dia que vem os incendiará,diz o SENHOR dos exércitos, de tal maneira que não lhes deixará nem raiz nem ramo.
+Porque eis que aquele dia vem ardendo como forno; todos os soberbos e todos os que praticam perversidade serão 
+\added
+como a
+\*added
+palha; e o dia que está por vir os queimará, diz o SENHOR dos exércitos, de maneira que não lhes deixará nem raiz nem ramo.
 \v Ml.4.2
-Mas a vós os que temeis meu nome, o Sol da justiça nascerá, e trará cura em suas asas; e saireis, e saltareis de alegria como bezerros do estábulo.
+Mas para vós, que temeis o meu nome, o Sol da justiça nascerá, trazendo cura em suas asas; e saireis, e saltareis de 
+alegria como bezerros do curral.
 \v Ml.4.3
-E esmagareis os perversos, os quais serão cinza debaixo das plantas de vossos pés, no dia que eu preparo,diz o SENHOR dos exércitos.
+E pisareis os perversos, porque serão cinza debaixo das plantas dos vossos pés, no dia que eu preparo, diz o SENHOR 
+dos exércitos.
 \v Ml.4.4
 Lembrai-vos da lei de meu servo Moisés, que lhe mandei em Horebe estatutos e regras para todo Israel.
 \v Ml.4.5
 Eis que eu vos envio o profeta Elias, antes que venha o grande e temível dia do SENHOR.
 \v Ml.4.6
-Ele converterá o coração dos pais aos filhos, e o coração dos filhos aos pais; para que não seja que eu venha e fira a terra com maldição.
+Ele converterá o coração dos pais aos filhos, e o coração dos filhos aos pais; para que eu não venha e fira a terra 
+com maldição.

@@ -2120,14 +2120,8 @@ Nos profetas de Samaria vi coisas desagradáveis: profetizavam por Baal, e fazia
 \v Jr.23.14
 Mas nos profetas de Jerusalém tenho vejo coisas horríveis: cometem adultérios, e andam com falsidade, e fortalecem as mãos dos malfeitores, para que ninguém se converta de sua maldade. Para mim, todos eles são como Sodoma, e seus moradores como Gomorra.
 \v Jr.23.15
-Por isso assim diz o SENHOR dos exércitos sobre os profetas: Eis que eu lhes darei de comer absinto, e lhes farei beber águas de veneno; porque dos profetas de Jerusalém tem saído a corrupção
-\fn
-\key
-corrupção
-\*key
-trad. alt. contaminação
-\*fn
- por sobre toda a terra.
+Por isso, assim diz o SENHOR dos exércitos sobre os profetas: Eis que eu lhes darei de comer absinto, e lhes farei 
+beber águas envenenadas; porque dos profetas de Jerusalém a corrupção se espalhou sobre toda a terra.
 \v Jr.23.16
 Assim diz o SENHOR dos exércitos: Não deis ouvidos às palavras dos profetas que profetizam para vós; eles vos iludem;
 \fn
@@ -2136,11 +2130,7 @@ eles vos iludem
 \*key
 lit. eles vos fazem de vãos
 \*fn
- falam visão de seus 
-\added
-próprios
-\*added
- corações, e não da boca do SENHOR.
+ falam visão de seus próprios corações, e não da boca do SENHOR.
 \v Jr.23.17
 Dizem continuamente aos que me desprezam: O SENHOR diz: Tereis paz; E a qualquer um que segue a teimosia de seu 
 \added
@@ -4206,7 +4196,7 @@ porém
 \*added
  o destruidor veio sobre os frutos de teu verão, e sobre tua vindima.
 \v Jr.48.33
-Assim foram tirados a alegria e o regozijo dos campos férteis, e da terra de Moabe: pois fiz cessar o vinho dos lagares; já não pisarão 
+Assim foram tirados a alegria e o regozijo dos campos férteis, e da terra de Moabe: pois fiz cessar o vinho das prensas; já não pisarão 
 \added
 uvas
 \*added

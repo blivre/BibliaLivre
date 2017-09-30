@@ -305,84 +305,67 @@ Dois são melhores do que um, porque eles têm melhor recompensa por seu trabalh
 \v Ec.4.10
 Porque se vierem a cair, um levanta ao seu companheiro; mas ai daquele que está só, pois caso caia, não há outro que o levante.
 \v Ec.4.11
-Também se dois deitarem juntos, eles se aquecem; mas o sozinho, como se aquecerá?
+Também, se dois se deitarem juntos, eles se aquecem; mas como alguém sozinho poderá se aquecer?
 \v Ec.4.12
-E se alguém prevalecer contra um, os dois resistirão contra ele; porque o cordão de três dobras não se quebra tão depressa.
+E se alguém prevalecer contra um, dois podem resistir contra ele; porque o cordão de três dobras não se rompe tão depressa.
 \v Ec.4.13
-Melhor é o garoto pobre e sábio, do que o rei velho e tolo, que não aceita mais receber advertência.
+Melhor é o jovem pobre e sábio do que o rei velho e tolo, que não sabe dar ouvidos aos conselhos,
 \v Ec.4.14
-Porque da prisão ele sai para reinar, ainda que tenha nascido pobre em seu 
+porque esse 
 \added
-próprio
+jovem
 \*added
- reino.
+ pode sair até da prisão para se tornar rei, ainda que tenha nascido pobre em seu reino.
 \v Ec.4.15
-Vi todos os vivos que andam abaixo do sol com o garoto sucessor, que estará em seu lugar.
+Vi todos os vivos, que andam abaixo do sol, estarem com o jovem, o sucessor, que ficaria em seu lugar.
 \v Ec.4.16
-Não tem fim todo o povo, todo o que houve antes deles; assim como também os descendentes não se alegrarão por ele, de modo que isto também é fútil 
+Não havia fim todo o povo, todo o que houve antes deles; porém os que vêm depois não se alegrarão nele. Também isso é fútil 
 \added
 como
 \*added
  perseguir o vento.
 \v Ec.5.1
-Guarda teu pé, quando entrares na casa de Deus, e prefira te achegares para ouvir do que para dar sacrifícios de tolos, pois não sabem que fazem mal.
+Guarda os teus passos
+\fn
+\key
+os teus passos
+\*key
+Lit. o teu pé
+\*fn
+ quando entrares na casa de Deus, e te achegues a ouvir em vez de oferecer sacrifícios de tolos, pois não sabem que fazem mal.
 \v Ec.5.2
-Não te precipites com tua boca, nem te apresse com teu coração, a pronunciar palavra alguma perante a face de Deus; porque Deus está nos céus, e tu estás sobre a terra; por isso tuas palavras sejam poucas.
+Não te precipites com tua boca, nem te apresses com teu coração, a pronunciar palavra alguma perante a face de Deus; 
+porque Deus está nos céus, e tu estás na terra; por isso, que tuas palavras sejam poucas.
 \v Ec.5.3
-Porque 
-\added
-assim como
-\*added
- da muita ocupação vêm os sonhos, assim 
-\added
-também
-\*added
- a voz do tolo 
-\added
-vem
-\*added
- das muitas palavras.
+Pois, como os sonhos vêm das muitas ocupações, assim também o excesso de palavras vem da voz do tolo.
 \v Ec.5.4
-Quando tu prometeres cumprir algum voto a Deus, não demores em pagá-lo; porque ele não se agrada de tolos. Paga o que votares.
+Quando fizeres algum voto a Deus, não demores em pagá-lo; porque ele não se agrada de tolos. Paga o voto que fizeres.
 \v Ec.5.5
-Melhor é que não votes, do que votares, e não pagares.
+Melhor é que não faças voto, do que fazeres um voto, e não o pagares.
 \v Ec.5.6
-Não permitas a tua boca, que faça a tua carne pecar; nem digas perante a face do mensageiro, que foi um erro; porque 
-\added
-farias
-\*added
- irar a Deus tanto com tua voz, 
-\added
-a ponto
-\*added
- dele destruir a obra de tuas mãos?
+Não permitas que a tua boca faça a tua carne pecar; nem digas perante o mensageiro que foi um mero erro; por que 
+provocarias a ira de Deus com a tua voz, para que ele destrua a obra de tuas mãos?
 \v Ec.5.7
-Porque na abundância de sonhos há coisas inúteis, assim como na abundância de palavras; porém teme a Deus.
+Porque, como na abundância de sonhos há futilidades, assim, também, há abundância de palavras; tu, porém, teme a Deus.
 \v Ec.5.8
-Se tu vires em algum território a opressão dos pobres, e a violência contra o direito e a justiça, não te maravilhes 
-de tal caso; porque aquele que tem maior autoridade supervisiona as outras autoridades menores; e há 
-\added
-outros
-\*added
- de ainda maior autoridade que eles.
+Se vires em algum território a opressão dos pobres, e a violência contra o direito e a justiça, não te surpreendas 
+de tal caso; porque o oficial tem uma autoridade maior que o supervisiona; e acima de ambos há outros que têm
+autoridade ainda maior.
 \v Ec.5.9
-Mas o proveito da terra é para todos; até o rei se serve do campo.
+E o proveito da terra é para todos; até o rei se serve do campo.
 \v Ec.5.10
-Aquele que amar o dinheiro, nunca se fartará de dinheiro; e quem amar a riqueza, nunca 
+O que amar o dinheiro nunca se saciará do dinheiro; e quem amar a riqueza, nunca 
 \added
-se fartará
+se saciará
 \*added
- com 
-\added
-seus
-\*added
- bens; isto também é futilidade.
+ do lucro; isso também é futilidade.
 \v Ec.5.11
-Onde os bens se multiplicam, ali se multiplicam também os que a comem; e que proveito pois tem seus donos, a não ser somente ver 
+Onde os bens se multiplicam, ali se multiplicam também os que os cosomem; e que proveito pois tem seus donos, a não 
+ser somente ver 
 \added
-a riqueza
+as riquezas
 \*added
- com seus olhos?
+ com seus próprios olhos?
 \v Ec.5.12
 Doce é o sono do trabalhador, quer coma pouco, quer muito; porém a fartura do rico não o deixa dormir.
 \v Ec.5.13
@@ -390,13 +373,15 @@ Há um mal causador de sofrimentos que vi abaixo do sol: as riquezas que seus do
 \v Ec.5.14
 Porque as mesmas riquezas se perdem com negócios malsucedidos; e quando gera algum filho, nada lhe fica em sua mão.
 \v Ec.5.15
-Assim como ele saiu do ventre de sua mão, nu ele voltará, indo assim como veio; e nada tomará de seu trabalho, para levar em sua mão.
+Assim como ele saiu do ventre de sua mãe, nu ele voltará, indo-se como veio; e nada tomará de seu trabalho, que possa levar em sua mão.
 \v Ec.5.16
-De modo que isto também é um mal causador de sofrimentos, que exatamente como veio, assim se vai; e que proveito ele teve em trabalhar para o vento?
+De maneira que isto também é um mal causador de sofrimentos, que exatamente como veio, assim se vai; e que proveito ele
+ teve em trabalhar para o vento?
 \v Ec.5.17
 Além disso, ele comeu em trevas todos os seus dias; sofreu muito, e teve enfermidades e irritações.
 \v Ec.5.18
-Eis o que eu vi, algo bom e belo: comer, beber, e experimentar o que é bom de todo o seu trabalho em que trabalhou abaixo do sol, durante os dias de sua vida, que Deus lhe deu; porque isto é a parte que lhe pertence.
+Eis o que eu vi, algo bom e belo: comer, beber, e experimentar o que é bom de todo o seu trabalho em que trabalhou 
+abaixo do sol, durante os dias de sua vida, que Deus lhe deu; porque isto é a parte que lhe pertence.
 \v Ec.5.19
 E todo homem a quem Deus deu riquezas e bens, e lhe deu poder para comer delas, e tomar sua parte, e se alegrar de seu trabalho; isto é presente de Deus.
 \v Ec.5.20
@@ -405,14 +390,15 @@ Pois ele não se lembrará muito dos dias de sua vida, porque Deus lhe responde 
 Há um mal que vi abaixo do sol, e é muito frequente entre os homens:
 \v Ec.6.2
 Um homem a quem Deus deu riquezas, bens, e honra; e nada lhe falta de tudo quanto a sua alma deseja; porém Deus não 
-lhe dá poder para dessas coisas comer; ao invés disso, um estranho as come; isso é futilidade e um mal causador 
+lhe dá poder para dessas coisas comer; em vez disso, um estranho as come; isso é futilidade e um mal causador 
 de sofrimento.
 \v Ec.6.3
 Se o homem gerar cem 
 \added
 filhos
 \*added
-, e viver muitos anos, e os dias de seus anos forem muitos, porém se sua alma não se fartar daquilo que é bom, nem tiver sepultamento, digo que ter sido abortado 
+, e viver muitos anos, e os dias de seus anos forem muitos, porém se sua alma não se saciar daquilo que é bom, nem 
+tiver sepultamento, digo que ter sido abortado 
 \added
 teria sido
 \*added
@@ -433,11 +419,15 @@ E ainda que vivesse mil anos duas vezes, e não experimentasse o que é bom, por
 \v Ec.6.7
 Todo o trabalho do homem é para sua boca; porém sua alma nunca se satisfaz.
 \v Ec.6.8
-Porque que vantagem tem o sábio sobre o tolo? E o que 
+Pois que vantagem tem o sábio sobre o tolo? E que 
 \added
 mais
 \*added
- tem o pobre, em saber andar perante os vivos?
+ tem o pobre que sabe como se comportar
+\fn
+Lit. andar
+\*fn
+ diante dos vivos?
 \v Ec.6.9
 Melhor é a vista dos olhos do que o vaguear da cobiça; também isto é fútil 
 \added
@@ -457,21 +447,18 @@ já
 \*added
  se sabe o que o homem é; e que não pode disputar contra aquele que é mais poderoso do que ele.
 \v Ec.6.11
-Pois quanto mais palavras há, maior é a futilidade; e que proveito tem homem 
+Pois quanto mais palavras há, maior é a futilidade; e que proveito há 
 \added
-com elas
+nelas
 \*added
-?
+ para o homem?
 \v Ec.6.12
-Pois quem é que sabe o que é bom na vida para o homem, durante os dias de sua vida inútil, os quais ele gasta como sombra? Pois quem contará ao homem o que haverá depois dele abaixo do sol?
+Pois quem sabe o que é bom nesta vida para o homem, durante os dias de sua vida de futilidade, os quais ele gasta 
+como sombra? Pois quem contará ao homem o que haverá depois dele abaixo do sol?
 \v Ec.7.1
-Melhor é uma 
+Melhor é uma boa reputação do que o bom óleo perfumado; e o dia da morte 
 \added
-boa
-\*added
- reputação do que o bom óleo perfumado; e o dia da morte 
-\added
-de alguém é melhor
+é melhor
 \*added
  que o dia de seu nascimento
 \v Ec.7.2
@@ -495,27 +482,16 @@ Pois o riso dos tolos é como o ruído de espinhos debaixo de uma panela; també
 \v Ec.7.7
 Verdadeiramente a opressão faz até o sábio enlouquecer, e o suborno corrompe o coração.
 \v Ec.7.8
-Melhor é o fim das coisas do que o princípio delas; melhor é o paciente de espírito que o arrogante de espírito.
+Melhor é o fim das coisas do que o princípio delas; melhor é o paciente de espírito do que o arrogante de espírito.
 \v Ec.7.9
 Não te apresses em teu espírito para te irares, porque a ira repousa no colo dos tolos.
 \v Ec.7.10
-Nunca digas: Por que os dias passados foram melhores que estes 
-\added
-de agora
-\*added
-? Pois não haveria sabedoria nisto que perguntarias.
+Nunca digas: Por que os dias passados foram melhores que os atuais? Pois nunca com sabedoria perguntarias isso.
 \v Ec.7.11
-Boa é a sabedoria com a herança; e proveito 
-\added
-há
-\*added
- para os que veem ao sol;
+A sabedoria é tão boa quanto uma herança; ela é um proveito para os que veem a luz do sol;
 \v Ec.7.12
-Porque a sabedoria serve de proteção, 
-\added
-assim como
-\*added
- o dinheiro serve de proteção; mas a maior vantagem do conhecimento é que a sabedoria dá vida aos que a possuem.
+porque a sabedoria serve de proteção, assim como o dinheiro serve de proteção; mas a vantagem do conhecimento é que a 
+sabedoria dá vida ao seu dono.
 \v Ec.7.13
 Observa a obra de Deus, pois quem poderá endireitar o que ele entortou?
 \v Ec.7.14
@@ -705,7 +681,12 @@ Deus
  te deu abaixo do sol, todos os teus fúteis dias; porque esta é a parte que te pertence nesta vida e em teu trabalho 
 no qual trabalhaste abaixo do sol.
 \v Ec.9.10
-Tudo quanto vier à tua mão para fazer, faze conforme as tuas forças; porque no mundo dos mortos, para onde tu vais, não há obra, nem planos, nem conhecimento, nem sabedoria alguma.
+Tudo quanto vier à tua mão para fazer, faze conforme as tuas forças; porque no Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ para onde vais, não há obra, nem 
+planos, nem conhecimento, nem sabedoria alguma.
 \v Ec.9.11
 Voltei-me, e vi abaixo do sol, que a corrida não é dos velozes, nem dos guerreiros a batalha, nem dos sábios o pão, nem dos prudentes as riquezas, nem dos conhecedores o favor; mas que o tempo e a ocasião imprevista acontece a todos estes.
 \v Ec.9.12

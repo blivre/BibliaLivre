@@ -1019,7 +1019,7 @@ RP, N4 omitem "Porque"
 {n4:\fn
 RP, TR contêm: "disse-lhe: Para trás de mim, Satanás! Porque está escrito" 
 \*fn}
- Adorarás ao Senhor teu Deus, e servirás só a ele.
+ Adorarás ao Senhor teu Deus, e só a ele servirás.
 \ref
 Deuteronômio 6:13
 \*ref
@@ -1059,7 +1059,7 @@ Então Jesus, no poder do Espírito, voltou para a Galileia, e sua fama se espal
 \v Lc.4.15
 Ele ensinava em suas sinagogas, e era recebido com honra por todos.
 \v Lc.4.16
-Ele veio a Nazaré, onde havia sido criado, e entrou, conforme o seu costume, num dia de Sábado, na sinagoga; e 
+Ele foi a Nazaré, onde havia sido criado, e entrou, conforme o seu costume, num dia de Sábado, na sinagoga; e 
 levantou-se para ler.
 \v Lc.4.17
 Foi-lhe dado o livro do profeta Isaías; e quando abriu o livro, achou o lugar onde estava escrito:
@@ -1076,7 +1076,7 @@ N4 não contém “para curar os contritos de coração”
 TR, RP contém “me enviou para curar os contritos de coração”
 \*fn}
 \v Lc.4.19
-para proclamar liberdade aos cativos e dar vista aos cegos, para enviar livres os oprimidos, para proclamar o ano 
+para proclamar liberdade aos cativos e dar vista aos cegos, para pôr em liberdade os oprimidos, para proclamar o ano 
 agradável do Senhor.
 \fn
 \key
@@ -2148,7 +2148,11 @@ E tu, Cafarnaum, que
 \added
 pensas 
 \*added
- estar elevada ao céu, até o mundo dos mortos serás derrubada!
+ estar elevada ao céu, até o Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ serás derrubada!
 \v Lc.10.16
 Quem vos ouve, ouve a mim; e quem vos rejeita, rejeita a mim; e quem me rejeita, rejeita aquele que me enviou.
 \v Lc.10.17
@@ -2192,31 +2196,22 @@ Mas ele, querendo se justificar, disse a Jesus: E quem é o meu próximo?
 \v Lc.10.30
 E respondendo Jesus, disse: Um homem descia de Jerusalém a Jericó, e foi atacado por assaltantes, que também tiraram suas roupas, espancaram-no, e se foram, deixando-o meio morto.
 \v Lc.10.31
-E por acaso descia um certo sacerdote pelo mesmo caminho, e vendo 
-\added
--o
-\*added
-,passou longe 
+E por acaso descia um certo sacerdote pelo mesmo caminho, e vendo-o, passou longe 
 \added
 dele
 \*added
- .
+.
 \v Lc.10.32
-E semelhantemente também um levita, chegando junto a aquele lugar, veio, e vendo 
-\added
--o
-\*added
-,passou longe 
+E semelhantemente também um levita, chegando junto a aquele lugar, veio, e vendo-o, passou longe 
 \added
 dele
 \*added
- 
 \v Lc.10.33
 Porém um certo samaritano, que ia pelo caminho, veio junto a ele, e vendo-o, teve compaixão 
 \added
 dele
 \*added
- .
+.
 \v Lc.10.34
 E chegando-se, amarrou-lhe 
 \added
@@ -2254,27 +2249,24 @@ E ele lhes disse: Quando orardes, dizei: Pai{tr,rp: nosso, que
 \added
 estás
 \*added
- nos céus},{trnc: 
-\fn
+ nos céus},
+{trnc:\fn
 N4 omite "nosso, que [estás] nos céus" 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP contêm: Pai nosso, que [estás] nos céus 
-\*fn
-} santificado seja o teu nome; venha o teu Reino{tr,rp:; seja feita a tua vontade, 
+\*fn}
+ santificado seja o teu nome; venha o teu Reino{tr,rp:; seja feita a tua vontade, 
 \added
 assim
 \*added
- na terra como no céu}.{trnc: 
-\fn
+ na terra como no céu}.
+{trnc:\fn
 N4 omite "seja feita a tua vontade, [assim] na terra como no céu" 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: "seja feita a tua vontade, [assim] na terra como no céu" ao final do versículo 
-\*fn
-}
+\*fn}
 \v Lc.11.3
 Dá-nos cada dia nosso pão diário.
 \v Lc.11.4
@@ -3113,7 +3105,11 @@ E desejava se satisfazer com as migalhas que caíam da mesa do rico; porém vinh
 \v Lc.16.22
 E aconteceu que o mendigo morreu, e foi levado pelos anjos para o colo de Abraão. E o rico também morreu, e foi sepultado.
 \v Lc.16.23
-E estando no mundo dos mortos em tormentos, ele levantou seus olhos, e viu a Abraão de longe, e a Lázaro em seu colo.
+E estando no Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ em tormentos, ele levantou seus olhos, e viu a Abraão de longe, e a Lázaro junto dele.
 \v Lc.16.24
 E ele, chamando, disse: Pai Abraão, tem misericórdia de mim, e manda a Lázaro que molhe a ponta de seu dedo na água, e refresque a minha língua; porque estou sofrendo neste fogo.
 \v Lc.16.25
@@ -3825,7 +3821,7 @@ nas
 \*added
  estrelas; e na terra sofrimento entre as nações, como o rugir e agitar do mar.
 \v Lc.21.26
-As pessoas se enfraquecendo de medo, e da espera das coisas que virão ao mundo, porque os poderes dos céus serão abalados.
+As pessoas desmaiarão de medo e da expectativa das coisas que vão acontecer ao mundo, porque os poderes dos céus serão abalados.
 \v Lc.21.27
 E então verão o Filho do homem vir em uma nuvem com grande poder e glória.
 \v Lc.21.28
@@ -4085,17 +4081,23 @@ E Pedro, saindo, chorou amargamente.
 \v Lc.22.63
 E os homens que tinham prendido a Jesus zombavam dele, ferindo-o;
 \v Lc.22.64
-E cobrindo-o, {tr,rp:feriam-no no rosto; e perguntavam-lhe}{trnc: 
-\fn
+E cobrindo-o, {tr,rp:feriam-no no rosto; e perguntavam-lhe}
+{trnc:\fn
 N4 omite "feriam-no no rosto" 
-\*fn
-}{n4:perguntavam}, dizendo: Profetiza, quem é o que te feriu?
+\*fn}
+{n4:perguntavam}, dizendo: Profetiza, quem é o que te feriu?
 \v Lc.22.65
 E diziam muitas outras coisas contra ele, insultando-o.
 \v Lc.22.66
-E quando já era de dia, juntaram-se os anciãos do povo, e os chefes dos sacerdotes, e os escribas, e o trouxeram ao seu conselho,
+E quando já era de dia, juntaram-se os anciãos do povo, e os chefes dos sacerdotes, e os escribas, e o trouxeram ao supremo conselho,
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
 \v Lc.22.67
-Dizendo Tu és o Cristo? Dize-nos.E ele lhes disse: Se eu vos disser, não o crereis.
+dizendo, Tu és o Cristo? Dize-nos. E ele lhes disse: Se eu vos disser, não o crereis.
 \v Lc.22.68
 E também se eu perguntar, não me respondereis, nem 
 \added

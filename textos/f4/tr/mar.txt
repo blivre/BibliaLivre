@@ -646,7 +646,7 @@ mas que calçassem sandálias, e não se vestissem de duas túnicas.
 \v Mc.6.10
 E dizia-lhes: Onde quer que entrardes em alguma casa, ficai ali até que dali saiais.
 \v Mc.6.11
-E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles. Em verdade vos digo, que mais tolerável será a 
+E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles Em verdade vos digo, que mais tolerável será a 
 \added
 os de
 \*added
@@ -1438,11 +1438,7 @@ Jesus
 \added
 nela
 \*added
- um esmagador de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se d
-\added
-aquela
-\*added
- terra.
+ uma prensa de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se daquela terra.
 \v Mc.12.2
 E, quando chegou o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
 \v Mc.12.3
@@ -1519,9 +1515,6 @@ Lit. “levantasse semente”
  ao seu irmão.
 \v Mc.12.20
 Houve, pois, sete irmãos, e o primeiro casou-se com a mulher, e morrendo, não deixou descendente.
-\fn
-
-\*fn
 \v Mc.12.21
 Casou-se com ela também o segundo, e morreu; e nem este deixou descendente; e o terceiro da mesma maneira.
 \v Mc.12.22
@@ -1899,7 +1892,14 @@ E levaram Jesus ao sumo sacerdote; e ajuntaram-se a ele todos os chefes dos sace
 \v Mc.14.54
 E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e ficou sentado com os oficiais, esquentando-se ao fogo.
 \v Mc.14.55
-E os chefes dos sacerdotes, e todo o tribunal buscavam 
+E os chefes dos sacerdotes, e todo o supremo conselho
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ buscavam 
 \added
 algum
 \*added
@@ -1960,7 +1960,14 @@ O galo cantou a segunda vez. E Pedro se lembrou da palavra que Jesus havia lhe d
 negarás três vezes.” 
 Então ele retirou-se dali e chorou.
 \v Mc.15.1
-E logo ao amanhecer, os chefes dos sacerdotes tiveram uma reunião com os anciãos, com os escribas, e com todo o tribunal; e, amarrando a Jesus, levaram 
+E logo ao amanhecer, os chefes dos sacerdotes tiveram uma reunião com os anciãos, com os escribas, e com todo o supremo conselho;
+\fn
+\key
+supremo conselho
+\*key
+lit. sinédrio – o mais importante conselho ou tribunal para os judeus
+\*fn
+ e, amarrando Jesus, levaram 
 \added
 -no
 \*added

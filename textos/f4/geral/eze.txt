@@ -51,7 +51,6 @@ como
 \*added
  rosto de homem; e rosto de leão à direita nos quatro; e à esquerda rosto de boi nos quatro; também havia nos quatro um rosto de águia;
 \v Ez.1.11
- 
 \added
 Assim
 \*added
@@ -169,17 +168,14 @@ Fiz tua testa como o diamante, mais forte que a pederneira; não os temas, nem t
 \v Ez.3.10
 Disse-me mais: Filho do homem, toma em teu coração todas a minhas palavras que te falarei, e ouve com os teus ouvidos. 
 \v Ez.3.11
-Então vai, e chega aos do cativeiro, aos filhos de teu povo, e tu lhes falarás e lhes dirás: Assim diz o Senhor DEUS; quer ouçam, quer deixem 
-\added
-de ouvir
-\*added
- . 
+Então vai, e chega aos do cativos, aos filhos de teu povo, e tu lhes falarás e lhes dirás: Assim diz o Senhor DEUS; 
+quer ouçam, quer deixem de ouvir. 
 \v Ez.3.12
 Então o Espírito me levantou, e ouvi detrás de mim uma voz de grande estrondo, 
 \added
 que dizia
 \*added
-: Bendita seja a glória do SENHOR desde seu lugar.
+: Bendita seja a glória do SENHOR desde o seu lugar.
 \v Ez.3.13
 \added
 Ouvi
@@ -188,10 +184,7 @@ Ouvi
 \v Ez.3.14
 Assim o Espírito me levantou, e me tomou; e fui com amargura, pela indignação 
 \fn
-\key
-indignação = i.e. fúria
-\*key
-lit. ardor, calor 
+Lit. ardor, calor 
 \*fn
 de meu espírito; mas a mão do SENHOR era forte sobre mim.
 \v Ez.3.15
@@ -293,7 +286,7 @@ que te sirva como
 \added
 os cabelos
 \*added
- .
+.
 \v Ez.5.2
 Uma terceira parte queimarás com fogo no meio da cidade, quando se completarem os dias do cerco; então tomarás 
 \added
@@ -317,7 +310,7 @@ de
 \added
 roupa
 \*added
- .
+.
 \v Ez.5.4
 E tomarás outra vez deles, e os lançarás no meio do fogo, e com fogo os queimarás; dali sairá um fogo contra toda a casa de Israel.
 \v Ez.5.5
@@ -538,7 +531,7 @@ E sucedeu no sexto ano, no sexto
 \added
 mês
 \*added
-,aos cinco do mês, estando eu sentado em minha casa, e os anciãos de Judá estavam sentados diante de mim, que ali a mão do Senhor DEUS caiu sobre mim .
+, aos cinco do mês, estando eu sentado em minha casa, e os anciãos de Judá estavam sentados diante de mim, que ali a mão do Senhor DEUS caiu sobre mim .
 \v Ez.8.2
 E olhei, e eis uma semelhança, com aparência de fogo; desde a aparência de sua cintura para baixo, era fogo; e desde sua cintura para cima, com a aparência de um resplendor, como a cor de âmbar.
 \v Ez.8.3
@@ -570,7 +563,7 @@ Então me disse: Viste
 \added
 isto
 \*added
-,filho do homem? Ainda voltarás a ver abominações maiores que estas. 
+, filho do homem? Ainda voltarás a ver abominações maiores que estas. 
 \v Ez.8.16
 E ele me levou ao pátio de dentro da casa do SENHOR; e eis que estavam à entrada do templo do SENHOR, entre o pórtico e o altar, cerca de vinte e cinco homens, com suas costas voltadas ao templo do SENHOR e seus rostos ao oriente, e eles se prostravam ao oriente, para o sol.
 \v Ez.8.17
@@ -738,7 +731,7 @@ um buraco
 \added
 a bagagem
 \*added
- .
+.
 \v Ez.12.6
 Diante de seus olhos os levarás sobre teus ombros, ao anoitecer os tirarás; cobrirás teu rosto, para que não vejas a terra; pois eu fiz de ti por sinal à casa de Israel.
 \v Ez.12.7
@@ -936,11 +929,7 @@ somente
 \v Ez.14.15
 E se eu fizer passar os animais perigosos pela terra, e eles a despojarem, e ela for tão assolada que ninguém possa passar por ela por causa dos animais,
 \v Ez.14.16
- 
-\added
-E
-\*added
- estes três homens estivessem no meio dela, vivo eu,diz o Senhor DEUS,  que nem a filhos nem a filhas livrariam; somente eles ficariam livres, e a terra seria assolada. 
+e estes três homens estivessem no meio dela, vivo eu, diz o Senhor DEUS, que não livrariam nem filhos nem filhas; somente eles ficariam livres, e a terra seria assolada. 
 \v Ez.14.17
 Ou 
 \added
@@ -1480,7 +1469,7 @@ E aconteceu no sétimo ano, no quinto
 \added
 mês
 \*added
-,aos dez do mês, que vieram alguns dos anciãos de Israel para consultarem ao SENHOR, e se sentaram diante de mim.
+, aos dez do mês, que vieram alguns dos anciãos de Israel para consultarem ao SENHOR, e se assentaram diante de mim.
 \v Ez.20.2
 Então veio a mim palavra do SENHOR, dizendo:
 \v Ez.20.3
@@ -1703,11 +1692,10 @@ Por isso tu, filho do homem, profetiza, e bate uma mão com outra; por que a esp
 \v Ez.21.15
 Para que os corações desmaiem, e os tropeços se multipliquem; eu pus a ponta da espada contra todas as suas portas. Ah! Ela feita foi para reluzir, e preparada está para degolar.
 \v Ez.21.16
- 
 \added
 Ó espada
 \*added
-,move-te; vira-te à direita, prepara-te, vira-te à esquerda, para onde quer que tua face te apontar.
+, move-te; vira-te à direita, prepara-te, vira-te à esquerda, para onde quer que tua face te apontar.
 \v Ez.21.17
 E também eu baterei minhas mãos uma com a outra, e farei descansar minha ira. Eu, o SENHOR, falei.
 \v Ez.21.18
@@ -1823,11 +1811,7 @@ Filho do homem, a casa de Israel se tornou para mim em escórias; todos eles sã
 \v Ez.22.19
 Portanto assim diz o Senhor DEUS: Dado que todos vós vos tornastes em escórias, por isso eis que eu vos ajuntarei no meio de Jerusalém. 
 \v Ez.22.20
- 
-\added
-Como
-\*added
- se ajunta prata, bronze, ferro, chumbo e estanho em meio do forno, para soprar fogo sobre eles para fundir, assim vos ajuntarei em minha ira e em meu furor, e 
+Como se ajunta prata, bronze, ferro, chumbo e estanho no meio do forno, para soprar fogo sobre eles para fundir, assim vos ajuntarei em minha ira e em meu furor, e 
 \added
 ali
 \*added
@@ -2034,7 +2018,7 @@ em
 \added
 faz
 \*added
- .
+.
 \v Ez.23.44
 E se deitaram com ela como quem se deita com mulher prostituta; assim se deitaram com Oolá e com Oolibá, mulheres indecentes. 
 \fn
@@ -2076,11 +2060,7 @@ Ajunta seus pedaços
 \added
 de carne
 \*added
- nela; todos bons pedaços, pernas e espáduas; enche 
-\added
-- a
-\*added
- dos melhores ossos.
+ nela; todos bons pedaços, pernas e espáduas; enche-a dos melhores ossos.
 \v Ez.24.5
 Toma do melhor do rebanho, e acende também os ossos debaixo dela; faze-a ferver bem; e assim seus ossos serão cozidos dentro dela.
 \v Ez.24.6
@@ -2102,11 +2082,7 @@ Para que eu faça subir a ira, para me vingar, eu pus seu sangue sobre a pedra e
 \v Ez.24.9
 Portanto assim diz o Senhor DEUS: Ai da cidade sanguinária! Também eu farei uma grande fogueira, 
 \v Ez.24.10
-Amontoa lenha, acende o fogo, consome a carne, e 
-\added
-a
-\*added
- tempera com especiarias; e sejam queimados os ossos;
+Amontoa lenha, acende o fogo, consome a carne, e a tempera com especiarias; e sejam queimados os ossos;
 \v Ez.24.11
 Depois põe 
 \added
@@ -2188,9 +2164,9 @@ Porque assim diz o Senhor DEUS: Dado que bateste palmas, e bateste o pés, e te 
 \v Ez.25.7
 Por isso, eis que eu estenderei minha mão contra ti, e te entregarei às nações para seres saqueada; e eu te cortarei dentre os povos, e te destruirei dentre as terras; eu te eliminarei, e saberás que eu sou o SENHOR.
 \v Ez.25.8
-Assim diz o Senhor DEUS: Dado que Moabe e Seir dizem:  Eis que a casa de Judá é como todas as nações, 
+Assim diz o Senhor DEUS: Visto que Moabe e Seir dizem: Eis que a casa de Judá é como todas as nações, 
 \v Ez.25.9
-Por isso, eis que eu abrirei a lateral de Moabe desde as cidades, desde suas cidades que estão em suas fronteiras, as melhores terras: Bete-Jesimote, e Baal-Meom, e até Quiriataim;
+Por isso, eis que abrirei a lateral de Moabe desde as cidades, desde suas cidades que estão em suas fronteiras, as melhores terras: Bete-Jesimote, e Baal-Meom, e até Quiriataim;
 \v Ez.25.10
 Serão para os filhos do oriente, com 
 \added
@@ -2526,11 +2502,7 @@ Quando eles te tomaram pela mão, te quebraste, e lhes rompeste todo os ombros; 
 \v Ez.29.8
 Portanto, assim diz o Senhor o SENHOR: Eis que eu trarei contra ti espada, e destruirei de ti homens e animais. 
 \v Ez.29.9
-E a terra do Egito se tornará desolada e deserta; e saberão que eu sou o SENHOR; porque ela disse: O rio é meu, eu 
-\added
-o
-\*added
- fiz.
+E a terra do Egito se tornará desolada e deserta; e saberão que eu sou o SENHOR; porque ela disse: O rio é meu, eu o fiz.
 \v Ez.29.10
 Portanto eis que eu sou contra ti, e contra teus rios; e tornarei a terra do Egito em desertas e assoladas solidões, desde Migdol e Sevene, até o limite de Cuxe. 
 \fn
@@ -2673,7 +2645,7 @@ Fortalecerei, pois, os braços do rei de Babilônia, enquanto que os braços de 
 \v Ez.30.26
 E espalharei os egípcios entre as nações, e os dispersarei pelas terras; assim saberão que eu sou o SENHOR.
 \v Ez.31.1
-E sucedeu no décimo primeiro ano, no terceiro 
+E sucedeu, no décimo primeiro ano, no terceiro 
 \added
 mês
 \*added
@@ -2683,51 +2655,61 @@ dia
 \*added
  do mês, que veio a mim a palavra do SENHOR, dizendo:
 \v Ez.31.2
-Filho do homem, dize a Faraó rei do Egito, e a sua multidão: A quem és semelhante em tua grandeza? 
+Filho do homem, diz a Faraó, rei do Egito, e à sua multidão: A quem és semelhante na tua grandeza? 
 \v Ez.31.3
-Eis que a Assíria era um cedro no Líbano, belo de ramos, de grande sombra com sua folhagem, e alto de estatura; e seu topo estava entre ramos espessos.
+Eis que a Assíria era um cedro do Líbano, de belos ramos, com grande sombra de sua folhagem, e de alta estatura; seu topo estava entre ramos espessos.
 \v Ez.31.4
-As águas o fizeram crescer, o abismo o ergueu; com suas correntes ia ao redor de sua base, e enviava seus canais de águas a todas as árvores do campo.
+As águas o nutriam, as profundezas o faziam crescer; correntes corriam ao redor de onde estava plantada, e enviava seus ribeiros a todas as árvores do campo.
 \v Ez.31.5
-Por isso sua altura se ergueu acima de todas as árvores do campo; seus galhos se multiplicaram, e seus ramos que gerava se alongaram por causa das muitas águas.
+Por isso sua altura se elevou acima de todas as árvores do campo; seus galhos se multiplicaram, e seus ramos se alongavam, por causa das muitas águas enviadas.
 \v Ez.31.6
-Todas as aves do céus faziam ninhos em seus ramos, e todos os animais do campo tinham filhotes abaixo de sua folhagem; e todos os grandes povos habitavam à sua sombra.
+Todas as aves do céus faziam ninhos em seus galhos, e todos os animais do campo geravam debaixo de seus ramos; e todos os grandes povos habitavam à sua sombra.
 \v Ez.31.7
-Assim era belo em sua grandeza, na extensão de seus ramos; porque sua raiz estava junto a muitas águas.
+Assim era ele, belo em sua grandeza, na extensão de seus ramos; porque sua raiz estava junto a muitas águas.
 \v Ez.31.8
-Os cedros não o encobriram no jardim de Deus; as faias não eram semelhantes a seus ramos, nem os castanheiros eram semelhantes a seus renovos; nenhuma árvore no jardim de Deus era semelhante a ele em sua beleza.
+Os cedros não o encobriram no jardim de Deus; as faias não igualavam os seus galhos, nem os plátanos eram semelhantes 
+a seus ramos; nenhuma árvore no jardim de Deus se assemelhava a ele em sua beleza.
 \v Ez.31.9
-Eu o fiz belo com a multidão de seus ramos; e todos os árvores do Éden, que estavam no jardim de Deus, tiveram inveja dele.
+Eu o fiz belo com a multidão de seus ramos; e todas as árvores do Éden, que estavam no jardim de Deus, tiveram inveja dele.
 \v Ez.31.10
-Portanto assim diz o Senhor DEUS: Dado que te elevaste em estatura, e levantou seu topo no meio de ramos espessos, e seu coração se exaltou em sua altura, 
+Portanto, assim diz o Senhor DEUS: Visto que te elevaste em estatura, e seu topo se elevou no meio de ramos espessos, 
+e seu coração se exaltou na sua altura, 
 \v Ez.31.11
-Por isso eu o entreguei na mão do mais poderoso das nações, para que o tratasse; por sua perversidade o lancei fora.
+Por isso eu o entreguei na mão do mais poderoso das nações, para que o tratasse como merece; pela sua perversidade eu o lancei fora.
 \v Ez.31.12
-E estrangeiros o cortaram, os mais terríveis das nações, e o deixaram; seus ramos caíram sobre os montes e por todos os vales, e seus renovos foram quebrados por todas as correntes da terra; e todos os povos da terra saíram de sua sombra, e o deixaram.
+Estrangeiros da mais terrivel das nações o cortaram e o deixaram; seus ramos caíram sobre os montes e por todos os 
+vales, e seus galhos foram quebrados por todas as correntes de águas da terra; e todos os povos da terra se retiraram 
+de sua sombra, e o deixaram.
 \v Ez.31.13
-Todas as aves do céu habitaram sobre sua ruína, e todos os animais do campo estiveram sobre seus ramos;
+Todas as aves do céu habitaram sobre sua ruína, e todos os animais do campo se ficaram sobre seus ramos;
 \v Ez.31.14
-Para que todas as árvores bem 
-\added
-regadas
-\*added
- com águas não se elevem em sua estatura, nem levantem seu topo no meio dos ramos espessos, nem todas as que bebem águas se tornem poderosas de tão altas; porque todos estão entregues à morte, no meio dos filhos dos homens, para abaixo da terra.
+Para que todas as árvores próximas das águas não se elevem na sua estatura, nem levantem o seu topo no meio dos ramos 
+espessos, e que todas as que bebem águas não confiem em si mesmas por sua altura; porque todas estão entregues à 
+morte, até debaixo da terra, no meio dos filhos dos homens, com os que vão para a cova.
 \v Ez.31.15
-Assim diz o Senhor DEUS: No dia em que ele desceu ao mundo dos mortos, mandei fazer luto, fiz cobrir o abismo por ele, e detive seus rios, e as muitas águas foram retidas; cobri o Líbano de trevas por ele, e e por ele todas os árvores do campo se desfaleceram.
+Assim diz o Senhor DEUS: No dia em que ele desceu ao Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ eu fiz que houvesse luto, fiz cobrir as profundezas por sua 
+causa; detive suas correntes, e as muitas águas foram retidas; cobri o Líbano de trevas por causa dele, e por sua causa 
+todas as árvores do campo definharam.
 \v Ez.31.16
-Do estrondo de sua queda eu fiz tremer as nações, quando eu o fiz descer ao mundo dos mortos com os que descem à cova; e todas os árvores de Éden, as mais valiosas e melhores do Líbano, todas as que bebem águas, consolaram-se abaixo da terra.
+Do estrondo de sua queda eu fiz tremer as nações, quando o fiz descer ao Xeol com os que descem à cova; e todas as 
+árvores de Éden, as preferidas e melhores do Líbano, todas as que bebem águas, consolaram-se debaixo da terra.
 \v Ez.31.17
-Também eles desceram com ele ao mundo dos mortos, com os mortos à espada, e os que foram seu braço, 
-\added
-e
-\*added
- habitavam à sua sombra em meio das nações.
+Também desceram com ele ao Xeol, com os mortos à espada, e os que foram seus apoiadores,
+\fn
+\key
+seus apoiadores
+\*key
+Lit. seu braço
+\*fn
+ os que habitavam à sua sombra no meio das nações.
 \v Ez.31.18
-A quem, 
-\added
-pois
-\*added
-, tu és semelhante em glória e em grandeza entre as árvores do Éden? Porém tu serás derrubado com as árvores do Éden para abaixo da terra; entre os incircuncisos jazerás, com os mortos à espada. Este é Faraó e toda a sua multidão,diz o Senhor DEUS.
+Quem se assemelha a ti em glória e em grandeza entre as árvores do Éden? Porém serás derrubado com as árvores do Éden 
+para debaixo da terra; jazerás entre os incircuncisos, com os mortos à espada. Este é Faraó e toda a sua multidão, diz 
+o Senhor DEUS.
 \v Ez.32.1
 E sucedeu no décimo segundo ano, no décimo segundo mês, no primeiro 
 \added
@@ -2791,9 +2773,15 @@ i.e., arrastai a nação do Egito
 \*fn
 e a toda a sua multidão.
 \v Ez.32.21
-Os mais poderosos dos guerreiros falarão a ele desde o meio do mundo dos mortos, com seus ajudadores: Desceram; jazeram os incircuncisos, mortos a espada. 
+Do meio do Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ os mais poderosos dos guerreiros, com os seus ajudadores, lhe falarão: Desceram; os 
+incircuncisos jazeram, mortos à espada. 
 \v Ez.32.22
-Ali está a Assíria com toda a sua companhia; ao derredor dele estão seus sepulcros; todos eles foram mortos, que caíram pela espada.
+Ali está a Assíria com toda a sua companhia; em redor dele estão os seus sepulcros; todos eles foram mortos, que 
+caíram pela espada.
 \v Ez.32.23
 Seus sepulcros foram postos do lado da cova, e sua companhia está ao redor de seu sepulcro; todos eles foram mortos, caídos pela espada, e causaram terror na terra dos viventes.
 \v Ez.32.24
@@ -2803,7 +2791,9 @@ No meio dos mortos lhe puseram uma cama com toda a sua multidão; ao redor dele 
 \v Ez.32.26
 Ali está Meseque e Tubal, com toda a sua multidão; ao redor dele estão seus sepulcros; todos eles são incircuncisos, mortos pela espada, porque causaram terror deles na terra dos viventes.
 \v Ez.32.27
-Porém não jazerão com os guerreiros que caíram dos incircuncisos, os quais desceram ao mundo dos mortos com suas armas de guerra, e puseram suas espadas debaixo de suas cabeças; mas suas maldades estarão sobre seus ossos, porque foram o terror do guerreiros na terra dos viventes.
+Porém não jazerão com os guerreiros que caíram dos incircuncisos, os quais desceram ao Xeol com suas armas de guerra, 
+e puseram suas espadas debaixo de suas cabeças; mas suas maldades estarão sobre seus ossos, porque foram o terror dos 
+guerreiros na terra dos viventes.
 \v Ez.32.28
 Também tu serás quebrado no meio dos incircuncisos, e jazerás com os mortos à espada.
 \v Ez.32.29
@@ -3612,6 +3602,7 @@ E no alpendre da porta havia duas mesas da um lado, e outras duas do outro, para
 E ao lado de fora da subida para a entrada da porta do norte havia duas mesas; e do outro lado que estava no alpendre da porta, havia duas mesas.
 \v Ez.40.41
 Quatro mesas de um lado, e quatro mesas do outro lado, junto à porta; oito mesas, sobre as quais degolavam.
+
 \v Ez.40.42
 E as quatro mesas para a oferta de queima eram de pedras lavradas, de um côvado e meio de comprimento, e um côvado e meio de largura, e um côvado de altura; sobre elas eram postos os instrumentos com que degolavam a oferta de queima e o sacrifício.
 \v Ez.40.43

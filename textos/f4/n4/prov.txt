@@ -49,11 +49,11 @@ derramamento
 \*added
  de sangue; preparemos uma emboscada ao inocente sem razão.
 \v Prv.1.12
-Vamos tragá-los vivos, como 
-\added
-se fosse
-\*added
- o mundo dos mortos; e inteiros, como os que descem à cova.
+Vamos tragá-los vivos, como o Xeol;
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e inteiros, como os que descem à cova.
 \v Prv.1.13
 Acharemos toda espécie de coisas valiosas, encheremos nossas casas de despojos.
 \v Prv.1.14
@@ -250,7 +250,7 @@ Isto será remédio para teu corpo, e alívio para teus ossos.
 \v Prv.3.9
 Honra ao SENHOR com teus bens, e com a primeira parte de toda a tua renda.
 \v Prv.3.10
-E teus celeiros se encherão de fartura, e teus tanques transbordarão de vinho novo.
+E teus celeiros se encherão de fartura, e tuas prensas de uvas transbordarão de vinho novo.
 \v Prv.3.11
 Filho meu, não rejeites a correção do SENHOR, nem te desagrades de sua repreensão;
 \v Prv.3.12
@@ -384,7 +384,7 @@ Pois eles não dormem se não fizerem o mal; e ficam sem sono, se não fizerem t
 \added
 a alguém
 \*added
- .
+.
 \v Prv.4.17
 Porque comem pão da maldade, e bebem vinho de violências.
 \v Prv.4.18
@@ -408,7 +408,7 @@ procedem
 \*added
  as saídas da vida.
 \v Prv.4.24
-Afasta de ti a perversidade da boca; e põe para longe de ti a corrupção dos lábios.
+Afasta de ti a perversidade da boca; e põe longe de ti a corrupção dos lábios.
 \v Prv.4.25
 Teus olhos olhem direito; tuas pálpebras estejam corretas diante de ti.
 \v Prv.4.26
@@ -424,7 +424,10 @@ Porque os lábios da mulher pervertida gotejam mel; e sua boca é mais suave que
 \v Prv.5.4
 Porém seu fim é mais amargo que o absinto; é afiado como a espada de dois fios.
 \v Prv.5.5
-Os pés dela descem à morte; seus passos pegam o mundo dos mortos.
+Seus pés descem à morte; seus passos conduzem ao Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Prv.5.6
 Para que não ponderes a vereda da vida, os percursos delas são errantes, e tu não os conhecerás.
 \v Prv.5.7
@@ -718,13 +721,13 @@ Agora pois, filhos, escutai-me; e prestai atenção às palavras de minha boca.
 \v Prv.7.25
 Que teu coração não se desvie para os caminhos dela, e não andes perdido pelas veredas dela.
 \v Prv.7.26
-Porque ela derrubou a muitos feridos; e o total dos mortos por ela 
-\added
-foram
-\*added
- muitos.
+Porque ela derrubou muitos feridos; e são muitíssimos os que por ela foram mortos.
 \v Prv.7.27
-A casa dela são caminhos para o mundo dos mortos, que descem para as câmaras da morte.
+A sua casa é caminho para o Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ que desce para as câmaras da morte.
 \v Prv.8.1
 Por acaso a sabedoria não clama, e a inteligência não solta sua voz?
 \v Prv.8.2
@@ -882,17 +885,16 @@ Para chamar aos que passam pelo caminho, e passam por suas veredas,
 \added
 dizendo
 \*added
- :
+:
 \v Prv.9.16
 Qualquer um que for ingênuo, venha aqui! E aos que tem falta de entendimento, ela diz:
 \v Prv.9.17
 As águas roubadas são doces; e o pão escondido é agradável.
 \v Prv.9.18
-Porém 
-\added
-aquele que a ouve
-\*added
- não sabe que ali estão os mortos; os convidados dela estão nas profundezas do mundo dos mortos.
+Porém não sabem que ali estão os mortos; seus convidados estão nas profundezas do Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Prv.10.1
 Provérbios de Salomão:O filho sábio alegra ao pai; mas o filho tolo é tristeza para sua mãe.
 \v Prv.10.2
@@ -1509,15 +1511,15 @@ O sacrifício dos perversos é abominável ao SENHOR, mas a oração dos justos 
 \v Prv.15.9
 Abominável ao SENHOR é o caminho do perverso; porém ele ama ao que segue a justiça.
 \v Prv.15.10
-A correção é ruim para aquele que deixa o caminho; 
-\added
-e
-\*added
- quem odeia a repreensão morrerá.
+A correção é ruim para aquele que deixa o caminho; e quem odeia a repreensão morrerá.
 \v Prv.15.11
-O mundo dos mortos e a perdição estão perante o SENHOR; quanto mais os corações dos filhos dos homens.
+O Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e a perdição estão perante o SENHOR; quanto mais os corações dos filhos dos homens!
 \v Prv.15.12
-O zombador não ama aquele que o repreende, nem se chegará aos sábios.
+O zombador não ama quem o repreende, nem se aproximará dos sábios.
 \v Prv.15.13
 O coração alegre anima o rosto, mas pela dor do coração o espírito se abate.
 \v Prv.15.14
@@ -1549,11 +1551,15 @@ bom
 \v Prv.15.23
 O homem se alegra com a resposta de sua boca; e como é boa a palavra a seu devido tempo!
 \v Prv.15.24
-O caminho da vida 
+Para o prudente, o caminho da vida 
 \added
-leva
+é
 \*added
- o prudente para cima, para que se desvie do mundo dos mortos, que está abaixo.
+ para cima, para que se afaste do Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ que é para baixo.
 \v Prv.15.25
 O SENHOR destruirá a casa dos arrogantes, mas confirmará os limites do terreno da viúva.
 \v Prv.15.26
@@ -2363,13 +2369,16 @@ Porque o Defensor deles é poderoso; ele disputará a causa deles contra ti.
 \v Prv.23.12
 Aplica teu coração à disciplina, e teus ouvidos às palavras de conhecimento.
 \v Prv.23.13
-Não retires a disciplina do jovem; quando o bateres com a vara, nem 
+Não retires a disciplina do jovem; quando lhe bateres com a vara, nem 
 \added
 por isso
 \*added
  morrerá.
 \v Prv.23.14
-Tu o baterás com a vara, e livrarás a alma dele do mundo dos mortos.
+Tu lhe baterás com a vara, e livrarás a sua alma do Xeol.
+\fn
+Xeol é o lugar dos mortos
+\*fn
 \v Prv.23.15
 Meu filho, se teu coração for sábio, meu coração se alegrará, e eu também.
 \v Prv.23.16
@@ -2878,9 +2887,12 @@ Aquele que guarda a figueira comerá de seu fruto; e o que dá atenção ao seu 
 \v Prv.27.19
 Assim como a água reflete o rosto, assim também o coração reflete o ser humano.
 \v Prv.27.20
-O mundo dos mortos e a destruição nunca estão fartos; assim também os olhos do homem nunca estão satisfeitos.
+O Xeol
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ e a perdição nunca estão saciados; assim também os olhos do homem nunca estão satisfeitos.
 \v Prv.27.21
- 
 \added
 Como
 \*added
@@ -3162,7 +3174,11 @@ Há gente cujos dentes são espadas, e cujos queixos são facas, para devorarem 
 \v Prv.30.15
 A sanguessuga tem duas filhas: “Dá” e “Dá”; estas três coisas nunca se fartam, e quatro nunca dizem “É o suficiente”:
 \v Prv.30.16
-O mundo dos mortos, o ventre feminino estéril, a terra que não se farta de água, e o fogo que nunca diz estar satisfeito.
+O Xeol,
+\fn
+Xeol é o lugar dos mortos
+\*fn
+ o útero estéril, a terra que não se farta de água, e o fogo que nunca diz estar satisfeito.
 \v Prv.30.17
 Os olhos que zombam do pai ou desprezam obedecer à mãe, os corvos do riacho os arrancarão, e os filhotes de abutre os comerão.
 \v Prv.30.18
