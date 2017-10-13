@@ -3778,15 +3778,17 @@ e
 \v Sl.60.3
 Mostraste ao teu povo coisas duras; nos fizeste beber vinho perturbador.
 \v Sl.60.4
-Tu deste uma bandeira aos que te temem, para que fujam do arco. (Selá) 
+Deste uma bandeira aos que te temem, para se refugiarem 
+dos tiros de arco.
 \fn
 \key
-para que fujam do arco
+para se refugiarem dos tiros de arco
 \*key
-
+Obscuro. Trad. alt. “para a erguerem por causa da verdade”
 \*fn
+(Selá)
 \v Sl.60.5
-Para que teus amados escapem; salva-nos com tua mão direita, e responda-nos.
+Para que os teus amados sejam livrados; salva-nos com tua mão direita, e responde-nos.
 \v Sl.60.6
 Deus falou em seu santuário: Eu me alegrarei; repartirei a Siquém e medirei o vale de Sucote.
 \v Sl.60.7
