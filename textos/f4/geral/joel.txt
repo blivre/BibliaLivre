@@ -13,16 +13,10 @@ JOL
 \v Joel.1.1
 Palavra do SENHOR que veio a Joel, filho de Petuel.
 \v Joel.1.2
-Ouvi isto, anciãos, e escutai, todos os moradores do país. 
-\fn
-\key
-país
-\*key
-lit. terra 
-\*fn
-Por acaso isto aconteceu em vossos dias, ou nos dias de vossos pais?
+Ouvi isto, anciãos, e escutai, todos os moradores desta terra. Por acaso isto aconteceu em vossos dias, ou nos dias 
+dos vossos pais?
 \v Joel.1.3
-Contai disso a vossos filhos, e vossos filhos a seus filhos, e seus filhos à outra geração.
+Contai disso aos vossos filhos, e vossos filhos aos seus filhos, e seus filhos à outra geração.
 \v Joel.1.4
 O que restou do gafanhoto cortador o gafanhoto comedor comeu; e o que restou do gafanhoto comedor o gafanhoto devorador comeu, e o que restou do gafanhoto devorador o gafanhoto destruidor comeu. 
 \fn
@@ -61,13 +55,7 @@ A ti, ó SENHOR, eu clamo; porque o fogo consumiu os pastos do deserto, e chama 
 \v Joel.1.20
 Até os animais do campo clamam a ti, porque os rios de águas se secaram, e o fogo consumiu os pastos do deserto.
 \v Joel.2.1
-Tocai a trombeta em Sião, e alertai em alta voz no meu santo monte; perturbem-se todos os moradores do país; 
-\fn
-\key
-país – lit. terra
-\*key
-também v. 21 
-\*fn
+Tocai a trombeta em Sião, e alertai em alta voz no meu santo monte; perturbem-se todos os moradores desta terra; 
 porque o dia do SENHOR vem, porque perto está.
 \v Joel.2.2
 Dia de trevas e de escuridão, dia de nuvens e densas trevas, como a madrugada espalhada sobre os montes; um povo grande e poderoso, como nunca houve desde a antiguidade, nem depois dele jamais haverá, de geração em geração.

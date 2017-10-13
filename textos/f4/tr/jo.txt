@@ -2301,7 +2301,11 @@ Habitavam nos barrancos dos ribeiros secos, nos buracos da terra, e nas rochas.
 \v Jo.30.7
 Bramavam entre os arbustos, e se ajuntavam debaixo das urtigas.
 \v Jo.30.8
-Eram filhos de tolos, filhos sem nome, e expulsos do país.
+Eram filhos de tolos, filhos sem nome, e expulsos de 
+\added
+sua
+\*added
+ terra.
 \v Jo.30.9
 Porém agora sirvo-lhes de chacota, e sou para eles um provérbio de escárnio.
 \v Jo.30.10
@@ -3718,15 +3722,25 @@ me
 \*added
  abomino, e me arrependo no pó e na cinza.
 \v Jo.42.7
-E sucedeu que, depois que o SENHOR acabou de falar essas palavras a Jó, o SENHOR disse a Elifaz temanita: Minha ira se acendeu contra ti e contra teus dois amigos; porque não falastes de mim o que era correto, como meu servo Jó.
+E sucedeu que, depois que o SENHOR acabou de falar essas palavras a Jó, o SENHOR disse a Elifaz, o temanita: Minha ira 
+se acendeu contra ti e contra os teus dois amigos; porque não falastes de mim o que era correto, como o meu servo Jó.
 \v Jo.42.8
-Por isso tomai para vós sete bezerros e sete carneiros, ide a meu servo Jó, e fazei ofertas de queima em vosso favor, e meu servo Jó orará por vós; pois certamente atenderei a ele para eu não vos tratar conforme vossa loucura; pois não falastes de mim o que era correto, como meu servo Jó.
+Por isso tomai sete bezerros e sete carneiros, ide ao meu servo Jó, e fazei ofertas de queima em vosso favor, então 
+meu servo Jó orará por vós; pois certamente atenderei a ele para eu não vos tratar conforme a vossa insensatez; pois 
+não falastes de mim o que era correto, como o meu servo Jó.
 \v Jo.42.9
-Então Elifaz o temanita, Bildade o suíta, e Zofar o naamita foram, e fizeram como o SENHOR havia lhes dito; e o SENHOR atendeu a Jó.
+Então foram Elifaz, o temanita, Bildade, o suíta, e Zofar, o naamita, e fizeram como o SENHOR havia lhes dito; e o 
+SENHOR atendeu a Jó.
 \v Jo.42.10
-E o SENHOR livrou Jó de seu infortúnio, enquanto ele orava por seus amigos; e o SENHOR acrescentou a Jó o dobro de tudo quanto ele tinha antes.
+E o SENHOR livrou Jó de seu infortúnio, enquanto ele orava pelos seus amigos; e o SENHOR acrescentou a Jó o dobro de 
+tudo quanto ele
+\added
+ antes
+\*added
+  possuía.
 \v Jo.42.11
-Então vieram e ele todos os seus irmãos, e todas as suas irmãs, e todos os que o conheciam antes; e comeram com ele pão em sua casa, e condoeram-se dele, e o consolaram acerca de toda a calamidade 
+Então vieram e ele todos os seus irmãos, e todas as suas irmãs, e todos os que o conheciam antes; e comeram com ele 
+pão em sua casa, e condoeram-se dele, e o consolaram acerca de toda a calamidade 
 \fn
 \key
 calamidade

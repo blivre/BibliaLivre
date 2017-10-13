@@ -41,13 +41,7 @@ E disse-me o SENHOR: Viste bem; porque eu apresso minha palavra para cumpri-la.
 \v Jr.1.13
 E veio a mim palavra do SENHOR segunda vez, dizendo: O que tu vês? E eu disse: Vejo uma panela fervente; e sua face está voltada para o norte.
 \v Jr.1.14
-Então o SENHOR me disse: Do norte o mal será solto sobre todos os moradores do país.
-\fn
-\key
-país
-\*key
-lit. terra, não no sentido de todo o mundo, mas sim um território. Também no resto do capítulo
-\*fn
+Então o SENHOR me disse: Do norte o mal será solto sobre todos os moradores desta terra.
 \v Jr.1.15
 Porque eis que eu convoco todas as famílias dos reinos do norte,diz o SENHOR; e virão, e cada um porá seu trono à entrada das portas de 
 Jerusalém, e junto a todos seus muros ao redor, e em todas as cidades de Judá.
@@ -67,7 +61,8 @@ lit. cinge teus lombos
 \*fn
  e te levanta-te; e fala-lhes tudo quanto eu te mandar; não tenhas medo diante deles, para que eu não te faça ter medo diante deles.
 \v Jr.1.18
-Porque eis que eu te ponho hoje como cidade fortificada, e como coluna de ferro, e como muro de bronze contra todo o país; contra os reis de Judá, seus príncipes, seus sacerdotes, e contra o povo do país.
+Porque eis que eu te ponho hoje como cidade fortificada, e como coluna de ferro, e como muro de bronze contra toda 
+esta terra; contra os reis de Judá, seus príncipes, seus sacerdotes, e contra o povo desta terra.
 \v Jr.1.19
 E lutarão contra ti, mas não te vencerão; porque eu sou contigo, diz o SENHOR, para te livrar.
 \v Jr.2.1
@@ -3124,11 +3119,8 @@ pois o SENHOR é bom; pois sua bondade dura para sempre;
 \added
 e também
 \*added
- dos que trazem louvor à casa do SENHOR; porque restaurarei o país
-\fn
-Ou: esta terra
-\*fn
- de seu infortúnio para o que era no princípio, diz o SENHOR.
+ dos que trazem louvor à casa do SENHOR; porque restaurarei esta terra de seu infortúnio para o que era no princípio, 
+diz o SENHOR.
 \v Jr.33.12
 Assim diz o SENHOR dos exércitos: Neste lugar desolado, sem homem nem animal, e em todas as suas cidades, haverá novamente morada de pastores, que façam deitar o gado.
 \v Jr.33.13
@@ -4814,7 +4806,7 @@ E todo o exército dos caldeus que estava com o capitão da guarda derrubou todo
 \v Jr.52.15
 E Nebuzaradã, capitão da guarda, levou presos os pobres do povo, e ao demais do povo, que restaram na cidade, e os rebeldes que se haviam se rendido ao rei de Babilônia, e todo o resto dos artesãos.
 \v Jr.52.16
-Mas dos pobres do país Nebuzaradã, capitão da guarda, deixou para serem cultivadores de vinhas e lavradores.
+Mas Nebuzaradã, capitão da guarda, deixou dos mais pobres daquela terra para serem cultivadores de vinhas e lavradores.
 \v Jr.52.17
 E os caldeus quebraram as colunas de bronze que estavam na casa do SENHOR, as bases, e o mar de bronze que estavam na casa do SENHOR, e levaram todo o bronze à Babilônia.
 \v Jr.52.18
@@ -4822,7 +4814,7 @@ Tomaram também os caldeirões, as pás, os cortadores de pavios, as bacias, os 
 \added
 no templo
 \*added
- ;
+;
 \v Jr.52.19
 E o capitão da guarda tomou os copos, os incensários, as bacias, as panelas, os castiçais, os pratos, e vasos de ofertas de líquidos: tudo o que era de ouro ou de prata.
 \v Jr.52.20

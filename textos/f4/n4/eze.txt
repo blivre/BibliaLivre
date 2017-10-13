@@ -2960,7 +2960,8 @@ Porque assim diz o Senhor DEUS: Eis que eu, eu mesmo, procurarei minhas ovelhas,
 \v Ez.34.12
 Assim como o pastor busca seu rebanho no dia em que está em meio de suas ovelhas espalhadas, assim buscarei minhas ovelhas, e as livrarei de todos os lugares por onde foram espalhadas, no dia de nuvem e de escuridão.
 \v Ez.34.13
-E eu as tirarei dos povos, e as ajuntarei das terras; eu as trarei para sua terra, e as apascentarei nos montes de Israel, junto às correntes de águas, e em todas as habitações do país.
+E eu as tirarei dos povos, e as ajuntarei das terras; eu as trarei para sua terra, e as apascentarei nos montes de 
+Israel, junto às correntes de águas, e em todas as habitações daquela terra.
 \v Ez.34.14
 Em bons pastos eu as apascentarei, e nos altos montes de Israel será sua pastagem; 
 \fn
@@ -4100,7 +4101,7 @@ que
 \v Ez.45.15
 E uma cordeira de cada duzentas do rebanho, da mais regada terra de Israel, para oferta de alimento, para oferta de queima e oferta de gratidão, para fazer expiação por eles, diz o Senhor DEUS. 
 \v Ez.45.16
-Todo o povo do país terá que dar esta oferta para o príncipe de Israel.
+Todo o povo desta terra terá que dar esta oferta para o príncipe de Israel.
 \v Ez.45.17
 E o príncipe terá que dar as ofertas de queima, as ofertas de alimento, e as ofertas de bebidas, nas solenidades, nas luas novas, nos sábados, e em todas as festas da casa de Israel; ele fará a expiação pelo pecado, a oferta de alimento, a oferta de queima, e as ofertas de gratidão, para fazer expiação pela casa de Israel.
 \v Ez.45.18
@@ -4108,7 +4109,7 @@ Assim diz o Senhor DEUS: Ao primeiro
 \added
 mês
 \*added
-,ao primeiro 
+, ao primeiro 
 \added
 dia
 \*added
@@ -4130,9 +4131,9 @@ No primeiro
 \added
 mês
 \*added
-,aos catorze dias do mês, tereis a páscoa, festa de sete dias; será comido pão sem fermento.
+, aos catorze dias do mês, tereis a páscoa, festa de sete dias; será comido pão sem fermento.
 \v Ez.45.22
-E no mesmo dia o príncipe preparará por si e por todo o povo do país um bezerro de expiação pelo pecado.
+E no mesmo dia o príncipe preparará por si e por todo o povo desta terra um bezerro de expiação pelo pecado.
 \v Ez.45.23
 E nos sete dias da festa ele preparará oferta de queima ao SENHOR, 
 \added
@@ -4146,7 +4147,7 @@ No sétimo
 \added
 mês
 \*added
-,aos quinze dias do mês, na festa, ele fará o mesmo 
+, aos quinze dias do mês, na festa, ele fará o mesmo 
 \added
 todos
 \*added
@@ -4208,7 +4209,7 @@ E o príncipe entrará no meio deles quando eles entrarem, e quando eles saírem
 \added
 juntos
 \*added
- .
+.
 \v Ez.46.11
 E nas festas e nas solenidades será a oferta de alimento um efa para cada bezerro, e um efa para cada carneiro; mas para os cordeiros, conforme o que ele puder dar; e um him de azeite para cada efa.
 \v Ez.46.12
@@ -4294,7 +4295,7 @@ E mediu mil
 \added
 côvados
 \*added
-,e me fez passar pelas águas, que 
+, e me fez passar pelas águas, que 
 \added
 chegavam
 \*added
@@ -4318,7 +4319,7 @@ Então me disse: Viste
 \added
 isto
 \*added
-,filho do homem? Depois ele me levou e me fez voltar pela margem do ribeiro. 
+, filho do homem? Depois ele me levou e me fez voltar pela margem do ribeiro. 
 \v Ez.47.7
 E enquanto eu voltava, eis que na margem do ribeiro do ribeiro havia muitíssimas árvores, de um lado e do outro.
 \v Ez.47.8
@@ -4458,13 +4459,13 @@ E estas serão suas medidas: o lado norte quatro mil e quinhentas
 \added
 canas
 \*added
-,o lado sul quatro mil e quinhentas, o lado do oriente quatro mil e quinhentas, e o lado do ocidente quatro mil e quinhentas.
+, o lado sul quatro mil e quinhentas, o lado do oriente quatro mil e quinhentas, e o lado do ocidente quatro mil e quinhentas.
 \v Ez.48.17
 E o arrebaldes da cidade serão ao norte de duzentas e cinquenta 
 \added
 canas
 \*added
-,ao sul de duzentas e cinquenta, ao oriente de duzentas e cinquenta, e ao ocidente de duzentas e cinquenta.
+, ao sul de duzentas e cinquenta, ao oriente de duzentas e cinquenta, e ao ocidente de duzentas e cinquenta.
 \v Ez.48.18
 E quanto ao que restar do comprimento, na vizinhança da oferta santa, será dez mil 
 \added
@@ -4492,7 +4493,7 @@ canas
 \added
 das tribos
 \*added
-,será para o príncipe; e a oferta santa, e o santuário da casa será no meio dela.
+, será para o príncipe; e a oferta santa, e o santuário da casa será no meio dela.
 \v Ez.48.22
 E desde a propriedade dos Levitas, e desde a propriedade da cidade, 
 \added
@@ -4530,7 +4531,7 @@ E ao lado do oriente quatro mil e quinhentos
 \added
 côvados
 \*added
-,e três portas: uma porta de José, uma porta de Benjamim, 
+, e três portas: uma porta de José, uma porta de Benjamim, 
 \added
 e
 \*added
@@ -4575,4 +4576,3 @@ O SENHOR Está Ali
 \*key
 hebraico: YHWH-Samá 
 \*fn
-

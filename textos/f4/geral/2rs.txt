@@ -323,7 +323,7 @@ Então enviou o rei ali cavaleiros, e carros, e um grande exército, os quais vi
 \v 2Rs.6.15
 E levantando-se de manhã o que servia ao homem de Deus, para sair, eis que o exército que tinha cercado a cidade, com cavaleiros e carros. Então seu criado lhe disse: Ah, senhor meu! Que faremos?
 \v 2Rs.6.16
-E ele lhe disse: Não tenhas medo: porque mais são os que estão com nós que os que estão com eles.
+E ele lhe disse: Não tenhas medo: porque mais são os que estão conosco do que os que estão com eles.
 \v 2Rs.6.17
 E orou Eliseu, e disse: Rogo-te, ó SENHOR, que abras seus olhos para que veja. Então o SENHOR abriu os olhos do jovem, e olhou; e eis que o monte estava cheio de cavaleiros, e de carros de fogo ao redor de Eliseu.
 \v 2Rs.6.18
@@ -409,7 +409,8 @@ E havia o rei falado com Geazi, criado do homem de Deus, dizendo-lhe: Rogo-te qu
 \v 2Rs.8.5
 E contando ele ao rei como havia feito viver a um morto, eis que a mulher, a cujo filho havia feito viver, que clamava ao rei por sua casa e por suas terras. Então disse Geazi: Rei senhor meu, esta é a mulher, e este é seu filho, ao qual Eliseu fez viver.
 \v 2Rs.8.6
-E perguntando o rei à mulher, ela lhe contou. Então o rei lhe deu um eunuco, dizendo-lhe: Faze-lhe voltar todas as coisas que eram suas, e todos os frutos das terras desde o dia que deixou o país até agora.
+E perguntando o rei à mulher, ela lhe contou. Então o rei lhe deu um eunuco, dizendo-lhe: Faze-lhe restituir todas as 
+coisas que eram suas, e todos os frutos das terras desde o dia que deixou esta terra até agora.
 \v 2Rs.8.7
 Eliseu se foi logo a Damasco, e Ben-Hadade rei da Síria estava enfermo, ao qual deram aviso, dizendo: O homem de Deus veio aqui.
 \v 2Rs.8.8
@@ -607,7 +608,7 @@ E Atalia mãe de Acazias, vendo que seu filho era morto, levantou-se, e destruiu
 \v 2Rs.11.2
 Porém Jeoseba, filha do rei Jeorão, irmã de Acazias, tomando a Joás filho de Acazias, tirou-o dentre os filhos do rei, que se matavam, e ocultou-o de diante de Atalia, a ele e a sua ama, na câmara das camas, e assim não o mataram.
 \v 2Rs.11.3
-E esteve com ela escondido na casa do SENHOR seis anos: e Atalia foi rainha sobre o país.
+E esteve com ela escondido na casa do SENHOR durante seis anos; e Atalia foi rainha sobre aquela terra.
 \v 2Rs.11.4
 Mas ao sétimo ano enviou Joiada, e tomou comandantes de cem, capitães, e gente da guarda, e meteu-os consigo na casa do SENHOR: e fez com eles liga, juramentando-os na casa do SENHOR; e mostrou-lhes ao filho do rei.
 \v 2Rs.11.5
@@ -629,7 +630,9 @@ Tirando logo Joiada ao filho do rei, pôs-lhe a coroa e o testemunho, e fizeram-
 \v 2Rs.11.13
 E ouvindo Atalia o estrondo do povo que corria, entrou ao povo no templo do SENHOR;
 \v 2Rs.11.14
-E quando olhou, eis que o rei que estava junto à coluna, conforme o costume, e os príncipes e os trombetas junto ao rei; e que todo o povo do país fazia alegrias, e que tocavam as trombetas. Então Atalia, rasgando suas roupas, clamou em gritos: Traição! Traição!
+E quando olhou, eis que o rei que estava junto à coluna, conforme o costume, e os príncipes e os trombetas junto ao 
+rei; e que todo o povo daquela terra se alegrava, e que tocavam as trombetas. Então Atalia, rasgando suas roupas, 
+clamou em gritos: Traição! Traição!
 \v 2Rs.11.15
 Mas o sacerdote Joiada mandou aos comandantes de cem que governavam o exército, e disse-lhes: Tirai-a fora do recinto do templo, e ao que a seguir, matai-o à espada. (Porque o sacerdote disse que não a matassem no templo do SENHOR.)
 \v 2Rs.11.16
@@ -919,9 +922,10 @@ Contra este subiu Salmaneser rei dos assírios; e Oseias foi feito seu servo, e 
 \v 2Rs.17.4
 Mas o rei da Assíria achou que Oseias fazia conspiração: porque havia enviado embaixadores a Sô, rei do Egito, e não pagava tributo ao rei da Assíria, como cada ano: pelo que o rei da Assíria lhe deteve, e lhe aprisionou na casa do cárcere.
 \v 2Rs.17.5
-E o rei da Assíria partiu contra todo o país, e subiu contra Samaria, e esteve sobre ela três anos.
+E o rei da Assíria partiu contra todo aquela terra, e subiu contra Samaria, e a cercou por três anos.
 \v 2Rs.17.6
-No ano nove de Oseias tomou o rei da Assíria a Samaria, e transportou a Israel a Assíria, e os pôs em Hala, e em Habor, junto ao rio de Gozã, e nas cidades dos medos.
+No nono ano de Oseias, o rei da Assíria tomou a Samaria, e transportou a Israel a Assíria, e os pôs em Hala, e em 
+Habor, junto ao rio de Gozã, e nas cidades dos medos.
 \v 2Rs.17.7
 Porque como os filhos de Israel pecassem contra o SENHOR seu Deus, que os tirou da terra do Egito de sob a mão de Faraó rei do Egito, e temessem a deuses alheios,
 \v 2Rs.17.8
@@ -963,7 +967,8 @@ E aconteceu ao princípio, quando começaram a habitar ali, que não temendo ele
 \v 2Rs.17.26
 Então disseram eles ao rei da Assíria: As nações que tu transportaste e puseste nas cidades de Samaria, não sabem a costume do Deus daquela terra, e ele lançou leões neles, e eis que os matam, porque não sabem a costume do Deus da terra.
 \v 2Rs.17.27
-E o rei da Assíria mandou, dizendo: Levai ali a algum dos sacerdotes que trouxestes dali, e vão e habitem ali, e ensinem-lhes o costume do Deus do país.
+E o rei da Assíria mandou, dizendo: Levai ali a algum dos sacerdotes que trouxestes dali, e vão e habitem ali, e 
+ensinem-lhes o costume do Deus daquela terra.
 \v 2Rs.17.28
 E veio um dos sacerdotes que haviam transportado de Samaria, e habitou em Betel, e ensinou-lhes como haviam de temer ao SENHOR.
 \v 2Rs.17.29
@@ -1377,7 +1382,8 @@ E tirou dali todos os tesouros da casa do SENHOR, e os tesouros da casa real, e 
 \v 2Rs.24.14
 E levou em cativeiro toda Jerusalém, todos os príncipes, e todos os homens valentes, até dez mil cativos, e todos os artesãos e ferreiros; que não restou ninguém, exceto os pobres do povo da terra.
 \v 2Rs.24.15
-Também levou cativo Joaquim à Babilônia, assim como a mãe do rei, as mulheres do rei, os seus eunucos, e os poderosos do país; cativos os levou de Jerusalém à Babilônia.
+Também levou cativo Joaquim à Babilônia, assim como a mãe do rei, as mulheres do rei, os seus eunucos, e os poderosos 
+daquela terra; cativos os levou de Jerusalém à Babilônia.
 \v 2Rs.24.16
 A todos os homens de guerra, que foram sete mil, e aos oficiais e ferreiros, que foram mil, e a todos os valentes para fazer a guerra, levou cativos o rei da Babilônia.
 \v 2Rs.24.17
@@ -1425,9 +1431,11 @@ A altura da uma coluna era dezoito côvados e tinha encima um capitel de bronze,
 \v 2Rs.25.18
 Tomou então o capitão dos da guarda a Seraías o sacerdote principal, e a Sofonias o segundo sacerdote, e três guardas da porta;
 \v 2Rs.25.19
-E da cidade tomou um eunuco, o qual comandava os soldados, e cinco homens dos assistentes do rei, que se acharam na cidade; e ao principal escriba do exército, que fazia o registro da gente do país; e sessenta homens do povo da terra,
+E da cidade tomou um eunuco, o qual comandava os soldados, e cinco homens dos assistentes do rei, que se acharam na 
+cidade; e ao principal escriba do exército, que fazia o registro da gente daquela terra; e sessenta homens do povo 
+da terra,
 \v 2Rs.25.20
-Estes tomou Nebuzaradã, capitão dos da guarda, e levou-os a Ribla ao rei da Babilônia.
+Nebuzaradã, capitão da guarda, tomou-os e os levou a Ribla, ao rei da Babilônia.
 \v 2Rs.25.21
 E o rei da Babilônia os feriu e matou em Ribla, em terra de Hamate. Assim foi transportado Judá de sobre sua terra.
 \v 2Rs.25.22

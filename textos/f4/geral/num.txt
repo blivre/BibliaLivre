@@ -11,7 +11,7 @@ Nm
 NUM
 \*ubs-code
 \v Nm.1.1
-E falou o SENHOR a Moisés no deserto de Sinai, no tabernáculo do testemunho, no primeiro dia do mês segundo, no segundo ano de sua saída da terra do Egito, dizendo:
+E o SENHOR falou a Moisés no deserto de Sinai, no tabernáculo do testemunho, no primeiro dia do mês segundo, no segundo ano de sua saída da terra do Egito, dizendo:
 \v Nm.1.2
 Tomai o censo de toda a congregação dos filhos de Israel por suas famílias, pelas casas de seus pais, com a conta dos nomes, todos os homens por suas cabeças:
 \v Nm.1.3
@@ -995,7 +995,8 @@ E observai a terra que tal é; e o povo que a habita, se é forte ou débil, se 
 \v Nm.13.19
 Que tal a terra habitada, se é boa ou má; e que tais são as cidades habitadas, se de tendas ou de fortalezas;
 \v Nm.13.20
-E qual seja o terreno, se é fértil ou fraco, se nele há ou não árvores: e esforçai-vos, e colhei do fruto do país. E o tempo era o tempo das primeiras uvas.
+E qual seja o terreno, se é fértil ou fraco, se nele há ou não árvores; e esforçai-vos, e colhei do fruto daquela 
+terra. E o tempo era o tempo das primeiras uvas.
 \v Nm.13.21
 E eles subiram, e reconheceram a terra desde o deserto de Zim até Reobe, entrando em Hamate.
 \v Nm.13.22
@@ -1093,9 +1094,10 @@ Conforme o número dos dias, dos quarenta dias em que reconhecestes a terra, lev
 \v Nm.14.35
 Eu sou o SENHOR falei; assim farei a toda esta multidão perversa que se juntou contra mim; neste deserto serão consumidos, e ali morrerão.
 \v Nm.14.36
-E os homens que Moisés enviou a reconhecer a terra, e depois de voltarem fizeram murmurar contra ele a toda a congregação, desacreditando aquele país,
+E os homens que Moisés enviou a reconhecer a terra, e depois de voltarem fizeram murmurar contra ele a toda a 
+congregação, desacreditando aquela terra,
 \v Nm.14.37
-Aqueles homens que haviam falado mal da terra, morreram de praga diante do SENHOR.
+aqueles homens que haviam falado mal da terra, morreram de praga diante do SENHOR.
 \v Nm.14.38
 Mas Josué filho de Num, e Calebe filho de Jefoné, restaram com vida dentre aqueles homens que haviam ido a reconhecer a terra.
 \v Nm.14.39
@@ -1469,7 +1471,7 @@ E clamamos ao SENHOR, o qual ouviu nossa voz, e enviou anjo, e tirou-nos do Egit
 \v Nm.20.17
 Rogamo-te que passemos por tua terra; não passaremos por lavoura, nem por vinha, nem beberemos água de poços: pelo caminho real iremos, sem apartar-nos à direita nem à esquerda, até que havemos passado teu termo.
 \v Nm.20.18
-E Edom lhe respondeu: Não passarás por meu país, de outra maneira sairei contra ti armado.
+E Edom lhe respondeu: Não passarás por minha terra, de outra maneira sairei contra ti armado.
 \v Nm.20.19
 E os filhos de Israel disseram: Pelo caminho seguido iremos; e se bebermos tuas águas eu e meus gados, darei o preço delas: certamente sem fazer outra coisa, passarei de seguida.
 \v Nm.20.20
@@ -2264,7 +2266,8 @@ Os homens do exército haviam despojado cada um para si.
 \v Nm.31.54
 Receberam, pois, Moisés e o sacerdote Eleazar, o ouro dos comandantes de mil e comandantes de cem, e trouxeram-no ao tabernáculo do testemunho, por memória dos filhos de Israel diante do SENHOR.
 \v Nm.32.1
-E os filhos de Rúben e os filhos de Gade tinham uma muito grande abundância de gado; os quais vendo a terra de Jazer e de Gileade, pareceu-lhes o país lugar de gado.
+E os filhos de Rúben e os filhos de Gade tinham uma muito grande abundância de gado; os quais vendo a terra de Jazer e 
+de Gileade, pareceu-lhes a terra lugar de gado.
 \v Nm.32.2
 E vieram os filhos de Gade e os filhos de Rúben, e falaram a Moisés, e a Eleazar o sacerdote, e aos príncipes da congregação, dizendo:
 \v Nm.32.3
@@ -2296,7 +2299,8 @@ Se vos deixardes de segui-lo, ele voltará outra vez a deixar-vos no deserto, e 
 \v Nm.32.16
 Então eles se achegaram a ele e disseram: Edificaremos aqui currais para nosso gado, e cidades para nossas crianças;
 \v Nm.32.17
-E nós nos armaremos, e iremos com empenho diante dos filhos de Israel, até que os ponhamos em seu lugar: e nossas crianças ficarão em cidades fortes por causa dos moradores do país.
+E nós nos armaremos, e iremos com empenho diante dos filhos de Israel, até que os ponhamos em seu lugar; e nossas 
+crianças ficarão em cidades fortes por causa dos moradores da terra.
 \v Nm.32.18
 Não voltaremos a nossas casas até que os filhos de Israel possuam cada um sua herança.
 \v Nm.32.19
@@ -2306,7 +2310,8 @@ Então lhes respondeu Moisés: Se o fizerdes assim, se vos preparardes para ir d
 \v Nm.32.21
 E passardes todos vós armados o Jordão diante do SENHOR, até que tenha expulsado a seus inimigos de diante de si,
 \v Nm.32.22
-E seja o país subjugado diante do SENHOR; logo voltareis, e sereis livres de culpa para com o SENHOR, e para com Israel; e esta terra será vossa em herança diante do SENHOR.
+E seja aquela terra subjugada diante do SENHOR; logo voltareis, e sereis livres de culpa para com o SENHOR, e para com 
+Israel; e esta terra será vossa em herança diante do SENHOR.
 \v Nm.32.23
 Mas se assim não o fizerdes, eis que havereis pecado ao SENHOR; e sabei que vos alcançará vosso pecado.
 \v Nm.32.24
@@ -2320,15 +2325,18 @@ E teus servos, armados todos de guerra, passarão diante do SENHOR à guerra, da
 \v Nm.32.28
 Então os encomendou Moisés a Eleazar o sacerdote, e a Josué filho de Num, e aos príncipes dos pais das tribos dos filhos de Israel.
 \v Nm.32.29
-E disse-lhes Moisés: Se os filhos de Gade e os filhos de Rúben, passarem convosco o Jordão, armados todos de guerra diante do SENHOR, logo que o país for subjugado diante de vós, lhes dareis a terra de Gileade em possessão:
+E disse-lhes Moisés: Se os filhos de Gade e os filhos de Rúben, passarem convosco o Jordão, todos armados para a 
+guerra diante do SENHOR, logo que aquela terra for subjugada diante de vós, lhes dareis a terra de Gileade 
+como propriedade;
 \v Nm.32.30
-Mas se não passarem armados convosco, então terão possessão entre vós na terra de Canaã.
+Mas se não passarem armados convosco, então terão propriedade entre vós na terra de Canaã.
 \v Nm.32.31
 E os filhos de Gade e os filhos de Rúben responderam, dizendo: Faremos o que o SENHOR disse a teus servos.
 \v Nm.32.32
-Nós passaremos armados diante do SENHOR à terra de Canaã, e a possessão de nossa herança será desta parte do Jordão.
+Nós passaremos armados diante do SENHOR à terra de Canaã, e a propriedade de nossa herança será desta parte do Jordão.
 \v Nm.32.33
-Assim lhes deu Moisés aos filhos de Gade e aos filhos de Rúben, e à meia tribo de Manassés filho de José, o reino de Seom rei amorreu, e o reino de Ogue rei de Basã, a terra com suas cidades e termos, as cidades do país ao redor.
+Assim lhes deu Moisés aos filhos de Gade e aos filhos de Rúben, e à meia tribo de Manassés filho de José, o reino de 
+Seom, rei amorreu, e o reino de Ogue, rei de Basã, a terra com suas cidades e termos, as cidades da terra em redor.
 \v Nm.32.34
 E os filhos de Gade edificaram a Dibom, e a Atarote, e a Aroer,
 \v Nm.32.35
@@ -2420,7 +2428,7 @@ E partidos de Abrona, assentaram em Eziom-Geber.
 \v Nm.33.36
 E partidos de Eziom-Geber, assentaram no deserto de Zim, que é Cades.
 \v Nm.33.37
-E partidos de Cades, assentaram no monte de Hor, na extremidade do país de Edom.
+E partidos de Cades, assentaram no monte de Hor, na extremidade da terra de Edom.
 \v Nm.33.38
 E subiu Arão o sacerdote ao monte de Hor, conforme o dito do SENHOR, e ali morreu aos quarenta anos da saída dos filhos de Israel da terra do Egito, no mês quinto, no primeiro dia do mês.
 \v Nm.33.39
@@ -2450,13 +2458,15 @@ E falou o SENHOR a Moisés nos campos de Moabe junto ao Jordão de Jericó, dize
 \v Nm.33.51
 Fala aos filhos de Israel, e dize-lhes: Quando houverdes passado o Jordão à terra de Canaã,
 \v Nm.33.52
-Expulsareis a todos os moradores do país de diante de vós, e destruireis todas suas imagens esculpidas, e todas suas imagens de fundição, e arruinareis todos os seus altos;
+Expulsareis a todos os moradores daquela terra de diante de vós, e destruireis todas suas imagens esculpidas, e todas 
+as suas imagens de fundição, e arruinareis todos os seus altares pagãos;
 \v Nm.33.53
 E expulsareis os moradores da terra, e habitareis nela; porque eu a dei a vós para que a possuais.
 \v Nm.33.54
 E herdareis a terra por sortes por vossas famílias: aos muitos dareis muito por sua herança, e aos poucos dareis menos por herança sua: onde lhe sair a sorte, ali a terá cada um: pelas tribos de vossos pais herdareis.
 \v Nm.33.55
-E se não expulsardes os moradores do país de diante de vós, sucederá que os que deixardes deles serão por aguilhões em vossos olhos, e por espinhos em vossos lados, e vos afligirão sobre a terra em que vós habitardes.
+E se não expulsardes os moradores daquela terra de diante de vós, sucederá que os que deixardes deles serão por 
+aguilhões em vossos olhos, e por espinhos em vossos lados, e vos afligirão sobre a terra em que vós habitardes.
 \v Nm.33.56
 Será também, que farei a vós como eu pensei fazer a eles.
 \v Nm.34.1

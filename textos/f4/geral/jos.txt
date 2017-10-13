@@ -63,7 +63,12 @@ E os homens foram atrás eles pelo caminho do Jordão, até os vaus: e a porta f
 \v Js.2.8
 Mas antes que eles dormissem, ela subiu a eles ao terraço, e disse-lhes:
 \v Js.2.9
-Sê que o SENHOR vos deu esta terra; porque o temor de vós caiu sobre nós, e todos os moradores do país estão desmaiados por causa de vós;
+Eu sei que o SENHOR vos deu esta terra; porque o temor de vós caiu sobre nós, e todos os moradores desta 
+estão apavorados
+\fn
+Lit. derretidos
+\*fn
+ por causa de vós;
 \v Js.2.10
 Porque ouvimos que o SENHOR fez secar as águas do mar Vermelho diante de vós, quando saístes do Egito, e o que fizestes aos dois reis pelos amorreus que estavam da parte dali do Jordão, a Seom e a Ogue, aos quais destruístes.
 \v Js.2.11
@@ -645,7 +650,8 @@ Ao sul toda a terra dos cananeus, e Meara que é dos sidônios, até Afeque, at�
 \v Js.13.5
 E a terra dos gebalitas, e todo o Líbano até o oriente, desde Baal-Gade o pdo monte Hermom, até entrar em Hamate;
 \v Js.13.6
-Todos os que habitam nas montanhas desde o Líbano até as águas quentes, todos os sidônios; eu os desarraigarei diante dos filhos de Israel: somente repartirás tu por sorte o país aos israelitas por herança, como te mandei.
+Todos os que habitam nas montanhas desde o Líbano até as águas quentes, todos os sidônios; eu os desarraigarei diante 
+dos filhos de Israel:;somente repartirás tu por sorte aquela terra aos israelitas por herança, como te mandei.
 \v Js.13.7
 Reparte, pois, tu agora esta terra em herança às nove tribos, e à meia tribo de Manassés.
 \v Js.13.8
