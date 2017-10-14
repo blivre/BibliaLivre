@@ -1778,15 +1778,15 @@ Porque a parte do SENHOR é seu povo; Jacó a medida de sua herança.
 \v Dt.32.10
 Achou-o em terra de deserto, E em deserto horrível e ermo; Cercou-o, instruiu-o, Guardou-o como a menina de seu olho.
 \v Dt.32.11
-Como a água desperta sua ninhada, paira sobre seus passarinhos, Estende suas asas, os toma, os leva sobre suas penas:
+Como a água desperta sua ninhada, paira sobre seus passarinhos, estende suas asas, os toma, os leva sobre suas penas;
 \v Dt.32.12
-O SENHOR sozinho o guiou, e nenhum deus estrangeiro esteve com ele.
+o SENHOR sozinho o guiou, e nenhum deus estrangeiro esteve com ele.
 \v Dt.32.13
-Ele o fez cavalgar sobre as alturas da terra; comeu os frutos do campo, e o fez que chupar mel da rocha, e azeite da dura pederneira;
+Ele o fez cavalgar sobre os lugares altos da terra; alimentou-o com os frutos do campo, e o fez sugar mel da rocha e azeite da dura pederneira;
 \v Dt.32.14
-Manteiga de vacas e leite de ovelhas, Com gordura de cordeiros, E carneiros de Basã; também machos de bode, Com o melhor do trigo: E sangue de uva bebeste, vinho puro.
+manteiga de vacas e leite de ovelhas, com gordura de cordeiros, e carneiros de Basã; também machos de bode, com o melhor do trigo; e bebeste o sangue das uvas, o vinho puro.
 \v Dt.32.15
-E engordou Jesurum, e deu coices: Engordaste-te, engrossaste-te, cobriste-te: E deixou ao Deus que lhe fez, E menosprezou a Rocha de sua salvação.
+E engordou Jesurum, e deu coices: engordaste-te, engrossaste-te, cobriste-te: e deixou ao Deus que lhe fez, e menosprezou a Rocha de sua salvação.
 \v Dt.32.16
 Provocaram-lhe ciúmes com os deuses alheios; irritaram-lhe com abominações.
 \v Dt.32.17
@@ -1808,7 +1808,7 @@ Xeol é o lugar dos mortos
  e consumirá a terra e seus 
 frutos, e abrasará os fundamentos dos montes.
 \v Dt.32.23
-Eu trarei males sobre eles; Gastarei neles minhas flechas.
+Eu trarei males sobre eles; gastarei neles minhas flechas.
 \v Dt.32.24
 Consumidos serão de fome, e comidos de febre ardente E de amarga pestilência; Dente de animais enviarei também sobre eles, Com veneno de serpente da terra.
 \v Dt.32.25
@@ -1882,53 +1882,85 @@ Ainda amou os povos; Todos seus santos em tua mão: Eles também se chegaram a t
 \v Dt.33.4
 Lei nos mandou Moisés, Herança à congregação de Jacó.
 \v Dt.33.5
-E foi rei em Jesurum, Quando se congregaram os chefes do povo Com as tribos de Israel.
+E foi rei em Jesurum, quando se congregaram os chefes do povo com as tribos de Israel.
 \v Dt.33.6
-Viva Rúben, e não morra; E sejam seus homens em número.
+Viva Rúben, e não morra;  sejam seus homens em número.
 \v Dt.33.7
-E esta bênção para Judá. Disse assim: Ouve, ó SENHOR, a voz de Judá, E leva-o a seu povo; suas mãos lhe bastem, E tu sejas ajuda contra seus inimigos.
+E esta bênção para Judá. Disse assim: Ouve, ó SENHOR, a voz de Judá, e leva-o ao seu povo; suas mãos lhe bastem, e tu sejas ajuda contra seus inimigos.
 \v Dt.33.8
-E a Levi disse: Teu Tumim e teu Urim, com teu bom homem Ao qual tentaste em Massá, E lhe fizeste brigar nas águas da briga;
+E a Levi disse: Teu Tumim e teu Urim, com teu bom homem ao qual tentaste em Massá, e lhe fizeste brigar nas águas da briga;
 \v Dt.33.9
-O que disse a seu pai e a sua mãe: Nunca os vi: nem conheceu a seus irmãos, nem conheceu a seus filhos: Pelo qual eles guardarão tuas palavras, E observarão teu pacto.
+O que disse a seu pai e a sua mãe: Nunca os vi: nem conheceu a seus irmãos, nem conheceu a seus filhos; por isso eles 
+guardarão as tuas palavras, e observarão o teu pacto.
 \v Dt.33.10
-Eles ensinarão teus juízos a Jacó, E tua lei a Israel; Porão o incenso diante de ti, E o holocausto sobre teu altar.
+Eles ensinarão teus juízos a Jacó, e tua lei a Israel; porão o incenso diante de ti, e a oferta de queima sobre o teu altar.
 \v Dt.33.11
-Abençoa, ó SENHOR, o que fizerem, E recebe com agrado a obra de suas mãos: Fere os lombos de seus inimigos, E dos que lhe odiarem; para que nunca se levantem.
+Abençoa, ó SENHOR, o que fizerem, e recebe com agrado a obra de suas mãos; fere os lombos de seus inimigos, e dos que lhe odiarem; para que nunca se levantem.
 \v Dt.33.12
-E a Benjamim disse: O amado do SENHOR habitará confiante próximo dele: Ele o cobrirá sempre, E entre seus ombros morará.
+E a Benjamim disse: O amado do SENHOR habitará confiante próximo dele; Ele o cobrirá sempre, E entre seus ombros morará.
 \v Dt.33.13
-E a José disse: Bendita do SENHOR sua terra, Pelas dádivas dos céus, pelo orvalho, E pelo abismo que abaixo jaz,
+E a José disse: Bendita do SENHOR 
+\added
+seja
+\*added
+ a sua terra, com as dádivas dos céus, com o  orvalho, e com o abismo que jaz abaixo,
 \v Dt.33.14
-E pelos excelentes frutos do sol, E pelos excelentes produtos das influências das luas,
+com excelentes frutos do sol, e com os excelentes produtos de cada lua,
+\fn
+\key
+de cada lua
+\*key
+Isto é, “de cada mês”
+\*fn
 \v Dt.33.15
-E pelo cume dos montes antigos, E pelos excelentes produtos das colinas eternas,
+e com o que há de mais excelente dos montes antigos, e com os excelentes produtos das colinas eternas,
 \v Dt.33.16
-E pelos excelentes produtos da terra e sua plenitude; E a graça do que habitou na sarça Venha sobre a cabeça de José, E sobre ao topo da cabeça do separado de seus irmãos.
+e com os excelentes produtos da terra e sua plenitude; e que a benevolência daquele que habitou na sarça venha sobre a 
+cabeça de José, e sobre ao topo da cabeça do que foi separado dos seus irmãos.
 \v Dt.33.17
-Ele é preeminente como o primogênito de seu touro, E suas pontas, chifres de boi selvagem: Com eles chifrará os povos juntos até os confins da terra: E estes são as dezenas de milhares milhares de Efraim, E estes os milhares de Manassés.
+Ele é preeminente como o primogênito de seu touro, e suas pontas, chifres de boi selvagem; com eles chifrará os 
+povos juntamente até os confins da terra; e estes são as dezenas de milhares de Efraim, e estes os milhares 
+de Manassés.
 \v Dt.33.18
-E a Zebulom disse: Alegra-te, Zebulom, quando saíres: E tu Issacar, em tuas tendas.
+E a Zebulom disse: Alegra-te, Zebulom, quando saíres; e tu Issacar, em tuas tendas.
 \v Dt.33.19
-Chamarão os povos ao monte: Ali sacrificarão sacrifícios de justiça: Pelo qual chuparão a abundância dos mares, E os tesouros escondidos da areia.
+Eles chamarão os povos ao monte; ali oferecerão sacrifícios de justiça; porque sugarão a abundância dos mares, e os 
+tesouros escondidos da areia.
 \v Dt.33.20
-E a Gade disse: Bendito o que fez alargar a Gade: Como leão habitará, E arrebatará braço e testa.
+E a Gade disse: Bendito o que fez alargar a Gade: Como leão habitará, e arrebatará braço e testa.
 \v Dt.33.21
-E ele se proveu da parte primeira, Porque ali uma porção do legislador foi-lhe reservada, E veio na dianteira do povo; A justiça do SENHOR executará, E seus juízos com Israel.
+E ele se proveu da primeira parte, porque ali uma porção do legislador foi-lhe reservada, e veio na dianteira do povo; 
+executará a justiça do SENHOR, e seus juízos com Israel.
 \v Dt.33.22
-E a Dã disse: Dã, leão jovem: Saltará desde Basã.
+E a Dã disse: Dã 
+\added
+é
+\*added
+ um leão jovem; saltará desde Basã.
 \v Dt.33.23
-E a Naftali disse: Naftali, saciado de benevolência, E cheio da bênção do SENHOR, Possui o ocidente e o sul,
+E a Naftali disse: Naftali, saciado de benevolência, e cheio da bênção do SENHOR, possui o ocidente e o sul,
 \v Dt.33.24
-E a Aser disse: Bendito Aser em filhos: Agradável será a seus irmãos, E molhará em azeite seu pé.
+E a Aser disse: Bendito 
+\added
+seja
+\*added
+ Aser em filhos; agradável será aos seus irmãos, e molhará em azeite o seu pé.
 \v Dt.33.25
-Ferro e bronze teu calçado, E como teus dias tua força.
+ferro e bronze 
+\added
+será
+\*added
+ o teu calçado, e tua força 
+\added
+será
+\*added
+ como os teus dias.
 \v Dt.33.26
-Não há como o Deus de Jesurum, Montado sobre os céus para tua ajuda, E sobre as nuvens com sua grandeza.
+Não há como o Deus de Jesurum, montado sobre os céus para tua ajuda, e sobre as nuvens com sua grandeza.
 \v Dt.33.27
-O eterno Deus é teu refúgio E aqui abaixo os braços eternos; Ele expulsará de diante de ti ao inimigo, E dirá: Destrói.
+O eterno Deus é o teu refúgio, e abaixo os braços eternos; ele expulsará de diante de ti o inimigo, e dirá: Destrói.
 \v Dt.33.28
-E Israel, fonte de Jacó, habitará confiante sozinho Em terra de grão e de vinho: Também seus céus destilarão orvalho.
+E Israel, fonte de Jacó, habitará confiante sozinho na terra do grão e do vinho; também seus céus destilarão orvalho.
 \v Dt.33.29
 Bem-aventurado és tu, ó Israel! Quem é como tu, povo salvo pelo SENHOR, o escudo de teu socorro, e a espada da tua 
 excelência? Por isso os teus inimigos serão subjugados, e tu pisarás sobre as suas costas.
@@ -1936,7 +1968,8 @@ excelência? Por isso os teus inimigos serão subjugados, e tu pisarás sobre as
 Obscuro. Trad. alt. “alturas” ou “lugares altos”
 \*fn
 \v Dt.34.1
-E subiu Moisés dos campos de Moabe ao monte de Nebo, ao cume de Pisga, que está em frente de Jericó: e mostrou-lhe o SENHOR toda a terra de Gileade até Dã,
+E Moisés subiu dos campos de Moabe ao monte Nebo, ao cume de Pisga, que está em frente de Jericó; e o SENHOR 
+mostrou-lhe toda a terra de Gileade até Dã,
 \v Dt.34.2
 E a todo Naftali, e a terra de Efraim e de Manassés, toda a terra de Judá até o mar mais distante;
 \v Dt.34.3
@@ -1944,7 +1977,7 @@ E a parte sul, e a campina, o vale de Jericó, cidade das palmeiras, até Zoar.
 \v Dt.34.4
 E disse-lhe o SENHOR: Esta é a terra de que jurei a Abraão, a Isaque, e a Jacó, dizendo: À tua descendência a darei. Eu a fiz ver com teus olhos, mas não passarás ali.
 \v Dt.34.5
-E morreu ali Moisés servo do SENHOR, na terra de Moabe, conforme o dito do SENHOR.
+E morreu ali Moisés, servo do SENHOR, na terra de Moabe, conforme o dito do SENHOR.
 \v Dt.34.6
 E enterrou-o no vale, em terra de Moabe, em frente de Bete-Peor; e ninguém sabe seu sepulcro até hoje.
 \v Dt.34.7
