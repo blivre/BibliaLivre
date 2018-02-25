@@ -1100,7 +1100,7 @@ seu
 \*added
  santuário; e desde Sião ele te sustenha.
 \v Sl.20.3
-Que ele se lembre de todas as tuas ofertas, e aceite a tua oferta de queima. (Selá)
+Que ele se lembre de todas as tuas ofertas, e aceite os teus holocaustos. (Selá)
 \v Sl.20.4
 Que ele de a ti conforme o teu coração, e faça cumprir todo o teu propósito.
 \v Sl.20.5
@@ -2571,7 +2571,7 @@ Tu não te agradaste de sacrifício e oferta;
 \added
 porém
 \*added
- tu me furaste as orelhas; tu não pediste nem oferta de queima nem oferta para expiação de pecado.
+ tu me furaste as orelhas; tu não pediste nem holocausto nem oferta de expiação do pecado.
 \v Sl.40.7
 Então eu disse: Eis que venho; no rolo do livro está escrito sobre mim.
 \v Sl.40.8
@@ -3159,7 +3159,7 @@ E os céus anunciarão sua justiça, pois o próprio Deus é o juiz. (Selá)
 \v Sl.50.7
 Ouve, povo meu, e eu falarei; eu darei testemunho contra ti, Israel; eu sou Deus, o teu Deus.
 \v Sl.50.8
-Eu não te repreenderei por causa de teus sacrifícios, porque tuas ofertas de queima estão continuamente perante mim.
+Eu não te repreenderei por causa de teus sacrifícios, porque teus holocaustos estão continuamente perante mim.
 \v Sl.50.9
 Não tomarei bezerro de tua casa, 
 \added
@@ -3263,7 +3263,7 @@ transgressões
 \v Sl.51.15
 Abre, Senhor, os meus lábios, e minha boca anunciará louvor a ti.
 \v Sl.51.16
-Porque tu não te agradas de sacrifícios, pois senão eu te daria; tu não te alegras de ofertas de queima.
+Porque tu não te agradas de sacrifícios, pois senão eu te daria; tu não te alegras de holocaustos.
 \v Sl.51.17
 Os sacrifícios a Deus são um espírito quebrado 
 \added
@@ -3273,7 +3273,8 @@ em arrependimento
 \v Sl.51.18
 Faze bem a Sião conforme tua boa vontade; edifica os muros de Jerusalém.
 \v Sl.51.19
-Então tu te agradarás dos sacrifícios de justiça, nas ofertas de queima, e nos sacrifícios queimados por completo; então oferecerão bezerros sobre teu altar.
+Então tu te agradarás dos sacrifícios de justiça, dos holocaustos, e das ofertas queimadas; então oferecerão 
+bezerros sobre teu altar.
 \psalm-title
 Instrução de Davi, para o regente, quando Doegue, o edomita, veio, e contou a Saul, dizendo: Davi veio à casa de Aimeleque:
 \*psalm-title
@@ -4168,11 +4169,11 @@ lugar
 \*added
  confortável.
 \v Sl.66.13
-Entrarei em tua casa com ofertas de queima; pagarei a ti os meus votos,
+Entrarei em tua casa com holocaustos; pagarei a ti os meus votos,
 \v Sl.66.14
 Que meus lábios pronunciaram, e minha boca falou, quando eu estava angustiado.
 \v Sl.66.15
-Eu te oferecerei ofertas de queima de animais gordos, com incenso de carneiros; prepararei bois com bodes. (Selá)
+Eu te oferecerei holocaustos de animais gordos, com incenso de carneiros; prepararei bois com bodes. (Selá)
 \v Sl.66.16
 Vinde, ouvi, todos vós que temeis a Deus, e eu contarei o que ele fez à minha alma.
 \v Sl.66.17
@@ -7799,7 +7800,7 @@ Eu guardarei teus estatutos; não me abandones por completo.
 \added
 Bete
 \*added
- :Com que um rapaz purificará o seu caminho? Sendo obediente conforme a tua palavra.
+: Com que um rapaz purificará o seu caminho? Sendo obediente conforme a tua palavra.
 \v Sl.119.10
 Eu te busco como todo o meu coração; não me deixes desviar de teus mandamentos.
 \v Sl.119.11
@@ -7809,13 +7810,13 @@ Bendito
 \added
 és
 \*added
- tu, SENHOR; ensina-me teus estatutos.
+ tu, SENHOR; ensina-me os teus estatutos.
 \v Sl.119.13
-Com meus lábios contei todos os juízos de minha boca.
+Com meus lábios contei todos os juízos de tua boca.
 \v Sl.119.14
 Eu me alegro mais com o caminho de teus estatutos, do que com todas as riquezas.
 \v Sl.119.15
-Meditarei em teus mandamentos, e darei atenção a teus caminhos.
+Meditarei em teus mandamentos, e darei atenção aos teus caminhos.
 \v Sl.119.16
 Terei prazer em teus estatutos; não me esquecerei de tua palavra.
 \v Sl.119.17

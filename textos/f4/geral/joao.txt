@@ -758,7 +758,7 @@ pela
 \*added
  comida que permanece para vida eterna, a qual o Filho do homem vos dará; porque Deus Pai a este selou.
 \v Jo.6.28
-Disseram-lhe pois: Que faremos, para trabalharmos as obras de Deus?
+Disseram-lhe pois: Que faremos para trabalhar as obras de Deus?
 \v Jo.6.29
 Respondeu Jesus, e disse-lhes: Esta é a obra de Deus: que creiais naquele que ele enviou.
 \v Jo.6.30
@@ -843,7 +843,7 @@ isto
 \*added
 , disseram: Dura é esta palavra; quem a pode ouvir?
 \v Jo.6.61
-Sabendo pois Jesus em si mesmo, que seus discípulos murmuravam disto, disse-lhes: Isto vos ofende?
+Sabendo, pois, Jesus em si mesmo, que seus discípulos murmuravam disso, disse-lhes: Isto vos ofende?
 \v Jo.6.62
 \added
 Que seria
@@ -1336,11 +1336,7 @@ Todos quantos vieram antes de mim, são ladrões e assaltantes; mas as ovelhas n
 \v Jo.10.9
 Eu sou a porta; se alguém entrar por mim, será salvo; e entrará, e sairá, e achará pasto.
 \v Jo.10.10
-O ladrão não vem para 
-\added
-outra coisa
-\*added
-,a não ser roubar, e matar, e destruir; eu vim para que tenham vida, e 
+O ladrão não vem, senão para roubar, matar, e destruir; eu vim para que tenham vida, e 
 \added
 a
 \*added
@@ -1348,17 +1344,14 @@ a
 \v Jo.10.11
 Eu sou o bom Pastor; o bom Pastor dá sua vida pelas ovelhas.
 \v Jo.10.12
-Mas o empregado, e que não é o pastor, as cujas ovelhas não são próprias, vê o lobo vir, e deixa as ovelhas, e foge; o lobo as arranca, e dispersa as ovelhas.
+Mas o contratado a dinheiro, e que não é o pastor, a quem as ovelhas não pertencem, vê o lobo vir, deixa as ovelhas, e 
+foge; o lobo as captura, e dispersa as ovelhas.
 \v Jo.10.13
-E o empregado foge, porque é empregado, e não tem cuidado das ovelhas.
+E o contratado foge, porque é contratado, e não tem cuidado das ovelhas.
 \v Jo.10.14
-Eu sou o bom Pastor, e as minhas conheço, e das minhas sou conhecido.
+Eu sou o bom Pastor, e conheço as minhas, e pelas minhas sou conhecido.
 \v Jo.10.15
-Como o Pai me conhece, 
-\added
-assim
-\*added
- também eu conheço ao Pai; e ponho minha vida pelas ovelhas.
+Como o Pai me conhece, assim também também eu conheço o Pai; e dou a minha vida pelas ovelhas.
 \v Jo.10.16
 Ainda tenho outras ovelhas que não são deste curral; a estas também me convém trazer, e ouvirão minha voz, e haverá um rebanho, 
 \added
@@ -1366,15 +1359,21 @@ e
 \*added
  um pastor.
 \v Jo.10.17
-Por isso me ama o Pai, porque ponho minha vida para tomá-la de volta.
+Por isso o Pai me ama, porque dou a minha vida para tomá-la de volta.
 \v Jo.10.18
-Ninguém a tira de mim, mas eu de mim mesmo a ponho; poder tenho para a pôr, e poder tenho para tomá-la de volta. Este mandamento recebi de meu Pai.
+Ninguém a tira de mim, mas eu de mim mesmo a dou; tenho poder para a dar, e tenho poder para tomá-la de volta. Este mandamento recebi de meu Pai.
 \v Jo.10.19
-Voltou pois a haver divisão entre os Judeus, por causa destas palavras.
+Voltou, pois, a haver divisão entre os judeus, por causa dessas palavras.
 \v Jo.10.20
 E muitos deles diziam: Ele tem demônio, e está fora de si; para que o ouvis?
 \v Jo.10.21
-Diziam outros: Estas palavras não são de endemoninhado; por acaso pode um demônio abrir os olhos dos cegos?
+Outros diziam: Estas palavras não são de um endemoninhado; por acaso pode um demônio dar vista aos cegos?
+\fn
+\key
+dar vista aos cegos
+\*key
+Lit. abrir os olhos dos cegos
+\*fn
 \v Jo.10.22
 E era a festa da renovação 
 \added
@@ -1796,6 +1795,7 @@ Se sabeis estas coisas, sereis bem-aventurados se as fizerdes.
 Não digo de todos; bem sei eu aos que tenho escolhido; mas para que se cumpra a Escritura, 
 \added
 que diz
+
 \*added
  : O que come comigo, levantou contra mim seu calcanhar.
 \v Jo.13.19
@@ -2051,7 +2051,7 @@ Mas quando vier o Consolador, que eu do Pai vos enviarei, aquele Espírito de ve
 \v Jo.15.27
 E também vós testemunhareis, pois estivestes comigo desde o princípio.
 \v Jo.16.1
-Estas coisas tenho vos dito para que não vos ofendeis.
+Estas coisas tenho vos dito para que não tropeceis na fé.
 \v Jo.16.2
 Expulsarão a vós das sinagogas; mas a hora vem, quando qualquer que vos matar, pensará fazer serviço a Deus.
 \v Jo.16.3
@@ -2189,6 +2189,7 @@ Santifica-os em tua verdade; tua palavra é a verdade.
 \v Jo.17.18
 Assim como tu me enviaste, eu os enviei ao mundo.
 \v Jo.17.19
+
 E por eles a mim mesmo me santifico, para que também eles seja santificados em verdade.
 \v Jo.17.20
 E não suplico somente por estes, mas também por aqueles que crerão em mim, por sua palavra.

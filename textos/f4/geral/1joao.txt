@@ -73,21 +73,23 @@ já ilumina.
 \v 1Jo.2.9
 Aquele que diz que está na luz, e odeia seu irmão, até agora está nas trevas.
 \v 1Jo.2.10
-Aquele que ama o seu irmão está na luz, e nele não há motivo algum para pecar.
-\fn
-Lit. nele não há causa alguma de tropeço
-\*fn
+Aquele que ama o seu irmão está na luz, e nele não há motivo algum de tropeço.
 \v 1Jo.2.11
 Mas aquele que odeia seu irmão está nas trevas, anda nas trevas, e não sabe para onde vai, pois as trevas lhe cegaram 
 os olhos.
 \v 1Jo.2.12
-Filhinhos, vos escrevo porque pelo nome dele os vossos pecados são perdoados.
+Eu vos escrevo, filhinhos, porque pelo nome dele os vossos pecados são perdoados.
 \v 1Jo.2.13
-Pais, vos escrevo porque conheceis aquele que é desde o princípio. Jovens, vos escrevo porque vencestes o maligno. 
-Crianças, vos {tr,rp:escrevo}{n4:escrevi} porque conheceis o Pai.
+Eu vos escrevo, pais, porque conheceis aquele que é desde o princípio. 
+Eu vos escrevo, jovens, porque vencestes o maligno. 
+Eu vos {tr,rp:escrevo}{n4:escrevi},
+{trnc:\fn
+N4: escrevi
+\*fn}
+ filhinhos, porque conheceis o Pai.
 \v 1Jo.2.14
-Pais, vos escrevi porque conheceis aquele que é desde o princípio. Jovens, vos escrevi porque sois fortes, a palavra 
-de Deus está em vós, e vencestes o maligno.
+Eu vos escrevi, pais, porque conheceis aquele que é desde o princípio. 
+Eu vos escrevi, jovens, porque sois fortes, a palavra de Deus está em vós, e vencestes o maligno.
 \v 1Jo.2.15
 Não ameis o mundo, nem as coisas que há no mundo. Se alguém ama o mundo, o amor do Pai não está nele.
 \v 1Jo.2.16
@@ -116,8 +118,8 @@ Eu vos escrevi, não porque não conheceis a verdade, mas sim, porque a conhecei
 \v 1Jo.2.22
 Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Esse é o anticristo, que nega o Pai e o Filho.
 \v 1Jo.2.23
-Quem nega o Filho também não tem o Pai{tr,n4:; aquele que confessa o filho também tem o Pai}.{trnc: 
-\fn
+Quem nega o Filho também não tem o Pai{tr,n4:; aquele que confessa o filho também tem o Pai}.
+{trnc:\fn
 RP não contém “aquele que confessa o filho também tem o Pai” 
 \*fn}
 {rp:\fn
@@ -324,8 +326,8 @@ RP, N4: Deus habita nele
 Nisto o amor é aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, pois, como ele é, assim somos nós 
 neste mundo.
 \v 1Jo.4.18
-No amor não há medo; pelo contrário, o perfeito amor expulsa o medo; pois o medo envolve castigo; e o que teme não 
-está aperfeiçoado em amor.
+No amor não há medo; pelo contrário, o perfeito amor expulsa o medo; pois o medo está relacionado ao castigo; e o 
+que teme não está aperfeiçoado em amor.
 \v 1Jo.4.19
 Nós{tr,rp: o} amamos,
 {trnc:\fn

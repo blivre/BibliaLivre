@@ -39,10 +39,12 @@ Porque muitos enganadores têm surgido no mundo que não declaram que Jesus Cris
 \v 2Jo.1.8
 Vigiai por vós mesmos, para que não percamos o que trabalhamos; mas sim que recebamos uma recompensa completa.
 \v 2Jo.1.9
-Todo aquele que {tr,rp:transgride}{n4:vai além}{trnc: 
+Todo aquele que {tr,rp:transgride}{n4:vai além}
+{trnc: 
 \fn
-\*fn
-} e não continua na doutrina de Cristo não tem a Deus; quem continua na doutrina de Cristo tem tanto ao Pai quanto ao Filho.
+N4: vai além
+\*fn}
+ e não continua na doutrina de Cristo não tem a Deus; quem continua na doutrina de Cristo tem tanto ao Pai quanto ao Filho.
 \v 2Jo.1.10
 Se alguém vem a vós, e não traz esta doutrina, não recebais em 
 \added
@@ -52,14 +54,14 @@ vossa
 \v 2Jo.1.11
 Porque quem o saúda compartilha com suas más obras.
 \v 2Jo.1.12
-Muitas coisas eu tenho que vos escrever, porém não eu quis 
+Eu tenho muitas coisas para vos escrever, porém não quis 
 \added
 fazê-lo
 \*added
- com papel e tinta; mas espero vir a vós, e 
+ com papel e tinta; mas espero vir até vós, e falar 
 \added
-vos
+convosco
 \*added
- falar face a face, para que nossa alegria seja completa.
+ face a face, para que a nossa alegria seja completa.
 \v 2Jo.1.13
 Os filhos de tua irmã, a eleita, te saúdam. Amém.

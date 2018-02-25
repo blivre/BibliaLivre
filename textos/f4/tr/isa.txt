@@ -3359,7 +3359,7 @@ Nem
 \added
 todo
 \*added
- o Líbano seria suficiente para o fogo, nem seus animais bastam para servirem de oferta de queima.
+ o Líbano seria suficiente para o fogo, nem seus animais bastam para um holocausto.
 \v Is.40.17
 Todas as nações são como nada perante ele; menos que nada e vazio ele as considera.
 \v Is.40.18
@@ -3423,7 +3423,7 @@ Até os jovens se cansam e se fatigam; e os rapazes caem;
 \v Is.40.31
 Mas os que confiam no SENHOR renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão.
 \v Is.41.1
-Calai-vos perante mim, ó terras litorâneas; e os povos renovem as forças; aproximem-se, 
+Calai-vos perante mim, ó litorais; e os povos renovem as forças; aproximem-se, 
 \added
 e
 \*added
@@ -3459,7 +3459,7 @@ isto
 \*added
 ,chamando as gerações desde o princípio? Eu, o SENHOR, do princípio aos últimos, eu mesmo.
 \v Is.41.5
-As terras litorâneas viram, e tremeram; os confins da terra tremeram; eles se aproximaram, e chegaram.
+Os litorais viram, e tremeram; os confins da terra tremeram; eles se aproximaram, e chegaram.
 \v Is.41.6
 Cada um ajudou ao outro, e a seu companheiro disse: Sê forte.
 \v Is.41.7
@@ -3571,9 +3571,10 @@ seu clamor
 \*added
 ; ele não fará ouvir sua voz nas ruas.
 \v Is.42.3
-A cana esmagada ele não quebrará, nem apagará o pavio que fumega; com a verdade ele trará justiça.
+A cana rachada ele não quebrará, nem apagará o pavio que fumega; com a verdade ele trará justiça.
 \v Is.42.4
-Ele não se apagará, nem será quebrado, até que ponha a justiça na terra; e as terras litorâneas esperarão por sua doutrina.
+Ele não fraquejará, nem será esmagado, até que ponha a justiça na terra; e os litorais esperarão 
+a sua doutrina.
 \fn
 \key
 doutrina
@@ -3796,7 +3797,7 @@ Este povo formei para mim, eles declararão louvor a mim.
 \v Is.43.22
 Porém tu não me invocaste, ó Jacó; pois te cansaste de mim, ó Israel.
 \v Is.43.23
-Não me trouxeste o gado miúdo de tuas ofertas de queima, nem me honraste 
+Não me trouxeste o gado miúdo de teus holocaustos, nem me honraste 
 \added
 com
 \*added
@@ -4547,7 +4548,8 @@ Pois o SENHOR consolará a Sião; ele consolará a todos os seus lugares deserto
 \v Is.51.4
 Prestai atenção a mim, povo meu; e minha nação, inclinai teus ouvidos a mim; porque a Lei procederá de mim, e meu porei meu juízo como luz para os povos.
 \v Is.51.5
-Perto está minha justiça, já partiu minha salvação, e meus braços julgarão aos povos; as terras litorâneas aguardarão por mim, e por meu braço esperarão.
+Perto está minha justiça, já partiu minha salvação, e meus braços julgarão aos povos; os litorais aguardarão 
+por mim, e por meu braço esperarão.
 \v Is.51.6
 Levantai vossos olhos aos céus, e olhai para a terra abaixo; porque os céus desaparecerão como fumaça, e a terra se envelhecerá como um vestido; e seus moradores semelhantemente morrerão; porém minha salvação durará para sempre, e minha justiça não será terminará.
 \v Is.51.7
@@ -4853,9 +4855,9 @@ Eu também lhes darei em minha casa, e dentro de meus muros, lugar e nome, melho
 \v Is.56.6
 E aos filhos dos estrangeiros, que se ligarem ao SENHOR, para o servirem, e para amarem o nome do SENHOR, e para serem seus servos, todos os que guardarem o sábado, não o profanando, e os que permanecerem em meu pacto,
 \v Is.56.7
-Eu os levarei ao meu santo monte, e lhes farei se alegrarem em minha casa de oração; suas ofertas de queima e seus sacrifícios serão aceitos em meu altar; porque minha casa será chamada “Casa de oração para todos os povos”.
+Eu os levarei ao meu santo monte, e lhes farei se alegrarem em minha casa de oração; seus holocaustos e seus 
+sacrifícios serão aceitos em meu altar; porque minha casa será chamada “Casa de oração para todos os povos”.
 \v Is.56.8
- 
 \added
 Assim
 \*added
@@ -5221,7 +5223,7 @@ lhes
 \added
 suas
 \*added
- obras: furor a seus adversários, pagamento a seus inimigos; às terras litorâneas ele pagará de volta.
+ obras: furor a seus adversários, pagamento a seus inimigos; aos litorais ele pagará de volta.
 \v Is.59.19
 Então temerão o nome do SENHOR desde o ocidente, e sua glória desde o oriente; pois ele vem como uma correnteza impetuosa, empurrada pelo sopro
 \fn

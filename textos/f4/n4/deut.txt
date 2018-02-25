@@ -47,26 +47,31 @@ Não tenhais acepção de pessoas no juízo: tanto ao pequeno como ao grande ouv
 \v Dt.1.18
 Eu vos mandei, pois, naquele tempo tudo o que havíeis de fazer.
 \v Dt.1.19
-E partidos de Horebe, andamos todo aquele grande e terrível deserto que vistes, pelo caminho do monte dos amorreus, como o SENHOR nosso Deus nos mandou; e chegamos até Cades-Barneia.
+Então partimos de Horebe, e andamos por todo aquele grande e temível deserto que vistes, pelo caminho montanhoso 
+dos amorreus, como o SENHOR, nosso Deus, havia nos mandado; e chegamos a Cades-Barneia.
 \v Dt.1.20
-Então vos disse: Chegastes ao monte dos amorreus, o qual o SENHOR nosso Deus nos dá.
+Então eu vos disse: ‘Chegastes à região montanhosa dos amorreus, a qual o SENHOR, nosso Deus, nos dá.
 \v Dt.1.21
-Olha, o SENHOR teu Deus deu diante de ti a terra: sobe e possui-a, como o SENHOR o Deus de teus pais te disse; não temas nem desmaies.
+Eis que o SENHOR, teu Deus, deu diante de ti esta terra; sobe e tomai posse dela, como o SENHOR, o Deus dos teus pais, 
+te disse; não temas nem te apavores.’
 \v Dt.1.22
-E aproximastes a mim todos vós, e dissestes: Enviemos homens diante de nós, que nos reconheçam a terra e nos tragam de volta relato do caminho por onde temos de subir, e das cidades aonde temos de chegar.
+Então todos vós vos aproximastes de mim, e dissestes: ‘Enviemos homens adiante de nós, que nos reconheçam a terra, 
+e nos tragam de volta relato de qual caminho por onde devemos subir, e das cidades aonde devemos ir.’
 \v Dt.1.23
-E o dito me apareceu bem: e tomei doze homens de vós, um homem por tribo:
+E isso me pareceu bem. Então tomei doze homens de vós, um homem de cada tribo.
 \v Dt.1.24
-E se encaminharam, e subiram ao monte, e chegaram até o vale de Escol, e reconheceram a terra.
+Eles se foram, subiram às montanhas, chegaram ao vale de Escol, e o reconheceram.
 \v Dt.1.25
-E tomaram em suas mãos do fruto daquela terra, e o trouxeram a nós, e nos contaram, e disseram: É boa a terra que o 
-SENHOR nosso Deus nos dá.
+E tomaram em suas mãos do fruto daquela terra, e o trouxeram a nós, e nos contaram, e disseram: ‘A terra que o 
+SENHOR, nosso Deus, nos dá, é boa.’
 \v Dt.1.26
-Porém não quisestes subir, antes fostes rebeldes ao dito do SENHOR vosso Deus;
+Porém não quisestes subir, mas fostes rebeldes à ordem do SENHOR, vosso Deus;
 \v Dt.1.27
-E murmurastes em vossas tendas, dizendo: Porque o SENHOR nos aborrecia, nos tirou da terra do Egito, para entregar-nos em mão dos amorreus para nos destruir.
+E murmurastes em vossas tendas, dizendo: ‘É porque o SENHOR nos odeia que ele nos tirou da terra do Egito, para 
+nos entregar nas mãos dos amorreus, para nos destruir.
 \v Dt.1.28
-Para onde subimos? Nossos irmãos fizeram desfalecer nosso coração, dizendo: Este povo é maior e mais alto que nós, as cidades grandes e muradas até o céu; e também vimos ali filhos de gigantes.
+Para onde subiremos? Nossos irmãos fizeram derreter o nosso coração, dizendo: Este povo é maior e mais alto que nós, 
+as cidades são grandes e muradas até o céu; e também vimos ali filhos de gigantes.’
 \v Dt.1.29
 Então vos disse: Não temais, nem tenhais medo deles.
 \v Dt.1.30
@@ -665,13 +670,15 @@ E para que vos sejam prolongados os dias sobre a terra, que jurou o SENHOR a vos
 \v Dt.11.10
 Que a terra à qual entras para possuí-la, não é como a terra do Egito de onde saístes, onde semeavas tua semente, e regavas com teu pé, como jardim de hortaliça.
 \v Dt.11.11
-A terra à qual passais para possuí-la, é terra de montes e de planícies; da chuva do céu há de beber as águas;
+A terra à qual passais para possuí-la é terra de montes e de planícies; da chuva do céu ela bebe as águas;
 \v Dt.11.12
-Terra da qual o SENHOR teu Deus cuida: sempre estão sobre ela os olhos do SENHOR teu Deus, desde o princípio do ano até o fim dele.
+terra da qual o SENHOR, teu Deus, cuida; os olhos do SENHOR, teu Deus, sempre estão sobre ela, do princípio do ano até 
+o fim do ano.
 \v Dt.11.13
-E será que, se obedecerdes cuidadosamente meus mandamentos que eu vos prescrevo hoje, amando ao SENHOR vosso Deus, e servindo-o com todo o vosso coração, e com toda vossa alma,
+E será que, se obedecerdes cuidadosamente meus mandamentos que eu vos prescrevo hoje, amando ao SENHOR vosso Deus, 
+e servindo-o com todo o vosso coração, e com toda vossa alma,
 \v Dt.11.14
-Eu darei a chuva de vossa terra em seu tempo, a inicial e a tardia; e colherás teu grão, e teu vinho, e teu azeite.
+eu darei a chuva da vossa terra em seu tempo, a inicial e a tardia; e colherás teu grão, teu vinho, e teu azeite.
 \v Dt.11.15
 Darei também erva em teu campo para teus animais; e comerás, e te fartarás.
 \v Dt.11.16
@@ -945,7 +952,7 @@ Sete dias celebrarás solenidade ao SENHOR teu Deus no lugar que o SENHOR escolh
 \v Dt.16.16
 Três vezes cada ano comparecerá todo homem teu diante do SENHOR teu Deus no lugar que ele escolher: na solenidade dos pães ázimos, e na solenidade das semanas, e na solenidade das cabanas. E não comparecerá vazio diante do SENHOR:
 \v Dt.16.17
-Cada um com o presente de sua mão, conforme a bênção do SENHOR teu Deus, que te houver dado.
+Cada um com a doação de sua mão, conforme a bênção do SENHOR teu Deus, que te houver dado.
 \v Dt.16.18
 Juízes e oficiais te porás em todas tuas cidades que o SENHOR teu Deus te dará em tuas tribos, os quais julgarão ao povo com justo juízo.
 \v Dt.16.19
@@ -1448,7 +1455,7 @@ Maldito o que se deitar com sua sogra. E dirá todo o povo: Amém.
 \v Dt.27.24
 Maldito o que ferir a seu próximo ocultamente. E dirá todo o povo: Amém.
 \v Dt.27.25
-Maldito o que receber presente para ferir de morte ao inocente. E dirá todo o povo: Amém.
+Maldito o que receber um presente para ferir de morte ao inocente. E dirá todo o povo: Amém.
 \v Dt.27.26
 Maldito o que não confirmar as palavras desta lei para as cumprir. E dirá todo o povo: Amém.
 \v Dt.28.1
@@ -1617,7 +1624,8 @@ Para te confirmar hoje por seu povo, e que ele seja a ti por Deus, da maneira qu
 \v Dt.29.14
 E não somente convosco estabeleço eu este pacto e este juramento,
 \v Dt.29.15
-Mas sim com os que estão aqui presentes hoje conosco diante do SENHOR nosso Deus, e com os que não estão aqui hoje conosco.
+Mas, sim, com os que estão aqui presentes hoje conosco diante do SENHOR nosso Deus, e com os que não estão aqui hoje 
+conosco.
 \v Dt.29.16
 Porque vós sabeis como habitamos na terra do Egito, e como passamos por meio das nações que passastes;
 \v Dt.29.17
@@ -1760,12 +1768,12 @@ Ele é
 ele é.
 \v Dt.32.5
 Corromperam-se contra ele; não são seus filhos, a falha é deles.
-/fn
-/key
+\fn
+\key
 Corromperam-se ... é deles
-/*key
+\*key
 obscuro
-/*fn
+\*fn
  São uma geração perversa e distorcida.
 \v Dt.32.6
 É assim que pagais ao SENHOR, ó povo tolo e insensato? Não é ele teu pai que te adquiriu, te fez, e te estabeleceu?
@@ -1893,7 +1901,7 @@ E a Levi disse: Teu Tumim e teu Urim, com teu bom homem ao qual tentaste em Mass
 O que disse a seu pai e a sua mãe: Nunca os vi: nem conheceu a seus irmãos, nem conheceu a seus filhos; por isso eles 
 guardarão as tuas palavras, e observarão o teu pacto.
 \v Dt.33.10
-Eles ensinarão teus juízos a Jacó, e tua lei a Israel; porão o incenso diante de ti, e a oferta de queima sobre o teu altar.
+Eles ensinarão teus juízos a Jacó, e tua lei a Israel; porão o incenso diante de ti, e holocaustos sobre o teu altar.
 \v Dt.33.11
 Abençoa, ó SENHOR, o que fizerem, e recebe com agrado a obra de suas mãos; fere os lombos de seus inimigos, e dos que lhe odiarem; para que nunca se levantem.
 \v Dt.33.12

@@ -607,7 +607,7 @@ Filho de Mali, filho de Musi, filho de Merari, filho de Levi.
 \v 1Cr.6.48
 E seus irmãos, os Levitas, foram postos para todo o serviço do tabernáculo da casa de Deus.
 \v 1Cr.6.49
-E Arão e seus filhos ofereciam incenso sobre o altar da oferta de queima, e sobre o altar do incenso, para toda a obra do lugar santíssimo, e para fazer expiação sobre Israel, conforme tudo quanto Moisés, servo de Deus, havia mandado.
+E Arão e seus filhos ofereciam incenso sobre o altar do holocausto e sobre o altar do incenso, para toda a obra do lugar santíssimo, e para fazer expiação sobre Israel, conforme tudo quanto Moisés, servo de Deus, havia mandado.
 \v 1Cr.6.50
 E estes foram os filhos de Arão: seu filho Eleazar, seu filho Fineias, seu filho Abisua,
 \v 1Cr.6.51
@@ -1401,9 +1401,10 @@ Assim todo Israel fez subir a arca do pacto do SENHOR, com júbilo, som de corne
 \v 1Cr.15.29
 E foi que, quando a arca do pacto do SENHOR chegou à cidade de Davi, Mical, filha de Saul, olhou por uma janela, e viu o rei Davi dançando e saltando; e ela o desprezou em seu coração.
 \v 1Cr.16.1
-Trouxeram, pois, a arca de Deus, e a puseram no meio da tenda que Davi tinha lhe armado; e apresentaram ofertas de queima e sacrifícios de gratidão diante de Deus.
+Trouxeram, pois, a arca de Deus, e a puseram no meio da tenda que Davi havia lhe armado; e apresentaram 
+holocaustos e sacrifícios de gratidão diante de Deus.
 \v 1Cr.16.2
-E Davi, quando terminou de apresentar as ofertas de queima e os sacrifícios de gratidão, abençoou ao povo em nome do SENHOR.
+E Davi, quando terminou de apresentar os holocaustos e os sacrifícios de gratidão, abençoou ao povo em nome do SENHOR.
 \v 1Cr.16.3
 E repartiu a todos em Israel, tanto homens como mulheres, a cada um um bolo de pão, uma boa porção de carne, e um bolo de passas.
 \v 1Cr.16.4
@@ -1569,7 +1570,7 @@ E agora quiseste abençoar a casa de teu servo, para que permaneça perpetuament
 \v 1Cr.18.1
 Depois destas coisas aconteceu que Davi feriu aos filisteus, e os humilhou; e tomou Gate e suas vilas das mãos dos filisteus.
 \v 1Cr.18.2
-Também feriu a Moabe; e os moabitas foram servos de Davi, trazendo-lhe presentes.
+Também feriu a Moabe; e os moabitas foram servos de Davi, trazendo-lhe tributos.
 \v 1Cr.18.3
 Assim feriu Davi a Hadadezer, rei de Zobá, em Hamate, quando ele foi assegurar seu domínio até o rio Eufrates.
 \v 1Cr.18.4
@@ -1577,7 +1578,8 @@ E tomou-lhes Davi mil carros, e sete mil a cavalo, e vinte mil homens a pé; e D
 \v 1Cr.18.5
 E vindo os sírios de Damasco em ajuda de Hadadezer, rei de Zobá, Davi feriu dos sírios vinte e dois mil homens.
 \v 1Cr.18.6
-E pôs Davi guarnição na Síria de Damasco, e os sírios foram feitos servos de Davi, trazendo-lhe presentes; porque o SENHOR salvava a Davi por onde quer que fosse.
+E Davi pôs guarnições na Síria de Damasco, e os sírios foram feitos servos de Davi, trazendo-lhe tributos; porque 
+o SENHOR dava vitória a Davi por onde quer que fosse.
 \v 1Cr.18.7
 Tomou também Davi os escudos de ouro que levavam os servos de Hadadezer, e trouxe-os a Jerusalém.
 \v 1Cr.18.8
@@ -1699,7 +1701,8 @@ E vindo Davi a Ornã, olhou este, e viu a Davi: e saindo da eira, prostrou-se em
 \v 1Cr.21.22
 Então disse Davi a Ornã: Dá-me este lugar da eira, em que edifique um altar a o SENHOR, e dá-o a mim por seu devido preço, para que cesse a praga do povo.
 \v 1Cr.21.23
-E Ornã respondeu a Davi: Toma-o para ti, e faça meu senhor o rei o que bem lhe parecer: e ainda os bois darei para o holocausto, e os trilhos para lenha, e trigo para o presente: eu o dou tudo.
+E Ornã respondeu a Davi: Toma-o para ti, e faça meu senhor o rei o que bem lhe parecer; e ainda os bois darei para o 
+holocausto, e os trilhos para lenha, e trigo para a oferta de alimentos; eu dou tudo.
 \v 1Cr.21.24
 Então o rei Davi disse a Ornã: Não, mas sim que efetivamente a comprarei por seu justo preço: porque não tomarei para o SENHOR o que é teu, nem sacrificarei holocausto que nada me custe.
 \v 1Cr.21.25
@@ -2159,7 +2162,7 @@ estatutos, e para que faça todas as coisas, e te edifique a casa para a qual eu
 Depois disse Davi a toda à congregação: Bendizei agora ao SENHOR vosso Deus. Então toda a congregação bendisse ao 
 SENHOR Deus de seus pais, e inclinando-se, adoraram diante do SENHOR, e do rei.
 \v 1Cr.29.21
-E sacrificaram animais ao SENHOR, e ofereceram ao SENHOR ofertas de queima no dia seguinte, mil bezerros, mil 
+E sacrificaram animais ao SENHOR, e ofereceram ao SENHOR holocaustos no dia seguinte, mil bezerros, mil 
 carneiros, mil cordeiros com as suas libações, e muitos sacrifícios por todo Israel.
 \v 1Cr.29.22
 E comeram e beberam diante do SENHOR aquele dia com grande alegria; e deram a segunda vez a investidura do reino a Salomão filho de Davi, e ungiram-no ao SENHOR por príncipe, e a Zadoque por sacerdote.

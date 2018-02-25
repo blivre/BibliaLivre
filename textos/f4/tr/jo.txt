@@ -19,7 +19,8 @@ E seu patrimônio era sete mil ovelhas, três mil camelos, quinhentas juntas de 
 \v Jo.1.4
 E seus filhos iam nas casas uns dos outros para fazerem banquetes, cada um em seu dia; e mandavam convidar as suas três irmãs, para que comessem e bebessem com eles.
 \v Jo.1.5
-E acontecia que, acabando-se o revezamento dos dias de banquetes, Jó enviava e os santificava, e se levantava de madrugada para apresentar ofertas de queima 
+E acontecia que, acabando-se o revezamento dos dias de banquetes, Jó enviava e os santificava, e se levantava de 
+madrugada para apresentar holocaustos
 \added
 conforme
 \*added
@@ -811,7 +812,11 @@ como vós; e não sou inferior a vós; e quem há que não saiba coisas como ess
 \v Jo.12.4
 Eu sou o motivo de riso de meus amigos, eu que invocava a Deus, e ele me respondia; o justo e íntegro serve de riso.
 \v Jo.12.5
-A desgraça é menosprezada na opinião de quem está tranquilo, que está pronto para os que tropeçam com os pés.
+Na opinião de quem está descansado, a desgraça é desprezada, 
+\added
+como se
+\*added
+ estivesse preparada aos que cujos pés escorregam.
 \v Jo.12.6
 As tendas dos ladrões têm descanso, e os que irritam a Deus estão seguros; os que trazem 
 \added
@@ -3725,7 +3730,7 @@ me
 E sucedeu que, depois que o SENHOR acabou de falar essas palavras a Jó, o SENHOR disse a Elifaz, o temanita: Minha ira 
 se acendeu contra ti e contra os teus dois amigos; porque não falastes de mim o que era correto, como o meu servo Jó.
 \v Jo.42.8
-Por isso tomai sete bezerros e sete carneiros, ide ao meu servo Jó, e fazei ofertas de queima em vosso favor, então 
+Por isso tomai sete bezerros e sete carneiros, ide ao meu servo Jó, e oferecei holocaustos em vosso favor, então 
 meu servo Jó orará por vós; pois certamente atenderei a ele para eu não vos tratar conforme a vossa insensatez; pois 
 não falastes de mim o que era correto, como o meu servo Jó.
 \v Jo.42.9

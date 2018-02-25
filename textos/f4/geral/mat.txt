@@ -102,7 +102,7 @@ no oriente
 \*key
 trad.alt. quando ela surgiu – também no v. 9
 \*fn
- e viemos para adorá-lo.
+ e viemos adorá-lo.
 \v Mt.2.3
 E o rei Herodes, ao ouvir 
 \added
@@ -405,7 +405,8 @@ Assim brilhe vossa luz diante das pessoas, para que vejam vossas boas obras, e g
 \v Mt.5.17
 Não penseis que vim para revogar a Lei ou os Profetas; não vim para revogar, mas sim para cumprir.
 \v Mt.5.18
-Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota nem um til passará da Lei até que tudo aconteça.
+Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota nem um til passará da Lei até que 
+tudo se cumpra.
 \fn
 jota é uma adaptação da letra grega “iota”
 \*fn
@@ -472,26 +473,32 @@ moeda
 Ou: quadrante, uma moeda de pequeno valor
 \*fn
 \v Mt.5.27
-Ouvistes o que foi dito{tr: aos antigos}:{trnc:
-\fn
+Ouvistes o que foi dito{tr: aos antigos}:
+{trnc:\fn
 RP, N4 omite "aos antigos"
-\*fn
- } “Não adulterarás”. 
+\*fn}
+ “Não adulterarás”. 
 \ref
 Êxodo 20:14; Deuteronômio 5:18 
 \*ref
 \v Mt.5.28
 Porém eu vos digo que qualquer um que olhar para uma mulher para a cobiçar, em seu coração já adulterou com ela.
 \v Mt.5.29
-Se o teu olho direito te faz pecar, arranca-o e lança-o de ti; porque é melhor para ti que um dos teus membros se perca do que o teu corpo todo seja lançado no inferno.
-\v Mt.5.30
-E se a tua mão direita te faz pecar, corta-a e lança-a de ti; porque é melhor para ti que um dos teus membros se perca do que o teu corpo todo {tr,rp:seja lançado no}{n4:vá ao}{trnc:
+Se o teu olho direito te faz pecar,
 \fn
-TR, RP: seja lançado no - N4: vá ao
+Lit. tropeçar (e cair). Também no v. 30
 \*fn
- } inferno.
+ arranca-o e lança-o de ti; porque é melhor para ti que um dos teus membros se perca do que o teu corpo todo seja 
+lançado no inferno.
+\v Mt.5.30
+E se a tua mão direita te faz pecar, corta-a e lança-a de ti; porque é melhor para ti que um dos teus 
+membros se perca do que o teu corpo todo {tr,rp:seja lançado no}{n4:vá ao}
+{trnc:\fn
+TR, RP: seja lançado no - N4: vá ao
+\*fn}
+ inferno.
 \v Mt.5.31
-Também foi dito: “Qualquer um que se divorciar sua mulher, dê a ela carta de separação”. 
+Também foi dito: “Qualquer um que se divorciar de sua mulher, dê a ela carta de divórcio. 
 \ref
 Deuteronômio 24:1 
 \*ref
@@ -516,11 +523,11 @@ Ouvistes o que foi dito: “Olho por olho, e dente por dente”.
 Êxodo 21:24; Levítico 24:20; Deuteronômio 19:21 
 \*ref
 \v Mt.5.39
-Mas eu vos digo que não resistais a quem for mau; em vez disso, a qualquer um que te bater à {tr,n4:tua
+Mas eu vos digo que não resistais a quem for mau; em vez disso, a qualquer um que te bater à{tr,n4: tua
 {trnc:\fn
 RP omite "tua"
-\*fn}
- }face direita, mostra-lhe também a outra.
+\*fn}}
+ face direita, apresenta-lhe também a outra.
 \v Mt.5.40
 E ao que quiser disputar contigo, e te tomar tua túnica, deixa-lhe também a capa.
 \v Mt.5.41
@@ -551,35 +558,36 @@ TR, RP: bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos
 \v Mt.5.45
 Para que sejais filhos de vosso Pai que está nos céus; porque ele faz seu sol sair sobre maus e bons, e chover sobre justos e injustos.
 \v Mt.5.46
-Pois se amardes os que vos amam, que recompensa tereis? Não fazem os cobradores de impostos também o mesmo?
+Pois se amardes os que vos amam, que recompensa tereis? Não fazem os publicanos também o mesmo?
 \v Mt.5.47
 E se saudardes somente os vossos {tr,n4:irmãos}{rp:amigos},
 {trnc:\fn
 TR, N4: irmãos - RP: amigos
 \*fn}
- o que fazeis de mais? Não fazem os {tr,rp:cobradores de impostos}{n4:gentios
+ o que fazeis de mais? Não fazem os {tr,rp:publicanos}{n4:gentios
 \fn
 \key
 gentios
 \*key
-TR, RP: cobradores de impostos
+TR, RP: publicanos
 \*fn}
 {trnc:\fn
-TR, RP: cobradores de impostos - N4: gentios
+TR, RP: publicanos - N4: gentios
 \*fn}
  também assim?
 \v Mt.5.48
-Portanto, sede vós perfeitos, assim como vosso Pai {tr,rp:que está nos céus}{n4:celestial}{trnc:
-\fn
+Portanto, sede vós perfeitos, assim como vosso Pai {tr,rp:que está nos céus}{n4:celestial}
+{trnc:\fn
 TR, RP: que está nos céus - N4:celestial
-\*fn
- } é perfeito.
+\*fn}
+ é perfeito.
 \v Mt.6.1
-Ficai atentos para que não façais vossa {tr,rp:esmola}{n4:boa ação
-\fn
+Ficai atentos para que não façais vossa {tr,rp:esmola}{n4:boa ação}
+{trnc:\fn
 TR, RP: esmola - N4: boa ação (lit. "justiça")
-\*fn
- } diante das pessoas a fim de que sejais vistos por elas; de outra maneira não tereis recompensa de vosso Pai que está nos céus.
+\*fn}
+ diante das pessoas a fim de que sejais vistos por elas; de outra maneira não tereis recompensa de vosso Pai que 
+está nos céus.
 \v Mt.6.2
 Portanto, quando fizeres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem honrados pelas pessoas; em verdade vos digo que já receberam sua recompensa.
 \v Mt.6.3
@@ -590,7 +598,11 @@ Para que a tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te rec
 N4 omite "em público"
 \*fn}
 \v Mt.6.5
-E quando orares, não sejas como os hipócritas; porque eles amam orar em pé nas sinagogas e nas esquinas das ruas para serem vistos pelas pessoas. Em verdade vos digo que já receberam sua recompensa.
+E quando {tr,rp:orares, não sejas}{n4:orardes, não sejais}
+{trnc:\fn
+N4: quando orardes, não sejais
+\*fn}
+ como os hipócritas; porque eles amam orar em pé nas sinagogas e nas esquinas das ruas para serem vistos pelas pessoas. Em verdade vos digo que já receberam sua recompensa.
 \v Mt.6.6
 Porém tu, quando orares, entra em teu quarto, fecha tua porta, e ora a teu Pai, que está em segredo; e teu Pai, que vê em segredo, ele te recompensará{tr,rp: em público}.{trnc:
 \fn
@@ -729,25 +741,25 @@ E quem há dentre vós que, se seu filho pedir pão, lhe dará uma pedra?
 \v Mt.7.10
 E se pedir peixe, lhe dará uma serpente?
 \v Mt.7.11
-Ora, se vós, ainda que sejais maus, sabeis dar bons presentes a vossos filhos, quanto mais o vosso Pai, que está nos céus, dará coisas boas aos que lhe pedirem!
+Ora, se vós, sendo maus, sabeis dar bons presentes a vossos filhos, quanto mais o vosso Pai, que está nos céus, dará coisas boas aos que lhe pedirem!
 \v Mt.7.12
 Portanto tudo o que quiserdes que os outros vos façam, fazei-lhes vós também assim; porque esta é a Lei e os Profetas.
 \v Mt.7.13
 Entrai pela porta estreita; porque larga é a porta, e espaçoso o caminho que leva à perdição; e muitos são os que por ela entram.
 \v Mt.7.14
-{tr,n4:Porque estreita é}{rp:Como é estreita}{trnc:
-\fn
+{tr,n4:Porque estreita é}{rp:Como é estreita}
+{trnc:\fn
 TR, N4: Porque - RP: Como é estreita
-\*fn
- } a porta, e apertado o caminho que leva à vida; e são poucos os que a acham.
+\*fn}
+ a porta, e apertado o caminho que leva à vida; e são poucos os que a acham.
 \v Mt.7.15
-Tende cuidado, {tr,rp:porém,{trnc:
-\fn
+Tende cuidado, {tr,rp:porém,
+{trnc:\fn
 N4 omite "porém"
-\*fn
- } }com os falsos profetas, que vêm a vós com roupa de ovelhas, mas por dentro são lobos vorazes.
+\*fn}
+ }com os falsos profetas, que vêm a vós com roupa de ovelhas, mas por dentro são lobos vorazes.
 \v Mt.7.16
-Vós os conhecereis pelos seus frutos. Por acaso se colhem uvas dos espinheiros, ou figos dos abrolhos?
+Vós os conhecereis pelos seus frutos. Por acaso se colhem uvas dos espinheiros, ou figos dos cardos?
 \v Mt.7.17
 Assim toda boa árvore dá bons frutos, mas a arvore má dá frutos maus.
 \v Mt.7.18
@@ -768,13 +780,12 @@ transgressores
 \*key
 lit. praticantes de transgressão (ou maldade
 \*fn
- )
 \v Mt.7.24
-Portanto todo o que ouve estas minhas palavras e as pratica{tr,rp:, eu o compararei}{n4:será comparado}{trnc:
-\fn
+Portanto todo o que ouve estas minhas palavras e as pratica{tr,rp:, eu o compararei}{n4: será comparado}
+{trnc:\fn
 TR, RP: eu o compararei - N4: será comparado
-\*fn
- } ao homem prudente, que construiu sua casa sobre a rocha.
+\*fn}
+ ao homem prudente, que construiu sua casa sobre a rocha.
 \v Mt.7.25
 E a chuva desceu, correntezas vieram, ventos sopraram, e atingiram aquela casa; e ela não caiu, porque estava fundada sobre a rocha.
 \v Mt.7.26
@@ -784,49 +795,44 @@ E a chuva desceu, correntezas vieram, ventos sopraram, e atingiram aquela casa; 
 \v Mt.7.28
 E aconteceu que, quando Jesus terminou estas palavras, as multidões estavam admiradas de sua doutrina,
 \v Mt.7.29
-porque ele os ensinava como tendo autoridade, e não como os {n4:seus} escribas.{trnc:
-\fn
+porque ele os ensinava como tendo autoridade, e não como os {n4:seus} escribas.
+{trnc:\fn
 N4 contém "seus escribas"
-\*fn
- }
+\*fn}
 \v Mt.8.1
 Quando ele desceu do monte, muitas multidões o seguiram.
 \v Mt.8.2
 E eis que um leproso veio e prostrou-se diante dele, dizendo: Senhor, se quiseres, podes me limpar.
 \v Mt.8.3
-{n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } estendeu a mão e o tocou, dizendo: Quero, sê limpo. E logo ele ficou limpo de sua lepra.
+\*fn}
+ estendeu a mão e o tocou, dizendo: Quero, sê limpo. E logo ele ficou limpo de sua lepra.
 \v Mt.8.4
 Então Jesus lhe disse: Tem o cuidado de dizeres a ninguém; mas vai mostrar-te ao sacerdote, e oferece a oferta que Moisés ordenou, para que lhes haja testemunho.
 \v Mt.8.5
-Quando {rp,n4: 
-\added
-}Jesus{rp,n4:
-\*added
- }{trnc:
-\fn
+Quando 
+{rp,n4:\added}
+Jesus
+{rp,n4:\*added}
+{trnc:\fn
 RP, N4 omitem "Jesus"
-\*fn
- } entrou em Cafarnaum, veio a ele um centurião, rogando-lhe,
+\*fn}
+ entrou em Cafarnaum, veio a ele um centurião, rogando-lhe,
 \v Mt.8.6
 E dizendo: Senhor, o meu servo jaz em casa, paralítico, e gravemente atormentado.
 \v Mt.8.7
-E {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+E 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } lhe disse: Eu irei, e o curarei.
+\*fn}
+ lhe disse: Eu irei, e o curarei.
 \v Mt.8.8
 E o centurião respondeu: Senhor, não sou digno de que entres sob meu telhado; mas dize somente uma palavra, e o meu servo sarará.
 \v Mt.8.9
@@ -836,29 +842,28 @@ Quando Jesus ouviu
 \added
 isto
 \*added
-,maravilhou-se, e disse aos que o seguiam: Em verdade vos digo que {tr,rp:nem mesmo em Israel encontrei tanta fé}{n4:ninguém em Israel achei com tanta fé}.{trnc:
-\fn
+, maravilhou-se, e disse aos que o seguiam: Em verdade vos digo que {tr,rp:nem mesmo em Israel encontrei tanta fé}
+{n4:ninguém em Israel achei com tanta fé}.
+{trnc:\fn
 TR, RP: nem mesmo em Israel encontrei tanta fé - N4: ninguém em Israel achei com tanta fé
-\*fn
- }
+\*fn}
 \v Mt.8.11
 Mas eu vos digo que muitos virão do oriente e do ocidente, e se sentarão à mesa com Abraão, Isaque, e Jacó, no Reino dos céus.
 \v Mt.8.12
 Os filhos do reino, porém, serão lançados nas trevas de fora; ali haverá pranto e ranger de dentes.
 \v Mt.8.13
-Então Jesus disse ao centurião: Vai, e assim como creste, a ti seja feito.E naquela mesma hora o servo{tr,rp: dele}{trnc:
-\fn
+Então Jesus disse ao centurião: Vai, e assim como creste, a ti seja feito.E naquela mesma hora o servo{tr,rp: dele}
+{trnc:\fn
 N4 omite "dele"
-\*fn
- } foi sarado.
+\*fn}
+ foi sarado.
 \v Mt.8.14
 E quando Jesus veio à casa de Pedro, viu a sogra dele, deitada e com febre.
 \v Mt.8.15
-Ele tocou a mão dela, e a febre a deixou. Então ela se levantou e começou a servi-lo{tr:s}.{trnc:
-\fn
+Ele tocou a mão dela, e a febre a deixou. Então ela se levantou e começou a servi-lo{tr:s}.
+{trnc:\fn
 RP, N4 contêm "servi-lo"
-\*fn
- }
+\*fn}
 \v Mt.8.16
 Quando chegou o anoitecer, trouxeram-lhe muitos endemoninhados. Ele expulsou-lhes os espíritos com a palavra, e curou todos os que estavam doentes,
 \v Mt.8.17
@@ -867,21 +872,22 @@ Para que se cumprisse o que havia sido dito pelo profeta Isaías, que disse: Ele
 Isaías 53:4 
 \*ref
 \v Mt.8.18
-E Jesus, ao ver {tr,rp:muitas multidões}{n4:uma multidão}{trnc:
-\fn
+E Jesus, ao ver {tr,rp:muitas multidões}{n4:uma multidão}
+{trnc:\fn
 TR, RP: muitas multidões - N4: uma multidão
-\*fn
- } ao redor de si, mandou que passassem para a outra margem.
+\*fn}
+ ao redor de si, mandou que passassem para a outra margem.
 \v Mt.8.19
 Então um escriba se aproximou, e disse-lhe: Mestre, eu te seguirei aonde quer que fores.
 \v Mt.8.20
 Jesus lhe respondeu: As raposas têm covis, e as aves do céu ninhos; mas o Filho do homem não tem onde recostar a cabeça.
 \v Mt.8.21
-E outro dos {tr,rp:seus}{trnc:
+E outro dos{tr,rp: seus}
+{trnc:
 \fn
 N4 omite "seus"
-\*fn
- } discípulos lhe disse: Senhor, permite-me ir primeiro enterrar meu pai.
+\*fn}
+ discípulos lhe disse: Senhor, permite-me ir primeiro enterrar meu pai.
 \v Mt.8.22
 Porém Jesus lhe disse: Segue-me, e deixa aos mortos enterrarem seus mortos.
 \v Mt.8.23
@@ -889,11 +895,11 @@ Então ele entrou no barco, e seus discípulos o seguiram.
 \v Mt.8.24
 E eis que se levantou no mar uma tormenta tão grande que o barco era coberto pelas ondas; porém ele dormia.
 \v Mt.8.25
-E{tr: seus discípulos}{rp: os discípulos}{trnc:
-\fn
+E{tr: seus discípulos}{rp: os discípulos}
+{trnc:\fn
 TR: "seus discípulos" - RP: "os discípulos" - N4 omite
-\*fn
- } se aproximaram para acordá-lo, dizendo: Senhor, salva-nos! Estamos sendo destruídos!
+\*fn}
+ se aproximaram para acordá-lo, dizendo: Senhor, salva-nos! Estamos sendo destruídos!
 \v Mt.8.26
 E ele lhes respondeu: Por que temeis, 
 \added
@@ -903,35 +909,36 @@ homens
 \v Mt.8.27
 E aqueles homens se maravilharam, dizendo: Quem é este, que até os ventos e o mar lhe obedecem?
 \v Mt.8.28
-E quando chegou à outra margem, à terra dos {tr,rp:gergesenos}{n4:gadarenos},{trnc:
-\fn
+E quando chegou à outra margem, à terra dos {tr,rp:gergesenos}{n4:gadarenos},
+{trnc:\fn
 TR, RP: gergesenos - N4: gadarenos
-\*fn
- } vieram-lhe ao encontro dois endemoninhados que tinham saído dos sepulcros. Eles eram tão ferozes que ninguém podia passar por aquele caminho.
+\*fn}
+ vieram-lhe ao encontro dois endemoninhados que tinham saído dos sepulcros. Eles eram tão ferozes que ninguém 
+podia passar por aquele caminho.
 \v Mt.8.29
-E eis que gritaram, dizendo: Que temos contigo, {tr,rp:Jesus,{trnc:
-\fn
+E eis que gritaram, dizendo: Que temos contigo, {tr,rp:Jesus,
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } }Filho de Deus? Vieste aqui nos atormentar antes do tempo?
+\*fn}
+ }Filho de Deus? Vieste aqui nos atormentar antes do tempo?
 \v Mt.8.30
 Enquanto isso longe deles estava uma manada de muitos porcos pastando.
 \v Mt.8.31
-E os demônios rogaram-lhe, dizendo: Se nos expulsares, {tr,rp:permite-nos}{n4:manda-nos}{trnc:
-\fn
+E os demônios rogaram-lhe, dizendo: Se nos expulsares, {tr,rp:permite-nos}{n4:manda-nos}
+{trnc:\fn
 TR, RP: permite-nos - N4: manda-nos
-\*fn
- } entrar naquela manada de porcos.
+\*fn}
+ entrar naquela manada de porcos.
 \v Mt.8.32
-E ele lhes disse: Ide. Então eles saíram, e entraram {tr,rp:na manada de}{n4:nos} porcos;{trnc:
-\fn
+E ele lhes disse: Ide. Então eles saíram, e entraram {tr,rp:na manada de}{n4:nos} porcos;
+{trnc:\fn
 TR, RP: na manada de porcos - N4: nos porcos
-\*fn
- } e eis que toda aquela manada {tr,rp:de porcos}{trnc:
-\fn
+\*fn}
+ e eis que toda aquela manada {tr,rp:de porcos}
+{trnc:\fn
 N4 omite "de porcos"
-\*fn
- } se lançou de um precipício ao mar, e morreram nas águas.
+\*fn}
+ se lançou de um precipício ao mar, e morreram nas águas.
 \v Mt.8.33
 E os que cuidavam dos porcos fugiram; e ao chegarem à cidade, anunciaram todas 
 \added
@@ -951,15 +958,11 @@ E eis que lhe trouxeram um paralítico, deitado em um leito. Quando Jesus viu a 
 \v Mt.9.3
 E eis que alguns dos escribas disseram entre si: Ele blasfema.
 \v Mt.9.4
-Mas Jesus, vendo seus pensamentos, disse: Por que pensais o mal em vossos corações?
+Mas Jesus, conhecendo seus pensamentos, disse: “Por que pensais o mal em vossos corações?
 \v Mt.9.5
-Pois o que é mais fácil? Dizer: “Teus pecados {tr,rp:são}{n4:foram}{trnc:
-\fn
-TR, RP: são - N4: foram
-\*fn
- } perdoados”, ou dizer: “Levanta-te, e anda”?
+Pois o que é mais fácil? Dizer: ‘Teus pecados estão perdoados’, ou dizer: ‘Levanta-te, e anda’?
 \v Mt.9.6
-Ora, para que saibais que o Filho do homem tem autoridade na terra para perdoar pecados,(Ele, então, disse ao paralítico): Levanta-te, toma o teu leito, e vai para tua casa.
+Ora, para que saibais que o Filho do homem tem autoridade na terra para perdoar pecados”, (Ele, então, disse ao paralítico): Levanta-te, toma o teu leito, e vai para tua casa.
 \v Mt.9.7
 E este se levantou e foi para sua casa.
 \v Mt.9.8
@@ -967,13 +970,14 @@ Quando as multidões viram
 \added
 isto
 \*added
-,{tr,rp:ficaram maravilhadas}{n4:temeram},{trnc:
-\fn
+,{tr,rp: ficaram maravilhadas}{n4: temeram},
+{trnc:\fn
 TR, RP: ficaram maravilhadas - N4: temeram
-\*fn
- } e glorificaram a Deus, que tinha dado tal autoridade aos homens.
+\*fn}
+ e glorificaram a Deus, que tinha dado tal autoridade aos homens.
 \v Mt.9.9
-E Jesus, ao passar dali, viu um homem sentado na coletoria de impostos, chamado Mateus; e disse-lhe: Segue-me. Então este se levantou e o seguiu.
+E Jesus, ao passar dali, viu um homem sentado na coletoria de impostos, chamado Mateus; e disse-lhe: Segue-me. Então 
+este se levantou e o seguiu.
 \v Mt.9.10
 E aconteceu que, enquanto 
 \added
@@ -983,7 +987,7 @@ Jesus
 \added
 de Mateus
 \*added
-, eis que muitos cobradores de impostos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
+, eis que muitos publicanos e pecadores vieram e se reclinaram à mesa juntamente com Jesus e seus discípulos.
 \fn
 \key
 reclinar-se à mesa
@@ -995,7 +999,7 @@ E quando os fariseus viram
 \added
 isto
 \*added
-, perguntaram aos seus discípulos: Por que o vosso Mestre come com cobradores de impostos e pecadores?
+, perguntaram aos seus discípulos: Por que o vosso Mestre come com publicanos e pecadores?
 \v Mt.9.12
 Porém 
 {n4:\added}
@@ -1010,12 +1014,12 @@ N4: respondeu-lhes
 \*fn}
  Os que têm saúde não precisam de médico, mas sim os que estão doentes.
 \v Mt.9.13
-Mas ide aprender o que significa: “Quero misericórdia, e não sacrifício”. 
+Mas ide aprender o que significa: ‘Quero misericórdia, e não sacrifício’. 
 \ref
 Oseías 6:6 
 \*ref
-Porque eu não vim chamar os justos, mas sim os pecadores{tr,rp:, ao arrependimento}.{trnc:
-\fn
+Porque eu não vim chamar os justos, mas sim, os pecadores{tr,rp:, ao arrependimento}.
+{trnc:\fn
 N4 omite "ao arrependimento"
 \*fn}
 {n4:\fn
@@ -1088,7 +1092,7 @@ E os olhos deles se abriram. Então Jesus os advertiu severamente, dizendo: Tend
 \v Mt.9.31
 Porém eles saíram e divulgaram a notícia acerca dele por toda aquela terra.
 \v Mt.9.32
-Enquanto eles saíam, eis que lhe trouxeram um {tr,rp:homem}
+Enquanto eles saíam, eis que lhe trouxeram um{tr,rp: homem}
 {trnc:\fn
 N4 omite "homem"
 \*fn}
@@ -1124,15 +1128,15 @@ filho
 \*added
  de Zebedeu, e seu irmão João;
 \v Mt.10.3
-Filipe e Bartolomeu; Tomé, e Mateus o coletor de impostos; Tiago, 
+Filipe e Bartolomeu; Tomé, e Mateus o publicano; Tiago, 
 \added
 filho
 \*added
- de Alfeu; e {tr,rp:Lebeu, por sobrenome{trnc:
-\fn
+ de Alfeu; e {tr,rp:Lebeu, por sobrenome
+{trnc:\fn
 N4 omite "Lebeu, por sobrenome
-\*fn
- } }Tadeu;
+\*fn}}
+Tadeu;
 \v Mt.10.4
 Simão o zeloso,
 \fn
@@ -1149,29 +1153,28 @@ traiu
 lit. entregou
 \*fn
 \v Mt.10.5
-Jesus enviou estes doze, e lhes mandou, dizendo: Não ireis pelo caminho dos gentios, nem entrareis em cidade de samaritanos.
+Jesus enviou esses doze, e lhes mandou, dizendo: Não ireis pelo caminho dos gentios, nem entrareis em cidade de samaritanos.
 \v Mt.10.6
 Em vez disso, ide às ovelhas perdidas da casa de Israel.
 \v Mt.10.7
-E quando fordes, proclamai, dizendo: “Perto está o Reino dos céus”.
+E quando fordes, proclamai, dizendo: ‘Perto está o Reino dos céus’.
 \v Mt.10.8
-Curai os doentes, {n4:ressuscitai os mortos, }limpai os leprosos,{tr: ressuscitai os mortos,}{trnc:
-\fn
+Curai os doentes, {n4:ressuscitai os mortos, }limpai os leprosos,{tr: ressuscitai os mortos,}
+{trnc:\fn
 RP omite "ressuscitai os mortos", enquanto que N4 põe este texto antes de "limpai os leprosos"
-\*fn
- }{rp:
-\fn
+\*fn}
+{rp:\fn
 TR, N4 adicionam "ressuscitai os mortos"
-\*fn
- } expulsai os demônios; recebestes de graça, dai de graça.
+\*fn}
+ expulsai os demônios; recebestes de graça, dai de graça.
 \v Mt.10.9
-Não possuais ouro, nem prata, nem cobre em vossos cintos;
+Não tomeis convosco ouro, nem prata, nem cobre em vossos cintos;
 \v Mt.10.10
-Nem bolsas para o caminho, nem duas túnicas, nem sandálias, nem bordão 
-\added
-extra
-\*added
- ; pois o trabalhador é digno de seu alimento.
+nem bolsas para o caminho, nem duas túnicas, nem sandálias, nem bordão;
+\fn
+i.e., uma vara ou cajado para facilitar a caminhada
+\*fn
+ pois o trabalhador é digno de seu alimento.
 \v Mt.10.11
 E em qualquer cidade ou aldeia que entrardes, informai-vos de quem nela seja digno, e ficai ali até que saiais.
 \v Mt.10.12
@@ -1205,7 +1208,8 @@ percorrer
 \v Mt.10.24
 O discípulo não é superior ao mestre, nem o servo superior ao seu senhor.
 \v Mt.10.25
-Seja suficiente ao discípulo ser como o seu mestre, e ao servo como o seu senhor; se ao chefe da casa chamaram de Belzebu, quanto mais aos membros de sua casa?
+Seja suficiente ao discípulo ser como o seu mestre, e ao servo como o seu senhor; se ao chefe da casa chamaram 
+de Belzebu, quanto mais aos membros de sua casa!
 \v Mt.10.26
 Portanto, não os temais; porque nada há encoberto que não se revelará, 
 \added
@@ -1236,9 +1240,9 @@ Porém qualquer um que me negar diante das pessoas, também eu o negarei diante 
 \v Mt.10.34
 Não penseis que vim trazer paz à terra. Não vim trazer paz, mas sim espada.
 \v Mt.10.35
-Porque eu vim pôr em discórdia “o homem contra seu pai, a filha contra sua mãe, e a nora contra sua sogra.
+Porque eu vim pôr em discórdia ‘o homem contra seu pai, a filha contra sua mãe, e a nora contra sua sogra.
 \v Mt.10.36
-E os inimigos do homem serão os de sua própria casa”. 
+E os inimigos do homem serão os de sua própria casa’. 
 \ref
 Miqueias 7:6 
 \*ref
@@ -1272,17 +1276,18 @@ E João, ao ouvir na prisão as obras de Cristo, enviou
 \added
 -lhe
 \*added
- {tr,rp:dois de}{n4:por}{trnc:
-\fn
+ {tr,rp:dois de}{n4:por}
+{trnc:\fn
 TR, RP: dois de - N4:por
-\*fn
- } seus discípulos,
+\*fn}
+ seus discípulos,
 \v Mt.11.3
 Perguntando-lhe: És tu aquele que havia de vir, ou esperamos outro?
 \v Mt.11.4
 Jesus lhes respondeu: Ide anunciar a João as coisas que ouvis e vedes:
 \v Mt.11.5
-Os cegos veem, e os mancos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos pobres é anunciado o Evangelho;
+Os cegos veem, e os mancos andam; os leprosos são limpos, e os surdos ouvem; os mortos são ressuscitados, e aos 
+pobres é anunciado o Evangelho;
 \v Mt.11.6
 E bendito
 \fn
@@ -1291,16 +1296,17 @@ bendito
 \*key
 ou “bem-aventurado”
 \*fn
- é aquele que não deixar de crer
+ é aquele que não se ofender
 \fn
 \key
-deixar de crer
+não se ofender
 \*key
-tradicionalmente “escandalizar-se”
+Ou: “Perder a fé”. Lit. “não tropeçar”. Tradicionalmente “escandalizar-se”
 \*fn
  em mim.
 \v Mt.11.7
-Depois que eles se foram, Jesus começou a dizer às multidões acerca de João: Que saístes ao deserto para ver? Uma cana que se move pelo vento?
+Depois que eles se foram, Jesus começou a dizer às multidões acerca de João: Que saístes ao deserto para ver? 
+Uma cana que se move pelo vento?
 \v Mt.11.8
 Mas que saístes para ver? Um homem vestido com 
 {n4:\added}
@@ -1317,7 +1323,8 @@ Mas que saístes para ver? Um profeta? Sim, eu vos digo, e muito mais que um pro
 {trnc:\fn
 N4 omite "Porque"
 \*fn}
- este}{n4:Este} é aquele sobre o qual está escrito: “Eis que diante de tua face envio o meu mensageiro, que preparará o teu caminho diante de ti.” 
+ este}{n4:Este} é aquele sobre o qual está escrito: ‘Eis que diante de tua face envio o meu mensageiro, que 
+preparará o teu caminho diante de ti.’ 
 \ref
 Malaquias 3:1 
 \*ref
@@ -1328,13 +1335,8 @@ outro
 \*added
  maior que João Batista; porém o menor no Reino dos céus é maior que ele.
 \v Mt.11.12
-E desde os dias de João Batista até agora, o Reino dos céus é forçado, e os que usam de força o tomam.
-\fn
-\key
-tomam
-\*key
-ou se apoderam dele
-\*fn
+E desde os dias de João Batista até agora, o Reino dos céus está sujeito à violência, e os que usam de 
+violência se apoderam dele.
 \v Mt.11.13
 Porque todos os profetas e a Lei profetizaram até João.
 \v Mt.11.14
@@ -1346,20 +1348,22 @@ N4 omite "para ouvir"
 \*fn}
  ouça.
 \v Mt.11.16
-Mas com quem compararei esta geração? Semelhante é às crianças que se sentam nas praças, {tr,rp:e}{n4:que} chamam aos {tr,rp:seus colegas}{n4:outros},
+Mas com quem compararei esta geração? Semelhante é às crianças que se sentam nas praças, {tr,rp:e}{n4:que} 
+chamam aos {tr,rp:seus colegas}{n4:outros},
 {trnc:\fn
 TR, RP: e chamam aos seus colegas - N4: que chamam aos outros
 \*fn}
 \v Mt.11.17
-E dizem: “Tocamos flauta para vós, mas não dançastes; cantamos lamentações{tr,rp: para vós},
+E dizem: ‘Tocamos flauta para vós, mas não dançastes; cantamos lamentações{tr,rp: para vós},
 {trnc:\fn
 N4 omite "para vós"
 \*fn}
- mas não chorastes.”
+ mas não chorastes.’
 \v Mt.11.18
-Porque veio João, sem comer nem beber, e dizem: “Ele tem demônio.”
+Porque veio João, sem comer nem beber, e dizem: ‘Ele tem demônio.’
 \v Mt.11.19
-Veio o Filho do homem, que come e bebe, e dizem: “Eis aqui um homem comilão e beberrão, amigo de cobradores de impostos e pecadores!” Mas a sabedoria prova-se justa por meio de {tr,rp:seus filhos}{n4:suas obras}.
+Veio o Filho do homem, que come e bebe, e dizem: ‘Eis aqui um homem comilão e beberrão, amigo de publicanos e 
+pecadores!’ Mas a sabedoria prova-se justa por meio de {tr,rp:seus filhos}{n4:suas obras}.
 {trnc:\fn
 TR, RP: seus filhos - N4: suas obras
 \*fn}
@@ -1370,7 +1374,8 @@ suas obras
 TR, RP: seus filhos
 \*fn}
 \v Mt.11.20
-Então ele começou a acusar as cidades em que a maioria de seus milagres haviam sido feitos, por não terem se arrependido:
+Então ele começou a repreender as cidades em que a maioria de seus milagres haviam sido feitos, por não terem 
+se arrependido:
 \v Mt.11.21
 Ai de ti Corazim! Ai de ti Betsaida! Porque se em Tiro e em Sidom tivessem sido feitos os milagres que em vós foram feitos, há muito tempo teriam se arrependido com saco e com cinza!
 \v Mt.11.22
@@ -1410,11 +1415,12 @@ Quando os fariseus viram, disseram-lhe: Eis que os teus discípulos fazem o que 
 \v Mt.12.3
 Ele, porém, lhes disse: Não lestes o que Davi fez quando teve fome, ele e os que com ele estavam,
 \v Mt.12.4
-Como ele entrou na casa de Deus, e {tr,rp:comeu}{n4:comeram}{trnc:
-\fn
+Como ele entrou na casa de Deus, e {tr,rp:comeu}{n4:comeram}
+{trnc:\fn
 TR, RP: comeu - N4: comeram
-\*fn
- } os pães da proposição, que a ele não era lícito comer, nem também aos que com ele estavam, a não ser somente aos sacerdotes?
+\*fn}
+ os pães da proposição, que a ele não era lícito comer, nem também aos que com ele estavam, a não ser somente 
+aos sacerdotes?
 \fn
 \key
 Os pães da proposição eram oferecidos a Deus semanalmente no templo, e depois eram comidos pelos sacerdotes
@@ -1426,17 +1432,17 @@ Ou não lestes na Lei que, nos sábados, os sacerdotes no Templo profanam o sáb
 \v Mt.12.6
 Eu, porém, vos digo que o maior que o Templo está aqui.
 \v Mt.12.7
-Mas se vós soubésseis o que significa: “Quero misericórdia, e não sacrifício”,
+Mas se vós soubésseis o que significa: ‘Quero misericórdia, e não sacrifício’,
 \ref
 Oseias 6:6 
 \*ref
  não condenaríeis os inocentes.
 \v Mt.12.8
-Porque o Filho do homem é Senhor{tr: até}{trnc:
-\fn
+Porque o Filho do homem é Senhor{tr: até}
+{trnc:\fn
 RP, N4 omitem "até"
-\*fn
- } do sábado.
+\*fn}
+ do sábado.
 \v Mt.12.9
 E partindo dali, 
 \added
@@ -1450,7 +1456,7 @@ E ele lhes respondeu: Qual de vós será a pessoa que, caso tenha uma ovelha, e 
 \v Mt.12.12
 Ora, quanto mais vale um ser humano que uma ovelha! Assim, pois, é lícito fazer o bem nos sábados.
 \v Mt.12.13
-Então disse para aquele homem: Estende a tua mão.E ele a estendeu, e foi-lhe restaurada, sã como a outra.
+Então disse para aquele homem: Estende a tua mão. Ele a estendeu, e foi-lhe restaurada, sã como a outra.
 \v Mt.12.14
 Então os fariseus saíram e se reuniram para planejar contra ele, como o matariam.
 \v Mt.12.15
@@ -1469,32 +1475,33 @@ anunciará justiça às nações.
 \v Mt.12.19
 Ele não fará brigas, nem gritará; ninguém ouvirá pelas ruas a sua voz.
 \v Mt.12.20
-A cana esmagada ele não despedaçará, o pavio que fumega ele não apagará, até que conduza a justiça à vitória.
+A cana rachada ele não quebrará, o pavio que fumega ele não apagará, até que conduza a justiça à vitória.
 \v Mt.12.21
 E em seu nome as nações terão esperança. 
 \ref
 Isaías 42:1-4 
 \*ref
 \v Mt.12.22
-Então lhe trouxeram um endemoninhado cego e mudo; e ele o curou de tal maneira que o{tr,rp: cego e}{trnc:
-\fn
+Então lhe trouxeram um endemoninhado cego e mudo; e ele o curou de tal maneira que o{tr,rp: cego e}
+{trnc:\fn
 N4 omite "cego e"
-\*fn
- } mudo passou a falar e a ver.
+\*fn}
+ mudo passou a falar e a ver.
 \v Mt.12.23
 E todas as multidões se admiravam e diziam: Não é este o Filho de Davi?
 \v Mt.12.24
 Mas quando os fariseus ouviam isso, diziam: Ele não expulsa os demônios, a não ser por Belzebu, o chefe dos demônios.
 \v Mt.12.25
-Porém {n4: 
-\added
-}Jesus{n4:
-\*added
- },{trnc:
-\fn
+Porém 
+{n4:\added}
+Jesus
+{n4:\*added}
+,
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } entendendo os pensamentos deles, disse-lhes: Todo reino dividido contra si mesmo é destruído; e toda cidade ou casa dividida contra si mesma não permanecerá.
+\*fn}
+ entendendo os pensamentos deles, disse-lhes: Todo reino dividido contra si mesmo é destruído; e toda cidade 
+ou casa dividida contra si mesma não permanecerá.
 \v Mt.12.26
 Ora, se Satanás expulsa a Satanás, contra si mesmo está dividido; como, pois, permanecerá o seu reino?
 \v Mt.12.27
@@ -1513,23 +1520,24 @@ Ou como pode alguém entrar na casa do valente, e saquear seus bens, sem primeir
 \v Mt.12.30
 Quem não é comigo é contra mim; e quem não ajunta comigo, espalha.
 \v Mt.12.31
-Por isso eu vos digo: todo pecado e blasfêmia serão perdoados aos seres humanos; mas a blasfêmia contra o Espírito não será perdoada{tr,rp: aos seres humanos}.{trnc:
-\fn
+Por isso eu vos digo: todo pecado e blasfêmia serão perdoados aos seres humanos; mas a blasfêmia contra o Espírito 
+não será perdoada{tr,rp: aos seres humanos}.
+{trnc:\fn
 N4 omite "aos seres humanos"
-\*fn
- }
+\*fn}
 \v Mt.12.32
-E qualquer um que falar palavra contra o Filho do homem lhe será perdoado; mas qualquer um que falar contra o Espírito Santo, não lhe será perdoado, nem na era presente, nem na futura.
+E qualquer um que falar palavra contra o Filho do homem lhe será perdoado; mas qualquer um que falar contra o 
+Espírito Santo, não lhe será perdoado, nem na era presente, nem na futura.
 \v Mt.12.33
 Ou fazei a árvore boa, e seu fruto bom; ou fazei a árvore má, e seu fruto mau; pois pelo fruto se conhece a árvore.
 \v Mt.12.34
-Ninhada de víboras, como podeis vós falar boas coisas, sendo maus? Pois a boca fala do que o coração tem de sobra.
+Ninhada de víboras, como podeis vós falar boas coisas, sendo maus? Pois a boca fala do que o coração tem em abundância.
 \v Mt.12.35
-A pessoa boa tira coisas boas do bom tesouro{tr: do coração},{trnc:
-\fn
+A pessoa boa tira coisas boas do bom tesouro{tr: do coração},
+{trnc:\fn
 RP, N4 omitem "do coração"
-\*fn
- } e a pessoa má tira coisas más do tesouro mau.
+\*fn}
+ e a pessoa má tira coisas más do tesouro mau.
 \v Mt.12.36
 Eu, porém, vos digo que de toda palavra imprudente
 \fn
@@ -1549,11 +1557,11 @@ ou absolvido
 \*fn
  e por tuas palavras serás condenado.
 \v Mt.12.38
-Então responderam{n4:-lhe}{{trnc:
-\fn
+Então responderam{n4:-lhe}
+{trnc:\fn
 N4: responderam-lhe
-\*fn
- } uns dos escribas e dos fariseus, dizendo: Mestre, queremos ver de ti algum sinal.
+\*fn}
+ uns dos escribas e dos fariseus, dizendo: Mestre, queremos ver de ti algum sinal.
 \v Mt.12.39
 Mas ele lhes deu a seguinte resposta: Uma geração má e adúltera pede sinal; mas não lhe será dado, exceto o sinal do profeta Jonas.
 \v Mt.12.40
@@ -1562,7 +1570,7 @@ Porque assim como Jonas esteve três dias e três noites no ventre da baleia,
 \key
 baleia
 \*key
-ou “animal marinho”
+ou “grande animal marinho”, isto é, não necessariamente dos animais chamados atualmente de baleias.
 \*fn
  assim também o Filho do homem estará três dias e três noites no coração da terra.
 \v Mt.12.41
@@ -1572,7 +1580,7 @@ A rainha do sul se levantará no Juízo com esta geração, e a condenará; porq
 \v Mt.12.43
 Quando o espírito imundo sai de alguém, anda por lugares secos buscando repouso, e não o acha.
 \v Mt.12.44
-Então diz: “Voltarei para minha casa de onde saí”. E quando chega, a encontra desocupada, varrida, e adornada.
+Então diz: ‘Voltarei para a minha casa, de onde saí.’ E quando chega, a encontra desocupada, varrida, e arrumada.
 \v Mt.12.45
 Então vai, e toma consigo outros sete espíritos piores que ele; eles entram, e moram ali; e a última 
 \added
@@ -1586,7 +1594,7 @@ E alguém lhe disse: Eis que tua mãe e teus irmãos estão fora, querendo falar
 \v Mt.12.48
 Porém ele disse em resposta ao que o avisou: Quem é minha mãe? E quem são meus irmãos?
 \v Mt.12.49
-Então estendeu sua mão sobre seus discípulos, e disse: Eis aqui minha mãe e meus irmãos;
+Então estendeu sua mão para os seus discípulos, e disse: Eis aqui minha mãe e meus irmãos;
 \v Mt.12.50
 Pois qualquer um que fizer a vontade do meu Pai, que está nos céus, esse é meu irmão, e irmã, e mãe.
 \v Mt.13.1
@@ -1628,25 +1636,26 @@ cem, sessenta, trinta
 isto é, produz cem, sessenta ou trinta vezes mais que o que foi semeado
 \*fn
 \v Mt.13.9
-Quem tem ouvidos{tr,rp: para ouvir},{trnc:
-\fn
+Quem tem ouvidos{tr,rp: para ouvir},
+{trnc:\fn
 N4 omite "para ouvir"
-\*fn
- } ouça.
+\*fn}
+ ouça.
 \v Mt.13.10
 Então os discípulos se aproximaram, e lhe perguntaram: Por que falas a eles por parábolas?
 \v Mt.13.11
-E ele {tr,rp:lhes{trnc:
-\fn
+E ele {tr,rp:lhes
+{trnc:\fn
 N4 omite "lhes"
-\*fn
- } }respondeu: Porque a vós é dado saber os mistérios do Reino dos céus, mas a eles não é dado.
+\*fn}
+ }respondeu: Porque a vós é dado saber os mistérios do Reino dos céus, mas a eles não é dado.
 \v Mt.13.12
 Pois a quem tem, lhe será dado, e terá em abundância; mas a quem não tem, até aquilo que tem lhe será tirado.
 \v Mt.13.13
 Por isso falo a eles por parábolas; porque vendo, não veem; e ouvindo, não ouvem, nem entendem.
 \v Mt.13.14
-Assim neles se cumpre a profecia de Isaías, que diz: De fato ouvireis, mas não entendereis; De fato vereis, mas não enxergareis.
+Assim neles se cumpre a profecia de Isaías, que diz: De fato ouvireis, mas não entendereis; De fato vereis, 
+mas não percebereis.
 \v Mt.13.15
 Porque o coração deste povo está insensível; Com seus ouvidos dificilmente ouvem, e seus olhos fecharam; A fim de não haver que seus olhos vejam, seus ouvidos ouçam, Seus corações entendam, e se arrependam, E eu os cure. 
 \ref
@@ -1674,33 +1683,35 @@ Quando alguém ouve a palavra do Reino e não a entende, o maligno vem e arranca
 \v Mt.13.20
 E o que foi semeado entre as pedras é o que ouve a palavra, e logo a recebe com alegria,
 \v Mt.13.21
-mas não tem raiz em si mesmo. Em vez disso, dura um pouco, mas quando vem a aflição ou a perseguição pela palavra, logo se tornam infiéis.
-\fn
-\key
-tornam infiéis
-\*key
-tradicionalmente “escandalizam-se”
-\*fn
+mas não tem raiz em si mesmo. Em vez disso, dura um pouco, mas quando vem a aflição ou a perseguição pela 
+palavra, logo tropeça na fé.
 \v Mt.13.22
-E o que foi semeado entre os espinhos é o que ouve a palavra, mas a ansiedade com o tempo presente e a sedução das riquezas sufocam a palavra, e fica sem dar fruto.
+E o que foi semeado entre os espinhos é o que ouve a palavra, mas a ansiedade com o tempo presente e a sedução 
+das riquezas sufocam a palavra, e fica sem dar fruto.
 \v Mt.13.23
-Mas o que foi semeado em boa terra, este é o que ouve e entende a palavra, e o que dá e produz fruto, um a cem, outro a sessenta, e outro a trinta.
+Mas o que foi semeado em boa terra, este é o que ouve e entende a palavra, e o que dá e produz fruto, um a cem, 
+outro a sessenta, e outro a trinta.
 \v Mt.13.24
-E ele lhes declarou outra parábola, dizendo: O Reino dos céus é semelhante a um homem que semeia boa semente em seu campo,
+E ele lhes declarou outra parábola, dizendo: O Reino dos céus é semelhante a um homem que semeia boa semente em 
+seu campo,
 \v Mt.13.25
 Mas, enquanto as pessoas dormiam, o inimigo dele veio, semeou joio entre o trigo, e foi embora.
 \v Mt.13.26
 E, quando a erva cresceu e produziu fruto, então apareceu também o joio.
 \v Mt.13.27
-Então os servos do dono da propriedade chegaram, e lhe perguntaram: “Senhor, não semeaste boa semente no teu campo? De onde, pois, veio o joio?”
+Então os servos do dono da propriedade chegaram, e lhe perguntaram: “Senhor, não semeaste boa semente no teu campo? 
+De onde, pois, veio o joio?”
 \v Mt.13.28
-E ele lhes respondeu: “Um inimigo fez isto”. Em seguida, os servos lhe perguntaram: “Queres, pois, que vamos e o tiremos?”
+E ele lhes respondeu: “Um inimigo fez isto”. Em seguida, os servos lhe perguntaram: “Queres, pois, que vamos 
+e o tiremos?”
 \v Mt.13.29
 Ele, porém, lhes respondeu: “Não, para não haver que, enquanto tirais o joio, arranqueis com ele também o trigo.
 \v Mt.13.30
-Deixai-os crescer ambos juntos até a colheita; e no tempo da colheita direi aos que colhem: ‘Recolhei primeiro o joio, e amarrai-o em molhos, para o queimarem; mas ao trigo ajuntai no meu celeiro’.”
+Deixai-os crescer ambos juntos até a colheita; e no tempo da colheita direi aos que colhem: ‘Recolhei primeiro o joio, 
+e amarrai-o em molhos, para o queimarem; mas ao trigo ajuntai no meu celeiro’.”
 \v Mt.13.31
-Ele lhes propôs outra parábola: O Reino dos céus é semelhante a um grão de mostarda que alguém tomou e semeou no seu campo.
+Ele lhes propôs outra parábola: O Reino dos céus é semelhante a um grão de mostarda que alguém tomou e semeou no 
+seu campo.
 \v Mt.13.32
 De fato, dentre todas as sementes, esta é a menor. Mas quando cresce, é a maior das hortaliças; e se torna 
 \added
@@ -1708,41 +1719,42 @@ tamanha
 \*added
  árvore, que as aves do céu vêm e se aninham em seus ramos.
 \v Mt.13.33
-Ele lhes disse outra parábola: O Reino dos céus é semelhante ao fermento que uma mulher tomou e misturou em três medidas de farinha,
+Ele lhes disse outra parábola: O Reino dos céus é semelhante ao fermento que uma mulher tomou e misturou em três 
+medidas de farinha,
 \fn
 \key
 três medidas de farinha
 \*key
-equiv. Cerca de 40 litros (1 medida de farinha era aproximadamente 13 litros
+equiv. Cerca de 40 litros (1 medida de farinha era aproximadamente 13 litros)
 \*fn
- ) até que tudo ficasse fermentado.
+ até que tudo ficasse fermentado.
 \v Mt.13.34
 Tudo isto Jesus falou por parábolas às multidões. Sem parábolas ele não lhes falava,
 \v Mt.13.35
-para que se cumprisse o que foi falado pelo profeta, que disse: Abrirei a minha boca em parábolas; Pronunciarei coisas escondidas desde a fundação{tr,rp: do mundo}.{trnc:
-\fn
+para que se cumprisse o que foi falado pelo profeta, que disse: Abrirei a minha boca em parábolas; Pronunciarei 
+coisas escondidas desde a fundação{tr,rp: do mundo}.
+{trnc:\fn
 N4 omite "do mundo"
-\*fn
- } 
+\*fn}
 \ref
 Salmos 78:2 
 \*ref
 \v Mt.13.36
-Então {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+Então 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } despediu as multidões, e foi para casa. Seus discípulos se aproximaram dele, e disseram: Explica-nos a parábola do joio do campo.
+\*fn}
+ despediu as multidões, e foi para casa. Seus discípulos se aproximaram dele, e disseram: Explica-nos a parábola 
+do joio do campo.
 \v Mt.13.37
-E ele{tr,rp: lhes}{trnc:
-\fn
+E ele{tr,rp: lhes}
+{trnc:\fn
 N4 omite "lhes"
-\*fn
- } respondeu: O que semeia a boa semente é o Filho do homem.
+\*fn}
+ respondeu: O que semeia a boa semente é o Filho do homem.
 \v Mt.13.38
 E o campo é o mundo; e a boa semente, estes são os filhos do Reino; e o joio são os filhos do maligno.
 \v Mt.13.39
@@ -1755,34 +1767,35 @@ tradicionalmente “fim do mundo”, mas a palavra grega se refere ao período d
 \*fn
  e os que colhem são os anjos.
 \v Mt.13.40
-Portanto, como o joio é colhido e queimado no fogo, assim também será no fim {tr,rp:desta}{n4:da}{trnc:
-\fn
+Portanto, como o joio é colhido e queimado no fogo, assim também será no fim {tr,rp:desta}{n4:da}
+{trnc:\fn
 TR, RP: desta - N4: da
-\*fn
- } era.
+\*fn}
+ era.
 \v Mt.13.41
 O Filho do homem enviará seus anjos, e eles recolherão do seu Reino todas as causas do pecado,
 \fn
 \key
 causas do pecado
 \*key
-tradicionalmente “escândalos”
+Tradicionalmente “escândalos”
 \*fn
  assim como os que praticam injustiça,
 \v Mt.13.42
 e os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes.
 \v Mt.13.43
-Então os justos brilharão como o sol, no Reino de seu Pai. Quem tem ouvidos{tr,rp: para ouvir},{trnc:
-\fn
+Então os justos brilharão como o sol, no Reino de seu Pai. Quem tem ouvidos{tr,rp: para ouvir},
+{trnc:\fn
 N4 omite "para ouvir"
-\*fn
- } ouça.
+\*fn}
+ ouça.
 \v Mt.13.44
-O Reino dos céus{tr,rp: também}{trnc:
-\fn
+O Reino dos céus{tr,rp: também}
+{trnc:\fn
 N4 omite "também"
-\*fn
- } é semelhante a um tesouro escondido num campo, que um homem, depois de achá-lo, escondeu. Então, em sua alegria, vai, vende tudo quanto tem, e compra aquele campo.
+\*fn}
+ é semelhante a um tesouro escondido num campo, que um homem, depois de achá-lo, escondeu. Então, em sua alegria, 
+vai, vende tudo quanto tem, e compra aquele campo.
 \v Mt.13.45
 O Reino dos céus também é semelhante a um homem negociante, que buscava boas pérolas.
 \v Mt.13.46
@@ -1792,7 +1805,7 @@ O Reino dos céus também é semelhante a uma rede lançada ao mar, que colhe to
 \added
 de peixes
 \*added
- .
+.
 \v Mt.13.48
 E quando está cheia, 
 \added
@@ -1804,17 +1817,18 @@ Assim será ao fim da era; os anjos sairão, e separarão dentre os justos os ma
 \v Mt.13.50
 e os lançarão na fornalha de fogo. Ali haverá choro e ranger de dentes.
 \v Mt.13.51
-{tr,rp:E Jesus lhes perguntou:}{trnc:
-\fn
+{tr,rp:E Jesus lhes perguntou:}
+{trnc:\fn
 N4 omite "E Jesus lhes perguntou"
-\*fn
- } Entendestes todas estas coisas?Eles lhe responderam: Sim{tr,rp:, Senhor}.{trnc:
+\*fn}
+ Entendestes todas estas coisas?Eles lhe responderam: Sim{tr,rp:, Senhor}.
+{trnc:
 \fn
 N4 omite "Senhor"
-\*fn
- }
+\*fn}
 \v Mt.13.52
-E ele lhes disse: Portanto todo escriba que se tornou discípulo no Reino dos céus é semelhante a um chefe de casa, que do seu tesouro tira coisas novas e velhas.
+E ele lhes disse: Portanto todo escriba que se tornou discípulo no Reino dos céus é semelhante a um chefe de casa, 
+que do seu tesouro tira coisas novas e velhas.
 \v Mt.13.53
 E aconteceu que, quando Jesus acabou essas parábolas, retirou-se dali.
 \v Mt.13.54
@@ -1832,12 +1846,12 @@ vem
 \*added
  a este tudo isto?
 \v Mt.13.57
-E se ofenderam
+E ofenderam-se
 \fn
 \key
-ofenderam
+ofenderam-se
 \*key
-tradicionalmente : escandalizaram
+Tradicionalmente: escandalizaram-se
 \*fn
  por causa dele. Mas Jesus lhes disse: Não há profeta sem honra, a não ser em sua terra, e em sua casa.
 \v Mt.13.58
@@ -1858,21 +1872,20 @@ ou: amarrado
 \v Mt.14.4
 pois João lhe dizia: Não te lícito que a tenhas.
 \v Mt.14.5
- 
 \added
 Herodes
 \*added
  queria matá-lo, mas tinha medo do povo, pois o consideravam profeta.
 \v Mt.14.6
-Porém, {tr,rp:enquanto era celebrado}{n4:quando chegou}{trnc:
-\fn
+Porém, {tr,rp:enquanto era celebrado}{n4:quando chegou}
+{trnc:\fn
 TR, RP: enquanto era celebrado - N4: quando chegou
-\*fn
- } o aniversário de Herodes, a filha de Herodias dançou no meio 
+\*fn}
+ o aniversário de Herodes, a filha de Herodias dançou no meio 
 \added
 das pessoas
 \*added
-,e agradou a Herodes.
+, e agradou a Herodes.
 \v Mt.14.7
 Por isso prometeu a ela dar tudo o que pedisse.
 \v Mt.14.8
@@ -1886,15 +1899,16 @@ Sua cabeça foi trazida num prato, e dada à garota, e ela a levou à sua mãe.
 \v Mt.14.12
 E seus discípulos vieram, tomaram o corpo, e o enterraram; e foram avisar a Jesus.
 \v Mt.14.13
-Depois de Jesus ouvir, retirou-se dali num barco, a um lugar deserto, sozinho; mas assim que as multidões ouviram acerca disso, seguiram-no a pé das cidades.
+Depois de Jesus ouvir, retirou-se dali num barco, a um lugar deserto, sozinho; mas assim que as multidões ouviram 
+acerca disso, seguiram-no a pé das cidades.
 \v Mt.14.14
 Quando Jesus saiu, viu uma grande multidão. Ele se compadeceu deles, e curou dentre eles os enfermos.
 \v Mt.14.15
-E chegando o entardecer, os{tr,rp: seus}{trnc:
-\fn
+E chegando o entardecer, os{tr,rp: seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos se aproximaram dele, e disseram: O lugar é deserto, e já é tarde.
+\*fn}
+ discípulos se aproximaram dele, e disseram: O lugar é deserto, e já é tarde.
 \fn
 \key
 já é tarde
@@ -1909,7 +1923,8 @@ E eles lhe disseram: Nada temos aqui além de cinco pães e dois peixes.
 \v Mt.14.18
 Então disse: Trazei-os aqui a mim.
 \v Mt.14.19
-Ele mandou às multidões que se sentassem sobre a grama. Então tomou os cinco pães e os dois peixes, levantou os olhos ao céu, e 
+Ele mandou às multidões que se sentassem sobre a grama. Então tomou os cinco pães e os dois peixes, levantou os 
+olhos ao céu, e 
 \added
 os
 \*added
@@ -1919,44 +1934,43 @@ E todos comeram, e se fartaram. E do que sobrou dos pedaços levantaram doze ces
 \v Mt.14.21
 E os que comeram foram quase cinco mil homens, sem contar as mulheres e as crianças.
 \v Mt.14.22
-E logo {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+E logo 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } mandou os {tr:seus}{trnc:
-\fn
+\*fn}
+ mandou os {tr:seus}
+{trnc:\fn
 RP, N4 omitem "seus"
-\*fn
- } discípulos entrarem no barco, e que fossem adiante dele para a outra margem, enquanto ele despedia as multidões.
+\*fn}
+ discípulos entrarem no barco, e que fossem adiante dele para a outra margem, enquanto ele despedia as multidões.
 \v Mt.14.23
 Depois de despedir as multidões, subiu ao monte, à parte, para orar. Tendo chegado a noite, ele estava ali sozinho.
 \v Mt.14.24
-E o barco já estava {tr,rp:no meio do mar}{n4:a vários estádios de distância da terra},{trnc:
-\fn
+E o barco já estava {tr,rp:no meio do mar}{n4:a vários estádios de distância da terra},
+{trnc:\fn
 TR, RP: no meio do mar - N4: a vários estádios de distância da terra
-\*fn
- } atormentado pelas ondas, porque o vento era contrário.
+\*fn}
+ atormentado pelas ondas, porque o vento era contrário.
 \v Mt.14.25
 Mas à quarta vigília
 \fn
 \key
 vigília
 \*key
-cada noite era dividida em quatro vigílias, de igual duração. Portanto a quarta vigília é, aproximadamente, das 3 horas da madrugada até o amanhecer
+cada noite era dividida em quatro vigílias, de igual duração. Portanto a quarta vigília é, aproximadamente, das 3 
+horas da madrugada até o amanhecer
 \*fn
- da noite {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+ da noite 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } foi até eles, andando sobre o mar.
+\*fn}
+ foi até eles, andando sobre o mar.
 \v Mt.14.26
 Quando os discípulos o viram andar sobre o mar, apavoraram-se, dizendo: É um fantasma! E gritaram de medo.
 \v Mt.14.27
@@ -1964,17 +1978,17 @@ Mas Jesus logo lhes falou, dizendo: Tende coragem! Sou eu, não tenhais medo.
 \v Mt.14.28
 E Pedro lhe respondeu, dizendo: Senhor, se és tu, manda-me vir a ti sobre as águas.
 \v Mt.14.29
-E ele disse: Vem. Então Pedro desceu do barco e andou sobre as águas, {tr,rp:para vir}{n4:e foi}{trnc:
-\fn
+E ele disse: Vem. Então Pedro desceu do barco e andou sobre as águas, {tr,rp:para vir}{n4:e foi}
+{trnc:\fn
 TR, RP: para vir - N4: e foi
-\*fn
- } em direção a Jesus.
+\*fn}
+ em direção a Jesus.
 \v Mt.14.30
-Mas quando viu o vento{tr,rp: forte},{trnc:
-\fn
+Mas quando viu o vento{tr,rp: forte},
+{trnc:\fn
 N4 omite "forte"
-\*fn
- } teve medo; e começando a afundar, gritou: Senhor, salva-me!
+\*fn}
+ teve medo; e começando a afundar, gritou: Senhor, salva-me!
 \v Mt.14.31
 Imediatamente Jesus estendeu a mão, segurou-o, e disse-lhe: 
 \added
@@ -1988,7 +2002,8 @@ Então os que estavam no barco vieram e o adoraram, dizendo: Verdadeiramente tu 
 \v Mt.14.34
 E havendo passado para a outra margem, chegaram à terra de Genesaré.
 \v Mt.14.35
-E quando os homens daquele lugar o reconheceram, deram aviso por toda aquela região ao redor, e lhe trouxeram todos os que estavam enfermos.
+E quando os homens daquele lugar o reconheceram, deram aviso por toda aquela região em redor, e lhe trouxeram todos 
+os que estavam enfermos.
 \v Mt.14.36
 E rogavam-lhe que tão somente tocassem a borda
 \fn
@@ -2010,29 +2025,28 @@ Então
 \added
 alguns
 \*added
- {tr,rp:escribas e }fariseus{trnc:
-\fn
+ {tr,rp:escribas e }fariseus
+{trnc:\fn
 N4:fariseus e escribas
-\*fn
- } {n4:e escribas }de Jerusalém se aproximaram de Jesus, e perguntaram:
+\*fn}
+ {n4:e escribas }de Jerusalém se aproximaram de Jesus, e perguntaram:
 \v Mt.15.2
 Por que os teus discípulos transgridem a tradição dos anciãos? Pois não lavam suas mãos quando comem pão.
 \v Mt.15.3
 Porém ele lhes respondeu: E vós, por que transgredis o mandamento de Deus por vossa tradição?
 \v Mt.15.4
-Pois Deus{tr,rp: mandou, dizendo}{n4: disse}:{trnc:
-\fn
+Pois Deus{tr,rp: mandou, dizendo}{n4: disse}:
+{trnc:\fn
 TR,RP: mandou, dizendo - N4: disse
-\*fn
- } Honra ao {rp,n4: 
-\added
-}teu{rp,n4:
-\*added
- }{trnc:
-\fn
+\*fn}
+ Honra ao 
+{rp,n4:\added}
+teu
+{rp,n4:\*added}
+{trnc:\fn
 RP, N4 omitem "teu"
-\*fn
- } pai e à 
+\*fn}
+ pai e à 
 \added
 tua
 \*added
@@ -2045,7 +2059,7 @@ Mas vós dizeis: “Qualquer um que disser ao pai ou à mãe: ‘Todo o proveito
 \added
 para Deus
 \*added
- ’, não 
+’, não 
 \added
 precisa
 \*added
@@ -2055,23 +2069,23 @@ E
 \added
 assim
 \*added
- invalidastes {tr,rp:o mandamento}{n4:a palavra}{trnc:
-\fn
+ invalidastes {tr,rp:o mandamento}{n4:a palavra}
+{trnc:\fn
 TR, RP: o mandamento - N4: a palavra
-\*fn
- } de Deus por vossa tradição.
+\*fn}
+ de Deus por vossa tradição.
 \v Mt.15.7
 Hipócritas! Isaías bem profetizou sobre vós, dizendo:
 \v Mt.15.8
-Este povo{tr,rp: com sua boca se aproxima de mim, e}{trnc:
-\fn
-N4 omite "com sua boca se aproxima de mim, e"
-\*fn
- } com os lábios{n4:
-\fn
+Este povo{tr,rp: com sua boca se aproxima de mim, e}
+{trnc:\fn
+N4 omite “com sua boca se aproxima de mim, e”
+\*fn}
+ com os lábios
+{n4:\fn
 TR, RP: Este povo com sua boca se aproxima de mim, e com os lábios
-\*fn
- } me honra; mas o seu coração está longe de mim.
+\*fn}
+ me honra; mas o seu coração está longe de mim.
 \v Mt.15.9
 Em vão, porém, me veneram, ensinando doutrinas que são regras humanas. 
 \ref
@@ -2082,11 +2096,16 @@ Assim chamou a multidão para si, e disse-lhes: Ouvi e entendei.
 \v Mt.15.11
 Não é o que entra na boca que contamina o ser humano; mas sim o que sai da boca, isso contamina o ser humano.
 \v Mt.15.12
-Então os {tr,rp:seus}{trnc:
+Então os {tr,rp:seus}
+{trnc:
 \fn
-N4 omite "seus"
+N4 omite “seus”
+\*fn}
+ discípulos aproximaram-se dele, e lhe perguntaram: Tu sabes que os fariseus se ofenderam
+\fn
+Tradicionalmente: “se escandalizaram”
 \*fn
- } discípulos se aproximaram dele, e lhe perguntaram: Tu sabes que os fariseus se ofenderam quando ouviram esta palavra?
+  quando ouviram essa palavra?
 \v Mt.15.13
 Mas ele respondeu: Toda planta que meu Pai celestial não plantou será arrancada pela raiz.
 \v Mt.15.14
@@ -2096,27 +2115,26 @@ outro
 \*added
  cego, ambos cairão na cova.
 \v Mt.15.15
-E Pedro lhe disse: Explica-nos {tr,rp:esta}{n4:a}{trnc:
-\fn
+E Pedro lhe disse: Explica-nos {tr,rp:esta}{n4:a}
+{trnc:\fn
 TR, RP: esta - N4: a
-\*fn
- } parábola.
+\*fn}
+ parábola.
 \v Mt.15.16
-Porém {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+Porém 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } disse: Até vós ainda estais sem entender?
+\*fn}
+ disse: Até vós ainda estais sem entender?
 \v Mt.15.17
-Não percebeis{tr,rp: ainda}{trnc:
-\fn
+Não percebeis{tr,rp: ainda}
+{trnc:\fn
 N4 omite "ainda"
-\*fn
- } que tudo o que entra na boca vai ao ventre, mas 
+\*fn}
+ que tudo o que entra na boca vai ao ventre, mas 
 \added
 depois
 \*added
@@ -2130,11 +2148,11 @@ Estas coisas são as que contaminam o ser humano; mas comer sem lavar as mãos n
 \v Mt.15.21
 E, tendo Jesus partido dali, foi para as partes de Tiro e de Sidom.
 \v Mt.15.22
-E eis que uma mulher Cananeia, que tinha saído daquela região, clamou{tr,rp:-lhe}:{trnc:
-\fn
+E eis que uma mulher Cananeia, que tinha saído daquela região, clamou{tr,rp:-lhe}:
+{trnc:\fn
 N4 omite "-lhe"
-\*fn
- } Senhor, Filho de Davi, tem misericórdia de mim! Minha filha está miseravelmente endemoninhada.
+\*fn}
+ Senhor, Filho de Davi, tem misericórdia de mim! Minha filha está miseravelmente endemoninhada.
 \v Mt.15.23
 Mas ele não lhe respondeu palavra. Então seus discípulos se aproximaram dele, e rogaram-lhe, dizendo: Manda-a embora, porque ela está gritando atrás de nós.
 \v Mt.15.24
@@ -2161,35 +2179,36 @@ Então Jesus lhe respondeu: Ó mulher, grande
 \v Mt.15.29
 E tendo Jesus partido dali, veio ao mar da Galileia. Ele subiu a um monte, e ali se sentou.
 \v Mt.15.30
-E vieram a ele muitas multidões, que tinham consigo mancos,{n4: aleijados,} cegos, mudos,{tr,rp: aleijados,}{trnc:
-\fn
+E vieram a ele muitas multidões, que tinham consigo mancos,{n4: aleijados,} cegos, mudos,{tr,rp: aleijados,}
+{trnc:\fn
 N4 põe "aleijados" antes de "cegos"
-\*fn
- } e muitos outros; e os lançaram aos pés de Jesus, e ele os curou.
+\*fn}
+ e muitos outros; e os lançaram aos pés de Jesus, e ele os curou.
 \v Mt.15.31
-Desta maneira, as multidões se maravilhavam quando viam os mudos falarem, os aleijados ficarem sãos, os mancos andarem, e os cegos verem; então glorificaram ao Deus de Israel.
+Desta maneira, as multidões se maravilhavam quando viam os mudos falarem, os aleijados ficarem sãos, os mancos 
+andarem, e os cegos verem; então glorificaram ao Deus de Israel.
 \v Mt.15.32
-Jesus chamou a si os seus discípulos, e disse: Estou compadecido com a multidão, porque já há três dias que estão comigo, e não têm o que comer. E não quero os deixar ir em jejum, para que não desmaiem no caminho.
+Jesus chamou a si os seus discípulos, e disse: Estou compadecido com a multidão, porque já há três dias que 
+estão comigo, e não têm o que comer. E não quero os deixar ir em jejum, para que não desmaiem no caminho.
 \v Mt.15.33
-E os {tr,rp:seus}{trnc:
-\fn
+E os {tr,rp:seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos lhe responderam: De onde conseguiremos tantos pães no deserto, para saciar tão grande multidão?
+\*fn}
+ discípulos lhe responderam: De onde conseguiremos tantos pães no deserto, para saciar tão grande multidão?
 \v Mt.15.34
 Jesus lhes perguntou: Quantos pães tendes? E eles disseram: Sete; e uns poucos peixinhos.
 \v Mt.15.35
 Então mandou as multidões que se sentassem pelo chão.
 \v Mt.15.36
-Tomou os sete pães e os peixes, deu graças e os partiu. Em seguida, ele os deu aos {tr,rp:seus}{trnc:
-\fn
+Tomou os sete pães e os peixes, deu graças e os partiu. Em seguida, ele os deu aos {tr,rp:seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos, e os discípulos {tr,rp:à multidão}{n4:às multidões}.{trnc:
-\fn
+\*fn}
+ discípulos, e os discípulos {tr,rp:à multidão}{n4:às multidões}.
+{trnc:\fn
 N4: às multidões
-\*fn
- }
+\*fn}
 \v Mt.15.37
 E todos comeram e se saciaram; e levantaram dos pedaços que sobraram sete cestos cheios.
 \v Mt.15.38
@@ -2199,19 +2218,18 @@ Depois de despedir as multidões,
 \added
 Jesus
 \*added
- entrou em um barco, e veio à região de {tr,rp:Magdala}{n4:Magadã}.{trnc:
-\fn
+ entrou em um barco, e veio à região de {tr,rp:Magdala}{n4:Magadã}.
+{trnc:\fn
 TR, RP: Magdala - N4: Magadã
-\*fn
- }
+\*fn}
 \v Mt.16.1
 Então os fariseus e os saduceus se aproximaram dele e, a fim de tentá-lo, pediram-lhe que lhes mostrasse algum sinal do céu.
 \v Mt.16.2
-Mas ele lhes respondeu: {n4:
-\fn
+Mas ele lhes respondeu:
+{n4:\fn
 Alguns manuscritos omitem o restante do versículo 2, e todo o v. 3. O texto está presente em N4, TR, e RP
-\*fn
- } Quando chega a tarde, dizeis: “ 
+\*fn}
+ Quando chega a tarde, dizeis: “ 
 \added
 Haverá
 \*added
@@ -2221,23 +2239,23 @@ E pela manhã: “Hoje
 \added
 haverá
 \*added
- tempestade, pois o céu está de um vermelho sombrio”. {tr,rp:Hipócritas!{trnc:
-\fn
+ tempestade, pois o céu está de um vermelho sombrio”. {tr,rp:Hipócritas!}
+{trnc:\fn
 N4 omite "Hipócritas!"
-\*fn
- } }Vós bem sabeis distinguir a aparência do céu, mas os sinais dos tempos não podeis?
+\*fn}
+ Vós bem sabeis distinguir a aparência do céu, mas os sinais dos tempos não podeis?
 \v Mt.16.4
-Uma geração má e adúltera pede um sinal; mas nenhum sinal lhe será dado, a não ser o sinal {tr,rp:do profeta}{n4:de}{trnc:
-\fn
+Uma geração má e adúltera pede um sinal; mas nenhum sinal lhe será dado, a não ser o sinal {tr,rp:do profeta}{n4:de}
+{trnc:\fn
 TR, RP: do profeta - N4: de
-\*fn
- } Jonas.Então os deixou, e foi embora
+\*fn}
+ Jonas. Então os deixou, e foi embora.
 \v Mt.16.5
-E quando os{tr,rp: seus}{trnc:
-\fn
+E quando os{tr,rp: seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos vieram para a outra margem, esqueceram-se de tomar pão.
+\*fn}
+ discípulos vieram para a outra margem, esqueceram-se de tomar pão.
 \v Mt.16.6
 E Jesus lhes disse: Ficai atentos, e tende cuidado com o fermento dos fariseus e saduceus.
 \v Mt.16.7
@@ -2261,23 +2279,23 @@ Ainda não entendeis, nem vos lembrais dos cinco pães dos cinco mil, e quantos 
 \v Mt.16.10
 Nem dos sete pães dos quatro mil, e quantos cestos levantastes?
 \v Mt.16.11
-Como não entendeis que não foi pelo pão que eu vos disse{n4:?} {tr,rp:para tomardes}{n4:Mas tomai} cuidado com o fermento dos fariseus e saduceus{tr,rp:?}{n4:.}{trnc:
-\fn
+Como não entendeis que não foi pelo pão que eu vos disse{n4:?} {tr,rp:para tomardes}{n4:Mas tomai} cuidado com o 
+fermento dos fariseus e saduceus{tr,rp:?}{n4:.}
+{trnc:\fn
 TR, RP: disse para tomardes cuidado (...) saduceus? - N4: disse? Mas tomai cuidado (...) saduceus.
-\*fn
- }
+\*fn}
 \v Mt.16.12
-Então entenderam que ele não havia dito que tomassem cuidado com o fermento {tr,rp:de pão}{n4:dos pães},{trnc:
-\fn
+Então entenderam que ele não havia dito que tomassem cuidado com o fermento {tr,rp:de pão}{n4:dos pães},
+{trnc:\fn
 N4: dos pães
-\*fn
- } mas sim com a doutrina dos fariseus e saduceus.
+\*fn}
+ mas sim, com a doutrina dos fariseus e saduceus.
 \v Mt.16.13
-E tendo Jesus vindo às partes da Cesareia de Filipe, perguntou aos seus discípulos: Quem as pessoas dizem que {tr,rp:eu, }o Filho do homem{tr,rp:, sou}{n4: é}?{trnc:
-\fn
+E tendo Jesus vindo às partes da Cesareia de Filipe, perguntou aos seus discípulos: Quem as pessoas dizem que 
+{tr,rp:eu, }o Filho do homem{tr,rp:, sou}{n4: é}?
+{trnc:\fn
 TR, RP: eu, o Filho do homem, sou - N4: o Filho do homem é
-\*fn
- }
+\*fn}
 \v Mt.16.14
 E eles responderam: Alguns João Batista, outros Elias, e outros Jeremias ou algum dos profetas.
 \v Mt.16.15
@@ -2328,25 +2346,28 @@ ou: será desligado
 \*fn
  nos céus.
 \v Mt.16.20
-Então mandou aos{tr,rp: seus}{trnc:
-\fn
+Então mandou aos{tr,rp: seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos que a ninguém dissessem que ele era{tr,rp: Jesus,}{trnc:
-\fn
+\*fn}
+ discípulos que a ninguém dissessem que ele era{tr,rp: Jesus,}
+{trnc:\fn
 N4 omite "Jesus"
-\*fn
- } o Cristo.
+\*fn}
+ o Cristo.
 \v Mt.16.21
-Desde então Jesus{n4: Cristo}{trnc:
-\fn
+Desde então Jesus{n4: Cristo}
+{trnc:\fn
 N4: Jesus Cristo
-\*fn
- } começou a mostrar a seus discípulos que ele tinha que ir a Jerusalém, e sofrer muito pelos anciãos, pelos chefes dos sacerdotes, e pelos escribas, e ser morto, e ser ressuscitado ao terceiro dia.
+\*fn}
+ começou a mostrar a seus discípulos que ele tinha que ir a Jerusalém, e sofrer muito pelos anciãos, pelos chefes 
+dos sacerdotes, e pelos escribas, e ser morto, e ser ressuscitado ao terceiro dia.
 \v Mt.16.22
-E Pedro o tomou à parte, e começou a repreendê-lo, dizendo: Misericórdia de ti, Senhor! De maneira nenhuma isso te aconteça.
+E Pedro o tomou à parte, e começou a repreendê-lo, dizendo: Misericórdia de ti, Senhor! De maneira nenhuma isso 
+te aconteça.
 \v Mt.16.23
-Mas ele se virou, e disse a Pedro: Para trás de mim, Satanás! Tu és um obstáculo, porque não compreendes as coisas de Deus, mas sim as humanas.
+Mas ele se virou, e disse a Pedro: Para trás de mim, Satanás! Tu és um meio de tropeço, porque não compreendes as 
+coisas de Deus, mas sim as humanas.
 \v Mt.16.24
 Então Jesus disse a seus discípulos: Se alguém quiser vir após mim, negue-se a si mesmo, tome sobre si a sua cruz, e siga-me.
 \v Mt.16.25
@@ -2356,11 +2377,11 @@ este
 \*added
  a achará.
 \v Mt.16.26
-Pois que proveito {tr,rp:há}{n4:haverá}{trnc:
-\fn
+Pois que proveito {tr,rp:há}{n4:haverá}
+{trnc:\fn
 N4: haverá
-\*fn
- } para alguém, se ganhar o mundo todo, mas perder a sua alma? Ou que dará alguém em resgate da sua alma?
+\*fn}
+ para alguém, se ganhar o mundo todo, mas perder a sua alma? Ou que dará alguém em resgate da sua alma?
 \v Mt.16.27
 Pois o Filho do homem virá na glória do seu Pai com os seus anjos, e então recompensará a cada um segundo as suas obras.
 \v Mt.16.28
@@ -2372,11 +2393,11 @@ Então transfigurou-se diante deles; seu rosto brilhou como o sol, e suas roupas
 \v Mt.17.3
 E eis que lhes apareceram Moisés e Elias, falando com ele.
 \v Mt.17.4
-Pedro, então, disse a Jesus: Senhor, bom é para nós estarmos aqui. Se queres, {tr,rp:façamos}{n4:farei}{trnc:
-\fn
+Pedro, então, disse a Jesus: Senhor, bom é para nós estarmos aqui. Se queres, {tr,rp:façamos}{n4:farei}
+{trnc:\fn
 N4: farei
-\*fn
- } aqui três tendas:
+\*fn}
+ aqui três tendas:
 \fn
 \key
 tendas
@@ -2385,7 +2406,8 @@ ou: tabernáculos
 \*fn
  uma para ti, uma para Moisés, e uma para Elias.
 \v Mt.17.5
-Enquanto ele ainda estava falando, eis que uma nuvem brilhante os cobriu. E eis que uma voz da nuvem disse: Este é o meu Filho amado, em quem me agrado; a ele ouvi.
+Enquanto ele ainda estava falando, eis que uma nuvem brilhante os cobriu. E eis que uma voz da nuvem disse: Este é 
+o meu Filho amado, em quem me agrado; a ele ouvi.
 \v Mt.17.6
 Quando os discípulos ouviram, caíram sobre seus rostos, e tiveram muito medo.
 \v Mt.17.7
@@ -2393,25 +2415,25 @@ Jesus se aproximou deles, tocou-os, e disse: Levantai-vos, e não tenhais medo.
 \v Mt.17.8
 E quando eles levantaram seus olhos, não viram a ninguém, a não ser a Jesus somente.
 \v Mt.17.9
-E enquanto desciam do monte, Jesus lhes disse a seguinte ordem: Não conteis a visão a ninguém, até que o Filho do homem seja ressuscitado dos mortos.
+E enquanto desciam do monte, Jesus lhes disse a seguinte ordem: Não conteis a visão a ninguém, até que o Filho do 
+homem seja ressuscitado dos mortos.
 \v Mt.17.10
-E os {tr,rp:seus}{trnc:
-\fn
+E os {tr,rp:seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos lhe perguntaram: Por que, então, os escribas dizem que Elias tem que vir primeiro?
+\*fn}
+ discípulos lhe perguntaram: Por que, então, os escribas dizem que Elias tem que vir primeiro?
 \v Mt.17.11
-{n4: 
-\added
-}Jesus lhes{n4:
-\*added
- }{trnc:
-\fn
+{n4:\added}
+Jesus lhes
+{n4:\*added}
+{trnc:\fn
 N4 omite "Jesus lhes"
 \*fn}
  respondeu: Em verdade Elias virá primeiro, e restaurará todas as coisas.
 \v Mt.17.12
-Digo-vos, porém, que Elias já veio, mas não o reconheceram. Em vez disso fizeram dele tudo o que quiseram. Assim também o Filho do homem sofrerá por meio deles.
+Digo-vos, porém, que Elias já veio, mas não o reconheceram. Em vez disso fizeram dele tudo o que quiseram. Assim 
+também o Filho do homem sofrerá por meio deles.
 \v Mt.17.13
 Então os discípulos entenderam que ele lhes falara a respeito de João Batista.
 \v Mt.17.14
@@ -2428,45 +2450,44 @@ tradicionalmente lunático
 \v Mt.17.16
 E eu o trouxe aos teus discípulos, mas não o puderam curar.
 \v Mt.17.17
-Jesus respondeu: Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o a mim aqui.
+Jesus respondeu: Ó geração incrédula e perversa! Até quando estarei convosco? Até quando vos suportarei? Trazei-o 
+a mim aqui.
 \v Mt.17.18
 E Jesus o repreendeu. Então o demônio saiu dele, e o menino sarou desde aquela hora.
 \v Mt.17.19
 Depois os discípulos se aproximaram de Jesus em particular, e perguntaram: Por que nós não o pudemos expulsar?
 \v Mt.17.20
-E {n4: 
-\added
-}Jesus{n4:
-\*added
- }{trnc:
-\fn
+E 
+{n4:\added}
+Jesus
+{n4:\*added}
+{trnc:\fn
 NA omite "Jesus"
-\*fn
- } lhes respondeu: Por causa da vossa {tr,rp:incredulidade}{n4:pouca fé};{trnc:
-\fn
+\*fn}
+ lhes respondeu: Por causa da vossa {tr,rp:incredulidade}{n4:pouca fé};
+{trnc:\fn
 TR, RP: incredulidade - N4: pouca fé
-\*fn
- } pois em verdade vos digo, que se tivésseis fé como um grão de mostarda, diríeis a este monte: “Passa-te daqui para lá”, E ele passaria. E nada vos seria impossível.
+\*fn}
+ pois em verdade vos digo, que se tivésseis fé como um grão de mostarda, diríeis a este monte: “Passa-te daqui para lá”, E ele passaria. E nada vos seria impossível.
 \v Mt.17.21
 {tr,rp:Mas este tipo 
 \added
 de demônio
 \*added
- não sai, a não ser por oração e jejum.}{n4: ---
+ não sai, a não ser por oração e jejum.}
+{n4: ---
 \fn
 TR, RP, contêm o versículo 21: Mas este tipo [de demônio] não sai, a não ser por oração e jejum. Comparar com Marcos 9:29
-\*fn
- }{trnc:
-\fn
+\*fn}
+{trnc:\fn
 N4 omite todo o versículo 21
-\*fn
- }
+\*fn}
 \v Mt.17.22
-E enquanto eles {tr,rp:estavam}{n4:reuniam-se}{trnc:
-\fn
+E enquanto eles {tr,rp:estavam}{n4:reuniam-se}
+{trnc:\fn
 N4:reuniam-se
-\*fn
- } na Galileia, Jesus lhes disse: O Filho do homem será entregue em mãos de homens.
+\*fn}
+ na Galileia, Jesus lhes disse: O Filho do homem será entregue em mãos de homens.
 \v Mt.17.23
 E o matarão, e ele será ressuscitado ao terceiro dia.E eles se entristeceram muito.
 \v Mt.17.24
@@ -2484,13 +2505,14 @@ Ele respondeu: Sim. Quando ele entrou em casa, Jesus o antecipou, dizendo: Que t
 outros: ou “estrangeiros”
 \*fn
 \v Mt.17.26
-Pedro{tr,rp: lhe}{trnc:
-\fn
+Pedro{tr,rp: lhe}
+{trnc:\fn
 N4 omite "lhe"
-\*fn
- } respondeu: Dos outros.Jesus lhe disse: Logo, os filhos são livres de pagar.
+\*fn}
+ respondeu: Dos outros. Jesus lhe disse: Logo, os filhos são livres de pagar.
 \v Mt.17.27
-Mas para não os ofendermos, vai ao mar, e lança o anzol. Toma o primeiro peixe que subir, e quando lhe abrir a boca, acharás uma moeda de quatro dracmas. Toma-a, e dá a eles por mim e por ti.
+Mas para não os ofendermos, vai ao mar, e lança o anzol. Toma o primeiro peixe que subir, e quando lhe abrir a boca, 
+acharás uma moeda de quatro dracmas. Toma-a, e dá a eles por mim e por ti.
 \v Mt.18.1
 Naquela hora os discípulos se aproximaram de Jesus, e perguntaram: Ora, quem é o maior no Reino dos céus?
 \v Mt.18.2
@@ -2502,28 +2524,39 @@ Assim, qualquer um que for humilde como esta criança, este é o maior no reino 
 \v Mt.18.5
 E qualquer um que receber a uma criança como esta em meu nome, recebe a mim.
 \v Mt.18.6
-Mas qualquer um que conduzir ao escândalo a um destes pequeninos que creem em mim, melhor lhe fora que uma grande pedra de moinho lhe fosse pendurada ao pescoço, e se afundasse no fundo do mar.
-\v Mt.18.7
-Ai do mundo por causa dos escândalos! Pois é necessário que os escândalos venham, mas ai {tr,rp:daquela}{n4:da}{trnc:
-\fn
-TR, RP: daquela - N4: da
-\*fn
- } pessoa por quem o escândalo vem!
-\v Mt.18.8
-Portanto, se a tua mão ou o teu pé te conduz ao escândalo,
+Mas qualquer um que conduzir ao pecado
 \fn
 \key
-conduz ao escândalo
+conduzir ao pecado
 \*key
-i.e. faz pecar. Também no v. 9
+Tradicionalmente, escandalizar
 \*fn
- corta-os, e lança-os de ti; melhor te é entrar {tr,rp:manco ou }aleijado{n4: ou manco}{trnc:
+ a um destes pequeninos que creem em mim, melhor lhe fora que uma grande 
+pedra de moinho lhe fosse pendurada ao pescoço, e se afundasse no fundo do mar.
+\v Mt.18.7
+Ai do mundo por causa das tentações
 \fn
-N4 inverte a ordem de "aleijado" e "manco"
+Lit. tropeços. Tradicionalmente, escândalos
 \*fn
- } na vida do que, tendo duas mãos ou dois pés, ser lançado no fogo eterno.
+ do pecado! Pois é necessário que as tentações venham, mas ai {tr,rp:daquela}{n4:da}
+{trnc:\fn
+TR, RP: daquela - N4: da
+\*fn}
+ pessoa por quem a tentação vem!
+\v Mt.18.8
+Portanto, se a tua mão ou o teu pé te faz pecar,
+\fn
+Lit. tropeçar. Também no v. 9
+\*fn
+ corta-os, e lança-os de ti; melhor te é 
+entrar {tr,rp:manco ou }aleijado{n4: ou manco}
+{trnc:\fn
+N4 inverte a ordem de "aleijado" e "manco"
+\*fn}
+ na vida do que, tendo duas mãos ou dois pés, ser lançado no fogo eterno.
 \v Mt.18.9
-E se o teu olho te conduz ao escândalo, arranca-o, e lança-o de ti. Melhor te é entrar com um olho na vida do que, tendo dois olhos, ser lançado no inferno de fogo.
+E se o teu olho te faz pecar, arranca-o, e lança-o de ti. Melhor te é entrar com um olho na vida do que, tendo dois 
+olhos, ser lançado no inferno de fogo.
 \v Mt.18.10
 Olhai para que não desprezeis a algum destes pequeninos; porque eu vos digo que os seus anjos nos céus sempre veem a face do meu Pai, que 
 \added
@@ -2531,15 +2564,15 @@ está
 \*added
  nos céus.
 \v Mt.18.11
-{tr,rp:Pois o Filho do homem veio para salvar o que havia se perdido.}{n4: ---
+{tr,rp:Pois o Filho do homem veio para salvar o que havia se perdido.}
+{n4: ---
 \fn
 TR, RP incluem o texto "Pois o Filho do homem veio para salvar o que havia se perdido. Compare com Lucas 19:10
-\*fn
- }{trnc:
+\*fn}
+{trnc:
 \fn
 N4 omite todo o versículo 11
-\*fn
- }
+\*fn}
 \v Mt.18.12
 Que vos parece? Se alguém tivesse cem ovelhas, e uma delas se desviasse, por acaso não iria ele pelos montes, deixando as noventa e nove, em busca da desviada?
 \v Mt.18.13
@@ -2562,7 +2595,8 @@ Mas se não ouvir, toma ainda contigo um ou dois, para que toda palavra se confi
 Deuteronômio 19:15 
 \*ref
 \v Mt.18.17
-E se não lhes der ouvidos, comunica à igreja; e se também não der ouvidos à igreja, considera-o como gentio e cobrador de impostos.
+E se não lhes der ouvidos, comunica à igreja; e se também não der ouvidos à igreja, considera-o como 
+gentio e publicano.
 \v Mt.18.18
 Em verdade vos digo que tudo o que vós ligardes na terra será ligado
 \fn
@@ -2614,7 +2648,7 @@ N4 omite "Senhor"
 \v Mt.18.27
 O senhor daquele servo compadeceu-se dele, então o soltou e lhe perdoou a dívida.
 \v Mt.18.28
-Todavia, depois daquele servo sair, achou um servo, colega seu, que lhe devia cem denários;
+Todavia, depois daquele servo sair, achou um companheiro de serviço seu, que lhe devia cem denários;
 \fn
 \key
 denários
@@ -2634,12 +2668,12 @@ me
 Então o seu colega se prostrou{tr,rp: diante dos seus pés},{trnc:
 \fn
 N4 omite "diante dos seus pés"
-\*fn
- } e lhe suplicou, dizendo: “Tem paciência comigo, e tudo te pagarei”.
+\*fn}
+ e lhe suplicou, dizendo: “Tem paciência comigo, e tudo te pagarei”.
 \v Mt.18.30
 Mas ele não quis. Em vez disso foi lançá-lo na prisão até que pagasse a dívida.
 \v Mt.18.31
-Quando os servos, colegas dele, viram o que se passava, entristeceram-se muito. Então vieram denunciar ao seu senhor tudo o que havia se passado.
+Quando os seus companheiros de serviço viram o que se passava, entristeceram-se muito. Então vieram denunciar ao seu senhor tudo o que havia se passado.
 \v Mt.18.32
 Assim o seu senhor o chamou, e lhe disse: “Servo mau! Toda aquela dívida te perdoei, porque me suplicaste.
 \v Mt.18.33
@@ -2653,37 +2687,37 @@ N4 omite "suas ofensas"
 \*fn
  }
 \v Mt.19.1
-E aconteceu que, quando Jesus acabou estas palavras, partiu da Galileia, e veio para a região da Judeia, além do Jordão.
+E aconteceu que, quando Jesus acabou essas palavras, partiu da Galileia, e veio para a região da Judeia, além do Jordão.
 \v Mt.19.2
 E muitas multidões o seguiram, e ele os curou ali.
 \v Mt.19.3
-Então {tr,rp:os}{trnc:
-\fn
+Então {tr,rp:os}
+{trnc:\fn
 N4 omite "os"
-\*fn
- }{n4:uns} fariseus se aproximaram dele e, provando-o, perguntaram{tr,rp:-lhe}:{trnc:
-\fn
+\*fn}
+{n4:uns} fariseus se aproximaram dele e, provando-o, perguntaram{tr,rp:-lhe}:
+{trnc:\fn
 N4 omite "-lhe"
-\*fn
- } É lícito{tr,rp: ao homem}{trnc:
-\fn
+\*fn}
+ É lícito{tr,rp: ao homem}
+{trnc:\fn
 N4 omite "ao homem"
-\*fn
- } se divorciar da sua mulher por qualquer causa?
+\*fn}
+ se divorciar da sua mulher por qualquer causa?
 \v Mt.19.4
-Porém ele{tr,rp: lhes}{trnc:
-\fn
+Porém ele{tr,rp: lhes}
+{trnc:\fn
 N4 omite "lhes"
-\*fn
- } respondeu: Não tendes lido que aquele que 
+\*fn}
+ respondeu: Não tendes lido que aquele que 
 \added
 os
 \*added
- {tr,rp:fez}{n4:criou}{trnc:
-\fn
+ {tr,rp:fez}{n4:criou}
+{trnc:\fn
 N4: criou
-\*fn
- } no princípio, macho e fêmea os fez,
+\*fn}
+ no princípio, macho e fêmea os fez,
 \v Mt.19.5
 e disse: Portanto o homem deixará pai e mãe, e se unirá a sua mulher, e os dois serão uma única carne? 
 \ref
@@ -2753,65 +2787,66 @@ Mas Jesus disse: Deixai as crianças, e não as impeçais de vir a mim, porque d
 \v Mt.19.15
 Ele pôs as mãos sobre elas, e depois partiu-se dali.
 \v Mt.19.16
-E eis que alguém se {tr,rp:aproximou, e perguntou-lhe}{n4:aproximou-se dele, e perguntou}:{trnc:
-\fn
+E eis que alguém se {tr,rp:aproximou, e perguntou-lhe}{n4:aproximou-se dele, e perguntou}:
+{trnc:\fn
 TR, RP: aproximou, e perguntou-lhe - N4: aproximou-se dele, e perguntou
-\*fn
- } Bom Mestre, que bem farei para eu ter a vida eterna?
+\*fn}
+ “Bom Mestre, que bem farei para eu ter a vida eterna?”
 \v Mt.19.17
-E ele lhe disse: Por que me {tr,rp:chamas}{n4:perguntas sobre o que é} bom?{trnc:
-\fn
+E ele lhe disse: “Por que me {tr,rp:chamas}{n4:perguntas sobre o que é} bom?
+{trnc:\fn
 TR, RP: Por que me chamas bom? - N4: Por que me perguntas sobre o que é bom?
-\*fn
- } {tr,rp:Ninguém há bom, a não ser um}{n4:Somente um é bom}: Deus.{trnc:
-\fn
+\*fn}
+ {tr,rp:Ninguém há bom, a não ser um}{n4:Somente um é bom}: Deus.
+{trnc:\fn
 TR, RP: Ninguém há bom, a não ser um: Deus - N4: Somente um é bom: Deus
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 RP, TR contêm: "Por que me chamas bom? Ninguém há bom, a não ser um: Deus"
-\*fn
- } Porém se queres entrar na vida, guarda os mandamentos.
+\*fn}
+ Porém, se queres entrar na vida, guarda os mandamentos.”
 \v Mt.19.18
-Perguntou-lhe ele: Quais?E Jesus respondeu: Não cometerás homicídio, não adulterarás, não furtarás, não darás falso testemunho;
+Perguntou-lhe ele: “Quais?” E Jesus respondeu: “Não cometerás homicídio, não adulterarás, não furtarás, não darás 
+falso testemunho;
 \v Mt.19.19
 honra {tr,rp:ao teu pai e à 
 \added
 tua
 \*added
- mãe}{n4:pai e mãe};{trnc:
-\fn
+ mãe}{n4:pai e mãe};
+{trnc:\fn
 TR, RP: ao teu pai e à [tua] mãe - N4: pai e mãe
-\*fn
- } e amarás ao teu próximo como a ti mesmo.
+\*fn}
+ e amarás ao teu próximo como a ti mesmo.”
 \v Mt.19.20
-O rapaz lhe disse: Tenho guardado tudo isso{tr,rp: desde a minha juventude}.{trnc:
-\fn
+O rapaz lhe disse: “Tenho guardado tudo isso{tr,rp: desde a minha juventude}.
+{trnc:\fn
 N4 omite "desde a minha juventude"
-\*fn
- } Que me falta ainda?
+\*fn}
+ Que me falta ainda?”
 \v Mt.19.21
-Disse-lhe Jesus: Se queres ser completo, vai, vende o que tens, e dá aos pobres. Assim terás um tesouro no céu. Então vem, segue-me.
+Disse-lhe Jesus: “Se queres ser completo, vai, vende o que tens, e dá aos pobres. Assim terás um tesouro no céu. 
+Então vem, segue-me.”
 \v Mt.19.22
-Mas quando o rapaz ouviu esta palavra, foi embora triste, porque tinha muitos bens.
+Mas quando o rapaz ouviu essa palavra, foi embora triste, porque tinha muitos bens.
 \v Mt.19.23
-Jesus, então, disse aos seus discípulos: Em verdade vos digo que dificilmente o rico entrará no reino dos céus.
+Jesus, então, disse aos seus discípulos: “Em verdade vos digo que dificilmente um rico entrará no reino dos céus.
 \v Mt.19.24
 Aliás, eu vos digo que é mais fácil um camelo {tr,rp:passar}{n4:entrar}{trnc:
 \fn
 TR, RP: passar - N4: entrar
-\*fn
- } pela abertura de uma agulha do que o rico entrar no reino de Deus.
+\*fn}
+ pela abertura de uma agulha do que o rico entrar no reino de Deus.”
 \v Mt.19.25
-Quando os {tr,rp:seus}{trnc:
-\fn
+Quando os {tr,rp:seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos ouviram 
+\*fn}
+ discípulos ouviram 
 \added
 isso
 \*added
-,espantaram-se muito, e disseram: Quem, pois, pode se salvar?
+, espantaram-se muito, e disseram: “Quem, pois, pode se salvar?”
 \v Mt.19.26
 Jesus olhou 
 \added
@@ -3155,13 +3190,14 @@ vou
 \*added
 , senhor”, mas não foi}{n4:“Não quero”; mas depois se arrependeu, e foi}.
 \v Mt.21.31
-Qual dos dois fez a vontade do pai?Eles lhe responderam: O {tr,rp:primeiro}{n4:segundo}.
+Qual dos dois fez a vontade do pai? Eles lhe responderam: O {tr,rp:primeiro}{n4:segundo}.
 {trnc,n4:\fn
 Em alguns textos gregos há uma inversão das respostas do primeiro e do segundo filho nos versículos 29 e 30. Consequentemente, a resposta é "o primeiro" em TR e RP, e "o segundo" em N4
 \*fn}
- Jesus lhes disse: Em verdade vos digo que os cobradores de impostos e as prostitutas estão indo adiante de vós ao Reino de Deus.
+ Jesus lhes disse: Em verdade vos digo que os publicanos e as prostitutas estão indo adiante de vós ao Reino de Deus.
 \v Mt.21.32
-Pois João veio a vós mesmos no caminho de justiça, mas não crestes nele; enquanto que os cobradores de impostos e as prostitutas nele creram. Vós, porém, mesmo tendo visto 
+Pois João veio a vós mesmos no caminho de justiça, mas não crestes nele; enquanto que os publicanos e as 
+prostitutas nele creram. Vós, porém, mesmo tendo visto 
 \added
 isto
 \*added
@@ -3657,17 +3693,25 @@ isto
 \*added
  aconteça, mas ainda não é o fim.
 \v Mt.24.7
-Pois se levantará nação contra nação, e reino contra reino; e haverá fomes,{tr,rp: pestilências,}{trnc:
-\fn
+Pois se levantará nação contra nação, e reino contra reino; e haverá fomes,{tr,rp: pestilências,}
+{trnc:\fn
 N4 omite "pestilências"
-\*fn
- } e terremotos em diversos lugares.
+\*fn}
+ e terremotos em diversos lugares.
 \v Mt.24.8
 Mas todas estas coisas são o começo das dores.
 \v Mt.24.9
-Então vos entregarão para serdes afligidos, e vos matarão; e sereis odiados por todas as nações, por causa de meu nome.
+Então vos entregarão para serdes afligidos, e vos matarão; e sereis odiados por todas as nações, por causa 
+do meu nome.
 \v Mt.24.10
-E muitos se tornarão infiéis; e trairão uns aos outros, e uns aos outros se odiarão.
+E muitos tropeçarão na fé;
+\fn
+\key
+tropeçarão na fé
+\*key
+Tradicionalmente, se escandalizarão
+\*fn
+ e trairão uns aos outros, e uns aos outros se odiarão.
 \v Mt.24.11
 E muitos falsos profetas se levantarão, e enganarão a muitos.
 \v Mt.24.12
@@ -3677,21 +3721,21 @@ Mas o que perseverar até o fim, esse será salvo.
 \v Mt.24.14
 E este Evangelho do Reino será pregado em todo o mundo, como testemunho a todas as nações, e então virá o fim.
 \v Mt.24.15
-Portanto, quando virdes que a abominação da desolação, dita pelo profeta Daniel, está no lugar santo, (quem lê, entenda),
+Portanto, quando virdes que a abominação da desolação, dita pelo profeta Daniel, está no lugar 
+santo, (quem lê, entenda),
 \v Mt.24.16
 então os que estiveram na Judeia fujam para os montes;
 \v Mt.24.17
-o que estiver no sobre o telhado não desça para tirar {tr:alguma coisa}{rp,n4:as coisas}{trnc:
-\fn
+o que estiver no sobre o telhado não desça para tirar {tr:alguma coisa}{rp,n4:as coisas}
+{trnc:\fn
 TR: alguma coisa - RP, N4: as coisas
-\*fn
- } de sua casa;
+\*fn}
+ de sua casa;
 \v Mt.24.18
-e o que estiver no campo não volte atrás para tomar {tr,rp:as suas roupas}{n4:a sua capa}.{trnc:
-\fn
+e o que estiver no campo não volte atrás para tomar {tr,rp:as suas roupas}{n4:a sua capa}.
+{trnc:\fn
 N4: a sua capa
-\*fn
- }
+\*fn}
 \v Mt.24.19
 Mas ai das grávidas e das que amamentarem naqueles dias!
 \v Mt.24.20
@@ -3836,21 +3880,19 @@ ou: “bem-aventurado”
 \v Mt.24.47
 Em verdade vos digo que ele o porá sobre todos os seus bens.
 \v Mt.24.48
-Porém se aquele servo mau disser em seu coração: “Meu senhor está demorando{tr,rp: a chegar}”,{trnc:
-\fn
+Porém se aquele servo mau disser em seu coração: “Meu senhor está demorando{tr,rp: a chegar}”,
+{trnc:\fn
 N4 omite "a chegar"
-\*fn
- }
+\*fn}
 \v Mt.24.49
-e começar a espancar os servos companheiros {tr,rp: 
-\added
-}seus{tr,rp:
-\*added
- }{trnc:
-\fn
+e começar a espancar os 
+{tr,rp:\added}
+seus
+{tr,rp:\*added}
+{trnc:\fn
 N4 inclui "seus", sem colchetes
-\*fn
- }, e a comer, e a beber com os beberrões,
+\*fn}
+ companheiros de serviço, e a comer, e a beber com os beberrões,
 \v Mt.24.50
 o senhor daquele servo chegará num dia que ele não espera, e numa hora que ele não sabe,
 \v Mt.24.51
@@ -3864,25 +3906,25 @@ N4 inverte a ordem de "prudentes" e "tolas"
 \*fn
  }
 \v Mt.25.3
-As tolas, quando tomaram as{tr,rp: suas}{trnc:
-\fn
+As tolas, quando tomaram as{tr,rp: suas}
+{trnc:\fn
 N4 omite "suas"
-\*fn
- } lâmpadas, não tomaram azeite consigo.
+\*fn}
+ lâmpadas, não tomaram azeite consigo.
 \v Mt.25.4
-Mas as prudentes tomaram azeite nos{tr,rp: seus}{trnc:
-\fn
+Mas as prudentes tomaram azeite nos{tr,rp: seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } frascos, com as suas lâmpadas.
+\*fn}
+ frascos, com as suas lâmpadas.
 \v Mt.25.5
 O noivo demorou, por isso todas cochilaram e adormeceram.
 \v Mt.25.6
-Mas à meia-noite houve um grito: “Eis{tr,rp: que vem}{trnc:
-\fn
+Mas à meia-noite houve um grito: “Eis{tr,rp: que vem}
+{trnc:\fn
 N4 omite "que vem"
-\*fn
- } o noivo! Ide ao seu encontro!”.
+\*fn}
+ o noivo! Ide ao seu encontro!”.
 \v Mt.25.7
 Então todas aquelas virgens se levantaram, e prepararam suas lâmpadas.
 \v Mt.25.8
@@ -3900,37 +3942,36 @@ Depois vieram também as outras virgens, dizendo: “Senhor, Senhor, abre-nos!�
 \v Mt.25.12
 Mas ele respondeu: “Em verdade vos digo que não vos conheço”.
 \v Mt.25.13
-Portanto, vigiai, porque não sabeis o dia nem a hora{tr,rp: em que o Filho do homem virá}.{trnc:
-\fn
+Portanto, vigiai, porque não sabeis o dia nem a hora{tr,rp: em que o Filho do homem virá}.
+{trnc:\fn
 N4 omite "em que o Filho do homem virá"
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP contêm: "a hora em que o Filho do homem virá"
-\*fn
- }
+\*fn}
 \v Mt.25.14
 Pois 
 \added
 é
 \*added
- como um homem, que partindo-se para fora do país, chamou seus servos, e lhes entregou os seus bens.
+ como um homem, que partindo para fora do país, chamou seus servos, e lhes entregou os seus bens.
 \v Mt.25.15
-E a um deu cinco talentos, a outro dois, e ao terceiro um, a cada um conforme a sua habilidade, e{tr,rp: logo
-\fn
+E a um deu cinco talentos, a outro dois, e ao terceiro um, a cada um conforme a sua habilidade, e{tr,rp: logo}
+{trnc:\fn
 N4 omite "logo"
-\*fn
- } depois partiu em viagem.
+\*fn}
+ depois partiu em viagem.
 \v Mt.25.16
-{tr,rp:Em}{n4:Logo em}{trnc:
-\fn
+{tr,rp:Em}{n4:Logo em}
+{trnc:\fn
 N4: Logo em
-\*fn
- } seguida, o que havia recebido cinco talentos foi fazer negócios com eles, e {tr,rp:obteve outros cinco talentos}{n4:ganhou outros cinco}{trnc:
-\fn
+\*fn}
+ seguida, o que havia recebido cinco talentos foi fazer negócios com eles, e {tr,rp:obteve outros cinco talentos}
+{n4:ganhou outros cinco}
+{trnc:\fn
 TR,RP: obteve outros cinco talentos - N4: ganhou outros cinco
-\*fn
- }.
+\*fn}
+.
 \v Mt.25.17
 E, semelhantemente, o que 
 \added
@@ -3940,9 +3981,10 @@ havia recebido
 \v Mt.25.18
 Mas o que tinha recebido um foi cavar a terra, e escondeu o dinheiro do seu senhor.
 \v Mt.25.19
-Muito tempo depois, o senhor daqueles servos veio, e fez contas com eles.
+Muito tempo depois, o senhor daqueles servos veio fazer contas com eles.
 \v Mt.25.20
-O que havia recebido cinco talentos chegou lhe trazendo outros cinco talentos, e disse: ”Senhor, cinco talentos me entregaste, eis que ganhei com eles outros cinco talentos”.
+O que havia recebido cinco talentos chegou trazendo-lhe outros cinco talentos, e disse: ”Senhor, cinco talentos 
+me entregaste, eis que ganhei com eles outros cinco talentos”.
 \v Mt.25.21
 E o seu senhor lhe disse: “ 
 \added
@@ -3950,15 +3992,14 @@ Muito
 \*added
  bem, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te porei; entra na alegria do teu senhor”.
 \v Mt.25.22
-E chegando-se também o que {n4: 
-\added
-}havia recebido{n4:
-\*added
- }{trnc:
-\fn
+E chegando-se também o que 
+{n4:\added}
+havia recebido
+{n4:\*added}
+{trnc:\fn
 N4 omite "havia recebido"
-\*fn
- } dois talentos, disse: “Senhor, dois talentos me entregaste, eis que ganhei com eles outros dois talentos”.
+\*fn}
+ dois talentos, disse: “Senhor, dois talentos me entregaste, eis que ganhei com eles outros dois talentos”.
 \v Mt.25.23
 Seu senhor lhe disse: “ 
 \added
@@ -3966,13 +4007,14 @@ Muito
 \*added
  bem, servo bom e fiel! Sobre o pouco foste fiel, sobre o muito te porei; entra na alegria do teu senhor”.
 \v Mt.25.24
-Mas, chegando também o que havia recebido um talento, disse: “Senhor, eu te conhecia, que és homem duro, que colhes onde não semeaste, e ajuntas onde não espalhaste;
+Mas, chegando também o que havia recebido um talento, disse: “Senhor, eu te conhecia, que és homem duro, que colhes 
+onde não semeaste, e ajuntas onde não espalhaste;
 \v Mt.25.25
 E eu, atemorizado, fui e escondi o teu talento na terra; eis aqui tens o que é teu”.
 \v Mt.25.26
 Porém seu senhor lhe respondeu: “Servo mau e preguiçoso! Sabias que colho onde não semeei, e ajunto onde não espalhei.
 \v Mt.25.27
-Devias, portanto, ter depositado o meu dinheiro como os banqueiros e, quando eu voltasse, receberia o que é meu com juros.
+Devias, portanto, ter depositado o meu dinheiro com os banqueiros e, quando eu voltasse, receberia o que é meu com juros.
 \v Mt.25.28
 Por isso, tirai dele o talento, e dai-o ao que tem dez talentos”.
 \v Mt.25.29
@@ -3980,11 +4022,11 @@ Pois a todo aquele que tiver, lhe será dado, e terá em abundância; porém ao 
 \v Mt.25.30
 “E lançai o servo inútil às trevas de fora (ali haverá pranto e ranger de dentes)”.
 \v Mt.25.31
-E quando o Filho do homem vier em sua glória, e todos os{tr,rp: santos}{trnc:
-\fn
+E quando o Filho do homem vier em sua glória, e todos os{tr,rp: santos}
+{trnc:\fn
 N4 omite "santos"
-\*fn
- } anjos com ele, então ele se assentará sobre o trono de sua glória.
+\*fn}
+ anjos com ele, então ele se assentará sobre o trono de sua glória.
 \v Mt.25.32
 E serão ajuntadas diante dele todas as nações, e separará 
 \added
@@ -3998,7 +4040,6 @@ Então o Rei dirá o rei aos que estiverem à sua direita: “Vinde, benditos de
 \v Mt.25.35
 Pois tive fome, e me destes de comer; tive sede, e me destes de beber; fui forasteiro, e me acolhestes;
 \v Mt.25.36
- 
 \added
 estive
 \*added
@@ -4046,11 +4087,11 @@ estive
 \*added
  doente, e na prisão, e não me visitastes.
 \v Mt.25.44
-Então também eles{tr: lhe}{trnc:
-\fn
+Então também eles{tr: lhe}
+{trnc:\fn
 RP, N4 omitem "lhe"
-\*fn
- } perguntarão: “Senhor, quando te vimos com fome, ou com sede, ou forasteiro, ou nu, ou doente, ou na prisão, e não te servimos?”
+\*fn}
+ perguntarão: “Senhor, quando te vimos com fome, ou com sede, ou forasteiro, ou nu, ou doente, ou na prisão, e não te servimos?”
 \v Mt.25.45
 Então ele lhes responderá, dizendo: “Em verdade vos digo que, todas as vezes que não fizestes a um destes menores, não fizestes a mim”.
 \v Mt.25.46
@@ -4060,11 +4101,11 @@ E aconteceu que, quando Jesus terminou todas estas palavras, disse aos seus disc
 \v Mt.26.2
 Vós bem sabeis que daqui a dois dias é a Páscoa, e o Filho do homem será entregue para ser crucificado.
 \v Mt.26.3
-Então os chefes dos sacerdotes{tr,rp:, os escribas,}{trnc:
-\fn
+Então os chefes dos sacerdotes{tr,rp:, os escribas,}
+{trnc:\fn
 N4 omite "os escribas"
-\*fn
- } e os anciãos do povo se reuniram na casa do sumo sacerdote, que se chamava Caifás.
+\*fn}
+ e os anciãos do povo se reuniram na casa do sumo sacerdote, que se chamava Caifás.
 \v Mt.26.4
 E conversaram a fim de, usando mentira,
 \fn
@@ -4092,17 +4133,17 @@ ou: reclinado
 \*fn
  à mesa.
 \v Mt.26.8
-E quando os{tr,rp: seus}{trnc:
-\fn
+E quando os{tr,rp: seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos viram, ficaram indignados, dizendo: Para que este desperdício?
+\*fn}
+ discípulos viram, ficaram indignados, dizendo: Para que este desperdício?
 \v Mt.26.9
-Pois{tr,rp: esse óleo perfumado}{n4:isso}{trnc:
-\fn
+Pois{tr,rp: esse óleo perfumado}{n4:isso}
+{trnc:\fn
 TR, RP: esse óleo perfumado - N4 - isso
-\*fn
- } podia ter sido vendido por muito, e o dinheiro dado aos pobres.
+\*fn}
+ podia ter sido vendido por muito, e o dinheiro dado aos pobres.
 \v Mt.26.10
 Porém Jesus, sabendo 
 \added
@@ -4164,11 +4205,10 @@ assentou
 \*key
 ou: reclinou
 \*fn
- à mesa com os doze{n4: discípulos}.{trnc
-\fn
+ à mesa com os doze{n4: discípulos}.
+{trnc\fn
 N4: doze discípulos
-\*fn
- }
+\*fn}
 \v Mt.26.21
 E enquanto comiam, disse: Em verdade vos digo que um de vós me trairá.
 \fn
@@ -4178,11 +4218,11 @@ trairá
 ou: entregará – também no v. 23
 \*fn
 \v Mt.26.22
-Eles ficaram muito tristes, e cada um{tr,rp: deles}{trnc:
-\fn
+Eles ficaram muito tristes, e cada um{tr,rp: deles}
+{trnc:\fn
 N4 omite "deles"
-\*fn
- } começou a lhe perguntar: Por acaso sou eu, Senhor?
+\*fn}
+ começou a lhe perguntar: Por acaso sou eu, Senhor?
 \v Mt.26.23
 E ele respondeu: O que mete comigo a mão no prato, esse me trairá.
 \v Mt.26.24
@@ -4194,47 +4234,46 @@ Jesus
 \*added
  lhe disse: Tu o disseste.
 \v Mt.26.26
-E enquanto comiam, Jesus tomou o pão, {tr,n4:abençoou-o}{rp:deu graças por aquilo},{trnc:
-\fn
+E enquanto comiam, Jesus tomou o pão, {tr,n4:abençoou-o}{rp:deu graças por aquilo},
+{trnc:\fn
 TR, N4: abençoou-o - RP: deu graças por aquilo
-\*fn
- }{rp:
-\fn
+\*fn}
+{rp:\fn
 N4, TR contém "abençoou-o" em lugar de "deu graças por aquilo"
-\*fn
- } e o partiu. Então o deu aos discípulos, e disse: Tomai, comei; isto é o meu corpo.
+\*fn}
+ e o partiu. Então o deu aos discípulos, e disse: Tomai, comei; isto é o meu corpo.
 \v Mt.26.27
-Em seguida tomou {tr,rp:o}{n4:um}{trnc:
-\fn
+Em seguida tomou {tr,rp:o}{n4:um}
+{trnc:\fn
 N4: um
-\*fn
- } cálice, deu graças, e o deu a eles, dizendo: Bebei dele todos,
+\*fn}
+ cálice, deu graças, e o deu a eles, dizendo: Bebei dele todos,
 \v Mt.26.28
 porque este é o meu sangue, o 
 \added
 sangue
 \*added
- do{tr,rp: novo}{trnc:
-\fn
+ do{tr,rp: novo}
+{trnc:\fn
 \key
 N4 omite "novo"
 \*key
 Compare com Lucas 22:20
-\*fn
- } testamento,
+\*fn}
+ testamento,
 \fn
 \key
 testamento
 \*key
 ou: pacto
 \*fn
- {n4:
-\fn
+{n4:\fn
 TR, RP contêm "novo testamento" - Compare com Lucas 22:20
-\*fn
- } o qual é derramado por muitos, para o perdão de pecados.
+\*fn}
+ o qual é derramado por muitos, para o perdão de pecados.
 \v Mt.26.29
-E eu vos digo que desde agora não beberei deste fruto da vide, até aquele dia, quando convosco o beber, novo, no reino do meu Pai.
+E eu vos digo que desde agora não beberei deste fruto da vide, até aquele dia, quando convosco o beber, novo, 
+no reino do meu Pai.
 \v Mt.26.30
 E depois de cantarem um hino,
 \fn
@@ -4245,17 +4284,18 @@ ou: salmo
 \*fn
  saíram para o monte das Oliveiras.
 \v Mt.26.31
-Então Jesus lhes disse: Todos vós vos falhareis em serdes fiéis a mim esta noite; porque está escrito: “Ferirei o pastor, e as ovelhas do rebanho serão dispersas”.
+Então Jesus lhes disse: Todos vós falhareis comigo
+\fn
+\key
+falhareis comigo
+\*key
+Ou: me abandonareis. Tradicionalmente: “vós vos encandalizareis de mim”
+\*fn
+ esta noite; porque está escrito: “Ferirei o pastor, e as ovelhas do rebanho serão dispersas”.
 \v Mt.26.32
 Mas, depois que eu for ressuscitado, irei adiante de vós para a Galileia.
 \v Mt.26.33
-Pedro, porém, respondeu-lhe: Ainda que todos falhem contigo, eu nunca falharei em minha fidelidade.
-\fn
-\key
-falharei em minha fidelidade
-\*key
-tradicionalmente: nunca me escandalizarei
-\*fn
+Pedro, porém, respondeu-lhe: Ainda que todos falhem contigo, eu nunca falharei.
 \v Mt.26.34
 Jesus lhe disse: Em verdade te digo que, nesta mesma noite, antes do galo cantar, tu me negarás três vezes.
 \v Mt.26.35
@@ -4265,13 +4305,14 @@ Então Jesus veio com eles a um lugar chamado Getsêmani, e disse aos discípulo
 \v Mt.26.37
 Enquanto trazia consigo Pedro e os dois filhos de Zebedeu, ele começou a se entristecer e a se angustiar muito.
 \v Mt.26.38
-Então{rp: Jesus}{trnc:
-\fn
+Então{rp: Jesus}
+{trnc:\fn
 RP: Então Jesus
-\*fn
- } lhes disse: Minha alma está completamente triste até a morte. Ficai aqui, e vigiai comigo.
+\*fn}
+ lhes disse: Minha alma está completamente triste até a morte. Ficai aqui, e vigiai comigo.
 \v Mt.26.39
-E indo um pouco mais adiante, prostrou-se sobre o seu rosto, orando, e dizendo: Meu Pai, se é possível, passe de mim este cálice; porém, não 
+E indo um pouco mais adiante, prostrou-se sobre o seu rosto, orando, e dizendo: Meu Pai, se é possível, passe de 
+mim este cálice; porém, não 
 \added
 seja
 \*added
@@ -4279,9 +4320,10 @@ seja
 \added
 queres
 \*added
- .
+.
 \v Mt.26.40
-Então voltou aos seus discípulos, e os encontrou dormindo; e disse a Pedro: Então, nem sequer uma hora pudestes vigiar comigo?
+Então voltou aos seus discípulos, e os encontrou dormindo; e disse a Pedro: Então, nem sequer uma hora pudestes 
+vigiar comigo?
 \v Mt.26.41
 Vigiai e orai, para que não entreis em tentação. De fato, o espírito 
 \added
@@ -4293,39 +4335,39 @@ está
 \*added
  fraca.
 \v Mt.26.42
-Ele foi orar pela segunda vez, dizendo: Meu Pai, se este {n4: 
-\added
-}cálice{n4:
-\*added
- }{trnc:
-\fn
+Ele foi orar pela segunda vez, dizendo: Meu Pai, se este 
+{n4:\added}
+cálice
+{n4:\*added}
+{trnc:\fn
 N4 omite "cálice"
-\*fn
- } não pode passar de mim sem que eu o beba, faça-se a tua vontade.
+\*fn}
+ não pode passar de mim sem que eu o beba, faça-se a tua vontade.
 \v Mt.26.43
-Quando voltou{n4: outra vez}, achou-os{tr,rp: outra vez}{trnc:
-\fn
+Quando voltou{n4: outra vez}, achou-os{tr,rp: outra vez}
+{trnc:\fn
 N4 transpõe "outra vez" para antes de "voltou"
-\*fn
- } dormindo, pois os seus olhos estavam pesados.
+\*fn}
+ dormindo, pois os seus olhos estavam pesados.
 \v Mt.26.44
-Então os deixou, e foi orar pela terceira vez, dizendo{n4: novamente}{trnc:
-\fn
+Então os deixou, e foi orar pela terceira vez, dizendo{n4: novamente}
+{trnc:\fn
 N4: dizendo novamente
-\*fn
- } as mesmas palavras.
+\*fn}
+ as mesmas palavras.
 \v Mt.26.45
-Depois veio aos{tr,rp: seus}{trnc:
-\fn
+Depois veio aos{tr,rp: seus}
+{trnc:\fn
 N4 omite "seus"
-\*fn
- } discípulos, e disse-lhes: Agora dormi e descansai. Eis que chegou a hora em que o Filho do homem é entregue em mãos de pecadores.
+\*fn}
+ discípulos, e disse-lhes: Agora dormi e descansai.
 \fn
 \key
 Agora dormi, e descansai.
 \*key
 Ou: “Ainda dormis, e descansais?”
 \*fn
+ Eis que chegou a hora em que o Filho do homem é entregue em mãos de pecadores.
 \v Mt.26.46
 Levantai-vos, vamos! Eis que chegou o que me trai.
 \v Mt.26.47
@@ -4350,17 +4392,16 @@ estavam
 \*added
  com Jesus estendeu a mão, puxou de sua espada, e feriu o servo do sumo sacerdote, cortando-lhe uma orelha.
 \v Mt.26.52
-Jesus, então, lhe disse: Põe de volta tua espada ao seu lugar, pois todos os que pegarem espada, pela espada {tr,n4:perecerão}{rp:morrerão}.{trnc:
-\fn
+Jesus, então, lhe disse: Põe de volta tua espada ao seu lugar, pois todos os que pegarem espada, pela espada {tr,n4:perecerão}{rp:morrerão}.
+{trnc:\fn
 N4: morrerão
-\*fn
- }
+\*fn}
 \v Mt.26.53
-Ou, por acaso, pensas tu que eu não posso{tr,rp: agora}{trnc:
-\fn
+Ou, por acaso, pensas tu que eu não posso{tr,rp: agora}
+{trnc:\fn
 N4 transpõe "agora" para depois de "daria"
-\*fn
- } orar ao meu Pai, e ele me daria{n4: agora} mais de doze legiões de anjos?
+\*fn}
+ orar ao meu Pai, e ele me daria{n4: agora} mais de doze legiões de anjos?
 \v Mt.26.54
 Como, pois, se cumpririam as Escrituras 
 \added
@@ -4368,11 +4409,11 @@ que dizem
 \*added
  que assim tem que ser feito?
 \v Mt.26.55
-Naquela hora Jesus disse às multidões: Como a um ladrão saístes com espadas e bastões para me prender? Todo dia eu me sentava{tr,rp: convosco},{trnc:
-\fn
+Naquela hora Jesus disse às multidões: Como a um ladrão saístes com espadas e bastões para me prender? Todo dia eu me sentava{tr,rp: convosco},
+{trnc:\fn
 N4 omite "convosco"
-\*fn
- } ensinando no templo, e não me prendestes.
+\*fn}
+ ensinando no templo, e não me prendestes.
 \v Mt.26.56
 Porém tudo isto aconteceu para que as Escrituras dos profetas se cumpram.Então todos os discípulos o abandonaram, e fugiram.
 \v Mt.26.57
@@ -4699,6 +4740,7 @@ aproximadamente 3 horas da tarde
 \v Mt.27.46
 E perto da hora nona, Jesus gritou em alta voz: Eli, Eli, {tr:lamá}{rp:limá}{n4:lemá}{trnc:
 \fn
+
 RP: limá; N4: lemá
 \*fn
  } sabactâni?, Isto é: Deus meu, Deus meu, porque me desamparaste?

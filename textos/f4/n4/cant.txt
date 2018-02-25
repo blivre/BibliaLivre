@@ -328,16 +328,16 @@ e
 \v Ct.5.8
 Eu vos ordeno, filhas de Jerusalém: jurai que, se achardes o meu amado, dizei a ele que estou doente de amor.
 \v Ct.5.9
- 
 \added
 Moças
 \*added
- : Ó tu mais bela entre as mulheres, como é o teu amado, ao qual tu amas mais do que qualquer outro? Como é este teu amado, mais amado do que qualquer outro, pelo qual assim nos ordenas jurar?
+: Ó, tu, mais bela entre as mulheres, como é o teu amado, a quem tu amas mais do que qualquer outro? Como é este 
+teu amado, mais amado que qualquer outro, por quem assim nos mandas jurar?
 \v Ct.5.10
 \added
 Ela
 \*added
- : Meu amado é radiante e rosado; ele se destaca entre dez mil.
+: Meu amado é radiante e rosado; ele se destaca entre dez mil.
 \v Ct.5.11
 Sua cabeça é 
 \added
@@ -349,7 +349,7 @@ Seus olhos são como pombas junto às correntes de águas, lavados em leite, col
 \added
 joias
 \*added
- .
+.
 \v Ct.5.13
 As laterais de seu rosto como um canteiro de especiarias, 
 \added
@@ -447,7 +447,7 @@ Moças
 \added
 Ele
 \*added
- :  Por que 
+:  Por que 
 \added
 quereis
 \*added
@@ -517,7 +517,7 @@ como
 \added
 de uvas
 \*added
- .
+.
 \v Ct.7.8
 Eu disse: Subirei à palmeira, pegarei dos seus ramos; e então teus seios serão como os cachos da videira, e a fragrância de teu nariz como o das maçãs.
 \v Ct.7.9
@@ -551,28 +551,30 @@ Esteja sua mão esquerda debaixo de minha cabeça, e sua direita me abrace.
 \v Ct.8.4
 Eu vos ordeno, filhas de Jerusalém: jurai que não acordeis, nem desperteis ao amor, até que ele queira.
 \v Ct.8.5
- 
 \added
-Outras pessoas
+Outros
 \*added
- : Quem é esta, que sobe da terra desabitada, reclinada sobre seu amado? 
+: Quem é esta, que sobe da terra desabitada, reclinada sobre seu amado? 
 \added
 Ela
 \*added
-:  Debaixo de uma macieira te despertei; ali tua mãe te teve com dores; ali te deu à luz aquela que te gerou.
+: Debaixo de uma macieira te despertei; ali tua mãe te teve com dores; ali te deu à luz aquela que te gerou.
 \v Ct.8.6
-Põe-me como selo sobre o teu coração, como selo sobre teu braço; porque o amor é forte como a morte, e o ciúmes é duro 
-como o Xeol; suas brasas são brasas de fogo, labaredas poderosas. 
+Põe-me como selo sobre o teu coração, como selo sobre o teu braço; porque o amor é forte como a morte, e o ciúme
+\fn
+Ou: paixão
+\*fn
+ é severo como o Xeol; suas brasas são brasas de fogo, labaredas intensas. 
 \fn
 \key
-labaredas poderosas
+labaredas intensas
 \*key
-trad. alternativa labaredas do SENHOR 
+Trad. alternativa: labaredas do SENHOR 
 \*fn
 \v Ct.8.7
-Muitas águas não poderiam apagar este amor, nem os rios afogá-lo; ainda que alguém desse todos os bens de sua casa por este amor, certamente o desprezariam.
+Muitas águas não poderiam apagar este amor, nem os rios afogá-lo; ainda que alguém desse todos os bens de sua casa 
+por este amor, certamente o desprezariam.
 \v Ct.8.8
- 
 \added
 Irmãos dela
 \*added

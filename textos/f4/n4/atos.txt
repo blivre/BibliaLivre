@@ -298,7 +298,8 @@ para pedir
 \*added
  esmola perto da porta formosa do Templo; e ficaram cheios de surpresa e espanto, por causa do que tinha lhe acontecido.
 \v At.3.11
-E o aleijado que tinha sido curado, tendo se apegado a Pedro e a João, todo o povo correu maravilhado a eles ao alpendre, que se chama de Salomão.
+E o aleijado que tinha sido curado, tendo se apegado a Pedro e a João, todo o povo correu maravilhado a eles ao 
+pórtico, que se chama de Salomão.
 \v At.3.12
 Quando Pedro viu 
 \added
@@ -586,9 +587,10 @@ a
 \v At.5.11
 E veio um grande temor em toda a igreja, e em todos que ouviram estas coisas.
 \v At.5.12
-E pelas mãos dos apóstolos foram feitos muitos sinais e milagres entre o povo. E estavam todos em concordância no alpendre de Salomão.
+E pelas mãos dos apóstolos foram feitos muitos sinais e milagres entre o povo. E estavam todos em concordância no 
+pórtico de Salomão.
 \v At.5.13
-Mas dos outros, ninguém ousava se juntar a eles; porém o povo os honrava muito.
+Mas dos outros, ninguém ousava se juntar a eles; porém o povo os estimava grandemente.
 \v At.5.14
 E cada vez mais os que criam no Senhor se aumentavam, multidões tanto de homens como de mulheres.
 \v At.5.15
@@ -2620,7 +2622,8 @@ seja
 \*added
  sobre vossa cabeça; eu estou limpo; e a partir de agora irei aos gentios.
 \v At.18.7
-E tendo saído dali, entrou na cada de um, de nome Justo, que servia a Deus, cuja casa era vizinha à sinagoga.
+E tendo saído dali, entrou na cada de um, de nome Tito Justo,
+ que servia a Deus, cuja casa era vizinha à sinagoga.
 \v At.18.8
 E Crispo, o chefe da sinagoga, creu no Senhor com toda a sua casa; e muitos dos coríntios, tendo ouvido, creram e foram batizados.
 \v At.18.9
@@ -2648,7 +2651,7 @@ Mas se a questão é de palavra
 \added
 s
 \*added
-,e de nomes, e da Lei que há entre vós, vede 
+, e de nomes, e da Lei que há entre vós, vede 
 \added
 -o
 \*added
@@ -2731,9 +2734,9 @@ já
 \added
 desde que
 \*added
- crestes?E eles lhe disseram: Nós nem tínhamos ouvido falar que havia Espírito Santo.
+ crestes? E eles lhe disseram: Nós nem tínhamos ouvido falar que havia Espírito Santo.
 \v At.19.3
-E ele lhes disse: Em que vós fostes batizados?E eles disseram: No batismo de João.
+E ele lhes disse: Em que vós fostes batizados? E eles disseram: No batismo de João.
 \v At.19.4
 Então Paulo disse: João verdadeiramente batizou 
 \added

@@ -434,9 +434,9 @@ Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com 
 \v Gn.8.19
 Todos os animais, e todo réptil e toda ave, tudo o que se move sobre a terra segundo suas espécies, saíram da arca.
 \v Gn.8.20
-E edificou Noé um altar ao SENHOR e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocausto no altar.
+E edificou Noé um altar ao SENHOR e tomou de todo animal limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar.
 \v Gn.8.21
-E percebeu o SENHOR cheiro suave; e disse o SENHOR em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz.
+E percebeu o SENHOR cheiro suave; e o SENHOR disse em seu coração: Não voltarei mais a amaldiçoar a terra por causa do ser humano; porque o intento do coração do ser humano é mau desde sua juventude: nem voltarei mais a destruir todo vivente, como fiz.
 \v Gn.8.22
 Enquanto a terra durar, a sementeira e a colheita, o frio e calor, verão e inverno, dia e noite, não cessarão.
 \v Gn.9.1
@@ -626,19 +626,27 @@ E tomou Terá a Abrão seu filho, e a Ló filho de Harã, filho de seu filho, e 
 \v Gn.11.32
 E foram os dias de Terá duzentos e cinco anos; e morreu Terá em Harã.
 \v Gn.12.1
-Porém o SENHOR disse a Abrão: Vai-te de tua terra e de tua parentela, e da casa de teu pai, à terra que te mostrarei;
+O SENHOR disse a Abrão: “Sai da tua terra, e da tua parentela, e da casa de teu pai, para terra que eu te mostrarei.
 \v Gn.12.2
-E farei de ti uma grande nação, e te abençoarei, e engrandecerei teu nome, e serás bênção:
+E farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome, e tu serás uma bênção.
 \v Gn.12.3
-E abençoarei aos que te abençoarem, e aos que te amaldiçoarem amaldiçoarei: e serão benditas em ti todas as famílias da terra.
+E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti todas as famílias da terra 
+serão benditas.”
 \v Gn.12.4
-E foi-se Abrão, como o SENHOR lhe disse; e foi com ele Ló: e era Abrão de idade de setenta e cinco anos quando saiu de Harã.
+Assim se foi Abrão, como o SENHOR lhe dissera; e Ló foi com ele. Abrão tinha setenta e cinco anos de idade quando saiu 
+de Harã.
 \v Gn.12.5
-E tomou Abrão a Sarai sua mulher, e a Ló filho de seu irmão, e todos os seus pertences que haviam ganhado, e as almas que haviam adquirido em Harã, e saíram para ir à terra de Canaã; e à terra de Canaã chegaram.
+E Abrão tomou a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os seus pertences que haviam ganhado, e 
+as pessoas
+\fn
+Lit. almas
+\*fn
+ que eles haviam adquirido em Harã, e saíram para ir à terra de Canaã; e à terra de Canaã chegaram.
 \v Gn.12.6
-E passou Abrão por aquela terra até o lugar de Siquém, até o carvalho de Moré: e os cananeus estavam então na terra.
+E passou Abrão por aquela terra até o lugar de Siquém, até o carvalho de Moré; e os cananeus estavam então na terra.
 \v Gn.12.7
-E apareceu o SENHOR a Abrão, e lhe disse: À tua descendência darei esta terra. E edificou ali um altar ao SENHOR, que lhe havia aparecido.
+E o SENHOR apareceu a Abrão, e lhe disse: À tua descendência darei esta terra. E ele edificou ali um altar ao 
+SENHOR, que lhe havia aparecido.
 \v Gn.12.8
 E passou-se dali a um monte ao oriente de Betel, e estendeu sua tenda, tendo a Betel ao ocidente e Ai ao oriente: e edificou ali altar ao SENHOR e invocou o nome do SENHOR.
 \v Gn.12.9
@@ -901,7 +909,8 @@ Que se traga agora um pouco de água, e lavai vossos pés; e recostai-vos debaix
 \v Gn.18.5
 E trarei um bocado de pão, e confortai vosso coração; depois passareis; pois por isso passastes perto de vosso servo.
 \v Gn.18.6
-Então Abraão foi depressa à tenda a Sara, e lhe disse: Toma logo três medidas de flor de farinha, amassa e faze pães cozidos debaixo das cinzas.
+Então Abraão foi depressa à tenda a Sara, e lhe disse: Toma logo três medidas de boa farinha, amassa e faz 
+pães cozidos.
 \v Gn.18.7
 E correu Abraão às vacas, e tomou um bezerro tenro e bom, e deu-o ao jovem, e deu-se este pressa a prepará-lo.
 \v Gn.18.8
@@ -1137,9 +1146,10 @@ E plantou Abraão um bosque em Berseba, e invocou ali o nome do SENHOR Deus eter
 \v Gn.21.34
 E morou Abraão na terra dos filisteus por muitos dias.
 \v Gn.22.1
-E aconteceu depois destas coisas, que provou Deus a Abraão, e lhe disse: Abraão. E ele respondeu: Eis-me aqui.
+E aconteceu, depois dessas coisas, que Deus provou Abraão, e disse-lhe: Abraão. E ele respondeu: Eis-me aqui.
 \v Gn.22.2
-E disse: Toma agora teu filho, teu único, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre um dos montes que eu te direi.
+E disse: Toma agora teu filho, teu único, Isaque, a quem amas, e vai à terra de Moriá, e oferece-o ali em holocausto 
+sobre um dos montes que eu te direi.
 \v Gn.22.3
 E Abraão se levantou manhã muito cedo, e preparou seu asno, e tomou consigo dois servos seus, e a Isaque seu filho: e cortou lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe disse.
 \v Gn.22.4
@@ -1175,13 +1185,14 @@ Em tua descendência serão abençoadas todas as nações da terra, porquanto ob
 \v Gn.22.19
 E voltou Abraão a seus servos, e levantaram-se e se foram juntos a Berseba; e habitou Abraão em Berseba.
 \v Gn.22.20
-E aconteceu depois destas coisas, que foi dada notícia a Abraão, dizendo: Eis que também Milca havia dado à luz filhos a Naor teu irmão:
+E aconteceu depois destas coisas, que foi dada notícia a Abraão, dizendo: Eis que também Milca havia dado à luz filhos a 
+teu irmão Naor:
 \v Gn.22.21
-A Uz seu primogênito, e a Buz seu irmão, e a Quemuel pai de Arã.
+A Uz, seu primogênito, e a Buz, seu irmão, e a Quemuel, pai de Arã.
 \v Gn.22.22
 E a Quésede, e a Hazo, e a Pildas, e a Jidlafe, e a Betuel.
 \v Gn.22.23
-E Betuel gerou a Rebeca. Estes oito deu à luz Milca a Naor, irmão de Abraão.
+E Betuel gerou Rebeca. Milca deu à luz estes oito de Naor, irmão de Abraão.
 \v Gn.22.24
 E sua concubina, que se chamava Reumá, deu à luz também a Tebá, e a Gaã, e a Taás, e a Maaca.
 \v Gn.23.1
@@ -1610,37 +1621,45 @@ E viu Esaú como Isaque havia abençoado a Jacó, e lhe havia enviado a Padã-Ar
 \v Gn.28.7
 E que Jacó havia obedecido a seu pai e a sua mãe, e se havia ido a Padã-Arã.
 \v Gn.28.8
-Viu também Esaú que as filhas de Canaã pareciam mal a Isaque seu pai;
+Esaú viu que as filhas de Canaã pareciam mal ao seu pai Isaque.
 \v Gn.28.9
-E foi-se Esaú a Ismael, e tomou para si por mulher a Maalate, filha de Ismael, filho de Abraão, irmã de Nebaiote, além de suas outras mulheres.
+Então Esaú foi a Ismael, e tomou para si por mulher, além de suas outras mulheres, a Maalate, filha de Ismael, filho 
+de Abraão, irmã de Nebaiote.
 \v Gn.28.10
-E saiu Jacó de Berseba, e foi a Harã;
+E Jacó saiu de Berseba, e foi a Harã;
 \v Gn.28.11
-E encontrou com um lugar, e dormiu ali porque já o sol se havia posto: e tomou das pedras daquele lugar e pôs à sua cabeceira, e deitou-se naquele lugar.
+ele chegou a um lugar, e ali dormiu, porque o sol já se havia posto. E tomou uma das pedras daquele lugar e a pôs 
+por sua cabeceira, e deitou-se naquele lugar.
 \v Gn.28.12
-E sonhou, e eis uma escada que estava apoiada em terra, e seu topo tocava no céu: e eis que anjos de Deus subiam e desciam por ela.
+E sonhou, e eis uma escada que estava posta na terra, e seu topo tocava no céu; e eis que anjos de Deus subiam e 
+desciam por ela.
 \v Gn.28.13
-E eis que o SENHOR estava no alto dela, o qual disse: Eu sou o SENHOR, o Deus de Abraão teu pai, e o Deus de Isaque: a terra em que estás deitado a darei a ti e à tua descendência.
+E eis que o SENHOR estava no alto dela, e disse: “Eu sou o SENHOR, o Deus de teu pai Abraão, e o Deus de Isaque; a 
+terra em que estás deitado, eu a darei a ti e à tua descendência.
 \v Gn.28.14
-E será tua descendência como o pó da terra, e te estenderás ao ocidente, e ao oriente, e ao norte, e ao sul; e todas as famílias da terra serão abençoadas em ti e em tua descendência.
+E a tua descendência será como o pó da terra, e te estenderás ao ocidente, ao oriente, ao norte, e ao sul; e todas as 
+famílias da terra serão abençoadas em ti e na tua descendência.
 \v Gn.28.15
-E eis que eu sou contigo, e te guardarei por onde quer que fores, e te farei voltar a esta terra; porque não te deixarei até tanto que tenha feito o que te disse.
+E eis que eu estou contigo, e te guardarei por onde quer que fores, e te farei voltar a esta terra; porque não te 
+deixarei, até que eu tenha feito o que te disse.”
 \v Gn.28.16
-E despertou Jacó de seu sonho disse: Certamente o SENHOR está neste lugar, e eu não o sabia.
+Jacó despertou-se de seu sonho, e disse: “Certamente o SENHOR está neste lugar, e eu não sabia.”
 \v Gn.28.17
-E teve medo, e disse: Quão terrível é este lugar! Não é outra coisa que casa de Deus, e porta do céu.
+E teve medo, e disse: “Quão temível é este lugar! Não é outra coisa, senão casa de Deus e porta do céu.”
 \v Gn.28.18
-E levantou-se Jacó de manhã, e tomou a pedra que havia posto de cabeceira, e levantou-a por coluna, e derramou azeite sobre ela.
+Jacó levantou-se de manhã cedo, tomou a pedra que havia colocado de cabeceira, e a pôs por coluna, e derramou 
+azeite sobre ela.
 \v Gn.28.19
-E chamou o nome daquele lugar Betel, ainda que o nome da cidade antes era Luz.
+E chamou o nome daquele lugar Betel, porém antes o nome da cidade era Luz.
 \v Gn.28.20
-E fez Jacó voto, dizendo: Se for Deus comigo, e me guardar nesta viagem que vou, e me der pão para comer e roupa para vestir,
+E Jacó fez um voto, dizendo: “Se Deus for comigo, e me guardar nesta viagem que vou, e me der pão para comer e roupa 
+para vestir,
 \v Gn.28.21
-E se voltar em paz à casa de meu pai, o SENHOR será meu Deus,
+e se eu voltar em paz à casa de meu pai, o SENHOR será meu Deus,
 \v Gn.28.22
-E esta pedra que pus por coluna, será casa de Deus; e de tudo o que me deres, darei o dízimo a ti.
+e esta pedra que pus por coluna será casa de Deus; e de tudo o que me deres, darei a ti o dízimo.
 \v Gn.29.1
-E seguiu Jacó seu caminho, e foi à terra dos orientais.
+E Jacó seguiu o seu caminho, e foi à terra dos filhos do oriente.
 \v Gn.29.2
 E olhou, e viu um poço no campo: e eis três rebanhos de ovelhas que estavam deitados próximo dele; porque daquele poço davam de beber aos gados: e havia uma grande pedra sobre a boca do poço.
 \v Gn.29.3

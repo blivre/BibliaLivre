@@ -35,15 +35,15 @@ De maneira que nenhum dom vos falta, enquanto esperais a manifestação do nosso
 \v 1Co.1.8
 o qual também vos firmará até o fim, irrepreensíveis no dia de nosso Senhor Jesus Cristo.
 \v 1Co.1.9
-Deus é fiel, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor.
+Fiel é Deus, por quem fostes chamados para a comunhão do seu Filho Jesus Cristo, nosso Senhor.
 \v 1Co.1.10
 Mas eu vos rogo, irmãos, pelo nome do nosso Senhor Jesus Cristo, que todos faleis uma mesma coisa, e não haja divisões entre vós; antes estejais juntos com o mesmo entendimento, e com a mesma opinião.
 \v 1Co.1.11
-Porque, irmãos meus, me foi informado de vós, pelos 
+Porque, meus irmãos, foi-me informado acerca de vós, pelos 
 \added
 da casa
 \*added
- de Cloé, que há brigas entre vós.
+ de Cloé, de que há brigas entre vós.
 \v 1Co.1.12
 E digo isto, que cada um de vós diz: “Eu sou de Paulo” e “Eu 
 \added
@@ -67,23 +67,26 @@ para que ninguém diga que eu tenha batizado em meu nome.
 \v 1Co.1.16
 Também batizei aos da casa de Estefanas; além desses, não sei se batizei algum outro.
 \v 1Co.1.17
-Porque Cristo não me enviou para batizar, mas sim, para evangelizar; não com sabedoria de palavras, para que a cruz de Cristo não se torne inútil.
+Porque Cristo não me enviou para batizar, mas sim, para evangelizar; não com sabedoria de palavras, para que a cruz 
+de Cristo não se torne inútil.
 \v 1Co.1.18
 Porque a palavra da cruz é loucura para os que perecem; mas para os que se salvam é poder de Deus.
 \v 1Co.1.19
 Porque está escrito: Destruirei a sabedoria dos sábios, e aniquilarei a inteligência dos inteligentes.
 \v 1Co.1.20
-Onde está o sábio? Onde está o escriba? Onde está o questionador destes tempos? Por acaso Deus não fez de loucura a sabedoria deste mundo?
+Onde está o sábio? Onde está o escriba? Onde está o questionador desta era? Por acaso Deus não tornou a sabedoria 
+deste mundo em loucura?
 \v 1Co.1.21
-Porque já que, na sabedoria de Deus, o mundo não conheceu a Deus pela sabedoria, Deus se agradou de salvar aos crentes pela loucura da pregação.
+Pois já que, na sabedoria de Deus, o mundo não conheceu a Deus pela sabedoria, Deus se agradou de salvar os que creem 
+por meio da loucura da pregação.
 \v 1Co.1.22
-Porque os judeus pedem sinal, e os gregos buscam sabedoria.
+Porque os judeus pedem um sinal miraculoso, e os gregos buscam sabedoria.
 \v 1Co.1.23
 Mas nós pregamos a Cristo crucificado, 
 \added
 que é
 \*added
- escândalo para os Judeus, e loucura para os gregos.
+ motivo de ofensa para os Judeus, e loucura para os gregos.
 \v 1Co.1.24
 Porém aos que são chamados, tanto judeus como gregos, Cristo 
 \added
@@ -97,51 +100,72 @@ Vede, pois, o vosso chamado, irmãos; pois dentre vós não
 \added
 há
 \*added
- muitos sábios segundo a carne, nem muitos poderosos, nem muitos da elite.
+ muitos sábios em sabedoria humana,
+\fn
+\key
+sábios em sabedoria humana
+\*key
+Lit. sábios segundo a carne
+\*fn
+  nem muitos poderosos, nem muitos da elite.
 \v 1Co.1.27
-Mas Deus escolheu as coisas loucas deste mundo para envergonhar as sábias; e Deus escolheu as fracas deste mundo, para envergonhar as fortes.
+Mas Deus escolheu as coisas loucas deste mundo para envergonhar as sábias; e Deus escolheu as fracas deste mundo 
+para envergonhar as fortes.
 \v 1Co.1.28
-E Deus escolheu as coisas desprezíveis deste mundo, e as sem valor, e as que não são, para aniquilar as que são.
+E Deus escolheu as coisas desprezíveis deste mundo, e as sem valor, e as que não são, para reduzir a nada as que são;
 \v 1Co.1.29
-Para que ninguém
+para que ninguém
 \fn
 Lit. nenhuma carne
 \*fn
- orgulhe de si diante dele.
+ orgulhe de si mesmo diante dele.
 \v 1Co.1.30
-Mas vós sois dele em Jesus Cristo, o qual de Deus nos foi feito sabedoria, e justiça, e santificação, e resgate.
+Mas vós sois dele em Cristo Jesus, o qual, por parte de Deus, tornou-se para nós sabedoria, justiça, santificação, 
+e resgate;
 \v 1Co.1.31
-Para que, como está escrito: Aquele que se orgulha, orgulhe-se no Senhor.
+para que, assim como está escrito: “Aquele que se orgulha, orgulhe-se no Senhor”.
 \v 1Co.2.1
 E eu, irmãos, quando vim até vós, não vim vos anunciar o testemunho de Deus com excelência de palavras, ou sabedoria.
 \v 1Co.2.2
-Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e a sua crucificação.
+Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e ele crucificado.
 \v 1Co.2.3
 E eu estive convosco em fraqueza, em temor, e em grande tremor.
 \v 1Co.2.4
-E a minha palavra e a minha pregação não foram em {tr,n4:palavras persuasivas}{rp:persuasão} de sabedoria{tr: humana}, mas sim, em demonstração do Espírito e de poder.
+E a minha palavra e a minha pregação não foram em {tr,n4:palavras persuasivas}{rp:persuasão} de 
+sabedoria{tr: humana}, mas sim, em demonstração do Espírito e de poder;
 \v 1Co.2.5
-Para que a vossa fé não fosse em sabedoria humana, mas sim, em poder de Deus.
+para que a vossa fé não fosse em sabedoria humana, mas sim, no poder de Deus.
 \v 1Co.2.6
-Contudo, falamos sabedoria entre os maduros, porém uma sabedoria não deste mundo, nem dos líderes deste mundo, que perecem.
+Contudo, falamos sabedoria entre os maduros, porém uma sabedoria não deste mundo, nem dos líderes deste mundo, 
+que perecem.
 \v 1Co.2.7
-Mas falamos a sabedoria de Deus, escondida em mistério, a qual Deus ordenou antes dos tempos para a nossa glória.
+Mas falamos a sabedoria de Deus, oculta em mistério, a qual Deus ordenou antes dos tempos para a nossa glória;
 \v 1Co.2.8
-A qual nenhum dos líderes deste mundo conheceu. Porque, se a tivessem conhecido, nunca crucificariam ao Senhor da glória.
+a 
+\added
+sabedoria
+\*added
+que nenhum dos líderes deste mundo conheceu. Porque, se a tivessem conhecido, nunca teriam crucificado ao 
+Senhor da glória.
 \v 1Co.2.9
-Porém, assim como está escrito: As coisas que o olho não viu, e que no coração humano não subiram, 
+Porém, assim como está escrito: “As coisas que o olho não viu, e não subiram que ao coração humano, 
 \added
 são
 \*added
- as que Deus preparou para os que o amam.
+ as que Deus preparou para os que o amam”.
+\ref
+Isaías 64:4
+\*ref
 \v 1Co.2.10
 Mas Deus as revelou para nós pelo seu Espírito. Porque o Espírito investiga todas as coisas, até as profundezas de Deus.
 \v 1Co.2.11
-Pois quem dentre os seres humanos sabe as coisas que são do ser humano, senão o espírito do ser humano que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
+Pois quem dentre os seres humanos sabe as coisas do ser humano, senão o espírito do ser humano que nele está? Assim 
+também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
 \v 1Co.2.12
-Nós, porém, não recebemos o espírito do mundo, mas sim, o Espírito que é de Deus; para que saibamos as coisas que nos são dadas por Deus.
+Nós, porém, não recebemos o espírito do mundo, mas sim, o Espírito que provém de Deus; para que saibamos as 
+coisas que por Deus nos são dadas;
 \v 1Co.2.13
-As quais também falamos, não com palavras que a sabedoria ensina, mas com as que o Espírito Santo ensina, interpretando 
+as quais também falamos, não com palavras que a sabedoria ensina, mas com as que o Espírito Santo ensina, interpretando 
 \added
 coisas
 \*added
@@ -175,25 +199,23 @@ Eu plantei; Apolo regou; mas foi Deus quem deu o crescimento.
 \v 1Co.3.7
 De maneira que nem o que planta é algo, nem o que rega; mas sim Deus, que dá o crescimento.
 \v 1Co.3.8
-E o que planta, e o que rega, são um; mas cada um receberá a sua recompensa segundo o seu trabalho.
+E o que planta e o que rega são um; mas cada um receberá a sua recompensa segundo o seu trabalho.
 \v 1Co.3.9
 Porque somos cooperadores de Deus; vós sois a plantação de Deus, o edifício de Deus.
 \v 1Co.3.10
-Segundo a graça de Deus que me foi dada, eu pus como sábio construtor o fundamento; e outro edifica sobre ele; mas olhe cada um como constrói sobre ele.
+Segundo a graça de Deus que me foi dada, eu, como sábio construtor, pus o fundamento; e outro edifica sobre ele; 
+mas cada um veja como edifica sobre ele.
 \v 1Co.3.11
-Porque ninguém pode pôr fundamento diferente do que já está posto, o qual é Jesus Cristo.
+Pois ninguém pode pôr fundamento diferente do que já está posto, o qual é Jesus Cristo.
 \v 1Co.3.12
 E se alguém sobre este fundamento edificar ouro, prata, pedras preciosas, madeira, feno, palha,
 \v 1Co.3.13
-a obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de cada um, o fogo fará a prova.
+a obra de cada um se manifestará; porque o dia a esclarecerá; pois pelo fogo se descobre; e qual é a obra de 
+cada um, o fogo fará a prova.
 \v 1Co.3.14
 Se a obra de alguém que construiu sobre ele permanecer, receberá recompensa.
 \v 1Co.3.15
-Se a obra de alguém se queimar, o 
-\added
-construtor
-\*added
- sofrerá perda; porém o tal se salvará, contudo, como que 
+Se a obra de alguém se queimar, ele sofrerá perda; porém o tal se salvará, todavia, como que 
 \added
 passado
 \*added
@@ -215,15 +237,16 @@ seja Paulo, seja Apolo, seja Cefas, seja o mundo, seja a vida, seja a morte, sej
 \v 1Co.3.23
 Mas vós sois de Cristo; e Cristo, de Deus.
 \v 1Co.4.1
-Que as pessoas nos reconheçam como servidores de Cristo, e guardiões dos mistérios de Deus.
+Que as pessoas nos considerem como servidores de Cristo, e guardiões dos mistérios de Deus.
 \v 1Co.4.2
-E além disso, exige-se dos guardiões que cada um seja fiel.
+Além disso, exige-se dos guardiões que cada um seja fiel.
 \v 1Co.4.3
-Mas a mim, pouco me importa de ser julgado por vós, ou por qualquer juízo humano; nem eu julgo a mim mesmo.
+Quanto a mim, pouco me importa ser julgado por vós, ou por qualquer juízo humano; nem eu julgo a mim mesmo.
 \v 1Co.4.4
-Porque em nada me sinto culpável; mas nem por isso estou justificado; porém o que me julga é o Senhor.
+Porque em nada me sinto culpável; mas nem por isso estou justificado; porém quem me julga é o Senhor.
 \v 1Co.4.5
-Então nada julgueis antes do tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas nas trevas, e manifestará as intenções dos corações; e então cada um receberá aprovação de Deus.
+Então nada julgueis antes do tempo, até que o Senhor venha, o qual também trará à luz as coisas 
+ocultas nas trevas, e manifestará as intenções dos corações; e então cada um receberá de Deus a aprovação.
 \v 1Co.4.6
 E isto, irmãos, fiz a comparação relativa a mim e a Apolo por causa de vós; para que em nós aprendais a não fazer suposições além do que está escrito; para que não fiqueis arrogantes por preferir um contra o outro.
 \v 1Co.4.7
@@ -255,11 +278,12 @@ Porque ainda que tivésseis dez mil tutores em Cristo, contudo não
 \added
 tendes
 \*added
- muitos pais. Porque eu tornei vosso pai em Cristo Jesus por meio do Evangelho.
+ muitos pais. Porque eu vos gerei em Cristo Jesus por meio do Evangelho.
 \v 1Co.4.16
 Portanto eu vos chamo para que sejais meus imitadores.
 \v 1Co.4.17
-Por isso eu vos enviei Timóteo, que é meu amado e fiel filho no Senhor; ele vos lembrará dos meus caminhos em Cristo, como por todos os lugares ensino em cada igreja.
+Por isso eu vos enviei Timóteo, que é meu filho amado e fiel no Senhor; ele vos lembrará dos meus caminhos 
+em Cristo, como por todos os lugares eu ensino em cada igreja.
 \v 1Co.4.18
 Mas alguns andam arrogantes, como se eu não fosse até vós.
 \v 1Co.4.19
@@ -644,7 +668,7 @@ E por causa de teu conhecimento, perecerá assim o irmão fraco, pelo qual Crist
 \v 1Co.8.12
 Assim que, pecando contra os irmãos e ferindo sua fraca consciência, pecais contra Cristo.
 \v 1Co.8.13
-Portanto, se a comida escandalizar a meu irmão, nunca mais comerei carne, para que eu não escandalize a meu irmão.
+Portanto, se a comida fizer cair ao meu irmão, nunca mais comerei carne, para que eu não faça ao meu irmão cair.
 \v 1Co.9.1
 Não sou eu apóstolo? Não sou livre? Não vi eu a Jesus Cristo nosso Senhor? Não sois vós minha obra no Senhor?
 \v 1Co.9.2
@@ -814,10 +838,11 @@ Mas eu digo, que as coisas que os gentios sacrificam, são sacrificadas para os 
 \v 1Co.10.21
 Não podeis beber o copo do Senhor e o copo dos demônios; não podeis ser participantes da mesa do Senhor e da mesa dos demônios.
 \v 1Co.10.22
+Por acaso 
 \added
-Tentamos
+tentamos
 \*added
- provocar ciúmes ao Senhor? Somos nós mais fortes que ele?
+ provocar ciúmes ao Senhor? Somos nós mais fortes do que ele?
 \v 1Co.10.23
 Todas as coisas me são lícitas, mas nem todas as coisas convêm; todas as coisas me são licitas, mas nem todas as coisas edificam.
 \v 1Co.10.24

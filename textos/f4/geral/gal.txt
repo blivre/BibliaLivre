@@ -15,11 +15,10 @@ Paulo, apóstolo (não da parte dos seres humanos, nem por meio de homem algum, 
 \v Gl.1.2
 e todos os irmãos que estão comigo, para as igrejas da Galácia.
 \v Gl.1.3
-Graça seja convosco, e também a paz de Deus {n4:nosso} Pai, e do {tr,rp:nosso} Senhor Jesus Cristo,{trnc:
-\fn
+Graça seja convosco, e também a paz de Deus {n4:nosso} Pai, e do {tr,rp:nosso} Senhor Jesus Cristo,
+{trnc:\fn
 N4: Deus nosso Pai, e do Senhor Jesus Cristo
-\*fn
- }
+\*fn}
 \v Gl.1.4
 que deu a si mesmo pelos nossos pecados, para nos tirar da presente era maligna, conforme a vontade do nosso Deus e Pai,
 \v Gl.1.5
@@ -54,15 +53,15 @@ como
 \*added
  no judaísmo eu era mais avançado que muitos de minha idade em minha nação, e era extremamente zeloso das tradições de meus pais.
 \v Gl.1.15
-Mas quando {tr,rp:Deus}{trnc:
-\fn
+Mas quando {tr,rp:Deus}
+{trnc:\fn
 N4 omite “Deus”
-\*fn
- } {tr,rp:(}{n4:aquele
+\*fn}
+ {tr,rp:(}{n4:aquele
 \fn
 TR, RP contêm “Deus” em lugar de “aquele”
-\*fn
-} que me separou desde o ventre da minha mãe, e por sua graça me chamou {tr,rp:)}{n4:,} se agradou
+\*fn}
+ que me separou desde o ventre da minha mãe, e por sua graça me chamou {tr,rp:)}{n4:,} se agradou
 \v Gl.1.16
 de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
 \fn
@@ -544,11 +543,11 @@ Se, porém, mordeis e devorais uns aos outros, cuidado para não vos destruirdes
 \v Gl.5.16
 Mas eu digo: andai no Espírito, e não executeis o mau desejo da carne.
 \v Gl.5.17
-Pois a carne deseja contra o Espírito, e o Espírito contra a carne; {tr,rp:e}{n4:pois}{trnc:
-\fn
+Pois a carne deseja contra o Espírito, e o Espírito contra a carne; {tr,rp:e}{n4:pois}
+{trnc:\fn
 N4: pois
-\*fn
- } estes se opõem mutuamente, para que não façais o que quereis.
+\*fn}
+ estes se opõem mutuamente, para que não façais o que quereis.
 \v Gl.5.18
 Mas, se sois guiados pelo Espírito, não estais debaixo da Lei.
 \v Gl.5.19
@@ -564,15 +563,14 @@ N4 omite “adultério”
 \v Gl.5.20
 idolatria, feitiçaria, inimizades, brigas, ciúmes, iras, rivalidades egoístas, desavenças, facções,
 \v Gl.5.21
-invejas, {tr,rp:homicídios,}{n4:
-\fn
+invejas, {tr,rp:homicídios,}
+{n4:\fn
 TR,RP acrescentam “homicídios”
-\*fn
- }{trnc:
-\fn
+\*fn}
+{trnc:\fn
 N4 omite “homicídios”
-\*fn
- } bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus.
+\*fn}
+ bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus.
 \v Gl.5.22
 Mas o fruto do Espírito é: amor, alegria, paz, paciência, benignidade, bondade, fidelidade,
 \fn
@@ -581,17 +579,18 @@ Ou: fé
 \v Gl.5.23
 mansidão, domínio próprio. Contra essas coisas não há lei.
 \v Gl.5.24
-Os que são de Cristo {n4:Jesus}{trnc:
-\fn
+Os que são de Cristo {n4:Jesus}
+{trnc:\fn
 N4 acrescenta “Jesus”
-\*fn
- } crucificaram a carne com as paixões e os maus desejos.
+\*fn}
+ crucificaram a carne com as paixões e os maus desejos.
 \v Gl.5.25
 Se vivemos no Espírito, também no Espírito andemos.
 \v Gl.5.26
 Não nos tornemos presunçosos, irritando uns aos outros, e invejando uns aos outros.
 \v Gl.6.1
-Irmãos, se alguém for surpreendido em algum pecado, vós que sois espirituais, restaurai o tal com espírito de mansidão, prestando atenção a ti mesmo, para que também não sejas tentado.
+Irmãos, se alguém for surpreendido em algum pecado, vós que sois espirituais, restaurai ao tal com espírito de 
+mansidão, prestando atenção a ti mesmo, para que não sejas tentado também.
 \v Gl.6.2
 Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo.
 \v Gl.6.3

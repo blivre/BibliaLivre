@@ -807,17 +807,21 @@ E Moisés disse ao povo: Não temais; ficai quietos, e vede a salvação do SENH
 \v Ex.14.14
 O SENHOR lutará por vós, e vós ficai quietos.
 \v Ex.14.15
-Então o SENHOR disse a Moisés: Por que clamas a mim? Diz aos filhos de Israel que marchem.
+Então o SENHOR disse a Moisés: “Por que clamas a mim? Diz aos filhos de Israel que marchem.
 \v Ex.14.16
-E tu ergue tua vara, e estende tua mão sobre o mar, e divide-o; e entrem os filhos de Israel por meio do mar em seco.
+Quanto a ti, ergue a tua vara, estende a tua mão sobre o mar, e divide-o. Que os filhos de Israel entre por meio 
+do mar em seco.
 \v Ex.14.17
-E eu, eis que eu endurecerei o coração dos egípcios, para que os sigam: e eu me glorificarei em Faraó, e em todo o seu exército, e em seus carros, e em sua cavalaria;
+E eu, eis que endurecerei o coração dos egípcios, para que os sigam. E eu me glorificarei em Faraó, e em todo o seu 
+exército, e em suas carruagens, e em sua cavalaria;
 \v Ex.14.18
-E saberão os egípcios que eu sou o SENHOR, quando eu me glorificar em Faraó, em seus carros, e em seus cavaleiros.
+E os egípcios saberão que eu sou o SENHOR, quando eu me glorificar em Faraó, em seus carros, e em seus cavaleiros.”
 \v Ex.14.19
-E o anjo de Deus que ia diante do acampamento de Israel, se separou, e ia após eles; e também a coluna de nuvem que ia diante deles, se separou, e pôs-se a suas costas:
+E o anjo de Deus que ia diante do acampamento de Israel, se separou, e ia detrás deles; e também a coluna de nuvem 
+que ia diante deles, separou-se, e pôs-se atrás deles;
 \v Ex.14.20
-E ia entre o acampamento dos egípcios e o acampamento de Israel; e era nuvem e trevas para aqueles, e iluminava a Israel de noite: e em toda aquela noite nunca chegaram os uns aos outros.
+e ia entre o acampamento dos egípcios e o acampamento de Israel; e era nuvem e trevas para aqueles, e iluminava 
+a Israel de noite; e em toda aquela noite não se aproximaram uns dos outros.
 \v Ex.14.21
 E estendeu Moisés sua mão sobre o mar, e fez o SENHOR que o mar se retirasse por forte vento oriental toda aquela noite; e tornou o mar em seco, e as águas restaram divididas.
 \v Ex.14.22
@@ -1681,11 +1685,12 @@ E estarão sobre Arão e sobre seus filhos quando entrarem no tabernáculo de te
 \v Ex.29.1
 E Isto é o que lhes farás para consagrá-los, para que sejam meus sacerdotes: Toma um bezerro das vacas, e dois carneiros sem mácula;
 \v Ex.29.2
-E pães sem levedura, e tortas sem levedura amassadas com azeite, e massas sem levedura untadas com azeite; as quais coisas farás de flor de farinha de trigo:
+E pães sem levedura, e tortas sem levedura amassadas com azeite, e massas sem levedura untadas com azeite; tu os farás 
+de boa farinha de trigo:
 \v Ex.29.3
-E as porás em um cesto, e no cesto as oferecerás, com o bezerro e os dois carneiros.
+E os porás em um cesto, e no cesto os oferecerás, com o bezerro e os dois carneiros.
 \v Ex.29.4
-E farás chegar a Arão e a seus filhos à porta do tabernáculo do testemunho, e os lavarás com água.
+E farás chegar Arão e seus filhos à porta do tabernáculo do testemunho, e os lavarás com água.
 \v Ex.29.5
 E tomarás as vestiduras, e vestirás a Arão a túnica e o manto do éfode, e o éfode, e o peitoral, e lhe cingirás com o cinto do éfode;
 \v Ex.29.6
@@ -1749,7 +1754,8 @@ E se sobrar algo da carne das consagrações e do pão até a manhã, queimarás
 \v Ex.29.35
 Assim, pois, farás a Arão e a seus filhos, conforme todas as coisas que eu te mandei: por sete dias os consagrarás.
 \v Ex.29.36
-E sacrificarás o bezerro da expiação em cada dia para as expiações; e purificarás o altar em havendo feito expiação por ele, e o ungirás para santificá-lo.
+E sacrificarás o bezerro da expiação em cada dia para as expiações; e purificarás o altar em havendo feito expiação 
+por ele, e o ungirás para santificá-lo.
 \v Ex.29.37
 Por sete dias expiarás o altar, e o santificarás, e será um altar santíssimo: qualquer um coisa que tocar ao altar, será santificada.
 \v Ex.29.38
@@ -1757,7 +1763,8 @@ E isto é o que oferecerás sobre o altar: dois cordeiros de ano cada dia, sem i
 \v Ex.29.39
 Oferecerás um cordeiro à manhã, e o outro cordeiro oferecerás à queda da tarde:
 \v Ex.29.40
-Também uma décima parte de um efa de flor de farinha amassada com a quarta parte de um him de azeite prensado: e a libação será a quarta parte de um him de veio com cada cordeiro.
+Também uma décima parte de um efa de boa farinha amassada com a quarta parte de um him de azeite prensado; e a 
+libação será a quarta parte de um him de vinho com cada cordeiro.
 \v Ex.29.41
 E oferecerás o outro cordeiro à queda da tarde, fazendo conforme a oferta da manhã, e conforme sua libação, em cheiro de suavidade; será oferta acesa ao SENHOR.
 \v Ex.29.42
@@ -1781,13 +1788,15 @@ Tu lhe farás também dois anéis de ouro debaixo de sua coroa a seus dois canto
 \v Ex.30.5
 E farás as varas de madeira de acácia, e os cobrirás de ouro.
 \v Ex.30.6
-E o porás diante do véu que está junto à arca do testemunho, diante do propiciatório que está sobre o testemunho, onde eu te testificarei de mim.
+E o porás diante do véu que está junto à arca do testemunho, diante do propiciatório que está sobre o testemunho, 
+onde eu te testificarei de mim.
 \v Ex.30.7
 E queimará sobre ele Arão incenso de aroma cada manhã quando preparar as lâmpadas o queimará.
 \v Ex.30.8
 E quando Arão acender as lâmpadas ao anoitecer, queimará o incenso: rito perpétuo diante do SENHOR por vossas idades.
 \v Ex.30.9
-Não oferecereis sobre ele incenso estrangeiro, nem holocausto, nem presente; nem tampouco derramareis sobre ele libação.
+Não oferecereis sobre ele incenso estranho, nem holocausto, nem oferta de cereais; nem tampouco derramareis libação 
+sobre ele.
 \v Ex.30.10
 E sobre suas pontas fará Arão expiação uma vez no ano com o sangue da expiação para as reconciliações: uma vez no ano fará expiação sobre ele em vossas idades: será muito santo ao SENHOR.
 \v Ex.30.11
@@ -2477,7 +2486,8 @@ E acendeu sobre ele o incenso aromático; como o SENHOR havia mandado a Moisés.
 \v Ex.40.28
 Pôs também a cortina da porta do tabernáculo.
 \v Ex.40.29
-E colocou o altar do holocausto à porta do tabernáculo, do tabernáculo do testemunho; e ofereceu sobre ele holocausto e presente; como o SENHOR havia mandado a Moisés.
+E colocou o altar do holocausto à porta do tabernáculo, do tabernáculo do testemunho; e ofereceu sobre ele holocausto 
+e oferta de cereais; como o SENHOR havia mandado a Moisés.
 \v Ex.40.30
 E pôs a pia entre o tabernáculo do testemunho e o altar; e pôs nela água para lavar.
 \v Ex.40.31

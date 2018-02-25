@@ -68,6 +68,9 @@ Porque não me envergonho do Evangelho de Cristo,
 \v Rm.1.17
 Pois no Evangelho
 \fn
+\key
+Evangelho
+\*key
 lit. nele
 \*fn
  se revela a justiça de Deus de fé em fé; como está escrito: O justo viverá pela fé. 
@@ -330,7 +333,7 @@ fé em Jesus Cristo
 trad. alt. fidelidade de Jesus Cristo
 \*fn
  para todos e sobre todos
-os que creem; pois não há diferença;
+ os que creem; pois não há diferença;
 \v Rm.3.23
 porque todos pecaram, e estão destituídos da glória de Deus;
 \v Rm.3.24
@@ -713,16 +716,17 @@ semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne
 \v Rm.8.4
 para que a exigência da lei se cumprisse em nós, que andamos, não segundo a carne, mas sim, segundo o Espírito.
 \v Rm.8.5
-Pois os que são segundo a carne costumam pensar nas coisas da carne, mas os que são segundo o Espírito, nas coisas do Espírito.
+Pois os que são segundo a carne voltam sua mentalidade para as coisas da carne, mas os que são segundo o Espírito, 
+para as coisas do Espírito.
 \v Rm.8.6
 Pois a mentalidade da carne é morte, mas a mentalidade do Espírito é vida e paz.
 \v Rm.8.7
 Pois a mentalidade da carne é inimizade contra Deus, pois não se sujeita à Lei de Deus, porque nem sequer pode.
 \v Rm.8.8
-Portanto os que estão na carne não podem agradar a Deus.
+Portanto, os que permanecem na carne não podem agradar a Deus.
 \v Rm.8.9
-Porém vós não estais na carne, mas sim, no Espírito, se é que o Espírito de Deus habita em vós. Porém, se alguém não 
-tem o Espírito de Cristo, esse não lhe pertence.
+Porém vós não permaneceis na carne, mas sim, no Espírito, se é que o Espírito de Deus habita em vós. Porém, se 
+alguém não tem o Espírito de Cristo, esse não lhe pertence.
 \v Rm.8.10
 E se Cristo está em vós, apesar do corpo estar morto por causa do pecado, o Espírito é vida
 \fn
@@ -730,16 +734,18 @@ Ou: o (vosso) espírito está vivo
 \*fn
  por causa da justiça.
 \v Rm.8.11
-E se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos ressuscitou Cristo 
+E se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos 
+ressuscitou a Cristo 
  também dará vida aos vossos corpos mortais por meio do seu Espírito, que habita em vós.
 \v Rm.8.12
 Por isso, irmãos, somos devedores, não à carne, para vivermos segundo a carne;
 \v Rm.8.13
-porque, se viverdes segundo a carne, morrereis; mas se pelo Espírito mortificardes as obras do corpo, vivereis.
+porque, se viverdes segundo a carne, morrereis; mas se, pelo Espírito, fizerdes morrer as ações do corpo, vivereis.
 \v Rm.8.14
 Pois todos quantos são guiados pelo Espírito de Deus são filhos de Deus.
 \v Rm.8.15
-Pois não recebestes o espírito de escravidão, para voltardes ao medo; mas recebestes o Espírito de adoção como filhos, pelo qual clamamos: Aba, Pai!
+Pois não recebestes o espírito de escravidão, para voltardes ao medo; mas recebestes o Espírito de 
+adoção como filhos, pelo qual clamamos: Aba, Pai!
 \v Rm.8.16
 O próprio Espírito dá testemunho com
 \fn
@@ -968,7 +974,11 @@ a buscavam
 pois
  tropeçaram na pedra de tropeço,
 \v Rm.9.33
-como está escrito: “Eis que ponho em Sião uma pedra de tropeço, e uma rocha de escândalo; e todo
+como está escrito: “Eis que ponho em Sião uma pedra de tropeço, e uma rocha que causa queda;
+\fn
+Tradicionalmente, rocha de escândalo
+\*fn
+ e todo
  aquele que nela crer não será envergonhado”.
 \v Rm.10.1
 Irmãos, o bom desejo do meu coração, e a oração que 
@@ -1033,19 +1043,17 @@ Pois: “Todo aquele que invocar o nome do Senhor será salvo.”
 Joel 2:32 
 \*ref
 \v Rm.10.14
-Mas como invocarão em quem não creram? E como crerão naquele de quem não ouviram? E como ouvirão sem haver quem pregue?
+Mas como invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram? E como ouvirão, sem haver 
+quem pregue?
 \v Rm.10.15
-E como pregarão se não forem enviados? Como está escrito: “Como são agradáveis
-\fn
-tradicionalmente: belos
-\*fn
- os pés dos que anunciam o evangelho da paz, dos que
+E como pregarão, se não forem enviados? Como está escrito: “Como são agradáveis os pés dos que anunciam 
+o evangelho da paz, dos que
  anunciam as boas novas!”
 \ref
 Isaías 52:7 
 \*ref
 \v Rm.10.16
-Mas nem todos obedeceram ao Evangelho, pois Isaías diz: “Senhor, quem creu na nossa pregação?”
+Mas nem todos obedeceram ao evangelho, pois Isaías diz: “Senhor, quem creu na nossa pregação?”
 \ref
 Isaías 53:1 
 \*ref
@@ -1065,7 +1073,8 @@ Pois:
 Salmos 19:4 
 \*ref
 \v Rm.10.19
-Mas pergunto: por acaso Israel não entendeu? Primeiramente Moisés disse: “Eu vos provocarei ciúmes com os que não são do povo; com uma nação insensata vos provocarei à ira.”
+Mas pergunto: por acaso Israel não entendeu? Primeiramente Moisés disse: “Eu vos provocarei ciúmes com os que não 
+são do povo; com uma nação insensata vos provocarei à ira.”
 \ref
 Deuteronômio 32:31 
 \*ref
@@ -1123,7 +1132,7 @@ Ou: estupor
 Deuteronômio 29:4; Isaías 29:10 
 \*ref
 \v Rm.11.9
-E Davi diz: “A mesa deles se torne em laço e armadilha; em tropeço e retribuição para eles.
+E Davi diz: “A mesa deles se torne em laço e armadilha; em meio de tropeço e retribuição para eles.
 \v Rm.11.10
 Seus olhos se escureçam, para que não vejam, e suas costas fiquem constantemente encurvadas.”
 \fn
@@ -1220,7 +1229,15 @@ Pois quem entendeu a mentalidade do Senhor? Ou quem foi o seu conselheiro?
 \v Rm.11.35
 Ou quem lhe deu primeiro, para ser por ele recompensado?
 \v Rm.11.36
-Porque dele, por ele, e para ele, são todas as coisas! A ele seja a glória eternamente! Amém!
+Porque dele, por ele, e para ele, 
+\added
+são
+\*added
+ todas as coisas! A ele 
+\added
+ seja
+\*added
+ a glória eternamente! Amém!
 \v Rm.12.1
 Rogo-vos, pois, irmãos, pelas misericórdias de Deus, que apresenteis os vossos corpos como sacrifício vivo, santo e agradável a Deus, 
 \added
@@ -1235,7 +1252,7 @@ Presente era
 \*key
 ou: este mundo
 \*fn
- em vez disso, transformai-vos pela renovação da vossa mentalidade, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.
+ mas transformai-vos pela renovação da vossa mentalidade, para que experimenteis qual seja a boa, agradável, e perfeita vontade de Deus.
 \v Rm.12.3
 Pois, pela graça que me foi dada, digo a cada um dentre vós que não se estime mais do que convém se estimar; em vez disso, cada um estime a si mesmo com bom senso, conforme a medida de fé que Deus repartiu a cada um.
 \v Rm.12.4
@@ -1406,7 +1423,8 @@ Isaías 45:23
 \v Rm.14.12
 de maneira que cada um de nós dará conta de si mesmo a Deus.
 \v Rm.14.13
-Portanto, não julguemos mais uns aos outros; em vez disso, decidi nunca pôr alguma pedra de obstáculo ou de tropeço diante do seu irmão.
+Portanto, não julguemos mais uns aos outros; em vez disso, tomai a decisão de nunca pôr alguma pedra de obstáculo ou de 
+tropeço diante do seu irmão.
 \v Rm.14.14
 Eu sei, e tenho certeza no Senhor Jesus, que nada é impuro por si mesmo; a não ser para quem o considera impuro: aquilo para ele se torna impuro.
 \v Rm.14.15
@@ -1436,9 +1454,6 @@ resultam em
 \v Rm.14.20
 Não destruas a obra de Deus por causa da comida. É verdade que todas as coisas são limpas, porém mau é ao ser humano 
 comer causando ofensa.
-\fn
-Ou: escândalo
-\*fn
 \v Rm.14.21
 Não é bom comer carne, nem beber vinho, nem 
 \added
@@ -1663,14 +1678,8 @@ Saudai Filólogo, Júlia, Nereu e sua irmã, Olimpas, e todos os santos que est�
 Saudai-vos uns aos outros com beijo santo. As igrejas 
  de Cristo vos saúdam.
 \v Rm.16.17
-E rogo-vos, irmãos, que sejais cuidadosos com os que causam divisões e ofensas
-\fn
-\key
-ofensas
-\*key
-isto é, dificuldades que induzem à perda da fé ou ao pecado - tradicionalmente “escândalos”
-\*fn
- contrárias a doutrina que aprendestes; e afastai-vos deles;
+E rogo-vos, irmãos, que sejais cuidadosos com os que causam divisões e obstáculos contrários à doutrina que 
+aprendestes; e afastai-vos deles;
 \v Rm.16.18
 pois tais pessoas não servem ao nosso Senhor Jesus
  Cristo, 

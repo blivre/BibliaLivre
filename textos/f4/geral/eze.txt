@@ -107,9 +107,11 @@ E ouvi o ruído de suas asas quando se moviam, como o som de muitas águas, como
 \v Ez.1.25
 E quando se paravam e abaixavam suas asas, ouvia-se uma voz de cima do firmamento que estava sobre suas cabeças.
 \v Ez.1.26
-E acima do firmamento que estava sobre suas cabeças, havia a figura de um trono, que parecia com a pedra de safira; e sobre a figura do trono havia uma semelhança que parecia com um homem sentado acima dele.
+E acima do firmamento que estava sobre suas cabeças, havia a figura de um trono, que parecia com a pedra de safira; e 
+sobre a figura do trono havia uma semelhança que parecia com um homem sentado acima dele.
 \v Ez.1.27
-E vi o que parecia com o âmbar, com a aparência de fogo ao seu redor do lado de dentro, da aparência de sua cintura 
+E vi o que parecia com o bronze polido, com a aparência de fogo ao seu redor do lado de dentro, da aparência 
+de sua cintura 
 \fn
 \key
 sua cintura
@@ -188,13 +190,16 @@ Lit. ardor, calor
 \*fn
 de meu espírito; mas a mão do SENHOR era forte sobre mim.
 \v Ez.3.15
-E vim aos do cativeiro, a Tel-Abibe, que moravam junto ao rio de Quebar, e eu morava onde eles moravam; e ali permaneci sete dias atônito entre eles.
+E vim aos do cativeiro, a Tel-Abibe, que moravam junto ao rio de Quebar, e eu morava onde eles moravam; e ali 
+permaneci sete dias atônito entre eles.
 \v Ez.3.16
 E aconteceu que, ao fim de sete dias, veio a mim a palavra do SENHOR, dizendo:
 \v Ez.3.17
 Filho do homem, eu te pus por vigia sobre a casa de Israel; portanto tu ouvirás a palavra de minha boca, e os alertarás de minha parte.
 \v Ez.3.18
-Quando eu disser ao perverso: Certamente morrerás,  e tu não o alertares, nem falares, para alertar ao perverso acerca de seu perverso caminho, a fim de o conservar em vida, o perverso morrerá por sua maldade, porém demandarei seu sangue de tua mão. 
+Quando eu disser ao perverso: ‘Certamente morrerás’, e tu não o alertares, nem falares para alertar ao perverso acerca 
+do seu caminho perverso, a fim de o conservar em vida, aquele perverso morrerá na sua maldade, porém demandarei o 
+sangue dele da tua mão.
 \v Ez.3.19
 Mas se tu alertares ao perverso, e ele não se converter de sua perversidade, e de seu perverso caminho, ele morrerá por sua maldade, e tu terás livrado tua alma.
 \v Ez.3.20
@@ -202,13 +207,16 @@ Semelhantemente, quando o justo se desviar de sua justiça, e fizer maldade, e e
 \added
 algum
 \*added
- tropeço diante dele, ele morrerá, porque tu não o alertaste; por seu pecado morrerá, e suas justiças que havia feito não serão lembradas; mas seu sangue demandarei de tua mão.
+ tropeço diante dele, ele morrerá, porque tu não o alertaste; por seu pecado morrerá, e suas justiças que havia feito 
+ não serão lembradas; mas demandarei o sangue dele da tua mão.
 \v Ez.3.21
-Porém se tu alertares ao justo, para que o justo não peque, e ele não pecar, certamente viverá, porque foi alertado; e tu terás livrado tua alma.
+Porém se tu alertares ao justo, para que o justo não peque, e ele não pecar, certamente viverá, porque foi alertado; 
+e tu terás livrado tua alma.
 \v Ez.3.22
 E a mão do SENHOR estava ali sobre mim; e disse-me: Levanta-te, e sai ao vale; e ali falarei contigo. 
 \v Ez.3.23
-Então eu me levantei, e saí ao vale; e eis que a glória do SENHOR estava ali, como a glória que vi junto ao rio de Quebar; e caí sobre meu rosto.
+Então eu me levantei, e saí ao vale; e eis que a glória do SENHOR estava ali, como a glória que vi junto ao rio de 
+Quebar; e caí sobre meu rosto.
 \v Ez.3.24
 Então o Espírito entrou em mim, e fez-me ficar de pé; e falou comigo, e disse-me: Entra, e fecha-te dentro de tua casa. 
 \v Ez.3.25
@@ -535,13 +543,17 @@ mês
 \v Ez.8.2
 E olhei, e eis uma semelhança, com aparência de fogo; desde a aparência de sua cintura para baixo, era fogo; e desde sua cintura para cima, com a aparência de um resplendor, como a cor de âmbar.
 \v Ez.8.3
-E estendeu a forma de uma mão, e tomou-me pelos cabelos de minha cabeça; e o espírito me levantou entre a terra e o céu, e me trouxe a Jerusalém em visões de Deus, até a entrada da porta de dentro que está voltada ao norte, onde estava o lugar da imagem dos ciúmes, que provoca ciúmes.
+E estendeu a forma de uma mão, e tomou-me pelos cabelos de minha cabeça; e o espírito me levantou entre a terra e o 
+céu, e me trouxe a Jerusalém em visões de Deus, até a entrada da porta de dentro que está voltada ao norte, onde 
+estava o lugar da imagem do ciúme, que provoca ciúme.
 \v Ez.8.4
 E eis que a a glória do Deus de Israel estava ali, conforme a visão que eu tinha visto no vale.
 \v Ez.8.5
-E disse-me: Filho do homem, levanta agora teus olhos para o norte. E levantei meus olhos para o norte, e eis que ao lado norte, junto à porta do altar, estava a imagem dos ciúmes na entrada. 
+E disse-me: Filho do homem, levanta agora teus olhos para o norte. E levantei meus olhos para o norte, e eis que a 
+imagem do ciúme estava ao lado norte, junto à porta do altar, na entrada. 
 \v Ez.8.6
-Então me disse: Filho do homem, vês tu o que eles estão fazendo? As grandes abominações que a casa de Israel faz aqui, para me afastar de meu santuário? Porém ainda voltarás a ver abominações maiores. 
+Então me disse: Filho do homem, vês tu o que eles estão fazendo? As grandes abominações que a casa de Israel faz 
+aqui, para me afastar de meu santuário? Porém ainda voltarás a ver abominações maiores. 
 \v Ez.8.7
 E levou-me à porta do pátio; então olhei, e eis que havia um buraco na parede.
 \v Ez.8.8
@@ -3510,11 +3522,12 @@ E
 \added
 cada
 \*added
- câmara tinha uma cana de comprimento, e uma cana de largo; e entre as câmaras eram cinco côvados; e o umbral da porta junto ao alpendre da porta por dentro, uma cana.
+ câmara tinha uma cana de comprimento, e uma cana de largo; e entre as câmaras eram cinco côvados; e o umbral da 
+porta junto ao pórtico da porta por dentro, uma cana.
 \v Ez.40.8
-Também mediu o alpendre da porta por de dentro, uma cana.
+Também mediu o pórtico da porta por dentro, uma cana.
 \v Ez.40.9
-Então mediu o alpendre da porta, de oito côvados, e seus pilares de dois côvados; e o alpendre da porta por dentro.
+Então mediu o pórtico da porta, de oito côvados, e seus pilares de dois côvados; e o pórtico da porta por dentro.
 \v Ez.40.10
 E as câmaras pequenas da porta do oriente eram três de um lado e três do outro; todas as três de uma mesma medida; também os pilares de um lado e do outro 
 \added
@@ -3534,9 +3547,10 @@ medição com
 \*added
  os pilares de sessenta côvados, o pilar do pátio ao redor da porta.
 \v Ez.40.15
-E desde a dianteira da porta de entrada até a dianteira do alpendre da porta interior havia cinquenta côvados.
+E desde a dianteira da porta de entrada até a dianteira do pórtico da porta interior havia cinquenta côvados.
 \v Ez.40.16
-Havia também janelas estreitas nas câmaras pequenas, e em seus pilares por dentro ao redor da porta, e assim também nos alpendres; e as janelas estavam ao redor por dentro; e em 
+Havia também janelas estreitas nas câmaras pequenas, e em seus pilares por dentro ao redor da porta, e assim também 
+nos pórticos; e as janelas estavam ao redor por dentro; e em 
 \added
 cada
 \*added
@@ -3558,9 +3572,10 @@ E mediu a largura desde a dianteira da porta inferior até a dianteira do pátio
 \v Ez.40.20
 E quanto à porta que estava voltada para o norte no átrio exterior, mediu seu comprimento e sua largura.
 \v Ez.40.21
-E suas câmaras pequenas eram três de um lado, e três de outro; e seus pilares e seus alpendres eram da mesma medida da primeira porta: cinquenta côvados era seu comprimento, e a largura era de vinte e cinco côvados.
+E suas câmaras pequenas eram três de um lado, e três de outro; e seus pilares e seus pórticos eram da mesma medida 
+da primeira porta: cinquenta côvados era seu comprimento, e a largura era de vinte e cinco côvados.
 \v Ez.40.22
-E suas janelas, e seus alpendres, e suas palmeiras, eram da medida da porta que estava voltada para o oriente; e subiam a ela por sete degraus; e seus alpendres eram diante deles.
+E suas janelas, e seu pórtico, e suas palmeiras, eram da medida da porta que estava voltada para o oriente; e subiam a ela por sete degraus; e seus alpendres eram diante deles.
 \v Ez.40.23
 E havia uma porta do pátio interior que ficava em frente da porta ao norte; e assim também 
 \added
@@ -3568,27 +3583,32 @@ outra
 \*added
  ao oriente; e mediu de porta a porta cem côvados.
 \v Ez.40.24
-Então me levou em direção ao sul, e eis que havia uma porta para o sul; e mediu seus pilares e seus alpendres, conforme a estas medidas.
+Então me levou em direção ao sul, e eis que havia uma porta para o sul; e mediu seus pilares e seu pórtico, conforme 
+a estas medidas.
 \v Ez.40.25
-E também tinha janelas, assim com havia janelas nos seus alpendres ao redor; o comprimento era de cinquenta côvados, e a largura de vinte e cinco côvados.
+E também tinha janelas, assim com havia janelas no seu pórtico em redor; o comprimento era de cinquenta côvados, e a 
+largura de vinte e cinco côvados.
 \v Ez.40.26
-E suas subidas eram de sete degraus, com seus alpendres diante deles; e tinha palmeiras de um lado e do outro em seus pilares.
+E suas subidas eram de sete degraus, com seu pórtico diante deles; e tinha palmeiras de um lado e do outro em seus 
+pilares.
 \v Ez.40.27
 Também havia uma porta no pátio interior voltada para o sul; e mediu de porta a porta para o sul, cem côvados.
 \v Ez.40.28
 Então ele me levou ao pátio interior pela porta do sul; e mediu a porta do sul conforme a estas medidas.
 \v Ez.40.29
-E suas câmaras pequenas, e seus pilares e seus alpendres eram conforme a estas medidas; e também tinham janelas ao redor de seus alpendres; o comprimento era de cinquenta côvados, e de a largura de vinte e cinco côvados.
+E suas câmaras pequenas, e seus pilares e seu pórtico eram conforme a estas medidas; e também tinham janelas ao redor de seus alpendres; o comprimento era de cinquenta côvados, e de a largura de vinte e cinco côvados.
 \v Ez.40.30
-E os alpendres ao redor eram de vinte e cinco côvados de comprimento e cinco côvados de largura.
+E o pórtico em redor era de vinte e cinco côvados de comprimento e cinco côvados de largura.
 \v Ez.40.31
-E seus alpendres estavam no pátio externo, com palmeiras em seus pilares; e suas subidas eram de oito degraus.
+E seu pórtico estava no pátio externo, com palmeiras em seus pilares; e suas subidas eram de oito degraus.
 \v Ez.40.32
 Depois me levou ao pátio interior, para o oriente, e mediu a porta conforme a estas medidas;
 \v Ez.40.33
-Assim como suas câmaras pequenas, seus pilares, e seus alpendres, conforme a estas medidas; e também tinha suas janelas ao redor de seus alpendres; o comprimento era de cinquenta côvados, e a largura de vinte e cinco côvados.
+Assim como suas câmaras pequenas, seus pilares, e seu pórtico, conforme a estas medidas; e também tinha suas janelas 
+ao redor de seu pórtico; o comprimento era de cinquenta côvados, e a largura de vinte e cinco côvados.
 \v Ez.40.34
-E seus alpendres estavam no pátio externo, com palmeiras em seus postes de um lado e do outro; e suas subidas eram de oito degraus.
+E seu pórtico estava no pátio externo, com palmeiras em seus postes de um lado e do outro; e suas subidas eram de 
+oito degraus.
 \v Ez.40.35
 Então me levou à porta do norte, e mediu conforme a estas medidas;
 \v Ez.40.36
@@ -3596,15 +3616,21 @@ Suas câmaras pequenas, seus pilares, e seus arcos, também tinham janelas ao re
 \v Ez.40.37
 E seus pilares estavam no pátio exterior, com palmeiras em seus pilares de um lado e do outro; e suas subidas eram de oito degraus.
 \v Ez.40.38
-E sua câmara e sua porta estavam junto dos pilares das portas, onde lavavam a oferta de queima.
+E sua câmara e sua porta estavam junto dos pilares das portas, onde lavavam o holocausto.
 \v Ez.40.39
-E no alpendre da porta havia duas mesas da um lado, e outras duas do outro, para nelas degolar a oferta de queima, o sacrifício pelo pecado, e o pela culpa.
+E no pórtico da porta havia duas mesas da um lado, e outras duas do outro, para nelas degolar o holocausto, o 
+sacrifício pelo pecado, e o 
+\added
+sacrifício
+\*added
+ pela culpa.
 \v Ez.40.40
-E ao lado de fora da subida para a entrada da porta do norte havia duas mesas; e do outro lado que estava no alpendre da porta, havia duas mesas.
+E ao lado de fora da subida para a entrada da porta do norte havia duas mesas; e do outro lado que estava no pórtico 
+da porta, havia duas mesas.
 \v Ez.40.41
 Quatro mesas de um lado, e quatro mesas do outro lado, junto à porta; oito mesas, sobre as quais degolavam.
 \v Ez.40.42
-E as quatro mesas para a oferta de queima eram de pedras lavradas, de um côvado e meio de comprimento, e um côvado e meio de largura, e um côvado de altura; sobre elas eram postos os instrumentos com que degolavam a oferta de queima e o sacrifício.
+E as quatro mesas para o holocausto eram de pedras lavradas, de um côvado e meio de comprimento, e um côvado e meio de largura, e um côvado de altura; sobre elas eram postos os instrumentos com que degolavam a oferta de queima e o sacrifício.
 \v Ez.40.43
 E havia ganchos de um palmo, dispostos por dentro ao redor; e sobre as mesas a carne da oferta.
 \v Ez.40.44
@@ -3616,17 +3642,18 @@ Mas a câmara que está voltada para o norte é para os sacerdotes que têm a gu
 \v Ez.40.47
 E mediu o pátio, cem côvados de comprimento, e cem côvados de largura, quadrado; e o altar estava diante do templo.
 \v Ez.40.48
-Então ele me levou ao alpendre do templo, e mediu 
+Então ele me levou ao pórtico do templo, e mediu 
 \added
 cada
 \*added
- pilar do alpendre, cinco côvados de um lado, e cinco côvados do outro; e a largura da porta 
+ pilar do pórtico, cinco côvados de um lado, e cinco côvados do outro; e a largura da porta 
 \added
 era
 \*added
  três côvados de um lado, e três côvados do outro.
 \v Ez.40.49
-O comprimento do alpendre era vinte côvados, e a largura onze côvados; e era com degraus, pelos quais se subia; e havia colunas junto aos pilares, uma de um lado, e outra do outro.
+O comprimento do pórtico era vinte côvados, e a largura onze côvados; e era com degraus, pelos quais se subia; e 
+havia colunas junto aos pilares, uma de um lado, e outra do outro.
 \v Ez.41.1
 Então ele me levou ao templo e mediu os pilares, seis côvados a largura de um lado, e seis côvados do outro, que era a largura da tenda.
 \v Ez.41.2
@@ -3666,7 +3693,8 @@ E mediu o templo, cem côvados de comprimento; e o lugar separado, e o edifício
 \v Ez.41.14
 E a largura da dianteira do templo, e do lugar separado ao oriente, era de cem côvados.
 \v Ez.41.15
-Também mediu o comprimento do edifício que estava diante do lugar separado que estava detrás dele, e suas galerias de um lado e do outro eram de cem côvados, com o templo interno, e os alpendres do pátio.
+Também mediu o comprimento do edifício que estava diante do lugar separado que estava detrás dele, e suas galerias 
+de um lado e do outro eram de cem côvados, com o templo interno, e o pórtico do pátio.
 \v Ez.41.16
 Os umbrais, e as janelas estreitas, e as galerias ao redor dos três andares, de frente ao umbral, estavam cobertas de madeira ao redor, desde o chão até as janelas; e as janelas estavam cobertas,
 \v Ez.41.17
@@ -3702,9 +3730,10 @@ ambos
 \v Ez.41.24
 E em cada portada havia duas divisões que podiam se virar; duas divisões em uma porta, e duas na outra.
 \v Ez.41.25
-E nelas, nas portas do templo, foram feitos querubins e palmeiras, assim como estavam feitos nas paredes; e havia uma viga espessa de madeira na dianteira do alpendre por fora.
+E nelas, nas portas do templo, foram feitos querubins e palmeiras, assim como estavam feitos nas paredes; e havia 
+uma viga espessa de madeira na dianteira do pórtico por fora.
 \v Ez.41.26
-E havia janelas estreitas e palmeiras de um lado e do outro, pelas laterais do alpendre, assim como nas câmaras laterais do templo, e nas vigas espessas.
+E havia janelas estreitas e palmeiras de um lado e do outro, pelas laterais do pórtico, assim como nas câmaras laterais do templo, e nas vigas espessas.
 \v Ez.42.1
 Depois disto ele me fez sair para o pátio externo, para o lado norte, e me levou às câmaras que estavam de frente ao lugar vazio, e que estavam de frente ao edifício 
 \added
@@ -3726,13 +3755,14 @@ E as câmaras de cima eram mais estreitas, pois as galerias eram mais altas que 
 \added
 isto é
 \*added
-,que as de baixo, e que as do andar do meio.
+, que as de baixo, e que as do andar do meio.
 \v Ez.42.6
 Porque elas estavam em três 
 \added
 andares
 \*added
-,porém não tinham colunas como as colunas dos pátios; por isso eram mais estreitas que as de baixo e as do meio, desde o chão.
+, porém não tinham colunas como as colunas dos pátios; por isso eram mais estreitas que as de baixo e as do meio, 
+desde o chão.
 \v Ez.42.7
 E o muro que estava por fora de frente às câmaras, voltado para o pátio exterior diante das câmaras, tinha cinquenta côvados de comprimento.
 \v Ez.42.8
@@ -3815,7 +3845,7 @@ Tu, filho do homem, mostra à nação de Israel este templo, para que se envergo
 \added
 do templo
 \*added
- .
+.
 \v Ez.43.11
 E se eles se envergonharem de tudo quanto fizeram, faze-lhes saber a forma da casa, e seu modelo, e suas saídas e suas entradas, e todas as suas formas, e todas os seus estatutos, e todas as suas formas, e todas as suas leis; e escreve diante de seus olhos, para que guardem toda a sua forma e todos os seus estatutos, e os façam.
 \v Ez.43.12
@@ -3853,7 +3883,8 @@ côvados
 \*added
  de comprimento e catorze de largura em seus quatro lados; e o contorno ao redor dela era de meio côvado, e a base dela de um côvado em redor; e seus degraus estavam voltados para o oriente.
 \v Ez.43.18
-E ele me disse-me: Filho do homem, assim diz o Senhor DEUS:  Estes são os estatutos do altar, no dia em que ele for feito, para oferecer sobre ele oferta de queima, e para espargir sangue sobre ele.
+E ele me disse-me: Filho do homem, assim diz o Senhor DEUS: Estes são os estatutos do altar, no dia em que ele for 
+feito, para sobre ele oferecer holocausto, e para espargir sangue sobre ele.
 \v Ez.43.19
 E aos sacerdotes Levitas que são da descendência 
 \fn
@@ -3868,7 +3899,7 @@ E tomarás de seu sangue, e porás nas pontas
 \added
 do altar
 \*added
-,e nas quatro esquinas da aresta, e no contorno ao redor; assim o limparás e o expiarás.
+, e nas quatro esquinas da aresta, e no contorno ao redor; assim o limparás e o expiarás.
 \v Ez.43.21
 Então tomarás o bezerro da expiação pelo pecado, e o queimarão no lugar 
 \added
@@ -3887,11 +3918,8 @@ o altar como o purificaram com o bezerro.
 \v Ez.43.23
 Quando tu acabares de expiar, oferecerás um bezerro sem defeito, filhote de vaca , e um carneiro sem defeito do rebanho;
 \v Ez.43.24
-E tu os oferecerás diante do SENHOR; e os sacerdotes deitarão sal sobre eles, e os oferecerão 
-\added
-por
-\*added
- oferta de queima ao SENHOR.
+E tu os oferecerás diante do SENHOR; e os sacerdotes lançarão sal sobre eles, e os oferecerão como holocausto 
+ao SENHOR.
 \v Ez.43.25
 Por sete dias prepararás um bode macho em cada dia de purificação; também prepararão um bezerro filhote de vaca, e um carneiro do rebanho, 
 \added
@@ -3915,7 +3943,8 @@ O príncipe;
 \added
 somente
 \*added
- o príncipe, ele se sentará nela, para comer pão diante do SENHOR; pelo caminho do alpendre da porta entrará, e pelo mesmo caminho sairá.
+ o príncipe, ele se sentará nela, para comer pão diante do SENHOR; pelo caminho do pórtico da porta entrará, e pelo 
+mesmo caminho sairá.
 \v Ez.44.4
 Depois me levou pelo caminho da porta do norte, diante da casa; e olhei, e eis que a glória do SENHOR havia enchido a casa do SENHOR; então caí sobre meu rosto.
 \v Ez.44.5
@@ -3946,7 +3975,8 @@ Contudo serão trabalhadores em meu santuário,
 \added
 como
 \*added
- porteiros às portas da casa, e servirão na casa: eles degolarão a oferta de queima e o sacrifício para o povo, e estarão diante deles para os servirem.
+ porteiros às portas da casa, e servirão na casa; eles degolarão o holocausto e o sacrifício para o povo, e estarão 
+diante deles para os servirem.
 \v Ez.44.12
 Pois os serviram diante de seus ídolos, e foram tropeço de maldade para a casa de Israel; por isso jurei de mão levantada contra eles, diz o Senhor DEUS,  que levarão sua iniquidade. 
 \v Ez.44.13
@@ -4099,11 +4129,14 @@ que
 \*added
  é um ômer de dez batos; porque dez batos são um ômer).
 \v Ez.45.15
-E uma cordeira de cada duzentas do rebanho, da mais regada terra de Israel, para oferta de alimento, para oferta de queima e oferta de gratidão, para fazer expiação por eles, diz o Senhor DEUS. 
+E uma cordeira de cada duzentas do rebanho, da terra mais regada de Israel, para oferta de alimento, para 
+holocausto e para oferta de gratidão, a fim de fazer expiação por eles, diz o Senhor DEUS. 
 \v Ez.45.16
 Todo o povo desta terra terá que dar esta oferta para o príncipe de Israel.
 \v Ez.45.17
-E o príncipe terá que dar as ofertas de queima, as ofertas de alimento, e as ofertas de bebidas, nas solenidades, nas luas novas, nos sábados, e em todas as festas da casa de Israel; ele fará a expiação pelo pecado, a oferta de alimento, a oferta de queima, e as ofertas de gratidão, para fazer expiação pela casa de Israel.
+E o príncipe terá que dar os holocaustos, as ofertas de alimento, e as ofertas de bebidas, nas solenidades, 
+nas luas novas, nos sábados, e em todas as festas da casa de Israel; ele fará a expiação pelo pecado, 
+a oferta de alimento, o holocausto, e as ofertas de gratidão, para fazer expiação pela casa de Israel.
 \v Ez.45.18
 Assim diz o Senhor DEUS: Ao primeiro 
 \added
@@ -4135,11 +4168,8 @@ mês
 \v Ez.45.22
 E no mesmo dia o príncipe preparará por si e por todo o povo desta terra um bezerro de expiação pelo pecado.
 \v Ez.45.23
-E nos sete dias da festa ele preparará oferta de queima ao SENHOR, 
-\added
-de
-\*added
- sete bezerros e sete carneiros sem defeito, cada dia dos sete dias; e um bode como expiação pelo pecado a cada dia.
+E nos sete dias da festa ele preparará um holocausto ao SENHOR: sete bezerros e sete carneiros sem defeito, cada dia 
+dos sete dias; e um bode como expiação pelo pecado a cada dia.
 \v Ez.45.24
 Também preparará uma oferta de alimento: um efa para cada bezerro, e um efa para cada carneiro; e um him de azeite para cada efa.
 \v Ez.45.25
@@ -4151,7 +4181,7 @@ mês
 \added
 todos
 \*added
- os sete dias, quanto ao sacrifício pela expiação, à oferta de queima, à oferta de alimento, e ao azeite.
+ os sete dias, quanto ao sacrifício pela expiação, ao holocausto, à oferta de alimento, e ao azeite.
 \v Ez.46.1
 Assim diz o Senhor DEUS: A porta do pátio de dentro que está voltada para oriente ficará fechada durante os seis dias de trabalho, porém no dia do sábado será aberta; também no dia de lua nova será aberta.
 \v Ez.46.2
@@ -4159,7 +4189,8 @@ E o príncipe entrará
 \added
 pelo
 \*added
- caminho do alpendre da porta de fora, e estará em pé junto ao umbral da porta, enquanto os sacerdotes prepararão sua oferta de queima e suas ofertas de gratidão; e ele ficará adorando 
+ caminho do pórtico da porta de fora, e estará em pé junto ao umbral da porta, enquanto os sacerdotes prepararão 
+o seu holocausto e suas ofertas de gratidão; e ele ficará adorando 
 \fn
 \key
 ficará adorando
@@ -4174,7 +4205,8 @@ mesma
 \*added
  porta, nos sábados e nas luas novas,.
 \v Ez.46.4
-E a oferta de queima que o príncipe oferecerá ao SENHOR no dia do sábado será seis cordeiros sem defeito e um carneiro sem defeito.
+E o holocausto que o príncipe oferecerá ao SENHOR no dia do sábado será seis cordeiros sem defeito e um carneiro 
+sem defeito.
 \v Ez.46.5
 E a oferta de alimento será um efa para cada carneiro; e para cada cordeiro um presente será o quanto ele puder dar, 
 \fn
@@ -4197,7 +4229,7 @@ por
 \*added
  oferta de alimento um efa para o bezerro, e um efa para o carneiro; mas para os cordeiros, conforme o quanto puder; e um him de azeite para cada efa.
 \v Ez.46.8
-E quando o príncipe entrar, ele entrará pelo caminho do alpendre da porta, e sairá pelo mesmo caminho.
+E quando o príncipe entrar, ele entrará pelo caminho do pórtico da porta, e sairá pelo mesmo caminho.
 \v Ez.46.9
 Mas quando o povo da terra vier para diante do SENHOR nas solenidades, aquele que entrar pelo caminho da porta do norte para adorar sairá pelo caminho da porta do sul; e aquele que entrar pelo caminho da porta do sul sairá pelo caminho da porta do norte; não voltará pelo caminho da porta por onde entrou, mas sairá pela 
 \added
@@ -4217,17 +4249,19 @@ E quando o príncipe fizer uma oferta voluntária de queima, ou ofertas de grati
 \added
 como
 \*added
- oferta voluntária ao SENHOR, então lhe abrirão a porta que está voltada para o oriente; e ele fará sua oferta de queima e suas ofertas de gratidão assim como tiver feito no dia do sábado; depois sairá, e fecharão a porta depois dele sair.
+ oferta voluntária ao SENHOR, então lhe abrirão a porta que está voltada para o oriente; e ele fará seu holocausto 
+e suas ofertas de gratidão assim como fizer no dia do sábado; depois sairá, e fecharão a porta depois dele sair.
 \v Ez.46.13
-E a cada dia prepararás um cordeiro sem defeito de um ano sem defeito como oferta de queima ao SENHOR; todas as manhãs o prepararás.
+E a cada dia prepararás um cordeiro sem defeito de um ano sem defeito como holocausto ao SENHOR; todas as manhãs o prepararás.
 \v Ez.46.14
-E juntamente com ele todas as manhãs prepararás uma oferta de alimento, a sexta parte de um efa, e a terça parte de um him de azeite para misturar com a flor de farinha; 
+E juntamente com ele todas as manhãs prepararás uma oferta de alimento, a sexta parte de um efa, e a terça parte de um 
+him de azeite para misturar com a boa farinha; 
 \added
 será
 \*added
  uma oferta de alimento para o SENHOR, continuamente, por estatuto perpétuo.
 \v Ez.46.15
-Assim prepararão o cordeiro e a oferta de alimento, todas as manhãs, em contínua oferta de queima.
+Assim prepararão o cordeiro e a oferta de alimento, todas as manhãs, em holocausto contínuo.
 \v Ez.46.16
 Assim diz o Senhor DEUS: Quando o príncipe der de presente 
 \added
@@ -4277,19 +4311,23 @@ E havia uma parede ao redor deles, ao redor dos quatro; e lugares de cozinhar ab
 \v Ez.46.24
 E me disse: Estas são as cozinhas, onde os trabalhadores da casa cozerão o sacrifício do povo.
 \v Ez.47.1
-Depois disto ele me fez voltar à entrada da casa; e eis que águas saíam de debaixo do umbral da casa para o oriente, pois a fachada da casa estava para o oriente; e as águas desciam de debaixo, desde o lado direito da casa, do lado sul do altar.
+Depois disto ele me fez voltar à entrada da casa; e eis que águas saíam de debaixo do umbral da casa para o oriente, 
+pois a fachada da casa estava para o oriente; e as águas desciam de debaixo, desde o lado direito da casa, do lado sul 
+do altar.
 \v Ez.47.2
-E tirou-me 
+E ele me tirou 
 \added
 pelo
 \*added
- caminho da porta do norte, e me fez rodear pelo caminho de fora, até a porta externa, pelo caminho voltado ao oriente; e eis que as águas corriam desde o lado direito.
+ caminho da porta do norte, e me fez rodear pelo caminho de fora, até a porta externa, pelo caminho voltado ao 
+oriente; e eis que águas corriam do lado direito.
 \v Ez.47.3
-E quando aquele homem saiu para o oriente, tinha um cordel de medir em sua mão; ele mediu mil côvados, e me fez passar pelas águas, que 
+E quando aquele homem saiu para o oriente, tinha em sua mão um cordel de medir; ele mediu mil côvados, e me fez 
+passar pelas águas, que 
 \added
 chegavam
 \*added
- até os tornozelos.
+ aos tornozelos.
 \v Ez.47.4
 E mediu mil 
 \added
@@ -4299,7 +4337,7 @@ côvados
 \added
 chegavam
 \*added
- até os joelhos. Mediu 
+ aos joelhos. Mediu 
 \added
 mais
 \*added
@@ -4307,57 +4345,67 @@ mais
 \added
 chegavam
 \*added
- até os lombos.
+ à cintura.
+\fn
+Ou: aos lombos
+\*fn
 \v Ez.47.5
 E mediu 
 \added
 mais
 \*added
- mil, e já era um rio que eu não podia passar, porque as águas ficaram tão profundas que o rio não se podia atravessar, a não ser a nado.
+ mil, e já era um rio que eu não podia passar, porque as águas eram tão profundas que o rio não se podia 
+atravessar a pé, somente a nado.
 \v Ez.47.6
-Então me disse: Viste 
+Então me disse: “Viste 
 \added
 isto
 \*added
-, filho do homem? Depois ele me levou e me fez voltar pela margem do ribeiro. 
+, filho do homem?” Depois ele me levou e trouxe-me de volta à margem do rio. 
 \v Ez.47.7
-E enquanto eu voltava, eis que na margem do ribeiro do ribeiro havia muitíssimas árvores, de um lado e do outro.
+Quando voltei, eis que na margem do rio havia muitíssimas árvores, de um lado e do outro.
 \v Ez.47.8
-Então me disse: Estas águas saem para a região do oriente, descem à planície, e entram no mar: e quando saem para o mar, as águas se tornam saudáveis. 
+Então me disse: “Estas águas saem para a região do oriente, descem à planície, e entram no mar; e quando chegarem ao 
+mar, tornarão saudáveis as águas.
 \v Ez.47.9
-E será que toda alma vivente que se move por onde quer que estes dois ribeiros passarem, viverá; e haverá muitíssimos peixes por ali terem passado estas águas, e ficarão saudáveis; e tudo viverá por onde quer que este este ribeiro passar.
+E será que toda alma vivente que se move por onde quer que estes rio passar, viverá; e haverá muitíssimos 
+peixes por ali terem passado estas águas, e ficarão saudáveis; e tudo viverá por onde quer que este este rio passar.
 \v Ez.47.10
 Será também que pescadores estarão junto a ele; desde En-Gedi até En-Eglaim haverá 
 \added
 lugares para
 \*added
- se estender redes; seus peixes serão segundo suas espécies, como os peixes do grande mar, muitos em grande quantidade.
+ se estender redes; seus peixes serão segundo suas espécies, como os peixes do grande mar, em muitíssima quantidade.
 \v Ez.47.11
-Porém seus charcos e seus pântanos não ficarão saudáveis; estarão entregues ao sal.
+Porém seus charcos e seus pântanos não ficarão saudáveis; estarão salgados.
 \v Ez.47.12
-E junto ao ribeiro, em sua margem de um lado e do outro, crescerá toda árvore para comer; sua folha nunca cairá, nem perecerá seu fruto; em 
+E junto do rio, em suas margens de um lado e do outro, crescerá toda árvore de comer; sua folha nunca cairá, nem 
+seu fruto faltará; em 
 \added
 todos os
 \*added
- seus meses produzirá frutos, porque suas águas saem do santuário; e seu fruto servirá para comer, e sua folha para remédio.
+ seus meses produzirá frutos, porque suas águas saem do santuário; e seu fruto servirá de alimento, e sua folha 
+de remédio.”
 \v Ez.47.13
-Assim diz o Senhor DEUS: Este é o limite em que tomareis a terra em herança segundo as doze tribos de Israel: José 
+Assim diz o Senhor DEUS: “Este é o limite em que tomareis a terra em herança segundo as doze tribos de Israel: José 
 \added
 terá
 \*added
  duas partes. 
 \v Ez.47.14
-E a herdareis igualmente uns como os outros; 
+E a herdareis igualmente, um como o outro; 
 \added
-pela
+terra
 \*added
- qual jurei de mão levantada que a daria a vossos pais; portanto esta terra se tornará vossa herança.
+ a qual jurei de mão levantada que daria aos vossos pais; portanto esta terra será a vossa herança.
 \v Ez.47.15
-E este será o limite da terra para o lado norte: desde o grande mar, a caminho de Hetlom vindo a Zedade;
+E este será o limite da terra para o lado norte: desde o mar Grande, a caminho de Hetlom, e indo por Lebo-Hamate 
+até Zedade;
 \v Ez.47.16
-Hamate, Berota, Sibraim (que está entre o limite de Damasco e o limite de Hamate); Hazer- Haticom, que está junto ao limite de Haurã.
+Berota, Sibraim (que está entre o limite de Damasco e o limite de Hamate); Hazer-Haticom, que está junto ao limite 
+de Haurã.
 \v Ez.47.17
-E o limite será desde o mar 
+E o limite será do mar 
 \added
 até
 \*added
@@ -4367,29 +4415,32 @@ este será
 \*added
  o lado norte.
 \v Ez.47.18
-Ao lado do oriente medireis desde entre Haurã e Damasco, e desde entre Gileade e a terra de Israel, junto ao Jordão; desde o limite do mar do oriente; 
+Ao lado do oriente, passando entre Haurã e Damasco, e entre Gileade e a terra de Israel, junto ao Jordão; medireis 
+desde o limite até do mar do oriente; 
 \added
 este será
 \*added
  o lado do oriente.
 \v Ez.47.19
-E ao lado sul, ao sul, será desde Tamar até as águas das inimizades; desde Cades e o ribeiro até o grande mar: e 
+E ao lado sul, ao sul, será desde Tamar até as águas de Meribá-Cades, indo ao longo do ribeiro até o grande mar; e 
 \added
 este será
 \*added
  o lado sul, ao sul.
 \v Ez.47.20
-E o lado do ocidente será o grande mar, desde o limite até chegar a Hamate: este será o lado do ocidente.
+E o lado do ocidente será o grande mar, desde o limite até Lebo-Hamate; este será o lado do ocidente.
 \v Ez.47.21
-Repartireis, pois, esta terra entre vós segundo as tribos de Israel.
+Repartireis, pois, esta terra entre vós, segundo as tribos de Israel.
 \v Ez.47.22
-E será que a sorteareis em herança para vós, e para os estrangeiros que peregrinam entre vós, que geraram filhos entre vós; e vos serão como nativos entre os filhos de Israel; repartirão herança convosco, entre as tribos de Israel.
+E será que a sorteareis em herança para vós, e para os estrangeiros que peregrinam entre vós, que tiverem gerado 
+filhos entre vós; e vos serão como nativos entre os filhos de Israel; repartirão herança convosco, entre as tribos 
+de Israel.
 \v Ez.47.23
 E será que na tribo onde o estrangeiro peregrinar, ali 
 \added
 lhe
 \*added
- dareis sua herança,diz o Senhor DEUS. 
+ dareis sua herança”, diz o Senhor DEUS. 
 \v Ez.48.1
 E estes são os nomes das tribos: Desde o extremo norte, do lado do caminho de Hetlom, vindo para Hamate, Hazar-Enom, ao limite de Damasco, para o norte, ao lado de Hamate; sendo seus extremos do oriente e do ocidente: esta é a porção de Dã. 
 \fn
@@ -4453,7 +4504,8 @@ E as cinco mil
 \added
 canas
 \*added
- de largura que restam das vinte e cinco mil, serão de uso comum para a cidade, para habitação e arrebaldes; e a cidade estará no meio delas.
+ de largura que restam das vinte e cinco mil, serão de uso comum para a cidade, para habitação e arredores; e a 
+cidade estará no meio delas.
 \v Ez.48.16
 E estas serão suas medidas: o lado norte quatro mil e quinhentas 
 \added
@@ -4471,7 +4523,8 @@ E quanto ao que restar do comprimento, na vizinhança da oferta santa, será dez
 \added
 canas
 \*added
- ao oriente e dez mil ao ocidente, que será vizinho à oferta santa; sua produção será alimento dos trabalhadores da cidade.
+ ao oriente e dez mil ao ocidente, que será vizinho à oferta santa; sua produção será alimento dos 
+trabalhadores da cidade.
 \v Ez.48.19
 E os trabalhadores da cidade, de todas as tribos de Israel, trabalharão nela.
 \v Ez.48.20
@@ -4565,7 +4618,7 @@ Ao redor terá dezoito mil
 \added
 côvados
 \*added
- . E o nome da cidade desde 
+. E o nome da cidade desde 
 \added
 aquele
 \*added

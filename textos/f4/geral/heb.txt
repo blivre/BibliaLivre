@@ -423,18 +423,20 @@ fraqueza
 \v Hb.5.4
 E ninguém toma para si esta honra, a não ser aquele que é chamado por Deus, como Arão.
 \v Hb.5.5
-Assim também Cristo não glorificou a si mesmo para se fazer Sumo Sacerdote; mas sim, àquele que lhe disse: Tu és meu Filho, eu hoje te gerei.
+Assim também Cristo não glorificou a si mesmo para se fazer Sumo Sacerdote; mas sim, àquele que lhe disse: Tu és 
+meu Filho, eu hoje te gerei.
 \v Hb.5.6
 Como também diz em outro 
 \added
 texto
 \*added
- : Tu és Sacerdote para sempre, segundo a ordem de Melquisedeque. 
+: Tu és Sacerdote para sempre, segundo a ordem de Melquisedeque. 
 \ref
 Salmos 110:4 
 \*ref
 \v Hb.5.7
-Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
+Ele, nos dias de seu corpo carnal, ofereceu com grande clamor e lágrimas, tanto orações como súplicas para 
+aquele que podia o livrar da morte, e foi ouvido por causa da devoção.
 \fn
 \key
 devoção
@@ -442,7 +444,7 @@ devoção
 ou: temor
 \*fn
 \v Hb.5.8
-Ainda que fosse o Filho, ele aprendeu a obediência por meio das coisas que sofreu.
+Ainda que ele era o Filho, aprendeu a obediência por meio das coisas que sofreu.
 \v Hb.5.9
 E, depois de ter sido consumado, ele foi feito autor da eterna salvação a todos os que lhe obedecem;
 \v Hb.5.10
@@ -493,7 +495,7 @@ ou: arrependimento
 \v Hb.6.7
 Pois a terra que absorve a chuva que com frequência vem sobre ela, e produz vegetação proveitosa para aqueles por quem e lavrada, recebe a bênção de Deus.
 \v Hb.6.8
-Contudo, se ela produz espinhos e abrolhos, é reprovada, e perto está da maldição. O seu fim é ser queimada.
+Contudo, se ela produz espinhos e cardos, é reprovada, e perto está da maldição. O seu fim é ser queimada.
 \v Hb.6.9
 Mas, ainda que estejamos falando assim, quanto a vós mesmos, amados, confiamos melhores coisas, relacionadas à salvação.
 \v Hb.6.10
@@ -1005,11 +1007,11 @@ Então eu disse: “Eis-me aqui; (no rolo do livro está escrito de mim) venho p
 Salmos 40:6-8 
 \*ref
 \v Hb.10.8
-Depois de ter dito acima: “{tr,rp:Sacrifício, oferta}{n4:Sacrifícios, ofertas},{trnc:
-\fn
+Depois de ter dito acima: “{tr,rp:Sacrifício, oferta}{n4:Sacrifícios, ofertas},
+{trnc:\fn
 N4: Sacrifícios, ofertas
-\*fn
- } ofertas de queima, e ofertas pelo pecado não quiseste, nem te agradaram”, (os quais se oferecem segundo a Lei),
+\*fn}
+ holocaustos, e ofertas pelo pecado não quiseste, nem te agradaram”, (os quais se oferecem segundo a Lei),
 \v Hb.10.9
 então disse: “Eis-me aqui, venho para fazer a tua vontade{tr,rp:, ó Deus”}.{trnc:
 \fn
@@ -1413,64 +1415,61 @@ sem nós, … aperfeiçoados
 isto é: para que eles fossem aperfeiçoados somente conosco
 \*fn
 \v Hb.12.1
-Portanto nós também, posto que estamos rodeados por uma tão grande nuvem de testemunhas, deixemos toda sobrecarga, e o pecado envolvente, e corramos com paciência a corrida que nos está proposta,
+Portanto nós também, posto que estamos rodeados por uma tão grande nuvem de testemunhas, deixemos toda sobrecarga, 
+e o pecado que facilmente nos envolve, e corramos com perseverança a corrida que nos está proposta,
 \v Hb.12.2
-olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que lhe estava proposta, suportou a cruz, desprezando a humilhação, e se assentou à direita do trono de Deus.
+olhando para Jesus, Autor e aperfeiçoador da fé. Ele, pela alegria que lhe estava proposta, suportou a cruz, 
+desprezando a humilhação, e assentou-se à direita do trono de Deus.
 \v Hb.12.3
-Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra si mesmo, para que não fiqueis exaustos, nem vossas almas se debilitem.
+Considerai, pois, aquele que suportou tal hostilidade dos pecadores contra si mesmo, para que não fiqueis exaustos, 
+nem vossas almas se debilitem.
 \v Hb.12.4
-Enquanto lutais contra o pecado, ainda não resististes ao sangue,
+Enquanto lutais contra o pecado, ainda não resististes ao ponto de ter o próprio sangue derramado,
 \fn
 \key
-resististes ao sangue
+resististes ao ponto de ter o próprio sangue derramado
 \*key
-i.e. resististes a ponto de ter que morrer (derramar sangue
+Lit. resististes ao sangue, i.e. resististes a ponto de morrer
 \*fn
- )
 \v Hb.12.5
-mas já vos esquecestes do encorajamento que ele fala convosco como a filhos: Meu filho, não desprezes a disciplina do Senhor, nem te canses de ser reprendido por ele;
+mas já vos esquecestes do encorajamento que ele fala convosco como a filhos: Meu filho, não desprezes a disciplina 
+do Senhor, nem te canses de ser reprendido por ele;
 \v Hb.12.6
 pois o Senhor disciplina a quem ama, e açoita a todo filho a quem recebe. 
 \ref
 3:11-12 
 \*ref
 \v Hb.12.7
-{tr:Se suportais a disciplina,}{rp,n4:É para a disciplina que suportais.}{trnc:
-\fn
+{tr:Se suportais a disciplina,}{rp,n4:É para a disciplina que suportais.}
+{trnc:\fn
 RP, N4: É para a disciplina que suportais
-\*fn
- } Deus vos trata como filhos; pois que filho há a quem o pai não discipline?
+\*fn}
+ Deus vos trata como filhos; pois que filho há a quem o pai não discipline?
 \v Hb.12.8
-Mas se estais sem disciplina, da qual todos são feitos participantes, sois então ilegítimos, e não filhos.
+Mas se estais sem disciplina, da qual todos são feitos participantes, então sois ilegítimos, e não filhos.
 \v Hb.12.9
 Além disso, tivemos os pais de nossa carne como disciplinadores, e nós os respeitávamos. Por acaso não nos sujeitaremos muito mais ao Pai dos espíritos, a fim de vivermos?
 \v Hb.12.10
-Pois eles 
+Porque eles, por um pouco de tempo, 
 \added
 nos
 \*added
- disciplinavam, por um pouco de tempo, como bem lhes parecia; mas Deus
-\fn
-\key
-Deus
-\*key
-lit. este. “Deus” incluído para aumentar clareza
-\*fn
- 
+ disciplinavam como bem lhes parecia. Ele, porém, 
 \added
-nos disciplina
+disciplina
 \*added
- para proveito 
+ para o 
 \added
 nosso
 \*added
-,a fim de sermos participantes da sua santidade.
+ proveito, a fim de que sejamos participantes da sua santidade.
 \v Hb.12.11
-De fato, enquanto presente, nenhuma disciplina parece ser motivo de alegria, mas sim de sofrimento; mas depois produz fruto pacífico de justiça aos que por ela foram exercitados.
+De fato, no presente, nenhuma disciplina parece ser motivo de alegria, mas sim, de sofrimento; mas depois produz 
+um fruto pacífico de justiça aos que foram exercitados por ela.
 \v Hb.12.12
-Portanto, levantai as mãos cansadas e os joelhos frouxos,
+Portanto, levantai as mãos cansadas e os joelhos enfraquecidos,
 \v Hb.12.13
-e "fazei caminhos retos para os vossos pés", para que o que está manco não se desloque, mas sim, que sare. 
+e "fazei caminhos retos para os vossos pés", para que o que está manco não se desvie, em vez disso, seja sarado. 
 \ref
 Provérbios 4:26 
 \*ref
@@ -1483,11 +1482,11 @@ Ninguém seja pecador sexual, ou profano como Esaú, que por uma refeição vend
 \v Hb.12.17
 Pois vós sabeis que depois, quando ele quis herdar a benção, foi rejeitado, porque não achou lugar para arrependimento, ainda que com lágrimas o tenha buscado.
 \v Hb.12.18
-Porque não chegastes a {tr,rp:um monte}{n4:algo}{trnc:
-\fn
+Porque não chegastes a {tr,rp:um monte}{n4:algo}
+{trnc:\fn
 N4 omite “um monte”
-\*fn
- } palpável, aceso com fogo, e à escuridão, às trevas, e à tempestade;
+\*fn}
+ palpável, aceso com fogo, e à escuridão, às trevas, e à tempestade;
 \v Hb.12.19
 ao som da trombeta, e à voz das palavras, que os que a ouviam, rogaram que não mais se lhes falasse palavra alguma;
 \v Hb.12.20
@@ -1499,16 +1498,13 @@ lhes
 \ref
 Êxodo 19:12,13 
 \*ref
-{trnc:
-\fn
+{trnc:\fn
 RP, N4 omitem “ou perfurado com um dardo”
-\*fn
- }{rp,n4:
+\*fn}
+{rp,n4:
 \fn
 TR acrescenta: “ou perfurado com um dado” ao final do versículo
-\*fn
- }
-
+\*fn}
 \v Hb.12.21
 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo). 
 \ref
@@ -1519,11 +1515,12 @@ Mas vós chegastes ao monte Sião, à cidade do Deus vivo, a Jerusalém celestia
 \v Hb.12.23
 à universal congregação e igreja dos primogênitos inscritos nos Céus, e a Deus, o Juiz de todos, e aos espíritos dos justos já aperfeiçoados;
 \v Hb.12.24
-e a Jesus, o Mediador de um Novo Testamento, e ao sangue da aspersão, que fala {tr:melhores coisas}{rp,n4:melhor coisa}{trnc:
-\fn
+e a Jesus, o Mediador de um Novo Testamento, e ao sangue da aspersão, que fala {tr:melhores coisas}
+{rp,n4:melhor coisa}
+{trnc:\fn
 RP, N4: melhor coisa
-\*fn
- } que 
+\*fn}
+ que 
 \added
 o de
 \*added
@@ -1539,11 +1536,12 @@ nos adverte
 \*added
  dos Céus.
 \v Hb.12.26
-A voz dele fez a terra tremer naquela ocasião, mas agora prometeu, dizendo: Ainda uma vez {tr,rp:faço}{n4:farei} tremer{trnc:
-\fn
+Sua voz fez a terra tremer naquela ocasião, mas agora ele prometeu, dizendo: Ainda uma vez {tr,rp:faço}{n4:farei} 
+tremer
+{trnc:\fn
 N4: farei tremer
-\*fn
- } não somente a terra, mas também o Céu. 
+\*fn}
+ não somente a terra, mas também o Céu. 
 \ref
 Ageu 2:6 
 \*ref
@@ -1552,7 +1550,7 @@ Esta
 \added
 expressão
 \*added
-,“Ainda uma vez”, mostra a remoção das coisas abaladas, como coisas criadas, para que as inabaláveis permaneçam.
+, “Ainda uma vez”, mostra a remoção das coisas abaladas, como coisas criadas, para que as inabaláveis permaneçam.
 \v Hb.12.28
 Por isso, já que recebemos um Reino inabalável, mantenhamos a graça,
 \fn
@@ -1561,17 +1559,11 @@ graça
 \*key
 ou: gratidão
 \*fn
- {tr,n4:e por ela sirvamos}{rp:pela qual servimos}{trnc:
-\fn
+ {tr,n4:e por ela sirvamos}{rp:pela qual servimos}
+{trnc:\fn
 RP: pela qual servimsos
 \*fn}
  a Deus de maneira que o agrade, com devoção e temor,
-\fn
-\key
-temor
-\*key
-ou: devoção
-\*fn
 \v Hb.12.29
 pois o nosso Deus é um fogo consumidor. 
 \ref
@@ -1580,9 +1572,10 @@ Deuteronômio 4:24
 \v Hb.13.1
 Permaneça o amor fraternal.
 \v Hb.13.2
-Não vos esqueçais de mostrardes hospitalidade, porque através dela alguns, sem saber, acolheram anjos.
+Não vos esqueçais de mostrar hospitalidade, porque através dela alguns, sem saber, acolheram anjos.
 \v Hb.13.3
-Lembrai-vos dos prisoneiros, como se estivésseis presos com eles; e dos que são maltratados, como se vós mesmos também estivessem sendo em 
+Lembrai-vos dos prisoneiros, como se estivésseis presos com eles; e dos que são maltratados, como se vós mesmos 
+também estivessem sendo em 
 \added
 vossos
 \*added
@@ -1598,12 +1591,14 @@ A
 \added
 vossa
 \*added
- maneira de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, nem te desampararei.
+ maneira de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, 
+nem te desampararei.
 \ref
 Deuteronômio 31:6 
 \*ref
 \v Hb.13.6
-De maneira que devemos ter a confiança de dizer: O Senhor é meu ajudador; não temerei o que o ser humano poderá fazer a mim. 
+De maneira que devemos ter a confiança de dizer: O Senhor é meu ajudador; não temerei o que o ser humano poderá 
+fazer a mim. 
 \ref
 Salmos 118:6 
 \*ref
@@ -1615,11 +1610,11 @@ Lembrai-vos de vossos líderes, que vos falaram a palavra de Deus. Observai o re
 \v Hb.13.8
 Jesus Cristo é o mesmo ontem, hoje, e eternamente.
 \v Hb.13.9
-Não vos deixeis levar por doutrinas várias e estranhas. Pois bom ao coração é ser fortificado pela graça, e não por alimentos, que não resultaram em proveito algum aos que com eles se {tr,rp:ocuparam}{n4:ocupam}.{trnc:
-\fn
+Não vos deixeis levar por doutrinas várias e estranhas. Pois bom ao coração é ser fortificado pela graça, e não 
+por alimentos, que não resultaram em proveito algum aos que com eles se {tr,rp:ocuparam}{n4:ocupam}.
+{trnc:\fn
 N4: ocupam
-\*fn
- }
+\*fn}
 \v Hb.13.10
 Temos um altar, do qual os que servem no tabernáculo não têm autoridade para comer;
 \v Hb.13.11
