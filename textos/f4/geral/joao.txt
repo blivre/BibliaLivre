@@ -152,31 +152,38 @@ Disse-lhes ele: Vinde, e vede-o; Vieram, e viram onde morava, e na companhia del
 \v Jo.1.40
 Era André, o irmão de Simão Pedro, um dos dois que ouvira aquilo de João, e o haviam seguido.
 \v Jo.1.41
-Este achou primeiro a seu irmão Simão, e disse-lhe: Já achamos ao Messias(que traduzido, é o Cristo).
+Este achou primeiro a seu irmão Simão, e disse-lhe: “Já achamos ao Messias” (que traduzido, é o Cristo).
 \v Jo.1.42
-E levou-o a Jesus. E Jesus, olhando para ele, disse: Tu és Simão, filho de Jonas; tu serás chamado Cefas. (que se traduz Pedro).
+E o levou a Jesus. E Jesus, olhando para ele, disse: “Tu és Simão, filho de Jonas; tu serás chamado Cefas” (que, 
+traduzido, é Pedro).
 \v Jo.1.43
-O dia seguinte Jesus quis ir à Galileia, achou Filipe, e disse-lhe: Segue-me.
+No dia seguinte, {tr:Jesus}{rp,n4:ele}
+{trnc:\fn
+N4: ele
+\*fn}
+ quis ir à Galileia, achou Filipe, e disse-lhe: “Segue-me.”
 \v Jo.1.44
-E Filipe era de Betsaida, da cidade de André e de Pedro.
+Filipe era de Betsaida, a cidade de André e de Pedro.
 \v Jo.1.45
-Filipe achou Natanael, e disse-lhe: Achamos 
+Filipe achou Natanael, e disse-lhe: “Achamos
 \added
 aquele
 \*added
- de quem Moisés escreveu na Lei, e os Profetas: a Jesus, o filho de José, de Nazaré.
+ de quem Moisés escreveu na Lei, e os profetas: Jesus, filho de José, de Nazaré.”
 \v Jo.1.46
-E disse-lhe Natanael: Pode haver alguma coisa boa de Nazaré? Filipe lhe disse: Vem, e vê.
+E Natanael lhe respondeu: “Pode haver algo bom de Nazaré?” Filipe lhe disse: “Vem, e vê.”
 \v Jo.1.47
-Jesus viu Natanael vir, e disse dele: Eis verdadeiramente um israelita, em quem não há engano!
+Jesus viu Natanael vir a si, e disse acerca dele: “Aí está um verdadeiro israelita, em quem não há engano!”
 \v Jo.1.48
-Natanael lhe disse: De onde tu me conheces? Respondeu Jesus, e disse-lhe: Antes que Filipe te chamasse, estando tu debaixo da figueira, eu te vi.
+Natanael lhe disse: “De onde tu me conheces?” Jesus lhe respondeu: “Antes que Filipe te chamasse, estando tu 
+debaixo da figueira, eu te vi.”
 \v Jo.1.49
-Natanael respondeu, e disse-lhe: Rabi, tu és o Filho de Deus, tu és o Rei de Israel!
+Natanael lhe disse: “Rabi, tu és o Filho de Deus, tu és o Rei de Israel!”
 \v Jo.1.50
-Jesus respondeu, e disse-lhe: Porque te disse: Debaixo da figueira te vi, crês? Tu verás coisas maiores que estas.
+Jesus lhe respondeu: “Porque te disse: ‘Debaixo da figueira te vi’, crês? Tu verás coisas maiores que estas.”
 \v Jo.1.51
-E disse-lhe: Em verdade, em verdade vos digo, que daqui em diante vereis o céu aberto, e aos anjos de Deus subir e descer sobre o Filho do homem.
+E disse-lhe: “Em verdade, em verdade vos digo, que daqui em diante vereis o céu aberto, e aos anjos de Deus subirem 
+e descerem sobre o Filho do homem.”
 \v Jo.2.1
 E no terceiro dia houve um casamento em Caná da Galileia; e a mãe de Jesus estava ali.
 \v Jo.2.2
@@ -193,9 +200,8 @@ E estavam ali postos seis vasos de pedra, conforme à purificação dos judeus, 
 \key
 duas ou três metretas
 \*key
-cerca de 100 litros (1 metreta era aproximadamente 40 litros
+cerca de 100 litros (1 metreta era aproximadamente 40 litros)
 \*fn
-)
 \v Jo.2.7
 Disse-lhes Jesus: Enchei estes vasos com água. E encheram-nas até encima.
 \v Jo.2.8
@@ -233,7 +239,10 @@ E tendo feito um açoite com cordas, lançou todos para fora do Templo, assim co
 \v Jo.2.16
 E aos que vendiam pombas, disse: Tirai isto daqui; e não torneis a casa de meu Pai uma casa de comércio!
 \v Jo.2.17
-E lembraram-se seus discípulos que está escrito: O zelo de tua casa me tem me devorado.
+E seus discípulos lembraram-se de que está escrito: “O zelo de tua casa me devora.”
+\ref
+Salmo 69:9
+\*ref
 \v Jo.2.18
 Responderam pois os Judeus, e disseram-lhe: Que sinal nos mostras de que fazes estas coisas?
 \v Jo.2.19
@@ -758,23 +767,20 @@ pela
 \*added
  comida que permanece para vida eterna, a qual o Filho do homem vos dará; porque Deus Pai a este selou.
 \v Jo.6.28
-Disseram-lhe pois: Que faremos para trabalhar as obras de Deus?
+Disseram-lhe, pois: “Que faremos para trabalhar as obras de Deus?”
 \v Jo.6.29
-Respondeu Jesus, e disse-lhes: Esta é a obra de Deus: que creiais naquele que ele enviou.
+Jesus respondeu, e disse-lhes: “Esta é a obra de Deus: que creiais naquele que ele enviou.”
 \v Jo.6.30
-Disseram-lhe pois: Que sinal, pois, fazes tu para que o vejamos, e em ti creiamos? O que tu operas?
+Disseram-lhe pois: “Que sinal, pois, fazes tu para que o vejamos, e em ti creiamos? O que tu operas?
 \v Jo.6.31
-Nossos pais comeram o maná no deserto, como está escrito: Pão do céu ele lhes deu para comer.
+Nossos pais comeram o maná no deserto, como está escrito: ‘Ele lhes deu pão do céu para comer.’”
 \v Jo.6.32
-Então Jesus lhes disse: Em verdade, em verdade vos digo, que Moisés não vos deu o pão do céu; mas meu Pai vos dá o verdadeiro pão do céu.
+Então Jesus lhes disse: Em verdade, em verdade vos digo, que Moisés não vos deu o pão do céu; mas meu Pai vos dá 
+o verdadeiro pão do céu.
 \v Jo.6.33
 Porque o pão de Deus é aquele que desce do céu e dá vida ao mundo.
 \v Jo.6.34
-Disseram-lhe pois: Senhor, dá-nos sempre 
-\added
-d
-\*added
- este pão.
+Disseram-lhe, pois: Senhor, dá-nos sempre deste pão.
 \v Jo.6.35
 E Jesus lhes disse: Eu sou o pão da vida; quem vem a mim de maneira nenhuma terá fome, e quem crê em mim nunca terá sede.
 \v Jo.6.36
@@ -2201,15 +2207,22 @@ E eu tenho lhes dado a glória que tu me deste, para que sejam um, tal como nós
 Eu neles, e tu em mim; para que sejam completos em um; e para que o mundo conheça que tu me enviaste, e que tu os 
 amaste, assim como me amaste.
 \v Jo.17.24
-Pai, aqueles que tens me dado, quero que onde eu estiver, eles também estejam comigo; para que vejam minha glória, que tens me dado, pois tu me amaste desde antes da fundação do mundo.
+Pai, aqueles que me deste, quero que, onde eu estiver, também eles estejam comigo; para que vejam a minha glória, 
+que me deste, pois tu me amaste desde antes da fundação do mundo.
 \v Jo.17.25
-Pai justo, o mundo também não tem te conhecido, e estes têm conhecido que tu me enviaste.
+Pai justo, o mundo não te conheceu, mas eu te conheci, e estes conheceram que tu me enviaste.
 \v Jo.17.26
-E eu fiz teu nome ser conhecido por eles, e eu farei com que seja conhecido, para que o amor com que me amaste esteja neles, e eu neles.
+E eu lhes fiz conhecer o teu nome, e eu o farei conhecido, para que o amor com que me amaste esteja neles, e 
+eu neles 
+\added
+esteja
+\*added
+.
 \v Jo.18.1
-Havendo Jesus dito estas coisas, saiu com seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, em que ele entrou ele, e seus discípulos.
+Havendo Jesus dito estas coisas, saiu com seus discípulos para além do ribeiro de Cedrom, onde havia um jardim, 
+em que entraram ele e seus discípulos.
 \v Jo.18.2
-E também Judas, o que o traía, conhecia aquele lugar; porque muitas vezes se juntara ali Jesus com seus discípulos.
+E também Judas, o que o traía, conhecia aquele lugar; porque muitas vezes Jesus se juntava ali com seus discípulos.
 \v Jo.18.3
 Tendo Judas, pois, tomado a tropa e 
 \added

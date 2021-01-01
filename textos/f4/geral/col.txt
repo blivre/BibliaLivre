@@ -65,7 +65,8 @@ Por isso também, desde o dia que
 \added
 o
 \*added
- ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda sabedoria e entendimento espiritual;
+ ouvimos, não paramos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda sabedoria 
+e entendimento espiritual;
 \v Cl.1.10
 para que possais andar dignamente 
 \added
@@ -83,20 +84,19 @@ N4: vos capacitou
 \v Cl.1.13
 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
 \v Cl.1.14
-em quem temos a libertação{tr: pelo seu sangue}:{trnc:
-\fn
+em quem temos a redenção{tr: pelo seu sangue}:
+{trnc:\fn
 TR, RP omitem: “pelo seu sangue”
-\*fn
- }{rp,n4:
-\fn
-TR contém: “libertação pelo seu sangue”
-\*fn
- } o perdão dos pecados.
+\*fn}
+{rp,n4:\fn
+TR contém: “redenção pelo seu sangue”
+\*fn}
+ o perdão dos pecados.
 \v Cl.1.15
 Ele é a imagem do Deus invisível, o primogênito de toda a criação;
 \v Cl.1.16
 porque nele foram criadas todas as coisas que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam 
-domínios, sejam governos, sejam autoridades; todas as coisas foram criadas por ele e para ele.
+domínios, sejam principados, sejam autoridades; todas as coisas foram criadas por ele e para ele.
 \v Cl.1.17
 Ele existe antes de todas as coisas, e nele todas as coisas se mantêm.
 \v Cl.1.18
@@ -161,15 +161,13 @@ Lit. em carne
 \*fn
 \v Cl.2.2
 para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da pleno entendimento, 
-para conhecimento do mistério de Deus{tr,rp:, e do Pai, e de}{n4::} Cristo.{trnc:
-\fn
+para conhecimento do mistério de Deus{tr,rp:, e do Pai, e de}{n4::} Cristo.
+{trnc:\fn
 N4 omite “e do Pai, e de”, e contém: “mistério de Deus: Cristo”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 TR, RP contêm: “mistério de Deus, e do Pai, e de Cristo”
-\*fn
- }
+\*fn}
 \v Cl.2.3
 Nele estão ocultos todos os tesouros da sabedoria e do conhecimento.
 \v Cl.2.4
@@ -236,15 +234,14 @@ Ninguém, pois, se faça de juiz contra vós, insistindo nos pretextos de “hum
 \fn
 Ou: “culto dos anjos”
 \*fn
- , envolvendo-se {tr,rp:em coisas que nunca viu}{n4:em suas “visões”},{trnc:
-\fn
+, envolvendo-se {tr,rp:em coisas que nunca viu}{n4:em suas “visões”},
+{trnc:\fn
 TR, RP: “intrometendo-se em coisas que nunca viu” - N4: “prolongando-se em suas ‘visões’”
-\*fn
- }{n4:
-\fn
+\*fn}
+{n4:\fn
 N4: “prolongando-se em suas ‘visões’”; TR, RP “intrometendo-se em coisas que nunca viu”
-\*fn
- } vangloriando-se em sua mentalidade carnal,
+\*fn}
+ vangloriando-se em sua mentalidade carnal,
 \v Cl.2.19
 e não se ligando à cabeça, da qual todo o corpo, suprido e organizado pelas juntas e ligamentos, vai crescendo com o crescimento da parte de Deus.
 \v Cl.2.20

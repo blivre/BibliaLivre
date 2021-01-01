@@ -11,9 +11,10 @@ Sl
 PSA
 \*ubs-code
 \v Sl.1.1
-Bem-aventurado o homem que não anda no conselho dos maus, nem fica parado no caminho dos pecadores, nem se senta junto dos escarnecedores.
+Bem-aventurado o homem que não anda no conselho dos maus, nem fica no caminho dos pecadores, nem se assenta 
+na companhia dos escarnecedores;
 \v Sl.1.2
-Mas sim, que tem seu prazer na Lei do SENHOR; e medita em sua Lei de dia e de noite.
+mas que tem seu prazer na Lei do SENHOR; e na sua Lei medita de dia e de noite.
 \v Sl.1.3
 Porque ele será como uma árvore, plantada junto a ribeiros de águas, que dá fruto a seu 
 \added
@@ -61,7 +62,7 @@ por
 \v Sl.2.9
 Com cetro de ferro tu as quebrarás; como vaso de oleiro tu as despedaçarás;
 \v Sl.2.10
-Portanto agora, reis, sede prudentes; vós, juízes da terra, deixai serdes instruídos.
+Agora, pois, reis, sede prudentes; vós, juízes da terra, deixai-vos ser instruídos.
 \v Sl.2.11
 Servi ao SENHOR com temor; e alegrai-vos com tremor.
 \v Sl.2.12
@@ -733,16 +734,10 @@ Porque tu não deixarás a minha alma no Xeol,
 \fn
 Xeol é o lugar dos mortos
 \*fn
- nem permitirás que teu Santo veja a degradação.
-\fn
-Ou: deterioração, putrefação
-\*fn
+ nem permitirás que teu Santo veja a decomposição.
 \v Sl.16.11
-Tu me farás conhecer o caminho da vida; fartura de alegrias 
-\added
-há
-\*added
- em tua presença; agrados estão em tua mão direita para sempre.
+Tu me farás conhecer o caminho da vida; na tua presença há fartura de alegrias; prazeres estão à tua direita 
+para sempre.
 \psalm-title
 Oração de Davi:
 \*psalm-title
@@ -1448,11 +1443,11 @@ que
 \*added
  deve escolher.
 \v Sl.25.13
-Sua alma habitará no bem; e sua semente 
-\added
-isto é, sua descendência
-\*added
- possuirá a terra em herança.
+Sua alma habitará no bem; e sua descendência
+\fn
+Lit. semente
+\*fn
+ herdará a terra.
 \v Sl.25.14
 O segredo do SENHOR é para os que o temem; e ele lhes faz conhecer seu pacto.
 \v Sl.25.15
@@ -3499,7 +3494,7 @@ tuas preocupações
 \v Sl.55.23
 Porém tu, SENHOR, farás com que eles desçam ao poço da perdição; os homens sanguinários e enganadores não viverão a metade de seus dias; e eu confiarei em ti.
 \psalm-title
-Salmo “Mictão” de Davi para o regente, conforme “pombas silenciosas ao longe”, quando os filisteus o prenderam em Gate:
+Salmo “Mictam” de Davi para o regente, conforme “pombas silenciosas ao longe”, quando os filisteus o prenderam em Gate:
 \*psalm-title
 \v Sl.56.1
 Tem misericórdia de mim, ó Deus, porque o homem procura me devorar; todo o dia ele me oprime em lutas.
@@ -3567,64 +3562,39 @@ eu
 \*added
  andar diante de Deus na luz dos viventes.
 \psalm-title
-Salmo “Mictão” para o regente, conforme “Altachete”; de Davi, quando fugia de diante de Saul, na caverna:
+Salmo “Mictam” para o regente, conforme “Altachete”; de Davi, quando fugia de diante de Saul, na caverna:
 \*psalm-title
 \v Sl.57.1
-Tem misericórdia de mim, ó Deus, tem misericórdia de mim; porque minha alma confia em ti, e eu me refugio sob a sombra de tuas asas, até que os 
-\added
-meus
-\*added
- problemas passem de mim.
+Tem misericórdia de mim, ó Deus, tem misericórdia de mim; porque a minha alma confia em ti, e na sobra das suas asas
+me refugio, até que as calamidades passem.
 \v Sl.57.2
-Clamarei ao Deus Altíssimo; a Deus, que cumprirá 
-\added
-sua obra
-\*added
- em mim.
+Clamarei ao Deus Altíssimo, ao Deus que age em meu favor.
 \v Sl.57.3
-Ele enviará desde os céus e me livrará, humilhando ao que procura me demorar. (Selá)Deus enviará sua bondade e sua verdade.
+Ele enviará desde os céus e me salvará; ele humilha ao que procura me devorar. (Selá) Deus enviará sua bondade 
+e sua fidelidade.
 \v Sl.57.4
-Minha alma está no meio dos leões, estou deitado 
+Minha alma está entre leões, estou deitado 
 \added
 entre
 \*added
- brasas ardentes, filhos de homens, cujos dentes são lanças e flechas, e a língua deles são espada afiada.
+ os ferozes; os filhos dos homens, cujos dentes são lanças e flechas, e cuja língua é espada afiada.
 \v Sl.57.5
-Exalta-te sobre os céus, ó Deus; 
-\added
-esteja
-\*added
- tua glória sobre toda a terra.
+Exalta-te, ó Deus, sobre os céus; seja a tua glória sobre toda a terra.
 \v Sl.57.6
-Prepararam uma rede de armadilha para os meus passos, minha alma 
-\added
-estava
-\*added
- abatida; cavaram perante mim uma cova, 
-\added
-porém
-\*added
- eles mesmos caíram nela. (Selá)
+Armaram uma rede para os meus passos, minha alma estava abatida; cavaram perante mim uma cova; eles mesmos 
+caíram nela. (Selá)
 \v Sl.57.7
-Firme está meu coração, ó Deus; meu coração está firme; eu cantarei, e louvarei com músicas.
+Firme está o meu coração, ó Deus; meu coração está firme; eu cantarei e darei louvores.
 \v Sl.57.8
-Desperta-te, ó glória minha! Desperta, lira e harpa; despertarei ao amanhecer.
+Desperta, ó glória minha! Desperta, lira e harpa; despertarei ao amanhecer.
 \v Sl.57.9
 Eu te louvarei entre os povos, Senhor; cantarei louvores a ti entre as nações.
 \v Sl.57.10
-Pois tua bondade é grande, 
-\added
-alcança
-\*added
- até os céus; e a tua fidelidade até as nuvens mais altas.
+Pois tua bondade é grande, até os céus; e a tua fidelidade até as nuvens mais altas.
 \v Sl.57.11
-Exalta-te sobre os céus, ó Deus; 
-\added
-esteja
-\*added
- tua glória sobre toda a terra.
+Exalta-te, ó Deus, sobre os céus;  seja a tua glória sobre toda a terra.
 \psalm-title
-Salmo “Mictão” de Davi, para o regente, conforme “Altachete”:
+Salmo “Mictam” de Davi, para o regente, conforme “Altachete”:
 \*psalm-title
 \v Sl.58.1
 Congregação, por acaso falais verdadeiramente o que é justo? Vós, Filhos dos homens, julgais corretamente?
@@ -3669,7 +3639,7 @@ e
 \v Sl.58.11
 Então o homem dirá: Certamente há recompensa para o justo; certamente há Deus, que julga na terra.
 \psalm-title
-Salmo “Mictão” de Davi, para o regente, conforme “Altachete”, quando Saul enviou pessoas para vigiarem sua casa e o matarem:
+Salmo “Mictam” de Davi, para o regente, conforme “Altachete”, quando Saul enviou pessoas para vigiarem sua casa e o matarem:
 \*psalm-title
 \v Sl.59.1
 Livra-me de meus inimigos, ó Deus meu; protege-me dos que se levantam contra mim.
@@ -3756,7 +3726,7 @@ que és
 \*added
  minha força; porque Deus é o meu refúgio, ó Deus de bondade para comigo.
 \psalm-title
-Salmo “Mictão” de Davi, de ensinamento, para o regente, conforme “Susanedute”, quando lutou contra os de Arã-Naraim e Arã-Zobá, e Joabe voltou vitorioso, tendo ferido no Vale do Sal a doze mil dos de Edom:
+Salmo “Mictam” de Davi, de ensinamento, para o regente, conforme “Susanedute”, quando lutou contra os de Arã-Naraim e Arã-Zobá, e Joabe voltou vitorioso, tendo ferido no Vale do Sal a doze mil dos de Edom:
 \*psalm-title
 \v Sl.60.1
 Deus, tu nos rejeitaste, e nos quebraste; tu te encheste de ira. 
@@ -3938,7 +3908,6 @@ de
  Deus 
 \added
 vem
-
 \*added
  o poder.
 \v Sl.62.12
@@ -5007,89 +4976,72 @@ Ele cortará o espírito dos governantes; ele é temível aos reis da terra.
 Salmo de Asafe, para o regente, conforme “Jedutum”:
 \*psalm-title
 \v Sl.77.1
-Clamo a Deus com minha voz, minha voz a Deus; e ele inclinará seus ouvidos a mim.
+Clamo a Deus com a minha voz, minha voz a Deus; e ele inclinará seus ouvidos a mim.
 \v Sl.77.2
-No dia da minha angústia busquei ao Senhor; minha mão estava continuamente estendida; minha alma não se deixava consolar.
+No dia da minha angústia busquei ao Senhor; minha mão se estendeu de noite sem cessar; minha alma não se 
+deixava consolar.
 \v Sl.77.3
-Eu ficava me lembrando de Deus, e gemendo; ficava pensativo, e meu espírito desfalecia. (Selá)
+Lembro-me de Deus e fico gemendo; medito, e o meu espírito está abatido. (Selá)
 \v Sl.77.4
-Tu mantiveste abertas as pálpebras dos meus olhos; eu estava perturbado, e não conseguia falar.
+Sustentaste abertas as pálpebras dos meus olhos; estou tão perturbado que não posso falar.
 \v Sl.77.5
-Eu ficava imaginando os dias antigos, e os anos passados.
+Considero os dias antigos, e os anos do passado;
 \v Sl.77.6
-De noite eu me lembrava de minha canção; meditava em meu coração; e meu espírito ficava procurando 
-\added
-entender
-\*added
-.
+de noite me lembro do meu cântico; medito em meu coração; e o meu espírito pergunta:
 \v Sl.77.7
-Será que o Senhor rejeitará para sempre? E nunca mais mostrará seu favor?
+“Acaso o Senhor rejeitará para sempre, e nunca mais será favorável?
 \v Sl.77.8
-A sua bondade se acabou para sempre? Ele deu fim à 
-\added
-sua
-\*added
- promessa de geração em geração?
+Cessou para sempre a sua bondade? Acabou-se a promessa de geração em geração?
 \v Sl.77.9
-Deus se esqueceu de ter misericórdia? Ele encerrou suas compaixões por causa de sua ira? (Selá)
+Esqueceu-se Deus de ter misericórdia? Encerrou ele suas compaixões em sua ira?” (Selá)
 \v Sl.77.10
-Então eu disse: Esta é a minha dor: os anos em que a mão do Altíssimo 
-\added
-agia
-\*added
- .
+Então eu disse: “Esta é a minha angústia: a mão direita do Altíssimo mudou”.
+\fn
+\key
+Esta é a minha angústia ... mudou
+\*key
+Obscuro. Trad. alt.: “A isto eu apelarei: aos anos da mão direita do Altíssimo”.
+\*fn
 \v Sl.77.11
-Eu me lembrarei das obras do SENHOR; porque me lembrarei de tuas antigas maravilhas.
+Eu me lembrarei das obras do SENHOR; porque recordarei as tuas maravilhas antigas.
 \v Sl.77.12
-Meditarei em todos as tuas obras, e falarei de teus feitos.
+Meditarei em todos as tuas obras, e falarei dos teus feitos.
 \v Sl.77.13
-Deus, santo 
-\added
-é
-\*added
- o teu caminho; quem é deus 
-\added
-tão
-\*added
- grande como 
+Deus, santo é o teu caminho; que deus é grande como o 
 \added
 nosso
 \*added
  Deus?
 \v Sl.77.14
-Tu 
-\added
-és
-\*added
- o Deus que faz maravilhas; tu fizeste os povos conhecerem teu poder.
+Tu és o Deus que faz maravilhas; tu fizeste notória a tua força entre os povos.
 \v Sl.77.15
-Com 
+Resgataste com o
 \added
 teu
 \*added
- braço livraste teu povo, os filhos de Jacó e de José. (Selá)
+ braço o teu povo, os filhos de Jacó e de José. (Selá)
 \v Sl.77.16
 As águas te viram, ó Deus; as águas te viram, 
 \added
 e
 \*added
- tremeram; também os abismos foram abalados.
+ tremeram; também os abismos se abalaram.
 \v Sl.77.17
-Grandes nuvens derramaram muitas águas; os céus fizeram barulho; e também tuas flechas correram de um lado ao outro.
+Grossas nuvens lançaram água; os céus trovejaram; também as tuas flechas correram de um lado ao outro.
 \v Sl.77.18
-O ruído de teus trovões 
+O estrondo do teu trovão
 \added
-estava
+ecoa
 \*added
- nos ventos; relâmpagos iluminaram ao mundo; a terra se abalou e tremou.
+ em redor; relâmpagos iluminaram o mundo; a terra abalou-se e tremou.
 \v Sl.77.19
-Pelo mar 
+O teu caminho 
 \added
 foi
 \*added
- teu caminho; e tuas veredas por muitas águas; e tuas pegadas não foram conhecidas.
+ pelo mar, e as tuas veredas por muitas águas; e as tuas pegadas não foram conhecidas.
 \v Sl.77.20
-Guiaste a teu povo como a um rebanho, pela mão de Moisés e de Arão.
+Guiaste o teu povo como um rebanho, pela mão de Moisés e de Arão.
 \psalm-title
 Instrução de Asafe:
 \*psalm-title
@@ -5665,7 +5617,7 @@ voltem à loucura.
 \v Sl.85.9
 Certamente sua salvação está perto daqueles que o temem, para que a glória habite em nossa terra.
 \v Sl.85.10
-A bondade e a verdade se encontrarão; a justiça e a paz se beijarão.
+A bondade e a verdade se encontraram; a justiça e a paz se beijaram.
 \v Sl.85.11
 A verdade brotará da terra, e a justiça olhará desde os céus.
 \v Sl.85.12
@@ -6683,27 +6635,33 @@ As árvores do SENHOR são fartamente
 \added
 nutridas
 \*added
-,os cedros do Líbano, que ele plantou.
+, os cedros do Líbano, que ele plantou.
 \v Sl.104.17
 Onde as aves fazem ninhos, e os pinheiros são as casas para as cegonhas.
 \v Sl.104.18
-Os altos montes são para as cabras selvagens; as rochas, refúgio para os coelhos.
+Os altos montes são para as cabras selvagens; as rochas, refúgio para os roedores.
+\fn
+\key
+roedores
+\*key
+i.e., pequenos mamíferos também chamados de híraces
+\*fn
 \v Sl.104.19
 Ele fez a lua para 
 \added
 marcar
 \*added
- os tempos, e o sol sobre seu poente.
+ as estações, e o sol sabe quando se pôr.
 \v Sl.104.20
 Ele dá ordens à escuridão, e faz haver noite, quando saem todos os animais do mato.
 \v Sl.104.21
-Os filhos dos leões, rugindo pela presa, e para buscar de Deus sua comida.
+Os leõezinhos rugem pela presa, e buscam de Deus o seu alimento.
 \v Sl.104.22
 Quando o sol volta a brilhar, 
 \added
 logo
 \*added
- se recolhem, e vão se deitar em suas tocas.
+ se recolhem, e vão se deitar nas suas tocas.
 \v Sl.104.23
 Então o homem sai para seu trabalho e sua obra até o entardecer.
 \v Sl.104.24
@@ -6751,7 +6709,6 @@ assim
 \v Sl.104.31
 A glória do SENHOR será para sempre; alegre-se o SENHOR em suas obras.
 \v Sl.104.32
- 
 \added
 Quando
 \*added
@@ -6805,65 +6762,48 @@ O qual também confirmou a Jacó como estatuto, a Israel como pacto eterno.
 \v Sl.105.11
 Dizendo: A ti darei a terra de Canaã, a porção de vossa herança.
 \v Sl.105.12
-Sendo eles poucos em número; 
-\added
-eram
-\*added
- poucos, e estrangeiros nela.
+Sendo eles poucos em número; poucos, e estrangeiros nela;
 \v Sl.105.13
-E andaram de nação em nação, de um reino a outro povo.
+e andavam de nação em nação, de um reino a outro povo;
 \v Sl.105.14
-Ele não permitiu a ninguém que os oprimisse; e por causa deles repreendeu a reis,
+ele não permitiu a ninguém que os oprimisse; e em favor a eles repreendeu reis,
 \v Sl.105.15
- 
 \added
-Dizendo
+dizendo
 \*added
- : Não toqueis nos meus ungidos, e não façais mal a meus profetas.
+: Não toqueis os meus ungidos, e não maltrateis os meus profetas.
 \v Sl.105.16
-E chamou a fome sobre a terra; ele interrompeu toda fonte de alimento;
+E chamou a fome sobre a terra; ele interrompeu todo sustento de pão.
 \v Sl.105.17
-Enviou um homem adiante deles: José, 
-\added
-que
-\*added
- foi vendido como escravo.
+Enviou um homem adiante deles: José, vendido como escravo.
 \v Sl.105.18
-Amarraram seus pés em correntes; ele foi preso com ferros;
+Machucaram-lhe os pés com grilhões; foi preso com ferros;
 \v Sl.105.19
-Até o tempo que sua mensagem chegou, a palavra do SENHOR provou o valor que ele tinha.
+até o tempo em que sua mensagem chegou, a palavra do SENHOR o provou.
 \v Sl.105.20
 O rei mandou que ele fosse solto; o governante de povos o libertou.
 \v Sl.105.21
 Ele o pôs como senhor de sua casa, e por chefe de todos os seus bens,
 \v Sl.105.22
-Para dar ordens a suas autoridades, e instruir a seus anciãos.
+para sujeitar os oficiais à sua vontade, e instruir os seus anciãos.
 \v Sl.105.23
 Então Israel entrou no Egito; Jacó peregrinou na terra de Cam.
 \v Sl.105.24
-E fez seu povo crescer muito, e o fez mais poderoso que seus adversários.
+Aumentou muito o seu povo, e o fez mais poderoso que os seus adversários.
 \v Sl.105.25
 E mudou o coração 
 \added
-dos outros
+deles
 \*added
-,para que odiassem ao seu povo, para que tratassem mal a seus servos.
+, para que odiassem o seu povo, para que tratassem astutamente aos seus servos.
 \v Sl.105.26
- 
-\added
-Então
-\*added
- enviou seu servo Moisés, e a Arão, a quem tinha escolhido;
+Enviou o seu servo Moisés, e Arão, a quem havia escolhido.
 \v Sl.105.27
- 
-\added
-Que
-\*added
- fizeram entre eles os sinais anunciados, e coisas sobrenaturais na terra de Cam.
+Fizeram entre eles os seus sinais miraculosos, e seus prodígios na terra de Cam.
 \v Sl.105.28
-Ele mandou trevas, e fez escurecer; e não foram rebeldes a sua palavra.
+Mandou trevas, e fez escurecer; e não foram rebeldes às suas palavras.
 \v Sl.105.29
-Ele transformou suas águas em sangue, e matou a seus peixes.
+Transformou suas águas em sangue, e matou os seus peixes.
 \v Sl.105.30
 A terra deles produziu rãs em abundância, 
 \added
@@ -6871,63 +6811,51 @@ até
 \*added
  nos quartos de seus reis.
 \v Sl.105.31
-Ele falou, e vieram vários bichos 
-\added
-e
-\*added
- piolhos em todos os seus limites.
+Ele falou, e vieram enxames de moscas e piolhos em todos o seu território.
 \v Sl.105.32
-Tornou suas chuvas em saraiva; 
-\added
-pôs
-\*added
- fogo ardente em sua terra.
+Tornou suas chuvas em saraiva; e fogo abrasador na sua terra.
 \v Sl.105.33
-E feriu suas vinhas e seus figueirais; e quebrou as árvores de seus territórios.
+E feriu suas vinhas e seus figueirais; e quebrou as árvores de seu território.
 \v Sl.105.34
 Ele falou, e vieram gafanhotos, e incontáveis pulgões;
 \v Sl.105.35
-E comeram toda a erva de sua terra; e devoraram o fruto de seus campos.
+e comeram toda a erva da sua terra, e devoraram o fruto dos seus campos.
 \v Sl.105.36
-Também feriu a todos os primogênitos em sua terra; os primeiros de todas as suas forças.
+Também feriu todos os primogênitos em sua terra; os primeiros de todas as suas forças.
 \v Sl.105.37
 E os tirou 
 \added
 dali
 \*added
- com prata e ouro; e dentre suas tribos não houve quem tropeçasse.
+ com prata e ouro; e entre suas tribos não houve quem fraquejasse.
 \v Sl.105.38
- 
-\added
-Até
-\*added
- o Egito se alegrou com a saída deles, porque seu temor tinha caído sobre eles.
+O Egito se alegrou com a saída deles, porque seu temor havia caído sobre eles.
 \v Sl.105.39
 Ele estendeu uma nuvem como cobertor, e um fogo para iluminar a noite.
 \v Sl.105.40
 Eles pediram, e fez vir codornizes; e os fartou com pão do céu.
 \v Sl.105.41
-Ele abriu uma rocha, e dela saíram águas; 
-\added
-e
-\*added
- correram 
+Ele abriu uma rocha, e dela saíram águas, que correram 
 \added
 como
 \*added
- um rio pelos lugares secos;
+ um rio pelos lugares secos.
 \v Sl.105.42
-Porque se lembrou de sua santa palavra, e de seu servo Abraão.
+Pois ele se lembrou de sua santa palavra 
+\added
+dada ao
+\*added
+ seu servo Abraão.
 \v Sl.105.43
 Então ele tirou 
 \added
 dali
 \*added
- a seu povo com alegria; e seus eleitos com celebração.
+ o seu povo com alegria, os seus eleitos com celebração.
 \v Sl.105.44
-E lhes deu as terras das nações; e do trabalho das nações tomaram posse;
+E lhes deu as terras das nações; e tomaram posse do trabalho dos povos,
 \v Sl.105.45
-Para que guardassem seus estatutos, e obedecessem a leis dele. Aleluia!
+para que guardassem os seus estatutos, e obedecessem às leis dele. Aleluia!
 \v Sl.106.1
 Aleluia! Agradecei ao SENHOR, porque ele é bom, porque sua bondade 
 \added
@@ -7728,7 +7656,7 @@ e
 \*added
  é maravilhoso aos nossos olhos.
 \v Sl.118.24
-Este é o dia em que o SENHOR agiu; alegremos e enchamos de alegria nele.
+Este é o dia que o SENHOR fez; jubilemos e nos alegremos nele.
 \v Sl.118.25
 Ah, SENHOR, salva-nos! Ah, SENHOR, faze 
 \added
@@ -8421,7 +8349,7 @@ O SENHOR guardará tua saída e tua entrada, desde agora e para sempre.
 Cântico dos degraus, de Davi:
 \*psalm-title
 \v Sl.122.1
-Alegro-me com os que me dizem: Vamos à casa do SENHOR.
+Alegrei-me quando me disseram: “”Vamos à casa do SENHOR”.
 \v Sl.122.2
 Nossos pés estão 
 \added
@@ -8812,175 +8740,66 @@ Casa de Levi, bendizei ao SENHOR! Vós que temeis ao SENHOR, bendizei ao SENHOR.
 \v Sl.135.21
 Bendito seja o SENHOR desde Sião, ele que habita em Jerusalém. Aleluia!
 \v Sl.136.1
-Agradecei ao SENHOR, porque ele é bom, porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Agradecei ao SENHOR, porque ele é bom, porque sua bondade é para sempre.
 \v Sl.136.2
-Agradecei ao Deus dos deuses, porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Agradecei ao Deus dos deuses, porque sua bondade é para sempre.
 \v Sl.136.3
-Agradecei ao SENHOR dos senhores; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Agradecei ao SENHOR dos senhores; porque sua bondade é para sempre.
 \v Sl.136.4
-Ao que faz grandes maravilhas sozinho por si mesmo; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que sozinho faz grandes maravilhas; porque sua bondade é para sempre.
 \v Sl.136.5
-Ao que fez os céus com entendimento; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que com entendimento fez os céus; porque sua bondade é para sempre.
 \v Sl.136.6
-Ao que estendeu a terra sobre as águas; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que estendeu a terra sobre as águas; porque sua bondade é para sempre.
 \v Sl.136.7
-Ao que fez as grandes fontes de luz; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que fez os grandes luminares; porque sua bondade é para sempre.
 \v Sl.136.8
-Ao sol, para governar o dia; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao sol, para governar o dia; porque sua bondade é para sempre.
 \v Sl.136.9
-À lua e as estrelas, para governarem a noite; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+À lua e as estrelas, para governarem a noite; porque sua bondade é para sempre.
 \v Sl.136.10
-Ao que feriu aos egípcios em seus primogênitos; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que feriu ao Egito no seus primogênitos; porque sua bondade é para sempre.
 \v Sl.136.11
-E tirou Israel do meio deles; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+E tirou Israel do meio deles; porque sua bondade é para sempre.
 \v Sl.136.12
-Com mão forte, e com braço estendido; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Com mão forte, e com braço estendido; porque sua bondade é para sempre.
 \v Sl.136.13
-Ao que separou o mar Vermelho em 
-\added
-duas
-\*added
- partes; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que dividiu o mar Vermelho em duas partes; porque sua bondade é para sempre.
 \v Sl.136.14
-E fez Israel passar por meio dele; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+E fez Israel passar por meio dele; porque sua bondade é para sempre.
 \v Sl.136.15
-E derrubou a Faraó com seu exército no mar Vermelho; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Mas derrubou Faraó com seu exército no mar Vermelho; porque sua bondade é para sempre.
 \v Sl.136.16
-Ao que guiou seu povo pelo deserto; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que guiou o seu povo pelo deserto; porque sua bondade é para sempre.
 \v Sl.136.17
-Ao que feriu grandes reis; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Ao que feriu grandes reis; porque sua bondade é para sempre.
 \v Sl.136.18
-E matou reis poderosos; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+E matou reis poderosos; porque sua bondade é para sempre.
 \v Sl.136.19
-Seom; rei amorreu; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Seom; rei dos amorreus; porque sua bondade é para sempre.
 \v Sl.136.20
-E Ogue, rei de Basã; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+E Ogue, rei de Basã; porque sua bondade é para sempre.
 \v Sl.136.21
-E deu a terra deles como herança; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+E deu a terra deles por herança; porque sua bondade é para sempre.
 \v Sl.136.22
- 
-\added
-Como
-\*added
- herança a seu servo Israel; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Por herança a Israel, seu servo; porque sua bondade é para sempre.
 \v Sl.136.23
-O que em nossa humilhação se lembrou de nós; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+O que se lembrou de nós em nossa humilhação; porque sua bondade é para sempre.
 \v Sl.136.24
-E nos tirou livres de nossos adversários; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+E nos libertou dos nossos inimigos; porque sua bondade é para sempre.
 \v Sl.136.25
-O que dá alimento a todo 
-\added
-ser vivo feito de
-\*added
- carne; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+O que dá alimento a todo ser vivo;
+\fn
+\key
+ser vivo
+\*key
+Lit. toda carne
+\*fn
+ porque sua bondade é para sempre.
 \v Sl.136.26
-Agradecei ao Deus dos céus; porque sua bondade 
-\added
-dura
-\*added
- para sempre.
+Agradecei ao Deus dos céus; porque sua bondade é para sempre.
 \v Sl.137.1
-Junto aos rios da Babilônia nos sentamos e choramos, enquanto nos lembramos de Sião.
+Junto aos rios da Babilônia nos assentamos e choramos, enquanto nos lembramos de Sião.
 \v Sl.137.2
 Sobre os salgueiros que há no meio dela penduramos nossas harpas.
 \v Sl.137.3
@@ -8992,7 +8811,7 @@ os
 \added
 dizendo
 \*added
- : Cantai para nós 
+: Cantai para nós 
 \added
 algumas
 \*added
@@ -9004,23 +8823,16 @@ Se eu me esquecer de ti, ó Jerusalém, que minha mão direita se esqueça
 \added
 de sua habilidade
 \*added
- .
+.
 \v Sl.137.6
-Que minha língua grude no céu da boca se eu não me lembrar de ti, se eu não pôr Jerusalém acima de todas as minhas alegrias.
+Que minha língua grude no céu da boca se eu não me lembrar de ti, se eu não pôr Jerusalém acima de todas as 
+minhas alegrias.
 \v Sl.137.7
-Lembra-te, SENHOR, dos filhos de Edom no dia de Jerusalém, que diziam: Arruinai 
-\added
--a
-\*added
-,arruinai 
-\added
--a
-\*added
-,até ao seus fundamentos!
+Lembra-te, SENHOR, dos filhos de Edom no dia de Jerusalém, que diziam: Arruinai-a, arruinai-a, até os seus fundamentos!
 \v Sl.137.8
-Ah filha de Babilônia, que serás destruída! Bem-aventurado a quem te retribuir o que fizeste conosco.
+Ah, filha de Babilônia, que serás destruída! Bem-aventurado seja quem te retribuir o que fizeste conosco.
 \v Sl.137.9
-Bem-aventurado aquele que tomar dos teus filhos, e 
+Bem-aventurado seja aquele que tomar dos teus filhos, e 
 \added
 lançá-los
 \*added

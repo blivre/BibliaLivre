@@ -41,11 +41,11 @@ Isaías 40:3
 \v Mc.1.4
 João veio a batizar no deserto, e a pregar o batismo de arrependimento para perdão dos pecados.
 \v Mc.1.5
-E toda a província da Judeia e {n4: todos} os de Jerusalém saíam até ele; e eram {tr,rp:todos} batizados {trnc: 
-\fn
+E toda a província da Judeia e {n4: todos} os de Jerusalém saíam até ele; e eram {tr,rp:todos} batizados 
+{trnc:\fn
 N4: todos os de Jerusalém saíam até ele; e eram batizados
-\*fn
-} por ele no rio Jordão, confessando os seus pecados.
+\*fn}
+ por ele no rio Jordão, confessando os seus pecados.
 \v Mc.1.6
 João se vestia de pelos de camelo, e um cinto de couro em sua cintura; e comia gafanhotos e mel do campo.
 \v Mc.1.7
@@ -2169,17 +2169,17 @@ das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias.
 \v Mc.12.40
 que devoram as casas das viúvas, com pretexto de longas orações. Esses receberão mais grave condenação.
 \v Mc.12.41
-Quando {tr,rp:Jesus}{n4:
-\added
+E, estando {tr,rp:Jesus}
+{n4:\added
 Jesus
-\*added
-}{trnc:
-\fn
-N4: "Quando ele"
-\*fn
-} estava sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos ricos lançavam muito.
+\*added}
+{trnc:\fn
+N4: "estando ele"
+\*fn}
+ sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos 
+ricos lançavam muito.
 \v Mc.12.42
-E uma pobre viúva veio, e lançou duas pequenas moedas, de pouco valor.
+Mas veio uma pobre viúva, e lançou duas pequenas moedas, de pouco valor.
 \fn
 \key
 duas pequenas moedas, de pouco valor
@@ -2191,9 +2191,11 @@ Então
 \added
 Jesus
 \*added
- chamou a si os seus discípulos, e disse-lhes:  Em verdade vos digo que esta pobre viúva lançou mais que todos os que lançaram na arca do tesouro;
+ chamou a si os seus discípulos, e disse-lhes: “Em verdade vos digo que esta pobre viúva lançou mais do que todos 
+os que lançaram na arca do tesouro;
 \v Mc.12.44
-Porque todos lançaram daquilo que lhes sobra; mas esta, da sua pobreza lançou tudo o que tinha, todo o seu sustento.
+Porque todos lançaram daquilo que lhes sobrava; mas esta, da sua pobreza, lançou tudo o que tinha, todo o 
+seu sustento.”
 \v Mc.13.1
 Quando ele estava saindo do templo, um de seus discípulos lhe disse: Mestre, olha que pedras, e que edifícios!
 \v Mc.13.2

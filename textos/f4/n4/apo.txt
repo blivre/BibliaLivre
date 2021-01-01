@@ -372,7 +372,8 @@ E o primeiro animal
 \added
 era
 \*added
- semelhante a um leão, e o segundo animal semelhante a um bezerro, e o terceiro animal tinha o rosto como de homem, e o quarto animal 
+ semelhante a um leão, e o segundo animal semelhante a um bezerro, e o terceiro animal tinha o rosto como de homem, 
+ e o quarto animal 
 \added
 era
 \*added
@@ -405,19 +406,20 @@ mão
 \v Ap.5.2
 E vi um forte anjo, proclamando em alta voz: “Quem é digno de abrir o livro, e soltar seus selos?”
 \v Ap.5.3
-E ninguém no céu, nem na terra podia abrir o livro, nem olhar 
+E ninguém no céu, nem na terra, nem debaixo da terra, podia abrir o livro, nem olhar 
 \added
 para
 \*added
  ele.
 \v Ap.5.4
-E eu chorei muito, porque ninguém foi achado digno de abrir o livro, nem de o ler, nem olhar 
+E eu chorei muito, porque ninguém foi achado digno de abrir o livro, nem de o ler, nem de olhar 
 \added
 para
 \*added
  ele.
 \v Ap.5.5
-E um dos anciãos me disse: “Não chores; eis que o Leão da tribo de Judá, a raiz de Davi, venceu, para abrir o livro e soltar seus sete selos.”
+E um dos anciãos me disse: “Não chores; eis que o Leão da tribo de Judá, a raiz de Davi, venceu, para abrir o livro e 
+soltar seus sete selos.”
 \v Ap.5.6
 E eu olhei, e eis que no meio do trono, e dos quatro animais, e no meio dos anciãos, um Cordeiro que estava como se tivesse sido morto, e tinha sete chifres, e sete olhos, que são os sete espíritos de Deus enviados para toda a terra.
 \v Ap.5.7
@@ -432,7 +434,7 @@ tendo cada um harpas, e recipientes de ouro cheios de perfumes, que são as ora�
 \v Ap.5.9
 E eles cantavam um novo cântico, dizendo: 
 “Digno és tu de tomar o livro, 
-e abrir seus selos; 
+e de abrir seus selos; 
 porque foste morto, 
 e com o teu sangue para Deus  compraste 
 \added
@@ -776,29 +778,26 @@ ouvir, nem andar;
 \v Ap.9.21
 E não se arrependeu de seus homicídios, nem de suas feitiçarias, nem de seu pecado sexual, nem de seus roubos.
 \v Ap.10.1
-E eu vi outro forte anjo descendo do céu, vestido com uma nuvem; e por cima de 
-\added
-sua
-\*added
- cabeça 
+E vi outro anjo forte descendo do céu, vestido de uma nuvem; e por cima da cabeça 
 \added
 estava
 \*added
- o arco colorido celeste; e o rosto dele 
+ o arco-íris; seu rosto
 \added
 era
 \*added
- como o sol, e os pés dele como coluna de fogo.
+ como o sol, e suas pernas
+\fn
+Lit. pés
+\*fn
+  como colunas de fogo.
 \v Ap.10.2
-E na mão dele tinha um livrinho aberto; e pôs seu pé direito sobre o mar, e o esquerdo sobre a terra.
+E em sua mão tinha um livrinho aberto; e pôs seu pé direito sobre o mar, e o esquerdo sobre a terra.
 \v Ap.10.3
-E clamou em alta voz, como quando o leão ruge; e quando ele clamou, os sete trovões falaram suas vozes.
+E gritou em alta voz, como quando o leão ruge; e quando ele gritou, os sete trovões emitiram suas vozes.
 \v Ap.10.4
-E quando os sete trovões falaram suas vozes, eu estava a pondo de escrevê 
-\added
--las
-\*added
-; mas eu ouvi uma voz do céu me dizer: “Sela as coisas que os sete trovões falaram, e não as escrevas.”
+E quando os sete trovões emitiram suas vozes, eu ia escrevê-las; mas ouvi uma voz do céu me dizer: “Sela as coisas que 
+os sete trovões falaram, e não as escrevas”.
 \v Ap.10.5
 E o anjo que eu vi estar sobre o mar e sobre a terra levantou sua mão ao céu,
 \v Ap.10.6
@@ -979,7 +978,7 @@ até vos, tendo grande ira, sabendo que ele tem pouco tempo.”
 \v Ap.12.13
 E quando o dragão viu que havia sido lançado na terra, ele perseguiu a mulher que tinha dado à luz o menino.
 \v Ap.12.14
-E foram dadas à mulher duas asas de grande água, para que voasse ao deserto, ao lugar dela, onde ali é alimentada 
+E foram dadas à mulher duas asas de grande águia, para que voasse ao deserto, ao lugar dela, onde ali é alimentada 
 por um tempo, e tempos, e a metade de um tempo, 
 \added
 longe
@@ -1006,10 +1005,9 @@ E o dragão se irou contra a mulher, e saiu para fazer guerra contra os restante
 \fn
 Lit. semente
 \*fn
- dela, os que guardam 
-os mandamentos de Deus e têm o testemunho de Jesus Cristo.
+ dela, os que guardam os mandamentos de Deus e têm o testemunho de Jesus Cristo.
 \v Ap.13.1
-E eu fiquei parado sobre a areia do mar. E vi subir do mar uma besta, que tinha sete cabeças e dez chifres, e 
+E ele ficou parado sobre a areia do mar. E vi subir do mar uma besta, que tinha sete cabeças e dez chifres, e 
 sobre seus chifres dez diademas; e sobre suas cabeças um nome de blasfêmia.
 \v Ap.13.2
 E a besta que eu vi era semelhante a um leopardo, e seus pés como de urso, e sua boca como boca de leão; e o dragão 
@@ -1064,7 +1062,14 @@ E foi-lhe concedido dar espírito à imagem da besta, para que a imagem da besta
 todos os que não adorassem à imagem da besta fossem mortos.
 \v Ap.13.16
 E fez com que todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, fosse lhes dada 
-uma marca sobre sua mão direita ou sobre suas testas.
+uma marca sobre sua mão direita
+\fn
+\key
+mão direita
+\*key
+Ou: braço direito
+\*fn
+ ou sobre suas testas.
 \v Ap.13.17
 E que ninguém possa comprar ou vender, a não ser aquele que tenha a marca ou o nome da besta, ou o número do nome dela.
 \v Ap.13.18
@@ -1081,7 +1086,7 @@ harpas, que tocavam com suas harpas;
 E cantavam um cântico novo diante do trono, e diante dos quatro animais, e dos anciãos; e ninguém podia 
 aprender aquele cântico, a não ser os cento e quarenta e quatro mil que tinham sido comprados da terra.
 \v Ap.14.4
-Estes são os que não se contaminaram com mulheres, porque são virgens; estes são os que seguem ao Cordeiro onde 
+Estes são os que não se contaminaram com mulheres, porque são virgens; estes são os que seguem o Cordeiro onde 
 quer que ele vá; estes foram comprados dentre os homens, 
 \added
 sendo
@@ -1279,16 +1284,16 @@ com a qual os reis da terra se prostituíram, e os que habitam na terra se embri
 E ele me levou em espírito a um deserto, e eu vi uma mulher assentada sobre uma besta de cor de escarlate, que estava cheio de nomes 
 de blasfêmia. E ele tinha sete cabeças e dez chifres.
 \v Ap.17.4
-E a mulher estava vestida de púrpura e de escarlate, e adorada com ouro, pedras preciosas, e pérolas; e em sua mão tinha um cálice 
-de ouro cheio das abominações e da impureza de sua prostituição.
+E a mulher estava vestida de púrpura e de escarlate, e enfeitada com ouro, pedras preciosas, e pérolas; e em sua mão 
+havia um cálice de ouro cheio das abominações e da impureza de sua prostituição.
 \v Ap.17.5
 E na testa dela estava escrito um nome: “Mistério: A grande Babilônia, a mãe das prostituições e abominações da terra”.
 \v Ap.17.6
 E vi que a mulher estava bêbada do sangue dos santos, e do sangue das testemunhas de Jesus. E eu, ao vê-la, fiquei maravilhado 
 com grande espanto.
 \v Ap.17.7
-E o anjo me disse: “Por que tu ficaste maravilhado? Eu te direi o mistério da mulher, e da besta que a traz, a qual tem as sete cabeças 
-e os dez chifres.
+E o anjo me disse: “Por que tu ficaste maravilhado? Eu te direi o mistério da mulher, e da besta que a traz, a qual tem 
+as sete cabeças e os dez chifres.
 \v Ap.17.8
 A besta que tu viste, era, e não é; e está para subir do abismo, e irá para a perdição; e os que habitam sobre a terra (cujos nomes não 
 estão escritos no livro da vida desde a fundação do mundo), ficarão maravilhados ao verem a besta que era, e não é, e ainda é.
@@ -1319,7 +1324,8 @@ juntamente
 \v Ap.17.13
 Estes têm uma mesma intenção, e entregarão seu poder e autoridade à besta.
 \v Ap.17.14
-Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis); e os que estão com ele 
+Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis); e os 
+que estão com ele 
 \added
 são
 \*added

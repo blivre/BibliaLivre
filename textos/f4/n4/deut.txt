@@ -411,29 +411,37 @@ Para que temas ao SENHOR teu Deus, guardando todos os seus estatutos e seus mand
 \v Dt.6.3
 Ouve, pois, ó Israel, e cuida de praticá-los, para que te vá bem, e sejais multiplicados, como te disse o SENHOR o Deus de teus pais, na terra que destila leite e mel.
 \v Dt.6.4
-Ouve, Israel: o SENHOR nosso Deus, o SENHOR um é:
+Ouve, ó Israel: o SENHOR 
+\added
+é
+\*added
+ o nosso Deus, o SENHOR 
+\added
+é
+\*added
+ único;
 \v Dt.6.5
-E Amarás ao SENHOR teu Deus de todo teu coração, e de toda tua alma, e com todo tua poder.
+E amarás ao SENHOR, teu Deus, com todo o teu coração, com toda a tua alma, e com todo o teu poder.
 \v Dt.6.6
-E estas palavras que eu te mando hoje, estarão sobre teu coração:
+E estas palavras, que hoje te mando, estarão no teu coração;
 \v Dt.6.7
-E as repetirás a teus filhos, e falarás delas estando em tua casa, e andando pelo caminho, e ao deitar-te, e quando te levantes:
+e as repetirás aos teus filhos, e delas falarás estando na tua casa, e andando pelo caminho, quando deitares, e quando te levantares;
 \v Dt.6.8
-E hás de atá-las por sinal em tua mão, e estarão por frontais entre teus olhos:
+E as atarás como sinal na tua mão, e estarão por símbolo na testa entre os teus olhos;
 \v Dt.6.9
-E as escreverás nos umbrais de tua casa, e em tuas entradas.
+e as escreverás nos umbrais da tua casa, e nas tuas portas.
 \v Dt.6.10
-E será, quando o SENHOR teu Deus te houver introduzido na terra que jurou a teus pais Abraão, Isaque, e Jacó, que te daria; em cidades grandes e boas que tu não edificaste,
+E será que, quando o SENHOR, teu Deus, te houver introduzido na terra que jurou aos teus pais Abraão, Isaque, e Jacó, que te daria; em cidades grandes e boas, que tu não edificaste,
 \v Dt.6.11
-E casas cheias de todo ainda que tu não encheste, e cisternas cavadas, que tu não cavaste, vinhas e olivais que não plantaste: logo que comeres e te fartares,
+e casas cheias de todos os bens que tu não encheste, e cisternas cavadas, que tu não cavaste, vinhas e olivais que tu não plantaste; logo que comeres e te saciares,
 \v Dt.6.12
-Guarda-te que não te esqueças do SENHOR, que te tirou da terra do Egito, de casa de servos.
+guarda-te que não te esqueças do SENHOR, que te tirou da terra do Egito, de casa de escravidão.
 \v Dt.6.13
-Ao SENHOR teu Deus temerás, e a ele servirás, e por seu nome jurarás.
+Ao SENHOR, teu Deus, temerás, e a ele servirás, e pelo seu nome jurarás.
 \v Dt.6.14
-Não andareis após deuses alheios, dos deuses dos povos que estão em vossos entornos:
+Não seguireis outros deuses, dos deuses dos povos que estão ao vosso redor,
 \v Dt.6.15
-Porque o Deus zeloso, o SENHOR teu Deus, em meio de ti está; para que não se inflame o furor do SENHOR teu Deus contra ti, e te destrua de sobre a face da terra.
+porque o Deus zeloso, o SENHOR teu Deus, está no meio de ti; para que o furor do SENHOR, teu Deus, não se inflame contra ti, e te destrua de sobre a face da terra.
 \v Dt.6.16
 Não tentareis ao SENHOR vosso Deus, como o tentastes em Massá.
 \v Dt.6.17
@@ -838,7 +846,7 @@ Mas todo o que não tiver barbatana e escama, não comereis: impuro vos será.
 \v Dt.14.11
 Toda ave limpa comereis.
 \v Dt.14.12
-E estas são das que não comereis: a água, e o quebra-ossos, e o esmerilhão,
+E estas são das que não comereis: a águia, e o quebra-ossos, e o esmerilhão,
 \v Dt.14.13
 E o milhafre, e o abutre, e o falcão segundo sua espécie,
 \v Dt.14.14
@@ -1459,142 +1467,217 @@ Maldito o que receber um presente para ferir de morte ao inocente. E dirá todo 
 \v Dt.27.26
 Maldito o que não confirmar as palavras desta lei para as cumprir. E dirá todo o povo: Amém.
 \v Dt.28.1
-E será que, se ouvires com empenho a voz do SENHOR teu Deus, para guardar, para praticar todos os seus mandamentos que eu te prescrevo hoje, também o SENHOR teu Deus te porá alto sobre todas as nações da terra;
+E será que, se ouvires com empenho a voz do SENHOR teu Deus, para ter o cuidado de praticar todos os seus 
+mandamentos que eu te ordeno hoje, o SENHOR, teu Deus, te levantará acima de todas as nações da terra;
 \v Dt.28.2
-E virão sobre ti todas estas bênçãos, e te alcançarão, quando ouvires a voz do SENHOR teu Deus.
+e todas estas bênçãos virão sobre ti, e te alcançarão, quando ouvires a voz do SENHOR teu Deus:
 \v Dt.28.3
-Bendito serás tu na cidade, e bendito tu no campo.
+Bendito serás tu na cidade, e bendito serás no campo.
 \v Dt.28.4
-Bendito o fruto de teu ventre, e o fruto de teu animal, a cria de tuas vacas, e os rebanhos de tuas ovelhas.
+Bendito será o fruto do teu ventre, e o fruto dos teus animais, a cria das tuas vacas, e os rebanhos das tuas ovelhas.
 \v Dt.28.5
-Bendito teu cesto e tua amassadeira.
+Bendito será o teu cesto e a tua amassadeira.
 \v Dt.28.6
-Bendito serás em teu entrar, e bendito em teu sair.
+Bendito serás quando entrares, e bendito serás quando saíres.
 \v Dt.28.7
-Causará o SENHOR a teus inimigos que se levantarem contra ti, que sejam derrotados diante de ti: por um caminho sairão a ti, por sete caminhos fugirão diante de ti.
+O SENHOR causará que os teus inimigos, que contra ti se levantarem, sejam derrotados perante ti; por um caminho 
+sairão contra ti, mas por sete caminhos fugirão diante de ti.
 \v Dt.28.8
-Enviará o SENHOR contigo a bênção em teus granários, e em tudo aquilo em que puseres tua mão; e te abençoará na terra que o SENHOR teu Deus te dá.
+O SENHOR enviará sobre ti a bênção nos teus celeiros, e em tudo onde puseres a tua mão; e te abençoará na terra 
+que o SENHOR, teu Deus, te dá.
 \v Dt.28.9
-O SENHOR te confirmará por povo seu santo, como te jurou, quando guardares os mandamentos do SENHOR teu Deus, e andares em seus caminhos.
+O SENHOR te confirmará como povo santo a si mesmo, como te jurou, quando guardares os mandamentos do SENHOR, teu Deus, 
+e andares nos seus caminhos.
 \v Dt.28.10
-E verão todos os povos da terra que o nome do SENHOR é chamado sobre ti, e te temerão.
+E todos os povos da terra verão que o nome do SENHOR é chamado sobre ti, e te temerão.
 \v Dt.28.11
-E te fará o SENHOR superabundar em bens, no fruto de teu ventre, e no fruto de teu animal, e no fruto de tua terra, 
-na terra que o SENHOR jurou aos teus pais que te havia de dar.
+E o SENHOR te fará superabundar no que é bom, no fruto do teu ventre, e no fruto dos teus animais, e no fruto da tua 
+terra, sobre a terra que o SENHOR jurou aos teus pais te dar.
 \v Dt.28.12
-O SENHOR te abrirá seu bom depósito, o céu, para dar chuva à tua terra em seu tempo, e para abençoar toda obra de tuas mãos. E emprestarás a muitas nações, e tu não tomarás emprestado.
+O SENHOR abrirá para ti o seu bom depósito, o céu, para dar chuva à tua terra no seu tempo, e para abençoar toda a 
+obra de tuas mãos. E emprestarás a muitas nações, porém tu não tomarás emprestado.
 \v Dt.28.13
-E te porá o SENHOR por cabeça, e não por cauda: e estarás encima somente, e não estarás debaixo; quando obedeceres aos mandamentos do SENHOR teu Deus, que eu te ordeno hoje, para que os guardes e cumpras.
+E o SENHOR te porá por cabeça, e não por cauda; e só estarás de cima e não debaixo; quando obedeceres aos mandamentos 
+do SENHOR, teu Deus, que eu te ordeno hoje, para os guardar e praticar.
 \v Dt.28.14
-E não te desvies de todas as palavras que eu vos mando hoje, nem à direita nem à esquerda, para ir atrás de deuses alheios para servir-lhes.
+Não te desvies de todas as palavras que eu vos mando hoje, nem para a direita nem para a esquerda, para seguires 
+outros deuses, a fim de os servires.
 \v Dt.28.15
-E será, se não ouvires a voz do SENHOR teu Deus, para cuidar de praticar todos os seus mandamentos e seus estatutos, que eu te intimo hoje, que virão sobre ti todas estas maldições, e te alcançarão.
+Será, porém, que se não deres ouvidos à voz do SENHOR teu Deus, para teres o cuidado de praticar todos os seus 
+mandamentos e seus estatutos, que eu te ordeno hoje, então virão sobre ti todas estas maldições, e te alcançarão:
 \v Dt.28.16
-Maldito serás tu na cidade, e maldito no campo.
+Maldito serás tu na cidade, e maldito serás no campo.
 \v Dt.28.17
-Maldito teu cesto, e tua amassadeira.
+Maldito será o teu cesto, e a tua amassadeira.
 \v Dt.28.18
-Maldito o fruto de teu ventre, e o fruto de tua terra, e a cria de tuas vacas, e os rebanhos de tuas ovelhas.
+Maldito será o fruto de teu ventre, e o fruto de tua terra, e a cria das tuas vacas, e os rebanhos das tuas ovelhas.
 \v Dt.28.19
-Maldito serás em teu entrar, e maldito em teu sair.
+Maldito serás quando entrares, e maldito serás quando saíres.
 \v Dt.28.20
-E o SENHOR enviará contra ti a maldição, confusão e oposição em tudo quanto puseres mão e fizeres, até que sejas destruído, e pereças logo por causa da maldade de tuas obras, pelas quais me houverdes deixado.
+E o SENHOR enviará contra ti a maldição, a perturbação, e a ameaça
+\fn
+Trad. alt. frustração
+\*fn
+ em tudo onde puseres a tua mão para fazer, até que sejas destruído, e até que pereças repentinamente, por causa 
+da maldade das tuas obras, com as quais me abandonaste.
 \v Dt.28.21
-O SENHOR fará que se te pegue mortandade, até que te consuma da terra à qual entras para possuí-la.
+O SENHOR fará a pestilência se apegar a ti, até que te consuma da terra à qual entras a possuir.
 \v Dt.28.22
-O SENHOR te ferirá de tísica, e de febre, e de ardor, e de calor, e de espada, e de calamidade repentina, e com mofo; e te perseguirão até que pereças.
+O SENHOR te ferirá com doença contagiosa,
+\fn
+Trad. alt. tuberculose
+\*fn
+ com febre, com ardor, com calor, e com espada,
+\fn
+Trad. alt. “e com seca”
+\*fn
+  e com ferrugem e com mofo; e te perseguirão até que pereças.
 \v Dt.28.23
-E teus céus que estão sobre tua cabeça, serão de bronze; e a terra que está debaixo de ti, de ferro.
+E os teus céus acima da tua cabeça serão de bronze; e a terra debaixo de ti será de ferro.
 \v Dt.28.24
-Dará o SENHOR por chuva à tua terra pó e cinza: dos céus descerão sobre ti até que pereças.
+Em vez de chuva, o SENHOR dará à tua terra pó e cinza; descerão dos céus sobre ti, até que pereças.
 \v Dt.28.25
-O SENHOR te entregará ferido diante de teus inimigos: por um caminho sairás a eles, e por sete caminhos fugirás diante deles: e serás sacudido a todos os reinos da terra.
+O SENHOR te causará que sejas ferido diante dos teus inimigos; por um caminho sairás contra eles, e por sete caminhos 
+fugirás diante deles; e serás disperso por todos os reinos da terra.
 \v Dt.28.26
-E será teu corpo morto por comida a toda ave do céu, e animal da terra, e não haverá quem as espante.
+E o teu será por alimento a todas as aves do céu, e aos animais da terra, e não haverá quem os espante.
 \v Dt.28.27
-O SENHOR te ferirá da praga do Egito, e com tumores, e com sarna, e com coceira, de que não possas ser curado.
+O SENHOR te ferirá com as úlceras do Egito, e com tumores, e com sarna, e com coceira, de que não possas ser curado.
 \v Dt.28.28
-O SENHOR te ferirá com loucura, e com cegueira, e com confusão de coração.
+O SENHOR te ferirá com loucura, com cegueira, e com confusão mental.
+\fn
+Lit. de coração
+\*fn
 \v Dt.28.29
-E apalparás ao meio-dia, como apalpa o cego na escuridão, e não serás próspero em teus caminhos: e nunca serás a não ser somente oprimido e roubado todos os dias, e não haverá quem te salve.
+E apalparás ao meio-dia, como o cego apalpa na escuridão, e não prosperarás nos teus caminhos; e serás somente 
+oprimido e roubado todos os dias, e não haverá quem 
+\added
+te
+\*added
+ salve.
 \v Dt.28.30
-Tu te casarás com mulher, e outro homem dormirá com ela; edificarás casa, e não habitarás nela; plantarás vinha, e não a vindimarás.
+Tu te casarás com uma mulher, porém outro homem dormirá com ela; edificarás uma casa, porém não morarás nela; 
+plantarás uma vinha, porém não usarás do seu fruto.
 \v Dt.28.31
-Teu boi será matado diante de teus olhos, e tu não comerás dele; teu asno será arrebatado de diante de ti, e não se te voltará; tuas ovelhas serão dadas a teus inimigos, e não terás quem te as resgate.
+Teu boi será morto diante dos teus olhos, porém dele não comerás; teu jumento será arrebatado de ti, e a ti não 
+voltará; tuas ovelhas serão dadas aos teus inimigos, e não haverá quem te resgate.
 \v Dt.28.32
-Teus filhos e tuas filhas serão entregues a outro povo, e teus olhos o verão, e desfalecerão por eles todo o dia: e não haverá força em tua mão.
+Teus filhos e tuas filhas serão entregues a outro povo, e teus olhos o verão, e se enfraquecerão por causa deles 
+todo o dia; mas não haverá poder na tua mão.
 \v Dt.28.33
-O fruto de tua terra e todo teu trabalho comerá povo que não conheceste; e nunca serás a não ser somente oprimido e quebrantado todos os dias.
+O fruto da tua terra e todo o teu trabalho será comido por um povo que não conheceste; e serás oprimido e 
+quebrantado todos os dias.
 \v Dt.28.34
-E enlouquecerás por causa do que verás com teus olhos.
+E enlouquecerás por causa do que verás com os teus olhos.
 \v Dt.28.35
-O SENHOR te ferirá com maligna úlcera nos joelhos e nas pernas, sem que possas ser curado: ainda desde a planta de teu pé até o topo de tua cabeça.
+O SENHOR te ferirá com úlceras malignas nos joelhos e nas pernas, das quais não possas sarar, desde a planta do teu pé 
+até o topo da tua cabeça.
 \v Dt.28.36
-O SENHOR levará a ti, e a teu rei que houveres posto sobre ti, a nação que não conheceste tu nem teus pais; e ali servirás a deuses alheios, à madeira e à pedra.
+O SENHOR levará a ti, e ao teu rei que houveres posto sobre ti, para uma nação que não conheceste, nem tu nem os teus 
+pais; e ali servirás a outros deuses, à madeira e à pedra.
 \v Dt.28.37
-E serás por confusão, por exemplo e por fábula, a todos os povos aos quais te levará o SENHOR.
+E serás objeto de espanto, de ditado e de zombaria, a todos os povos aos quais o SENHOR te levará.
 \v Dt.28.38
-Tirarás muito semente ao campo, e colherás pouco; porque os gafanhotos o consumirão.
+Plantarás muita semente no campo, porém colherás pouco; porque os gafanhotos a consumirão.
 \v Dt.28.39
-Plantarás vinhas e lavrarás, mas não beberás vinho, nem colherás uvas; porque o bicho as comerá.
+Plantarás vinhas e cultivarás, porém não beberás vinho, nem colherás uvas; porque o bicho as comerá.
 \v Dt.28.40
-Terás olivas em todo teu termo, mas não te ungirás com o azeite; porque tua azeitona cairá.
+Terás olivas em todo o teu território, mas não te ungirás com o azeite; porque tua azeitona cairá da oliveira.
 \v Dt.28.41
-Filhos e filhas gerarás, e não serão para ti; porque irão em cativeiro.
+Gerarás filhos e filhas, mas não serão para ti, porque irão em cativeiro.
 \v Dt.28.42
-Todo o teu arvoredo e o fruto de tua terra os gafanhotos consumirão.
+Todo o teu arvoredo e o fruto de tua terra serão consumidos pelos gafanhotos.
 \v Dt.28.43
-O estrangeiro que estará em meio de ti subirá sobre ti muito alto, e tu serás posto muito abaixo.
+O estrangeiro que estiver no meio de ti se elevará muito acima de ti; e tu muito descerás.
 \v Dt.28.44
-Ele emprestará a ti, e tu não emprestarás a ele: ele será por cabeça, e tu serás por cauda.
+Ele emprestará a ti, porém tu não emprestarás a ele; ele será por cabeça, e tu serás por cauda.
 \v Dt.28.45
-E virão sobre ti todas estas maldições, e te perseguirão, e te alcançarão até que pereças; porquanto não houverdes atendido à voz do SENHOR teu Deus, para guardar seus mandamentos e seus estatutos, que ele te mandou:
+E virão sobre ti todas estas maldições, e te perseguirão, e te alcançarão até que sejas destruído; porque não 
+haverás dado ouvidos à voz do SENHOR, teu Deus, para guardar os seus mandamentos e seus estatutos, que ele te ordenou;
 \v Dt.28.46
-E serão em ti por sinal e por maravilha, e em tua descendência para sempre.
+E serão sobre ti por sinal e por maravilha, e sobre a tua descendência para sempre.
 \v Dt.28.47
-Porquanto não serviste ao SENHOR teu Deus com alegria e com alegria de coração, pela abundância de todas as coisas;
+Porque não serviste ao SENHOR, teu Deus com alegria e com alegria de coração, pela abundância de todas as coisas;
 \v Dt.28.48
-Servirás, portanto, a teus inimigos que enviar o SENHOR contra ti, com fome e com sede e com nudez, e com falta de todas as coisas; e ele porá jugo de ferro sobre teu pescoço, até destruir-te.
+assim servirás aos teus inimigos que o SENHOR enviar contra ti, com fome, com sede, com nudez, e com falta de 
+tudo; e ele porá um jugo de ferro sobre o teu pescoço, até te destruir.
 \v Dt.28.49
-O SENHOR trará sobre ti nação de longe, do extremo da terra, que voe como água, nação cuja língua não entendas;
+O SENHOR trará contra ti uma nação de longe, da extremidade da terra, que voa como águia, uma nação cuja língua 
+não entenderás;
 \v Dt.28.50
-Nação feroz de rosto, que não terá respeito ao ancião, nem perdoará à criança:
+Uma nação feroz de rosto, que não respeitará o idoso, nem poupará a criança;
 \v Dt.28.51
-E comerá o fruto de teu animal e o fruto de tua terra, até que pereças: e não te deixará grão, nem mosto, nem azeite, nem a cria de tuas vacas, nem os rebanhos de tuas ovelhas, até destruir-te.
+e comerá o fruto dos teus animais e o fruto da tua terra, até que sejas destruído; e não te deixará grão, nem 
+vinho novo, nem azeite, nem a cria das tuas vacas, nem os rebanhos das tuas ovelhas, até te destruir.
 \v Dt.28.52
-E te porá cerco em todas as tuas cidades, até que caiam teus muros altos e fortificados em que tu confias, em toda tua terra: te cercará, pois, em todas tuas cidades e em toda tua terra, que o SENHOR teu Deus te houver dado.
+E te porá cerco em todas as tuas cidades, até que caiam os teus muros altos e fortificados em que tu confiavas, 
+em toda a tua terra; ele te cercará em todas as tuas portas e em toda a tua terra, que o SENHOR teu Deus te deu.
 \v Dt.28.53
-E comerás o fruto de teu ventre, a carne de teus filhos e de tuas filhas que o SENHOR teu Deus te deu, no cerco e nos apuros com que te angustiará teu inimigo.
+E comerás o fruto do teu ventre, a carne dos teus filhos e das tuas filhas, que o SENHOR teu Deus te der, no cerco 
+e na opressão com que o teu inimigo te oprimirá.
 \v Dt.28.54
-O homem tenro em ti, e o muito delicado, seu olho será maligno para com seu irmão, e para com a mulher de seu seio, e para com o resto de seus filhos que lhe restarem;
+Até quanto ao homem gentil e muito sensível no meio de ti, seu olho será maligno contra o seu irmão, e contra a mulher 
+a quem amava,
+\fn
+\key
+a mulher a quem amava
+\*key
+Lit. a mulher do seu peito
+\*fn
+ e contra os demais dos seus filhos que lhe restarem;
 \v Dt.28.55
-Para não dar a algum deles da carne de seus filhos, que ele comerá, porque nada lhe haverá restado, no cerco e nos apuros com que teu inimigo te oprimirá em todas tuas cidades.
+para não dar a nenhum deles da carne dos seus filhos, que ele comer, porque nada lhe restará no cerco e na 
+opressão com que o teu inimigo te oprimirá em todas as tuas portas.
 \v Dt.28.56
-A tenra e a delicada entre vós, que nunca a planta de seu pé provou a sentar sobre a terra, de ternura e delicadeza, seu olho será maligno para com o marido de seu seio, e para com seu filho, e para com sua filha,
+E quanto à 
+\added
+mulher
+\*added
+ delicada e sensível no meio de vós, que por delicadeza e sensibilidade nunca tentou pôr a planta de seu pé 
+sobre a terra, seu olho será maligno contra o marido a quem amava,
+\fn
+\key
+o marido a quem amava
+\*key
+Lit. o marido do seu peito
+\*fn
+ e contra o seu filho, e contra a sua filha,
 \v Dt.28.57
-E para com sua criança que sai dentre seus pés, e para com seus filhos que der à luz; pois os comerá ocultamente, a falta de tudo, no cerco e em apuros com que teu inimigo te oprimirá em tuas cidades.
+por causa da placenta que sair dentre os seus pés, e dos seus filhos que der à luz; porque ela os comerá 
+às escondidas por causa da falta de tudo, no cerco e na opressão com que o teu inimigo te oprimirá nas tuas portas.
 \v Dt.28.58
-Se não cuidares de praticar todas as palavras desta lei que estão escritas neste livro, temendo este nome glorioso e terrível, O SENHOR TEU DEUS,
+Se não tiveres cuidado de praticar todas as palavras desta lei, que estão escritas neste livro, para temeres este 
+nome glorioso e terrível, o SENHOR, teu Deus,
 \v Dt.28.59
-O SENHOR aumentará maravilhosamente tuas pragas e as pragas de tua descendência, pragas grandes e duradouras, e enfermidades malignas e duradouras;
+O SENHOR aumentará extraordinariamente as tuas pragas e as pragas da tua descendência, pragas grandes e duradouras, 
+e enfermidades malignas e duradouras;
 \v Dt.28.60
-E fará voltar sobre ti todos os males do Egito, diante dos quais temeste, e se te pegarão.
+e fará voltar sobre ti todos os males do Egito, aos quais temeste, e se agarrarão a ti.
 \v Dt.28.61
-Assim como toda enfermidade e toda praga que não está escrita no livro desta lei, o SENHOR a enviará sobre ti, até que tu sejas destruído.
+assim como toda enfermidade e toda praga que não está escrita no livro desta lei, o SENHOR a enviará sobre ti, 
+até que tu sejas destruído.
 \v Dt.28.62
-E restareis em pouca gente, em lugar de haver sido como as estrelas do céu em multidão; porquanto não obedeceste à voz do SENHOR teu Deus.
+E restareis poucas pessoas, em lugar de haver sido como as estrelas do céu em multidão; porque não obedeceste à voz 
+do SENHOR, teu Deus.
 \v Dt.28.63
-E será que como o SENHOR se alegrou sobre vós para fazer-vos bem, e para multiplicar-vos, assim se alegrará o SENHOR sobre vós para vos arruinar, e para destruir-vos; e sereis tirados de sobre a terra, à qual entrais para possuí-la.
+E será que, assim como o SENHOR se alegrou acerca de vós para fazer-vos bem, e vos multiplicar, assim 
+o SENHOR se alegrará acerca de vós para destruir-vos, e vos consumir; e sereis retirados da terra a qual entras 
+para possuir.
 \v Dt.28.64
-E o SENHOR te espalhará por todos os povos, desde um extremo da terra até o outro extremo dela; e ali servirás a deuses alheios que não conheceste tu nem teus pais, à madeira e à pedra.
+E o SENHOR te espalhará por todos os povos, desde uma extremidade da terra até a outra extremidade da terra; e ali 
+servirás a outros deuses que não conheceste, nem tu nem teus pais, à madeira e à pedra.
 \v Dt.28.65
-E nem ainda entre as mesmas nações descansarás, nem a planta de teu pé terá repouso; que ali te dará o SENHOR coração temeroso, e caimento de olhos, e tristeza de alma:
+E nem ainda entre as mesmas nações descansarás, nem a planta de teu pé terá repouso; porque ali o SENHOR te dará 
+coração temeroso, olhos que se abatem, e alma tristonha;
 \v Dt.28.66
-E terás tua vida como suspensa diante de ti, e estarás temeroso de noite e de dia, e não confiarás de tua vida.
+E terás a tua vida em suspense diante de ti, e estarás temeroso de noite e de dia, e não te sentirás seguro da 
+tua própria vida.
 \v Dt.28.67
-Pela manhã dirás: Quem dera fosse a tarde! E à tarde dirás: Quem dera fosse a manhã! pelo medo de teu coração com que estarás amedrontado, e pelo que verão teus olhos.
+Pela manhã dirás: Quem me dera se já fosse noite! E à noite dirás: Quem me dera se já fosse manhã! Por causa do 
+medo do teu coração com que temerás, e pelo que verás com os teus olhos.
 \v Dt.28.68
-E o SENHOR te fará voltar ao Egito em navios pelo caminho do qual te disse: Nunca mais voltareis: e ali sereis vendidos a vossos inimigos por escravos e por escravas, e não haverá quem vos compre.
+E o SENHOR te fará voltar ao Egito em navios, pelo caminho do qual eu te disse: Nunca mais o verás novamente; e ali 
+sereis vendidos como escravos e escravas aos vossos inimigos, mas não haverá quem vos compre.
 \v Dt.29.1
 Estas são as palavras do pacto que o SENHOR mandou que Moisés fizesse com os filhos de Israel na terra de Moabe, além do pacto que estabeleceu com eles em Horebe.
 \v Dt.29.2
@@ -1699,13 +1782,15 @@ E foi Moisés, e falou estas palavras a todo Israel,
 \v Dt.31.2
 E disse-lhes: De idade de cento e vinte anos sou hoje dia; não posso mais sair nem entrar: a mais disto o SENHOR me disse: Não passarás este Jordão.
 \v Dt.31.3
-O SENHOR teu Deus, ele passa diante de ti; ele destruirá estas nações de diante de ti, e as herdarás: Josué será o que passará diante de ti, como o SENHOR disse.
+O SENHOR, teu Deus, passa diante de ti; ele destruirá estas nações de diante de ti, e as herdarás; Josué será o que 
+passará diante de ti, como o SENHOR disse.
 \v Dt.31.4
-E fará o SENHOR com eles como fez com Seom e com Ogue, reis dos amorreus, e com sua terra, que os destruiu.
+E o SENHOR fará com eles como fez com Seom e com Ogue, reis dos amorreus, e com sua terra, que os destruiu.
 \v Dt.31.5
 E os entregará o SENHOR diante de vós, e fareis com eles conforme tudo o que vos mandei.
 \v Dt.31.6
-Esforçai-vos e tende ânimo; não temais, nem tenhais medo deles: que o SENHOR teu Deus é o que vai contigo: não te deixará nem te desamparará.
+Esforçai-vos e tende ânimo; não temais, nem tenhais medo deles; porque o SENHOR, teu Deus, é o que vai contigo; 
+ele não te deixará nem te desamparará.
 \v Dt.31.7
 E chamou Moisés a Josué, e disse-lhe à vista de todo Israel: Esforça-te e anima-te; porque tu entrarás com este povo à terra que jurou o SENHOR a seus pais que lhes havia de dar, e tu a farás herdar.
 \v Dt.31.8
@@ -1755,16 +1840,17 @@ Porque eu sei que depois de minha morte, certamente vos corrompereis e vos desvi
 \v Dt.31.30
 Então falou Moisés aos ouvidos de toda a congregação de Israel as palavras deste cântico até acabá-lo.
 \v Dt.32.1
-Escutai, céus, e falarei; E ouça a terra os ditos de minha boca.
+Escutai, ó céus, e falarei; e ouça a terra as palavras da minha boca.
 \v Dt.32.2
-Gotejará como a chuva minha doutrina; Destilará como o orvalho meu discurso; Como o chuvisco sobre a grama, E como as gotas sobre a erva:
+Meu ensino goteje como a chuva; meu discurso destile como o orvalho; como o chuvisco sobre a grama, e como gotas 
+d'água sobre a relva;
 \v Dt.32.3
-Porque invocarei o nome do SENHOR; Engrandecei ao nosso Deus.
+Porque proclamarei o nome do SENHOR; engrandecei ao nosso Deus.
 \v Dt.32.4
 \added
 Ele é
 \*added
- a Rocha, sua obra é perfeita, pois todos os seus caminhos são justos. Deus fiel, e sem imoralidade; justo e correto 
+ a Rocha, sua obra é perfeita, pois todos os seus caminhos são justos. Deus fiel, e sem injustiça; justo e correto 
 ele é.
 \v Dt.32.5
 Corromperam-se contra ele; não são seus filhos, a falha é deles.
@@ -1776,38 +1862,63 @@ obscuro
 \*fn
  São uma geração perversa e distorcida.
 \v Dt.32.6
-É assim que pagais ao SENHOR, ó povo tolo e insensato? Não é ele teu pai que te adquiriu, te fez, e te estabeleceu?
+É assim que pagais ao SENHOR, ó povo tolo e insensato? Não é ele teu Pai que te adquiriu, te fez, e te estabeleceu?
 \v Dt.32.7
-Lembra-te dos tempos antigos; Considerai os anos de geração e geração: Pergunta a teu pai, que ele te declarará; A teus anciãos, e eles te dirão.
+Lembra-te dos dias antigos; considerai os anos de geração e geração; pergunta ao teu pai, que ele te informará; 
+\added
+pergunta
+\*added
+ aos teus anciãos, e eles te dirão.
 \v Dt.32.8
-Quando o Altíssimo fez herdar às nações, Quando fez dividir os filhos dos homens, Estabeleceu os termos dos povos Segundo o número dos filhos de Israel.
+Quando o Altíssimo deu heranças às nações, quando separou os filhos dos homens, estabeleceu os limites dos povos
+conforme o número dos filhos de Israel.
 \v Dt.32.9
-Porque a parte do SENHOR é seu povo; Jacó a medida de sua herança.
+Porque a porção do SENHOR é o seu povo; Jacó é a parte de sua herança.
 \v Dt.32.10
-Achou-o em terra de deserto, E em deserto horrível e ermo; Cercou-o, instruiu-o, Guardou-o como a menina de seu olho.
+Ele o achou na terra de deserto, em um ermo solitário e cheio de uivos; ele o rodeou, instruiu-o, guardou-o como 
+a menina do seu olho.
 \v Dt.32.11
-Como a água desperta sua ninhada, paira sobre seus passarinhos, estende suas asas, os toma, os leva sobre suas penas;
+Como a águia desperta sua ninhada, paira sobre seus passarinhos, estende suas asas, toma-os, e os leva sobre 
+suas plumas,
 \v Dt.32.12
 o SENHOR sozinho o guiou, e nenhum deus estrangeiro esteve com ele.
 \v Dt.32.13
-Ele o fez cavalgar sobre os lugares altos da terra; alimentou-o com os frutos do campo, e o fez sugar mel da rocha e azeite da dura pederneira;
+Ele o fez cavalgar sobre os lugares altos da terra; e ele comeu os produtos do campo, e o fez sugar mel da rocha 
+e azeite da dura pederneira;
 \v Dt.32.14
-manteiga de vacas e leite de ovelhas, com gordura de cordeiros, e carneiros de Basã; também machos de bode, com o melhor do trigo; e bebeste o sangue das uvas, o vinho puro.
+manteiga de vacas e leite de ovelhas, com gordura de cordeiros, e carneiros do rebanho de Basã; e também bodes, 
+com o melhor do trigo; e bebeste o sangue das uvas, o vinho puro.
 \v Dt.32.15
-E engordou Jesurum, e deu coices: engordaste-te, engrossaste-te, cobriste-te: e deixou ao Deus que lhe fez, e menosprezou a Rocha de sua salvação.
+Mas Jesurum se engordou, e deu coices; engordaste-te, engrossaste-te, e 
+\added
+de gordura
+\*added
+ te cobriste; e deixou ao Deus que o fez, e desprezou a Rocha da sua salvação.
 \v Dt.32.16
-Provocaram-lhe ciúmes com os deuses alheios; irritaram-lhe com abominações.
+Provocaram-lhe ciúmes com 
+\added
+deuses
+\*added
+ estranhos; irritaram-no com abominações.
 \v Dt.32.17
-Sacrificaram aos demônios, não a Deus; a deuses que não conheciam, a novos deuses vindos de perto, Que não haviam temido vossos pais.
+Sacrificaram aos demônios, não a Deus; a deuses que não conheciam, a novos 
+\added
+deuses
+\*added
+ vindos recentemente, aos quais vossos pais não temeram.
 \v Dt.32.18
-Abandonaste a Rocha que te gerou; e te esqueceste do Deus que te criou.
+Esqueceste a Rocha que te gerou, e ignoraste o Deus que te formou.
 \v Dt.32.19
-E o SENHOR o viu, e acendeu-se em ira, pelo menosprezo de seus filhos e de suas filhas.
+Quando SENHOR o viu, desprezou
+\added
+-os
+\*added
+, por causa da provocação de seus filhos e de suas filhas.
 \v Dt.32.20
-E disse: esconderei deles meu rosto, verei qual será seu fim; pois são geração de perversidades, filhos sem fidelidade.
+E disse: esconderei deles o meu rosto, verei qual será o seu fim; pois são geração perversa, filhos sem fidelidade.
 \v Dt.32.21
-Eles me provocaram ciúmes com o que não é Deus; com suas vaidades provocaram-me à ira; eu também provocarei os ciúmes 
-com aqueles que não são povo, e com uma nação insensata eu os provocarei à ira.
+Eles me provocaram ciúmes com o que não é Deus; com suas futilidades provocaram-me à ira; eu também lhes provocarei 
+ciúmes com aqueles que não são povo, com uma nação insensata eu os provocarei à ira.
 \v Dt.32.22
 Porque um fogo se acendeu em meu furor, e arderá até as profundezas do Xeol;
 \fn
@@ -1816,73 +1927,96 @@ Xeol é o lugar dos mortos
  e consumirá a terra e seus 
 frutos, e abrasará os fundamentos dos montes.
 \v Dt.32.23
-Eu trarei males sobre eles; gastarei neles minhas flechas.
+Amontoarei desastres sobre eles; gastarei minhas flechas contra eles.
 \v Dt.32.24
-Consumidos serão de fome, e comidos de febre ardente E de amarga pestilência; Dente de animais enviarei também sobre eles, Com veneno de serpente da terra.
+Serão consumidos de fome, e devorados de febre ardente e de amarga pestilência; enviarei contra eles dentes de feras, 
+com veneno de serpentes do pó da terra.
 \v Dt.32.25
-De fora desolará a espada, E dentro das câmaras o espanto: Tanto ao rapaz como à virgem, Ao que mama como o homem grisalho.
+Por fora a espada devastará, e por dentro das câmaras o terror; tanto ao rapaz como à virgem, tanto ao que mama 
+como o homem grisalho.
 \v Dt.32.26
-Disse: Eu os dispersaria do mundo, Faria cessar dentre os homens a memória deles,
+Eu disse: "Eu os dispersaria, faria cessar a memória deles dentre os homens",
 \v Dt.32.27
-Se não temesse a ira do inimigo, Não seja que se envaideçam seus adversários, Não seja que digam: Nossa mão alta fez tudo isto, não o SENHOR.
+Se eu não receasse os insultos do inimigo, para que seus adversários não se envaideçam, nem digam: "Foi a 
+nossa mão elevada, e não o SENHOR, que fez tudo isso".
 \v Dt.32.28
-Porque são gente de perdidos conselhos, E não há neles entendimento.
+Porque são gente falta de bom-senso, e neles não há entendimento.
 \v Dt.32.29
-Bom seria se fossem sábios, que compreendessem isto, E entendessem seu fim!
+Se fossem sábios, entenderiam isso, e compreenderiam seu fim!
 \v Dt.32.30
-Como poderia perseguir um a mil, E dois fariam fugir a dez mil, Se sua Rocha não os houvesse vendido, E o SENHOR não os houvesse entregue?
+Como poderia um só perseguir mil, e dois fazerem fugir dez mil, se a sua Rocha não os houvesse vendido, e o SENHOR 
+não os houvesse entregue?
 \v Dt.32.31
-Que a rocha deles não é como nossa Rocha: E nossos inimigos sejam disso juízes.
+Porque a rocha deles não é como nossa Rocha, até os nossos inimigos admitem isso.
+\fn
+\key
+nossos inimigos admitem isso
+\*key
+Obscuro. Lit. "os nossos inimigos são juízes"
+\*fn
 \v Dt.32.32
-Porque da vide de Sodoma é a vide deles, E dos sarmentos de Gomorra: As uvas deles são uvas venenosas, cachos muito amargos têm.
+Porque a vinha deles é da vinha de Sodoma, e dos campos de Gomorra; suas uvas são uvas venenosas, seus cachos são amargos.
 \v Dt.32.33
-Veneno de serpentes é seu vinho, e peçonha cruel de áspides.
+Seu vinho é veneno de serpentes, e peçonha cruel de cobras.
 \v Dt.32.34
-Não tenho eu isto guardado, Selado em meus tesouros?
+Não tenho eu isto guardado comigo, selado em meus tesouros?
 \v Dt.32.35
-Minha é a vingança e o pagamento, Ao tempo que seu pé vacilará; Porque o dia de sua aflição está próximo, E o que lhes está preparado se apressa.
+Minha é a vingança e a recompensa, quando o pé deles escorregar; porque o dia de sua calamidade está próximo, e as 
+coisas que vão lhes suceder se apressam.
 \v Dt.32.36
-Porque o SENHOR julgará a seu povo, E por causa de seus servos se arrependerá, Quando vir que a força pereceu, E que não há prisioneiro nem livre.
+Porque o SENHOR fará justiça ao seu povo, e se compadecerá de seus servos, quando vir que a força deles se foi, e que 
+não resta prisioneiro nem livre.
 \v Dt.32.37
-E dirá: Onde estão seus deuses, A rocha em que se refugiavam;
+Então dirá: "Onde estão seus deuses, a rocha em que confiavam;
 \v Dt.32.38
-Que comiam a gordura de seus sacrifícios, Bebiam o veio de suas libações? Levante-se, que vos ajudem E vos defendam.
+que comiam a gordura dos seus sacrifícios, bebiam o vinho de suas ofertas de bebida? Levantem-se, e vos ajudem, que 
+eles sejam o vosso refúgio.
 \v Dt.32.39
 Vede agora que Eu, Eu Sou, e não há deus além de mim; eu trago a morte, e eu faço viver; eu firo, e eu curo; e não há 
 quem possa escapar da minha mão.
 \v Dt.32.40
-Quando eu erguer aos céus minha mão, e disser: “Tão certo como eu vivo para sempre”,
+Quando eu erguer a minha mão aos céus, e disser: 'Tão certo como eu vivo para sempre',
 \v Dt.32.41
-Se eu afiar minha espada reluzente, e minha mão agarrar o juízo, devolverei a vingança sobre os meus adversários, e 
-retribuirei aos que me odeiam.
+Se eu afiar a minha espada reluzente, e minha mão agarrar o julgamento, devolverei a vingança sobre os meus 
+adversários, e retribuirei aos que me odeiam.
 \v Dt.32.42
-Embriagarei de sangue minhas flechas, e minha espada devorará carne, no sangue dos mortos e dos cativos, das cabeças dos líderes inimigos.
+Embriagarei as minhas flechas de sangue, e minha espada devorará carne, do sangue dos mortos e dos cativos, das cabeças 
+dos líderes inimigos."
 \fn
-Ou: das longas cabeleiras dos inimigos
+Obscuro. Ou: das longas cabeleiras dos inimigos
 \*fn
 \v Dt.32.43
 Jubilai, ó nações, com o povo dele, porque ele vingará o sangue dos seus servos, e devolverá a vingança sobre os seus 
-inimigos, e expiará sua terra, pelo seu povo.
+inimigos, e purificará a sua terra em favor de seu povo.
 \v Dt.32.44
-E Moisés veio, e recitou todas as palavras deste cântico aos ouvidos do povo, ele, e Josué filho de Num.
+E Moisés veio, e recitou todas as palavras deste cântico aos ouvidos do povo, ele, e Oseias,
+\fn
+Conforme o texto massorético. Equivalente a Josué
+\*fn
+ filho de Num.
 \v Dt.32.45
-E acabou Moisés de recitar todas estas palavras a todo Israel;
+E quando Moisés acabou de recitar todas estas palavras a todo Israel,
 \v Dt.32.46
-E disse-lhes: Ponde vosso coração a todas as palavras que eu vos declaro hoje, para que as mandeis a vossos filhos, e cuidem de praticar todas as palavras desta lei.
+disse-lhes: "Aplicai vosso coração a todas as palavras que eu vos declaro hoje, para que as recomendeis aos vossos 
+filhos, a fim de que tenham cuidado de praticar todas as palavras desta lei.
 \v Dt.32.47
-Porque não vos é coisa vã, mas é vossa vida: e por elas fareis prolongar os dias sobre a terra, para possuir a qual passais o Jordão.
+Porque esta palavra não vos é coisa vã, mas é a vossa vida; e por ela prolongareis os dias sobre a terra a qual 
+passais o Jordão para possuí-la."
 \v Dt.32.48
-E falou o SENHOR a Moisés aquele mesmo dia, dizendo:
+Depois o SENHOR falou a Moisés naquele mesmo dia, dizendo:
 \v Dt.32.49
-Sobe a este monte de Abarim, ao monte Nebo, que está na terra de Moabe, que está em frente de Jericó, e olha a terra de Canaã, que eu dou por herança aos filhos de Israel;
+"Sobe a este monte de Abarim, ao monte Nebo, que está na terra de Moabe, em frente de Jericó, e olha a terra de Canaã, 
+que eu dou por herança aos filhos de Israel;
 \v Dt.32.50
-E morre no monte ao qual sobes, e sê reunido a teus povos; ao modo que morreu Arão teu irmão no monte de Hor, e foi reunido a seus povos:
+e morrerás no monte ao qual subirás, e serás reunido aos teus povos; como Arão, teu irmão, morreu no monte de Hor, 
+e foi reunido aos seus povos;
 \v Dt.32.51
-Porquanto transgredistes contra mim em meio dos filhos de Israel nas águas da briga de Cades, no deserto de Zim; porque não me santificastes em meio dos filhos de Israel.
+porque transgredistes contra mim no meio dos filhos de Israel, junto às águas de Meribá, em Cades, no deserto de Zim; 
+pois não me santificastes no meio dos filhos de Israel.
 \v Dt.32.52
-Verás, portanto, diante de ti a terra; mas não entrarás ali, à terra que dou aos filhos de Israel.
+Por isso verás a terra diante de ti; porém não entrarás nela, na terra que dou aos filhos de Israel.
 \v Dt.33.1
-E esta é a bênção com a qual abençoou Moisés homem de Deus aos filhos de Israel, antes que morresse.
+E esta é a bênção com a qual Moisés, homem de Deus, abençoou aos filhos de Israel, antes que morresse.
 \v Dt.33.2
 E disse: O SENHOR veio de Sinai, E de Seir lhes iluminou; Resplandeceu do monte de Parã, E veio com dez mil santos: À sua direita a lei de fogo para eles.
 \v Dt.33.3

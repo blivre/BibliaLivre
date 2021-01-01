@@ -266,7 +266,15 @@ Manda essas coisas, e ensina.
 Ninguém despreze a tua juventude, mas sê exemplo aos crentes, na palavra, no comportamento, no amor,
  na fé, e na pureza.
 \v 1Tm.4.13
-Persiste na leitura, na exortação e no ensino, até que eu venha.
+Persiste na leitura 
+\added
+pública
+\*added
+,
+\fn
+Isto é, leitura pública das escrituras
+\*fn
+ na exortação e no ensino, até que eu venha.
 \v 1Tm.4.14
 Não desprezes o dom que está em ti, que te foi dado por profecia, com a imposição das mãos dos presbíteros.
 \v 1Tm.4.15

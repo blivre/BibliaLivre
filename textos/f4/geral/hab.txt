@@ -147,13 +147,17 @@ Ele parou, e sacudiu a terra; ele olhou, e abalou as nações; e os montes antig
 \v Hab.3.7
 Vi as tendas de Cusã em aflição; as cortinas da terra de Midiã tremeram.
 \v Hab.3.8
-Por acaso o SENHOR se irritou contra os rios? Foi tua ira contra os ribeiros? Foi tua ira contra o mar, quando cavalgaste sobre teus cavalos, e tuas carruagens de vitória?
+Por acaso o SENHOR se irritou contra os rios? A tua ira foi contra os ribeiros? O teu furor foi contra o mar, quando cavalgaste sobre os teus cavalos, 
+nas tuas carruagens de vitória?
 \v Hab.3.9
-Teu arco foi descoberto, as flechas foram preparadas pela 
-\added
-tua
-\*added
- palavra (Selá). Fendeste a terra com rios.
+Teu arco foi descoberto, as flechas foram preparadas pela palavra
+\fn
+\key
+as flechas forma preparadas pela palavra
+\*key
+Obscuro. Trad. alt. "juramentos foram feitos às tribos pela palavra"
+\*fn
+ (Selá). Fendeste a terra com rios.
 \v Hab.3.10
 Os montes te viram, e tiveram dores; a inundação das águas passou. O abismo deu sua voz, e levantou suas mãos ao alto.
 \v Hab.3.11
@@ -161,27 +165,16 @@ O sol e a lua pararam em suas moradas; à luz de tuas flechas passaram, com o re
 \v Hab.3.12
 Com indignação marchaste pela terra, com ira trilhaste as nações.
 \v Hab.3.13
-Saíste para a salvar o teu povo, para salvar o teu ungido. Feriste o líder
-\fn
-\key
-líder
-\*key
-lit. cabeça
-\*fn
- da casa do ímpio, descobrindo-o dos pés ao pescoço. (Selá)
+Tu saíste para a salvação do teu povo, para a salvação do teu ungido. Feriste a cabeça da casa do perverso, 
+descobrindo-lhe do alicerce ao pescoço. (Selá)
 \v Hab.3.14
-Perfuraste com suas próprias lanças os líderes
-\fn
-\key
-líderes
-\*key
-lit. cabeças
-\*fn
- de suas tropas, que vieram impetuosamente para me dispersarem. A alegria deles era como a de devorarem os pobres às escondidas.
+Perfuraste com suas próprias lanças a cabeça de seus guerreiros, que vinham impetuosamente para me dispersarem. A alegria deles era como a de devorar 
+os pobres em segredo.
 \v Hab.3.15
-Pisaste pelo mar com teus cavalos, pela turbulência de grandes águas.
+Pisaste o mar com teus cavalos, pela turbulência de grandes águas.
 \v Hab.3.16
-Quando eu ouvi, meu ventre se perturbou; por causa do ruído meus lábios tremeram; podridão veio em meus ossos, e em meu lugar me perturbei; descansarei até o dia da angústia, quando virá contra o povo que nos ataca.
+Quando eu ouvi, meu ventre se perturbou; por causa do ruído meus lábios tremeram; podridão entrou nos meus ossos, e estremeci onde eu estava; 
+aguardarei quieto ao dia da angústia, que virá contra o povo que nos ataca.
 \v Hab.3.17
 Ainda que a figueira não floresça, nem haja fruto nas vides, e falte o produto da oliveira, os campos não produzam alimento, as ovelhas sejam arrebatadas, e não haja vacas nos currais,
 \v Hab.3.18

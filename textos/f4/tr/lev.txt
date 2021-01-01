@@ -564,7 +564,7 @@ Vos serão, pois, em abominação: de sua carne não comereis, e abominareis seu
 \v Lv.11.12
 Tudo o que não tiver barbatanas e escamas nas águas, o tereis em abominação.
 \v Lv.11.13
-E das aves, estas tereis em abominação; não se comerão, serão abominação: a água, o quebra-ossos, o esmerilhão,
+E das aves, estas tereis em abominação; não se comerão, serão abominação: a águia, o quebra-ossos, o esmerilhão,
 \v Lv.11.14
 O milhafre, e o falcão a segundo sua espécie;
 \v Lv.11.15
@@ -742,37 +742,53 @@ E o leproso em quem houver chaga, suas roupas serão derrotados e sua cabeça de
 \v Lv.13.46
 Durante todo o tempo que a chaga estiver nele será imundo; estará impuro: habitará sozinho; fora do acampamento será sua morada.
 \v Lv.13.47
-E quando na roupa houver praga de lepra, em vestido de lã, ou em vestido de linho;
+E quando na roupa houver chaga de lepra, em vestido de lã, ou em vestido de linho;
 \v Lv.13.48
 Ou na urdidura ou em trama, de linho ou de lã, ou em pele, ou em qualquer obra de pele;
 \v Lv.13.49
-E que a praga seja verde, ou vermelha, em roupa ou em pele, ou na urdidura, ou em trama, ou em qualquer obra de pele; praga é de lepra, e se há de mostrar ao sacerdote.
+E que a chaga seja verde, ou vermelha, em roupa ou em pele, ou na urdidura, ou em trama, ou em qualquer obra de pele; 
+é chaga de lepra, e deve ser mostrada ao sacerdote.
 \v Lv.13.50
-E o sacerdote olhará a praga, e encerrará a coisa que tem praga por sete dias.
+E o sacerdote olhará a chaga, e encerrará a coisa que tem chaga por sete dias.
 \v Lv.13.51
-E ao sétimo dia olhará a praga: e se houver estendido a praga na roupa, ou urdidura, ou na trama, ou em pele, ou em qualquer obra que se faz de peles, lepra roedora é a praga; impura será.
+E ao sétimo dia olhará a chaga: e se a chaga houver estendido na roupa, ou urdidura, ou na trama, ou em pele, ou em 
+qualquer obra que se faz de peles, a chaga é lepra roedora; será impura.
 \v Lv.13.52
-Será queimada a roupa, ou urdidura ou trama, de lã ou de linho, ou qualquer obra de peles em que houver tal praga; porque lepra roedora é; ao fogo será queimada.
+Será queimada a roupa, ou urdidura ou trama, de lã ou de linho, ou qualquer obra de peles em que houver tal chaga; 
+porque é lepra roedora; com fogo será queimada.
 \v Lv.13.53
-E se o sacerdote olhar, e não parecer que a praga se tenha estendido na roupa, ou urdidura, ou na trama, ou em qualquer obra de peles;
+E se o sacerdote olhar, e não parecer que a chaga se tenha estendido na roupa, ou urdidura, ou na trama, ou em 
+qualquer obra de peles;
 \v Lv.13.54
-Então o sacerdote mandará que lavem onde está a praga, e o encerrará outra vez por sete dias.
+Então o sacerdote mandará que lavem onde está a chaga, e o encerrará outra vez por sete dias.
 \v Lv.13.55
-E o sacerdote olhará depois que a praga for lavada; e se parecer que a praga não mudou seu aspecto, ainda que não tenha estendido a praga, impura é; a queimarás ao fogo; corrosão é penetrante, esteja o estragado na face ou no verso daquela coisa.
+E o sacerdote olhará depois que a chaga for lavada; e se parecer que a chaga não mudou seu aspecto, ainda que não 
+tenha estendido a chaga, impura é; a queimarás com fogo; é 
+\added
+chaga
+\*added
+ penetrante, estando a parte estragada na frente ou no verso daquela coisa.
 \v Lv.13.56
-Mas se o sacerdote a vir, e parecer que a praga se escureceu depois que foi lavada, a cortará da roupa, ou da pele, ou da urdidura, ou da trama.
+Mas se o sacerdote a vir, e parecer que a chaga se desbotou depois que foi lavada, a cortará da roupa, ou da pele, ou 
+da urdidura, ou da trama.
 \v Lv.13.57
-E se parecer mais no vestido, ou urdidura, ou trama, ou em qualquer coisa de peles, esverdeando nela, queimarás ao fogo aquilo onde estiver a praga.
+E se ainda aparecer no vestido, ou urdidura, ou trama, ou em qualquer coisa de peles, é 
+\added
+chaga
+\*added
+ brotante, queimarás com fogo aquilo onde estiver a chaga.
 \v Lv.13.58
-Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a praga, se lavará segunda vez, e então será limpa.
+Porém a roupa, ou urdidura, ou trama, ou qualquer coisa de pele que lavares, e que se lhe tirar a chaga, se lavará a
+segunda vez, e então será limpa.
 \v Lv.13.59
-Esta é a lei da praga da lepra da roupa de lã ou de linho, ou da urdidura, ou da trama, ou de qualquer coisa de pele, para que seja dada por limpa ou por impura.
+Esta é a lei da chaga da lepra da roupa de lã ou de linho, ou da urdidura, ou da trama, ou de qualquer coisa de pele, 
+para que seja dada por limpa ou por impura.
 \v Lv.14.1
-E falou o SENHOR a Moisés, dizendo:
+E o SENHOR falou a Moisés, dizendo:
 \v Lv.14.2
 Esta será a lei do leproso quando se limpar: Será trazido ao sacerdote:
 \v Lv.14.3
-E o sacerdote sairá fora do acampamento; e olhará o sacerdote, e vendo que está sã a praga da lepra do leproso,
+E o sacerdote sairá fora do acampamento; e olhará o sacerdote, e vendo que está sarada a chaga da lepra do leproso,
 \v Lv.14.4
 O sacerdote mandará logo que se tomem para o que se purifica duas aves vivas, limpas, e pau de cedro, e carmesim, e hissopo;
 \v Lv.14.5
@@ -837,57 +853,68 @@ E o que sobrar do azeite que o sacerdote tem em sua mão, o porá sobre a cabeç
 \v Lv.14.30
 Também oferecerá uma das rolinhas, ou dos pombinhos, o que alcançar sua mão:
 \v Lv.14.31
-O um do que alcançar sua mão, em expiação pelo pecado, e o outro em holocausto, ademais da oferta: e fará o sacerdote expiação pelo que se há de purificar, diante do SENHOR.
+O um do que alcançar sua mão, em expiação pelo pecado, e o outro em holocausto, além da oferta; e o 
+sacerdote fará expiação pelo que se há de purificar, diante do SENHOR.
 \v Lv.14.32
-Esta é a lei do que houver tido praga de lepra, cuja mão não alcançar o prescrito para purificar-se.
+Esta é a lei do que houver tido chaga de lepra, cuja mão não alcançar o prescrito para purificar-se.
 \v Lv.14.33
 E falou o SENHOR a Moisés e a Arão, dizendo:
 \v Lv.14.34
-Quando houveres entrado na terra de Canaã, a qual eu vos dou em possessão, e puser eu praga de lepra em alguma casa da terra de vossa possessão,
+Quando houveres entrado na terra de Canaã, a qual eu vos dou em possessão, e eu puser chaga de lepra em alguma 
+casa da terra de vossa possessão,
 \v Lv.14.35
-Virá aquele cuja for a casa, e dará aviso ao sacerdote, dizendo: Como praga apareceu em minha casa.
+Virá aquele cuja for a casa, e dará aviso ao sacerdote, dizendo: “Parece-me que algo como uma chaga há na minha casa.”
 \v Lv.14.36
-Então mandará o sacerdote, e despejarão a casa antes que o sacerdote entre a olhar a praga, para que não seja contaminado tudo o que estiver na casa: e depois o sacerdote entrará a reconhecer a casa:
+Então o sacerdote mandará, e despejarão a casa antes que o sacerdote entre para examinar a chaga, para que tudo o 
+que estiver na casa não seja contaminado; e depois o sacerdote entrará para examinar a casa;
 \v Lv.14.37
-E olhará a praga: e se se virem machas nas paredes da casa, cavidades esverdeadas ou vermelhas, as quais parecerem mais profundas que a parede,
+E olhará a chaga; e se houver machas nas paredes da casa, cavidades esverdeadas ou vermelhas, as quais 
+parecerem mais profundas que a parede,
 \v Lv.14.38
 O sacerdote sairá da casa à porta dela, e fechará a casa por sete dias.
 \v Lv.14.39
-E ao sétimo dia voltará o sacerdote, e olhará: e se a praga houver crescido nas paredes da casa,
+E ao sétimo dia voltará o sacerdote, e olhará: e se a chaga houver crescido nas paredes da casa,
 \v Lv.14.40
-Então mandará o sacerdote, e arrancarão as pedras em que estiver a praga, e as lançarão fora da cidade, em lugar impuro:
+Então mandará o sacerdote, e arrancarão as pedras em que estiver a chaga, e as lançarão fora da cidade, 
+em lugar impuro;
 \v Lv.14.41
 E fará raspar a casa por dentro ao redor, e derramarão o pó que rasparem fora da cidade em lugar impuro:
 \v Lv.14.42
 E tomarão outras pedras, e as porão em lugar das pedras tiradas; e tomarão outro barro, e rebocarão a casa.
 \v Lv.14.43
-E se a praga voltar a esverdear naquela casa, depois que fez arrancar as pedras, e raspar a casa, e depois que foi rebocada,
+E se a chaga voltar a esverdear naquela casa, depois que fez arrancar as pedras, e raspar a casa, e depois que 
+foi rebocada,
 \v Lv.14.44
-Então o sacerdote entrará e olhará; e se parecer haver-se estendido a praga na casa, lepra roedora está na casa: impura é.
+Então o sacerdote entrará e olhará; e se parecer que a chaga na casa tem se estendido, lepra roedora 
+está na casa; está impura.
 \v Lv.14.45
-Derrubará, portanto, a tal casa, suas pedras, e seus madeiros, e toda a mistura da casa; e o tirará fora da cidade a lugar impuro.
+Derrubará, portanto, a tal casa, suas pedras, e sua madeira, e todo o reboco da casa; e os levará para fora da 
+cidade a um lugar impuro.
 \v Lv.14.46
-E qualquer um que entrar naquela casa todos os dias que a mandou fechar, será impuro até à tarde.
+E qualquer um que entrar naquela casa todos os dias que a mandou fechar será impuro até a tarde.
 \v Lv.14.47
-E o que dormir naquela casa, lavará suas roupas; também o que comer na casa, lavará suas roupas.
+E o que dormir naquela casa lavará suas roupas; também o que comer na casa lavará suas roupas.
 \v Lv.14.48
-Mas se entrar o sacerdote e olhar, e vir que a praga não se estendeu na casa depois que foi rebocada, o sacerdote dará a casa por limpa, porque a praga sarou.
+Mas se entrar o sacerdote e olhar, e vir que a chaga não se estendeu na casa depois que foi rebocada, o 
+sacerdote dará a casa por limpa, porque a chaga sarou.
 \v Lv.14.49
-Então tomará para limpar a casa duas aves, e pau de cedro, e carmesim, e hissopo:
+Então tomará para limpar a casa duas aves, e pau de cedro, e carmesim, e hissopo;
 \v Lv.14.50
-E degolará uma ave em uma vasilha de barro sobre águas vivas:
+e degolará uma ave em uma vasilha de barro sobre águas limpa;
 \v Lv.14.51
-E tomará o pau de cedro, e o hissopo, e o carmesim, e a ave viva, e o molhará no sangue da ave morta e nas águas vivas, e espargirá a casa sete vezes:
+E tomará o pau de cedro, e o hissopo, e o carmesim, e a ave viva, e o molhará no sangue da ave morta e na água 
+limpa, e espargirá a casa sete vezes;
 \v Lv.14.52
-E purificará a casa com o sangue da ave, e com as águas vivas, e com a ave viva, e o pau de cedro, e o hissopo, e o carmesim:
+E purificará a casa com o sangue da ave, e com a água limpa, e com a ave viva, e o pau de cedro, e o hissopo, 
+e o carmesim;
 \v Lv.14.53
-Logo soltará a ave viva fora da cidade sobre a face do campo: Assim fará expiação pela casa, e será limpa.
+Logo soltará a ave viva fora da cidade em direção ao campo; assim fará expiação pela casa, e será limpa.
 \v Lv.14.54
-Esta é a lei acerca de toda praga de lepra, e de tinha;
+Esta é a lei acerca de toda chaga de lepra, e de tinha;
 \v Lv.14.55
 E da lepra da roupa, e da casa;
 \v Lv.14.56
-E acerca do inchaço, e da pústula, e da mancha branca:
+E acerca do inchaço, e da pústula, e da mancha branca;
 \v Lv.14.57
 Para ensinar quando é impuro, e quando limpo. Esta é a lei tocante à lepra.
 \v Lv.15.1
@@ -1683,7 +1710,8 @@ E quebrarei a soberba de vossa força, e voltarei vosso céu como ferro, e vossa
 \v Lv.26.20
 E vossa força se consumirá em vão; que vossa terra não dará seu produto, e as árvores da terra não darão seu fruto.
 \v Lv.26.21
-E se andardes comigo em oposição, e não me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais pragas segundo vossos pecados.
+E se andardes comigo em oposição, e não me quiserdes ouvir, eu acrescentarei sobre vós sete vezes mais 
+pragas segundo os vossos pecados.
 \v Lv.26.22
 Enviarei também contra vós animais feras que vos arrebatem os filhos, e destruam vossos animais, e vos reduzam a poucos, e vossos caminhos sejam desertos.
 \v Lv.26.23

@@ -106,12 +106,28 @@ mesmos
 \*added
  se tornarão inúteis?
 \v Jr.2.6
-Eles nem disseram: Onde está o SENHOR, que nos fez subir de terra do Egito, que nos guiou pelo deserto, por uma terra deserta e esburacada, 
-por uma terra seca e de sombra de morte, por uma terra pela qual ninguém passava, nem ali homem algum habitava?
+Eles nem disseram: Onde está o SENHOR, que nos fez subir de terra do Egito, que nos guiou pelo deserto, por uma terra 
+de desertos e de covas, por uma terra seca e de sombra de morte, por uma terra pela qual ninguém passava, nem ali 
+pessoa alguma habitava?
 \v Jr.2.7
-E eu vos trouxe à terra de Carmelo, para que comêsseis seu fruto e seu bem; mas entrastes, e contaminastes minha terra, e fizestes minha propriedade abominável.
+E eu vos trouxe a uma terra fértil, para comerdes do seu fruto e do seu bem; mas 
+\added
+quando
+\*added
+ entrastes 
+\added
+nela
+\*added
+, contaminastes a minha terra, e fizestes da minha herança uma abominação.
 \v Jr.2.8
-Os sacerdotes não disseram: Onde está o SENHOR? E os que teriam de usar a lei não me conheceram; e os líderes
+Os sacerdotes não disseram: Onde está o SENHOR? E os que deviam ensinar a lei
+\fn
+\key
+os que deviam ensinar a lei
+\*key
+Lit. os que lidavam com a lei
+\*fn
+ não me conheceram; e os líderes
 \fn
 lit. pastores
 \*fn
@@ -361,7 +377,8 @@ veio
 \v Jr.4.12
 Um vento forte demais para estas coisas virá de mim; agora também eu pronunciarei juízos contra eles.
 \v Jr.4.13
-Eis que ele virá subindo como as nuvens, e suas carruagens como o redemoinho de vento; seus cavalos serão mais velozes que as águias;Ai de nós, porque somos assolados!
+Eis que ele virá subindo como as nuvens, e suas carruagens como o redemoinho de vento; seus cavalos serão mais 
+velozes que as águias; ai de nós, porque somos assolados!
 \v Jr.4.14
 Lava teu coração da maldade para que sejas salva; ó Jerusalém! Até quando deixarás os teus meus pensamentos permanecerem em meio a ti?
 \v Jr.4.15
@@ -2587,7 +2604,8 @@ Pois eles vos profetizam falsamente em meu nome; eu não os enviei, diz o SENHOR
 \v Jr.29.10
 Porque assim diz o SENHOR: Certamente que, quando se cumprirem setenta anos na Babilônia, eu vos visitarei; e cumprirei sobre vós minha boa palavra, trazendo-vos de volta a este lugar.
 \v Jr.29.11
-Porque eu sei os pensamentos que penso quanto a vós, diz o SENHOR, pensamentos de paz, e não de mal, para vos dar um futuro com esperança.
+Porque eu sei os pensamentos que penso quanto a vós, diz o SENHOR, pensamentos de paz, e não de calamidade, para 
+vos dar um futuro com esperança.
 \v Jr.29.12
 Então me invocareis, e ireis, e orareis a mim, e eu vos ouvirei;
 \v Jr.29.13
@@ -4304,7 +4322,8 @@ para dizer
 \v Jr.49.15
 Porque eis te fiz pequeno entre as nações, desprezado entre os homens.
 \v Jr.49.16
-O terror que tu causas te enganou, assim como a arrogância de teu coração; tu que habitas nas cavernas das rochas, que tens a altura dos montes; ainda que levantes teu ninho como a águia, de lá eu te derrubarei,diz o SENHOR.
+O terror que tu causas te enganou, assim como a arrogância de teu coração; tu que habitas nas cavernas das rochas, 
+que tens a altura dos montes; ainda que levantes teu ninho como a águia, de lá eu te derrubarei,diz o SENHOR.
 \v Jr.49.17
 Assim Edom servirá de espanto; todo aquele que passar por ela se espantará, e assoviará por causa de todas as suas pragas.
 \v Jr.49.18
@@ -4316,7 +4335,8 @@ Portanto ouvi o conselho do SENHOR, que ele determinou sobre Edom; e seus pensam
 \v Jr.49.21
 A terra treme do estrondo da queda deles; e o grito de sua voz foi ouvida até no mar Vermelho.
 \v Jr.49.22
-Eis que como águia subirá e voará, e estenderá suas asas sobre Bozra; e o coração dos guerreiros de Edom será naquele dia como o coração de mulher em dores de parto.
+Eis que como águia subirá e voará, e estenderá suas asas sobre Bozra; e o coração dos guerreiros de Edom será 
+naquele dia como o coração de mulher em dores de parto.
 \v Jr.49.23
 Sobre Damasco. Envergonharam-se Hamate e Arpade, porque ouviram más notícias; derreteram-se em mar de angústia, não podem se sossegar.
 \v Jr.49.24

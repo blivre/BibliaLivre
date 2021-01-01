@@ -3094,12 +3094,10 @@ e
 \v Is.37.21
 Então Isaías, filho de Amós, mandou dizer a Ezequias: Assim diz o SENHOR, Deus de Israel: Quanto ao que me pediste sobre Senaqueribe, rei da Assíria,
 \v Is.37.22
-Esta é a palavra que o SENHOR falou sobre ele: A virgem, a filha de Sião, te despreza, zomba de ti; a filha de Jerusalém balança a cabeça após ti.
+Esta é a palavra que o SENHOR falou sobre ele: A virgem, a filha de Sião, te despreza, zomba de ti; a filha de 
+Jerusalém balança a cabeça às tuas costas.
 \fn
-\key
-após ti
-\*key
-equiv. às tuas costas
+Lit. atrás de ti
 \*fn
 \v Is.37.23
 A quem afrontaste? 
@@ -3421,7 +3419,8 @@ Ele dá força ao cansado, e multiplica as forças daquele que não tem vigor.
 \v Is.40.30
 Até os jovens se cansam e se fatigam; e os rapazes caem;
 \v Is.40.31
-Mas os que confiam no SENHOR renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão.
+Mas os que confiam no SENHOR renovarão as forças, subirão com asas como águias; correrão, e não se cansarão; 
+caminharão, e não se fatigarão.
 \v Is.41.1
 Calai-vos perante mim, ó litorais; e os povos renovem as forças; aproximem-se, 
 \added
@@ -4482,27 +4481,29 @@ ou rainhas
 \v Is.49.24
 Pode, por acaso, se tirar a presa de um guerreiro, ou fazer escapar os presos capturados por um justo?
 \v Is.49.25
-Porém assim diz o SENHOR: Sim, os presos serão tirados do valente, e a presa do tirano escapará; porque eu brigarei com os que brigam contigo, e resgatarei teus filhos.
+Porém assim diz o SENHOR: Sim, os prisioneiros serão tirados do valente, e a presa do tirano escapará; porque eu 
+brigarei com os que brigam contigo, e resgatarei teus filhos.
 \v Is.49.26
-E darei de comer a teus opressores sua própria carne, e com seu próprio sangue se embriagarão, como com vinho; e todos saberão que eu sou o SENHOR teu Salvador, e teu Redentor, o Poderoso de Jacó.
+E darei de comer a teus opressores sua própria carne, e com seu próprio sangue se embriagarão, como com vinho; 
+e todos saberão que eu sou o SENHOR, teu Salvador, e teu Redentor, o Poderoso de Jacó.
 \v Is.50.1
-Assim diz o SENHOR: Onde está a carta de divórcio de vossa mãe, com que eu a mandei embora? Ou a qual dos meus credores foi que eu vos vendi? Eis que por vossas maldades fostes vendidos, e por vossas transgressões vossa mãe foi expulsa.
+Assim diz o SENHOR: Onde está a carta de divórcio de vossa mãe, com que eu a expulsei? Ou a qual dos meus 
+credores eu vos vendi? Eis que por vossas maldades fostes vendidos, e por vossas transgressões vossa mãe foi expulsa.
 \v Is.50.2
-Por que razão quando eu vim ninguém apareceu? Chamei, e ninguém respondeu. Por acaso minha mão se encurtou tanto, que já não posso resgatar? Ou não há 
+Por que razão quando eu vim ninguém apareceu? Chamei, e ninguém respondeu. Por acaso minha mão se encurtou tanto, 
+que já não posso resgatar? Ou não há 
 \added
 mais
 \*added
- poder em mim para livrar? Eis que com minha repreensão faço secar o mar, torno os rios em deserto, até federem seus peixes por não haver água, e morrem de sede.
+ poder em mim para livrar? Eis que com minha repreensão faço secar o mar, torno os rios em deserto, até federem 
+seus peixes por não haver água, e morrem de sede.
 \v Is.50.3
-Eu visto aos céus de negro, e ponho um saco como sua cobertura.
+Eu visto aos céus de negro, e ponho saco como sua cobertura.
 \v Is.50.4
-O Senhor DEUS me deu língua de instruídos, para que eu saiba falar no tempo devido uma 
-\added
-boa
-\*added
- palavra ao cansado; ele me desperta todas as manhãs, desperta o meu ouvido para que eu ouça como os instruídos.
+O Senhor DEUS me deu língua dos instruídos, para que eu saiba falar uma palavra que sustenha o cansado; 
+ele me desperta todas as manhãs, desperta o meu ouvido para que eu ouça como aqueles que aprendem.
 \v Is.50.5
-O Senhor DEUS abriu os meus ouvidos, e não sou rebelde; nem me viro para trás.
+O Senhor DEUS abriu os meus ouvidos, e não sou rebelde, nem me viro para trás.
 \v Is.50.6
 Dei minhas costas aos que 
 \added
@@ -4510,7 +4511,8 @@ me
 \*added
  feriam, e os lados do meu rosto aos que me arrancavam os pelos; não escondo minha face de humilhações e cuspidas;
 \v Is.50.7
-Porque o Senhor DEUS me ajuda; portanto não me envergonho; por isso pus meu rosto como pedra muito dura; porque sei que não serei envergonhado.
+Porque o Senhor DEUS me ajuda; portanto, não me envergonho; por isso pus meu rosto como pedra muito dura; porque 
+sei que não serei envergonhado.
 \v Is.50.8
 Perto está aquele que me justifica; quem se oporá a mim? Compareçamos juntos; quem é meu adversário? Venha até mim.
 \v Is.50.9
@@ -4518,7 +4520,7 @@ Eis que o Senhor DEUS me ajuda; quem é que
 \added
 o que
 \*added
- me condenará? Eis que todos eles tal como vestidos se envelhecerão, 
+ me condenará? Eis que todos eles se envelhecerão como vestidos, 
 \added
 e
 \*added
@@ -4528,21 +4530,24 @@ Quem há entre vós que tema ao SENHOR,
 \added
 e
 \*added
- ouça a voz de seu servo? Aquele que andar em trevas, e não tiver luz nenhuma, confie no nome do SENHOR, e dependa de seu Deus.
+ ouça a voz de seu servo? Aquele que andar em trevas, e não tiver luz nenhuma, confie no nome do SENHOR, e se 
+firme sobre o seu Deus.
 \v Is.50.11
-Eis que todos vós que acendeis fogo, e vos envolveis com chamas, andai entre as labaredas de vosso fogo, e entre as chamas que acendestes; isto recebereis de minha mão, e em tormentos jazereis.
+Eis que todos vós que acendeis fogo, e vos armais com flechas incendiárias, andai entre as labaredas do vosso fogo e 
+entre as flechas que acendestes; isto vos virá de minha mão; em tormentos deitareis.
 \v Is.51.1
-Ouvi-me, vós que seguis a justiça, os que buscais ao SENHOR; olhai para a rocha 
+Ouvi-me, vós que seguis a justiça, que buscais ao SENHOR; olhai para a rocha 
 \added
 de onde
 \*added
- fostes cortados, e para a escavação do poço 
+ fostes cortados, e para a pedreira
 \added
 de onde
 \*added
  fostes cavados.
 \v Is.51.2
-Olhai para Abraão vosso pai, e para Sara que vos gerou; porque, sendo ele sozinho eu o chamei, o abençoei e o multipliquei.
+Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque, sendo ele sozinho, eu o chamei, o abençoei 
+e o multipliquei.
 \v Is.51.3
 Pois o SENHOR consolará a Sião; ele consolará a todos os seus lugares desertos, e fará a seu deserto como a Éden, e seu lugar vazio como o jardim do SENHOR; alegria e contentamento se achará nela; agradecimentos e voz de melodia.
 \v Is.51.4
@@ -4711,35 +4716,55 @@ Com opressão e julgamento ele foi removido; e quem falará de sua geração?
 \key
 falará de sua geração
 \*key
-obscuro – trads. alts. “quem falará de seus descendentes?”ou “quem dentre os de sua geração refletirá sobre ele”
+obscuro – trads. alts. “quem falará de seus descendentes?” ou “quem dentre os de sua geração falará sobre ele”
 \*fn
-Porque ele foi cortado da terra dos viventes; pela transgressão do meu povo ele foi ferido.
+Porque ele foi cortado da terra dos viventes; por causa da transgressão do meu povo ele foi ferido.
 \v Is.53.9
-E puseram sua sepultura com perversos, e com um rico em sua morte; pois ele nunca fez injustiça, nem houve engano em sua boca.
+E puseram sua sepultura com os perversos, e com um rico em sua morte; pois ele nunca fez injustiça, nem houve engano 
+em sua boca.
 \v Is.53.10
-Porém agradou ao SENHOR esmagá-lo, fazendo-o ficar enfermo; quando sua alma for posta como expiação do pecado, ele verá semente, 
+Porém ao SENHOR agradou esmagá-lo e torná-lo enfermo; quando sua alma for posta como expiação do pecado, ele 
+verá a 
+\added
+sua
+\*added
+ descendência,
+\fn
+Lit. semente
+\*fn
+ 
 \added
 e
 \*added
- prolongará os dias; e o bom prazer do SENHOR prosperará em sua mão.
+ prolongará os 
+\added
+seus
+\*added
+ dias; e o bom prazer do SENHOR prosperará em sua mão.
 \v Is.53.11
-A 
-\added
-consequência
-\*added
- do trabalho de sua alma ele verá 
+Ele verá do trabalho de sua alma, 
 \added
 e
 \*added
- se fartará; com seu conhecimento o meu servo, o justo, justificará a muitos, pois levará sobre si as perversidades deles.
+ se satisfará; com o seu conhecimento o meu servo, o justo, justificará a muitos, pois levará sobre si as 
+transgressões deles.
 \v Is.53.12
-Por isso lhe darei a porção de muitos, e e com os poderosos ele repartirá despojo, pois derramou sua alma na morte, e foi contado com os transgressores; e levou sobre si o pecado de muitos, e intercedeu pelos transgressores.
+Por isso lhe darei uma porção de muitos,
+\fn
+Ou: uma porção entre os grandes
+\*fn
+ e repartirá despojo com os poderosos; pois ele derramou sua vida
+\fn
+Ou: alma
+\*fn
+ na morte, e foi contado com os transgressores; levou sobre si o pecado de muitos, e intercedeu pelos transgressores.
 \v Is.54.1
 Canta alegremente, ó estéril, 
 \added
 que
 \*added
- não geravas; grita de prazer com alegre canto, e jubila tu que não tiveste dores de parto; pois mais são os filhos da solitária do que os filhos da casada, diz o SENHOR.
+ não deste à luz; grita de prazer com alegre canto, e jubila tu, que não tiveste dores de parto; pois mais são os 
+filhos da solitária do que os filhos da casada, diz o SENHOR.
 \v Is.54.2
 Aumenta o espaço de tua tenda, e as cortinas de tuas habitações sejam estendidas; não o impeças; alonga tuas cordas, e fixa bem tuas estacas;
 \v Is.54.3
@@ -4773,17 +4798,20 @@ E farei de rubis as tuas torres; e tuas portas de carbúnculos, e todos os teus 
 \v Is.54.13
 E todos os teus filhos serão ensinados pelo SENHOR; e a paz de teus filhos será abundante.
 \v Is.54.14
-Com justiça serás firmada; afasta-te da opressão, porque já não temerás; assim como também do assombro, porque este não se aproximará de ti.
+Com justiça serás firmada; afasta-te da opressão, porque já não temerás; como também do assombro, porque  
+não se aproximará de ti.
 \v Is.54.15
 Se alguém lutar 
 \added
 contra ti
 \*added
-,não será por mim; quem lutar contra ti cairá por causa de ti.
+, não será por mim; quem lutar contra ti cairá por causa de ti.
 \v Is.54.16
-Eis que fui eu que criei ao ferreiro que assopra as brasas no fogo, e que produz a ferramenta para sua obra; também fui eu que criei ao destruidor, para causar ruína.
+Eis que fui eu que criei ao ferreiro que assopra as brasas no fogo, e que produz a arma para sua obra; também 
+fui eu que criei o destruidor, para causar ruína.
 \v Is.54.17
-Nenhuma ferramenta preparada contra ti terá sucesso; e toda língua que se levantar contra ti em juízo, tu a condenarás; esta é a herança dos servos do SENHOR; e a justiça deles 
+Nenhuma arma preparada contra ti terá sucesso; e toda língua que se levantar contra ti em juízo, tu a condenarás; 
+esta é a herança dos servos do SENHOR; e a justiça deles 
 \added
 provém
 \*added
@@ -4823,23 +4851,23 @@ converta
 \*added
  ao nosso Deus, porque ele grandemente perdoa.
 \v Is.55.8
-Pois meus pensamentos não são vossos pensamentos, nem vossos caminhos são meus caminhos, diz o SENHOR.
+Pois os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o SENHOR.
 \v Is.55.9
-Porque 
+Porque, 
 \added
-tal como
+assim como
 \*added
- os céus são mais altos que a terra, assim também meus caminhos são mais altos que vossos caminhos, e meus pensamentos 
-\added
-mais altos
-\*added
- que vossos pensamentos.
+ os céus são mais altos que a terra, assim também os meus caminhos são mais altos que os vossos caminhos, e os 
+meus pensamentos que os vossos pensamentos.
 \v Is.55.10
-Porque tal como a chuva e a neve desce dos céus, e para lá não volta, mas rega a terra, e a faz produzir, brotar, e dar semente ao semeador, e pão ao que come;
+Porque, assim como a chuva e a neve descem dos céus, e para lá não voltam, mas regam a terra, e a fazem produzir, 
+brotar, e dar semente ao semeador, e pão ao que come;
 \v Is.55.11
-Assim também será minha palavra, que não voltará a mim vazia; ao contrário, ela fará o que me agrada, e cumprirá aquilo para que a enviei.
+assim também será a minha palavra, que sair da minha boca; ela não voltará a mim vazia; mas fará o que me agrada, e 
+prosperará naquilo para que a enviei.
 \v Is.55.12
-Porque com alegria saireis, e em paz sereis guiados; os montes e os morros cantarão de alegria perante vossa presença, e todas as árvores do campo baterão palmas.
+Porque com alegria saireis, e em paz sereis guiados; os montes e os morros cantarão de alegria perante vossa presença, 
+e todas as árvores do campo baterão palmas.
 \v Is.55.13
 Em lugar do espinheiro crescerá o cipreste, e em lugar da urtiga crescerá a murta; e isso será para o SENHOR como um nome, como um sinal eterno, que nunca se apagará.
 \v Is.56.1
@@ -4855,8 +4883,8 @@ Eu também lhes darei em minha casa, e dentro de meus muros, lugar e nome, melho
 \v Is.56.6
 E aos filhos dos estrangeiros, que se ligarem ao SENHOR, para o servirem, e para amarem o nome do SENHOR, e para serem seus servos, todos os que guardarem o sábado, não o profanando, e os que permanecerem em meu pacto,
 \v Is.56.7
-Eu os levarei ao meu santo monte, e lhes farei se alegrarem em minha casa de oração; seus holocaustos e seus 
-sacrifícios serão aceitos em meu altar; porque minha casa será chamada “Casa de oração para todos os povos”.
+Eu os levarei ao meu santo monte, e os farei ficar alegres na minha casa de oração; seus holocaustos e seus 
+sacrifícios serão aceitos no meu altar; porque minha casa será chamada ‘Casa de oração para todos os povos’.
 \v Is.56.8
 \added
 Assim
@@ -4884,11 +4912,10 @@ cada um
 \*added
  por si.
 \v Is.56.12
- 
 \added
 Eles dizem
 \*added
- : Vinde, trarei vinho, e nos encheremos de bebida alcoólica; e o dia de amanhã será como hoje, e muito melhor!
+: Vinde, trarei vinho, e nos encheremos de bebida alcoólica; e o dia de amanhã será como hoje, e muito melhor!
 \v Is.57.1
 O justo perece, e ninguém há que pense nisso em seu coração; e os bons são levados, sem que ninguém dê atenção, que o justo é levado de diante do mal.
 \v Is.57.2
@@ -5011,7 +5038,8 @@ E será dito: Aplanai! Aplanai! Preparai o caminho! Tirai os tropeços do caminh
 \v Is.57.15
 Porque assim diz o Alto e Sublime, que habita na eternidade, e cujo nome é santo: Na altura e no lugar santo habito; e também com o contrito e abatido espírito, para vivificar o espírito dos abatidos, e para vivificar o coração dos contritos.
 \v Is.57.16
-Pois não brigarei para sempre, nem ficarei continuamente indignado; pois perderia todas as forças diante de mim o espírito, as almas que eu criei.
+Pois não brigarei para sempre, nem ficarei continuamente indignado; pois perante mim se abateria o 
+espírito, assim como as almas que eu criei.
 \v Is.57.17
 Pela maldade de sua cobiça eu me indignei, e o feri; eu me escondi, e me indignei; porém ele se rebelou seguindo o caminho de seu coração.
 \v Is.57.18
@@ -5250,13 +5278,14 @@ lit. semente
 \*fn
  nem da boca dos descendentes de teus descendentes, diz o SENHOR, desde agora e para sempre.
 \v Is.60.1
-Levanta-te! Brilha! Porque já chegou a tua luz; e a glória do SENHOR já está raiando sobre ti.
+Levanta-te! Brilha! Porque é chegada a tua luz; e a glória do SENHOR já está raiando sobre ti.
 \v Is.60.2
-Porque eis que as trevas cobrirão a terra, e a escuridão aos povos; porém sobre ti o SENHOR virá raiando, e sua glória será vista sobre ti.
+Porque eis que as trevas cobrirão a terra, e a escuridão os povos; porém sobre ti o SENHOR virá raiando, e 
+sobre ti sua glória será vista.
 \v Is.60.3
-E as nações virão à tua luz, e os reis ao brilho que raiou a ti.
+E as nações virão à tua luz, os reis ao brilho que te raiou.
 \v Is.60.4
-Levanta teus olhos ao redor, e vê; todos estes se ajuntaram, 
+Levanta teus olhos em redor, e vê; todos estes se ajuntaram, 
 \added
 e
 \*added
@@ -5269,13 +5298,14 @@ te alegrarás
 \*key
 lit. resplandecerás, brilharás – trad. alt. sorrirás
 \*fn
- teu coração palpitará e se encherá de alegria, 
+ teu coração palpitará e se encherá de alegria,
 \fn
 encherá de alegria = lit. alargará 
 \*fn
-porque a abundância do mar a ti se voltará, as riquezas das nações a ti chegarão.
+ porque a abundância do mar se voltará a ti, as riquezas das nações a ti chegarão.
 \v Is.60.6
-Multidão de camelos te cobrirá; dromedários de Midiã e Efá, todos virão de Sabá; trarão ouro e incenso, e declararão louvores ao SENHOR.
+Multidão de camelos te cobrirá; dromedários de Midiã e Efá, todos virão de Sabá; trarão ouro e incenso, e declararão 
+louvores ao SENHOR.
 \v Is.60.7
 Todas as ovelhas de Quedar se ajuntarão a ti; os carneiros de Nebaiote te servirão; com agrado subirão ao meu altar, e eu glorificarei a casa de minha glória.
 \v Is.60.8

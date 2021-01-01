@@ -57,7 +57,8 @@ irmão
 \*added
  de Tiago.
 \v At.1.14
-Todos estes perseveravam concordando em orações, e petições, com as mulheres, com Maria a mãe de Jesus, e com os irmãos dele.
+Todos estes perseveravam concordantes em orações e petições, com as mulheres, com Maria mãe de Jesus, e com os 
+irmãos dele.
 \v At.1.15
 E em 
 \added
@@ -103,17 +104,22 @@ passou
 \*added
  a ser contado junto com os onze apóstolos.
 \v At.2.1
-E ao se cumprir o dia de Pentecostes, estavam todos concordando no mesmo lugar.
+E, cumprindo-se o dia de Pentecostes, estavam todos {tr,rp:concordantes}{n4:juntos}
+\fn
+TR, RP: concordantes
+\*fn
+ no mesmo lugar.
 \v At.2.2
 E de repente houve um ruído do céu, como de um vento forte 
 \added
 e
 \*added
- violento, e encheu toda a casa onde eles estavam sentados.
+ impetuoso, e encheu toda a casa onde eles estavam sentados.
 \v At.2.3
-E foram vistas por eles línguas repartidas como que de fogo, e se pôs sobre cada um deles.
+E apareceram-lhes línguas repartidas como de fogo, e se puseram sobre cada um deles.
 \v At.2.4
-E eles foram todos cheios do Espírito Santo, e começaram a falar em outras línguas, conforme o Espírito lhes dava a discursarem.
+E eles foram todos cheios do Espírito Santo, e começaram a falar em outras línguas, conforme o Espírito lhes 
+concedia que se exprimissem.
 \v At.2.5
 E havia judeus que estavam morando em Jerusalém, homens devotos, de toda nação abaixo do céu.
 \v At.2.6
@@ -147,17 +153,22 @@ ainda
 \v At.2.16
 Mas isto é o que foi dito por meio do profeta Joel:
 \v At.2.17
-E será nos últimos dias, diz Deus, que: Eu derramarei do meu Espírito sobre toda carne, e vossos filhos e filhas profetizarão, e vossos rapazes terão visões, e vossos velhos sonharão sonhos;
+E será nos últimos dias, diz Deus, que: do meu Espírito derramarei sobre toda carne; e vossos filhos e filhas 
+profetizarão, e vossos jovens terão visões, e vossos velhos terão sonhos;
 \v At.2.18
-E também sobre meus servos e sobre minhas servas, naqueles dias eu derramarei do meu Espírito, e profetizarão.
+e também sobre meus servos e sobre minhas servas, naqueles dias derramarei do meu Espírito, e profetizarão.
 \v At.2.19
-E darei milagres acima no céu, e sinais abaixo na terra; sangue, fogo, e vapor de fumaça;
+E farei aparecer prodígios acima no céu, e sinais abaixo na terra; sangue, fogo, e vapor de fumaça;
 \v At.2.20
 O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e notório dia do Senhor.
 \v At.2.21
-E será que todo aquele que chamar ao nome do Senhor será salvo.
+E será que todo aquele que invocar o nome do Senhor será salvo.
+\ref
+Joel 2:28-32
+\*ref
 \v At.2.22
-Homens israelitas, ouvi estas palavras: Jesus o nazareno, homem aprovado por Deus entre vós, com maravilhas, milagres e sinais, que Deus fez por meio dele no meio de vós, assim como vós mesmos também sabeis;
+Homens israelitas, ouvi estas palavras: Jesus o nazareno, homem aprovado por Deus entre vós, com maravilhas, milagres 
+e sinais, que Deus fez por meio dele no meio de vós, assim como vós mesmos também sabeis;
 \v At.2.23
 Este, sendo entregue pelo determinado conselho e conhecimento prévio de Deus, sendo tomando, pelas mãos de injustos 
 \added
@@ -165,9 +176,10 @@ o
 \*added
  crucificastes e matastes;
 \v At.2.24
-Ao qual Deus ressuscitou, tendo soltado as dores da morte; porque não era possível ele ser retido por ela;
+ao qual Deus ressuscitou, tendo o livrado das dores da morte; porque não era possível que ele fosse retido por ela;
 \v At.2.25
-Porque Davi diz sobre ele: Eu sempre via ao Senhor diante de mim, porque ele está à minha direita, para que eu não seja abalado.
+Porque Davi diz sobre ele: Eu sempre via ao Senhor diante de mim, porque ele está à minha direita, para que eu não 
+seja abalado.
 \v At.2.26
 Por isso meu coração está contente, e minha língua se alegra, e até mesmo minha carne repousará em esperança.
 \v At.2.27
@@ -175,14 +187,15 @@ Pois tu não abandonarás minha alma no Xeol,
 \fn
 Xeol é o lugar dos mortos
 \*fn
- nem permitirás que o teu santo veja a degradação.
-\fn
-Ou: deterioração, putrefação. Também no v. 31
-\*fn
+ nem permitirás que o teu santo veja a decomposição.
 \v At.2.28
-Tu tens me feito conhecer os caminhos da vida; tu me encherás de alegria com tua face.
+Fizeste-me conhecer os caminhos da vida; com a tua face me encherás de júbilo.
+\ref
+Salmos 16:8-11
+\*ref
 \v At.2.29
-Homens irmãos, é lícito eu vos dizer abertamente sobre o patriarca Davi, que morreu, e foi sepultado, e a sepultura dele está conosco até o dia de hoje.
+Homens irmãos, é lícito eu vos dizer abertamente sobre o patriarca Davi, que morreu, e foi sepultado, e a 
+sua sepultura está conosco até o dia de hoje.
 \v At.2.30
 Portanto, sendo ele profeta, e sabendo que Deus tinha lhe prometido com juramento que{n4: faria 
 \added
@@ -197,18 +210,21 @@ lit. do fruto de seus lombos, i.e., de um descendente biológico
 \*fn
 {tr,rp: segundo a carne, levantaria ao Cristo para} se sentar no seu trono;
 {trnc,n4:\fn
-TR, RP: a um da sua descendência segundo a carne, levantaria ao Cristo para se sentar N4: faria [a um] da sua descendência se assentar 
+TR, RP: a um da sua descendência segundo a carne, levantaria ao Cristo para se sentar N4: faria [a um] da sua 
+descendência se assentar 
 \*fn}
 \v At.2.31
 Vendo 
 \added
 -o
 \*added
- com antecedência, falou da ressurreição do Cristo, que a sua alma não foi abandonada no Xeol, nem a sua carne viu a degradação.
+ com antecedência, falou da ressurreição do Cristo, que a sua alma não foi abandonada no Xeol, nem a sua carne viu 
+a decomposição.
 \v At.2.32
 A este Jesus Deus ressuscitou; do qual todos nós somos testemunhas.
 \v At.2.33
-Portanto, tendo sido exaltado à direita de Deus, e recebido do Pai a promessa do Espírito Santo, derramou isto que agora estais vendo e ouvindo.
+Portanto, tendo sido exaltado à direita de Deus, e recebido do Pai a promessa do Espírito Santo, derramou isto que 
+agora estais vendo e ouvindo.
 \v At.2.34
 Porque Davi não subiu aos céus; mas sim, ele diz: Disse o Senhor a meu Senhor: Senta-te à minha direita,
 \v At.2.35
@@ -216,13 +232,14 @@ Até que eu ponha teus inimigos por escabelo de teus pés.
 \v At.2.36
 Saiba então com certeza toda a casa de Israel, que Deus o fez Senhor e Cristo a este Jesus, que vós crucificastes.
 \v At.2.37
-E eles, ao ouvirem 
+E quando ouviram 
 \added
-estas coisas
+essas coisas
 \*added
-, foram afligidos como que perfurados de coração, e disseram a Pedro, e aos outros apóstolos: Que faremos, homens irmãos?
+, ficaram pesarosos de coração, e disseram a Pedro e aos demais apóstolos: Que faremos, homens irmãos?
 \v At.2.38
-E Pedro lhes disse: Arrependei-vos, e batize-se cada um de vós no nome de Jesus Cristo, para perdão dos pecados; e vós recebereis o dom do Espírito Santo.
+E Pedro lhes disse: Arrependei-vos, e batize-se cada um de vós no nome de Jesus Cristo, para perdão dos pecados; e 
+recebereis o dom do Espírito Santo.
 \v At.2.39
 Porque a promessa é para vós, e para vossos filhos, e para todos que 
 \added
@@ -232,13 +249,14 @@ ainda
 \v At.2.40
 E com muitas outras palavras ele dava testemunho, e exortava, dizendo: Salvai-vos desta geração perversa!
 \v At.2.41
-Então os que receberam a palavra dele de boa vontade foram batizados; e foram adicionados naquele dia quase três mil almas.
+Então os que de boa vontade receberam a sua palavra foram batizados; e acrescentaram-se naquele dia quase três 
+mil almas.
 \v At.2.42
-E eles perseveravam na doutrina dos apóstolos, na comunhão, no partir do pão, e nas orações.
+E perseveravam na doutrina dos apóstolos, na comunhão, no partir do pão, e nas orações.
 \v At.2.43
-E houve temor em toda alma; e muitos milagres e sinais foram feitos pelos apóstolos.
+E em toda alma havia temor; e muitos milagres e sinais eram feitos pelos apóstolos.
 \v At.2.44
-E todos os que criam estavam juntos, e tinham todas as coisas em comum.
+E todos os que criam estavam juntos, e tinham tudo em comum.
 \v At.2.45
 E eles vendiam 
 \added
@@ -246,41 +264,37 @@ suas
 \*added
  propriedades e bens, e as repartiam com todos, conforme a necessidade que cada um tinha.
 \v At.2.46
-E perseverando a cada dia em concordância no Templo, e partindo o pão de casa em casa, comiam juntos com alegria e sinceridade de coração.
+E perseveravam a cada dia concordantes no Templo, e, partindo o pão de casa em casa, comiam juntos com alegria e 
+sinceridade de coração,
 \v At.2.47
-Louvando a Deus, e tendo graça, 
-\added
-sendo do agrado
-\*added
- de todo o povo. E a cada dia o Senhor acrescentava à igreja aqueles que estavam sendo salvos.
+louvando a Deus, e tendo o favorecimento de todo o povo. E a cada dia o Senhor acrescentava à igreja aqueles que 
+estavam sendo salvos.
 \v At.3.1
-E Pedro e João estavam subindo juntos para o Templo à hora da oração (a nona 
+E Pedro e João estavam subindo juntos para o Templo à hora da oração, a 
 \added
 hora
 \*added
- );
+ nona;
 \v At.3.2
-E um certo homem estava sendo trazido, que era aleijado desde o ventre de sua mãe, ao qual todo dia colocavam à porta do Templo, chamada 
+e um certo homem estava sendo trazido, que era aleijado desde o ventre de sua mãe, ao qual todo dia colocavam à 
+porta do Templo, chamada 
 \added
 Porta
 \*added
  Formosa, para pedir esmola aos que entravam no Templo.
 \v At.3.3
-O qual, ao ver Pedro e João perto de entrarem no Templo, ele 
+Quando ele viu Pedro e João, que iam entrando no Templo, pediu
 \added
-lhes
+-lhes
 \*added
- pediu uma esmola.
+ uma esmola.
 \v At.3.4
 E Pedro, olhando fixamente para ele, junto com João, disse: Olha para nós.
 \v At.3.5
-E 
-\added
-o aleijado
-\*added
- ficou prestando atenção neles, esperando receber deles alguma coisa.
+E ficou prestando atenção neles, esperando receber deles alguma coisa.
 \v At.3.6
-E Pedro disse: Prata e ouro eu não tenho; mas o que eu tenho, isso eu te dou: no nome de Jesus Cristo, o nazareno, levanta-te, e anda!
+E Pedro disse: Prata e ouro eu não tenho; mas o que eu tenho, isso eu te dou: no nome de Jesus Cristo, 
+o nazareno, levanta-te, e anda!
 \v At.3.7
 E, tomando-o pela mão direita, levantou 
 \added
@@ -327,26 +341,33 @@ isso
 \*added
  por ignorância, assim como também vossos líderes.
 \v At.3.18
-Mas Deus cumpriu assim o que já antes pela boca de todos os seus profetas ele tinha anunciado, que o Cristo tinha de sofrer.
+Mas Deus cumpriu assim o que já antes, pela boca de todos os seus profetas, ele tinha anunciado, que o Cristo havia 
+de sofrer.
 \v At.3.19
-Arrependei-vos, pois, e convertei-vos, para que vosso pecados sejam apagados, quando vierem os tempos do refrigério da presença do Senhor.
+Arrependei-vos, pois, e convertei-vos, para que vosso pecados sejam apagados, quando vierem os tempos do refrigério 
+da presença do Senhor,
 \v At.3.20
-E ele enviar a Jesus Cristo, que já vos foi {tr,rp:pregado}{n4:designado}{trnc: 
-\fn
-N4: designado 
+e que ele envie aquele que já de antes vos foi {tr,rp:pregado}{n4:designado}
+{trnc:\fn
+N4: pré-designado 
 \*fn}
 {n4:\fn
 TR, RP: pregado 
 \*fn}
- anteriormente.
+, Jesus Cristo,
 \v At.3.21
-Ao qual convém que o céu receba até os tempos da restauração de todas as coisas, que Deus falou pela boca de todos os seus santos profetas, desde o princípio.
+ao qual convém que o céu receba até os tempos da restauração de todas as coisas, das quais Deus falou pela boca de 
+todos os seus santos profetas, desde a antiguidade.
 \v At.3.22
-Porque Moisés disse aos 
-\added
-nossos
-\*added
- pais: O Senhor, vosso Deus, levantará dentre vossos irmãos um profeta como eu; a ele ouvireis em tudo o que ele vos falar.
+Porque Moisés disse{tr,rp: aos ancestrais}:
+{tr,rp:\fn
+Lit. pais
+\*fn}
+{trnc:\fn
+N4 omite “aos ancestrais”
+\*fn}
+ O Senhor, vosso Deus, levantará dentre vossos irmãos um profeta como eu; a ele ouvireis em tudo o que ele 
+vos falar.
 \v At.3.23
 E será que toda pessoa 
 \fn
@@ -354,9 +375,11 @@ Lit. alma
 \*fn
 que não ouvir este profeta será exterminada do povo.
 \v At.3.24
-E também todos os profetas, desde Samuel e os posteriores, todos os que falaram, também anunciaram com antecedência destes dias.
+E também todos os profetas, desde Samuel e os posteriores, todos os que falaram, também de anunciaram com 
+antecedência esses dias.
 \v At.3.25
-Vós sois os filhos dos profetas e do pacto que Deus estabeleceu com nossos pais, dizendo a Abraão: E em tua semente serão abençoadas todas as famílias da terra.
+Vós sois os filhos dos profetas e do pacto que Deus estabeleceu com nossos pais, dizendo a Abraão: E em tua semente 
+serão abençoadas todas as famílias da terra.
 \v At.3.26
 Deus, ao ressuscitar seu filho Jesus, primeiro o enviou a vós, para que 
 \added
@@ -394,7 +417,8 @@ feita
 \*added
  a um enfermo, pela qual este foi curado;
 \v At.4.10
-Seja conhecido a todos vós, e a todos o povo de Israel, que pelo nome de Jesus Cristo, o nazareno, aquele que vós crucificastes, ao qual Deus ressuscitou dos mortos, por ele este 
+Seja conhecido a todos vós, e a todos o povo de Israel, que pelo nome de Jesus Cristo, o nazareno, aquele que 
+vós crucificastes, ao qual Deus ressuscitou dos mortos, por ele este 
 \added
 homem
 \*added
@@ -402,9 +426,11 @@ homem
 \v At.4.11
 Este é a pedra que foi desprezada por vós, edificadores; a qual foi feita por cabeça de esquina.
 \v At.4.12
-E em nenhum outro há salvação; porque nenhum outro nome há abaixo do céu, dado entre os seres humanos, em quem devemos ser salvos.
+E em nenhum outro há salvação; porque nenhum outro nome há abaixo do céu, dado entre os seres humanos, em quem 
+devemos ser salvos.
 \v At.4.13
-E eles, ao verem a ousadia de Pedro, e de João; e informados que eles eram homens sem instrução e ordinários, maravilharam-se; e eles sabiam que eles tinham estado com Jesus.
+E eles, ao verem a ousadia de Pedro, e de João; e informados que eles eram homens sem instrução e ordinários, 
+maravilharam-se; e eles sabiam que eles tinham estado com Jesus.
 \v At.4.14
 E vendo estar com eles o homem que tinha sido curado, nada tinham a dizer contra 
 \added
@@ -421,13 +447,15 @@ lit. sinédrio – o mais importante conselho ou tribunal para os judeus
 \*fn
  discutiam entre si,
 \v At.4.16
-Dizendo: O que faremos a estes homens? Porque um sinal notório foi feito por eles, manifesto a todos os que habitam em Jerusalém, e não podemos negar.
+Dizendo: O que faremos a estes homens? Porque um sinal notório foi feito por eles, manifesto a todos os que habitam 
+em Jerusalém, e não podemos negar.
 \v At.4.17
 Mas para que 
 \added
 esta notícia
 \*added
- não seja ainda mais divulgada entre o povo, façamos sérias ameaças a eles, para que nunca mais falem a ninguém neste nome.
+ não seja ainda mais divulgada entre o povo, façamos sérias ameaças a eles, para que nunca mais falem a ninguém 
+neste nome.
 \v At.4.18
 E chamando-os, ordenaram-lhes que nunca mais falassem nem ensinassem no nome de Jesus.
 \v At.4.19
@@ -449,32 +477,33 @@ companheiros
 \*added
 , e lhes contaram tudo o que os chefes dos sacerdotes e os anciãos tinham lhes dito.
 \v At.4.24
-E eles, ao ouvirem 
+E eles, quando ouviram 
 \added
-isto
+isso
 \*added
-, levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas as coisas que neles há;
+, levantaram concordantes a voz a Deus, e disseram: Senhor, tu és o Deus que fizeste o céu, a terra, o mar, e todas 
+as coisas que neles há;
 \v At.4.25
-Que{tr,rp: pela}{n4: pelo Espírito Santo 
+que{tr,rp: pela}{n4: pelo Espírito Santo
 \fn
-TR, RP omitem “pelo Espírito Santo” 
+TR, RP omitem “pelo Espírito Santo”
 \*fn
 por meio da} boca
 {trnc:\fn
-N4 contém: Que pelo Espírito Santo, por meio da boca 
+N4 contém: que pelo Espírito Santo, por meio da boca
 \*fn}
- de{n4: nosso pai, 
+ do{n4: nosso pai,
 \fn
-i.e. ancestral 
+i.e. ancestral
 \*fn
 \fn
-TR, RP omitem “nosso pai” 
+TR, RP omitem “nosso pai”
 \*fn}
  teu servo Davi
 {trnc:\fn
-N4 acrescenta: “nosso pai” 
+N4 acrescenta: “nosso pai”
 \*fn}
- disseste: Por que os gentios se irritam, e os povos gastam seus pensamentos em coisas vãs?
+ disseste: Por que os gentios se enfurecem, e os povos pensam em coisas vãs?
 \v At.4.26
 Os reis da terra se levantaram, e os príncipes se juntaram em um mesmo 
 \added
@@ -485,7 +514,8 @@ propósito
 Ungido = equiv. Cristo 
 \*fn
 \v At.4.27
-Porque verdadeiramente contra teu Santo Filho Jesus, ao qual tu ungiste, se ajuntaram, tanto Herodes, como Pôncio Pilatos, com os gentios e os povos de Israel.
+Porque verdadeiramente contra teu Santo Filho Jesus, ao qual tu ungiste, se ajuntaram, tanto Herodes, como 
+Pôncio Pilatos, com os gentios e os povos de Israel.
 \v At.4.28
 Para fazerem tudo o que a tua mão e o teu conselho desde antes tinha determinado para acontecer.
 \v At.4.29
@@ -493,25 +523,28 @@ E agora, Senhor, observa as ameaças deles, e dá a teus servos, que com toda ou
 \v At.4.30
 Estendendo tua mão para a cura, e que se façam sinais e milagres pelo nome de teu Santo filho Jesus.
 \v At.4.31
-E tendo orado, agitou-se o lugar em que eles estavam juntos, e foram todos cheios do Espírito Santo, e falavam a palavra de Deus com ousadia.
+E tendo orado, agitou-se o lugar em que eles estavam juntos, e foram todos cheios do Espírito Santo, e falavam a 
+palavra de Deus com ousadia.
 \v At.4.32
-E a multidão dos que criam, era de um só oração e uma só alma; e ninguém dizia ser próprio coisa alguma de seus bens, mas todas as coisas lhes eram comuns.
+E a multidão dos que criam era de um só coração e uma só alma; e ninguém dizia ser próprio coisa alguma que possuísse, 
+mas todas as coisas lhes eram comuns.
 \v At.4.33
-E com grande poder os apóstolos davam testemunho da ressurreição do Senhor Jesus; e em todos eles havia grande graça.
+E os apóstolos, com grande poder, davam testemunho da ressurreição do Senhor Jesus; e em todos eles havia grande graça.
 \v At.4.34
-Porque também nenhum necessitado havia entre eles; porque todos os que possuíam propriedades de terras, ou casas, vendendo 
+Porque nenhum necessitado havia entre eles; pois todos os que possuíam propriedades de terra, ou casas, vendiam
 \added
--as
+-nas
 \*added
-, traziam o valor das coisas vendidas, e 
+, traziam o valor do que fora vendido, e 
 \added
 o
 \*added
- depositavam junto aos pés dos apóstolos.
+ depositavam aos pés dos apóstolos.
 \v At.4.35
-E a cada um se repartia segundo cada qual tinha necessidade.
+E a cada um se repartia segundo a necessidade que cada qual tinha.
 \v At.4.36
-E José, chamado pelos apóstolos pelo sobrenome de Barnabé (que traduzido é filho da consolação), levita, natural do Chipre,
+E José, chamado pelos apóstolos pelo sobrenome de Barnabé (que traduzido é filho da consolação), levita, natural 
+do Chipre,
 \v At.4.37
 Tendo ele uma propriedade de terra, vendeu 
 \added
@@ -588,15 +621,15 @@ te
 \*added
  levarão.
 \v At.5.10
-E imediatamente ela caiu junto aos pés deles, e deixou de respirar. E os rapazes, ao entrarem, encontraram-na morta; e levando- 
+E imediatamente ela caiu junto aos pés deles e morreu. E quando os rapazes, entraram, encontraram-na morta; e levando-
 \added
 a
 \*added
- fora, sepultaram-na junto ao marido dela.
+ para fora, sepultaram-na junto do seu marido.
 \v At.5.11
-E veio um grande temor em toda a igreja, e em todos que ouviram estas coisas.
+E veio um grande temor em toda a igreja, e em todos que ouviram essas coisas.
 \v At.5.12
-E pelas mãos dos apóstolos foram feitos muitos sinais e milagres entre o povo. E estavam todos em concordância no 
+E pelas mãos dos apóstolos foram feitos muitos sinais e milagres no meio do povo. E todos estavam concordantes no
 pórtico de Salomão.
 \v At.5.13
 Mas dos outros, ninguém ousava se juntar a eles; porém o povo os estimava grandemente.
@@ -1069,17 +1102,17 @@ Mas ele, estando cheio do Espírito Santo, olhando firmemente para o céu, viu �
 \v At.7.56
 E disse: Eis que vejo os céus abertos, e o Filho do homem, que está a direita de Deus!
 \v At.7.57
-Mas eles, clamando com alta voz, taparam seus próprios ouvidos, e correram juntos contra ele;
+Mas eles, gritando em alta voz, taparam seus próprios ouvidos, e avançaram juntos contra ele;
 \v At.7.58
-E, lançando 
-\added
--o
-\*added
- fora da cidade, 
+e 
 \added
 o
 \*added
- apedrejaram; e as testemunhas puseram as roupas deles junto aos pés de um rapaz chamado Saulo.
+ expulsaram da cidade e 
+\added
+o
+\*added
+ apedrejaram; e as testemunhas puseram as roupas deles junto aos pés de um jovem chamado Saulo.
 \v At.7.59
 E apedrejaram a Estêvão, que estava clamando e dizendo:  Senhor Jesus, recebe o meu espírito.
 \v At.7.60
@@ -1106,7 +1139,7 @@ Os que, pois, estavam dispersos, passavam anunciando a palavra.
 \v At.8.5
 E Filipe, tendo descido à cidade de Samaria, pregava-lhes a Cristo.
 \v At.8.6
-E as multidões prestavam atenção em concordância às coisas que eram ditas por Filipe, ao ouvirem e verem os sinais que ele fazia.
+E as multidões prestavam atenção concordantes às coisas ditas por Filipe, quando ouviam e viam os sinais que ele fazia.
 \v At.8.7
 Porque os espíritos imundos, clamando em alta voz, saíam de muitos que os tinham; e muitos paralíticos e aleijados foram curados.
 \v At.8.8
@@ -1198,17 +1231,16 @@ porção
 \v At.8.37
 {rp,n4:--- 
 \fn
-TR contém o seguinte versículo 37: “E Filipe disse: Se tu crês de todo coração, [então] é lícito; E respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.” 
-\*fn
-}{tr:E Filipe disse: Se tu crês de todo coração, 
+TR contém o seguinte versículo 37: “E Filipe disse: Se tu crês de todo coração, então é lícito; E respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.” 
+\*fn}
+{tr:E Filipe disse: Se tu crês de todo coração, 
 \added
 então
 \*added
  é lícito;E respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.}{trnc: 
 \fn
 RP, N4 omitem todo o texto do versículo 37 
-\*fn
-}
+\*fn}
 \v At.8.38
 E ele mandou parar a carruagem; e desceram ambos à água, tanto Filipe como o eunuco; e ele o batizou.
 \v At.8.39
@@ -1224,7 +1256,7 @@ em
 \*added
  todas as cidades, até que veio a Cesareia.
 \v At.9.1
-E Saulo, ainda assoprando ameaças e mortes contra os discípulos do Senhor, foi ao chefe dos sacerdotes.
+E Saulo, ainda respirando ameaças e morte contra os discípulos do Senhor, foi ao chefe dos sacerdotes.
 \v At.9.2
 E pediu-lhe cartas para Damasco, para as sinagogas, para que se achasse alguns deste caminho, tanto homens como mulheres, ele 
 \added
@@ -1236,36 +1268,34 @@ E indo, aconteceu que chegando perto de Damasco, repentinamente brilhou ao redor
 \v At.9.4
 E caindo em terra, ouviu ma voz lhe dizendo: Saulo, Saulo, por que me persegues?
 \v At.9.5
-E ele disse: Quem és, Senhor?E {tr,rp:o Senhor disse}{n4:ele 
+E ele disse: Quem és, Senhor? E {tr,rp:o Senhor disse}{n4:ele 
 \added
 disse
 \*added
- 
 \fn
 TR, RP contêm: “E o Senhor disse” 
-\*fn
-}:{trnc: 
-\fn
+\*fn}
+:
+{trnc:\fn
 N4 omite “o Senhor disse” 
-\*fn
-} Eu sou Jesus, a quem tu persegues{tr:; duro é para ti dar coices contra os aguilhões}.
+\*fn}
+ Eu sou Jesus, a quem tu persegues{tr:; duro é para ti dar coices contra os aguilhões}.
 {trnc:\fn
 RP, N4 omitem: “duro é para ti dar coices contra os aguilhões” 
 \*fn}
 \v At.9.6
-{tr:E ele, tremendo e atônito, disse: Senhor, que queres que eu faça?E o Senhor lhe 
+{tr:E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe 
 \added
-disse
-\*added
- :}{trnc: 
+disse:
+\*added}
+{trnc:\fn
+RP, N4 não contém: “E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe disse :” 
+\*fn}
+ {tr:Levanta-te}{rp,n4:mas levanta-te 
 \fn
-RP, N4 omitem: “E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe [disse] :” 
-\*fn
-} {tr:Levanta-te}{rp,n4:mas levanta-te 
-\fn
-TR acrescenta: “E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe [disse] :” ao início do versículo 
-\*fn
-}, e entra na cidade; e 
+TR contém: “E ele, tremendo e atônito, disse: Senhor, que queres que eu faça? E o Senhor lhe disse :” ao início do versículo 
+\*fn}
+, e entra na cidade; e 
 \added
 ali
 \*added
@@ -1277,13 +1307,15 @@ E Saulo se levantou da terra e, tendo aberto seus olhos, não via ninguém; e se
 \v At.9.9
 E ele estava três dias sem ver; e não comeu, nem bebeu.
 \v At.9.10
-E havia em Damasco um certo discípulo, de nome Ananias; e disse-lhe o Senhor em visão: Ananias!E ele respondeu: Eis-me aqui, Senhor!
+E havia em Damasco um certo discípulo, de nome Ananias; e disse-lhe o Senhor em visão: Ananias! E ele respondeu: 
+Eis-me aqui, Senhor!
 \v At.9.11
 E o Senhor lhe 
 \added
 disse
 \*added
- : Levanta-te, e vai a rua chamada Direita, e pergunta na casa de Judas por um chamado Saulo, de Tarso; porque que ele ora.
+ : Levanta-te, e vai a rua chamada Direita, e pergunta na casa de Judas por um chamado Saulo, de Tarso; pois eis que 
+ele está orando.
 \v At.9.12
 E ele viu em visão que um homem, de nome Ananias, entrava, e sobre ele punha a mão, para que voltasse a ver.
 \v At.9.13
@@ -1339,19 +1371,19 @@ Mas Barnabás, tomando-o consigo, trouxe
 \added
 -o
 \*added
- aos apóstolos, e contou-lhes como no caminho tinha visto ao Senhor, e tinha lhe falado, e como em Damasco tinha falado ousadamente no nome de Jesus.
+ aos apóstolos, e contou-lhes como no caminho tinha visto ao Senhor, e tinha lhe falado, e como em Damasco tinha 
+falado ousadamente no nome de Jesus.
 \v At.9.28
 E ele estava junto deles, entrando e saindo em Jerusalém;
 \v At.9.29
-E falando ousadamente no nome do Senhor{tr,rp: Jesus};{trnc: 
-\fn
+E falando ousadamente no nome do Senhor{tr,rp: Jesus};
+{trnc:\fn
 N4 omite “Jesus” 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP: Senhor Jesus 
-\*fn
-} falava e discutia também contra os gregos; mas eles procuravam matá-lo.
+\*fn}
+ falava e discutia também contra os gregos; mas eles procuravam matá-lo.
 \v At.9.30
 E os irmãos, ao perceberem 
 \added
@@ -1359,7 +1391,8 @@ isto
 \*added
 , o levaram até Cesareia, e o enviaram a Tarso.
 \v At.9.31
-Então as igrejas por toda a Judeia, e Galileia, e Samaria, tinham paz, e eram edificadas; e andando no temor do Senhor, e 
+Então as igrejas por toda a Judeia, e Galileia, e Samaria, tinham paz, e eram edificadas; e andando no 
+temor do Senhor, e 
 \added
 na
 \*added
@@ -1447,19 +1480,20 @@ lhe
 \*added
  preparando, caiu sobre ele um êxtase.
 \v At.10.11
-E ele viu o céu aberto, e descia a ele um certo objeto, como um grande lençol,{tr,rp: amarrado pelas quatro pontas, e} abaixando-se{n4: pelas quatro pontas}{trnc: 
-\fn
+E ele viu o céu aberto, e descia a ele um certo objeto, como um grande lençol,{tr,rp: amarrado pelas quatro 
+pontas, e} abaixando-se{n4: pelas quatro pontas}
+{trnc:\fn
 TR, RP: amarrado pelas quatro pontas, e abaixando-se” - N4: “abaixando-se pelas quatro pontas” 
-\*fn
-} à terra;
+\*fn}
+ à terra;
 \v At.10.12
 Em que havia de todos os animais quadrúpedes da terra, e animais selvagens, e répteis, e aves do céu.
 \v At.10.13
-E veio-lhe uma voz, 
+E veio-lhe uma voz
 \added
-dizendo
+, dizendo
 \*added
- : Pedro, mata e come.
+: Pedro, mata e come.
 \v At.10.14
 Mas Pedro disse: De maneira nenhuma, Senhor; porque nunca comi coisa alguma ordinária ou impura.
 \v At.10.15
@@ -1467,7 +1501,7 @@ E a voz voltou a
 \added
 dizer
 \*added
-,pela segunda vez: O que Deus purificou, não faças tu 
+, pela segunda vez: O que Deus purificou, não faças tu 
 \added
 como se fosse
 \*added
@@ -1483,15 +1517,14 @@ E estando Pedro pensando naquela visão, o Espírito lhe disse: Eis que três ho
 \v At.10.20
 Então levanta-te, desce, e vai com eles, sem duvidar; porque eu os enviei.
 \v At.10.21
-E Pedro, tendo descido aos homens{tr: que tinham lhe sido enviados por Cornélio},{trnc: 
-\fn
+E Pedro, tendo descido aos homens{tr: que tinham lhe sido enviados por Cornélio},
+{trnc:\fn
 RP, N4 omitem: “que tinham lhe sido enviados por Cornélio” 
-\*fn
-}{rp,n4: 
-\fn
+\*fn}
+{rp,n4:\fn
 TR contém “homens que tinham lhe sido enviados por Cornélio” 
-\*fn
-} disse: Eis que eu sou a quem buscais; qual é o motivo pelo qual estais aqui?
+\*fn}
+ disse: Eis que eu sou a quem buscais; qual é o motivo pelo qual estais aqui?
 \v At.10.22
 E eles disseram: Cornélio, 
 \added
@@ -1505,11 +1538,14 @@ e
 \added
 bom
 \*added
- testemunho de toda a nação dos judeus, foi revelado por um santo anjo para te chamar até a casa dele, e ouvir de tuas palavras.
+ testemunho de toda a nação dos judeus, foi revelado por um santo anjo para te chamar até a casa dele, e ouvir de 
+tuas palavras.
 \v At.10.23
-Então chamando-os para dentro, recebeu-os em casa. Mas no dia seguinte, Pedro foi com eles; e foram com ele alguns dos irmãos de Jope.
+Então chamando-os para dentro, recebeu-os em casa. Mas no dia seguinte, Pedro foi com eles; e foram com ele alguns 
+dos irmãos de Jope.
 \v At.10.24
-E no dia seguinte chegaram a Cesareia. E Cornélio estava esperando por eles, tendo chamado a seus parentes e amigos mais íntimos.
+E no dia seguinte chegaram a Cesareia. E Cornélio estava esperando por eles, tendo chamado a seus parentes e 
+amigos mais íntimos.
 \v At.10.25
 E sucedeu que, ao Pedro entrar, Cornélio se encontrou com ele, e caindo aos pés dele, adorou-o.
 \v At.10.26
@@ -1521,27 +1557,28 @@ ali
 \*added
  tinham se reunido.
 \v At.10.28
-E disse-lhes: Vós sabeis como não é lícito a um homem judeu juntar-se de estrangeiros, ou aproximar-se deles; mas Deus me mostrou que a ninguém chame de ordinário ou impuro.
+E disse-lhes: Vós sabeis como não é lícito a um homem judeu juntar-se de estrangeiros, ou aproximar-se deles; mas 
+Deus me mostrou que a ninguém chame de ordinário ou impuro.
 \v At.10.29
 Portanto eu, tendo sido chamado, vim sem qualquer oposição 
 \added
 de minha parte
 \*added
- . Então eu pergunto: por que motivo me mandastes chamar?
+. Então eu pergunto: por que motivo me mandastes chamar?
 \v At.10.30
 E Cornélio disse: Há quatro dias que, até esta hora eu estava jejuando, e orava à hora nona em minha casa.
 \v At.10.31
-E eis que um homem se pôs diante de mim com uma roupa brilhante, e disse: Cornélio, tura oração tem sido ouvida, e tuas doações têm sido lembradas diante de Deus.
+E eis que um homem se pôs diante de mim com uma roupa brilhante, e disse: Cornélio, tura oração tem sido ouvida, 
+e tuas doações têm sido lembradas diante de Deus.
 \v At.10.32
-Envia pois a Jope, e manda chamar a Simão, que tem por sobrenome Pedro; este se hospeda na casa de Simão o curtidor, junto ao mar{tr,rp:; quando ele vier, falará contigo}.{trnc: 
-\fn
+Envia pois a Jope, e manda chamar a Simão, que tem por sobrenome Pedro; este se hospeda na casa de Simão o curtidor, 
+junto ao mar{tr,rp:; quando ele vier, falará contigo}.
+{trnc:\fn
 N4 omite “quando ele vier, falará contigo” 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “quando ele vier, falará contigo” ao fim do versículo 
-\*fn
-}
+\*fn}
 \v At.10.33
 Então logo eu enviei a ti; e bem fizeste em vir até aqui; agora pois estamos todos 
 \added
@@ -1557,11 +1594,11 @@ este
 \*added
  lhe é agradável.
 \v At.10.36
-A palavra que Deus enviou aos filhos de Israel, anunciando o Evangelho da paz por meio de Jesus Cristo; este é o Senhor de todos.
+A palavra que Deus enviou aos filhos de Israel, anunciando o Evangelho da paz por meio de Jesus Cristo; este é o 
+Senhor de todos.
 \v At.10.37
 Vós sabeis da palavra que veio por toda a Judeia, começando desde a Galileia, depois do batismo que João pregou.
 \v At.10.38
- 
 \added
 E
 \*added
@@ -1571,7 +1608,8 @@ os lugares
 \*added
  fazendo o bem, e curando a todos os oprimidos pelo diabo; porque Deus era com ele.
 \v At.10.39
-E nós somos testemunhas de todas as coisas que ele fez; tanto na terra dos judeus, como em Jerusalém; ao qual mataram, pendurando 
+E nós somos testemunhas de todas as coisas que ele fez; tanto na terra dos judeus, como em Jerusalém; ao qual 
+mataram, pendurando 
 \added
 -o
 \*added
@@ -1579,7 +1617,8 @@ E nós somos testemunhas de todas as coisas que ele fez; tanto na terra dos jude
 \v At.10.40
 A este Deus ressuscitou ao terceiro dia, e fez com que fosse manifesto;
 \v At.10.41
-Não a todo o povo, mas sim a testemunhas determinadas por Deus com antecedência: a nós, que juntamente com ele comemos e bebemos, depois dele ter ressuscitado dos mortos.
+Não a todo o povo, mas sim a testemunhas determinadas por Deus com antecedência: a nós, que juntamente com ele 
+comemos e bebemos, depois dele ter ressuscitado dos mortos.
 \v At.10.42
 E ele nos mandou pregar ao povo, e dar testemunho de que ele é o que foi ordenado por Deus 
 \added
@@ -1587,11 +1626,13 @@ para ser
 \*added
  Juiz dos vivos e dos mortos.
 \v At.10.43
-A este todos os profetas dão testemunho, de que todos os que nele crerem receberão perdão dos pecados por meio do seu nome.
+A este todos os profetas dão testemunho, de que todos os que nele crerem receberão perdão dos pecados por meio 
+do seu nome.
 \v At.10.44
 E estando Pedro ainda falando estas palavras, o Espírito Santo caiu sobre todos os que ouviam a palavra.
 \v At.10.45
-E os crentes que eram da circuncisão, tantos quantos tinham vindo com Pedro, ficaram muito admirados de que também sobre os gentios fosse derramado o dom do Espírito Santo.
+E os crentes que eram da circuncisão, tantos quantos tinham vindo com Pedro, ficaram muito admirados de que também 
+sobre os gentios fosse derramado o dom do Espírito Santo.
 \v At.10.46
 Porque eles os ouviam falar em 
 \added
@@ -1599,7 +1640,8 @@ diversas
 \*added
  línguas, e a engrandecer a Deus. Então Pedro respondeu:
 \v At.10.47
-Por acaso pode alguém impedir a água, para que não sejam batizados estes, que também, assim como nós, receberam o Espírito Santo?
+Por acaso pode alguém impedir a água, para que não sejam batizados estes, que também, assim como nós, receberam 
+o Espírito Santo?
 \v At.10.48
 E mandou que fossem batizados no nome do Senhor. Então lhe pediram que continuasse 
 \added
@@ -1623,13 +1665,15 @@ tudo
 \*added
  em ordem, dizendo:
 \v At.11.5
-Eu estava orando na cidade de Jope, e vi em êxtase uma visão: um certo objeto que descia como um grande lençol, pelas quatro pontas abaixado desde o céu, e vinha até mim.
+Eu estava orando na cidade de Jope, e vi em êxtase uma visão: um certo objeto que descia como um grande 
+lençol, pelas quatro pontas abaixado desde o céu, e vinha até mim.
 \v At.11.6
-No qual, olhando eu com atenção, considerei e vi quatro quadrúpedes da terra, e animais selvagens, e répteis, e aves do céu.
+No qual, olhando eu com atenção, considerei e vi quatro quadrúpedes da terra, e animais selvagens, e répteis, 
+e aves do céu.
 \v At.11.7
 E eu ouvi uma voz que me dizia: Levanta-te Pedro, mata e come.
 \v At.11.8
-Mas eu disse: De maneira nenhuma, Senhor; porque nunca comi coisa alguma ordinária, nem coisa imunda entrou em minha boca.
+Mas eu disse: De maneira nenhuma, Senhor; porque nunca comi coisa alguma ordinária, nem coisa impura entrou em minha boca.
 \v At.11.9
 E a voz me respondeu do céu pela segunda vez: O que Deus purificou, não o faças tu 
 \added
@@ -1641,7 +1685,8 @@ E isto aconteceu por três vezes; e voltou-se tudo a recolher acima ao céu.
 \v At.11.11
 E eis que logo três homens, enviados a mim de Cesareia, pararam junto à casa onde eu estava.
 \v At.11.12
-E o Espírito me disse que eu fosse com eles, sem duvidar; e também estes seis irmãos foram comigo, e entramos na casa daquele homem.
+E o Espírito me disse que eu fosse com eles, sem duvidar; e também estes seis irmãos foram comigo, e entramos 
+na casa daquele homem.
 \v At.11.13
 E ele nos contou como tinha visto um anjo estar em sua casa, e tinha lhe dito: Envia 
 \added
@@ -1679,7 +1724,8 @@ O qual, ao chegar
 \added
 lá
 \*added
-,e tendo visto a graça de Deus, alegrou-se; e exortou a todos, para que com o propósito do coração permanecessem no Senhor.
+, e tendo visto a graça de Deus, alegrou-se; e exortou a todos, para que com o propósito do coração permanecessem 
+no Senhor.
 \v At.11.24
 Porque ele era um bom homem, e cheio do Espírito Santo, e de fé; e uma grande multidão foi acrescentada ao Senhor.
 \v At.11.25
@@ -1757,7 +1803,7 @@ E ele, reconhecendo
 \added
 isto
 \*added
-,foi à casa de Maria, a mãe de João, que tinha por sobrenome Marcos, onde muitos estavam juntos, e oravam.
+, foi à casa de Maria, a mãe de João, que tinha por sobrenome Marcos, onde muitos estavam juntos, e oravam.
 \v At.12.13
 E Pedro, tendo batido a porta da entrada,veio uma moça de nome Rode, para escutar.
 \v At.12.14
@@ -1767,7 +1813,8 @@ E lhe disseram: Tu estás delirando.Mas ela, insistindo que assim era. E eles di
 \v At.12.16
 Mas Pedro continuava a bater; e ao abrirem, viram-no, e ficaram espantados.
 \v At.12.17
-Mas ele, fazendo-lhes gestos para que calassem, contou-lhes como o Senhor tinha lhe tirado da prisão, e disse: Anunciai isto a Tiago e aos irmãos.E tendo saído, foi para outro lugar.
+Mas ele, fazendo-lhes gestos para que calassem, contou-lhes como o Senhor tinha lhe tirado da prisão, e disse: 
+Anunciai isto a Tiago e aos irmãos.E tendo saído, foi para outro lugar.
 \v At.12.18
 E vindo o dia, havia não pouca perturbação entre os soldados, sobre o que, pois, tinha acontecido com Pedro.
 \v At.12.19
@@ -1781,13 +1828,9 @@ ali
 \*added
 .
 \v At.12.20
-E Herodes estava extremamente irritado com os de Tiro e de Sidom; porém eles, vindo em concordância até ele, e 
-persuadindo a Blasto, que era o camareiro do rei, pediram paz, porque a terra deles dependia dos alimentos da terra 
-do rei 
-\added
-Herodes
-\*added
-.
+Ora, Herodes estava irritado contra os habitantes de Tiro e de Sidônia. Mas estes, de comum acordo, apresentaram-se 
+diante dele e, depois de persuadir a Blasto, camareiro real, começaram a pedir a paz, porque a região deles 
+se abastecia no território do rei.
 \v At.12.21
 E num dia marcado, Herodes vestiu roupas reais, e sentando no tribunal, fez-lhes um discurso.
 \v At.12.22
@@ -2268,23 +2311,22 @@ Dado que ouvimos que alguns dos que saíram de nós vos perturbaram com palavras
 \added
 e
 \*added
- causaram incômodo a vossas almas,{tr,rp: dizendo que deveis vos circuncidar e guardar a Lei,}{trnc: 
-\fn
+ causaram incômodo a vossas almas,{tr,rp: dizendo que deveis vos circuncidar e guardar a Lei,}
+{trnc:\fn
 N4 omitem “dizendo que deveis vos circuncidar e guardar a Lei” 
-\*fn
-}{n4: 
-\fn
+\*fn}
+{n4:\fn
 TR, RP acrescentam: “dizendo que deveis vos circuncidar e guardar a Lei” 
-\*fn
-} aos quais não mandamos;
+\*fn}
+ aos quais não mandamos;
 \v At.15.25
 Pareceu-nos bem, reunidos em concordância, escolher 
 \added
 alguns
 \*added
- homens, e enviá-los até vós, com nossos amados Barnabé e Paulo.
+ homens, e enviá-los até vós, com os nossos amados Barnabé e Paulo,
 \v At.15.26
-Homens que têm arriscado suas vidas pelo nome de nosso Senhor Jesus Cristo.
+homens que têm arriscado suas vidas pelo nome do nosso Senhor Jesus Cristo.
 \v At.15.27
 Então enviamos a Judas e a Silas, os quais 
 \added
@@ -2315,12 +2357,11 @@ ali
 {tr:Mas a Silas pareceu bem continuar ali.}{trnc: 
 \fn
 RP, N4 omitem: “mas a Silas pareceu bem continuar ali” 
-\*fn
-}{rp,n4:--- 
+\*fn}
+{rp,n4:--- 
 \fn
 TR contém: “mas a Silas pareceu bem continuar ali” 
-\*fn
-}
+\*fn}
 \v At.15.35
 E Paulo e Barnabé ficaram em Antioquia, ensinando e evangelizando, com também muitos outros, a palavra do Senhor.
 \v At.15.36
@@ -2372,7 +2413,6 @@ E assim as Igrejas eram firmadas na fé, e cada dia aumentavam em número.
 \v At.16.6
 E passando pela Frígia, e pela região da Galácia, foi-lhes impedido pelo Espírito Santo de falarem a palavra na Ásia.
 \v At.16.7
- 
 \added
 E
 \*added
@@ -2412,7 +2452,7 @@ nos
 \added
 ali
 \*added
- .
+.
 \v At.16.14
 E uma certa mulher, por nome Lídia, vendedora de púrpura, da cidade de Tiatira, que servia a Deus; 
 \added
@@ -2552,15 +2592,15 @@ Declarando
 \added
 -as
 \*added
-,e propondo 
+, e propondo 
 \added
 -lhes
 \*added
-,que era necessário que o Cristo morresse, e ressuscitasse dos mortos; e que ( 
+, que era necessário que o Cristo morresse, e ressuscitasse dos mortos; e que ( 
 \added
 dizia ele
 \*added
- ) este Jesus é o Cristo, a quem eu vos anuncio.
+) este Jesus é o Cristo, a quem eu vos anuncio.
 \v At.17.4
 E alguns deles creram, e se ajuntaram a Paulo e Silas; e dos gregos devotos grande multidão; e não poucas das mulheres principais.
 \v At.17.5
@@ -2600,7 +2640,7 @@ E os que conduziram a Paulo, levaram-no até Atenas; e tendo recebido ordem para
 \added
 que pudessem
 \*added
-,eles foram embora.
+, eles foram embora.
 \v At.17.16
 E enquanto Paulo os esperava em Atenas, seu espírito se incomodava dentro dele, ao ver a cidade tão dedicada à idolatria.
 \v At.17.17
@@ -2608,7 +2648,7 @@ Então ele disputava muito na sinagoga, com os judeus, e com os religiosos; e no
 \added
 até ele
 \*added
- .
+.
 \v At.17.18
 E alguns dos filósofos epicureus e estoicos discutiam com ele; e uns diziam: O que quer dizer este tagarela?E outros: Parece que ele é pregador de deuses estranhos.Porque ele lhes anunciava o Evangelho de Jesus e a ressurreição.
 \v At.17.19
@@ -2638,7 +2678,7 @@ O Deus que fez o mundo, e todas as coisas que nele
 \added
 há
 \*added
- ; este, sendo Senhor do céu e da terra, não habita em tempos feitos por mãos.
+; este, sendo Senhor do céu e da terra, não habita em tempos feitos por mãos.
 \v At.17.25
 E nem também é servido por mãos humanas; 
 \added
@@ -2658,7 +2698,7 @@ E de um sangue ele fez toda nação humana, para habitarem sobre a face da terra
 \added
 deles
 \*added
- ;
+;
 \v At.17.27
 Para que buscassem ao Senhor, se talvez pudessem apalpá-lo e encontrá-lo,apesar dele não estar longe de cada um de nós.
 \v At.17.28
@@ -2726,9 +2766,9 @@ ali por
 \*added
  um ano e seis meses, ensinando entre eles a palavra de Deus.
 \v At.18.12
-Mas sendo Gálio o procônsul da Acaia, os judeus se levantaram em concordância contra Paulo, e o trouxeram ao tribunal,
+Porém, sendo Gálio o procônsul da Acaia, os judeus se levantaram concordantes contra Paulo, e o trouxeram ao tribunal,
 \v At.18.13
-Dizendo: Este persuade as pessoas a servirem a Deus contra a Lei.
+dizendo: Este persuade as pessoas a servirem a Deus contra a Lei.
 \v At.18.14
 E Paulo, querendo abrir a boca, Gálio disse aos judeus: Se houvesse algum mau ato ou crime grande, ó judeus, com razão eu vos suportaria;
 \v At.18.15
@@ -2920,15 +2960,17 @@ nosso
 \added
 até
 \*added
- o tempo da grande deusa Diana seja considerado inútil, e que a grandiosidade dela, a quem toda a Ásia e o mundo venera, venha a ser destruída.
+ o templo da grande deusa Diana seja considerado inútil, e que a grandiosidade dela, a quem toda a Ásia e o 
+mundo venera, venha a ser destruída.
 \v At.19.28
 E eles, ao ouvirem 
 \added
 estas coisas
 \*added
-,encheram-se de ira, e clamaram, dizendo: Grande é a Diana dos efésios!
+, encheram-se de ira, e clamaram, dizendo: Grande é a Diana dos efésios!
 \v At.19.29
-E toda a cidade se encheu de tumulto, e em concordância eles invadiram ao teatro, tomando consigo Gaio e Aristarco, macedônios, companheiros de Paulo na viagem.
+E toda a cidade se encheu de tumulto, e em concordância eles invadiram ao teatro, tomando consigo Gaio e Aristarco, 
+macedônios, companheiros de Paulo na viagem.
 \v At.19.30
 E Paulo, querendo comparecer diante do povo, os discípulos não o permitiram.
 \v At.19.31

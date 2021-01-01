@@ -202,7 +202,7 @@ Vós sois nossa carta
 \added
 de recomendação
 \*added
-,escrita em nossos corações, conhecida e lida por todos,
+, escrita em nossos corações, conhecida e lida por todos,
 \v 2Co.3.3
 Manifestando que sois a carta de Cristo, administrada por nós, 
 \added
@@ -256,68 +256,68 @@ segundo
 \*added
  a mesma imagem, como pelo Espírito do Senhor.
 \v 2Co.4.1
-Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos.
+Por isso, já que temos este ministério, segundo a misericórdia que nos foi feita, não desanimamos.
 \v 2Co.4.2
-Mas já rejeitamos as coisas ocultas e vergonhosas, não andando com astúcia, nem falsificando a Palavra de Deus, mas pela manifestação da verdade fazemos recomendação de nós mesmos à consciência de todos os seres humanos, à vista de Deus.
+Mas rejeitamos as coisas vergonhosas que se ocultam, não andando com astúcia nem falsificando a Palavra de Deus, 
+mas, pela manifestação da verdade, recomendamo-nos à consciência de todo ser humano, à vista de Deus.
 \v 2Co.4.3
-Porém se o nosso Evangelho está encoberto, é para os que se perdem que está encoberto;
+Porém, se o nosso Evangelho está encoberto, está encoberto para os que se perdem;
 \v 2Co.4.4
-Nos quais o deus destes tempos cegou os entendimentos, 
-\added
-isto é
-\*added
-,os incrédulos, para que não lhes brilhe a luz do Evangelho da glória de Cristo, que é a imagem de Deus.
+nos quais o deus desta era cegou os entendimentos dos incrédulos, para que não lhes brilhe a luz do Evangelho da
+glória de Cristo, que é a imagem de Deus.
 \v 2Co.4.5
-Porque nós não pregamos a nós mesmos, mas sim a Cristo Jesus, o Senhor; e a nós mesmos 
+Pois não pregamos nós mesmos, mas Cristo Jesus, o Senhor; e que nós mesmos
 \added
-como
+somos
 \*added
  vossos servos, por causa de Jesus.
 \v 2Co.4.6
-Porque o Deus que disse que das trevas brilhasse a luz é o 
+Porque Deus, que disse que das trevas brilhasse a luz, é o
 \added
 mesmo
 \*added
- que brilhou em nossos corações, para a iluminação do conhecimento da glória de Deus no rosto de Jesus Cristo.
+ que brilhou em nossos corações, para a iluminação do conhecimento da glória de Deus, na face de Cristo.
 \v 2Co.4.7
 Porém temos este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.
 \v 2Co.4.8
+Em tudo
 \added
-Somos
+somos
 \*added
- em tudo afligidos, mas não esmagados; perplexos, mas não desesperados;
+ afligidos, mas não esmagados; perplexos, mas não desesperados;
 \v 2Co.4.9
-Perseguidos, mas não desamparados; abatidos, porém não destruídos.
+perseguidos, mas não desamparados; abatidos, mas não destruídos.
 \v 2Co.4.10
-Sempre por todas as partes trazendo a mortificação do Senhor Jesus no corpo, para que também a vida de Jesus se manifeste em nossos corpos.
+Sempre trazendo no corpo em redor a mortificação do Senhor Jesus, para que também a vida de Jesus se manifeste em 
+nosso corpo.
 \v 2Co.4.11
-Porque nós, que vivemos, estamos sempre entregues à morte por causa de Jesus, para que também a vida de Jesus se manifeste em nossa carne mortal.
+Porque nós, que vivemos, estamos sempre entregues à morte por causa de Jesus, para que também a vida de Jesus se 
+manifeste em nossa carne mortal.
 \v 2Co.4.12
-De maneira que a morte opera em nós, mas em vós 
-\added
-opera
-\*added
- a vida.
+De maneira que em nós opera a morte, mas, em vós, a vida.
 \v 2Co.4.13
-E nós temos o mesmo Espírito de fé, assim como está escrito: Cri, e por isso falei;Nós também cremos, e por isso também falamos,
+E, já que temos o mesmo espírito de fé, como está escrito: “Cri, e por isso falei”,
+\ref
+Salmos 116:110
+\*ref
+ nós também cremos, e, por isso, também falamos,
 \v 2Co.4.14
-sabendo que o que ressuscitou ao Senhor Jesus, também nos ressuscitará por meio de Jesus, e 
+pois sabemos que aquele que ressuscitou o Senhor Jesus também nos ressuscitará com Jesus, e 
 \added
 nos
 \*added
- apresentará juntos de vós.
+ apresentará convosco.
 \v 2Co.4.15
-Porque todas estas coisas são por causa de vós, para que a graça aumente por meio de muitas 
-\added
-pessoas
-\*added
-,superabundando os agradecimentos à glória de Deus.
+Porque todas essas coisas são por vossa causa, para que a graça, que se multiplica por meio de muitos, 
+faça superabundar os atos de gratidão, para a glória de Deus.
 \v 2Co.4.16
-Por isso não desfalecemos; mas ainda que nosso ser exterior se destrua, todavia o interior se renova a cada dia.
+Por isso não desanimamos; mas, ainda que o nosso ser humano exterior se desgaste, todavia, o interior se renova a 
+cada dia.
 \v 2Co.4.17
-Porque nossa leve e momentânea aflição nos produz um peso eterno de excelentíssima glória.
+Porque a nossa leve e momentânea aflição nos produz um peso eterno de sobrepujante glória;
 \v 2Co.4.18
-Por isso nós não prestamos atenção para as coisas visíveis, mas sim para as invisíveis; porque as coisas visíveis são temporárias, mas as invisíveis são eternas.
+pois nós não damos atenção às coisas visíveis, mas às invisíveis; porque as coisas visíveis são temporárias, mas 
+as invisíveis são eternas.
 \v 2Co.5.1
 Porque sabemos que, se nossa casa terrestre deste tabernáculo se desfizer, temos um edifício de Deus, uma casa não feita por mãos, 
 \added
@@ -333,7 +333,8 @@ casa
 \v 2Co.5.3
 Dado que, se estivermos vestidos, não seremos achados nus.
 \v 2Co.5.4
-Pois de fato nós, os que estamos neste tabernáculo, gememos pressionados, não porque queremos ser despidos, mas sim, revestidos; para que a mortalidade seja devorada pela vida.
+Pois de fato nós, os que estamos neste tabernáculo, gememos pressionados, não porque queremos ser despidos, mas 
+revestidos; para que a mortalidade seja devorada pela vida.
 \v 2Co.5.5
 E para isto mesmo que Deus nos preparou, ele que também deu o penhor do Espírito.
 \v 2Co.5.6
@@ -349,9 +350,11 @@ no nosso corpo
 \*added
 ,quer ausentes;
 \v 2Co.5.10
-Pois todos devemos comparecer diante do Tribunal de Cristo, para que cada um receba o pagamento das coisas que fez no corpo, seja bem ou mal.
+Pois todos devemos comparecer diante do Tribunal de Cristo, para que cada um receba o pagamento das coisas que fez 
+no corpo, seja bem ou mal.
 \v 2Co.5.11
-Conhecendo, pois, o temor ao Senhor, persuadimos as pessoas para a fé, e a Deus somos claramente visíveis; mas espero, também, que estejamos claramente visíveis em vossas consciências.
+Conhecendo, pois, o temor ao Senhor, persuadimos as pessoas para a fé, e a Deus somos claramente visíveis; mas 
+espero, também, que estejamos claramente visíveis em vossas consciências.
 \v 2Co.5.12
 Porque não nos recomendamos novamente para vós; mas damos oportunidade de vos orgulhardes de nós; para que tenhais 
 \added
@@ -361,35 +364,38 @@ o que responder
 \v 2Co.5.13
 Pois se nós enlouquecemos, é para Deus; se estamos sensatos, é para vós.
 \v 2Co.5.14
-Porque é o amor de Cristo que nos controla; pois temos certeza que, se um morreu por todos, logo todos morreram.
+Porque o amor de Cristo nos compele; pois concluímos que, se um morreu por todos, logo, todos morreram.
 \v 2Co.5.15
-E ele morreu por todos, para que os que vivem não vivam mais para si, mas sim, para aquele que por eles morreu e ressuscitou.
+E ele morreu por todos, para que os que vivem não vivam mais para si, mas sim, para aquele que por eles morreu e 
+ressuscitou.
 \v 2Co.5.16
-Portanto daqui em diante a ninguém conhecemos segundo a carne, e ainda que também tenhamos conhecido a Cristo segundo a carne, todavia agora não o conhecemos 
+Portanto, daqui em diante a ninguém conhecemos segundo a carne, e ainda que também tenhamos conhecido a Cristo 
+segundo a carne, todavia agora não o conhecemos 
 \added
 assim
 \*added
- .
+.
 \v 2Co.5.17
 Portanto, se alguém está em Cristo, uma nova criatura 
 \added
 é
 \*added
- ; as coisas velhas já passaram, eis que tudo se fez novo.
+; as coisas velhas já passaram, eis que tudo se fez novo.
 \v 2Co.5.18
 E tudo isto 
 \added
 vem
 \*added
- de Deus, o qual por Jesus Cristo nos reconciliou consigo, e nos deu o ministério da reconciliação.
+ de Deus, o qual, por Jesus Cristo, reconciliou-nos consigo, e nos deu o ministério da reconciliação.
 \v 2Co.5.19
-Porque Deus estava em Cristo reconciliando consigo ao mundo, não lhes atribuindo seus pecados; e pôs em nós a palavra da reconciliação.
+Porque Deus estava em Cristo reconciliando consigo ao mundo, não lhes atribuindo seus pecados; e pôs em nós a palavra 
+da reconciliação.
 \v 2Co.5.20
 Assim, pois, nós somos embaixadores da parte de Cristo, como se Deus rogasse por nós; 
 \added
 por isso
 \*added
-,rogamos em Cristo: Reconciliai-vos com Deus.
+, rogamos em Cristo: Reconciliai-vos com Deus.
 \v 2Co.5.21
 Pois ele fez com que aquele que não conheceu pecado 
 \added
@@ -666,17 +672,18 @@ Digo
 \*added
 , porém isto, que o que semeia pouco, também pouco colherá; e o que semeia generosamente, também generosamente colherá.
 \v 2Co.9.7
-Cada qual 
+Cada um 
 \added
-faça
+contribua
 \*added
- como propõe em 
+ como propôs em 
 \added
 seu
 \*added
  coração, não com tristeza, ou por obrigação; porque Deus ama ao que dá com alegria.
 \v 2Co.9.8
-E Deus é poderoso para fazer abundar em vós toda graça, para que sempre tendo de tudo, em tudo suficientes, abundeis em toda boa obra.
+E Deus é poderoso para fazer abundar em vós toda graça, para que sempre tendo de tudo, em tudo suficientes, 
+abundeis em toda boa obra.
 \v 2Co.9.9
 Assim como está escrito: Ele espalhou 
 \added
@@ -684,33 +691,30 @@ e
 \*added
  deu aos pobres; sua justiça permanece para sempre.
 \v 2Co.9.10
-Ora, aquele que dá a semente ao que semeia, também 
-\added
-vos
-\*added
- dê pão para comer, e multiplique sua sementeira, e aumente os frutos de vossa justiça.
+Ora, aquele que dá semente ao que semeia, e pão para comer, dê e multiplique a vossa sementeira, e aumente os 
+frutos da vossa justiça.
 \v 2Co.9.11
-Para que em tudo enriqueçais em toda generosidade, a qual opera por nós, 
-\added
-resultando
-\*added
- em graças a Deus.
+Para que em tudo enriqueçais para toda generosidade, a qual, por meio de nós, opera gratidão a Deus.
 \v 2Co.9.12
-Porque o trabalho deste serviço está suprindo não somente a falta dos santos, mas também se torna abundante em muitas graças a Deus.
+Porque a administração desse serviço supre não somente as necessidades dos santos, mas, também, torna-se 
+abundante em muitos atos de gratidão a Deus.
 \v 2Co.9.13
-Porque pela prova deste trabalho, glorificarão a Deus quanto à submissão de vossa confissão ao Evangelho de Cristo, e 
+Porque pela comprovação desse serviço, eles glorificam a Deus por causa da submissão da vossa declaração de fé no 
+Evangelho de Cristo, e 
 \added
 da
 \*added
- bondade da comunhão para com eles e para com todos;
+ generosidade do compartilhar com eles e com todos;
 \v 2Co.9.14
-E por sua oração por vós, tendo saudades de vós, por causa da excelente graça de Deus sobre vós.
+e pela oração deles por vós, tendo eles afeição por vós, por causa da superabundante graça de Deus sobre vós.
 \v 2Co.9.15
-E graças a Deus por seu dom indescritível.
+Graças a Deus por seu dom indescritível.
 \v 2Co.10.1
-Além disto eu mesmo, Paulo, pela mansidão e bondade de Cristo, vos rogo, (eu que em verdade sou humilde entre vós quando presente, porém ousado para convosco quando ausente);
+Além disto eu mesmo, Paulo, pela mansidão e bondade de Cristo, rogo-vos, eu, que em verdade sou humilde entre vós 
+quando presente, porém ousado para convosco quando ausente;
 \v 2Co.10.2
-Rogo pois, que quando eu estiver presente, não tenha que mostrar ousadia com a confiança de que penso que terei de me mostrar ousado para com alguns que nos consideram como se andássemos segundo a carne.
+rogo pois, que, quando eu estiver presente, não tenha de mostrar ousadia com a confiança de que penso que terei 
+de me mostrar ousado para com alguns que nos consideram como se andássemos segundo a carne.
 \v 2Co.10.3
 Pois ainda que andemos na carne, não batalhamos segundo a carne.
 \v 2Co.10.4

@@ -1056,14 +1056,16 @@ Cair nas mãos do Deus vivo é algo terrível.
 \v Hb.10.32
 Lembrai-vos, porém, dos dias passados, em que, depois de serdes iluminados, suportastes grande combate de aflições,
 \v Hb.10.33
-quando, em parte, fostes expostos em público tanto a insultos, como a tribulações, e em parte, fostes companheiros daqueles que assim foram tratados.
+quando, em parte, fostes expostos em público tanto a insultos, como a tribulações, e em parte, fostes companheiros 
+daqueles que assim foram tratados.
 \v Hb.10.34
 Pois também vos compadecestes das minhas prisões,
- e com alegria aceitastes a espoliação dos vossos bens, pois sabeis em vós mesmos que tendes nos Céus um bem melhor e permanente.
+ e com alegria aceitastes a espoliação dos vossos bens, pois sabeis em vós mesmos que tendes nos céus um bem melhor 
+e permanente.
 \v Hb.10.35
 Portanto, não rejeiteis a vossa confiança, que tem uma grande recompensa;
 \v Hb.10.36
-pois precisais de paciência, a fim de que, depois que houverdes feito a vontade de Deus, recebais o que foi prometido.
+pois necessitais de paciência, a fim de que, depois de haverdes feito a vontade de Deus, recebais o que foi prometido.
 \fn
 \key
 o que foi prometido
@@ -1071,7 +1073,7 @@ o que foi prometido
 lit. a promessa
 \*fn
 \v Hb.10.37
-Pois ainda um pouquinho de tempo, e aquele que vem virá, e não tardará. 
+Pois ainda um pouco de tempo, e aquele que vem virá, e não tardará. 
 \ref
 Isaías 26:20, Habacuque 2:3 
 \*ref
@@ -1082,7 +1084,7 @@ Mas o justo
 Habacuque 2:4 
 \*ref
 \v Hb.10.39
-Mas nós não somos dos que retrocedem para a perdição, mas sim dos que creem para a conservação da alma.
+Mas nós não somos dos que retrocedem para a perdição, mas sim, dos que creem para a preservação da alma.
 \v Hb.11.1
 Ora, a fé é a certeza das coisas que se esperam, e a prova das coisas que não se veem.
 \v Hb.11.2
@@ -1429,14 +1431,14 @@ A
 \added
 vossa
 \*added
- maneira de viver seja sem ganância, contentando-vos com as coisas que tendes. Pois ele disse: Não te deixarei, 
-nem te desampararei.
+ conduta seja sem ganância, contentando-vos com as coisas que tendes, porque ele disse: “Não te deixarei, 
+nem te desampararei.”
 \ref
 Deuteronômio 31:6 
 \*ref
 \v Hb.13.6
-De maneira que devemos ter a confiança de dizer: O Senhor é meu ajudador; não temerei o que o ser humano poderá 
-fazer a mim. 
+De maneira que tenhamos a confiança de dizer: “O Senhor é meu ajudador; não temerei o que o ser humano poderá 
+fazer a mim.”
 \ref
 Salmos 118:6 
 \*ref
@@ -1444,54 +1446,47 @@ Salmos 118:6
 Ou: O Senhor é meu ajudador, não temerei. O que poderá o ser humano fazer a mim?
 \*fn
 \v Hb.13.7
-Lembrai-vos de vossos líderes, que vos falaram a palavra de Deus. Observai o resultado da maneira como viveram, e imitai a fé deles.
+Lembrai-vos dos vossos líderes, que vos falaram a palavra de Deus. Observai o resultado de sua conduta, e imitai a fé deles.
 \v Hb.13.8
 Jesus Cristo é o mesmo ontem, hoje, e eternamente.
 \v Hb.13.9
-Não vos deixeis levar por doutrinas várias e estranhas. Pois bom ao coração é ser fortificado pela graça, e não 
-por alimentos, que não resultaram em proveito algum aos que com eles se ocuparam.
+Não vos deixeis levar por doutrinas diversas e estranhas. Pois é bom ao coração ser fortificado pela graça, e não 
+com alimentos, que não foram de proveito algum aos que com eles se ocuparam.
 \v Hb.13.10
-Temos um altar, do qual os que servem no tabernáculo não têm autoridade para comer;
+Temos um altar, do qual os que servem no tabernáculo não têm o direito de comer;
 \v Hb.13.11
-porque os corpos dos animais, cujo sangue pelo pecado é trazido ao Santuário
-\fn
-Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos
-\*fn
- pelo Sumo sacerdote, são queimados fora do acampamento.
+porque os corpos dos animais, cujo sangue é, pelo pecado, trazido ao santuário pelo sumo sacerdote, são queimados 
+fora do acampamento.
 \v Hb.13.12
 Por isso também Jesus, para santificar o povo pelo seu próprio sangue, sofreu fora do portão da cidade.
 \v Hb.13.13
-Assim, saiamos até ele, fora do acampamento, carregando a sua humilhação.
+Portanto, saiamos até ele, fora do acampamento, carregando a sua humilhação.
 \v Hb.13.14
 Pois não temos aqui cidade permanente, mas buscamos a futura.
 \v Hb.13.15
-Portanto, por meio dele, ofereçamos continuamente sacrifício de louvor a Deus, isto é, o fruto dos lábios que declaram honra
-\fn
-\key
-declaram honra
-\*key
-tradicionalmente: confessam
-\*fn
- ao seu nome.
+Por isso, por meio dele, ofereçamos continuamente sacrifício de louvor a Deus, isto é, o fruto dos lábios que 
+declaram fé no seu nome.
 \v Hb.13.16
-E não vos esqueçais de fazer o bem e de compartilhar, pois Deus se agrada com tais sacrifícios.
+E não vos esqueçais de fazer o bem e de compartilhar, pois Deus se agrada de tais sacrifícios.
 \v Hb.13.17
-Obedecei aos vossos líderes, e sede submissos 
+Obedecei aos vossos líderes, e sede
 \added
-a eles
+-lhes
 \*added
-,pois eles vigiam pelas vossas almas, como os que prestarão contas 
-\added
-delas
-\*added
-; para que o façam com alegria, e não gemendo, porque isso não vos seria proveitoso.
+ submissos, porque eles vigiam pelas vossas almas, como quem irá prestar contas; para que façam isso com alegria, e não 
+gemendo, pois isso não vos seria proveitoso.
 \v Hb.13.18
 Orai por nós; porque confiamos
- que temos boa consciência, e desejamos nos comportar da maneira correta em tudo.
+ que temos boa consciência, e desejamos nos comportar corretamente em tudo.
 \v Hb.13.19
-E eu vos rogo ainda mais que façais isto, para que eu vos seja restituído mais depressa.
+E rogo
+\added
+vos
+\*added
+ ainda mais que façais isto, para que eu vos seja restituído mais depressa.
 \v Hb.13.20
-O Deus da paz, que, pelo sangue do eterno Testamento eterno, voltou a trazer dentre os mortos o grande Pastor das ovelhas, o nosso Senhor Jesus,
+Ora, o Deus da paz, o qual, pelo sangue do testamento eterno, trouxe dos mortos o nosso 
+Senhor Jesus, o grande Pastor das ovelhas, 
 \v Hb.13.21
 vos aperfeiçoe em toda boa obra,
  para fazerdes a sua vontade, operando em vós

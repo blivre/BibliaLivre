@@ -373,10 +373,10 @@ já que há um só Deus, que justificará pela fé os circuncisos, e por meio da
 \v Rm.3.31
 Por acaso anulamos a Lei pela fé? De maneira nenhuma. Pelo contrário, confirmamos a Lei.
 \v Rm.4.1
-Então, que diremos que Abraão, nosso ancestral 
+Portanto, o que diremos que Abraão, nosso ancestral 
  segundo a carne, obteve?
 \v Rm.4.2
-Pois se Abraão foi justificado pelas obras, ele tem do que se orgulhar, mas não diante de Deus.
+Pois, se Abraão foi justificado pelas obras, ele tem do que se orgulhar, mas não diante de Deus.
 \v Rm.4.3
 Pois o que diz a Escritura? Abraão creu em Deus, e isso lhe foi lhe imputado como justiça. 
 \ref
@@ -478,10 +478,11 @@ mas também por nós, a quem será imputado, aos que creem naquele que ressuscit
 \v Rm.4.25
 que foi entregue por nossos pecados, e ressuscitou para a nossa justificação.
 \v Rm.5.1
-Portanto, agora que somos justificados pela fé, tenhamos
- paz com Deus por meio do nosso Senhor Jesus Cristo.
+Portanto, visto que somos justificados pela fé, tenhamos
+ paz com Deus, por meio do nosso Senhor Jesus Cristo.
 \v Rm.5.2
-Por meio dele também temos acesso pela fé a esta graça, na qual estamos firmes, e nos alegramos na esperança da glória de Deus.
+Por meio dele também temos acesso pela fé a esta graça, na qual estamos firmes, e nos alegramos na esperança 
+da glória de Deus.
 \v Rm.5.3
 E não somente 
 \added
@@ -727,7 +728,7 @@ Porque a Lei do Espírito de vida, em Cristo Jesus, te
 Pois o que era impossível para a lei, porque estava enferma pela carne, Deus, ao enviar o seu próprio Filho em 
 semelhança da carne pecadora, e por causa do pecado, condenou o pecado na carne,
 \v Rm.8.4
-para que a exigência da lei se cumprisse em nós, que andamos, não segundo a carne, mas sim, segundo o Espírito.
+para que a justa exigência da lei se cumprisse em nós, que andamos, não segundo a carne, mas segundo o Espírito.
 \v Rm.8.5
 Pois os que são segundo a carne voltam sua mentalidade para as coisas da carne, mas os que são segundo o Espírito, 
 para as coisas do Espírito.
@@ -741,14 +742,14 @@ Portanto, os que permanecem na carne não podem agradar a Deus.
 Porém vós não permaneceis na carne, mas sim, no Espírito, se é que o Espírito de Deus habita em vós. Porém, se 
 alguém não tem o Espírito de Cristo, esse não lhe pertence.
 \v Rm.8.10
-E se Cristo está em vós, apesar do corpo estar morto por causa do pecado, o Espírito é vida
+E, se Cristo está em vós, apesar do corpo estar morto por causa do pecado, o Espírito é vida
 \fn
 Ou: o (vosso) espírito está vivo
 \*fn
  por causa da justiça.
 \v Rm.8.11
-E se o Espírito daquele que dos mortos ressuscitou a Jesus habita em vós, aquele que dos mortos 
-ressuscitou a Cristo Jesus
+E se o Espírito daquele que dos mortos ressuscitou Jesus habita em vós, aquele que dos mortos 
+ressuscitou Cristo Jesus
  também dará vida aos vossos corpos mortais por meio do seu Espírito, que habita em vós.
 \v Rm.8.12
 Por isso, irmãos, somos devedores, não à carne, para vivermos segundo a carne;
@@ -769,7 +770,7 @@ Ou: ao
 E, se somos filhos, logo somos também herdeiros; herdeiros de Deus, e coerdeiros de Cristo; se sofremos 
 com ele, é para que também com ele sejamos glorificados.
 \v Rm.8.18
-Pois considero que as aflições deste tempo presente nem se comparam com a glória que nos será revelada.
+Pois considero que as aflições deste tempo presente não se comparam com a glória que nos será revelada.
 \v Rm.8.19
 Pois a criação espera ansiosamente
 \fn
@@ -845,10 +846,11 @@ Salmos 44:22
 \v Rm.8.37
 Mas em todas estas coisas somos mais que vencedores, por meio daquele que nos amou.
 \v Rm.8.38
-Pois tenho certeza que nem a morte, nem a vida, nem anjos, nem principados, 
+Pois tenho certeza de que nem a morte, nem a vida, nem anjos, nem principados, 
  nem o presente, nem o futuro,  nem poderes,
 \v Rm.8.39
-nem altura, nem profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, nosso Senhor.
+nem altura, nem profundeza, nem qualquer outra criatura poderá nos separar do amor de Deus, que está em Cristo Jesus, 
+nosso Senhor.
 \v Rm.9.1
 Digo a verdade em Cristo, não minto, e minha consciência dá testemunho comigo pelo Espírito Santo,
 \v Rm.9.2
@@ -1510,7 +1512,11 @@ Pois todas as coisas que foram escritas com antecedência foram escritas para o 
 \v Rm.15.5
 O Deus da paciência e da consolação vos dê a mesma mentalidade uns para com os outros, segundo Cristo Jesus,
 \v Rm.15.6
-a fim de que, em comum acordo, como uma só boca, glorifiqueis ao Deus e Pai de nosso Senhor Jesus Cristo.
+a fim de que vós, em comum acordo, a uma só voz,
+\fn
+Lit. boca
+\*fn
+ glorifiqueis ao Deus e Pai do nosso Senhor Jesus Cristo.
 \v Rm.15.7
 Portanto, recebei uns aos outros, assim como também Cristo nos
  recebeu para a glória de Deus.
@@ -1597,25 +1603,19 @@ satisfazendo o desejo de estar convosco.
 \v Rm.15.25
 Mas por ora, vou a Jerusalém, a fim de auxiliar os santos.
 \v Rm.15.26
-Pois, aos da Macedônia e Acaia pareceu bem fazer uma contribuição para os pobres dentre os santos que estão em Jerusalém.
+Pois, aos da Macedônia e Acaia, pareceu bem fazer uma contribuição aos pobres dentre os santos que estão em Jerusalém.
 \v Rm.15.27
 \added
 Isso
 \*added
- lhes pareceu bem, como quem está em dívida para com eles; porque, se os gentios foram participantes dos seus 
+ lhes pareceu bem, como estando em dívida para com eles; porque, se os gentios foram participantes dos seus 
 \added
 bens
 \*added
- espirituais, devem também ajudá-los com os materiais.
+ espirituais, também devem lhes servir com os materiais.
 \v Rm.15.28
-Assim que eu concluir isso, e garantir 
-\added
-a entrega
-\*added
- desse fruto a eles, partirei para a Espanha passando para vos visitar.
-\fn
-Lit. partirei por vós para a Espanha
-\*fn
+Assim que eu concluir isso, e depois de entregar-lhes em segurança esse fruto, partirei para a Espanha 
+visitando-vos no caminho.
 \v Rm.15.29
 E sei que, quando chegar até vós, virei com a plenitude da bênção 
 \fn
@@ -1623,11 +1623,12 @@ RP, TR acrescentam: “do Evangelho”
 \*fn
  de Cristo.
 \v Rm.15.30
-Rogo-vos, porém, irmãos, pelo nosso Senhor Jesus Cristo, e pelo amor do Espírito, que luteis comigo em orações a Deus por mim,
+Rogo-vos, porém, irmãos, pelo nosso Senhor Jesus Cristo, e pelo amor do Espírito, que luteis comigo em orações a 
+Deus por mim,
 \v Rm.15.31
-para que eu esteja livre dos rebeldes na Judeia, e que este meu serviço em Jerusalém seja bem aceito pelos santos,
+para que eu esteja livre dos incrédulos na Judeia, e que este serviço meu em Jerusalém seja bem aceito pelos santos,
 \v Rm.15.32
-a fim de que eu possa chegar até vós com alegria, pela vontade de Deus, e que eu possa descansar convosco.
+a fim de que eu chegue até vós com alegria, pela vontade de Deus, e que eu possa descansar convosco.
 \v Rm.15.33
 E o Deus da paz esteja com todos vós. Amém!
 \v Rm.16.1

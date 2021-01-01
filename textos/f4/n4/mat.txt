@@ -52,33 +52,36 @@ E Eliúde gerou a Eleazar; e Eleazar gerou a Matã; e Matã gerou a Jacó.
 \v Mt.1.16
 E Jacó gerou a José, o marido de Maria, da qual nasceu Jesus, chamado o Cristo.
 \v Mt.1.17
-De maneira que todas as gerações desde Abraão até Davi são catorze gerações; e desde Davi até o exílio babilônico catorze gerações; e desde o exílio babilônico até Cristo catorze gerações.
+De maneira que todas as gerações desde Abraão até Davi são catorze gerações; e desde Davi até o exílio babilônico 
+catorze gerações; e desde o exílio babilônico até Cristo catorze gerações.
 \v Mt.1.18
-E o nascimento de Jesus Cristo foi assim: estando sua mãe Maria desposada com José, antes que se ajuntassem, ela foi achada grávida do Espírito Santo.
+E o nascimento de Jesus Cristo foi assim: estando sua mãe Maria desposada com José, antes que se ajuntassem, 
+ela foi achada grávida do Espírito Santo.
 \v Mt.1.19
 Então José, seu marido, sendo justo, e não querendo a expor à infâmia, pensou em deixá-la secretamente.
 \v Mt.1.20
-E ele, pretendendo isto, eis que um anjo do Senhor lhe apareceu em sonho, dizendo: José, filho de Davi, não temas receber Maria, tua mulher, porque o que nela está concebido é do Espírito Santo.
+E pretendendo ele isso, eis que um anjo do Senhor lhe apareceu em sonho, dizendo: “José, filho de Davi, não temas 
+receber Maria, tua esposa, porque o que nela está concebido é do Espírito Santo.
 \v Mt.1.21
-E ela dará à luz um filho, e tu chamarás seu nome Jesus; porque ele salvará seu povo de seus pecados.
+E ela dará à luz um filho, e chamarás seu nome JESUS; porque ele salvará seu povo de seus pecados”.
 \fn
 Jesus significa “O SENHOR salva”
 \*fn
 \v Mt.1.22
-E tudo isto aconteceu para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que disse:
+Tudo isso aconteceu para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que disse:
 \v Mt.1.23
-Eis que a virgem conceberá, e dará à luz um filho, e chamarão seu nome Emanuel, que traduzido é: Deus conosco. 
+“Eis que a virgem conceberá, e dará à luz um filho, e chamarão seu nome Emanuel”, que traduzido é: “Deus conosco”. 
 \ref
 Isaías 7:14 
 \*ref
 \v Mt.1.24
-E despertando José do sonho, fez como o anjo do Senhor tinha lhe mandado, e recebeu sua mulher.
+E despertando José do sonho, fez como o anjo do Senhor lhe havia mandado, e recebeu a sua esposa.
 \v Mt.1.25
 E ele não a conheceu 
 \added
 intimamente
 \*added
-,até que ela deu à luz um filho,
+, até que ela deu à luz um filho,
 \fn
 \key
 um filho
@@ -89,185 +92,195 @@ TR, RP contêm: o filho dela, o primogênito
 \v Mt.2.1
 E sendo Jesus já nascido em Belém da Judeia, nos dias do rei Herodes, eis que vieram uns magos do oriente a Jerusalém,
 \v Mt.2.2
-Dizendo: Onde está o Rei nascido dos Judeus? Porque vimos sua estrela no oriente,
+dizendo: “Onde está o Rei nascido dos judeus? Porque vimos sua estrela no oriente,
 \fn
 \key
 no oriente
 \*key
 trad.alt. quando ela surgiu – também no v. 9
 \*fn
- e viemos adorá-lo.
+ e viemos adorá-lo”.
 \v Mt.2.3
-E o rei Herodes, ao ouvir 
+E quando o rei Herodes ouviu 
 \added
-isto
+isso
 \*added
 , ficou perturbado, e com ele toda Jerusalém.
 \v Mt.2.4
 E tendo reunido todos os chefes dos sacerdotes e escribas do povo, perguntou-lhes onde o Cristo havia de nascer.
 \v Mt.2.5
-E eles lhe disseram: Em Belém da Judeia, porque assim está escrito pelo profeta:
+E eles lhe disseram: “Em Belém da Judeia, porque assim está escrito pelo profeta:
 \v Mt.2.6
-E tu Belém, terra de Judá, de maneira nenhuma és a menor entre as lideranças de Judá, porque de ti sairá o Guia que apascentará meu povo Israel.
+‘E tu, Belém, terra de Judá, de maneira nenhuma és a menor entre as principais de Judá, porque de ti sairá o Guia 
+que apascentará meu povo Israel’”.
 \ref
 Miqueias 5:2 
 \*ref
 \v Mt.2.7
-Então Herodes, chamando secretamente os magos, perguntou-lhes com precisão sobre o tempo em que a estrela havia aparecido.
+Então Herodes chamando secretamente os magos, perguntou-lhes com precisão sobre o tempo em que a estrela
+havia aparecido.
 \v Mt.2.8
-E enviando-os a Belém, disse: Ide, e investigai cuidadosamente pelo menino; e quando o achardes, avisai-me, para que também eu venha e o adore.
+E, enviando-os a Belém, disse: “Ide, e investigai com precisão acerca do menino; e quando o achardes, avisai-me, para 
+que também eu venha e o adore”.
 \v Mt.2.9
-Depois de ouvirem o rei, eles foram embora. E eis que a estrela que tinham visto no oriente ia adiante deles, até que ela chegou, e ficou parada sobre onde o menino estava.
+E havendo eles ouvido o rei, partiram. E eis que a estrela que tinham visto no oriente ia adiante deles, até que,
+chegando, ficou sobre onde o menino estava.
 \v Mt.2.10
-E eles, vendo a estrela, jubilaram muito com grande alegria.
+E eles, vendo a estrela, alegraram-se muito com grande júbilo.
 \v Mt.2.11
-E entrando na casa, acharam o menino com sua mãe Maria, e prostrando-se o adoraram. E abrindo seus tesouros, ofereceram-lhe presentes: ouro, incenso, e mirra.
+E entrando na casa, acharam o menino com sua mãe Maria, e, prostrando-se, o adoraram. E abrindo os seus tesouros, 
+ofereceram-lhe presentes: ouro, incenso, e mirra.
 \v Mt.2.12
-E sendo por divina revelação avisados em sonho que não voltassem a Herodes, partiram para sua terra por outro caminho.
+E sendo por divina revelação avisados em sonho que não voltassem a Herodes, partiram para a sua terra por
+outro caminho.
 \v Mt.2.13
-E tendo eles partido, eis que um anjo do Senhor apareceu a José em sonho, dizendo: Levanta-te, toma o menino e sua mãe, e foge para o Egito; e fica lá até que eu te diga, porque Herodes buscará o menino para o matar.
+E tendo eles partido, eis que um anjo do Senhor apareceu a José em sonho, dizendo: “Levanta-te, toma o menino e sua 
+mãe, e foge para o Egito; e fica lá até que eu te diga, porque Herodes buscará o menino para o matar”.
 \v Mt.2.14
-Então ele se despertou, tomou o menino e sua mãe de noite, e foi para o Egito;
+E ele, levantando-se, tomou o menino e a sua mãe de noite, e foi para o Egito;
 \v Mt.2.15
-E esteve lá até a morte de Herodes, para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que disse: Do Egito chamei o meu Filho.
+E esteve lá até a morte de Herodes, para que se cumprisse o que foi dito pelo Senhor por meio do profeta, que disse: 
+“Do Egito chamei o meu Filho”.
 \ref
 Oseias 11:1 
 \*ref
 \v Mt.2.16
-Então Herodes, ao ver que tinha sido enganado pelos magos, irou-se muito, e mandou matar todos os meninos em Belém e em todos os limites de sua região, 
+Herodes, então, vendo-se iludido pelos magos, indignou-se muito, e mandou matar todos os meninos em Belém e em todos 
+os seus arredores, 
 \added
 da idade
 \*added
- de dois anos e abaixo, conforme o tempo que tinha perguntado com precisão dos magos.
+ de dois anos e abaixo, conforme o tempo que havia perguntado com precisão dos magos.
 \v Mt.2.17
 Então se cumpriu o que foi dito pelo profeta Jeremias, que disse:
 \v Mt.2.18
-Uma voz se ouviu em Ramá, 
- choro, e grande pranto; Raquel chorava por seus filhos, e não quis ser consolada, pois já não existem.
+“Uma voz se ouviu em Ramá, 
+ choro, e grande pranto; Raquel chorando por seus filhos, e não quis ser consolada, porque já não existem”.
 \ref
 Jeremias 31:15 
 \*ref
 \v Mt.2.19
-Mas depois de Herodes ter morrido, eis que um anjo do Senhor apareceu no Egito a José em sonho,
+Porém, havendo Herodes morrido, eis que um anjo do Senhor apareceu no Egito a José em sonho,
 \v Mt.2.20
-Dizendo: Levanta-te, toma o menino e sua mãe, e vai para a terra de Israel, porque já morreram os que procuravam a morte do menino.
+Dizendo: “Levanta-te, toma o menino e a sua mãe, e vai para a terra de Israel, porque já morreram os que procuravam a 
+morte do menino”.
 \v Mt.2.21
-Então ele se levantou, tomou o menino e sua mãe, e veio para a terra de Israel.
+Então ele se levantou, tomou o menino e a sua mãe, e veio para a terra de Israel.
 \v Mt.2.22
-Porém ao ouvir que Arquelau reinava na Judeia em lugar de seu pai Herodes, ele teve medo de ir para lá; mas avisado por divina revelação em sonho, foi para a região da Galileia,
+Mas, ouvindo que Arquelau reinava na Judeia em lugar de seu pai Herodes, teve medo de ir para lá; mas avisado por 
+divina revelação em sonho, foi para a região da Galileia,
 \v Mt.2.23
-E veio a habitar na cidade chamada Nazaré, para que se cumprisse o que foi dito pelos profetas, que: Ele será chamado de Nazareno.
+e foi morar na cidade chamada Nazaré, para que se cumprisse o que foi dito pelos profetas, que: “Ele será 
+chamado Nazareno”.
 \v Mt.3.1
-E naqueles dias veio João Batista, pregando no deserto da Judeia,
+E naqueles dias, veio João Batista, pregando no deserto da Judeia,
 \v Mt.3.2
-E dizendo: Arrependei-vos, porque perto está o Reino dos céus.
+dizendo: “Arrependei-vos, porque perto está o Reino dos Céus”.
 \v Mt.3.3
-Porque este é aquele que foi declarado pelo profeta Isaías, que disse: Voz do que clama no deserto: “Preparai o caminho do Senhor; endireitai suas veredas”. 
+Porque este é aquele que foi anunciado pelo profeta Isaías, que disse: “Voz do que clama no deserto: ‘Preparai o 
+caminho do Senhor; endireitai as suas veredas’”.
 \ref
 Isaías 40:3 
 \*ref
 \v Mt.3.4
-Este João tinha sua roupa de pelos de camelo e um cinto de couro ao redor de sua cintura, e seu alimento era gafanhotos e mel silvestre.
+Este João tinha a sua veste de pelos de camelo e um cinto de couro ao redor de sua cintura, e alimentava-se de 
+gafanhotos e mel silvestre.
 \v Mt.3.5
 Então vinham até ele 
 \added
-moradores
+pessoas
 \*added
  de Jerusalém, de toda a Judeia, e de toda a região próxima do Jordão;
 \v Mt.3.6
-E eram por ele batizados no rio Jordão,
+e eram por ele batizados no rio Jordão,
  confessando os seus pecados.
 \v Mt.3.7
-Mas quando ele viu muitos dos fariseus e dos saduceus que vinham ao 
-batismo, disse-lhes: Ninhada de víboras! Quem vos ensinou a fugir da ira futura?
+E ele, vendo muitos dos fariseus e dos saduceus que vinham ao
+ batismo, disse-lhes: “Raça de víboras! Quem vos ensinou a fugir da ira futura?
 \v Mt.3.8
 Dai, pois, 
 fruto condizente com o arrependimento.
-\fn
-arrependimento não é somente um pesar ou remorso pelo pecado, mas sim uma mudança de atitude, abandonando o que é errado
-\*fn
 \v Mt.3.9
-E não imagineis, dizendo em vós mesmos: “Temos por pai a Abraão”, porque eu vos digo que até destas pedras Deus pode fazer surgir filhos a Abraão.
+E não imagineis, dizendo em vós mesmos: ‘Temos por pai a Abraão’, porque eu vos digo que mesmo destas pedras Deus 
+pode fazer surgir filhos a Abraão.
 \v Mt.3.10
-E agora 
-o machado está posto à raiz das árvores; portanto toda árvore que não dá bom fruto é cortada e lançada ao fogo.
+E
+ agora o machado está posto à raiz das árvores; portanto, toda árvore que não dá bom fruto é cortada e lançada ao fogo.
 \v Mt.3.11
-Realmente eu vos batizo com água para arrependimento, mas aquele que vem após mim é mais poderoso do que eu; suas sandálias não sou digno de levar. Ele vos 
-batizará com o Espírito Santo e com fogo.
+Eu, de fato, vos batizo com água para o arrependimento, mas aquele que vem após mim é mais poderoso do que eu; 
+suas sandálias não sou digno de levar. Ele vos batizará com o Espírito Santo e com fogo
+.
 \v Mt.3.12
-Ele tem sua pá na mão; limpará sua eira, e recolherá seu trigo no celeiro; mas queimará a palha com fogo que nunca se apaga.
+Em sua mão ele tem a pá; ele limpará a sua eira e recolherá o seu trigo no celeiro; mas queimará a palha com fogo que 
+nunca se apaga”.
 \v Mt.3.13
-Então Jesus veio da Galileia ao Jordão até João para ser por ele batizado.
+Então Jesus veio da Galileia ao Jordão, até João, para ser batizado por ele.
 \v Mt.3.14
-Mas  
+Mas 
 \added
 João
 \*added
- 
- lhe impedia, dizendo: Eu preciso ser batizado por ti, e tu vens a mim?
+ opunha-se a ele, dizendo: “Eu preciso ser batizado por ti, e tu vens a mim?”
 \v Mt.3.15
-Porém Jesus lhe respondeu: Permite por agora, porque assim nos convém cumprir toda a justiça. Então ele o permitiu.
+Porém Jesus lhe respondeu: “Permite por agora, porque assim nos convém cumprir toda a justiça”. Então ele lhe permitiu.
 \v Mt.3.16
-E tendo Jesus sido batizado, subiu logo da água. E eis que os céus se 
-abriram, e ele viu o Espírito de Deus descendo como uma pomba, vindo sobre ele.
+E havendo Jesus sido batizado, subiu logo da água. E eis que os céus se
+ abriram, e ele viu o Espírito de Deus descendo como uma pomba, vindo sobre ele.
 \v Mt.3.17
-E eis uma voz dos céus, dizendo: Este é o meu Filho amado, em quem me agrado.
+E eis que uma voz dos céus dizia: “Este é o meu Filho amado, em quem me agrado”.
 \v Mt.4.1
-Então Jesus foi levado pelo Espírito ao deserto para ser tentado pelo diabo.
+Então Jesus foi levado pelo Espírito ao deserto, para ser tentado pelo diabo.
 \v Mt.4.2
-E depois de jejuar quarenta dias e quarenta noites, teve fome.
+E havendo jejuado quarenta dias e quarenta noites, depois teve fome.
 \v Mt.4.3
 E o tentador se aproximou, e disse-lhe:
- Se tu és o Filho de Deus, dize que estas pedras se tornem pães.
+ “Se tu és o Filho de Deus, manda que estas pedras se tornem pães”.
 \v Mt.4.4
-Mas 
-\added
-Jesus
-\*added
- respondeu: Está escrito: Não só de pão viverá o ser humano, mas de toda palavra que sai da boca de Deus. 
+Porém Jesus
+\fn
+Lit. ele
+\*fn
+ respondeu, dizendo: “Está escrito: ‘Não só de pão viverá o ser humano, mas de toda a palavra que sai da boca 
+de Deus’”.
 \ref
 Deuteronômio 8:3 
 \*ref
 \v Mt.4.5
-Então o diabo o levou consigo à santa cidade, e o pôs sobre o ponto mais alto do Templo,
+Então o diabo o levou à cidade santa, e o pôs sobre o ponto mais alto do Templo,
 \v Mt.4.6
-E disse-lhe: Se tu és o Filho de Deus, lança-te abaixo, porque está escrito que: Mandará a seus anjos acerca de ti, e te tomarão pelas mãos, para que nunca com teu pé tropeces em pedra alguma. 
+e disse-lhe: “Se tu és o Filho de Deus, lança-te abaixo, porque está escrito que: ‘Mandará aos seus anjos acerca de 
+ti, e te tomarão pelas mãos, para que nunca com o teu pé tropeces em pedra alguma.’” 
 \ref
 Salmos 91:11,12 
 \*ref
 \v Mt.4.7
-Jesus lhe disse: Também está escrito: Não tentarás
+Jesus lhe disse: “Também está escrito: ‘Não tentarás
 \fn
-\key
-tentarás
-\*key
-ou: Não testarás o Senhor teu Deus
+ou: testarás
 \*fn
- o Senhor teu Deus.
+ o Senhor, teu Deus’”.
 \ref
 Deuteronômio 6:16 
 \*ref
 \v Mt.4.8
-Outra vez o diabo o levou consigo a um monte muito alto, e lhe mostrou todos os reinos do mundo, e a glória deles,
+Outra vez o diabo o levou consigo a um monte muito alto, e mostrou-lhe todos os reinos do mundo, e a glória deles,
 \v Mt.4.9
-E disse-lhe: Tudo isto te darei se, prostrado, me adorares.
+e disse-lhe: “Tudo isto te darei se, prostrado, me adorares”.
 \v Mt.4.10
-Então Jesus disse: Vai embora,
- Satanás! Porque está escrito: Ao Senhor teu Deus adorarás, e só a ele cultuarás.
+Então Jesus lhe disse: “Vai-te,
+ Satanás! Porque está escrito: ‘Ao Senhor teu Deus adorarás, e só a ele cultuarás’”.
 \ref
 Deuteronômio 6:13 
 \*ref
 \v Mt.4.11
 Então o diabo o deixou; e eis que chegaram anjos, e o serviram.
 \v Mt.4.12
-Mas quando  
 \added
-Jesus
+Jesus,
 \*added
- 
- ouviu que João estava preso, voltou para a Galileia.
+ porém, ouvindo que João estava preso, voltou para a Galileia.
 \v Mt.4.13
-E deixando Nazaré, veio a morar em Cafarnaum, 
+E, deixando Nazaré, veio a morar em Cafarnaum, 
 \added
 cidade
 \*added
@@ -275,120 +288,124 @@ cidade
 \v Mt.4.14
 para que se cumprisse o que foi anunciado pelo profeta Isaías, que disse:
 \v Mt.4.15
-A terra de Zebulom e a terra de Naftali, caminho do mar, além do Jordão, a Galileia dos gentios;
+“A terra de Zebulom e a terra de Naftali, ao caminho do mar, além do Jordão, a Galileia dos gentios;
 \v Mt.4.16
-O povo sentado em trevas viu uma grande luz; aos sentados em região e sombra da morte, a luz lhes apareceu.
+O povo sentado em trevas viu uma grande luz; aos que se sentavam na região e sombra da morte, a luz lhes apareceu”.
 \ref
 Isaías 9:1 
 \*ref
 \v Mt.4.17
-Desde então Jesus começou a pregar e a dizer: Arrependei-vos, porque perto está o Reino dos céus.
+Desde então Jesus começou a pregar e a dizer: “Arrependei-vos, porque perto está o Reino dos céus”.
 \v Mt.4.18
-Enquanto  
+E 
 \added
-Jesus
+Jesus,
 \*added
- 
- andava junto ao mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André, lançarem a rede ao mar, porque eram pescadores.
+ andando junto ao mar da Galileia, viu dois irmãos: Simão, chamado Pedro, e seu irmão André, que lançavam a rede ao 
+mar, porque eram pescadores.
 \v Mt.4.19
-E disse-lhes: Vinde após mim, e eu vos farei pescadores de gente.
+E disse-lhes: “Vinde após mim, e eu vos farei pescadores de gente”.
 \v Mt.4.20
-Então eles logo deixaram as redes e o seguiram.
+Então eles, deixando logo as redes, o seguiram.
 \v Mt.4.21
 E passando dali, viu outros dois irmãos: Tiago, 
 \added
 filho
 \*added
- de Zebedeu, e seu irmão João, em um barco, com seu pai Zebedeu, que estavam consertando suas redes; e ele os chamou.
+ de Zebedeu, e seu irmão João, num barco, com seu pai Zebedeu, consertando suas redes; e os chamou.
 \v Mt.4.22
-E eles logo deixaram o barco e seu pai, e o seguiram.
+E eles, logo deixando o barco e seu pai, o seguiram.
 \v Mt.4.23
-E  
+E 
 \added
 Jesus
 \*added
- 
- rodeava toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando toda enfermidade e toda doença no povo.
+ percorria toda a Galileia, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando toda enfermidade e 
+toda doença no povo.
 \v Mt.4.24
-Sua fama corria por toda a Síria, e traziam-lhe todos que sofriam de algum mal, tendo diversas enfermidades e tormentos, e os endemoninhados, epiléticos, e paralíticos; e ele os curava.
+E a sua fama corria por toda a Síria, e traziam-lhe todos que sofriam de algum mal, acometidos de diversas 
+enfermidades e tormentos, e os endemoninhados, epiléticos, e paralíticos; e ele os curava.
 \v Mt.4.25
-E muitas multidões da Galileia, de Decápolis, de Jerusalém, da Judeia, e dalém do Jordão o seguiam.
+E o seguiam muitas multidões da Galileia, de Decápolis, de Jerusalém, da Judeia, e dalém do Jordão.
 \v Mt.5.1
-E quando 
+E 
 \added
 Jesus
 \*added
- viu as multidões, subiu a um monte; e sentando-se, achegaram-se a ele os seus discípulos.
+, vendo as multidões, subiu ao monte; e sentando-se, aproximaram-se dele os seus discípulos.
 \v Mt.5.2
-Então ele abriu sua boca e lhes ensinou, dizendo:
+E, abrindo a sua boca, os ensinava, dizendo:
 \v Mt.5.3
-Benditos
-\fn
-Neste contexto, os benditos, ou bem-aventurados, são as pessoas que têm ou terão motivos de se alegrarem por causa de uma bênção recebida, ainda que não necessariamente estejam contentes no momento
-\*fn
- são os humildes de espírito,
-\fn
-humildes ou pobres de espírito são as pessoas que estão aflitas e reconhecem que dependem de Deus para suas necessidades - Isaías 57:15; 66:2
-\*fn
- porque deles é o Reino dos céus.
+“Bem-aventurados os humildes de espírito, porque deles é o Reino dos céus.
 \v Mt.5.4
-Benditos são os que choram, porque eles serão consolados.
+Bem-aventurados os que choram, porque eles serão consolados.
 \v Mt.5.5
-Benditos são os mansos, porque eles herdarão a terra.
+Bem-aventurados os mansos, porque eles herdarão a terra.
 \v Mt.5.6
-Benditos são os que têm fome e sede de justiça, porque eles serão saciados.
+Bem-aventurados os que têm fome e sede de justiça, porque eles serão saciados.
 \v Mt.5.7
-Benditos são os misericordiosos, porque eles alcançarão misericórdia.
+Bem-aventurados os misericordiosos, porque eles alcançarão misericórdia.
 \v Mt.5.8
-Benditos são os limpos de coração, porque eles verão a Deus.
+Bem-aventurados os limpos de coração, porque eles verão a Deus.
 \v Mt.5.9
-Benditos são os pacíficos, porque eles serão chamados filhos de Deus.
+Bem-aventurados os pacificadores, porque eles serão chamados filhos de Deus.
 \v Mt.5.10
-Benditos são os que sofrem perseguição por causa da justiça, porque deles é o Reino dos céus.
+Bem-aventurados os que sofrem perseguição por causa da justiça, porque deles é o Reino dos céus.
 \v Mt.5.11
-Benditos sois vós, quando vos insultarem, perseguirem, e mentirem, falando contra vós todo mal por minha causa.
+Bem-aventurados sois vós, quando vos insultarem, perseguirem, e, mentindo, falarem todo mal contra vós por minha causa.
 \v Mt.5.12
-Jubilai e alegrai-vos, porque grande é vossa recompensa nos céus; pois assim perseguiram aos profetas que foram antes de vós.
+Jubilai e alegrai-vos, porque grande é a vossa recompensa nos céus; porque assim perseguiram os profetas que foram 
+antes de vós.
 \v Mt.5.13
-Vós sois o sal da terra; mas se o sal perder seu sabor, com que se salgará? Para nada mais presta, a não ser para se lançar fora, e ser pisado pelas pessoas.
+Vós sois o sal da terra; mas se o sal perder o seu sabor, com que se salgará? Para nada mais presta, senão para se 
+lançar fora, e ser pisado pelas pessoas.
 \v Mt.5.14
-Vós sois a luz do mundo; não se pode esconder uma cidade fundada sobre o monte;
+Vós sois a luz do mundo; não se pode esconder uma cidade fundada sobre o monte.
 \v Mt.5.15
-Nem se acende a lâmpada para se pôr debaixo de um cesto, mas sim na luminária, e ilumina a todos quantos estão na casa.
+Nem se acende a lâmpada e se põe debaixo do cesto, mas sim na luminária, e ilumina a todos que estão na casa.
 \v Mt.5.16
-Assim brilhe vossa luz diante das pessoas, para que vejam vossas boas obras, e glorifiquem ao vosso Pai, que está nos céus.
+Assim brilhe a vossa luz diante das pessoas, para que vejam as vossas boas obras, e glorifiquem ao vosso Pai, que está 
+nos céus.
 \v Mt.5.17
-Não penseis que vim para revogar a Lei ou os Profetas; não vim para revogar, mas sim para cumprir.
+Não penseis que vim revogar a Lei ou os Profetas; não vim para revogar, mas para cumprir.
 \v Mt.5.18
-Porque em verdade vos digo que, até que o céu e a terra passem, nem um jota nem um til passará da Lei até que 
-tudo se cumpra.
+Porque em verdade vos digo que, até que o céu e a terra passem, nem um i
 \fn
-jota é uma adaptação da letra grega “iota”
+Literalmente, a letra grega “iota”
 \*fn
+ nem um til passará da Lei, até que tudo se cumpra.
 \v Mt.5.19
-Portanto qualquer um que desobedecer a um destes menores mandamentos, e assim ensinar às pessoas, será chamado o menor no Reino dos céus; porém qualquer que 
+De maneira que qualquer que violar um destes menores mandamentos, e assim ensinar às pessoas, será chamado o menor no 
+Reino dos céus; porém qualquer que 
 \added
 os
 \*added
  cumprir e ensinar, esse será chamado grande no Reino dos céus.
 \v Mt.5.20
-Porque eu vos digo que se a vossa justiça não for maior que a dos escribas e dos fariseus, de maneira nenhuma entrareis no Reino dos céus.
+Porque eu vos digo que, se a vossa justiça não for maior que a dos escribas e dos fariseus, de maneira nenhuma 
+entrareis no Reino dos céus.
 \v Mt.5.21
-Ouvistes o que foi dito aos antigos: “Não cometerás homicídio”;
+Ouvistes o que foi dito aos antigos: ‘Não cometerás homicídio’;
 \fn
 \key
 homicídio
 \*key
 Ref. Êxodo 20:13
 \*fn
- “mas qualquer um que cometer homicídio será réu do julgamento”.
+ ‘mas qualquer que cometer homicídio será réu de julgamento’.
 \v Mt.5.22
-Porém eu vos digo que qualquer um que se irar contra seu irmão
+Porém eu vos digo que qualquer que se irar contra seu irmão
 \fn
-TR, RP contêm: "irar contra seu irmão sem razão
+TR, RP contêm: “irar contra seu irmão sem razão”
 \*fn
-  
-será réu do julgamento. E qualquer um que disser a seu irmão: “Idiota!” será réu do tribunal.
+ será réu de julgamento. E qualquer que disser a seu irmão: “Idiota!”
+\fn
+\key
+Idiota
+\*key
+significado provável da palavra aramaica às vezes transliterada “raca”
+\*fn
+ será réu do tribunal.
 \fn
 \key
 tribunal
@@ -400,19 +417,15 @@ Ou “sinédrio”, o tribunal dos israelitas
 lhe
 \*added
  disser: “Louco!” será réu do fogo do inferno.
-\fn
-\key
-idiota
-\*key
-significado provável da palavra aramaica às vezes transliterada “raca”
-\*fn
 \v Mt.5.23
-Portanto, se trouxeres tua oferta ao altar, e ali te lembrares que teu irmão tem algo contra ti,
+Portanto, se trouxeres a tua oferta ao altar, e ali te lembrares que o teu irmão tem algo contra ti,
 \v Mt.5.24
-Deixa ali tua oferta diante do altar e vai primeiro reconciliar-te com teu irmão, e então vem oferecer a tua oferta.
+deixa a tua oferta ali diante do altar, e vai primeiro reconciliar-te com teu irmão, e depois vem oferecer a 
+tua oferta.
 \v Mt.5.25
-Faze acordo depressa com teu adversário, enquanto estás com ele no caminho, para não acontecer que o adversário te entregue ao juiz, e o juiz 
-ao oficial, e te lancem na prisão.
+Concilia-te depressa com o teu adversário, enquanto estás com ele no caminho, para não acontecer que o adversário 
+te entregue ao juiz, e o juiz 
+ ao oficial, e te lancem na prisão.
 \v Mt.5.26
 Em verdade te digo que não sairás dali enquanto não pagares a última moeda.
 \fn
@@ -423,59 +436,56 @@ Ou: quadrante, uma moeda de pequeno valor
 \*fn
 \v Mt.5.27
 Ouvistes o que foi dito:
- “Não adulterarás”. 
+ ‘Não adulterarás’.
 \ref
 Êxodo 20:14; Deuteronômio 5:18 
 \*ref
 \v Mt.5.28
-Porém eu vos digo que qualquer um que olhar para uma mulher para a cobiçar, em seu coração já adulterou com ela.
+Porém eu vos digo que qualquer que olhar para uma mulher para a cobiçar, em seu coração já adulterou com ela.
 \v Mt.5.29
-Se o teu olho direito te faz pecar,
-\fn
-Lit. tropeçar (e cair). Também no v. 30
-\*fn
- arranca-o e lança-o de ti; porque é melhor para ti que um dos teus membros se perca do que o teu corpo todo seja 
-lançado no inferno.
+Portanto, se o teu olho direito te faz pecar, arranca-o e lança-o de ti; porque é melhor para ti que um dos teus 
+membros se perca, do que todo o teu corpo seja lançado no inferno.
 \v Mt.5.30
 E se a tua mão direita te faz pecar, corta-a e lança-a de ti; porque é melhor para ti que um dos teus 
-membros se perca do que o teu corpo todo vá ao
+membros se perca, do que todo o teu corpo vá ao
  inferno.
 \v Mt.5.31
-Também foi dito: “Qualquer um que se divorciar de sua mulher, dê a ela carta de divórcio. 
+Também foi dito: ‘Qualquer que se divorciar de sua esposa, dê a ela carta de divórcio’.
 \ref
 Deuteronômio 24:1 
 \*ref
 \v Mt.5.32
-Porém eu vos digo que qualquer um que se divorciar de sua mulher, a menos que seja por causa de pecado sexual, faz com que ela adultere; e qualquer um que se casar com a divorciada comete adultério.
+Porém eu vos digo que qualquer que se divorciar de sua esposa, a não ser por causa de pecado sexual, faz com que ela 
+adultere; e qualquer que se casar com a divorciada comete adultério.
 \v Mt.5.33
-Também ouvistes que foi dito aos antigos: “Não jurarás falsamente”, “mas cumprirás ao Senhor os teus juramentos”. 
+Também ouvistes que foi dito aos antigos: ‘Não jurarás falsamente’, ‘mas cumprirás os teus juramentos ao Senhor’. 
 \ref
 Levítico 19:12; Números 30:2 
 \*ref
 \v Mt.5.34
 Porém eu vos digo que de maneira nenhuma jureis; nem pelo céu, porque é o trono de Deus;
 \v Mt.5.35
-Nem pela terra, porque é o suporte de seus pés; nem por Jerusalém, porque é a cidade do grande Rei.
+nem pela terra, porque é o estrado de seus pés; nem por Jerusalém, porque é a cidade do grande Rei.
 \v Mt.5.36
-Nem por tua cabeça jurarás, pois nem sequer um cabelo podes tornar branco ou preto.
+Nem jurarás pela tua cabeça, pois sequer um cabelo não podes tornar branco ou preto.
 \v Mt.5.37
-Mas seja vosso falar: “sim”, “sim”, “não”, “não”; porque o que disso passa procede do maligno.
+Mas seja o vosso falar: ‘sim’, ‘sim’, ‘não’, ‘não’; porque o que passa disso procede do maligno.
 \v Mt.5.38
-Ouvistes o que foi dito: “Olho por olho, e dente por dente”. 
+Ouvistes o que foi dito: ‘Olho por olho, e dente por dente’.
 \ref
 Êxodo 21:24; Levítico 24:20; Deuteronômio 19:21 
 \*ref
 \v Mt.5.39
-Mas eu vos digo que não resistais a quem for mau; em vez disso, a qualquer um que te bater à tua
- face direita, apresenta-lhe também a outra.
+Mas eu vos digo que não resistais à pessoa má; em vez disso, a qualquer que te bater na tua
+ face direita, oferece-lhe também a outra.
 \v Mt.5.40
-E ao que quiser disputar contigo, e te tomar tua túnica, deixa-lhe também a capa.
+E ao que quiser te processar e te tomar a tua túnica, deixa-lhe também a capa.
 \v Mt.5.41
-E se qualquer um te obrigar a caminhar uma milha, vai com ele duas.
+E se qualquer te obrigar a caminhar uma milha, vai com ele duas.
 \v Mt.5.42
-Dá a quem te pedir; e não te desvies de quem quiser de ti tomar emprestado.
+Dá a quem te pedir; e não te desvies de quem quiser tomar emprestado de ti.
 \v Mt.5.43
-Ouvistes o que foi dito: “Amarás teu próximo”, e “odiarás teu inimigo”. 
+Ouvistes o que foi dito: ‘Amarás o teu próximo’, e ‘odiarás o teu inimigo’.
 \ref
 Levítico 19:18 
 \*ref
@@ -490,12 +500,13 @@ orai pelos que vos perseguem
 TR, RP: bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem. Comparar com Lucas 6:27,28
 \*fn
 \v Mt.5.45
-Para que sejais filhos de vosso Pai que está nos céus; porque ele faz seu sol sair sobre maus e bons, e chover sobre justos e injustos.
+para que sejais filhos do vosso Pai que está nos céus; porque ele faz o seu sol sair sobre maus e bons, e chover sobre 
+justos e injustos.
 \v Mt.5.46
-Pois se amardes os que vos amam, que recompensa tereis? Não fazem os publicanos também o mesmo?
+Pois, se amardes os que vos amam, que recompensa tereis? Não fazem os publicanos também o mesmo?
 \v Mt.5.47
 E se saudardes somente os vossos irmãos,
- o que fazeis de mais? Não fazem os gentios
+ que fazeis de mais? Não fazem os gentios
 \fn
 \key
 gentios
@@ -504,18 +515,19 @@ TR, RP: publicanos
 \*fn
  também assim?
 \v Mt.5.48
-Portanto, sede vós perfeitos, assim como vosso Pai celestial
- é perfeito.
+Sede vós, pois, perfeitos, assim como é perfeito o vosso Pai celestial
+.
 \v Mt.6.1
-Ficai atentos para que não façais vossa boa ação
- diante das pessoas a fim de que sejais vistos por elas; de outra maneira não tereis recompensa de vosso Pai que 
+Ficai atentos para que não façais a vossa boa ação
+ diante das pessoas a fim de que sejais vistos por elas; de outra maneira não tereis recompensa do vosso Pai que 
 está nos céus.
 \v Mt.6.2
-Portanto, quando fizeres esmola, não faças tocar trombeta diante de ti, como fazem os hipócritas nas sinagogas e nas ruas, para serem honrados pelas pessoas; em verdade vos digo que já receberam sua recompensa.
+Portanto, quando deres esmola, não faças tocar trombeta adiante de ti, como fazem os hipócritas nas sinagogas e nas 
+ruas, para serem honrados pelas pessoas; em verdade vos digo que já receberam a sua recompensa.
 \v Mt.6.3
-Mas quando tu fizeres esmola, não saiba tua mão esquerda o que faz a tua direita;
+Mas, quando tu deres esmola, não saiba a tua mão esquerda o que faz a tua direita;
 \v Mt.6.4
-Para que a tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará.
+para que a tua esmola seja em segredo, e teu Pai, que vê em segredo, ele te recompensará.
 \v Mt.6.5
 E quando orardes, não sejais
  como os hipócritas; porque eles amam orar em pé nas sinagogas e nas esquinas das ruas para serem vistos pelas pessoas. Em verdade vos digo que já receberam sua recompensa.
@@ -921,14 +933,15 @@ Quando o demônio foi expulso, o mudo passou a falar. Então as multidões ficar
 \v Mt.9.34
 Mas os fariseus diziam: É pelo chefe dos demônios que ele expulsa os demônios.
 \v Mt.9.35
-Jesus percorria todas as cidades e aldeias, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando toda enfermidade e toda doença.
+Jesus percorria todas as cidades e aldeias, ensinando em suas sinagogas, pregando o Evangelho do Reino, e curando 
+toda enfermidade e toda doença.
 \v Mt.9.36
 Quando ele viu as multidões, teve compaixão delas, porque andavam afligidas
  e desamparadas, como ovelhas que não têm pastor.
 \v Mt.9.37
-Então disse aos seus discípulos: Em verdade a colheita é grande, porém os trabalhadores são poucos.
+Então disse aos seus discípulos: “Em verdade a colheita é grande, porém os trabalhadores são poucos.
 \v Mt.9.38
-Portanto rogai ao Senhor da colheita que envie trabalhadores à sua colheita.
+Portanto, rogai ao Senhor da colheita que envie trabalhadores à sua colheita.”
 \v Mt.10.1
 \added
 Jesus
@@ -1148,7 +1161,7 @@ E dizem: ‘Tocamos flauta para vós, mas não dançastes; cantamos lamentaçõe
 Porque veio João, sem comer nem beber, e dizem: ‘Ele tem demônio.’
 \v Mt.11.19
 Veio o Filho do homem, que come e bebe, e dizem: ‘Eis aqui um homem comilão e beberrão, amigo de publicanos e 
-pecadores!’ Mas a sabedoria prova-se justa por meio de suas obras.
+pecadores!’ Mas a sabedoria mostra-se justa por meio de suas obras.
 \fn
 \key
 suas obras
@@ -2526,7 +2539,8 @@ Então trouxeram a jumenta e o jumentinho, puseram as
 ele montou
  sobre elas.
 \v Mt.21.8
-E uma grande multidão estendia suas roupas pelo caminho, e outros cortavam ramos das árvores, e os espalhavam pelo caminho.
+E uma grande multidão estendia suas roupas pelo caminho, e outros cortavam ramos das árvores, e os 
+espalhavam pelo caminho.
 \v Mt.21.9
 E as multidões que iam adiante dele,
  e as que seguiam, clamavam: Hosana ao Filho de Davi! Bendito o que vem no nome do Senhor! Hosana nas alturas!
@@ -2537,10 +2551,11 @@ E as multidões respondiam: Este é o Profeta Jesus,
  de Nazaré de Galileia.
 \v Mt.21.12
 Jesus entrou no Templo;
- então expulsou todos os que estavam vendendo e comprando no Templo, e virou as mesas dos cambistas e as cadeiras dos que vendiam pombas.
+ então expulsou todos os que estavam vendendo e comprando no Templo, e virou as mesas dos cambistas e as cadeiras 
+dos que vendiam pombas.
 \v Mt.21.13
-E disse-lhes: Está escrito: “Minha casa será chamada casa de oração”; mas vós a tornais
- em covil de ladrões! 
+E disse-lhes: “Está escrito: ‘Minha casa será chamada casa de oração’; mas vós a tornais
+ em covil de ladrões!”
 \ref
 Isaías 56:7; Jeremias 7:11 
 \*ref
@@ -3965,7 +3980,7 @@ E
 \fn
 TR, RP: E enquanto elas iam anunciar aos seus discípulos
 \*fn
-  eis que Jesus veio ao encontro delas, e disse: Saudações. Elas se aproximaram, pegaram os pés dele, e o adoraram.
+ eis que Jesus veio ao encontro delas, e disse: Saudações. Elas se aproximaram, pegaram os pés dele, e o adoraram.
 \v Mt.28.10
 Jesus, então, lhes disse: Não temais. Ide anunciar aos meus irmãos para eles irem à Galileia, e ali me verão.
 \v Mt.28.11
@@ -3975,11 +3990,10 @@ Então eles se reuniram com os anciãos, depois de decidirem em conjunto, deram 
 \v Mt.28.13
 dizendo: Falai: “Os discípulos dele vieram de noite, e o furtaram enquanto estávamos dormindo”.
 \v Mt.28.14
-E, se isto for ouvido pelo governador, nós  
+E, se isto for ouvido pelo governador, nós 
 \added
 o
 \*added
- 
  persuadiremos, e vos manteremos seguros.
 \v Mt.28.15
 Eles tomaram o dinheiro e fizeram como foram instruídos. E este dito foi divulgado entre os judeus até hoje.

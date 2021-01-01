@@ -14,21 +14,24 @@ EPH
 Paulo, apóstolo de Jesus Cristo
  pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
 \v Ef.1.2
-Graça e paz, de Deus nosso Pai, e do Senhor Jesus Cristo, 
+Graça e paz, da parte de Deus nosso Pai, e do Senhor Jesus Cristo, 
 \added
 sejam
 \*added
  convosco.
 \v Ef.1.3
-Bendito seja o Deus e Pai do nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituis nos lugares 
-celestiais em Cristo.
+Bendito seja o Deus e Pai do nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituais nos 
+\added
+lugares
+\*added
+ celestiais em Cristo;
 \v Ef.1.4
-Assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele 
+assim como nos escolheu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele 
 em amor.
 \v Ef.1.5
 E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
 \v Ef.1.6
-para louvor da glória de sua graça, pela qual nos fez aceitáveis
+para louvor da glória de sua graça, pela qual nos tornou aceitos
  no Amado.
 \v Ef.1.7
 Nele temos a libertação
@@ -37,18 +40,11 @@ Ou: redenção, isto é, a libertação por meio do pagamento de um resgate
 \*fn
  pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
 \v Ef.1.8
-que ele fez transbordar em nós em toda sabedoria e prudência.
+que ele fez transbordar sobre nós em toda sabedoria e prudência.
 \v Ef.1.9
-E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que propôs nele,
-\fn
-provavelmente em Cristo
-\*fn
+E nos revelou o mistério da sua vontade, conforme o seu bom prazer, que nele propôs,
 \v Ef.1.10
-para a administração do cumprimento dos tempos, 
-\added
-isto é,
-\*added
- voltar a reunir todas as coisas em Cristo, tanto as que 
+para a administração do cumprimento dos tempos: reunir em Cristo todas as coisas, tanto as que 
 \added
 estão
 \*added
@@ -504,7 +500,7 @@ pois é vergonhoso até dizer o que eles fazem em segredo.
 Mas todas essas coisas, quando são reprovadas, tornam-se visíveis pela luz, porque tudo o que se se torna visível 
 é luz.
 \v Ef.5.14
-Por isso se diz: Desperta tu, que dormes, e levanta-te dos mortos, e Cristo te iluminará.
+Por isso se diz: “Desperta tu, que dormes, e levanta-te dos mortos, e Cristo te iluminará.”
 \v Ef.5.15
 Portanto vede cuidadosamente como vos conduzis,
 \fn

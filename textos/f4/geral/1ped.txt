@@ -165,15 +165,15 @@ toda carne
 \*key
 i.e. todos os seres humanos
 \*fn
- é como a erva, e toda {tr,rp:glória humana}{n4:a sua glória}{trnc:
-\fn
+ é como a erva, e toda {tr,rp:glória humana}{n4:a sua glória}
+{trnc:\fn
 TR, RP: glória humana – N4: sua glória
-\*fn
- } como a flor da erva. A erva se seca, e {tr,rp:sua}{n4:a} flor{trnc:
-\fn
+\*fn}
+ como a flor da erva. A erva se seca, e {tr,rp:sua}{n4:a} flor
+{trnc:\fn
 TR, RP: sua flor - N4: a flor
-\*fn
- } cai;
+\*fn}
+ cai;
 \v 1Pd.1.25
 mas a palavra do Senhor permanece para sempre.E esta é a palavra que foi evangelizada entre vós. 
 \ref
@@ -182,11 +182,11 @@ Isaías 40:6,8
 \v 1Pd.2.1
 Abandonai, portanto, toda malícia, toda enganação, fingimentos, invejas, e todas as falas maldosas,
 \v 1Pd.2.2
-e desejai ansiosamente, como bebês recém-nascidos, o leite da Palavra, não falsificado, para que por meio dele estejais crescendo{n4: para a salvação};{trnc:
-\fn
+e desejai ansiosamente, como bebês recém-nascidos, o leite da Palavra, não falsificado, para que por meio dele 
+estejais crescendo{n4: para a salvação};
+{trnc:\fn
 N4, F35 acrescentam “para a salvação” ao final do versículo
-\*fn
- }
+\*fn}
 \v 1Pd.2.3
 se, de fato, já experimentastes que o Senhor é bom.
 \v 1Pd.2.4

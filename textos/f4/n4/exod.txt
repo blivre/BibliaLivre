@@ -1069,7 +1069,7 @@ Porque partiram de Refidim, e chegaram ao deserto de Sinai, e assentaram no dese
 \v Ex.19.3
 E Moisés subiu a Deus; e o SENHOR o chamou desde o monte, dizendo: Assim dirás à casa de Jacó, e anunciarás aos filhos de Israel:
 \v Ex.19.4
-Vós vistes o que fiz aos egípcios, e como vos tomei sobre asas de águas, e vos trouxe a mim.
+Vós vistes o que fiz aos egípcios, e como vos tomei sobre asas de águias, e vos trouxe a mim.
 \v Ex.19.5
 Agora pois, se deres ouvido à minha voz, e guardardes meu pacto, vós sereis meu especial tesouro sobre todos os povos; porque minha é toda a terra.
 \v Ex.19.6
@@ -1984,23 +1984,46 @@ E vendo todo o povo a coluna de nuvem, que estava à porta do tabernáculo, leva
 \v Ex.33.11
 E falava o SENHOR a Moisés face a face, como fala qualquer um a seu companheiro. E voltava-se ao campo; mas o jovem Josué, seu criado, filho de Num, nunca se afastava do meio do tabernáculo.
 \v Ex.33.12
-E disse Moisés ao SENHOR: Olha, tu me dizes a mim: Tira este povo: e tu não me declaraste a quem hás de enviar comigo: porém, tu dizes: Eu te conheci por teu nome, e achaste também graça em meus olhos.
+E disse Moisés ao SENHOR: “Eis que tu me dizes: ‘Leva este povo’; porém tu não me declaraste quem enviarás comigo;
+contudo, disseste: ‘Eu te conheço pelo
+\added
+teu
+\*added
+ nome, e alcançaste favor em meus olhos.’
 \v Ex.33.13
-Agora, pois, se achei graça em teus olhos, rogo-te que me mostres agora teu caminho, para que te conheça, para que ache graça em teus olhos: e olha que teu povo é esta gente.
+Agora, pois, se alcancei favor em teus olhos, rogo-te que me mostres agora o teu caminho, para que te conheça, para
+que eu alcance favor em teus olhos; e vê que esta nação é o teu povo.
 \v Ex.33.14
-E ele disse: Meu rosto irá contigo, e te farei descansar.
+E ele disse: “Minha face irá
+\added
+contigo
+\*added
+, e te farei descansar.”
 \v Ex.33.15
-E ele respondeu: Se teu rosto não for comigo, não nos tires daqui.
+E ele respondeu: “Se a tua presença não for
+\added
+conosco
+\*added
+, não nos tires daqui.
 \v Ex.33.16
-E em que se conhecerá aqui que achei favor em teus olhos, eu e teu povo, se não em andar tu conosco, e que eu e teu povo sejamos separados de todos os povos que estão sobre a face da terra?
+Como se saberá agora que eu e o teu povo alcançamos favor em teus olhos? Não será em que tu andes conosco, e que eu e o
+teu povo sejamos distintos de todos os povos que estão sobre a face da terra?”
 \v Ex.33.17
-E o SENHOR disse a Moisés: Também farei isto que disseste, porquanto achaste favor em meus olhos, e te conheci por teu nome.
+E o SENHOR disse a Moisés: “Também farei isto que disseste, porque alcançaste favor em meus olhos, e te conheço pelo
+\added
+teu
+\*added
+ nome.”
 \v Ex.33.18
-O então disse: Rogo-te que me mostres tua glória.
+\added
+Moisés
+\*added
+, então, disse: “Rogo-te que me mostres a tua glória.”
 \v Ex.33.19
-E respondeu-lhe: Eu farei passar todo o meu bem diante de teu rosto, e proclamarei o nome do SENHOR diante de ti; e terei misericórdia do que terei misericórdia, e serei clemente para com o que serei clemente.
+E respondeu-lhe: “Eu farei passar toda a minha bondade diante de ti, e proclamarei o nome do SENHOR diante de ti; e
+concederei favor a quem eu conceder favor, e terei misericórdia de quem eu tiver misericórdia.”
 \v Ex.33.20
-Disse mais: Não poderás ver meu rosto: porque não me verá homem, e viverá.
+Disse mais: “Não poderás ver a minha face, porque homem nenhum me verá e viverá.”
 \v Ex.33.21
 E disse ainda o SENHOR: Eis aqui um lugar junto a mim, e tu estarás sobre a rocha:
 \v Ex.33.22

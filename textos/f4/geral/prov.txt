@@ -232,13 +232,13 @@ Que a bondade e a fidelidade não te desamparem; amarra-as junto ao teu pescoço
 \v Prv.3.4
 Então tu acharás graça e bom entendimento, aos olhos de Deus e dos homens.
 \v Prv.3.5
-Confia no SENHOR com todo o teu coração; e não te apoies em teu 
+Confia no SENHOR com todo o teu coração, e não te apoies no teu 
 \added
 próprio
 \*added
  entendimento.
 \v Prv.3.6
-Dá reconhecimento a ele em todas os teus caminhos; e ele endireitará tuas veredas.
+Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.
 \v Prv.3.7
 Não sejas sábio aos teus 
 \added
@@ -394,29 +394,29 @@ ficar claro
 \*added
  por completo.
 \v Prv.4.19
-O caminho dos perversos é como a escuridão; não sabem nem em que tropeçam.
+O caminho dos perversos é como a escuridão; não sabem em que tropeçam.
 \v Prv.4.20
-Filho meu, presta atenção às minhas palavras; e ouve as minhas instruções.
+Meu filho, presta atenção às minhas palavras; dá ouvido às minhas instruções.
 \v Prv.4.21
-Não as deixes ficarem longe de teus olhos; guarda-as no meio de teu coração.
+Não as deixes se afastarem dos teus olhos; guarda-as no meio do teu coração.
 \v Prv.4.22
-Porque são vida para aqueles que as encontram; e saúde para todo o seu corpo.
+Porque são vida para os que as encontram; e saúde para todo o seu corpo.
 \v Prv.4.23
 Acima de tudo o que se deve guardar, guarda o teu coração; porque dele 
 \added
 procedem
 \*added
- as saídas da vida.
+ as fontes da vida.
 \v Prv.4.24
-Afasta de ti a perversidade da boca; e põe longe de ti a corrupção dos lábios.
+Remove de ti a perversidade da boca; e afasta de ti a corrupção dos lábios.
 \v Prv.4.25
-Teus olhos olhem direito; tuas pálpebras estejam corretas diante de ti.
+Que os teus olhos olhem direito; que tuas pálpebras se voltem para diretamente diante de ti.
 \v Prv.4.26
 Pondera o curso de teus pés; e todos os teus caminhos sejam bem ordenados.
 \v Prv.4.27
 Não te desvies nem para a direita, nem para a esquerda; afasta teus pés do mal.
 \v Prv.5.1
-Filho meu, presta atenção à minha sabedoria, inclina teus ouvidos ao meu entendimento.
+Meu filho, presta atenção à minha sabedoria, inclina teus ouvidos ao meu entendimento.
 \v Prv.5.2
 Para que guardes o bom-senso; e teus lábios conservem o conhecimento.
 \v Prv.5.3
@@ -473,15 +473,15 @@ e
 \v Prv.5.17
 Sejam somente para ti, e não para os estranhos contigo.
 \v Prv.5.18
-Seja bendito o teu manancial, e alegra-te com a mulher de tua juventude.
+Seja bendito o teu manancial, e alegra-te com a mulher de tua juventude,
 \v Prv.5.19
- 
 \added
-Seja ela
+como
 \*added
- uma cerva amorosa e gazela graciosa; que os seios dela te fartem em todo tempo; e anda pelo caminho do amor dela continuamente.
+ uma cerva amorosa e gazela graciosa; que os seios dela te satisfaçam em todo tempo; e anda pelo caminho do amor dela 
+continuamente.
 \v Prv.5.20
-E por que tu, filho meu, andarias perdido pela estranha, e abraçarias o peito da 
+E por que tu, meu filho, andarias seduzido pela estranha, e abraçarias o peito da 
 \added
 mulher
 \*added
@@ -501,13 +501,12 @@ próprio
 \v Prv.5.23
 Ele morrerá pela falta de correção; e andará sem rumo pela grandeza de sua loucura.
 \v Prv.6.1
-Filho meu, se ficaste fiador por teu próximo, 
+Meu filho, se ficaste fiador por teu próximo, 
 \added
 se
 \*added
  deste tua garantia ao estranho;
 \v Prv.6.2
- 
 \added
 Se
 \*added
@@ -587,15 +586,14 @@ Porque pela mulher prostituta
 \added
 chega-se a pedir
 \*added
- um pedaço de pão; e a mulher de 
-\added
-outro
-\*added
- homem anda à caça de uma alma preciosa.
+ um pedaço de pão; e a mulher adúltera
+\fn
+Lit. mulher de (algum) homem
+\*fn
+ anda à caça de uma alma preciosa.
 \v Prv.6.27
 Por acaso pode alguém botar fogo em seu peito, sem que suas roupas se queimem?
 \v Prv.6.28
- 
 \added
 Ou
 \*added
@@ -1127,7 +1125,7 @@ Ora, se o justo recebe seu pagamento na terra, quanto mais o perverso e o pecado
 \v Prv.12.1
 Aquele que ama a correção ama o conhecimento; mas aquele que odeia a repreensão é um bruto.
 \v Prv.12.2
-O homem de bem ganha o favor do SENHOR; mas ao homem de pensamentos perversos, ele o condenará.
+O homem de bem obterá o favor do SENHOR; mas ao homem de maus pensamentos, ele condenará.
 \v Prv.12.3
 O homem não prevalecerá pela perversidade; mas a raiz dos justos não será removida.
 \v Prv.12.4
@@ -1956,7 +1954,7 @@ Quem faz misericórdia ao pobre empresta ao SENHOR; e ele lhe pagará sua recomp
 \v Prv.19.18
 Castiga a teu filho enquanto há esperança; mas não levantes tua alma para o matar.
 \v Prv.19.19
-Aquele que tem grande irá será punido; porque se tu 
+Quem tem grande ira deve ser punido; porque se tu 
 \added
 o
 \*added
@@ -1966,7 +1964,7 @@ Ouve o conselho, e recebe a disciplina; para que sejas sábio nos teus últimos
 \added
 dias
 \*added
- .
+.
 \v Prv.19.21
 Há muitos pensamentos no coração do homem; porém o conselho do SENHOR prevalecerá.
 \v Prv.19.22
@@ -2255,19 +2253,11 @@ e do
 \*added
  temor ao SENHOR são riquezas, honra, e vida.
 \v Prv.22.5
- 
-\added
-Há
-\*added
- espinhos e ciladas no caminho do perverso; quem cuida de sua alma deve ficar longe de 
-\added
-tal caminho
-\*added
- .
+Há espinhos e ciladas no caminho do perverso; quem guarda sua alma fica longe deles.
 \v Prv.22.6
-Instrui ao menino em seu caminho, e até quando envelhecer, não se desviará dele.
+Instrui ao menino no caminho em que deve andar, e até quando envelhecer não se desviará dele.
 \v Prv.22.7
-O rico domina sobre os pobres, e quem toma emprestado é servo daquele que empresta.
+O rico domina sobre os pobres, e quem toma emprestado é servo do que empresta.
 \v Prv.22.8
 Aquele que semeia perversidade colherá sofrimento; e a vara de sua ira se acabará.
 \v Prv.22.9
@@ -3168,11 +3158,13 @@ Xeol é o lugar dos mortos
 \*fn
  o útero estéril, a terra que não se farta de água, e o fogo que nunca diz estar satisfeito.
 \v Prv.30.17
-Os olhos que zombam do pai ou desprezam obedecer à mãe, os corvos do riacho os arrancarão, e os filhotes de abutre os comerão.
+Os olhos que zombam do pai ou desprezam obedecer à mãe, os corvos do riacho os arrancarão, e os filhotes de abutre 
+os comerão.
 \v Prv.30.18
 Estas três coisas me maravilham, e quatro que não entendo:
 \v Prv.30.19
-O caminho da águia no céu, o caminho da serpente na rocha, o caminho do navio no meio do mar, e o caminho do homem com uma moça.
+O caminho da águia no céu, o caminho da serpente na rocha, o caminho do navio no meio do mar, e o caminho do 
+homem com uma moça.
 \v Prv.30.20
 Assim é o caminho da mulher adúltera: ela come, limpa sua boca, e diz: Não fiz mal algum.
 \v Prv.30.21

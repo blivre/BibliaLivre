@@ -51,7 +51,7 @@ E foi a tarde e a manhã, o dia quarto.
 \v Gn.1.20
 E disse Deus: Produzam as águas répteis de alma vivente, e aves que voem sobre a terra, na expansão aberta dos céus.
 \v Gn.1.21
-E criou Deus as grandes criaturas marinhas, e toda coisa viva que anda arrastando, que as águas produziram segundo a sua espécie, e toda ave de asas segundo sua espécie: e viu Deus que era bom.
+E criou Deus as grandes criaturas marinhas, e toda coisa viva que rasteja, que as águas produziram segundo a sua espécie, e toda ave de asas segundo sua espécie: e viu Deus que era bom.
 \v Gn.1.22
 E Deus os abençoou dizendo: Frutificai e multiplicai, e enchei as águas nos mares, e as aves se multipliquem na terra.
 \v Gn.1.23
@@ -59,9 +59,11 @@ E foi a tarde e a manhã, o dia quinto.
 \v Gn.1.24
 E disse Deus: Produza a terra seres viventes segundo a sua espécie, animais e serpentes e animais da terra segundo sua espécie: e foi assim.
 \v Gn.1.25
-E fez Deus animais da terra segundo a sua espécie, e gado segundo a sua espécie, e todo animal que anda arrastando sobre a terra segundo sua espécie: e viu Deus que era bom.
+E fez Deus animais da terra segundo a sua espécie, e gado segundo a sua espécie, e todo animal que rasteja 
+sobre a terra segundo sua espécie; e viu Deus que era bom.
 \v Gn.1.26
-E disse Deus: Façamos ao ser humano à nossa imagem, conforme nossa semelhança; e domine os peixes do mar, e as aves dos céus, e os animais, e toda a terra, e todo animal que anda arrastando sobre a terra.
+E disse Deus: Façamos ao ser humano à nossa imagem, conforme nossa semelhança; e domine sobre os peixes do mar, 
+sobre as aves dos céus, sobre o gado, sobre toda a terra, e sobre todo animal que rasteja sobre a terra.
 \v Gn.1.27
 E criou Deus o ser humano à sua imagem, à imagem de Deus o criou; macho e fêmea os criou.
 \v Gn.1.28
@@ -362,7 +364,7 @@ E sendo Noé de seiscentos anos, o dilúvio das águas foi sobre a terra.
 \v Gn.7.7
 E veio Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele à arca, por causa das águas do dilúvio.
 \v Gn.7.8
-Dos animais limpos, e dos animais que não eram limpos, e das aves, e de todo o que anda arrastando sobre a terra,
+Dos animais limpos, e dos animais que não eram limpos, e das aves, e de todo o que rasteja sobre a terra,
 \v Gn.7.9
 De dois em dois entraram a Noé na arca: macho e fêmea, como mandou Deus a Noé.
 \v Gn.7.10
@@ -374,7 +376,9 @@ E houve chuva sobre a terra quarenta dias e quarenta noites.
 \v Gn.7.13
 Neste mesmo dia entrou Noé, e Sem, e Cam e Jafé, filhos de Noé, a mulher de Noé, e as três mulheres de seus filhos com ele na arca;
 \v Gn.7.14
-Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo réptil que anda arrastando sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie de animal voador.
+Eles e todos os animais silvestres segundo suas espécies, e todos os animais mansos segundo suas espécies, e todo 
+réptil que rasteja sobre a terra segundo sua espécie, e toda ave segundo sua espécie, todo pássaro, toda espécie 
+de animal voador.
 \v Gn.7.15
 E vieram a Noé à arca, de dois em dois de toda carne em que havia espírito de vida.
 \v Gn.7.16
@@ -388,7 +392,8 @@ E as águas prevaleceram muito em extremo sobre a terra; e todos os montes altos
 \v Gn.7.20
 Quinze côvados em altura prevaleceram as águas; e foram cobertos os montes.
 \v Gn.7.21
-E morreu toda carne que se move sobre a terra, tanto de aves como de gados, e de animais, e de todo réptil que anda arrastando sobre a terra, e todo ser humano:
+E morreu toda carne que se move sobre a terra, tanto de aves como de gados, e de animais, e de todo réptil 
+que rasteja sobre a terra, e todo ser humano:
 \v Gn.7.22
 Tudo o que tinha fôlego de espírito de vida em suas narinas, de tudo o que havia na terra, morreu.
 \v Gn.7.23
@@ -428,7 +433,8 @@ E falou Deus a Noé dizendo:
 \v Gn.8.16
 Sai da arca tu, a tua mulher, os teus filhos, e as mulheres dos teus filhos contigo.
 \v Gn.8.17
-Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que anda arrastando sobre a terra, tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra.
+Todos os animais que estão contigo de toda carne, de aves e de animais e de todo réptil que rasteja sobre a terra, 
+tirarás contigo; e vão pela terra, e frutifiquem, e multipliquem-se sobre a terra.
 \v Gn.8.18
 Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.
 \v Gn.8.19
@@ -758,7 +764,7 @@ Que desde um fio até a correia de um calçado, nada tomarei de tudo o que é te
 \v Gn.14.24
 Tirando somente o que os rapazes comeram, e a porção dos homens que foram comigo, Aner, Escol, e Manre; eles tomem a sua parte.
 \v Gn.15.1
-Depois destas coisas a palavra do SENHOR veio a Abrão em visão, dizendo: Não temas, Abrão; eu sou o teu escudo; 
+Depois destas coisas, a palavra do SENHOR veio a Abrão em visão, dizendo: Não temas, Abrão; eu sou o teu escudo; 
 a tua recompensa será muito grande.
 \fn
 Ou: eu sou o teu escudo, e tua muito grande recompensa
@@ -774,47 +780,54 @@ Disse mais Abrão: Eis que não me deste descendência, e eis que meu herdeiro �
 \v Gn.15.4
 E logo a palavra do SENHOR veio a ele dizendo: Não esse não herdará de ti, mas sim o que sairá de tuas entranhas será o que de ti herdará.
 \v Gn.15.5
-E tirou-lhe fora, e disse: Olha agora aos céus, e conta as estrelas, se as podes contar. E lhe disse: Assim será tua descendência.
+E o levou para fora, e disse: “Olha agora aos céus, e conta as estrelas, se as podes contar.” E lhe disse: 
+“Assim será a tua descendência.”
 \v Gn.15.6
-E creu ao SENHOR, e contou-lhe por justiça.
+E ele creu no SENHOR, que considerou-lhe isso por justiça.
 \v Gn.15.7
-E disse-lhe: Eu sou o SENHOR, que te tirei de Ur dos caldeus, para dar-te a herdar esta terra.
+E disse-lhe: “Eu sou o SENHOR, que te tirei de Ur dos caldeus, para te dar a herdar esta terra.”
 \v Gn.15.8
-E ele respondeu: Senhor DEUS, com que saberei que a vou herdar?
+E ele respondeu: “Senhor DEUS, com que saberei que irei herdá-la?”
 \v Gn.15.9
-E lhe disse: Separa-me uma bezerra de três anos, e uma cabra de três anos, e um carneiro de três anos, uma rolinha também, e um pombinho.
+E lhe disse: “Separa-me uma bezerra de três anos, e uma cabra de três anos, e um carneiro de três anos, uma rolinha 
+também, e um pombinho.”
 \v Gn.15.10
-E tomou ele todas estas coisas, e partiu-as pela metade, e pôs cada metade uma em frente de outra; mas não partiu as aves.
+E ele tomou todas estas coisas, e partiu-as pela metade, e pôs cada metade uma em frente de outra; mas não partiu as aves.
 \v Gn.15.11
-E desciam aves sobre os corpos mortos, e enxotava-as Abrão.
+E aves desciam sobre os cadáveres, mas Abrão as enxotava.
 \v Gn.15.12
 Mas ao pôr do sol veio o sono a Abrão, e eis que o pavor de uma grande escuridão caiu sobre ele.
 \v Gn.15.13
-Então disse a Abrão: Tem certeza que a tua descendência será peregrina em terra que não é sua, e serão escravizados e afligidos por quatrocentos anos.
+Então disse a Abrão: “Saibas com certeza que a tua descendência será peregrina em terra que não é sua, e serão 
+escravizados e afligidos por quatrocentos anos.
 \v Gn.15.14
 Mas também a nação a quem servirão, eu julgarei; e depois disto sairão com grande riqueza.
 \v Gn.15.15
-Tu, porém, virás aos teus pais em paz, e serás sepultado em boa velhice.
+Tu, porém, irás aos teus pais em paz, e serás sepultado em boa velhice.
 \v Gn.15.16
-E na quarta geração voltarão para cá; porque ainda não está completa a maldade dos amorreus até aqui.
+E na quarta geração voltarão para cá; porque ainda não está completa a maldade dos amorreus até aqui.”
 \v Gn.15.17
-E sucedeu que, depois de posto o sol, e já estando escuro, apareceu um fogo fumegando, e uma tocha de fogo que passou por entre os animais divididos.
+E sucedeu que, depois de posto o sol, e já estando escuro, apareceu um fogo fumegante, e uma tocha de fogo que passou 
+por entre os animais divididos.
 \v Gn.15.18
-Naquele dia fez o SENHOR um pacto com Abrão dizendo: À tua descendência darei esta terra desde o rio do Egito até o rio grande, o rio Eufrates;
+Naquele dia o SENHOR fez um pacto com Abrão, dizendo: “À tua descendência darei esta terra, desde o rio do Egito até o 
+rio grande, o rio Eufrates;
 \v Gn.15.19
-Os queneus, e os quenezeus, e os cadmoneus,
+os queneus, e os quenezeus, e os cadmoneus,
 \v Gn.15.20
-E os heteus, e os perizeus, e os refains,
+os heteus, e os perizeus, e os refains,
 \v Gn.15.21
-E os amorreus, e os cananeus, e os girgaseus, e os jebuseus.
+os amorreus, e os cananeus, e os girgaseus, e os jebuseus.”
 \v Gn.16.1
-E Sarai, mulher de Abrão não lhe dava filho: e ela tinha uma serva egípcia, que se chamava Agar.
+Ora, Sarai, esposa de Abrão não lhe dava filho; e ela tinha uma serva egípcia, que se chamava Agar.
 \v Gn.16.2
-Disse, pois, Sarai a Abrão: Já vês que o SENHOR me fez estéril: rogo-te que entres a minha serva; talvez terei filhos dela. E atendeu Abrão ao dito de Sarai.
+Disse, pois, Sarai a Abrão: Já vês que o SENHOR me fez estéril; rogo-te que entres a minha serva; talvez terei filhos dela. 
+E Abrão atendeu ao dito de Sarai.
 \v Gn.16.3
-E Sarai, mulher de Abrão, tomou a Agar sua serva egípcia, ao fim de dez anos que havia habitado Abrão na terra de Canaã, e deu-a a Abrão seu marido por mulher.
+E Sarai, esposa de Abrão, tomou a Agar, sua serva egípcia, ao fim de dez anos que havia habitado Abrão na terra de Canaã, 
+e a deu a Abrão, seu marido, por mulher.
 \v Gn.16.4
-E ele se deitou com Agar, a qual concebeu: e quando viu que havia concebido, olhava com desprezo à sua senhora.
+E ele se deitou com Agar, a qual concebeu; e quando viu que havia concebido, olhava com desprezo à sua senhora.
 \v Gn.16.5
 Então Sarai disse a Abrão: Minha afronta seja sobre ti; eu pus minha serva em teus braços, e vendo-se grávida, me olha com desprezo; julgue o SENHOR entre mim e ti.
 \v Gn.16.6
@@ -1155,11 +1168,14 @@ E Abraão se levantou manhã muito cedo, e preparou seu asno, e tomou consigo do
 \v Gn.22.4
 Ao terceiro dia levantou Abraão seus olhos, e viu o lugar de longe.
 \v Gn.22.5
-Então disse Abraão a seus servos: Esperai aqui com o asno, e eu e o jovem iremos até ali, e adoraremos, e voltaremos a vós.
+Então disse Abraão a seus servos: Esperai aqui com o asno, e eu e o jovem iremos até ali, e adoraremos, e voltaremos 
+até vós.
 \v Gn.22.6
-E tomou Abraão a lenha do holocausto, e a pôs sobre Isaque seu filho: e ele tomou em sua mão o fogo e a espada; e foram ambos juntos.
+E tomou Abraão a lenha do holocausto, e a pôs sobre Isaque seu filho; e ele tomou em sua mão o fogo e a espada; e 
+foram ambos juntos.
 \v Gn.22.7
-Então falou Isaque a Abraão seu pai, e disse: Meu pai. e ele respondeu: Eis-me aqui, meu filho. E ele disse: Eis aqui o fogo e a lenha; mas onde está o cordeiro para o holocausto?
+Então Isaque falou a Abraão, seu pai, dizendo: Meu pai. e ele respondeu: Eis-me aqui, meu filho. E ele disse: Eis 
+aqui o fogo e a lenha; mas onde está o cordeiro para o holocausto?
 \v Gn.22.8
 E respondeu Abraão: Deus se proverá de cordeiro para o holocausto, filho meu. E iam juntos.
 \v Gn.22.9
@@ -2724,21 +2740,26 @@ E eles responderam: Bem vai a teu servo nosso pai; ainda vive. E se inclinaram, 
 \v Gn.43.29
 E levantando ele seus olhos viu Benjamim seu irmão, filho de sua mãe, e disse: É este vosso irmão mais novo, de quem me falastes? E disse: Deus tenha misericórdia de ti, filho meu.
 \v Gn.43.30
-Então José se apressou, porque se comoveram suas entranhas por causa de seu irmão, e procurou onde chorar: e entrou-se em sua câmara, e chorou ali.
+Então José se apressou, porque suas entranhas se comoveram por causa de seu irmão, e procurou onde chorar; e 
+entrou em sua câmara, e chorou ali.
 \v Gn.43.31
-E lavou seu rosto, e saiu fora, e controlou-se, e disse: Ponde pão.
+Depois lavou seu rosto, saiu, controlou-se, e disse: Ponde pão.
 \v Gn.43.32
-E puseram para ele à parte, e separadamente para eles, e à parte para os egípcios que com ele comiam: porque os egípcios não podem comer pão com os hebreus, o qual é abominação aos egípcios.
+E puseram para ele à parte, e separadamente para eles, e à parte para os egípcios que com ele comiam; porque os 
+egípcios não podem comer pão com os hebreus, o qual é abominação aos egípcios.
 \v Gn.43.33
 E sentaram-se diante dele, o mais velho conforme sua primogenitura, e o mais novo conforme sua idade menor; e estavam aqueles homens atônitos olhando-se um ao outro.
 \v Gn.43.34
-E ele tomou iguarias de diante de si para eles; mas a porção de Benjamim era cinco vezes como qualquer uma das deles. E beberam, e alegraram-se com ele.
+E ele tomou porções de comida de diante de si para eles; mas a porção de Benjamim era cinco vezes maior que a de 
+qualquer um deles. E beberam, e alegraram-se com ele.
 \v Gn.44.1
-E mandou José ao mordomo de sua casa, dizendo: Enche os sacos destes homens de alimentos, quanto puderem levar, e põe o dinheiro de cada um na boca de seu saco:
+E José mandou ao mordomo de sua casa, dizendo: Enche os sacos destes homens de alimentos, quanto puderem levar, e 
+põe o dinheiro de cada um na boca de seu saco;
 \v Gn.44.2
-E porás meu copo, o copo de prata, na boca do saco do mais novo, com o dinheiro de seu trigo. E ele fez como disse José.
+e porás meu copo, o copo de prata, na boca do saco do mais novo, com o dinheiro de seu trigo. E ele fez como 
+José dissera.
 \v Gn.44.3
-Vinda a manhã, os homens foram despedidos com seus asnos.
+Vinda a manhã, os homens foram despedidos com seus jumentos.
 \v Gn.44.4
 Havendo eles saído da cidade, da qual ainda não haviam se afastado, disse José a seu mordomo: Levanta-te, e segue a esses homens; e quando os alcançares, dize-lhes: Por que retribuístes com o mal pelo bem?
 \v Gn.44.5

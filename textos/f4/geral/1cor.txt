@@ -13,7 +13,8 @@ Primeira Carta de Paulo aos Coríntios
 \v 1Co.1.1
 Paulo, chamado apóstolo de Jesus Cristo pela vontade de Deus, e o irmão Sóstenes,
 \v 1Co.1.2
-À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo lugar invocam o nome de nosso Senhor Jesus Cristo, 
+À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo 
+lugar invocam o nome de nosso Senhor Jesus Cristo, 
 \added
 Senhor
 \*added
@@ -460,7 +461,7 @@ N4 omite: “e em vosso espírito, que são de Deus”
 TR, RP acrescentam: “e em vosso espírito, que são de Deus”
 \*fn}
 \v 1Co.7.1
-E sobre as coisas que me escrevestes, bom é para o homem não tocar mulher.
+E sobre as coisas que me escrevestes, é bom que o homem não toque em mulher.
 \v 1Co.7.2
 Mas por causa dos pecados sexuais, tenha cada um sua própria mulher, e cada uma tenha seu próprio marido.
 \v 1Co.7.3
@@ -988,13 +989,10 @@ Porque se nós julgássemos a nós mesmos, não seríamos julgados.
 \v 1Co.11.32
 Mas quando somos julgados, somos repreendidos pelo Senhor; para que não sejamos condenados com o mundo.
 \v 1Co.11.33
-Portanto, meus irmãos, quando vos ajuntardes para comer, esperai uns aos outros.
+Portanto, meus irmãos, quando vos reunirdes para comer, esperai uns pelos outros.
 \v 1Co.11.34
-Porém se alguém tiver fome, coma em casa; para que não vos ajunteis para 
-\added
-sofrerdes
-\*added
- julgamento. Quanto às demais coisas, as ordenarei quando vier.
+Porém, se alguém tiver fome, coma em casa; para que não vos reunais para condenação. Quanto às demais coisas, 
+eu as ordenarei quando chegar.
 \v 1Co.12.1
 E quanto aos 
 \added
