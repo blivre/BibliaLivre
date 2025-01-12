@@ -197,12 +197,10 @@ Todos os que estão comigo te saúdam. Saúda tu aos que nos amam na fé. A gra�
 \added
 seja
 \*added
- com todos vós. Amém!{tr: 
-\added
-A carta a Tito, o primeiro bispo escolhido da igreja dos cretenses, foi escrita de Nicópolis na Macedônia
-\*added
- }{trnc:
-\fn
-RP, N4 não contêm informação de onde a carta foi escrita
-\*fn
- }
+ com todos vós. Amém!
+{tr}\added
+{tr}A carta a Tito, o primeiro bispo escolhido da igreja dos cretenses, foi escrita de Nicópolis na Macedônia
+{tr}\*added
+{trnc}\fn
+{trnc}RP, N4 não contêm informação de onde a carta foi escrita
+{trnc}\*fn

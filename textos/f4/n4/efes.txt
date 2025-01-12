@@ -11,7 +11,8 @@ Ef
 EPH
 \*ubs-code
 \v Ef.1.1
-Paulo, apóstolo de Cristo Jesus
+Paulo, apóstolo de 
+Cristo Jesus
  pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
 \v Ef.1.2
 Graça e paz, da parte de Deus nosso Pai, e do Senhor Jesus Cristo, 
@@ -31,7 +32,8 @@ em amor.
 \v Ef.1.5
 E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
 \v Ef.1.6
-para louvor da glória de sua graça, a qual nos concedeu gratuitamente
+para louvor da glória de sua graça, 
+a qual nos concedeu gratuitamente
 \fn
 TR, RP: pela qual nos tornou aceitos
 \*fn
@@ -39,7 +41,7 @@ TR, RP: pela qual nos tornou aceitos
 \v Ef.1.7
 Nele temos a libertação
 \fn
-Ou: redenção, isto é, a libertação por meio do pagamento de um resgate
+Ou: redenção, i.e. a libertação por meio do pagamento de um resgate
 \*fn
  pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
 \v Ef.1.8
@@ -93,7 +95,9 @@ Lit. Pai da glória
 \*fn
 , vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
 \v Ef.1.18
-e que sejam iluminados os olhos do vosso coração,
+e que sejam iluminados os olhos do vosso 
+coração
+,
  para que conheçais qual é a esperança para a qual ele chamou, quais 
 \added
 são
@@ -115,7 +119,9 @@ para a Igreja,
 \v Ef.1.23
 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
 \v Ef.2.1
-E vós estáveis mortos em vossas ofensas
+E vós estáveis mortos em
+ vossas
+ ofensas
  e pecados,
 \v Ef.2.2
 nos quais antes andastes conforme o proceder deste mundo, conforme o príncipe do poder do ar, do espírito que agora 
@@ -191,7 +197,8 @@ Ele veio, e proclamou o evangelho da paz a vós que
 \added
 estáveis
 \*added
- longe, e paz
+ longe, e
+ paz
  aos que estavam perto.
 \v Ef.2.18
 Pois por meio dele ambos temos acesso ao Pai por um 
@@ -202,7 +209,8 @@ mesmo
 \v Ef.2.19
 Portanto, já não sois estrangeiros, nem forasteiros, mas sim, concidadãos dos santos, e membros da família de Deus,
 \v Ef.2.20
-edificados sobre o fundamento dos apóstolos e dos profetas, do qual Cristo Jesus
+edificados sobre o fundamento dos apóstolos e dos profetas, do qual 
+Cristo Jesus
  é a pedra principal da esquina.
 \v Ef.2.21
 Nele o edifício todo, bem ajustado, cresce para 
@@ -256,7 +264,8 @@ isto é,
 membros
 \*added
  de um mesmo corpo, e participantes da
- promessa em Cristo Jesus
+ promessa em Cristo
+ Jesus
  por meio do evangelho.
 \v Ef.3.7
 Eu fui feito servidor desse 
@@ -265,12 +274,13 @@ evangelho
 \*added
  conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
 \v Ef.3.8
-A mim, o menor de todos os santos, foi dada esta graça de anunciar aos gentios,
- por meio do Evangelho, as 
-inimagináveis riquezas de Cristo,
+A mim, o menor de todos os santos, foi dada esta graça de anunciar 
+aos gentios,
+ por meio do Evangelho, as inimagináveis riquezas de Cristo,
 \v Ef.3.9
 E para esclarecer
- qual é a administração
+ qual é a 
+administração
 \fn
 Ou, tradicionalmente: dispensação
 \*fn
@@ -299,9 +309,10 @@ vos
 \*added
  peço que não vos desanimeis em minhas aflições por vós. Elas são a vossa glória.
 \v Ef.3.14
-Por causa disso me ponho de joelhos diante do Pai;
+Por causa disso me ponho de joelhos diante do Pai
+;
 \fn
-TR, RP acrescentam: “do nosso Senhor Jesus Cristo” ao fim do versículo 
+TR, RP contêm adicionalmente: “do nosso Senhor Jesus Cristo” ao fim do versículo 
 \*fn
 \v Ef.3.15
 do qual toda a família nos céus e na terra recebe nome.
@@ -333,7 +344,9 @@ e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios d
 \v Ef.3.20
 E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
 \v Ef.3.21
-a ele seja a glória na Igreja, e em
+a ele seja a glória na Igreja,
+ e
+ em
  Cristo Jesus, por todas as gerações para todo o sempre, Amém!
 \v Ef.4.1
 Portanto, eu, o prisioneiro no Senhor, rogo-vos que andeis como é digno do chamado com que fostes chamados,
@@ -374,7 +387,8 @@ um
 \added
 só
 \*added
- Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos.
+ Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos
+.
 \v Ef.4.7
 Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo.
 \v Ef.4.8
@@ -457,7 +471,9 @@ Lit. Irai-vos, e não pequeis
 \v Ef.4.27
 nem deis lugar ao diabo.
 \v Ef.4.28
-O que furtava, não furte mais; em vez disso, trabalhe, operando com as próprias mãos
+O que furtava, não furte mais; em vez disso, trabalhe, operando com as
+ próprias
+ mãos
  o bem, para que tenha o que repartir com o que tiver necessidade.
 \v Ef.4.29
 Não saia de vossa boca palavra imoral; mas sim a boa para a edificação conforme a necessidade; para que comunique graça aos que a ouvem.
@@ -474,7 +490,8 @@ perdoou em Cristo.
 \v Ef.5.1
 Portanto, sede imitadores de Deus, como filhos amados;
 \v Ef.5.2
-e andai em amor, como também Cristo vos
+e andai em amor, como também Cristo 
+vos
  amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
 \v Ef.5.3
 Mas o pecado sexual, e toda impureza ou cobiça, nem mesmo se nomeie entre vós, como convém a santos;
@@ -497,7 +514,8 @@ sois
 \*added
  luz no Senhor; andai como filhos da luz
 \v Ef.5.9
-(porque o fruto da luz
+(porque o fruto 
+da luz
 \fn
 TR, RP: fruto do Espírito 
 \*fn
@@ -533,7 +551,9 @@ falando entre vós com salmos, hinos e cânticos espirituais; cantando e louvand
 \v Ef.5.20
 agradecendo sempre por tudo a Deus, o Pai, no nome do nosso Senhor Jesus Cristo;
 \v Ef.5.21
-sujeitando-vos uns aos outros no temor a Cristo.
+sujeitando-vos uns aos outros no temor a 
+Cristo
+.
 \v Ef.5.22
 Mulheres, 
 \added
@@ -547,7 +567,8 @@ Mas, assim como a Igreja está sujeita a Cristo, assim também as mulheres
 \added
 estejam
 \*added
- em tudo sujeitas aos maridos.
+ em tudo sujeitas aos
+ maridos.
 \v Ef.5.25
 Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela;
 \v Ef.5.26
@@ -567,10 +588,10 @@ pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assi
 Cristo
  à Igreja.
 \v Ef.5.30
-pois somos membros de seu corpo.
- 
+pois somos membros de seu corpo
+.
 \fn
-TR, RP acrescentam: “da sua carne, e dos seus ossos” ao fim do versículo 
+TR, RP contêma adicionalmente: “da sua carne, e dos seus ossos” ao fim do versículo 
 \*fn
 \v Ef.5.31
 Por isso o homem deixará o
@@ -629,8 +650,9 @@ Por fim,
 \v Ef.6.11
 Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as ciladas do diabo.
 \v Ef.6.12
-Pois temos de lutar não contra carne e sangue, mas sim contra os domínios e poderes, contra os senhores 
-destas trevas,
+Pois temos de lutar não contra carne e sangue, mas sim contra os principados e poderes, contra os dominadores 
+ destas trevas
+,
  contra os males espirituais nos lugares celestes.
 \v Ef.6.13
 Portanto pegai toda a armadura de Deus, para que possais resistir no dia mal, e depois que fizerdes tudo, continuar firmes.
@@ -679,4 +701,3 @@ com amor que não falha
 \*key
 Lit. em incorrupção
 \*fn
- 

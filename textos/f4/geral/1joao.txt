@@ -5,7 +5,7 @@ Primeira Carta Universal de João
 1 João
 \*name-short
 \abbreviation
-1Jo
+1Joao
 \*abbreviation
 \ubs-code
 1JN
@@ -23,20 +23,27 @@ o que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunh
 \*added
  com o Pai, e com o seu Filho Jesus Cristo.
 \v 1Jo.1.4
-Estas coisas{tr,rp: vos} escrevemos
-{trnc:\fn
-N4 não contém “vos”
-\*fn}
- para que a {tr:vossa}{rp,n4:nossa} alegria seja completa.
+Estas coisas
+{tr|rp} vos
+ escrevemos
+{trnc}\fn
+{trnc}N4 não contém “vos”
+{trnc}\*fn
+ para que a 
+{tr}vossa
+{rp|n4}nossa
+ alegria seja completa.
 \v 1Jo.1.5
 E esta é a mensagem que dele ouvimos, e vos anunciamos: que Deus é luz, e não há nele nada de trevas.
 \v 1Jo.1.6
 Se dissermos que temos comunhão com ele, e andarmos em trevas, mentimos, e não praticamos a verdade.
 \v 1Jo.1.7
-Porém, se andamos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus{tr,rp: Cristo},
-{trnc:\fn
-N4 não contém “Cristo”
-\*fn}
+Porém, se andamos na luz, como ele está na luz, temos comunhão uns com os outros, e o sangue de Jesus
+{tr|rp} Cristo
+,
+{trnc}\fn
+{trnc}N4 não contém “Cristo”
+{trnc}\*fn
  seu Filho, nos purifica de todo pecado.
 \v 1Jo.1.8
 Se dissermos que não temos pecado, enganamos a nós mesmos, e a verdade não está em nós.
@@ -58,15 +65,19 @@ Mas quem guarda a sua palavra, nele verdadeiramente o amor de Deus tem se aperfe
 \v 1Jo.2.6
 Aquele que diz que está nele também deve andar como ele andou.
 \v 1Jo.2.7
-{tr,rp:Irmãos}{n4:Amados},
-{trnc:\fn
-N4: Amados
-\*fn}
+{tr|rp}Irmãos
+{n4}Amados
+,
+{trnc}\fn
+{trnc}N4: Amados
+{trnc}\*fn
  não vos escrevo um mandamento novo, mas sim o mandamento antigo, que tivestes desde o 
-princípio. Este mandamento antigo é a palavra que ouvistes{tr,rp: desde o princípio}.
-{trnc:\fn
-N4 não contém “desde o princípio” depois de “ouvistes”
-\*fn}
+princípio. Este mandamento antigo é a palavra que ouvistes
+{tr|rp} desde o princípio
+.
+{trnc}\fn
+{trnc}N4 não contém “desde o princípio” depois de “ouvistes”
+{trnc}\*fn
 \v 1Jo.2.8
 Mas também vos escrevo um mandamento novo, que é verdadeiro nele e em vós; pois as trevas passaram, e a verdadeira luz 
 já ilumina.
@@ -82,10 +93,13 @@ Eu vos escrevo, filhinhos, porque pelo nome dele os vossos pecados são perdoado
 \v 1Jo.2.13
 Eu vos escrevo, pais, porque conheceis aquele que é desde o princípio. 
 Eu vos escrevo, jovens, porque vencestes o maligno. 
-Eu vos {tr,rp:escrevo}{n4:escrevi},
-{trnc:\fn
-N4: escrevi
-\*fn}
+Eu vos 
+{tr|rp}escrevo
+{n4}escrevi
+,
+{trnc}\fn
+{trnc}N4: escrevi
+{trnc}\*fn
  filhinhos, porque conheceis o Pai.
 \v 1Jo.2.14
 Eu vos escrevi, pais, porque conheceis aquele que é desde o princípio. 
@@ -106,31 +120,37 @@ o que aconteceu
 \*added
  foi para tornar claro que todos eles não eram dos nossos.
 \v 1Jo.2.20
-Vós, porém, tendes a unção do Santo, e {tr,rp:conheceis todas as coisas}{n4:todos vós tendes conhecimento}.
-{trnc:\fn
-\key
-conheceis todas as coisas
-\*key
-N4: todos vós tendes conhecimento 
-\*fn}
+Vós, porém, tendes a unção do Santo, e 
+{tr|rp}conheceis todas as coisas
+{n4}todos vós tendes conhecimento.
+{trnc}\fn
+{trnc}\key
+{trnc}conheceis todas as coisas
+{trnc}\*key
+{trnc}N4: todos vós tendes conhecimento 
+{trnc}\*fn
 \v 1Jo.2.21
 Eu vos escrevi, não porque não conheceis a verdade, mas sim, porque a conheceis, e porque nenhuma mentira vem da verdade.
 \v 1Jo.2.22
 Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Esse é o anticristo, que nega o Pai e o Filho.
 \v 1Jo.2.23
-Quem nega o Filho também não tem o Pai{tr,n4:; aquele que confessa o filho também tem o Pai}.
-{trnc:\fn
-RP não contém “aquele que confessa o filho também tem o Pai” 
-\*fn}
-{rp:\fn
-TR, N4 contêm: “aquele que confessa o filho também tem o Pai” ao final do versículo 
-\*fn}
+Quem nega o Filho também não tem o Pai
+{tr|n4}; aquele que confessa o filho também tem o Pai
+.
+{trnc}\fn
+{trnc}RP não contém “aquele que confessa o filho também tem o Pai” 
+{trnc}\*fn
+{rp}\fn
+{rp}TR, N4 contêm: “aquele que confessa o filho também tem o Pai” ao final do versículo 
+{rp}\*fn
 \v 1Jo.2.24
-{tr,rp:Portanto
-{trnc:\fn
-N4 não contém “Portanto”
-\*fn}
- o}{n4:O} que ouvistes desde o princípio permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, 
+{tr|rp}Portanto
+{trnc}\fn
+{trnc}N4 não contém “Portanto”
+{trnc}\*fn
+{tr|rp} o
+{n4}O
+ que ouvistes desde o princípio permaneça em vós. Se o que ouvistes desde o princípio permanecer em vós, 
  também permanecereis no Filho e no Pai.
 \v 1Jo.2.25
 E esta é a promessa que ele nos prometeu: a vida eterna.
@@ -138,39 +158,45 @@ E esta é a promessa que ele nos prometeu: a vida eterna.
 Estas coisas vos escrevi acerca dos que vos tentam vos enganar.
 \v 1Jo.2.27
 E a unção que recebeste dele continua em vós, e não tendes necessidade de que alguém vos ensine; mas, como a 
-{tr,rp:mesma unção}{n4:unção dele}
-{trnc:\fn
-\key
-mesma unção
-\*key
-N4: unção dele
-\*fn}
- vos ensina tudo, e é verdadeira, e não mentira, 
-e como ela vos ensinou, 
+{tr|rp}mesma unção
+{n4}unção dele
+{trnc}\fn
+{trnc}\key
+{trnc}mesma unção
+{trnc}\*key
+{trnc}N4: unção dele
+{trnc}\*fn
+ vos ensina tudo, e é verdadeira, e não mentira, e como ela vos ensinou, 
 \added
 assim
 \*added
- nele {tr,rp:permanecereis}{n4:permanecei}.
-{trnc:\fn
-N4: permanecei
-\*fn}
+ nele 
+{tr|rp}permanecereis
+{n4}permanecei
+.
+{trnc}\fn
+{trnc}N4: permanecei
+{trnc}\*fn
 \v 1Jo.2.28
 E agora, filhinhos, permanecei nele; a fim de que, quando ele se manifestar, tenhamos confiança, e não sejamos 
 envergonhados diante dele na sua vinda.
 \v 1Jo.2.29
 Se sabeis que ele é justo, sabeis que todo aquele que pratica a justiça é nascido dele.
 \v 1Jo.3.1
-Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus.{n4: E nós somos. 
-\fn
-TR, RP não contêm “E nós somos” 
-\*fn}
-{trnc:\fn
-N4 acrescenta “E nós somos” 
-\*fn}
- Por isso o mundo não {tr,n4:nos}{rp:vos}
-{trnc:\fn
-RP: vos
-\*fn}
+Vede quão grande amor o Pai tem nos dado, que fôssemos chamados filhos de Deus.
+{n4} E nós somos. 
+{n4}\fn
+{n4}TR, RP não contêm “E nós somos” 
+{n4}\*fn
+{trnc}\fn
+{trnc}N4 contém adicionalmente “E nós somos” 
+{trnc}\*fn
+ Por isso o mundo não 
+{tr|n4}nos
+{rp}vos
+{trnc}\fn
+{trnc}RP: vos
+{trnc}\*fn
  conhece, pois não conhece a ele.
 \v 1Jo.3.2
 Amados, agora somos filhos de Deus, e ainda não está manifesto o que seremos. Porém sabemos que, quando ele se 
@@ -180,10 +206,11 @@ E todo aquele que tem nele essa esperança purifica a si mesmo, como também ele
 \v 1Jo.3.4
 Todo aquele que pratica o pecado também pratica injustiça, pois o pecado é injustiça.
 \v 1Jo.3.5
-E sabeis que ele apareceu para tirar os{tr,rp: nossos}
-{trnc:\fn
-N4 não contém “nossos”
-\*fn}
+E sabeis que ele apareceu para tirar os
+{tr|rp} nossos
+{trnc}\fn
+{trnc}N4 não contém “nossos”
+{trnc}\*fn
  pecados; e nele não há pecado.
 \v 1Jo.3.6
 Todo aquele que nele permanece não pratica o pecado; todo aquele que costuma pecar não o viu nem o conheceu.
@@ -211,20 +238,22 @@ sejamos
 \*added
  era do maligno, e matou o seu irmão. E por que o matou? Porque as suas obras eram más, e as do seu irmão justas.
 \v 1Jo.3.13
-{tr,rp:Meus
-{trnc:\fn
-N4 não contém “Meus”
-\*fn}
- irmãos}{n4:Irmãos}, não vos surpreendeis se o mundo vos odeia.
+{tr|rp}Meus
+{trnc}\fn
+{trnc}N4 não contém “Meus”
+{trnc}\*fn
+{tr|rp} irmãos
+{n4}Irmãos
+, não vos surpreendais se o mundo vos odeia.
 \v 1Jo.3.14
 Nós sabemos que já passamos da morte para a vida, pois amamos os irmãos. Quem não ama
-{tr,rp:\added
-seu
-\*added
- irmão}
-{trnc:\fn
-N4 não contém “(seu) irmão”
-\*fn}
+{tr|rp}\added
+{tr|rp}seu
+{tr|rp}\*added
+{tr|rp} irmão
+{trnc}\fn
+{trnc}N4 não contém “[seu] irmão”
+{trnc}\*fn
  permanece na morte.
 \v 1Jo.3.15
 Todo aquele que odeia o seu irmão é homicida. E sabeis que nenhum homicida tem a vida eterna habitando nele.
@@ -238,13 +267,20 @@ nossas
 Se alguém tiver bens do mundo, e vir o seu irmão em necessidade, e não se compadecer dele, como pode o amor de Deus 
 estar nele?
 \v 1Jo.3.18
-{tr,rp:Meus filhinhos}{n4:Filhinhos}, amemos não de palavra, nem de língua, mas sim com ação e verdade.
+{tr|rp}Meus filhinhos
+{n4}Filhinhos
+, amemos não de palavra, nem de língua, mas sim com ação e verdade.
 \v 1Jo.3.19
-E nisto {tr,rp:sabemos}{n4:saberemos}
-{trnc:\fn
-N4: saberemos
-\*fn}
- que somos da verdade, e teremos segurança {tr,rp:nos nossos corações}{n4:no nosso coração} diante dele.
+E nisto 
+{tr|rp}sabemos
+{n4}saberemos
+{trnc}\fn
+{trnc}N4: saberemos
+{trnc}\*fn
+ que somos da verdade, e teremos segurança 
+{tr|rp}nos nossos corações
+{n4}no nosso coração
+ diante dele.
 \v 1Jo.3.20
 Pois, se o nosso coração 
 \added
@@ -252,18 +288,20 @@ nos
 \*added
  condena, maior é Deus que o nosso coração, e conhece tudo.
 \v 1Jo.3.21
-Amados, se nosso coração não{tr,rp: nos}
-{trnc:\fn
-N4 não contém “nos”
-\*fn}
+Amados, se nosso coração não
+{tr|rp} nos
+{trnc}\fn
+{trnc}N4 não contém “nos”
+{trnc}\*fn
  condena, temos confiança diante de Deus.
 \v 1Jo.3.22
 E qualquer coisa que pedirmos, dele receberemos; porque guardamos os seus mandamentos, e fazemos o que lhe agrada.
 \v 1Jo.3.23
-E este é o seu mandamento: que creiamos no nome do seu Filho Jesus Cristo, e nos amemos uns aos outros, como ele{tr,n4: nos}
-{trnc:\fn
-RP não contém “nos”
-\*fn}
+E este é o seu mandamento: que creiamos no nome do seu Filho Jesus Cristo, e nos amemos uns aos outros, como ele
+{tr|n4} nos
+{trnc}\fn
+{trnc}RP não contém “nos”
+{trnc}\*fn
  mandou.
 \v 1Jo.3.24
 E a pessoa que guarda os seus mandamentos está nele, e ele nela. E nisto sabemos que ele está em nós: pelo Espírito 
@@ -274,10 +312,13 @@ têm vindo ao mundo.
 \v 1Jo.4.2
 Nisto conhecereis o Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus;
 \v 1Jo.4.3
-e todo espírito que não confessa {tr,rp:que }Jesus{tr,rp: Cristo veio em carne}
-{trnc:\fn
-TR, RP: “que Jesus Cristo veio em Carne” - N4: “Jesus” 
-\*fn}
+e todo espírito que não confessa 
+{tr|rp}que 
+Jesus
+{tr|rp} Cristo veio em carne
+{trnc}\fn
+{trnc}TR, RP: “que Jesus Cristo veio em Carne” - N4: “Jesus” 
+{trnc}\*fn
  não é de Deus; e este é o do anticristo, do qual já ouvistes que virá, e que já agora está no mundo.
 \v 1Jo.4.4
 Filhinhos, vós sois de Deus, e tendes vencido esses; pois maior é o que está em vós do que o que está no mundo.
@@ -318,10 +359,12 @@ para ser
 Todo aquele que confessar que Jesus é o Filho de Deus, Deus está nele, e ele em Deus.
 \v 1Jo.4.16
 E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem está no amor está em Deus, e 
-Deus{rp,n4: habita} nele.
-{trnc:\fn
-RP, N4: Deus habita nele
-\*fn}
+Deus
+{rp|n4} habita
+ nele.
+{trnc}\fn
+{trnc}RP, N4: Deus habita nele
+{trnc}\*fn
 \v 1Jo.4.17
 Nisto o amor é aperfeiçoado em nós, para que no dia do juízo tenhamos confiança, pois, como ele é, assim somos nós 
 neste mundo.
@@ -329,33 +372,38 @@ neste mundo.
 No amor não há medo; pelo contrário, o perfeito amor expulsa o medo; pois o medo está relacionado ao castigo; e o 
 que teme não está aperfeiçoado em amor.
 \v 1Jo.4.19
-Nós{tr,rp: o} amamos,
-{trnc:\fn
-N4: Nós amamos
-\*fn}
-{n4:\fn
-TR, RP: Nós o amamos
-\*fn}
+Nós
+{tr|rp} o
+ amamos,
+{trnc}\fn
+{trnc}N4: Nós amamos
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: Nós o amamos
+{n4}\*fn
  porque ele nos amou primeiro.
 \v 1Jo.4.20
 Se alguém diz: “Eu amo a Deus”, e odeia seu irmão, é mentiroso. Pois quem não ama seu irmão, ao qual viu, 
-{tr,rp:como pode amar a Deus, a quem nunca viu?}{n4:não pode amar a Deus, a quem nunca viu.}
-{trnc:\fn
-\key
-como pode amar a Deus, a quem nunca viu?
-\*key
-N4: não pode amar a Deus, a quem nunca viu.
-\*fn}
+{tr|rp}como pode amar a Deus, a quem nunca viu?
+{n4}não pode amar a Deus, a quem nunca viu.
+{trnc}\fn
+{trnc}\key
+{trnc}como pode amar a Deus, a quem nunca viu?
+{trnc}\*key
+{trnc}N4: não pode amar a Deus, a quem nunca viu.
+{trnc}\*fn
 \v 1Jo.4.21
 E dele temos este mandamento: quem ama a Deus, ame também seu irmão.
 \v 1Jo.5.1
 Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que gerou, também ama ao que dele 
 é nascido.
 \v 1Jo.5.2
-Nisto sabemos que amamos os filhos de Deus: quando amamos a Deus, e {tr,rp:guardamos}{n4:praticamos}
-{trnc:\fn
-N4: praticamos
-\*fn}
+Nisto sabemos que amamos os filhos de Deus: quando amamos a Deus, e 
+{tr|rp}guardamos
+{n4}praticamos
+{trnc}\fn
+{trnc}N4: praticamos
+{trnc}\*fn
  os seus mandamentos.
 \v 1Jo.5.3
 Pois este é o amor de Deus: que guardemos os seus mandamentos. E os seus mandamentos não são pesados.
@@ -370,37 +418,38 @@ pelo
 \*added
  sangue. E o Espírito é o que lhe dá testemunho, porque o Espírito é a verdade.
 \v 1Jo.5.7
-Pois são três os que dão testemunho{tr: no céu}:{tr: o Pai, a Palavra, e o Espírito Santo; e estes três são um.}
-{rp,n4:\fn
-TR acrescenta: no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra: 
-\*fn}
+Pois são três os que dão testemunho
+{tr} no céu
+:
+{tr} o Pai, a Palavra, e o Espírito Santo; e estes três são um.
+{rp|n4}\fn
+{rp|n4}TR contém: no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra: 
+{rp|n4}\*fn
 \v 1Jo.5.8
-{tr:E três são os que testemunham na terra:}
-{trnc:\fn
-RP, N4 não contêm, desde o versículo 7: “no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra:” 
-\*fn}
+{tr}E três são os que testemunham na terra:
+{trnc}\fn
+{trnc}RP, N4 não contêm, desde o versículo 7: “no céu: o Pai, a Palavra, e o Espírito Santo; e estes três são um. E três são os que testemunham na terra:” 
+{trnc}\*fn
  o Espírito, a água e o sangue; e estes três estão em unidade.
 \v 1Jo.5.9
 Se recebemos o testemunho humano, o testemunho de Deus é maior; pois este é o testemunho de Deus, que testificou de seu Filho.
 \v 1Jo.5.10
-Quem crê no Filho de Deus tem testemunho {tr,rp:em si mesmo}{n4:em si};
-{trnc:\fn
-N4: testemunho em si
-\*fn}
- quem não crê em Deus o fez de mentiroso, porque não creu no testemunho que Deus deu acerca do seu Filho.
+Quem crê no Filho de Deus tem testemunho em si mesmo; quem não crê em Deus o fez de mentiroso, porque não creu no testemunho que Deus deu acerca do seu Filho.
 \v 1Jo.5.11
 E este é o testemunho: que Deus nos deu a vida eterna; e essa vida está no seu Filho.
 \v 1Jo.5.12
 Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
 \v 1Jo.5.13
 Estas coisas escrevi para vós que credes no nome do Filho de Deus, para que saibais que tendes a 
-vida eterna{tr,rp:, e que creiais no nome do Filho de Deus}.
-{trnc:\fn
-N4 omite “e que creiais no nome do Filho de Deus” 
-\*fn}
-{n4:\fn
-TR, RP contêm no final do versículo: “e que creiais no nome do Filho de Deus” 
-\*fn}
+vida eterna
+{tr|rp}, e que creiais no nome do Filho de Deus
+.
+{trnc}\fn
+{trnc}N4 não contém “e que creiais no nome do Filho de Deus” 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm no final do versículo: “e que creiais no nome do Filho de Deus” 
+{n4}\*fn
 \v 1Jo.5.14
 E esta é a confiança que diante dele: que se pedirmos alguma coisa conforme a sua vontade, ele nos ouve.
 \v 1Jo.5.15
@@ -412,13 +461,16 @@ para a morte. Há pecado para a morte, pelo qual não digo que ore.
 Toda injustiça é pecado; e há pecado que não é para a morte.
 \v 1Jo.5.18
 Sabemos que todo aquele que é nascido de Deus não pratica o pecado; mas o que é gerado 
-de Deus {tr,rp:guarda a si mesmo}{n4:o guarda},
-{trnc:\fn
-N4: o que é gerado de Deus (referindo-se a Jesus) o guarda
-\*fn}
-{n4:\fn
-TR, RP: o que é gerado de Deus guarda a si mesmo
-\*fn}
+de Deus 
+{tr|rp}guarda a si mesmo
+{n4}o guarda
+,
+{trnc}\fn
+{trnc}N4: o que é gerado de Deus (referindo-se a Jesus) o guarda
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: o que é gerado de Deus guarda a si mesmo
+{n4}\*fn
  e o maligno não o toca.
 \v 1Jo.5.19
 Sabemos que somos de Deus, e que o mundo todo jaz no maligno.
@@ -426,7 +478,8 @@ Sabemos que somos de Deus, e que o mundo todo jaz no maligno.
 E sabemos que o Filho de Deus veio, e nos deu entendimento para conhecermos o Verdadeiro; e no Verdadeiro estamos, em 
 seu Filho Jesus Cristo. Este é o verdadeiro Deus, e a vida eterna.
 \v 1Jo.5.21
-Filhinhos, guardai-vos dos ídolos.{tr,rp: Amém.}
-{trnc:\fn
-N4 não contém “Amém”
-\*fn}
+Filhinhos, guardai-vos dos ídolos.
+{tr|rp} Amém.
+{trnc}\fn
+{trnc}N4 não contém “Amém”
+{trnc}\*fn

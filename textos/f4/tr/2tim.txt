@@ -11,7 +11,12 @@ Segunda Carta de Paulo a Timóteo
 2TI
 \*ubs-code
 \v 2Tm.1.1
-Paulo, apóstolo de Jesus Cristo,
+Paulo, apóstolo de 
+Jesus Cristo
+,
+\fn
+N4: Cristo Jesus
+\*fn
  pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,
 \v 2Tm.1.2
 a Timóteo, 
@@ -52,14 +57,23 @@ Ou: seu próprio propósito
 \*fn
  e a graça que nos foi dada em Cristo Jesus antes dos princípios dos tempos;
 \v 2Tm.1.10
-mas agora é manifesta pela aparição do nosso Salvador Jesus Cristo,
+mas agora é manifesta pela aparição do nosso Salvador 
+Jesus Cristo
+,
+\fn
+N4: Cristo Jesus
+\*fn
  que anulou a morte, e trouxe para a luz a vida e a imortalidade
 \fn
-Ou “incorrupção”, isto é, o apodrecimento do corpo
+Ou “incorrupção”, i.e. a decomposição do corpo
 \*fn
  por meio do evangelho;
 \v 2Tm.1.11
-do qual eu fui constituído pregador e apóstolo, e instrutor dos gentios.
+do qual eu fui constituído pregador e apóstolo, e instrutor
+ dos gentios.
+\fn
+N4 não contém “dos gentios”
+\*fn
 \v 2Tm.1.12
 Por causa disso também sofro essas coisas; porém não me envergonho. Pois sei em quem tenho crido, e tenho certeza de 
 que ele é poderoso para guardar o que lhe confiei
@@ -84,7 +98,12 @@ Sabes isto, que todos os que estão na Ásia Romana me abandonaram, entre os qua
 \v 2Tm.1.16
 O Senhor conceda misericórdia à casa de Onesíforo, pois muitas vezes ele me consolou, e não se envergonhou de eu estar em cadeias;
 \v 2Tm.1.17
-Pelo contrário, quando veio a Roma, com  empenho me procurou,
+Pelo contrário, quando veio a Roma, com
+ muito
+ empenho me procurou,
+\fn
+N4: com empenho
+\*fn
  e 
 \added
 me
@@ -103,7 +122,15 @@ E o que de mim ouviste entre muitas testemunhas, confia-o a pessoas fiéis, que 
 a outros.
 \v 2Tm.2.3
 Tu, pois, sofre
- as aflições como bom soldado de Jesus Cristo.
+\fn
+N4: Sofre comigo
+\*fn
+ as aflições como bom soldado de 
+Jesus Cristo
+.
+\fn
+N4: Cristo Jesus
+\*fn
 \v 2Tm.2.4
 Nenhum soldado em batalha se envolve com assuntos desta vida, pois tem como objetivo agradar àquele que o alistou.
 \v 2Tm.2.5
@@ -111,7 +138,14 @@ E, também, se alguém está competindo como atleta, não recebe a coroa se não
 \v 2Tm.2.6
 O lavrador que trabalha deve ser o primeiro a receber da partilha dos frutos.
 \v 2Tm.2.7
-Considera o que digo; que o Senhor te dê
+Considera o que digo; 
+que o Senhor te dê
+\fn
+\key
+que o Senhor te dê
+\*key
+N4: pois o senhor te dará
+\*fn
  entendimento em tudo.
 \v 2Tm.2.8
 Lembra-te de Jesus Cristo, ressuscitado dos mortos, da descendência
@@ -147,13 +181,26 @@ se sofrermos, também com
 \added
 ele
 \*added
- reinaremos; se o negamos,
+ reinaremos; se o 
+negamos
+,
+\fn
+N4: negarmos
+\*fn
  também ele nos negará;
 \v 2Tm.2.13
-se formos infiéis, ele continua fiel; 
+se formos infiéis, ele continua fiel;
+\fn
+N4 contém “porque” depois de “fiel”
+\*fn
  ele não pode negar a si mesmo.
 \v 2Tm.2.14
-Lembra-os disso, alertando-os diante do Senhor,
+Lembra-os disso, alertando-os diante 
+do Senhor
+,
+\fn
+N4: de Deus
+\*fn
  que não tenham brigas de palavras, que não têm proveito algum, 
 \added
 a não ser
@@ -181,7 +228,12 @@ Porém o fundamento de Deus continua firme, e tem este selo:
 Ou: esta inscrição
 \*fn
  o Senhor conhece os que são seus, e que todo aquele que 
-faz uso do nome de Cristo,
+faz uso do nome 
+de Cristo
+,
+\fn
+RP, N4: do Senhor
+\*fn
  se afaste da injustiça.
 \v 2Tm.2.20
 Numa grande casa não há somente utensílios de ouro e de prata, mas também de madeira e de barro; e uns para honra, porém outros para desonra.
@@ -238,7 +290,11 @@ E também todos os que querem viver devotamente em Cristo Jesus sofrerão perseg
 \v 2Tm.3.13
 Mas os que são maus e enganadores irão de mal a pior, enganando e sendo enganados.
 \v 2Tm.3.14
-Tu, porém, continua nas coisas que aprendeste e das quais foste convencido, pois sabes de quem as aprendeste.
+Tu, porém, continua nas coisas que aprendeste e das quais foste convencido, pois sabes
+ de quem as aprendeste.
+\fn
+N4: pois sabes aqueles de quem tendes aprendido
+\*fn
 \v 2Tm.3.15
 e que desde tua infância conheceste as Sagradas Escrituras, que podem te fazer sábio para a salvação pela fé em Cristo Jesus.
 \v 2Tm.3.16
@@ -254,8 +310,19 @@ Ou: Toda a Escritura divinamente inspirada é também
 \v 2Tm.3.17
 para que o homem de Deus seja completo, plenamente instruído para toda boa obra.
 \v 2Tm.4.1
-Portanto te convoco diante de Deus e do Senhor Jesus Cristo,
- que irá julgar os vivos e os mortos em sua aparição e seu reino:
+Portanto te convoco
+ diante de Deus e 
+do Senhor Jesus Cristo
+,
+\fn
+\key
+do Senhor Jesus Cristo
+\*key
+N4: de Cristo Jesus
+\*fn
+ que irá julgar os vivos e os mortos
+ em
+ sua aparição e seu reino:
 \v 2Tm.4.2
 prega a palavra; insiste em tempo e fora de tempo; reprova, repreende 
 \added
@@ -288,7 +355,11 @@ Enviei Tíquico a Éfeso.
 \v 2Tm.4.13
 Quando vieres, traz a capa que deixei em Trôade na casa de Carpo, e os livros, principalmente os pergaminhos.
 \v 2Tm.4.14
-Alexandre, o que trabalha com cobre, me causou muitos males; o Senhor retribua
+Alexandre, o que trabalha com cobre, me causou muitos males; o Senhor 
+retribua
+\fn
+N4: pagará
+\*fn
  a ele conforme suas obras.
 \v 2Tm.4.15
 Toma cuidado com ele também, porque ele se opôs muito às nossas palavras.
@@ -302,7 +373,11 @@ a
  ouvissem; e fui livrado da boca do leão.
 \v 2Tm.4.18
 E
- o Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
+\fn
+N4 não contém “E”
+\*fn
+ o
+ Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
 \added
 seja
 \*added
@@ -314,9 +389,20 @@ Erasto ficou em Corinto, e deixei Trófimo doente em Mileto.
 \v 2Tm.4.21
 Procura vir antes do inverno. Êubulo, Pudente, Lino, Cláudia e todos os irmãos te cumprimentam.
 \v 2Tm.4.22
-O Senhor Jesus Cristo
- seja com o teu espírito. A graça seja convosco. Amém.
+O Senhor
+ Jesus Cristo
+\fn
+N4 não contém “Jesus Cristo”
+\*fn
+ seja com o teu espírito. A graça seja convosco.
+ Amém.
+\fn
+N4 não contém “Amém”
+\*fn
 \added
 A segunda carta a Timóteo (o primeiro bispo escolhido para a igreja dos efésios) foi escrita em Roma, quando Paulo foi 
 apresentado pela segunda vez ao imperador Nero
 \*added
+\fn
+RP, N4 não contêm “A segunda carta (...) imperador Nero”
+\*fn

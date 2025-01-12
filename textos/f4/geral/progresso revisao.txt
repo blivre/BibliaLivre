@@ -1,0 +1,42 @@
+BÍBLIA LIVRE
+
+Fontes primárias: Todas em domínio público
+
+Almeida 1819 https://archive.org/details/bibliasagradacon00alme/page/124/mode/2up
+ARC 1911
+English Revised Version 1885 / ASV para notas de rodapé e colchetes
+Louis Segond 1910
+Reina Valera 1909
+World English Bible (em menor importância)
+Almeida 1681 (132)
+Berean Standard Bible
+
+Adaptações:
+Weymouth (NT)
+Moffatt (NT, AT) https://archive.org/details/newtranslationof0000jame/page/146/mode/2up
+https://studybible.info/Moffatt/Acts%2013
+
+https://greekcntr.org/collation/index.htm?v=44013011
+
+* Sentido traduzido da ERV (adaptando à linguagem de Almeida 1819 ou ARC 1911)
+* Tempos verbais do antigo testamento geralmente extraídos de LSG (ou, em menor número de casos, à ERV) (Acompanhando, 
+quando possível, o consenso entre BJerusalém e NAA, mas somente se o tempo verbal for usado em LSG ou ERV)
+* Nomes próprios da NVI
+
+‘’
+“”
+«»
+
+Atos 1:1-13:19
+
+Salmos COMPLETO
+Joel COMPLETO
+Mateus COMPLETO
+Marcos COMPLETO
+Lucas COMPLETO
+João COMPLETO
+
+2ª pess singular    você    te          teu
+2ª pess plural      vocês   vos         vosso
+3ª pess singular    ele     lhe         seu, dele
+3ª pess plural      eles    lhes        seu, deles

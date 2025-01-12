@@ -55,7 +55,7 @@ Para que me
 \added
 serve
 \*added
- tantos sacrifícios vossos?,diz o SENHOR; Já estou farto de sacrifícios de queima de carneiros, e da gordura de animais cevados. Não me alegro com o sangue de bezerros, nem com o de cordeiros ou bodes.
+ tantos sacrifícios vossos?, diz o SENHOR; Já estou farto de sacrifícios de queima de carneiros, e da gordura de animais cevados. Não me alegro com o sangue de bezerros, nem com o de cordeiros ou bodes.
 \v Is.1.12
 Quando vindes a aparecer perante minha face, quem vos pediu isso de vossas mãos, de pisardes em meus pátios?
 \v Is.1.13
@@ -93,7 +93,7 @@ Lavai-vos! Purificai-vos! Tirai a maldade de vossas atitudes perante meus olhos;
 \v Is.1.17
 Aprendei a fazer o bem; procurai o que é justo; ajudai ao oprimido; fazei justiça ao órfão; defendei a causa da viúva.
 \v Is.1.18
-Vinde, então, e façamos as contas,diz o SENHOR: ainda que vossos pecados sejam como a escarlate, eles ficarão brancos como a neve; ainda que sejam vermelhos como o carmesim, eles se tornarão como a lã.
+Vinde, então, e façamos as contas, diz o SENHOR: ainda que vossos pecados sejam como a escarlate, eles ficarão brancos como a neve; ainda que sejam vermelhos como o carmesim, eles se tornarão como a lã.
 \v Is.1.19
 Se quiserdes e ouvirdes, comereis o que é bom da terra.
 \v Is.1.20
@@ -251,7 +251,7 @@ contra
 \*added
  seus líderes: Pois vós consumistes a vinha, o despojo do pobre está em vossas casas.
 \v Is.3.15
-Por que vós esmagastes ao meu povo, e moestes o rosto dos pobres?,diz o Senhor DEUS dos exércitos.
+Por que vós esmagastes ao meu povo, e moestes o rosto dos pobres?, diz o Senhor DEUS dos exércitos.
 \v Is.3.16
 Além disso o SENHOR diz: Dado que as filhas de Sião se exaltam, e andam com o pescoço levantado, e 
 \added
@@ -716,7 +716,7 @@ E passarão pela
 \added
 terra
 \*added
-,duramente oprimidos e famintos; e será que, quando tiverem fome e ficarem enfurecidos, então amaldiçoarão ao seu rei e ao seu Deus, olhando para cima.
+, duramente oprimidos e famintos; e será que, quando tiverem fome e ficarem enfurecidos, então amaldiçoarão ao seu rei e ao seu Deus, olhando para cima.
 \v Is.8.22
 E olhando para a terra, eis aflição e trevas; 
 \added
@@ -1150,9 +1150,9 @@ e
 \v Is.14.21
 Preparai a matança para seus filhos por causa da maldade de seus pais; para que não se levantem, e tomem posse da terra, e encham a face do mundo de cidades.
 \v Is.14.22
-Porque me levantarei contra eles,diz o SENHOR dos exércitos; e cortarei para eliminar da Babilônia o nome e os restantes, o filho e o neto, diz o SENHOR.
+Porque me levantarei contra eles, diz o SENHOR dos exércitos; e cortarei para eliminar da Babilônia o nome e os restantes, o filho e o neto, diz o SENHOR.
 \v Is.14.23
-E eu a porei como propriedade de corujas, e poças d´água; e a varrerei com a vassoura da destruição,diz o SENHOR dos exércitos.
+E eu a porei como propriedade de corujas, e poças d´água; e a varrerei com a vassoura da destruição, diz o SENHOR dos exércitos.
 \v Is.14.24
 O SENHOR dos exércitos jurou, dizendo: Com certeza acontecerá assim como pensei, e será comprido assim como determinei.
 \v Is.14.25
@@ -1309,7 +1309,7 @@ ali
 \*added
  se deitarão, sem haver quem os espante.
 \v Is.17.3
-E a fortaleza de Efraim se acabará, como também o reino de Damasco, e os restantes dos sírios; serão como a glória dos filhos de Israel,diz o SENHOR dos exércitos.
+E a fortaleza de Efraim se acabará, como também o reino de Damasco, e os restantes dos sírios; serão como a glória dos filhos de Israel, diz o SENHOR dos exércitos.
 \v Is.17.4
 E será naquele dia, que a glória de Jacó se definhará, e a gordura de sua carne emagrecerá;
 \v Is.17.5
@@ -1331,7 +1331,7 @@ ficam
 \added
 ou
 \*added
- cinco em seus ramos frutíferos,diz o SENHOR, o Deus de Israel.
+ cinco em seus ramos frutíferos, diz o SENHOR, o Deus de Israel.
 \v Is.17.7
 Naquele dia o homem dará atenção ao seu Criador, e seus olhos olharão ao Santo de Israel;
 \v Is.17.8
@@ -1421,7 +1421,7 @@ Porque instigarei egípcios contra egípcios, e cada um lutará contra seu irmã
 \v Is.19.3
 E o espírito dos egípcios se esvaziará dentro de si, e destruirei seu conselho; então eles perguntarão ao ídolos, encantadores, adivinhos que consultam espíritos de mortos, e feiticeiros.
 \v Is.19.4
-E entregarei os egípcios nas mãos de um duro senhor, e um rei rigoroso dominará sobre eles,diz o SENHOR dos exércitos.
+E entregarei os egípcios nas mãos de um duro senhor, e um rei rigoroso dominará sobre eles, diz o SENHOR dos exércitos.
 \v Is.19.5
 E as águas do mar se acabarão; e o rio se esvaziará e se secará.
 \v Is.19.6
@@ -2383,7 +2383,7 @@ Por acaso não
 \added
 será que
 \*added
-,daqui a pouco tempo, o Líbano se tornará um campo fértil? E o campo fértil será considerado uma floresta?
+, daqui a pouco tempo, o Líbano se tornará um campo fértil? E o campo fértil será considerado uma floresta?
 \v Is.29.18
 E naquele dia os surdos ouvirão as palavras do livro; e os olhos dos cegos desde a escuridão e desde as trevas as verão.
 \v Is.29.19
@@ -2418,7 +2418,7 @@ i.e. os que andam sem rumo
 \*fn
  de espírito virão a ter entendimento, e os murmuradores aprenderão doutrina.
 \v Is.30.1
-Ai dos filhos rebeldes!,diz o SENHOR,  Eles, que tomam conselho, mas não de mim; que fazem um pacto, porém sem o meu Espírito, para acrescentarem pecado sobre pecado.
+Ai dos filhos rebeldes!, diz o SENHOR,  Eles, que tomam conselho, mas não de mim; que fazem um pacto, porém sem o meu Espírito, para acrescentarem pecado sobre pecado.
 \v Is.30.2
 Eles, que descem ao Egito sem me perguntarem,
 \fn
@@ -2715,7 +2715,7 @@ tiradas suas folhas
 \*added
 .
 \v Is.33.10
-Agora eu me levantarei,diz o SENHOR;  agora me elevarei; agora serei exaltado.
+Agora eu me levantarei, diz o SENHOR;  agora me elevarei; agora serei exaltado.
 \v Is.33.11
 Concebestes palha, gerais restos de cascas; vosso sopro vos consumirá 
 \added
@@ -3399,7 +3399,7 @@ logo
 \*added
  ele sopra neles, e se secam, e um vento forte os leva como palha fina.
 \v Is.40.25
-A quem, pois, me comparareis, que eu lhe seja semelhante?,diz o Santo.
+A quem, pois, me comparareis, que eu lhe seja semelhante?, diz o Santo.
 \v Is.40.26
 Levantai vossos olhos ao alto, e vede quem criou estas coisas, que faz sair numerado seu exército; e chama a todos eles pelos nomes, pela grandeza de 
 \added
@@ -3484,7 +3484,7 @@ e
 \*added
  te digo: Não temas; eu te ajudo.
 \v Is.41.14
-Não temas, ó verme de Jacó, povinho de Israel; eu te ajudo,diz o SENHOR e teu Redentor, o Santo de Israel.
+Não temas, ó verme de Jacó, povinho de Israel; eu te ajudo, diz o SENHOR e teu Redentor, o Santo de Israel.
 \v Is.41.15
 Eis que eu te pus como debulhador afiado, novo, que tem dentes pontiagudos. Aos montes debulharás, e moerás; e aos morros tornarás como a palhas.
 \v Is.41.16
@@ -3506,7 +3506,7 @@ Plantarei no deserto o cedro, a acácia, a murta, e a oliveira; juntamente porei
 \v Is.41.20
 Para que vejam, saibam, reflitam, e juntamente entendam que a mão do SENHOR fez isto; e o Santo de Israel isto criou.
 \v Is.41.21
-Apresentai vossa demanda!,diz o SENHOR.  Trazei vossos argumentos!, diz o Rei de Jacó.
+Apresentai vossa demanda!, diz o SENHOR.  Trazei vossos argumentos!, diz o Rei de Jacó.
 \v Is.41.22
 Tragam e anunciem-nos as coisas que irão acontecer; anunciai quais foram as coisas passadas, para que possamos dar atenção a elas, e saibamos o fim delas; ou dizei-nos as coisas futuras.
 \v Is.41.23
@@ -3993,7 +3993,7 @@ por acaso
 \v Is.45.12
 Eu fiz a terra, e criei nela o homem; fui eu, minhas próprias mãos estenderam os céus, e dei ordens sobre todo o seu exército.
 \v Is.45.13
-Eu o despertei em justiça, e todos os seus caminhos endireitarei; ele edificará minha cidade, e soltará meus cativos; não por preço, nem por subornos,diz o SENHOR dos exércitos.
+Eu o despertei em justiça, e todos os seus caminhos endireitarei; ele edificará minha cidade, e soltará meus cativos; não por preço, nem por subornos, diz o SENHOR dos exércitos.
 \v Is.45.14
 Assim diz o SENHOR: O trabalho
 \fn
@@ -4350,7 +4350,7 @@ Achegai-vos a mim, ouvi isto: não falei em oculto desde o princípio;
 \added
 ao contrário
 \*added
-,desde o tempo em que aquilo se fez, ali eu estava; e agora o Senhor DEUS me enviou, e seu Espírito.
+, desde o tempo em que aquilo se fez, ali eu estava; e agora o Senhor DEUS me enviou, e seu Espírito.
 \v Is.48.17
 Assim diz o SENHOR, teu Redentor, o Santo de Israel: Eu sou o SENHOR teu Deus, que te ensina o que é proveitoso, 
 \added
@@ -4377,7 +4377,7 @@ quando
 \added
 Porém
 \*added
- para os perversos não haverá paz,diz o SENHOR.
+ para os perversos não haverá paz, diz o SENHOR.
 \v Is.49.1
 Ouvi-me, terras costeiras, e escutai, vós povos de longe; o SENHOR me chamou desde o ventre, desde as entranhas de minha mãe ele fez menção do meu nome;
 \v Is.49.2
@@ -4634,7 +4634,7 @@ E agora, o que tenho
 \added
 de fazer
 \*added
- aqui?,Diz o SENHOR,  Pois meu povo foi tomado sem motivo algum; e os que dominam sobre ele uivam,
+ aqui?, diz o SENHOR,  Pois meu povo foi tomado sem motivo algum; e os que dominam sobre ele uivam,
 \fn
 \key
 uivam
@@ -5045,7 +5045,7 @@ Pela maldade de sua cobiça eu me indignei, e o feri; eu me escondi, e me indign
 \v Is.57.18
 Tenho visto seus caminhos; porém eu o sararei, e o guiarei, e voltarei a dar consolo, a ele a os que por ele lamentam.
 \v Is.57.19
-Eu crio os frutos dos lábios; paz, paz para os que estão longe e para os que estão perto,diz o SENHOR,  e eu os sararei.
+Eu crio os frutos dos lábios; paz, paz para os que estão longe e para os que estão perto, diz o SENHOR,  e eu os sararei.
 \v Is.57.20
 Mas os perversos são como o mar bravo, que não pode se aquietar.
 \v Is.57.21
@@ -5268,7 +5268,7 @@ sua
 \*added
  transgressão em Jacó, diz o SENHOR.
 \v Is.59.21
-Quanto a mim, este é meu pacto com eles,diz o SENHOR;  meu Espírito que está sobre ti, e minhas palavras que pus em tua boca, não se afastarão de tua boca 
+Quanto a mim, este é meu pacto com eles, diz o SENHOR;  meu Espírito que está sobre ti, e minhas palavras que pus em tua boca, não se afastarão de tua boca 
 nem da boca de teus descendentes,
 \fn
 \key
@@ -5341,7 +5341,7 @@ de tal modo
 \added
 por ti
 \*added
-,eu farei de ti uma excelência eterna, alegria de geração após geração.
+, eu farei de ti uma excelência eterna, alegria de geração após geração.
 \v Is.60.16
 E mamarás o leite das nações, e mamarás os peitos dos reis; e saberás que eu sou o SENHOR, teu Salvador e teu Redentor, o Poderoso de Jacó.
 \v Is.60.17
@@ -5363,7 +5363,7 @@ Nunca mais o teu sol irá se por, nem tua lua minguará; porque o SENHOR será t
 \v Is.60.21
 E todos os de teu povo serão justos; para sempre terão posse da terra; serão renovo de minha plantação, obra de minhas mãos, para que eu seja glorificado.
 \v Is.60.22
-O menor será mil, e o de menor tamanho será um povo forte; eu, o SENHOR, o farei depressa em seu 
+O pequeno será mil, e o menor será um povo forte; eu, o SENHOR, o farei depressa em seu 
 \added
 devido
 \*added
@@ -5682,7 +5682,7 @@ Por
 \added
 pelas
 \*added
- perversidades de vossos pais,diz o SENHOR,  que com incensos perfumaram nos montes, e me provocaram nos morros; por isso eu lhes medirei de volta por completo
+ perversidades de vossos pais, diz o SENHOR,  que com incensos perfumaram nos montes, e me provocaram nos morros; por isso eu lhes medirei de volta por completo
 \fn
 \key
 por completo
@@ -5753,11 +5753,15 @@ virão à mente
 lit. subirão ao coração
 \*fn
 \v Is.65.18
-Porém vós ficai contentes e alegrai-vos para sempre 
+Porém vós jubilai e alegrai-vos para sempre no que eu crio; porque eis que crio Jerusalém 
 \added
-naquilo
-\*added
- que eu crio; porque eis que crio a Jerusalém uma alegria, e a seu povo um contentamento.
+para ser
+\*added 
+ alegria, e seu povo 
+\added
+para ser
+\*added 
+ júbilo.
 \v Is.65.19
 E me alegrarei de Jerusalém, e estarei muito contente com meu povo; e nunca mais se ouvirá nela voz de choro, nem voz de clamor.
 \v Is.65.20
@@ -5786,11 +5790,11 @@ Não trabalharão em vão, nem terão filhos para a aflição; porque são a sem
 \v Is.65.24
 E será que, antes que clamem, eu responderei; enquanto ainda estiverem falando, eu ouvirei.
 \v Is.65.25
-O lobo e o cordeiro ambos se alimentarão juntos, e o leão comerá palha como o boi, e pó será a comida da serpente; nenhum mal nem dano farão em todo o meu santo monte,diz o SENHOR.
+O lobo e o cordeiro ambos se alimentarão juntos, e o leão comerá palha como o boi, e pó será a comida da serpente; nenhum mal nem dano farão em todo o meu santo monte, diz o SENHOR.
 \v Is.66.1
 Assim diz o SENHOR: Os céus são meu trono, e a terra o escabelo dos meus pés. Qual seria a casa que vós edificaríeis para mim? E qual seria o lugar de meu descanso?
 \v Is.66.2
-Pois minha mão fez todas estas coisas, e todas estas coisas passaram a existir,diz o SENHOR;  mas para tal eu olharei: aquele que é pobre e abatido de espírito, e treme por minha palavra.
+Pois minha mão fez todas estas coisas, e todas estas coisas passaram a existir, diz o SENHOR;  mas para tal eu olharei: aquele que é pobre e abatido de espírito, e treme por minha palavra.
 \v Is.66.3
 Quem mata boi fere de morte a um homem; quem sacrifica cordeiro degola a um cão; quem apresenta oferta, 
 \added
@@ -5823,7 +5827,7 @@ jamais
 \*added
  ouviu tal coisa? Quem viu coisa semelhante? Poderia uma terra gerar filho em um só dia? Nasceria uma nação de uma só vez? Mas logo que Sião esteve de parto, já teve o nascimento de seus filhos.
 \v Is.66.9
-Por acaso não iniciaria eu o nascimento e não geraria?,diz o SENHOR,  Geraria eu, e fecharia 
+Por acaso não iniciaria eu o nascimento e não geraria?, diz o SENHOR,  Geraria eu, e fecharia 
 \added
 o ventre materno
 \*added
@@ -5902,9 +5906,9 @@ serem
 \added
 e
 \*added
- para Levitas,diz o SENHOR.
+ para Levitas, diz o SENHOR.
 \v Is.66.22
-Porque assim como os novos céus e a nova terra, que farei, estarão perante mim,diz o SENHOR, assim também estará vossa descendência
+Porque assim como os novos céus e a nova terra, que farei, estarão perante mim, diz o SENHOR, assim também estará vossa descendência
 \fn
 \key
 descendência
@@ -5920,6 +5924,6 @@ todos
 \*key
 lit. toda carne – também v. 24
 \*fn
- virão para adorar perante mim,diz o SENHOR.
+ virão para adorar perante mim, diz o SENHOR.
 \v Is.66.24
 E sairão, e verão os cadáveres dos homens que se rebelaram contra mim; porque o verme deles nunca morrerá, nem seu fogo se apagará; e serão horríveis a todos.

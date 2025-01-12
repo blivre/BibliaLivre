@@ -76,33 +76,35 @@ apostasia
 \*key
 ou: rebelião 
 \*fn
-e se manifeste o homem {tr,rp:do pecado}{n4:da injustiça},{trnc: 
-\fn
-N4: homem da injustiça 
-\*fn
-}{n4: 
-\fn
-TR, RP: homem do pecado 
-\*fn
-} o filho da perdição.
+e se manifeste o homem 
+{tr|rp}do pecado
+{n4}da injustiça,
+{trnc}\fn
+{trnc}N4: homem da injustiça 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: homem do pecado 
+{n4}\*fn
+ o filho da perdição.
 \v 2Ts.2.4
 O qual se opõe e se levanta sobre tudo o que se chama Deus, ou 
 \added
 sobre
 \*added
- tudo que é adorado; por isso ele se sentará no templo de Deus{tr,rp:, como 
-\added
-se fosse
-\*added
- Deus},{trnc: 
-\fn
-N4 omite “como [se fosse] Deus” 
-\*fn
-}{n4: 
-\fn
-TR, RP acrescentam “como [se fosse] Deus” 
-\*fn
-} fazendo-se parecer Deus.
+ tudo que é adorado; por isso ele se sentará no templo de Deus
+{tr|rp}, como 
+{tr|rp}\added
+{tr|rp}se fosse
+{tr|rp}\*added
+{tr|rp} Deus
+,
+{trnc}\fn
+{trnc}N4 não contém “como [se fosse] Deus” 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “como [se fosse] Deus” 
+{n4}\*fn
+ fazendo-se parecer Deus.
 \v 2Ts.2.5
 Não vos lembrais, que enquanto ainda estava convosco, eu vos dizia estas coisas?
 \v 2Ts.2.6
@@ -207,12 +209,10 @@ A graça de nosso Senhor Jesus Cristo
 \added
 seja
 \*added
- com todos vós. Amém.{tr: 
-\added
-A segunda carta aos tessalonicenses foi escrita de Atenas
-\*added
- }{trnc: 
-\fn
-RP, N4 não contêm informação de onde a carta foi escrita 
-\*fn
-}
+ com todos vós. Amém.
+{tr}\added
+{tr}A segunda carta aos tessalonicenses foi escrita de Atenas
+{tr}\*added
+{trnc}\fn
+{trnc}RP, N4 não contêm “A segunda carta aos tessalonicenses foi escrita de Atenas”
+{trnc}\*fn

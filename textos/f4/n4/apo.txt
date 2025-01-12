@@ -46,13 +46,16 @@ seja
 Eis que ele vem com as nuvens, e todo olho o verá, até mesmo aqueles que o perfuraram; e todas as tribos da terra 
 lamentarão sobre ele. Sim! Amém!
 \v Ap.1.8
-“Eu sou o Alfa e o Ômega”,
+“Eu sou o Alfa e o Ômega
+”,
 \fn
-TR acrescenta: “o princípio e o fim” 
+TR contém adicionalmente: “o princípio e o fim” 
 \*fn
-diz o Senhor Deus,
+diz o Senhor
+ Deus
+,
 \fn
-TR omite “Deus” 
+TR não contém “Deus” 
 \*fn
  que é, e que era, e que virá, o Todo-Poderoso.
 \v Ap.1.9
@@ -70,12 +73,13 @@ arrebatado
 \v Ap.1.11
 Dizendo:
 \fn
-TR acrescenta: “Eu sou o Alfa e o Ômega, o primeiro e o último; e ” 
+TR contém adicionalmente: “Eu sou o Alfa e o Ômega, o primeiro e o último; e” 
 \*fn
- “O
- que tu estás vendo, escreve em um livro, e envia às sete igrejas:
+“O
+ que tu estás vendo, escreve num livro, e envia às sete igrejas
+:
 \fn
-TR acrescenta: “que estão na Ásia” 
+TR contém adicionalmente: “que estão na Ásia” 
 \*fn
  a Éfeso, e a Esmirna, e a Pérgamo, e a Tiatira, e a Sardes, e a Filadélfia, e a Laodiceia”.
 \v Ap.1.12
@@ -107,7 +111,9 @@ eu
 \added
 sou
 \*added
- o que vivo, e fui morto; e eis que eu vivo para todo o sempre; Amém. E eu tenho as chaves da morte e do Xeol
+ o que vivo, e fui morto; e eis que eu vivo para todo o sempre; Amém. E eu tenho as chaves 
+da morte e
+ do Xeol
 \fn
 Xeol é o lugar dos mortos
 \*fn
@@ -149,7 +155,7 @@ Mas eu tenho contra ti, que deixaste o teu primeiro amor.
 \v Ap.2.5
 Então lembra-te de onde tu caíste, e arrepende-te, e faze as primeiras obras; senão
 \fn
-TR, RP acrescentam: “em breve” 
+TR, RP contêm adicionalmente: “em breve” 
 \*fn
  eu virei a ti, e tirarei teu castiçal de seu lugar, se tu não te arrependeres.
 \v Ap.2.6
@@ -204,11 +210,15 @@ algumas
 meios de tropeço diante dos filhos de Israel, para que comessem dos sacrifícios aos ídolos, e cometessem 
 pecados sexuais.
 \v Ap.2.15
-Assim, também tu tens alguns que guardam, de igual maneira, a doutrina dos nicolaítas.
+Assim, também tu tens alguns que guardam
+, de igual maneira,
+ a doutrina dos nicolaítas
+.
 \v Ap.2.16
 Arrepende-te; senão, em breve virei a ti, e batalharei contra eles com a espada de minha boca.
 \v Ap.2.17
-Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer do maná escondido, e lhe darei uma pedrinha branca, e na pedrinha um novo nome escrito, o qual ninguém conhece, a não ser aquele que 
+Quem tem ouvidos, ouça o que o Espírito diz às igrejas: Ao que vencer, eu lhe darei de comer do maná escondido, e lhe 
+darei uma pedrinha branca, e na pedrinha um novo nome escrito, o qual ninguém conhece, a não ser aquele que 
 \added
 o
 \*added
@@ -229,9 +239,10 @@ que
  as últimas são mais que as primeiras.
 \v Ap.2.20
 Mas eu tenho 
- contra ti que tu deixas a
+ contra ti
+ que tu deixas a
 \fn
-RP acrecenta “tua” 
+RP contém também “tua” 
 \*fn
  mulher Jezabel, que se diz profetiza, ensinar e enganar meus servos, para que façam pecados sexuais, e comam dos sacrifícios aos ídolos.
 \v Ap.2.21
@@ -265,7 +276,9 @@ está
 “Isto diz aquele que tem os sete espíritos de Deus, e as sete estrelas: 
 “Eu conheço tuas obras; que tu tens nome de que vives, e estás morto.
 \v Ap.3.2
-Sê vigilante, e firma o resto que está a ponto de morrer;
+Sê vigilante, e firma o resto que 
+está a ponto de morrer
+;
  porque eu não achei tuas obras completas diante de Deus.
 \v Ap.3.3
 Então lembra-te do que tu tens recebido e ouvido, e guarda, e arrepende-te. Portanto, se tu não vigiares, eu virei sobre ti como ladrão, e tu não saberás a que hora eu virei sobre ti.
@@ -312,7 +325,8 @@ Porque tu guardaste a palavra da minha paciência, também eu te guardarei da ho
 \v Ap.3.11
 Eis que eu venho em breve; guarda o que tu tens, para que ninguém tome tua coroa.
 \v Ap.3.12
-Ao que vencer, eu o farei coluna no templo do meu Deus; e dele nunca mais sairá; e sobre ele escreverei o nome do meu Deus, e o nome da cidade do meu Deus, Nova Jerusalém, que desce do céu do meu Deus, e 
+Ao que vencer, eu o farei coluna no templo do meu Deus; e dele nunca mais sairá; e sobre ele escreverei o nome do meu 
+Deus, e o nome da cidade do meu Deus, Nova Jerusalém, que desce do céu do meu Deus, e 
 \added
 também
 \*added
@@ -329,7 +343,8 @@ Portanto porque tu és morno, e nem frio nem quente, eu te vomitarei da minha bo
 \v Ap.3.17
 Porque tu dizes: Eu sou rico, e tenho me enriquecido, e de nada tenho falta; E não sabes que estás miserável, coitado, pobre, cego e nu.
 \v Ap.3.18
-Eu te aconselho a comprar de mim ouro provado do fogo, para que te enriqueças; e roupas brancas, para que te vistas; e a vergonha de tua nudez não apareça; e unge teus olhos com colírio, para que vejas.
+Eu te aconselho a comprar de mim ouro provado do fogo, para que te enriqueças; e roupas brancas, para que te vistas; e 
+a vergonha de tua nudez não apareça; e unge teus olhos com colírio, para que vejas.
 \v Ap.3.19
 Eu repreendo e castigo a todos quantos eu amo; portanto sê zeloso, e te arrepende.
 \v Ap.3.20
@@ -339,7 +354,8 @@ Ao que vencer, eu lhe concederei que se sente comigo em meu trono; assim como eu
 \v Ap.3.22
 Quem tem ouvidos, ouça o que o Espírito diz às igrejas.”
 \v Ap.4.1
-Depois destas coisas eu olhei, e eis que uma porta estava aberta no céu; e a primeira voz que eu ouvi, como uma trombeta ao falar comigo, disse: “Sobe aqui, e eu te mostrarei as coisas que devem acontecer depois destas.”
+Depois destas coisas eu olhei, e eis que uma porta estava aberta no céu; e a primeira voz que eu ouvi, como uma 
+trombeta ao falar comigo, disse: “Sobe aqui, e eu te mostrarei as coisas que devem acontecer depois destas.”
 \v Ap.4.2
 E logo eu fui 
 \added
@@ -349,7 +365,8 @@ arrebatado
 \added
 alguém
 \*added
- sentado sobre o trono.
+ assentado sobre o trono
+.
 \v Ap.4.3
 E o que estava sentado era
  de aparência semelhante à pedra jaspe e sárdio; e o arco colorido celeste estava ao redor do trono, de aparência semelhante à esmeralda.
@@ -421,7 +438,8 @@ para
 E um dos anciãos me disse: “Não chores; eis que o Leão da tribo de Judá, a raiz de Davi, venceu, para abrir o livro e 
 soltar seus sete selos.”
 \v Ap.5.6
-E eu olhei, e eis que no meio do trono, e dos quatro animais, e no meio dos anciãos, um Cordeiro que estava como se tivesse sido morto, e tinha sete chifres, e sete olhos, que são os sete espíritos de Deus enviados para toda a terra.
+E eu olhei, e eis que no meio do trono, e dos quatro animais, e no meio dos anciãos, um Cordeiro que estava como se 
+tivesse sido morto, e tinha sete chifres, e sete olhos, que são os sete espíritos de Deus enviados para toda a terra.
 \v Ap.5.7
 E ele veio, e tomou o livro da 
 \added
@@ -436,15 +454,19 @@ E eles cantavam um novo cântico, dizendo:
 “Digno és tu de tomar o livro, 
 e de abrir seus selos; 
 porque foste morto, 
-e com o teu sangue para Deus  compraste 
+e com o teu sangue para Deus 
+ compraste 
 \added
 pessoas
 \*added
 , 
 de toda tribo, língua, povo, e nação;
 \v Ap.5.10
-e para nosso Deus tu as fizeste reis e sacerdotes; 
-e reinarão
+e para nosso Deus tu 
+as
+ fizeste reis e sacerdotes; 
+e 
+reinarão
  sobre a terra.”
 \v Ap.5.11
 E eu olhei, e ouvi uma voz de muitos anjos ao redor do trono, e dos animais, e dos anciãos; e o número deles era 
@@ -455,12 +477,14 @@ glória, e louvor!”
 \v Ap.5.13
 E eu ouvi toda criatura que está no céu, e na terra, e abaixo da terra, e no mar, e todas as coisas que nelas há, 
 dizendo: “Ao que está sentado sobre o trono, e ao Cordeiro, seja o louvor, a honra, a glória, e o poder, para 
-todo o sempre!”
+todo o sempre!
+”
 \v Ap.5.14
 E os quatro animais diziam: “Amém!” E os
- anciãos se prostraram e adoraram.
+ anciãos se prostraram e adoraram
+.
 \fn
-TR acrescenta: “ao que vive para todo o sempre”
+TR contém adicionalmente: “ao que vive para todo o sempre”
 \*fn
 \v Ap.6.1
 E eu vi quando o Coreiro abriu um dos selos; e ouvi um dos quatro animais dizendo 
@@ -554,20 +578,31 @@ suas testas.”
 E ouvi o número dos que foram selados; e cento e quarenta e quatro mil foram selados de todas as tribos dos filhos de Israel.
 \v Ap.7.5
 Da tribo de Judá, doze mil foram selados; 
-da tribo de Rúben, doze mil; 
-da tribo de Gade, doze mil;
+da tribo de Rúben, doze mil
+; 
+da tribo de Gade, doze mil
+;
 \v Ap.7.6
-da tribo de Aser, doze mil; 
-da tribo de Naftali, doze mil; 
-da tribo de Manassés, doze mil;
+da tribo de Aser, doze mil
+; 
+da tribo de Naftali, doze mil
+; 
+da tribo de Manassés, doze mil
+;
 \v Ap.7.7
-da tribo de Simeão, doze mil; 
-da tribo de Levi, doze mil; 
-da tribo de Issacar, doze mil;
+da tribo de Simeão, doze mil
+; 
+da tribo de Levi, doze mil
+; 
+da tribo de Issacar, doze mil
+;
 \v Ap.7.8
-da tribo de Zebulom, doze mil; 
-da tribo de José, doze mil; 
-da tribo de Benjamim, doze mil.
+da tribo de Zebulom, doze mil
+; 
+da tribo de José, doze mil
+; 
+da tribo de Benjamim, doze mil
+.
 \v Ap.7.9
 Depois destas coisas eu olhei, e eis uma grande multidão, a qual ninguém podia contar, de todas as nações, e tribos, 
 e povos, e línguas, que estavam diante do trono e diante do Cordeiro, vestidos de roupas brancas, e 
@@ -624,7 +659,8 @@ as
  tocarem.
 \v Ap.8.7
 E o primeiro anjo tocou sua trombeta; e houve saraiva e fogo misturado com sangue; e foram lançados sobre 
-a terra; e a terça parte da terra foi queimada,
+a terra;
+ e a terça parte da terra foi queimada,
  e a terça parte das árvores se queimou, e toda a erva verde foi queimada.
 \v Ap.8.8
 E o segundo anjo tocou sua trombeta; e como um grande monte ardendo em fogo foi lançado ao mar; e a terça 
@@ -686,7 +722,8 @@ se tornasse
 \*added
  semelhante à noite.
 \v Ap.8.13
-E olhei, e ouvi uma águia
+E olhei, e ouvi 
+uma águia
  que estava voando pelo meio do céu, dizendo em alta voz: “Ai, ai, ai dos que habitam sobre a terra por causa das 
 demais vozes das trombetas dos três anjos que ainda vão tocar!”
 \v Ap.9.1
@@ -747,7 +784,8 @@ parte
 \*added
  da humanidade.
 \v Ap.9.16
-E o número dos exércitos de cavaleiros era duzentos
+E o número dos exércitos de cavaleiros era 
+duzentos
  milhões; e eu ouvi o número deles.
 \v Ap.9.17
 E assim eu vi os cavalos n 
@@ -847,7 +885,8 @@ autoridade
 \*added
  às minhas duas testemunhas, e elas profetizarão por mil duzentos e sessenta dias, vestidas de sacos.”
 \v Ap.11.4
-Estas são as duas oliveiras, e os dois castiçais, que estão diante do Senhor
+Estas são as duas oliveiras, e os dois castiçais, que estão diante do 
+Senhor
  da terra.
 \v Ap.11.5
 E se alguém quiser lhes maltratar, fogo sai da sua boca, e devora aos inimigos delas; e se alguém quiser lhes 
@@ -904,9 +943,10 @@ Senhor, e do seu Cristo, e ele reinará para todo o sempre.”
 E os vinte e quatro anciãos, que estão sentados diante de Deus em seus tronos, prostraram-se sobre seus rostos, 
 e adoraram a Deus,
 \v Ap.11.17
-dizendo: “Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era;
+dizendo: “Graças te damos, Senhor Deus, o Todo-Poderoso, o que é, e que era
+;
 \fn
-TR acrescenta “e que virá” 
+TR contém adicionalmente “e que virá” 
 \*fn
  porque tomaste o teu grande poder, e tens reinado;
 \v Ap.11.18
@@ -1007,7 +1047,8 @@ Lit. semente
 \*fn
  dela, os que guardam os mandamentos de Deus e têm o testemunho de Jesus Cristo.
 \v Ap.13.1
-E ele ficou parado sobre a areia do mar. E vi subir do mar uma besta, que tinha sete cabeças e dez chifres, e 
+E ele ficou
+ parado sobre a areia do mar. E vi subir do mar uma besta, que tinha sete cabeças e dez chifres, e 
 sobre seus chifres dez diademas; e sobre suas cabeças um nome de blasfêmia.
 \v Ap.13.2
 E a besta que eu vi era semelhante a um leopardo, e seus pés como de urso, e sua boca como boca de leão; e o dragão 
@@ -1077,7 +1118,9 @@ Aqui está a sabedoria: aquele que tem entendimento, calcule o número da besta,
 e seu número é seiscentos e sessenta e seis.
 \v Ap.14.1
 E eu olhei, e eis que o Cordeiro estava de pé sobre o monte Sião, e com ele cento e quarenta e quatro mil, tendo 
-o nome dele e do Pai dele
+o nome
+ dele e
+ do Pai dele
  escrito em suas testas.
 \v Ap.14.2
 E eu ouvi uma voz do céu como voz de muitas águas, e como voz de um grande trovão; e ouvi uma voz de tocadores de 
@@ -1093,10 +1136,12 @@ sendo
 \*added
  primícias para Deus e para o Cordeiro.
 \v Ap.14.5
-E não foi encontrada mentira
- na boca deles, porque eles são irrepreensíveis.
+E não foi 
+encontrada mentira
+ na boca deles, porque eles são irrepreensíveis
+.
 \fn
-TR acrescenta: “diante do trono de Deus” 
+TR contém adicionalmente: “diante do trono de Deus” 
 \*fn
 \v Ap.14.6
 E eu vi outro anjo voando tendo o evangelho eterno, para proclamá-lo aos que habitam sobre a terra, e a toda nação, 
@@ -1188,7 +1233,9 @@ Teus caminhos são justos e verdadeiros,
 \added
 ó
 \*added
- Rei das nações!
+ Rei 
+das nações
+!
 \fn
 TR: dos santos 
 \*fn
@@ -1223,8 +1270,11 @@ este
 \v Ap.16.4
 E o terceiro anjo derramou sua taça sobre os rios, e sobre as fontes de águas, e se tornaram em sangue.
 \v Ap.16.5
-E eu ouvi ao anjo das águas, dizendo: “Justo és tu,
- que és, e que eras, o Santo,
+E eu ouvi ao anjo das águas, dizendo: “Justo és tu
+,
+ que és, e que eras, 
+o Santo
+,
  porque julgaste estas coisas;
 \v Ap.16.6
 porque eles derramaram o sangue dos santos e dos profetas, também tu lhes deste sangue a beber; porque disto são merecedores.”
@@ -1324,7 +1374,7 @@ juntamente
 \v Ap.17.13
 Estes têm uma mesma intenção, e entregarão seu poder e autoridade à besta.
 \v Ap.17.14
-Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis); e os 
+Estes batalharão contra o Cordeiro, e o Cordeiro os vencerá, porque ele é o Senhor dos senhores, e o Rei dos reis; e os 
 que estão com ele 
 \added
 são
@@ -1496,7 +1546,7 @@ havia
 \*added
  muitas diademas, e ele tinha
 \fn
-RP acrescenta: “nomes escritos [nelas], além de” 
+RP contém adicionalmente: “nomes escritos [nelas], além de” 
 \*fn
  um nome escrito, que ninguém sabia, a não ser ele mesmo.
 \v Ap.19.13
@@ -1536,7 +1586,7 @@ E eu vi um anjo descendo do céu, tendo a chave do abismo; e uma grande corrente
 \v Ap.20.2
 E ele deteve ao dragão, e à antiga serpente, que é o diabo e Satanás,
 \fn
-RP acrescenta: “o que engana toda a Terra” 
+RP contém adicionalmente: “o que engana toda a Terra” 
 \*fn
  e o amarrou por mil anos.
 \v Ap.20.3
@@ -1607,7 +1657,9 @@ Xeol é o lugar dos mortos
 \*fn
  entregaram os mortos que neles havia; e foram julgados cada um segundo as obras deles.
 \v Ap.20.14
-E a morte e o Xeol foram lançados no lago de fogo; esta é a segunda morte: o lago de fogo.
+E a morte e o Xeol foram lançados no lago de fogo; esta é a segunda morte
+: o lago de fogo
+.
 \v Ap.20.15
 E todo aquele que não fosse achado escrito no livro da vida foi lançado no lago de fogo.
 \v Ap.21.1
@@ -1644,7 +1696,9 @@ já
 E o que estava sentado sobre o trono disse: “Eis que eu faço novas todas as coisas.” E ele me disse: “Escreve, porque estas palavras 
 são verdadeiras e fiéis.”
 \v Ap.21.6
-E ele me disse: “Está feito. Eu sou o Alfa e o Ômega,
+E ele me disse: “
+Está feito. Eu sou
+ o Alfa e o Ômega,
  o princípio e o fim. Quem tiver sede, de graça eu lhe darei da fonte da água da vida.
 \v Ap.21.7
 Quem vencer herdará todas as coisas; e eu serei Deus dele, e ele será meu filho.
@@ -1748,9 +1802,11 @@ E a cidade não necessita de sol nem de lua para que brilhem nela; porque a gló
 \v Ap.21.24
 E as nações
 \fn
-TR acrescenta: “dos salvos” 
+TR contém adicionalmente: “dos salvos” 
 \*fn
- andarão na luz dela; e os reis da terra trarão a ela a glória e honra deles.
+ andarão na luz dela; e os reis da terra trarão a ela a glória e honra 
+deles
+.
 \v Ap.21.25
 E suas portas não se fecharão de dia; porque ali não haverá noite.
 \v Ap.21.26
@@ -1781,7 +1837,7 @@ para todo o sempre.
 E ele me disse: “Estas palavras são fiéis e verdadeiras; e o Senhor, o Deus dos santos profetas, enviou o seu anjo para mostrar a seus 
 servos as coisas que devem acontecer em breve.”
 \v Ap.22.7
-“Eis que logo venho; bendito
+“Eis que logo venho; bendito 
 \fn
 Ou: bem-aventurado
 \*fn
@@ -1815,7 +1871,9 @@ Benditos
 \fn
 Ou: Bem-aventurados
 \*fn
- são os que lavam as suas vestes,
+ são os que 
+lavam as suas vestes
+,
 \fn
 \key
 os que lavam as suas vestes
@@ -1848,8 +1906,10 @@ que
 \*added
  se alguém acrescentar a estas, Deus lhe acrescentará as pragas que estão escritas neste livro;
 \v Ap.22.19
-E se alguém tirar das palavras do livro desta profecia, Deus tirará
- sua parte da árvore
+E se alguém tirar das palavras do livro desta profecia, Deus 
+tirará
+ sua parte 
+da árvore
 \fn
 TR: do livro 
 \*fn
@@ -1861,11 +1921,11 @@ A graça do nosso Senhor Jesus Cristo
 \added
 seja
 \*added
- com todos.
- 
+ com todos
+.
 \fn
 TR: todos vós – RP: todos os santos – N4: todos 
 \*fn
 \fn
-TR, RP acrescentam: “Amém!” 
+TR, RP contêm adicionalmente: “Amém!” 
 \*fn

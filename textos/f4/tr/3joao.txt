@@ -5,7 +5,7 @@ Terceira Carta de João
 3 João
 \*name-short
 \abbreviation
-3Jo
+3Joao
 \*abbreviation
 \ubs-code
 3JN
@@ -33,6 +33,9 @@ da vontade
 \v 3Jo.1.7
 Pois foi por causa do Nome 
 dele
+\fn
+RP, N4 não contêm “dele” 
+\*fn
  que partiram em jornada, sem nada aceitar dos gentios. 
 \fn
 \key
@@ -41,10 +44,17 @@ gentios
 i.e., dos gentios não-cristãos 
 \*fn
 \v 3Jo.1.8
-Portanto devemos acolher
+Portanto devemos 
+acolher
+\fn
+TR, RP: acolher – N4: apoiar 
+\*fn
  tais pessoas, para que sejamos cooperadores da verdade.
 \v 3Jo.1.9
 Eu tenho escrito 
+\fn
+N4 contém adicionalmente “algo” 
+\*fn
  aos da igreja; 
 \fn
 \key
@@ -54,7 +64,8 @@ lit. à igreja
 \*fn
 porém Diótrefes, que busca ser o comandante deles, não nos recebe.
 \v 3Jo.1.10
-Por isso, se eu vier, trarei à memória os seus feitos, falando ele contra nós com palavras maliciosas; e não satisfeito com isso, não recebe aos irmãos, proíbe aos que se dispõem a fazer, e os expulsa da igreja.
+Por isso, se eu vier, trarei à memória os seus feitos, falando ele contra nós com palavras maliciosas; e não 
+satisfeito com isso, não recebe aos irmãos, proíbe aos que se dispõem a fazer, e os expulsa da igreja.
 \v 3Jo.1.11
 Amado, não imites o mal, mas sim o bem. Quem faz o bem é de Deus, mas quem faz o mal nunca viu Deus.
 \v 3Jo.1.12
@@ -62,7 +73,8 @@ Demétrio tem alcançado
 \added
 bom
 \*added
- testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e vós sabeis
+ testemunho de todos, inclusive da própria verdade. Também nós damos testemunho, e 
+vós sabeis
 \fn
 N4: tu sabes 
 \*fn

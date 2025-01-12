@@ -11,7 +11,9 @@ Segunda Carta de Paulo a Timóteo
 2TI
 \*ubs-code
 \v 2Tm.1.1
-Paulo, apóstolo de Cristo Jesus,
+Paulo, apóstolo de 
+Cristo Jesus
+,
  pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,
 \v 2Tm.1.2
 a Timóteo, 
@@ -52,14 +54,16 @@ Ou: seu próprio propósito
 \*fn
  e a graça que nos foi dada em Cristo Jesus antes dos princípios dos tempos;
 \v 2Tm.1.10
-mas agora é manifesta pela aparição do nosso Salvador Cristo Jesus,
+mas agora é manifesta pela aparição do nosso Salvador 
+Cristo Jesus
+,
  que anulou a morte, e trouxe para a luz a vida e a imortalidade
 \fn
-Ou “incorrupção”, isto é, o apodrecimento do corpo
+Ou “incorrupção”, i.e. a decomposição do corpo
 \*fn
  por meio do evangelho;
 \v 2Tm.1.11
-do qual eu fui constituído pregador e apóstolo, e instrutor.
+do qual eu fui constituído pregador e apóstolo, e instrutor
 \v 2Tm.1.12
 Por causa disso também sofro essas coisas; porém não me envergonho. Pois sei em quem tenho crido, e tenho certeza de 
 que ele é poderoso para guardar o que lhe confiei
@@ -84,7 +88,8 @@ Sabes isto, que todos os que estão na Ásia Romana me abandonaram, entre os qua
 \v 2Tm.1.16
 O Senhor conceda misericórdia à casa de Onesíforo, pois muitas vezes ele me consolou, e não se envergonhou de eu estar em cadeias;
 \v 2Tm.1.17
-Pelo contrário, quando veio a Roma, com muito empenho me procurou,
+Pelo contrário, quando veio a Roma, com
+ empenho me procurou,
  e 
 \added
 me
@@ -103,7 +108,9 @@ E o que de mim ouviste entre muitas testemunhas, confia-o a pessoas fiéis, que 
 a outros.
 \v 2Tm.2.3
 Sofre comigo
- as aflições como bom soldado de Cristo Jesus.
+ as aflições como bom soldado de 
+Cristo Jesus
+.
 \v 2Tm.2.4
 Nenhum soldado em batalha se envolve com assuntos desta vida, pois tem como objetivo agradar àquele que o alistou.
 \v 2Tm.2.5
@@ -111,7 +118,8 @@ E, também, se alguém está competindo como atleta, não recebe a coroa se não
 \v 2Tm.2.6
 O lavrador que trabalha deve ser o primeiro a receber da partilha dos frutos.
 \v 2Tm.2.7
-Considera o que digo; pois o Senhor te dará
+Considera o que digo; 
+pois o Senhor te dará
  entendimento em tudo.
 \v 2Tm.2.8
 Lembra-te de Jesus Cristo, ressuscitado dos mortos, da descendência
@@ -147,13 +155,18 @@ se sofrermos, também com
 \added
 ele
 \*added
- reinaremos; se o negarmos,
+ reinaremos; se o 
+negarmos
+,
  também ele nos negará;
 \v 2Tm.2.13
-se formos infiéis, ele continua fiel; porque
+se formos infiéis, ele continua fiel;
+ porque
  ele não pode negar a si mesmo.
 \v 2Tm.2.14
-Lembra-os disso, alertando-os diante de Deus,
+Lembra-os disso, alertando-os diante 
+de Deus
+,
  que não tenham brigas de palavras, que não têm proveito algum, 
 \added
 a não ser
@@ -181,7 +194,9 @@ Porém o fundamento de Deus continua firme, e tem este selo:
 Ou: esta inscrição
 \*fn
  o Senhor conhece os que são seus, e que todo aquele que 
-faz uso do nome do Senhor,
+faz uso do nome 
+do Senhor
+,
  se afaste da injustiça.
 \v 2Tm.2.20
 Numa grande casa não há somente utensílios de ouro e de prata, mas também de madeira e de barro; e uns para honra, porém outros para desonra.
@@ -238,7 +253,9 @@ E também todos os que querem viver devotamente em Cristo Jesus sofrerão perseg
 \v 2Tm.3.13
 Mas os que são maus e enganadores irão de mal a pior, enganando e sendo enganados.
 \v 2Tm.3.14
-Tu, porém, continua nas coisas que aprendeste e das quais foste convencido, pois sabes aqueles de quem as aprendeste.
+Tu, porém, continua nas coisas que aprendeste e das quais foste convencido, pois sabes
+ aqueles
+ de quem as aprendeste.
 \v 2Tm.3.15
 e que desde tua infância conheceste as Sagradas Escrituras, que podem te fazer sábio para a salvação pela fé em Cristo Jesus.
 \v 2Tm.3.16
@@ -254,8 +271,13 @@ Ou: Toda a Escritura divinamente inspirada é também
 \v 2Tm.3.17
 para que o homem de Deus seja completo, plenamente instruído para toda boa obra.
 \v 2Tm.4.1
-Convoco-te diante de Deus e de Cristo Jesus,
- que irá julgar os vivos e os mortos, e pela sua aparição e seu reino:
+Convoco-te
+ diante de Deus e 
+de Cristo Jesus
+,
+ que irá julgar os vivos e os mortos
+, e pela
+ sua aparição e seu reino:
 \v 2Tm.4.2
 prega a palavra; insiste em tempo e fora de tempo; reprova, repreende 
 \added
@@ -288,7 +310,8 @@ Enviei Tíquico a Éfeso.
 \v 2Tm.4.13
 Quando vieres, traz a capa que deixei em Trôade na casa de Carpo, e os livros, principalmente os pergaminhos.
 \v 2Tm.4.14
-Alexandre, o que trabalha com cobre, me causou muitos males; o Senhor retribuirá
+Alexandre, o que trabalha com cobre, me causou muitos males; o Senhor 
+retribuirá
  a ele conforme suas obras.
 \v 2Tm.4.15
 Toma cuidado com ele também, porque ele se opôs muito às nossas palavras.
@@ -301,7 +324,8 @@ a
 \*added
  ouvissem; e fui livrado da boca do leão.
 \v 2Tm.4.18
-O Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
+O
+ Senhor me livrará de toda obra má, e me preservará para o seu reino celestial. A ele 
 \added
 seja
 \*added

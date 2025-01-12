@@ -79,7 +79,7 @@ seu castigo
 \v Am.2.2
 Por isso meterei fogo em Moabe, que consumirá os palácios de Queriote; e Moabe morrerá em tumulto, com grito e som de trombeta.
 \v Am.2.3
-E exterminarei o juiz do meio dele, e matarei a todos seus príncipes com ele,diz o SENHOR.
+E exterminarei o juiz do meio dele, e matarei a todos seus príncipes com ele, diz o SENHOR.
 \v Am.2.4
 Assim diz o SENHOR: Por três transgressões de Judá, e pela quarta, não desviarei 
 \added
@@ -183,13 +183,13 @@ Ouvi e testemunhai contra a casa
 \key
 casa
 \*key
-i.e., família
+i.e. família
 \*fn
  de Jacó, diz o SENHOR Deus dos exércitos;
 \v Am.3.14
 Que no dia em que eu punir as transgressões de Israel sobre ele, também farei punição sobre os altares de Betel; e as pontas do altar serão cortadas, e cairão por terra.
 \v Am.3.15
-E ferirei a casa do inverno com a casa do verão, e as casas de marfim se acabarão; e muitas casas terão fim,diz o SENHOR.
+E ferirei a casa do inverno com a casa do verão, e as casas de marfim se acabarão; e muitas casas terão fim, diz o SENHOR.
 \v Am.4.1
 Ouvi esta palavra, vós vacas de Basã, que estais no monte de Samaria; que oprimis os pobres, que quebrantais os necessitados, que dizeis a seus senhores: Trazei nossa bebida.
 \v Am.4.2
@@ -206,7 +206,7 @@ obscuro
 \v Am.4.4
 Ide a Betel, e transgredi; em Gilgal aumentai as transgressões, e de manhã trazei vossos sacrifícios, vossos dízimos ao terceiro dia.
 \v Am.4.5
-E oferecei sacrifício de louvores com lêvedo, e anunciai ofertas voluntárias; pois é assim que quereis, ó filhos de Israel,diz o Senhor DEUS.
+E oferecei sacrifício de louvores com lêvedo, e anunciai ofertas voluntárias; pois é assim que quereis, ó filhos de Israel, diz o Senhor DEUS.
 \v Am.4.6
 Eu também vos dei bocas vazias
 \fn
@@ -215,7 +215,7 @@ bocas vazias = lit. dentes limpos
 \*key
 i.e. fome
 \*fn
- em todas vossas cidades, e falta de pão em todos os vossos lugares, contudo não vos convertestes a mim,diz o SENHOR.
+ em todas vossas cidades, e falta de pão em todos os vossos lugares, contudo não vos convertestes a mim, diz o SENHOR.
 \v Am.4.7
 Além disso eu vos retive a chuva três meses antes da colheita; e fiz chover sobre uma cidade, e sobre outra cidade não fiz chover; sobre um campo choveu; mas o outro campo sobre o qual não choveu, se secou;
 \v Am.4.8
@@ -223,11 +223,11 @@ De modo que
 \added
 os moradores de
 \*added
- duas ou três cidades perambulavam até uma cidade para beberem água, mas não se saciavam; contudo não vos convertestes a mim,diz o SENHOR.
+ duas ou três cidades perambulavam até uma cidade para beberem água, mas não se saciavam; contudo não vos convertestes a mim, diz o SENHOR.
 \v Am.4.9
-Eu vos feri com ferrugem e doenças nas plantas; a multidão de vossos jardins e vossas vinhas, vossas figueiras e vossas oliveiras o gafanhoto comeu; contudo não vos convertestes a mim,diz o SENHOR.
+Eu vos feri com ferrugem e doenças nas plantas; a multidão de vossos jardins e vossas vinhas, vossas figueiras e vossas oliveiras o gafanhoto comeu; contudo não vos convertestes a mim, diz o SENHOR.
 \v Am.4.10
-Enviei entre vós a pestilência, à maneira do Egito; matei à espada vossos rapazes, e deixei que capturassem vossos cavalos; e fiz subir o mau cheiro de vossos exércitos até vossas narinas; contudo não vos convertestes a mim,diz o SENHOR.
+Enviei entre vós a pestilência, à maneira do Egito; matei à espada vossos rapazes, e deixei que capturassem vossos cavalos; e fiz subir o mau cheiro de vossos exércitos até vossas narinas; contudo não vos convertestes a mim, diz o SENHOR.
 \v Am.4.11
 Transtornei a alguns dentre vós, como quando Deus transtornou a Sodoma e a Gomorra, e fostes como tição escapado do fogo; contudo não vos convertestes a mim, diz o SENHOR.
 \v Am.4.12
@@ -287,7 +287,7 @@ do povo
 \v Am.5.16
 Portanto assim diz o SENHOR Deus dos exércitos, o Senhor: Em todas as praças haverá pranto, e em todas as ruas dirão: Ai! ai! E chamarão o lavrador ao choro, e os que sabem prantear ao lamento.
 \v Am.5.17
-E em todas as vinhas haverá pranto, porque passarei por meio de ti,diz o SENHOR.
+E em todas as vinhas haverá pranto, porque passarei por meio de ti, diz o SENHOR.
 \v Am.5.18
 Ai dos que desejam o dia do SENHOR! Para que quereis este dia do SENHOR? Será trevas, e não luz.
 \v Am.5.19
@@ -384,7 +384,7 @@ lit. ficar de pé, subsistir – também no restante do capítulo
 \added
 Então
 \*added
- o SENHOR se arrependeu disso: Isto não acontecerá,disse o SENHOR.
+ o SENHOR se arrependeu disso: Isto não acontecerá, disse o SENHOR.
 \v Am.7.4
 Assim o Senhor DEUS me fez ver: eis que o Senhor DEUS pretendeu executar juízo com fogo; e consumiu um grande abismo, assim como consumiu uma parte da terra.
 \v Am.7.5
@@ -428,7 +428,7 @@ Assim o SENHOR me fez ver: eis um cesto com frutos de verão.
 \v Am.8.2
 E ele disse: O que vês, Amós? E eu disse: Um cesto com frutos de verão. Então o SENHOR me disse: Chegou o fim sobre meu povo Israel; não mais o tolerarei.
 \v Am.8.3
-E os cânticos do templo serão gemidos naquele dia,diz o Senhor DEUS; os cadáveres serão muitos, em todo lugar serão lançados. Silêncio!
+E os cânticos do templo serão gemidos naquele dia, diz o Senhor DEUS; os cadáveres serão muitos, em todo lugar serão lançados. Silêncio!
 \v Am.8.4
 Ouvi isto, vós que tragais os necessitados, e arruinais os pobres da terra,
 \v Am.8.5
@@ -440,11 +440,11 @@ O SENHOR jurou pela glória de Jacó: Eu nunca me esquecerei das obras deles.
 \v Am.8.8
 A terra não se abalará por causa disto, e todo habitante dela não chorará? Certamente ela se levantará como um rio, se agitará, e se afundará como o rio do Egito.
 \v Am.8.9
-E será naquele dia,diz o Senhor DEUS, que farei o sol se pôr ao meio-dia, e escurecerei a terra no dia claro.
+E será naquele dia, diz o Senhor DEUS, que farei o sol se pôr ao meio-dia, e escurecerei a terra no dia claro.
 \v Am.8.10
 E tornarei vossas festas em luto, e todas as vossas canções em pranto; e farei com que todos se vistam de saco, e se façam calvas sobre todas as cabeças; e farei com que haja luto como de um filho único, e seu fim será como um dia amargo.
 \v Am.8.11
-Eis que vêm dias,diz o Senhor DEUS, nos quais enviarei fome à terra; fome não de pão, nem sede de água, mas sim de ouvir as palavras do SENHOR.
+Eis que vêm dias, diz o Senhor DEUS, nos quais enviarei fome à terra; fome não de pão, nem sede de água, mas sim de ouvir as palavras do SENHOR.
 \v Am.8.12
 E irão sem rumo de mar a mar, do norte até o oriente; correrão de um lado para o outro em busca da palavra do SENHOR, mas não a encontrarão.
 \v Am.8.13

@@ -11,7 +11,8 @@ Primeira Carta de Paulo a Timóteo
 1TI
 \*ubs-code
 \v 1Tm.1.1
-Paulo, apóstolo de Cristo Jesus
+Paulo, apóstolo de 
+Cristo Jesus
  segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
 \v 1Tm.1.2
 Para Timóteo, 
@@ -27,7 +28,8 @@ e
 \v 1Tm.1.3
 Assim como te roguei quando eu estava indo à Macedônia, fica em Éfeso, para advertires a alguns que não ensinem outra doutrina,
 \v 1Tm.1.4
-Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a administração
+Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a 
+administração
 \fn
 TR contém: edificação
 \*fn
@@ -76,7 +78,8 @@ eu sou o principal.
 Mas por isso me foi concedida misericórdia, para que em mim, o principal, Jesus Cristo mostrasse toda a sua paciência 
 como exemplo aos que haviam de crer nele para a vida eterna.
 \v 1Tm.1.17
-Ao Rei dos tempos, imortal, invisível, o único Deus,
+Ao Rei dos tempos, imortal, invisível, o único Deus
+,
 \added
 seja
 \*added
@@ -98,7 +101,8 @@ e
 pelos reis, e por todos os que estão em posição superior, para que tenhamos uma vida quieta e sossegada, em toda devoção divina 
 e honestidade.
 \v 1Tm.2.3
-Isso é bom e agradável diante de Deus nosso Salvador;
+Isso
+ é bom e agradável diante de Deus nosso Salvador;
 \v 1Tm.2.4
 que quer que todas as pessoas se salvem e venham ao conhecimento da verdade.
 \v 1Tm.2.5
@@ -157,11 +161,12 @@ Esta
 \v 1Tm.3.2
 É dever, portanto, que o bispo seja irrepreensível, marido de uma mulher, sóbrio, comedido, decente, hospitaleiro, apto para ensinar;
 \v 1Tm.3.3
-Não dado ao vinho, não violento,
+Não dado ao vinho, não violento
+,
 \fn
-TR, RP adicionam “não ganancioso”
+TR, RP contêm adicionalmente “não ganancioso”
 \*fn
-  mas sim moderado, não briguento, não cobiçoso por dinheiro;
+ mas sim, moderado, não briguento, não cobiçoso por dinheiro;
 \v 1Tm.3.4
 que governe bem a sua própria casa, e tenha os 
 \added
@@ -173,7 +178,7 @@ seus
 \v 1Tm.3.6
 Não um novo convertido; para que não se torne arrogante, e caia na condenação do diabo.
 \fn
-Isto é, da mesma maneira que o diabo foi condenado
+i.e. da mesma maneira que o diabo foi condenado
 \*fn
 \v 1Tm.3.7
 É dever também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação pública e na cilada 
@@ -211,9 +216,10 @@ Lit. andar
 \*fn
  na casa de Deus, que é a igreja do Deus vivo, a coluna e o alicerce da verdade.
 \v 1Tm.3.16
-E, sem dúvida nenhuma, grande é o mistério da devoção divina: Ele
+E, sem dúvida nenhuma, grande é o mistério da devoção divina: 
+Ele
 \fn
-TR, RP substituem “Ele” por “Deus”
+TR, RP contêm “Deus” em lugar de “Ele”
 \*fn
  foi revelado em carne, justificado em Espírito, visto pelos anjos, pregado aos gentios, crido no mundo, e recebido 
 acima em glória.
@@ -242,7 +248,9 @@ Se informares
 \fn
 Lit. propuseres
 \*fn
- essas coisas aos irmãos, serás um bom servidor de Cristo Jesus,
+ essas coisas aos irmãos, serás um bom servidor de 
+Cristo Jesus
+,
  alimentado com as palavras da fé e de boa doutrina que tens seguido.
 \v 1Tm.4.7
 Mas rejeita os mitos profanos e de velhas, e exercita-te na devoção divina.
@@ -255,9 +263,12 @@ Esta
 \*added
  palavra é fiel, e digna de toda aceitação.
 \v 1Tm.4.10
-Pois para isto  trabalhamos e lutamos,
+Pois para isto
+ trabalhamos e 
+lutamos
+,
 \fn
-N4: “lutamos” :: TR, RP: “somos insultados”
+N4: “lutamos” - TR, RP: “somos insultados”
 \*fn
  porque esperamos o Deus vivo, que é o Salvador de todos, especialmente dos crentes.
 \v 1Tm.4.11
@@ -272,7 +283,7 @@ pública
 \*added
 ,
 \fn
-Isto é, leitura pública das escrituras
+i.e. leitura pública das escrituras
 \*fn
  na exortação e no ensino, até que eu venha.
 \v 1Tm.4.14
@@ -329,8 +340,11 @@ e
 Pois algumas já se desviaram e seguiram Satanás.
 \v 1Tm.5.16
 Se
- alguma crente tem viúvas, que as ajude, e não sobrecarregue a igreja, para que ela possa ajudar as 
-que são de verdade viúvas.
+ alguma crente tem viúvas 
+\added
+na família
+\*added 
+, que as ajude, e não sobrecarregue a igreja, para que ela possa ajudar as que de verdade são viúvas.
 \v 1Tm.5.17
 Os presbíteros 
 \added
@@ -352,9 +366,10 @@ Não aceites acusação contra um presbítero, a não ser com duas ou três test
 \v 1Tm.5.20
 Aos que pecarem, repreende-os na presença de todos, para que os outros também tenham temor.
 \v 1Tm.5.21
-Ordeno-te, diante de Deus, de Cristo Jesus,
- e dos anjos escolhidos, que guardes essas coisas sem preconceitos, 
-fazendo nada por favoritismo.
+Ordeno-te, diante de Deus, 
+de Cristo Jesus
+,
+ e dos anjos escolhidos, que guardes essas coisas sem preconceitos, fazendo nada por favoritismo.
 \v 1Tm.5.22
 A ninguém imponhas as mãos apressadamente, nem participes dos pecados alheios; conserva-te puro.
 \v 1Tm.5.23
@@ -391,13 +406,13 @@ conflitos constantes
  de pessoas corrompidas de entendimento, e privadas da verdade, que pensam que a devoção divina
  é um meio de lucrar.
 \fn
-TR, RP acrescentam: “Afasta-te dos tais” ao final do versículo
+TR, RP contêm adicionalmente: “Afasta-te dos tais” ao final do versículo
 \*fn
 \v 1Tm.6.6
 Mas grande lucro é a devoção divina acompanhada de contentamento.
 \v 1Tm.6.7
 Pois nada trouxemos ao mundo, e 
-portanto
+portanto,
  nada podemos levar dele.
 \v 1Tm.6.8
 Mas se tivermos alimento e algo com que nos cobrirmos, estejamos contentes com isso.
@@ -427,8 +442,9 @@ Ou: bem-aventurado
 o único a ter imortalidade, e que habita em luz inacessível; aquele a quem nenhum ser humano viu, nem pode ver; a ele 
 seja honra e poder para sempre! Amém.
 \v 1Tm.6.17
-Manda aos ricos desta era que não sejam soberbos, nem ponham a esperança na incerteza das riquezas, mas sim 
-em Deus,
+Manda aos ricos desta era que não sejam soberbos, nem ponham a esperança na incerteza das riquezas, mas sim, 
+em Deus
+,
  que nos dá abundantemente todas as coisas 
 \added
 que são
@@ -437,7 +453,9 @@ que são
 \v 1Tm.6.18
 que façam o bem, sejam ricos em boas obras, dispostos a compartilhar, e generosos.
 \v 1Tm.6.19
-que acumulem para si mesmos um bom fundamento para o futuro, para que obtenham a verdadeira vida.
+que acumulem para si mesmos um bom fundamento para o futuro, para que obtenham a 
+verdadeira vida
+.
 \fn
 N4: verdadeira vida :: TR, RP: vida eterna
 \*fn
@@ -452,5 +470,6 @@ que alguns declararam seguir, e se desviaram da fé. A graça
 \added
 seja
 \*added
- convosco.
+convosco
+.
  

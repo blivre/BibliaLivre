@@ -11,14 +11,16 @@ Cl
 COL
 \*ubs-code
 \v Cl.1.1
-Paulo, apóstolo de Cristo Jesus
+Paulo, apóstolo de 
+Cristo Jesus
  pela vontade de Deus, e o irmão Timóteo,
 \v Cl.1.2
 aos santos e fiéis irmãos em Cristo, que estão em Colossos. 
 \added
 Haja
 \*added
- em vós a graça e paz da parte de Deus nosso Pai.
+ em vós a graça e paz da parte de Deus nosso Pai
+.
 \fn
 TR, RP contêm “e do Senhor Jesus Cristo” ao final do versículo
 \*fn
@@ -35,7 +37,8 @@ a palavra “esperança” foi repetida para simplificar uma frase longa
 \*fn
  pala palavra da verdade do evangelho,
 \v Cl.1.6
-que já chegou a vós, como também em todo o mundo; e vai frutificando e crescendo
+que já chegou a vós, como também em todo o mundo; e vai frutificando
+ e crescendo
  assim como entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade.
 \v Cl.1.7
 Aprendestes o evangelho
@@ -61,12 +64,14 @@ diante
 \v Cl.1.11
 capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
 \v Cl.1.12
-agradecendo ao Pai, que vos
+agradecendo ao Pai, que 
+vos
  capacitou a participar da herança dos santos na luz.
 \v Cl.1.13
 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
 \v Cl.1.14
-em quem temos a redenção:
+em quem temos a redenção
+:
 \fn
 TR contém: “redenção pelo seu sangue”
 \*fn
@@ -117,7 +122,8 @@ Ele é quem anunciamos, advertindo a toda pessoa, e ensinando a toda pessoa, com
 \added
 como
 \*added
- completa em Cristo.
+ completa em Cristo
+.
 \v Cl.1.29
 Para isso eu também trabalho, lutando conforme a eficácia dele, que age em mim com poder.
 \fn
@@ -137,7 +143,8 @@ Lit. em carne
 \*fn
 \v Cl.2.2
 para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da pleno entendimento, 
-para conhecimento do mistério de Deus: Cristo.
+para conhecimento do mistério de Deus
+, Cristo.
 \fn
 TR, RP contêm: “mistério de Deus, e do Pai, e de Cristo”
 \*fn
@@ -201,7 +208,9 @@ Ninguém, pois, se faça de juiz contra vós, insistindo nos pretextos de “hum
 \fn
 Ou: “culto dos anjos”
 \*fn
-, envolvendo-se em suas “visões”,
+, envolvendo-se 
+em suas “visões”
+,
 \fn
 N4: “prolongando-se em suas ‘visões’”; TR, RP “intrometendo-se em coisas que nunca viu”
 \*fn
@@ -209,7 +218,8 @@ N4: “prolongando-se em suas ‘visões’”; TR, RP “intrometendo-se em coi
 \v Cl.2.19
 e não se ligando à cabeça, da qual todo o corpo, suprido e organizado pelas juntas e ligamentos, vai crescendo com o crescimento da parte de Deus.
 \v Cl.2.20
-Se estais mortos com Cristo para os elementos do mundo, por que vos sujeitais a ordenanças como se vivêsseis no mundo,
+Se
+ estais mortos com Cristo para os elementos do mundo, por que vos sujeitais a ordenanças como se vivêsseis no mundo,
 \v Cl.2.21
 \added
 tais como
@@ -242,7 +252,8 @@ são elas
 \*added
 : o pecado sexual, a impureza, a paixão depravada, o desejo maligno, e a ganância, que é idolatria.
 \v Cl.3.6
-Por causa delas que a ira de Deus vem.
+Por causa delas que a ira de Deus vem
+.
 \fn
 TR, RP contêm “sobre os filhos da desobediência”
 \*fn
@@ -267,7 +278,8 @@ nem
 \v Cl.3.12
 Por isso, como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, bondade, humildade, mansidão, e paciência.
 \v Cl.3.13
-Suportai-vos uns aos outros, e perdoai-vos uns aos outros, se alguém tiver queixa contra outro. Como o Senhor
+Suportai-vos uns aos outros, e perdoai-vos uns aos outros, se alguém tiver queixa contra outro. Como 
+o Senhor
  vos perdoou, assim também 
 \added
 fazei
@@ -280,7 +292,9 @@ revesti-vos
 \*added
  do amor, que é o vínculo da perfeição.
 \v Cl.3.15
-E a paz de Cristo,
+E a paz de 
+Cristo
+,
  para a qual também fostes chamados em um 
 \added
 só
@@ -288,7 +302,8 @@ só
  corpo, governe em vossos corações, e sede gratos.
 \v Cl.3.16
 A palavra de Cristo habite abundantemente em vós com toda sabedoria, ensinando-vos e advertindo-vos uns aos outros; e 
-cantai a Deus
+cantai 
+a Deus
  com salmos, hinos, e cânticos espirituais, com graça no vosso coração.
 \v Cl.3.17
 E tudo quanto fizerdes, por palavras ou por obras, 
@@ -311,12 +326,15 @@ Escravos, obedecei em tudo aos
 vossos
 \*added
  senhores segundo a carne, não servindo apenas quando observados, como que para satisfazer às pessoas, mas sim, com 
- sinceridade de coração, temendo ao Senhor.
+sinceridade de coração, temendo 
+ao Senhor
+.
 \v Cl.3.23
 Tudo
  quanto fizerdes, fazei de coração, como para o Senhor, e não para as pessoas.
 \v Cl.3.24
-Pois sabeis que recebereis do Senhor a recompensa da herança;servi
+Pois sabeis que recebereis do Senhor a recompensa da herança
+;servi
  ao Senhor Cristo.
 \v Cl.3.25
 Pois
@@ -344,7 +362,7 @@ Ou: abertamente
 \v Cl.4.5
 Convivei com sabedoria com os que estão de fora,
 \fn
-Isto é, os que não são cristãos
+i.e. os que não são cristãos
 \*fn
  aproveitando o tempo oportuno.
 \v Cl.4.6
@@ -357,15 +375,17 @@ seja
 \key
 com graça
 \*key
-Isto é, de maneira agradável
+i.e. de maneira agradável
 \*fn
  temperada com sal, para que saibais como deveis responder a cada um.
 \v Cl.4.7
 Tíquico, irmão amado, fiel trabalhador e colaborador no Senhor, vos fará saber tudo o que vem acontecendo comigo.
 \v Cl.4.8
-Foi para isso que eu o enviei até vós, para que saibais como estamos,
+Foi para isso que eu o enviei até vós, para que 
+vós saibais como estamos
+,
 \fn
-TR, RP: saiba acerca de vós
+TR, RP: ele saiba como estais
 \*fn
  e console os vossos corações.
 \v Cl.4.9
@@ -387,12 +407,16 @@ meus
 \*added
  no Reino de Deus, e têm sido consolação para mim.
 \v Cl.4.12
-Epafras, que é um de vós, servo de Cristo Jesus,
+Epafras, que é um de vós, servo de Cristo
+ Jesus
+,
  vos saúda. Ele sempre luta por vós em orações, para que fiqueis íntegros e 
 plenamente convictos
  em toda a vontade de Deus.
 \v Cl.4.13
-Pois dou testemunho dele de que ele tem trabalhado muito por vós, pelos que 
+Pois dou testemunho dele de que ele tem 
+trabalhado muito
+ por vós, pelos que 
 \added
 estão
 \*added
@@ -408,7 +432,11 @@ Saudai aos irmãos que
 \added
 estão
 \*added
- em Laodiceia, e também a Ninfa, e à igreja que está na casa dela.
+ em Laodiceia, e também a 
+Ninfa
+, e à igreja que está na casa 
+dela
+.
 \fn
 TR, RP contêm Ninfas, nome feminino em lugar de Ninfa, e põe “casa dela”
 \*fn

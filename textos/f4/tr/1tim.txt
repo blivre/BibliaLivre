@@ -11,7 +11,11 @@ Primeira Carta de Paulo a Timóteo
 1TI
 \*ubs-code
 \v 1Tm.1.1
-Paulo, apóstolo de Jesus Cristo
+Paulo, apóstolo de 
+Jesus Cristo
+\fn
+N4: Cristo Jesus
+\*fn
  segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
 \v 1Tm.1.2
 Para Timóteo, 
@@ -22,12 +26,20 @@ meu
 \added
 e
 \*added
- paz da parte de Deus, nosso
+ paz da parte de Deus
+, nosso
+\fn
+N4 não contém “nosso”
+\*fn
  Pai, e de Cristo Jesus, nosso Senhor.
 \v 1Tm.1.3
 Assim como te roguei quando eu estava indo à Macedônia, fica em Éfeso, para advertires a alguns que não ensinem outra doutrina,
 \v 1Tm.1.4
-Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a edificação
+Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a 
+edificação
+\fn
+RP, N4: “administração”
+\*fn
  da parte de Deus na fé.
 \v 1Tm.1.5
 O fim do mandamento é o amor que vem de um coração puro, e de uma boa consciência, e de uma fé não fingida.
@@ -73,7 +85,12 @@ eu sou o principal.
 Mas por isso me foi concedida misericórdia, para que em mim, o principal, Jesus Cristo mostrasse toda a sua paciência 
 como exemplo aos que haviam de crer nele para a vida eterna.
 \v 1Tm.1.17
-Ao Rei dos tempos, imortal, invisível, o único Deus sábio,
+Ao Rei dos tempos, imortal, invisível, o único Deus
+ sábio
+,
+\fn
+N4 não contém “sábio”
+\*fn
 \added
 seja
 \*added
@@ -96,7 +113,11 @@ pelos reis, e por todos os que estão em posição superior, para que tenhamos u
 e honestidade.
 \v 1Tm.2.3
 Pois
- isso é bom e agradável diante de Deus nosso Salvador;
+\fn
+N4 não contém “Pois”
+\*fn
+ isso
+ é bom e agradável diante de Deus nosso Salvador;
 \v 1Tm.2.4
 que quer que todas as pessoas se salvem e venham ao conhecimento da verdade.
 \v 1Tm.2.5
@@ -113,7 +134,11 @@ como
  testemunho ao seu tempo.
 \v 1Tm.2.7
 Para isso fui constituído pregador e apóstolo, instrutor dos gentios na fé e na verdade (estou dizendo a verdade 
-em Cristo,
+em Cristo
+,
+\fn
+N4 não contém “em Cristo”
+\*fn
  não mentindo).
 \v 1Tm.2.8
 Portanto, quero que os homens orem em todo lugar, levantando mãos santas, sem ira nem briga.
@@ -155,8 +180,13 @@ Esta
 \v 1Tm.3.2
 É dever, portanto, que o bispo seja irrepreensível, marido de uma mulher, sóbrio, comedido, decente, hospitaleiro, apto para ensinar;
 \v 1Tm.3.3
-Não dado ao vinho, não violento, não ganancioso,
- mas sim moderado, não briguento, não cobiçoso por dinheiro;
+Não dado ao vinho, não violento
+, não ganancioso
+,
+\fn
+N4 não contém “não ganancioso”
+\*fn
+ mas sim, moderado, não briguento, não cobiçoso por dinheiro;
 \v 1Tm.3.4
 que governe bem a sua própria casa, e tenha os 
 \added
@@ -168,7 +198,7 @@ seus
 \v 1Tm.3.6
 Não um novo convertido; para que não se torne arrogante, e caia na condenação do diabo.
 \fn
-Isto é, da mesma maneira que o diabo foi condenado
+i.e. da mesma maneira que o diabo foi condenado
 \*fn
 \v 1Tm.3.7
 É dever também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação pública e na cilada 
@@ -206,7 +236,11 @@ Lit. andar
 \*fn
  na casa de Deus, que é a igreja do Deus vivo, a coluna e o alicerce da verdade.
 \v 1Tm.3.16
-E, sem dúvida nenhuma, grande é o mistério da devoção divina: Deus
+E, sem dúvida nenhuma, grande é o mistério da devoção divina: 
+Deus
+\fn
+N4 contém “Ele” em lugar de “Deus”
+\*fn
  foi revelado em carne, justificado em Espírito, visto pelos anjos, pregado aos gentios, crido no mundo, e recebido 
 acima em glória.
 \v 1Tm.4.1
@@ -234,7 +268,12 @@ Se informares
 \fn
 Lit. propuseres
 \*fn
- essas coisas aos irmãos, serás um bom servidor de Jesus Cristo,
+ essas coisas aos irmãos, serás um bom servidor de 
+Jesus Cristo
+,
+\fn
+N4: “Cristo Jesus”
+\*fn
  alimentado com as palavras da fé e de boa doutrina que tens seguido.
 \v 1Tm.4.7
 Mas rejeita os mitos profanos e de velhas, e exercita-te na devoção divina.
@@ -247,13 +286,23 @@ Esta
 \*added
  palavra é fiel, e digna de toda aceitação.
 \v 1Tm.4.10
-Pois para isto também trabalhamos e somos insultados,
+Pois para isto
+ também
+ trabalhamos e 
+somos insultados
+,
+\fn
+TR, RP: “somos insultados” - N4: “lutamos”
+\*fn
  porque esperamos o Deus vivo, que é o Salvador de todos, especialmente dos crentes.
 \v 1Tm.4.11
 Manda essas coisas, e ensina.
 \v 1Tm.4.12
 Ninguém despreze a tua juventude, mas sê exemplo aos crentes, na palavra, no comportamento, no amor,
  em espírito,
+\fn
+N4 não contém “em espírito”
+\*fn
  na fé, e na pureza.
 \v 1Tm.4.13
 Persiste na leitura 
@@ -262,7 +311,7 @@ pública
 \*added
 ,
 \fn
-Isto é, leitura pública das escrituras
+i.e. leitura pública das escrituras
 \*fn
  na exortação e no ensino, até que eu venha.
 \v 1Tm.4.14
@@ -283,7 +332,11 @@ Mas, se alguma viúva tiver filhos ou netos, aprendam primeiro a exercer piedade
 \fn
 Lit. casa
 \*fn
- e a recompensar os seus pais; porque isso é bom e
+ e a recompensar os seus pais; porque isso é
+ bom e
+\fn
+RP, N4 não contêm “bom e”
+\*fn
  agradável diante de Deus.
 \v 1Tm.5.5
 A que é verdadeiramente viúva e desamparada espera em Deus, e persevera noite e dia em rogos e orações.
@@ -318,9 +371,16 @@ e
 \v 1Tm.5.15
 Pois algumas já se desviaram e seguiram Satanás.
 \v 1Tm.5.16
-Se algum crente ou
- alguma crente tem viúvas, que as ajude, e não sobrecarregue a igreja, para que ela possa ajudar as 
-que são de verdade viúvas.
+Se
+ algum crente ou
+\fn
+N4 não contém “algum crente ou”
+\*fn
+ alguma crente tem viúvas 
+\added
+na família
+\*added 
+, que as ajude, e não sobrecarregue a igreja, para que ela possa ajudar as que de verdade são viúvas.
 \v 1Tm.5.17
 Os presbíteros 
 \added
@@ -342,9 +402,16 @@ Não aceites acusação contra um presbítero, a não ser com duas ou três test
 \v 1Tm.5.20
 Aos que pecarem, repreende-os na presença de todos, para que os outros também tenham temor.
 \v 1Tm.5.21
-Ordeno-te, diante de Deus, do Senhor Jesus Cristo,
- e dos anjos escolhidos, que guardes essas coisas sem preconceitos, 
-fazendo nada por favoritismo.
+Ordeno-te, diante de Deus, 
+do Senhor Jesus Cristo
+,
+\fn
+\key
+do Senhor Jesus Cristo
+\*key
+N4: de Cristo Jesus
+\*fn
+ e dos anjos escolhidos, que guardes essas coisas sem preconceitos, fazendo nada por favoritismo.
 \v 1Tm.5.22
 A ninguém imponhas as mãos apressadamente, nem participes dos pecados alheios; conserva-te puro.
 \v 1Tm.5.23
@@ -378,8 +445,18 @@ que é conforme a devoção divina,
 quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
 \v 1Tm.6.5
 discussões inúteis
+\fn
+\key
+discussões inúteis
+\*key
+N4: conflitos constantes
+\*fn
  de pessoas corrompidas de entendimento, e privadas da verdade, que pensam que a devoção divina
- é um meio de lucrar. Afasta-te dos tais.
+ é um meio de lucrar.
+ Afasta-te dos tais.
+\fn
+N4 não contém “Afasta-te dos tais”
+\*fn
 \v 1Tm.6.6
 Mas grande lucro é a devoção divina acompanhada de contentamento.
 \v 1Tm.6.7
@@ -388,6 +465,12 @@ Pois nada trouxemos ao mundo, e
 é
 \*added
  evidente que
+\fn
+\key
+é evidente que
+\*key
+N4: portanto
+\*fn
  nada podemos levar dele.
 \v 1Tm.6.8
 Mas se tivermos alimento e algo com que nos cobrirmos, estejamos contentes com isso.
@@ -400,7 +483,11 @@ a si mesmos com muitas dores.
 \v 1Tm.6.11
 Porém tu, homem de Deus, foge dessas coisas. Segue a justiça, a devoção divina, a fé, o amor, a paciência, a mansidão.
 \v 1Tm.6.12
-Que lutes a boa luta da fé; agarra a vida eterna para a qual também
+Que lutes a boa luta da fé; agarra a vida eterna para a qual
+ também
+\fn
+RP, N4 não contêm “também”
+\*fn
  foste chamado, e confessaste a boa confissão diante de muitas testemunhas.
 \v 1Tm.6.13
 Mando-te diante de Deus, que dá vida a todas as coisas, e de Cristo Jesus, que diante de Pôncio Pilatos testemunhou a 
@@ -417,8 +504,12 @@ Ou: bem-aventurado
 o único a ter imortalidade, e que habita em luz inacessível; aquele a quem nenhum ser humano viu, nem pode ver; a ele 
 seja honra e poder para sempre! Amém.
 \v 1Tm.6.17
-Manda aos ricos desta era que não sejam soberbos, nem ponham a esperança na incerteza das riquezas, mas sim 
-no Deus vivo,
+Manda aos ricos desta era que não sejam soberbos, nem ponham a esperança na incerteza das riquezas, mas sim, 
+no Deus vivo
+,
+\fn
+N4 não contém “vivo”
+\*fn
  que nos dá abundantemente todas as coisas 
 \added
 que são
@@ -427,7 +518,12 @@ que são
 \v 1Tm.6.18
 que façam o bem, sejam ricos em boas obras, dispostos a compartilhar, e generosos.
 \v 1Tm.6.19
-que acumulem para si mesmos um bom fundamento para o futuro, para que obtenham a vida eterna.
+que acumulem para si mesmos um bom fundamento para o futuro, para que obtenham a 
+vida eterna
+.
+\fn
+TR, RP: vida eterna – N4: verdadeira vida
+\*fn
 \v 1Tm.6.20
 Timóteo, guarda o depósito que 
 \added
@@ -439,10 +535,15 @@ que alguns declararam seguir, e se desviaram da fé. A graça
 \added
 seja
 \*added
- contigo. Amém.
- 
+ contigo. Amém
+.
+\fn
+TR, RP: “contigo. Amém.” - N4: “convosco.”
+\*fn
  
 \added
-A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana
+A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana.
 \*added
-.
+\fn
+RP, N4 não contêm “A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana”
+\*fn

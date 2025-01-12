@@ -11,295 +11,325 @@ Mc
 MRK
 \*ubs-code
 \v Mc.1.1
-Princípio do Evangelho de Jesus Cristo, Filho de Deus.
+Princípio do Evangelho de Jesus Cristo
+, 
+Filho de Deus
+.
+\fn
+N4 põe entre colchetes “Filho de Deus”
+\*fn
 \v Mc.1.2
-Como está escrito nos profetas:
- Eis que eu envio o meu mensageiro diante de tua face, que preparará o teu caminho  diante de ti .
+Como está escrito 
+nos profetas
+: 
+\fn
+TR, RP  “nos profetas”, N4 “no profeta Isaías”
+\*fn
+ “Eis que eu envio meu mensageiro diante de tua face, que preparará teu caminho
+ diante de ti
+”.
+\fn
+N4 não contém “diante de ti”
+\*fn
 \ref
 Malaquias 3:1
 \*ref
 \v Mc.1.3
-Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai suas veredas. 
+“Voz do que clama no deserto: ‘Preparai o caminho do Senhor, endireitai as veredas dele’”. 
 \ref
 Isaías 40:3
 \*ref
 \v Mc.1.4
-João veio a batizar no deserto, e a pregar o batismo de arrependimento para perdão dos pecados.
+João estava batizando no deserto, e pregando o batismo de arrependimento, para remissão dos pecados.
 \v Mc.1.5
-E toda a província da Judeia e  os de Jerusalém saíam até ele; e eram todos batizados 
- por ele no rio Jordão, confessando os seus pecados.
+E toda a província da Judeia e
+ os de Jerusalém saíam até ele; e
+ todos
+ eram batizados por ele no 
+rio Jordão, confessando seus pecados.
 \v Mc.1.6
-João se vestia de pelos de camelo, e um cinto de couro em sua cintura; e comia gafanhotos e mel do campo.
+E João se vestia de pelos de camelo, e um cinto de couro em redor de sua cintura; e comia gafanhotos e mel silvestre.
 \v Mc.1.7
-Ele pregava assim: Após mim vem aquele que é mais forte do que eu. A ele não sou digno de me abaixar para desatar a tira das suas sandálias.
+E pregava, dizendo: “Após mim vem aquele que é mais forte do que eu. A ele não sou digno de, encurvando-me, desamarrar 
+a correia de suas sandálias.
 \v Mc.1.8
-De fato eu
- tenho vos batizado com água, porém ele vos batizará com Espírito Santo.
+Em verdade, eu
+ tenho vos batizado com água, mas ele vos batizará com o Espírito Santo”.
 \v Mc.1.9
-E aconteceu que, naqueles dias, Jesus de Nazaré da Galileia veio, e foi batizado por João no Jordão.
+E aconteceu naqueles dias que Jesus, vindo de Nazaré da Galileia, foi batizado por João no Jordão.
 \v Mc.1.10
-E assim que saiu da água, viu os céus se abrirem, e o Espírito, que como pomba descia sobre ele.
+E logo que saiu da água, viu os céus se abrindo, e o Espírito, que como pomba descia sobre ele.
 \v Mc.1.11
-E veio uma voz dos céus: Tu és meu Filho amado, em quem
- me agrado.
+E ouviu-se uma voz dos céus: “Tu és meu Filho amado, em 
+quem
+ me agrado”.
 \v Mc.1.12
 E logo o Espírito o impeliu ao deserto.
 \v Mc.1.13
-Ele esteve ali
- no deserto quarenta dias, tentado por Satanás. Ele estava com os animais selvagens, e os anjos o serviam.
+E esteve
+ ali
+ no deserto quarenta dias, tentado por Satanás. E estava com os animais selvagens, e os anjos 
+o serviam.
 \v Mc.1.14
-Depois que João foi preso, Jesus veio para a Galileia, pregando o Evangelho do Reino
+E depois que João foi entregue à prisão, Jesus veio para a Galileia, pregando o Evangelho
+ do Reino
  de Deus,
 \v Mc.1.15
-e dizendo: O tempo se cumpriu, e o Reino de Deus está perto; arrependei-vos, e crede no Evangelho.
+e dizendo: “O tempo está cumprido, e o reino de Deus está próximo; arrependei-vos, e crede no Evangelho”.
 \v Mc.1.16
-E enquanto andava junto ao mar da Galileia, ele viu Simão e seu irmão André, que lançavam uma rede ao mar, porque eram pescadores;
+E, andando junto ao mar da Galileia, viu Simão, e André, seu irmão, que lançavam a rede ao mar, porque eram pescadores;
 \v Mc.1.17
-Jesus lhes disse: Vinde após mim, e farei serdes pescadores de gente.
+E Jesus lhes disse: “Vinde após mim, e farei serdes pescadores de gente”.
 \v Mc.1.18
-Então logo deixaram suas
- redes, e o seguiram.
+E eles, deixando imediatamente as
+ suas
+ redes, o seguiram.
 \v Mc.1.19
-E passando dali
- um pouco mais adiante, viu Tiago 
+E passando
+ dali
+ um pouco mais adiante, viu Tiago, 
 \added
 filho
 \*added
- de Zebedeu, e seu irmão João, que estavam no barco, consertando as redes.
+ de Zebedeu, e João, seu irmão, que estavam no barco, consertando as redes.
 \v Mc.1.20
-E logo os chamou; então eles deixaram o seu pai Zebedeu no barco com os empregados, foram após ele.
+E logo os chamou. E eles, deixando seu pai Zebedeu no barco com os empregados, foram após ele.
 \v Mc.1.21
-Eles entraram em Cafarnaum; e assim que chegou o sábado, 
+E entraram em Cafarnaum; e, logo no sábado, 
 \added
 Jesus
 \*added
- entrou na sinagoga e começou a ensinar.
+, entrando na sinagoga, ensinava.
 \v Mc.1.22
-E ficavam admirados com o seu ensinamento, pois, diferentemente dos escribas, ele os ensinava como quem temautoridade.
+E admiravam-se de seu ensino, pois os ensinava como tendo autoridade, e não como os escribas.
 \v Mc.1.23
-E havia
- na sinagoga deles um homem com um espírito imundo, que gritou,
+E
+ havia na sinagoga deles um homem com um espírito imundo, e exclamou,
 \v Mc.1.24
-dizendo: Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Bem sei quem és: o Santo de Deus.
+dizendo: “Ah, que temos contigo, Jesus Nazareno? Vieste para nos destruir? Bem sei quem és: o Santo de Deus”.
 \v Mc.1.25
-Jesus o repreendeu, dizendo: Cala-te, e sai dele.
+E Jesus o repreendeu, dizendo: “Cala-te, e sai dele”.
 \v Mc.1.26
-E o espírito imundo, provocando convulsão nele, e gritando em alta voz, saiu dele.
+E o espírito imundo, causando-lhe convulsão, e gritando com grande voz, saiu dele.
 \v Mc.1.27
-Assim todos ficaram admirados, e perguntavam entre si: Que é isto? Que novo ensinamento é este que, com autoridade, ordena até aos espíritos imundos, e eles lhe obedecem?
+E se admiraram, a ponto de perguntarem entre si: “Que é isto? Que novo ensino é este? Com autoridade ele ordena até 
+aos espíritos imundos, e eles lhe obedecem!”
 \v Mc.1.28
-E logo sua fama se espalhou por toda a região da Galileia.
+E logo sua fama correu por toda a região da Galileia.
 \v Mc.1.29
-Logo depois de saírem da sinagoga, vieram à casa de Simão e de André, com Tiago e João.
+E logo, saindo da sinagoga, foram à casa de Simão e de André, com Tiago e João.
 \v Mc.1.30
-A sogra de Simão estava deitada com febre, e logo falaram dela 
-\added
-a Jesus
-\*added
-.
+E a sogra de Simão estava deitada com febre; e logo lhe disseram dela.
 \v Mc.1.31
-Então ele aproximou-se dela, tomou-a pela mão, e a levantou; logo a febre a deixou, e ela começou a servi-los.
+Então, aproximando-se dela, tomou-a pela mão, e a levantou; e
+ imediatamente
+ a febre a deixou, e ela começou a servi-los.
 \v Mc.1.32
-Ao entardecer, quando o sol já se punha, trouxeram-lhe todos os doentes e endemoninhados;
+E, chegado o entardecer, quando o sol já se punha, trouxeram-lhe todos os que estavam doentes e os endemoninhados;
 \v Mc.1.33
-e toda a cidade se juntou à porta.
+e toda a cidade se ajuntou à porta.
 \v Mc.1.34
-Ele curou muitos que se achavam mal de diversas enfermidades, e expulsou muitos demônios. Ele não deixava os demônios falarem, porque o conheciam.
+E curou muitos que estavam doentes de diversas enfermidades, e expulsou muitos demônios; e não deixava os demônios 
+falarem, porque o conheciam.
 \v Mc.1.35
-De madrugada, ainda escuro, ele se levantou para sair, foi a um lugar deserto, e ali esteve a orar.
+E levantando-se de madrugada, estando ainda escuro, saiu, foi a um lugar deserto, e ali orava.
 \v Mc.1.36
-Simão e os que estavam com ele o seguiram.
+E Simão e os que estavam com ele o seguiram.
 \v Mc.1.37
-Quando o acharam, disseram-lhe: Todos estão te procurando.
+E, achando-o, disseram-lhe: “Todos te buscam”.
 \v Mc.1.38
-\added
-Jesus
-\*added
- lhes respondeu: Vamos para as aldeias vizinhas, para que eu também pregue ali, pois vim para isso.
+E ele lhes disse: “Vamos para as aldeias vizinhas, para que eu também pregue ali, pois para isso eu vim”.
 \v Mc.1.39
-Ele pregava
+E ele 
+pregava
  em suas sinagogas por toda a Galileia, e expulsava os demônios.
 \v Mc.1.40
-Um leproso aproximou-se dele, rogando-lhe, pondo-se de joelhos diante dele,
- e dizendo-lhe: Se quiseres, tu podes limpar-me.
+E um leproso aproximou-se dele, rogando-lhe, pondo-se de joelhos
+ diante dele
+, e dizendo-lhe: “Se queres, podes limpar-me”.
 \v Mc.1.41
 E 
- Jesus 
-,  movido de compaixão, estendeu a mão, tocou-o, e disse-lhe: Quero; sê limpo.
+Jesus 
+, movido de compaixão, estendeu a mão, tocou-o, e disse-lhe: “Quero; sê limpo.
 \v Mc.1.42
- Quando disse isso, 
- logo  a lepra saiu dele, e ficou limpo.
+E
+, quando disse isso, logo
+ a lepra saiu dele, e ficou limpo.
 \v Mc.1.43
+E
 \added
 Jesus
 \*added
- advertiu-o, e logo o despediu,
+, advertindo-o, logo o despediu,
 \v Mc.1.44
-dizendo-lhe: Cuidado, não digas nada a ninguém. Mas vai, mostra-te ao Sacerdote, e oferece por teres ficado limpo o que Moisés mandou, para lhes servir de testemunho.
+dizendo-lhe: “Vê, não digas nada a ninguém. Mas vai, mostra-te ao sacerdote, e ofereça por tua purificação o que 
+Moisés mandou, para lhes servir de testemunho”.
 \v Mc.1.45
-Porém, quando ele saiu, começou a anunciar muitas coisas, e a divulgar a notícia, de maneira que 
+Porém, havendo ele saído, começou a anunciar muitas coisas, e a divulgar o acontecido, de maneira que 
 \added
 Jesus
 \*added
- já não podia entrar publicamente na cidade; em vez disso, ficava do lado de fora em lugares desertos, e 
-\added
-pessoas
-\*added
- de todas as partes vinham até ele.
+ já não podia entrar publicamente na cidade; mas ficava fora em lugares desertos, e vinham de todas as partes até ele.
 \v Mc.2.1
-Dias depois, 
-\added
-Jesus
-\*added
- entrou outra vez em Cafarnaum, e ouviu-se que estava em casa.
+E, alguns dias depois, entrou outra vez em Cafarnaum, e ouviu-se que estava em casa.
 \v Mc.2.2
-Logo
- juntaram-se tantos, que nem mesmo perto da porta cabiam; e ele lhes falava a palavra.
+E 
+ logo
+ajuntaram-se tantos, que nem mesmo junto à porta cabiam; e ele lhes anunciava 
+a palavra.
 \v Mc.2.3
-E vieram  a ele  uns que  traziam  
+Então vieram
+ a ele
+ uns que traziam
  um paralítico carregado por quatro.
 \v Mc.2.4
-Como não podiam  se aproximar dele  
- por causa da multidão, descobriram o telhado onde ele estava, fizeram um buraco, e baixaram 
-\added
-por ele
-\*added
- o leito em que jazia o paralítico.
+E, não podendo aproximar-se dele por causa da multidão, descobriram o telhado onde estava e, fazendo um buraco, e 
+baixaram o leito em que jazia o paralítico.
 \v Mc.2.5
-Quando Jesus viu a fé deles, disse ao paralítico: Filho, os teus pecados te são
- perdoados.
+E Jesus, vendo a fé deles, disse ao paralítico: “Filho, teus pecados estão perdoados”.
 \v Mc.2.6
-E estavam ali sentados alguns escribas, que pensavam 
-\fn
-Lit. “indagavam”, “questionavam”
-\*fn
-em seus corações:
+E estavam ali sentados alguns escribas, que pensavam em seus corações:
 \v Mc.2.7
-Por que este 
-\added
-homem
-\*added
- fala  essas blasfêmias? 
- Quem pode perdoar pecados, a não ser somente Deus?
+“Por que este fala 
+tais blasfêmias?
+ Quem pode perdoar pecados, senão só Deus?”
 \v Mc.2.8
-Imediatamente Jesus percebeu em seu espírito que assim pensavam em si mesmos. Então perguntou-lhes: Por que pensais assim
-\fn
-Lit. “essas coisas”
-\*fn
- em vossos corações?
+E Jesus, conhecendo imediatamente em seu espírito que assim pensavam entre si, disse-lhe: “Por que pensais essas 
+coisas em vossos corações?
 \v Mc.2.9
-O que é mais fácil? Dizer ao paralítico: “Os teus pecados estão perdoados”, ou dizer, “Levanta-te, toma o teu leito, e anda”?
+O que é mais fácil? Dizer ao paralítico: ‘Teus pecados estão perdoados’, ou dizer, ‘Levanta-te, toma teu leito, 
+e anda’?
 \v Mc.2.10
-Mas para que saibais que o Filho do homem tem poder na terra para perdoar pecados,(disse ao paralítico):
+Mas para que vós saibais que o Filho do homem tem poder na terra para perdoar pecados’, disse ao paralítico:
 \v Mc.2.11
-A ti eu digo: levanta-te, toma o teu leito, e vai para a tua casa.
+‘A ti eu digo: levanta-te, toma teu leito, e vai para tua casa’”.
 \v Mc.2.12
-E logo ele se levantou, tomou o leito, e saiu na presença de todos, de tal maneira, que todos ficaram admirados, e glorificaram a Deus, dizendo: Nunca vimos algo assim.
+E imediatamente ele se levantou e, tomando o leito, saiu na presença de todos, de maneira que todos se admiraram e 
+glorificaram a Deus, dizendo: “Nunca vimos algo assim”.
 \v Mc.2.13
+E 
 \added
 Jesus
 \*added
- voltou a sair para o mar; toda a multidão veio até ele, e ele os ensinava.
+ voltou a sair para o mar; toda a multidão vinha até ele, e ele os ensinava.
 \v Mc.2.14
-E enquanto passava, ele viu Levi, 
+E ele, passando, viu Levi, 
 \added
 filho
 \*added
- de Alfeu, sentado no posto de coleta de impostos, e disse-lhe: Segue-me.Então 
+ de Alfeu, sentado na coletoria de impostos, e disse-lhe: “Segue-me”. E 
 \added
 Levi
 \*added
- se levantou e o seguiu.
+, levantando-se, o seguiu.
 \v Mc.2.15
-E aconteceu que enquanto estava sentado à mesa na casa dele, muitos publicanos e pecadores também estavam 
-assentados à mesa com Jesus e os seus discípulos; porque eram muitos, e o haviam seguido.
+E aconteceu que, estando sentado à mesa na casa dele, também muitos publicanos e pecadores estavam sentados à mesa com 
+Jesus e seus discípulos; porque eram muitos, e o haviam seguido.
 \v Mc.2.16
-Quando os escribas  e os  fariseus
- o viram comer com os publicanos e pecadores, disseram a seus discípulos: Por que é que ele come  e bebe
- com os publicanos e os pecadores?
+E os escribas 
+e os
+ fariseus, vendo-o comer com os publicanos e pecadores, disseram a seus discípulos: “Por que ele come
+ e bebe
+\fn
+N4 não contém “e bebe”
+\*fn
+ com os publicanos e os pecadores?”
 \v Mc.2.17
-Jesus ouviu e lhes respondeu: Os que têm saúde não precisam de médico, mas sim os que estão doentes. Eu não vim 
-para chamar os justos, mas sim, os pecadores, ao arrependimento.
+E Jesus, tendo ouvido isso, disse-lhes: “Os que têm saúde não precisam de médico, mas sim, os que estão doentes. Eu 
+não vim chamar os justos, mas sim, os pecadores
+, ao arrependimento
+.
+\fn
+N4 não contém “ao arrependimento”
+\*fn
 \v Mc.2.18
-Os discípulos de João e os dos fariseus estavam jejuando; então vieram lhe perguntar: Por que os discípulos de João e os dos fariseus jejuam, e os teus discípulos não jejuam?
+E os discípulos de João e os dos fariseus jejuavam; e foram e disseram-lhe: “Por que os discípulos de João e os dos 
+fariseus jejuam, e os teus discípulos não jejuam?”
 \v Mc.2.19
-Jesus lhes respondeu: Podem os convidados
+E Jesus lhes dissem: “Podem os convidados
 \fn
 lit. filhos
 \*fn
- do casamento jejuar enquanto o noivo estiver com eles? Enquanto tiverem o noivo consigo, eles não podem jejuar.
+ do casamento jejuar enquanto o noivo estiver com eles? Enquanto têm o noivo consigo, não podem jejuar.
 \v Mc.2.20
-Mas dias virão, quando o noivo lhes for tirado; e então naqueles dias
+Mas dias virão, quando o noivo lhes for tirado; e então 
+naqueles dias
  jejuarão.
 \v Mc.2.21
-Ninguém costura remendo de pano novo em roupa velha; senão o remendo novo rompe o velho, e se faz pior rasgo.
+Ninguém põe remendo de pano novo em roupa velha; senão o remendo novo rompe o velho, e se faz pior rasgo.
 \v Mc.2.22
-E ninguém põe vinho novo em odres velhos; senão o vinho novo
- rompe os odres,  derrama-se o vinho, e os odres se danificam; 
+E ninguém põe vinho novo em odres velhos; senão o vinho
+ novo
+ rompe os odres, 
+derrama-se o vinho, e os odres se danificam;
  mas o vinho novo deve ser posto em odres novos.
 \v Mc.2.23
-E aconteceu que, enquanto 
-\added
-Jesus
-\*added
- passava pelas plantações no sábado, os seus discípulos, andando, começaram a arrancar espigas.
+E aconteceu que ele, passando pelas plantações no sábado, seus discípulos, caminhando, começaram a colher espigas.
 \v Mc.2.24
-Os fariseus lhe disseram: Olha! Por que estão fazendo o que não é lícito no sábado?
+E os fariseus lhe disseram: “Vê! Por que estão fazendo o que não é lícito no sábado?”
 \v Mc.2.25
-E ele lhes disse: Nunca lestes o que fez Davi, quando teve necessidade e fome, ele e os que com ele estavam?
+E ele lhes disse: “Vós nunca lestes o que Davi fez, quando teve necessidade e fome, ele e os que com ele estavam?
 \v Mc.2.26
-Como ele entrou na Casa de Deus, quando Abiatar era sumo sacerdote, e comeu os pães da proposição (dos quais não é lícito comer, a não ser aos sacerdotes), e também deu aos que com ele estavam?
+Como ele entrou na Casa de Deus, quando Abiatar era sumo sacerdote, e comeu os pães da presença
+\fn
+Ou: pães da proposição
+\*fn
+\ref
+Levítico 24:5-9; Êxodo 25:30
+\*ref
+ (dos quais não é lícito comer, senão aos sacerdotes), e também deu aos que com ele estavam?”
 \v Mc.2.27
-Disse-lhes mais: O sábado foi feito por causa do ser humano, não o ser humano por causa do sábado.
+E disse-lhes: “O sábado foi feito por causa do ser humano, não o ser humano por causa do sábado.
 \v Mc.2.28
-Por isso o Filho do homem é Senhor até do sábado.
+Por isso o Filho do homem é Senhor até do sábado”.
 \v Mc.3.1
-\added
-Jesus
-\*added
- entrou outra vez na
- sinagoga; e estava ali um homem que tinha uma mão definhada.
+E ele entrou outra vez na sinagoga; e estava ali um homem que tinha uma mão atrofiada.
 \v Mc.3.2
-E prestavam atenção nele, se o curaria no sábado, para o acusarem.
+E estavam observando
+\added
+Jesus
+\*added
+ se o curaria no sábado, para o acusarem.
 \v Mc.3.3
-E 
-\added
-Jesus
-\*added
- disse ao homem que tinha a mão definhada: Levanta-te, e vem para o meio.
+E ele disse ao homem que tinha a mão atrofiada: “Levanta-te e vem para o meio”.
 \v Mc.3.4
-E disse-lhes:É lícito no sábado fazer o bem, ou o mal? Salvar uma pessoa, ou matá-la? E mantiveram-se calados.
+E disse-lhes: “É lícito no sábado fazer o bem, ou fazer o mal? Salvar uma pessoa, ou matá-la?” E ficaram calados.
 \v Mc.3.5
-E olhando ao redor para eles com indignação, sentindo pena da dureza dos seus corações, disse ao homem: Estende a tua
- mão. E ele estendeu; e sua mão foi restaurada , sã como a outra.
+E olhando ao redor para eles com indignação, entristecido da dureza do coração deles, disse ao homem: 
+“Estende a
+tua
+ mão”. E ele a estendeu; e sua mão foi restaurada
+, sã como a outra
+.
 \v Mc.3.6
-Assim que os fariseus saíram, tiveram reunião com os herodianos contra ele, para combinarem sobre como o matariam.
+E havendo os fariseus saído, logo formaram conselho com os herodianos contra ele, sobre como o matariam.
 \v Mc.3.7
-E Jesus retirou-se com os seus discípulos para o mar; e seguiu-o uma grande multidão da Galileia, da Judeia,
+E Jesus retirou-se com os seus discípulos para o mar; e o seguiu uma grande multidão da Galileia, da Judeia,
 \v Mc.3.8
-de Jerusalém, da Idumeia, dalém do Jordão, e  os 
- das proximidades de Tiro e de Sidom; uma grande multidão, tendo ouvido quão grandes coisas fazia, vieram a ele.
+de Jerusalém, da Idumeia, dalém do Jordão; e das proximidades de Tiro e de Sidom uma grande multidão, tendo ouvido 
+quão grandes coisas fazia, vieram a ele.
 \v Mc.3.9
-E disse aos seus discípulos que um barquinho ficasse continuamente perto dele, por causa das multidões; para que não o apertassem.
+E disse a seus discípulos que um barquinho permanecesse pronto para ele, por causa das multidões; para que não 
+o apertassem.
 \v Mc.3.10
-Pois havia curado muitos, de maneira que todos quantos tinham algum mal lançavam-se sobre ele a fim de tocá-lo.
+Pois havia curado muitos, de maneira que todos quantos tinham alguma doença lançavam-se sobre ele, para tocá-lo.
 \v Mc.3.11
-E os espíritos imundos, quando o viam, prostravam-se diante dele, e exclamavam: Tu és o Filho de Deus.
+E os espíritos imundos, vendo-o, prostravam-se diante dele, e exclamavam: “Tu és o Filho de Deus”.
 \v Mc.3.12
-Mas 
-\added
-Jesus
-\*added
- os repreendia muito, para que não manifestassem quem ele era.
+E ele os repreendia muito, para que não manifestassem quem ele era.
 \v Mc.3.13
-Ele subiu ao monte, e chamou para si os que quis; então vieram a ele.
+E ele subiu ao monte, e chamou para si os que quis; e vieram a ele.
 \v Mc.3.14
-E constituiu doze para que estivessem com ele, para enviá-los a pregar,
+E constituiu os doze, para que estivessem com ele, e para enviá-los a pregar,
 \v Mc.3.15
-para que tivessem poder de curar as enfermidades e
- expulsar os demônios.
+e para que tivessem poder de
+ curar as enfermidades e
+\fn
+N4 não contém “curar as enfermidades e”
+\*fn
+ expulsar os demônios:
 \v Mc.3.16
-Eram eles: Simão, a quem pôs por nome Pedro;
+Simão, a quem pôs por nome Pedro;
 \v Mc.3.17
 Tiago 
 \added
@@ -311,1562 +341,1743 @@ e André, Filipe, Bartolomeu, Mateus, Tomé; Tiago
 \added
 filho
 \*added
- de Alfeu; Tadeu; Simão o zelote; 
+ de Alfeu; Tadeu; Simão, o zelote; 
 \fn
-Tradicionalmente “cananeu”, mas provavelmente o significado não tenha a ver com Caná ou Canaã
+Tradicionalmente “cananeu”, mas provavelmente o significado não tinha a ver com Caná ou Canaã
 \*fn
 \v Mc.3.19
 e Judas Iscariotes, o que o traiu.
 \v Mc.3.20
-Quando foram 
- 
- para uma casa, outra vez se ajuntou uma multidão, de maneira que nem sequer podiam comer pão.
+E foram para casa. E outra vez se ajuntou a multidão, de maneira que nem sequer podiam comer pão.
 \v Mc.3.21
-Os seus 
+E quando os seus 
 \added
 familiares
 \*added
-, ao ouvirem isso, saíram para detê-lo, porque diziam: “Ele stá fora de si”.
+, ouviram isso, saíram para detê-lo, porque diziam: “Ele está fora de si”.
 \v Mc.3.22
-E os escribas que haviam descido de Jerusalém diziam:  Ele tem Belzebu, e é pelo chefe dos demônios que expulsa demônios.
+E os escribas que haviam descido de Jerusalém diziam: “Ele tem Belzebu, e é pelo príncipe dos demônios que 
+expulsa demônios”.
 \v Mc.3.23
-Então 
-\added
-Jesus
-\*added
- os chamou, e lhes disse por parábolas: Como pode Satanás expulsar Satanás?
+E ele, chamando-os para si, disse-lhes por parábolas: “Como pode Satanás expulsar Satanás?
 \v Mc.3.24
-Se algum reino estiver dividido contra si mesmo, tal reino não pode durar;
+E, se um reino estiver dividido contra si mesmo, tal reino não pode perdurar;
 \v Mc.3.25
-e se alguma casa estiver dividida contra si mesma, tal casa não pode durar firme.
+e, se alguma casa estiver dividida contra si mesma, tal casa não pode perdurar.
 \v Mc.3.26
-E se Satanás se levantar contra si mesmo, e for dividido, não pode durar, mas tem fim.
+E se Satanás se levantar contra si mesmo, e estiver dividido, não pode perdurar, mas tem fim.
 \v Mc.3.27
-Ninguém pode roubar os bens do valente, quando se entra na casa dele, se antes não amarrar ao valente; depois disso roubará a sua casa.
+Ninguém pode roubar os bens de um homem forte, entrando na casa dele, se primeiro não amarrar o homem forte; e então 
+roubará sua casa.
 \v Mc.3.28
-Em verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e todas as blasfêmias com que blasfemarem;
+Em verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e todas as blasfêmias com 
+que blasfemarem;
 \v Mc.3.29
-mas quem blasfemar contra o Espírito Santo ficará sem perdão para sempre; em vez disso, é culpado do juízo
- eterno.
+porém quem blasfemar contra o Espírito Santo não obterá perdão para sempre; mas será culpado do 
+juízo
+ eterno”.
 \v Mc.3.30
 Pois diziam: “Ele tem espírito imundo”.
 \v Mc.3.31
-Então chegaram  os seus irmãos e a sua mãe ; 
- e estando de fora, mandaram chamá-lo.
+Então chegaram 
+seus irmãos e sua mãe
+; e, estando de fora, mandaram chamá-lo.
 \v Mc.3.32
-A multidão estava sentada ao redor dele. Então disseram-lhe: Eis que a tua mãe   e  os teus irmãos  
- estão lá fora a te procurar.
+E a multidão estava sentada ao redor dele. E disseram-lhe: “Eis que tua mãe
+ e
+ teus irmãos
+\fn
+RP, N4 contêm adicionalmente “e as tuas irmãs”
+\*fn
+ te procuram lá fora.
 \v Mc.3.33
-Ele lhes respondeu: Quem é a minha mãe  ou   
- os meus irmãos?
+E ele lhes respondeu: “Quem é minha mãe 
+ou
+ meus irmãos?”
 \v Mc.3.34
-E, olhando em redor aos que estavam sentados perto dele, disse: Eis aqui minha mãe e meus irmãos.
+E, olhando em redor para os que estavam sentados junto dele, disse: “Eis aqui minha mãe e meus irmãos.
 \v Mc.3.35
- Pois quem  
- fizer a vontade de Deus, esse é meu irmão,  minha  
- irmã, e mãe.
+Pois quem
+ fizer a vontade de Deus, esse é meu irmão,
+ minha
+ irmã, e mãe”.
 \v Mc.4.1
-\added
-Jesus
-\*added
- começou outra vez a ensinar junto ao mar, e uma grande multidão se ajuntou a ele, de maneira que ele entrou num barco e ficou sentado no mar; e toda a multidão estava em terra junto ao mar.
+E outra vez ele começou a ensinar junto ao mar, e uma grande multidão ajuntou-se a ele, de maneira que ele, entrando 
+num barco no mar, assentou-se; e toda a multidão estava em terra junto ao mar.
 \v Mc.4.2
-E ensinava-lhes muitas coisas por parábolas; e dizia-lhes em seu ensinamento:
+E ensinava-lhes muitas coisas por parábolas; e dizia-lhes em seu ensino:
 \v Mc.4.3
-Ouvi: eis que o semeador saiu a semear;
+“Ouçam: eis que o semeador saiu a semear;
 \v Mc.4.4
-E aconteceu que, enquanto semeava, uma 
+E aconteceu que ele, semeando, uma 
 \added
-parte das sementes
+parte da semente
 \*added
- caiu junto ao caminho, e os pássaros do céu 
- vieram, e a comeram.
+ caiu junto ao caminho, e vieram as aves
+ do céu
+, e a comeram.
 \v Mc.4.5
 E outra caiu em pedregulhos, onde não havia muita terra; e logo nasceu, porque não tinha terra profunda.
 \v Mc.4.6
-Mas, quando saiu o sol, queimou-se; e porque não tinha raiz, secou-se.
+Mas, saindo o sol, queimou-se; e porque não tinha raiz, secou-se.
 \v Mc.4.7
 E outra caiu entre espinhos; e os espinhos cresceram e a sufocaram, e não deu fruto.
 \v Mc.4.8
-Mas outra caiu em boa terra, e deu fruto, que subiu, e cresceu; e um deu trinta, outro sessenta, e outro cem.
+E outra caiu em boa terra, e deu fruto, que subiu, e cresceu; e um deu trinta, outro sessenta, e outro cem”.
 \v Mc.4.9
-E disse-lhes : 
- Quem tem ouvidos para ouvir, ouça.
+E disse
+-lhes
+: “Quem tem ouvidos para ouvir, ouça”.
 \v Mc.4.10
-E quando 
-\added
-Jesus
-\*added
- esteve só, os que estavam junto dele, com os doze, perguntaram-lhe acerca da parábola 
+E quando esteve só, os que estavam junto dele, com os doze, perguntaram-lhe acerca 
+da parábola
 .
 \v Mc.4.11
-E respondeu-lhes: A vós é concedido saber
- o mistério do Reino de Deus; mas aos que são de fora, todas estas coisas se fazem por meio de parábolas;
+E respondeu-lhes: “A vós é concedido
+ saber
+ o mistério do reino de Deus; mas aos de fora, todas estas coisas se dizem por de parábolas;
 \v Mc.4.12
-para que vendo, vejam, e não percebam; e ouvindo, ouçam, e não entendam; para não haver de se converterem, e lhes sejam perdoados  os pecados .
+para que vendo, vejam, e não percebam; e ouvindo, ouçam, e não entendam; para não haver que se convertam, e 
+sejam
+-lhes
+ perdoados
+ os pecados
+”.
+\fn
+N4 não contém “os pecados”
+\*fn
 \ref
 Isaías 6:9-10
 \*ref
 \v Mc.4.13
-E disse-lhes: Não sabeis o significado desta parábola? Como, pois, entendereis todas as parábolas?
+E disse-lhes: “Vós não sabeis o significado desta parábola? Como, pois, entendereis todas as parábolas?
 \v Mc.4.14
 O semeador semeia a palavra.
 \v Mc.4.15
-E estes são os de junto ao caminho: nos quais a palavra é semeada; mas depois de a ouvirem, Satanás logo vem, e tira a palavra que foi semeada nos seus corações  . 
+E os que estão junto ao caminho são aqueles em quem a palavra é semeada; mas, havendo-a ouvido, logo Satanás vem e 
+tira a palavra que foi semeada 
+nos seus corações
+.
 \v Mc.4.16
-E, semelhantemente, estes são os que se semeiam em pedregulhos: os que havendo ouvido a palavra, logo a recebem com alegria.
+E, semelhantemente, os que recebem a semente em pedregulhos, são aqueles que, tendo ouvido a palavra, logo a recebem 
+com alegria.
 \v Mc.4.17
-Mas não têm raiz em si mesmos; em vez disso, são temporários. Depois, quando se levanta a tribulação ou a perseguição 
-por causa da palavra, logo tropeçam na fé.
+Mas não têm raiz em si mesmos; em vez disso, são temporários. Depois, levantando-se a tribulação ou a perseguição 
+por causa da palavra, logo acham motivo de tropeço.
 \v Mc.4.18
-E estes
- são os que se semeiam entre espinhos: os que ouvem a palavra;
+E os que recebem a semente entre espinhos são os que ouvem a palavra,
 \v Mc.4.19
-mas as preocupações deste 
- mundo, a sedução das riquezas, e as cobiças por outras coisas, entram, sufocam a palavra, e ela fica sem gerar fruto.
+mas as preocupações 
+deste
+ mundo, a sedução das riquezas, e as cobiças de outras coisas, entrando, sufocam a palavra, e ela fica sem fruto.
 \v Mc.4.20
-E estes são os que foram semeados em boa terra: os que ouvem a palavra, recebem-na, e dão fruto, um trinta, e 
-outro sessenta, e outro cem.
+E os que foram semeados em boa terra são os que ouvem a palavra e a recebem, e dão fruto, um trinta, outro sessenta, e 
+outro cem.
 \v Mc.4.21
-E ele lhes disse: Por acaso a lâmpada vem a ser posta debaixo de uma caixa ou sob da cama? Não deve ela ser posta na luminária?
+E disse-lhes: “Acaso a lâmpada vem para se pôr debaixo de uma caixa, ou debaixo da cama? Ela não deve ser posta 
+na luminária?”
 \v Mc.4.22
-Pois não há nada encoberto que não haja de ser revelado; e nada se faz 
+Porque não há nada encoberto que não haja de ser manifesto; e nada se faz 
 \added
 para ficar
 \*added
- encoberto, mas sim, para ser vir à luz.
+ encoberto, mas sim, para vir à luz.
 \v Mc.4.23
-Se alguém tem ouvidos para ouvir, ouça.
+Se alguém tem ouvidos para ouvir, ouça”.
 \v Mc.4.24
-E disse-lhes: Prestai atenção ao que ouvis: com a medida que medirdes a vós mesmos se medirá, e será 
-acrescentado a vós que ouvis .
+E disse-lhes: “Cuidado com o que ouvis. Com a medida que vós medirdes, será medido para vós, e será acrescentado a 
+vós
+ que ouvis
+.
 \v Mc.4.25
-Pois ao que tem, lhe será dado; e ao que não tem, até o que tem lhe será tirado.
+Pois ao que tem, será dado; e ao que não tem, até o que tem lhe será tirado”.
 \v Mc.4.26
-E dizia: Assim é o Reino de Deus, como se um homem lançasse semente na terra;
+E dizia: “O Reino de Deus é assim, como se um homem lançasse semente à terra;
 \v Mc.4.27
-e dormisse, e se levantasse, de noite e de dia, e a semente brotasse, e crescesse, sem que ele saiba como.
+e dormisse, e se levantasse, de noite e de dia, e a semente brotasse e crescesse, não sabendo ele como.
 \v Mc.4.28
 Pois a
  terra de si mesma frutifica, primeiro a erva, depois a espiga, depois o grão cheio na espiga.
 \v Mc.4.29
-E quando o fruto se mostra pronto, logo mete a foice, pois a colheita chegou.
+E quando o fruto está pronto, logo mete-lhe a foice, pois a colheita chegou”.
 \v Mc.4.30
-E dizia: A que assemelharemos o Reino de Deus? Ou com que parábola o compararemos?
+E ele dizia: “A que assemelharemos o Reino de Deus? Ou com que parábola o compararemos?
 \v Mc.4.31
-Com um grão da mostarda que, quando semeado na terra, é a menor de todas as sementes na terra.
+É como um grão da mostarda que, quando semeado na terra, é a menor de todas as sementes que há na terra.
 \v Mc.4.32
-Mas, depois de semeado, cresce, e se torna a maior de todas as hortaliças, e cria grandes ramos, de maneira que os pássaros do céu podem fazer ninhos sob a sua sombra.
+Mas, depois de semeado, cresce, e se torna a maior de todas as hortaliças, e cria grandes ramos, de maneira que as 
+aves do céu podem aninhar-se debaixo de sua sombra”.
 \v Mc.4.33
-E com muitas parábolas como essas 
-\added
-Jesus 
-\*added
-lhes falava a palavra, conforme o que podiam ouvir.
+E com muitas parábolas desse tipo ele lhes falava a palavra, conforme o que podiam ouvir.
 \v Mc.4.34
 E não lhes falava sem parábola; mas aos seus discípulos explicava tudo em particular.
 \v Mc.4.35
-Naquele dia, chegando o entardecer, disse-lhes: Passemos para o outro lado.
+E naquele dia, vindo o entardecer, disse-lhes: “Passemos para o outro lado”.
 \v Mc.4.36
-Então despediram a multidão, e o levaram consigo assim como estava no barco; mas havia também 
-outros barquinhos
- com ele.
+E eles, deixando a multidão, o levaram consigo como estava, no barco; mas havia também com ele 
+outros 
+barquinhos
+.
 \v Mc.4.37
-E levantou-se uma grande tempestade de vento; as ondas atingiam por cima do barco, de maneira que já se enchia.
+E levantou-se uma grande tempestade de vento; as ondas subiam por cima do barco, de maneira que já se enchia.
 \v Mc.4.38
-\added
-Jesus
-\*added
- estava na popa dormindo sobre uma almofada. Então despertaram-no, e disseram-lhe: Mestre, não te importas 
-que pereçamos?
+E ele estava na popa dormindo sobre uma almofada; e o despertaram, e disseram-lhe: “Mestre, não te importas 
+que pereçamos?”
 \v Mc.4.39
-Então ele se levantou, repreendeu o vento, e disse ao mar: Cala-te, aquieta-te! E o vento se aquietou, e fez-se 
+E ele, despertando, repreendeu o vento, e disse ao mar: “Cala-te, aquieta-te!” E o vento se aquietou, e houve 
 grande bonança.
 \v Mc.4.40
-E perguntou-lhes: Por que sois tão covardes? Como não tendes fé?
+E perguntou-lhes: “Por que vós tendes tanto medo? Como não tendes fé?”
 \v Mc.4.41
-E ficaram muito atemorizados, e diziam uns aos outros: Quem é este, que até o vento e o mar lhe obedecem?
+E sentiram grande temor, e diziam uns aos outros: “Mas quem é este, que até o vento e o mar lhe obedecem?”
 \v Mc.5.1
-E chegaram ao outro lado do mar, à terra dos Gadarenos.
+E chegaram ao outro lado do mar, à terra dos 
+Gadarenos
+.
+\fn
+N4: Gerasenos
+\*fn
 \v Mc.5.2
-Assim que 
-\added
-Jesus
-\*added
- saiu do barco, veio das sepulturas ao seu encontro um homem com um espírito imundo,
+E ele, saindo do barco, logo lhe saiu ao encontro, vindo dos sepulcros, um homem com um espírito imundo,
 \v Mc.5.3
-que morava nas sepulturas, e nem mesmo com correntes conseguiam 
- prendê-lo;
+que morava nas sepulturas, e nem mesmo com correntes conseguiam prendê-lo;
 \v Mc.5.4
-pois muitas vezes fora preso com grilhões e correntes; mas as correntes eram por ele feitas em pedaços, os grilhões eram esmigalhados, e ninguém o conseguia controlar.
+pois muitas vezes havia sido preso com grilhões e correntes; mas as correntes eram por ele despedaçadas, os grilhões 
+eram esmigalhados, e ninguém conseguia dominá-lo.
 \v Mc.5.5
-E sempre dia e noite andava gritando pelos montes e pelas sepulturas,
- e ferindo-se com pedras.
+E andava sempre, de dia e de noite, gritando 
+pelos montes e pelas sepulturas
+, e ferindo-se com pedras.
 \v Mc.5.6
-Quando ele viu Jesus de longe, correu e prostrou-se diante dele.
+E, quando viu Jesus de longe, correu e prostrou-se diante dele.
 \v Mc.5.7
-E gritou em alta voz: Que tenho eu contigo Jesus, Filho do Deus Altíssimo? Imploro-te por Deus que não me atormentes.
+E exclamando em alta voz, disse: “Que tenho eu contigo Jesus, Filho do Deus Altíssimo? Rogo-te por Deus que não 
+me atormentes”.
 \v Mc.5.8
-(Pois 
+(Porque 
 \added
 Jesus
 \*added
- havia lhe dito: “Sai deste homem, espírito imundo”.)
+ lhe dizia: “Sai desse homem, espírito imundo”.)
 \v Mc.5.9
-Então perguntou-lhe: Qual é o teu nome? E respondeu:  Legião é o meu nome, porque somos muitos.
+E perguntou-lhe: “Qual é o teu nome?” E respondeu: “Meu nome é Legião, porque somos muitos”.
 \v Mc.5.10
-E rogava-lhe muito que não os expulsasse daquela terra.
+E rogava-lhe muito que não os expulsasse daquele território.
 \v Mc.5.11
-Havia ali perto dos montes
+E estava ali junto 
+aos montes
  uma grande manada de porcos pastando.
 \v Mc.5.12
-E todos 
+E 
+todos 
 \added
 aqueles 
 \*added
  demônios
-  rogaram-lhe, dizendo: Manda-nos para aqueles porcos, para que entremos neles.
+  rogaram-lhe, dizendo: “Manda-nos para aqueles porcos, para que entremos neles”.
 \v Mc.5.13
-Imediatamente Jesus
- lhes permitiu. Então aqueles espíritos imundos saíram para entrar nos porcos; e a manada lançou-se abaixo no 
-mar; (eram quase dois mil) e afogaram-se no mar.
+E 
+logo Jesus
+ lhes permitiu. E aqueles espíritos imundos, saindo, entraram nos porcos; e a manada lançou-se abaixo no mar; (eram 
+quase dois mil) e afogaram-se no mar.
 \v Mc.5.14
-Os que apascentavam  os porcos
- fugiram, e avisaram na cidade e nos campos; e 
+Os que
+ apascentavam
+ os porcos
+ fugiram, e anunciaram na cidade e nos campos; e 
 \added
 as pessoas
 \*added
- foram ver o que havia acontecido.
+ saíram para ver o que havia acontecido.
 \v Mc.5.15
-Então aproximaram-se de Jesus, e viram o endemoninhado sentado, vestido, e em sã consciência o que tivera a 
-legião; e ficaram apavorados.
+E foram até Jesus, e viram o endemoninhado, o que tivera a legião, sentado, vestido, e em são juízo; e temeram.
 \v Mc.5.16
-E os que haviam visto contaram-lhes o que acontecera ao endemoninhado, e sobre os porcos.
+E os que tinham visto contaram-lhes o que acontecera ao endemoninhado, e acerca dos porcos.
 \v Mc.5.17
-Então começaram a rogar-lhe que saísse do território deles.
-\v Mc.5.18
-Quando 
+E começaram a rogar-lhe que 
 \added
 Jesus
 \*added
- entrava no barco, o que fora endemoninhado rogou-lhe que estivesse com ele.
-\v Mc.5.19
+ saísse do território deles.
+\v Mc.5.18
+E quando ele entrava no barco, o que estivera endemoninhado rogou-lhe que estivesse com ele.
+Porém 
 Jesus 
- se recusou, porém lhe disse: Vai para a tua casa, aos teus, e anuncia-lhes quão grandes coisas o Senhor fez 
+ não lhe permitiu, mas lhe disse: “Vai para tua casa, aos teus, e anuncia-lhes quão grandes coisas o Senhor fez 
  contigo, e 
 \added
 como
 \*added
- teve misericórdia de ti.
+ teve misericórdia de ti”.
 \v Mc.5.20
-Então ele foi embora, e começou a anunciar em Decápolis quão grandes coisas Jesus havia feito com ele; e todos se admiravam.
+E foi embora, e começou a anunciar em Decápolis quão grandes coisas Jesus havia feito com ele; e todos se admiravam.
 \v Mc.5.21
-Depois de Jesus passar outra vez num barco para o outro lado, uma grande multidão se ajuntou a ele; e ele ficou junto ao mar.
+E Jesus, havendo passado outra vez num barco para o outro lado, uma grande multidão se ajuntou a ele; e ele estava 
+junto ao mar.
 \v Mc.5.22
-E  eis que
- veio um dos líderes de sinagoga, por nome Jairo; e quando o viu, prostrou-se aos seus pés.
+E
+ eis que
+ chegou um dos chefes da sinagoga, por nome Jairo; e, vendo-o, prostrou-se a seus pés.
 \v Mc.5.23
-E implorava-lhe muito, dizendo: Minha filhinha está a ponto de morrer. 
+E rogava-lhe muito, dizendo: “Minha filhinha está perto de morrer; 
 \added
-Rogo-te
+rogo-te
 \*added
- que venhas pôr as mãos sobre ela, para que seja curada, e viva.
+ que venhas e ponhas as mãos sobre ela, para que se cure, e viva”.
 \v Mc.5.24
+E 
 \added
 Jesus
 \*added
- foi com ele. Uma grande multidão o seguia, e o apertavam.
+ foi com ele; e uma grande multidão o seguia e o apertava.
 \v Mc.5.25
-E havia uma  certa
+E uma
+ certa
  mulher, que tinha um fluxo de sangue havia doze anos,
 \v Mc.5.26
-que tinha sofrido muito por meio de muitos médicos, e gastado tudo quanto possuía, e nada havia lhe dado bom 
-resultado; ao invés disso, piorava.
+e que havia sofrido muito com muitos médicos, e gastado tudo quanto tinha, e nada havia lhe aproveitado; ao invés 
+disso, piorava,
 \v Mc.5.27
-Quando ela ouviu falar de Jesus, veio entre a multidão por detrás, e tocou a roupa dele.
+ela, ouvindo falar de Jesus, veio entre a multidão por detrás, e tocou a roupa dele.
 \v Mc.5.28
-Pois dizia: Se tão somente tocar as suas roupas, serei curada.
+Porque dizia: “Se tão somente tocar suas roupas, serei curada”.
 \v Mc.5.29
-E imediatamente a fonte do seu sangue parou se secou; e sentiu no corpo que já havia sido curada daquele flagelo.
+E imediatamente secou-se a fonte de seu sangue; e sentiu no corpo estar curada daquele flagelo.
 \v Mc.5.30
-Jesus logo notou em si o poder que dele havia saído. Então virou-se na multidão, e perguntou: Quem tocou as 
-minhas roupas?
+E imediatamente Jesus, conhecendo que o poder havia saído dele, virando-se na multidão, disse: “Quem tocou 
+minhas roupas?”
 \v Mc.5.31
-E seus discípulos lhe disseram: Eis que a multidão te aperta, e perguntas: Quem me tocou?
+E seus discípulos lhe disseram: “Vês que a multidão te aperta, e dizes: ‘Quem me tocou?’”
 \v Mc.5.32
 E ele olhava em redor, para ver quem havia lhe feito isso.
 \v Mc.5.33
-Então a mulher temendo, e tremendo, sabendo o que  havia sido feito  em si,
- veio, prostrou-se diante dele, e disse-lhe toda a verdade.
+Então a mulher, temendo e tremendo, sabendo o que lhe havia sido feito, aproximou-se, prostrou-se diante dele, e 
+disse-lhe toda a verdade.
 \v Mc.5.34
-E ele lhe disse: Filha, a tua fé te salvou. Vai em paz, e estejas curada deste teu flagelo.
+E ele lhe disse: “Filha, tua fé te salvou.
+\fn
+Ou: curou
+\*fn
+ Vai em paz, e fica curada deste teu flagelo”.
 \v Mc.5.35
-Estando ele ainda falando, alguns vieram 
-\added
-da casa
-\*added
- do líder de sinagoga, e disseram:  A tua filha já morreu; por que ainda estás incomodando o Mestre?
+Estando ele ainda falando, alguns vieram da parte do chefe da sinagoga, e disseram: “Tua filha está morta; por que 
+ainda estás incomodando o Mestre?”
 \v Mc.5.36
-Mas Jesus, assim que ouviu essa palavra 
- que havia sido falada, disse ao líder de sinagoga: Não temas; crê somente.
+Mas Jesus, 
+ouvindo
+ essa palavra que se dizia, disse ao chefe da sinagoga: “Não temas; crê somente”.
 \v Mc.5.37
-E não permitiu que ninguém o seguisse, a não ser Pedro, Tiago, e João irmão de Tiago.
+E não permitiu que ninguém o seguisse, senão Pedro, Tiago, e João, irmão de Tiago.
 \v Mc.5.38
-Ele chegou
- à casa do líder de sinagoga, e 
- viu o alvoroço, os que choravam muito e pranteavam.
+E 
+eles
+, havendo chegado à casa do chefe da sinagoga, ele viu o alvoroço, e os que choravam muito e pranteavam.
 \v Mc.5.39
-E ao entrar, disse-lhes: Por que fazeis alvoroço e chorais? A menina não morreu, mas está dormindo.
+E ele, entrando, disse-lhes: “Por que vós estais fazendo alvoroço e chorando? A menina não está morta, mas dorme”.
 \v Mc.5.40
-E riram dele. Porém ele, depois de pôr todos fora, tomou consigo o pai e a mãe da menina, e os que estavam com ele. 
-Em seguida, entrou onde a menina estava deitada.
+E riram dele. Mas Jesus,
+\fn
+Lit. ele
+\*fn
+ havendo-os posto todos fora, tomou consigo o pai e a mãe da menina, e os que 
+estavam com ele; e entrou onde a menina estava
+ deitada
+.
+\fn
+N4 não contém “deitada”
+\*fn
 \v Mc.5.41
-Ele pegou a mão da menina, e lhe disse: “Talita cumi”, (que significa: “Menina, eu te digo, levanta-te”).
+E, pegando a mão da menina, disse-lhe: “Talita cumi”, que significa: “Menina, eu te digo, levanta-te”.
 \v Mc.5.42
-E logo a menina se levantou e andou, pois já tinha doze anos de idade. E  ficaram 
- grandemente espantados.
+E imediatamente a menina se levantou e andava, pois já tinha doze anos. E
+ tiveram grande espanto.
 \v Mc.5.43
-E mandou-lhes muito que ninguém o soubesse; e mandou que dessem a ela de comer.
+E mandou-lhes severamente que ninguém soubesse disso; e disse que dessem a ela de comer.
 \v Mc.6.1
-\added
-Jesus
-\*added
- partiu-se dali, veio à sua terra, e seus discípulos o seguiram.
+E partiu dali, e chegou à sua terra, e seus discípulos o seguiram.
 \v Mc.6.2
-E chegando o sábado, começou a ensinar na sinagoga; e muitos, quando o ouviram, espantavam-se, dizendo: De onde lhe 
-\added
-vem
-\*added
- estas coisas? E que sabedoria é esta que lhe foi dada? E tais maravilhas feitas por suas mãos?
+E chegando o sábado, começou a ensinar na sinagoga; e muitos, ouvindo-o, espantavam-se, dizendo: “De onde lhe vem 
+estas coisas? E que sabedoria é esta que lhe foi dada? E tais maravilhas que se fazem por suas mãos?
 \v Mc.6.3
 Não é este o carpinteiro, filho de Maria, e irmão de Tiago, de José, de Judas, e de Simão? E não estão aqui as 
-suas irmãs conosco? E ofenderam-se nele.
+suas irmãs conosco? E escandalizaram-se nele”.
 \v Mc.6.4
-E Jesus lhes dizia: Todo profeta tem honra, 
-\fn
-Lit. “Não há profeta sem honra”
-\*fn
-menos em sua terra, entre os parentes, e em sua própria casa.
+E Jesus lhes dizia: “Não há profeta que não tenha honra, senão em sua terra, entre os parentes, e em sua casa”.
 \v Mc.6.5
-Ele não pôde ali fazer milagre algum, a não ser somente para uns poucos enfermos, sobre os quais pôs as mãos e os curou.
+E ele não pôde ali fazer milagre algum, senão somente curou uns poucos enfermos, sobre os quais pôs as mãos.
 \v Mc.6.6
-E ficou admirado da incredulidade deles. Ele percorreu as aldeias do redor, ensinando.
+E estava admirado da incredulidade deles. E percorreu as aldeias vizinhas, ensinando.
 \v Mc.6.7
-E chamou a si os doze, e começou a enviar de dois em dois; e deu-lhes poder sobre os espíritos imundos.
+E chamou a si os doze, e começou a enviá-los de dois em dois; e deu-lhes poder sobre os espíritos imundos.
 \v Mc.6.8
-E mandou-lhes que não tomassem nada para o caminho, a não ser somente um bordão; nem bolsa, nem pão, nem dinheiro no cinto;
+E mandou-lhes que não levassem nada para o caminho, senão somente um cajado; nem bolsa, nem pão, nem dinheiro no cinto;
 \v Mc.6.9
 mas que calçassem sandálias, e não se vestissem de duas túnicas.
 \v Mc.6.10
-E dizia-lhes: Onde quer que entrardes em alguma casa, ficai ali até que dali saiais.
+E dizia-lhes: “Onde quer que vós entrardes em alguma casa, ficai nela até que saiais dali.
 \v Mc.6.11
-E todos os que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudi o pó que estiver debaixo de vossos pés, em testemunho contra eles Em verdade vos digo, que mais tolerável será a 
-\added
-os de
-\*added
- Sodoma ou Gomorra no dia do juízo, do que a 
-\added
-os d
-\*added
-aquela cidade.
+E todos os
+ que não vos receberem, nem vos ouvirem, quando sairdes dali, sacudam o pó que estiver debaixo de vossos pés, em 
+testemunho contra eles
+ Em verdade vos digo, que mais tolerável será para Sodoma ou 
+Gomorra no dia do juízo, do que para aquela cidade
+.
+\fn
+N4 não contém “Em verdade vos digo (...) para aquela cidade”
+\*fn
 \v Mc.6.12
-Eles, então, se foram, e pregaram que 
-\added
-as pessoas
-\*added
- se arrependessem.
+E eles, saindo, pregaram que se arrependessem.
 \v Mc.6.13
-Eles expulsaram muitos demônios, e a muitos enfermos ungiram com azeite, e os curaram.
+E expulsavam muitos demônios, e ungiam muitos enfermos com azeite, e os curavam.
 \v Mc.6.14
-O rei Herodes ouviu falar disso (porque o nome de 
+E o rei Herodes ouviu falar 
+\added
+disso
+\*added
+, porque o nome de 
 \added
 Jesus
 \*added
- já era notório). E dizia: 
- João Batista ressuscitou dos mortos, e por isso estas maravilhas operam nele.
+ já era notório; e 
+dizia
+: “João Batista foi ressuscitado dos mortos, e por isso essas maravilhas operam nele”.
 \v Mc.6.15
-Outros diziam: É Elias; e outros diziam:  É profeta,  ou
- como algum dos profetas.
+Outros diziam: “É Elias”; e outros diziam: “É profeta,
+ ou
+ como algum dos profetas”.
 \v Mc.6.16
-Quando, porém, Herodes ouviu falar disso, falou: Ele é João, de quem cortei a cabeça. Ele ressuscitou  dos mortos.
+Porém Herodes, ouviu falar 
+\added
+disso
+\*added
+, disse: “Esse é João, de quem mandei cortar a cabeça. Ele ressuscitou
+ dos mortos
+”.
 \v Mc.6.17
-Pois o próprio Herodes havia mandado prender João, e acorrentá-lo na prisão, por causa de Herodias, mulher do seu irmão Filipe, porque havia se casado com ela.
+Pois o mesmo Herodes havia mandado prender João, e acorrentá-lo na prisão, por causa de Herodias, mulher de Filipe, 
+seu irmão, porque havia se casado com ela.
 \v Mc.6.18
-Pois João dizia a Herodes: Não te é lícito possuir a mulher do teu irmão.
+Porque João dizia a Herodes: “Não te é lícito possuir a mulher de teu irmão”.
 \v Mc.6.19
-Assim Herodias o odiava, e queria matá-lo, mas não podia,
+E Herodias o odiava, e queria matá-lo, mas não podia,
 \v Mc.6.20
-pois Herodes temia João, sabendo que era um homem justo e santo, e o estimava. E quando o ouvia, fazia muitas coisas,
- o ouvia de boa vontade.
+porque Herodes temia João, sabendo que era um homem justo e santo, e o protegia. E quando o ouvia, 
+fazia muitas coisas
+, e o ouvia de boa vontade.
 \v Mc.6.21
-Mas veio um dia oportuno, em que Herodes, no dia do seu aniversário, dava uma ceia aos grandes de sua corte, aos comandantes militares, e aos principais da Galileia.
+E, chegando um dia oportuno, em que Herodes, no dia do seu aniversário, dava uma ceia aos grandes de sua corte, aos 
+comandantes militares, e aos principais da Galileia;
 \v Mc.6.22
-Então a filha dessa Herodias entrou dançando, e agradou a Herodes e aos que estavam sentados com ele. O rei disse à garota: Pede-me quanto quiseres, que eu darei a ti.
+e, havendo a filha dessa Herodias entrado dançando, agradou a Herodes e aos que estavam sentados à mesa com ele. O rei 
+disse à jovem: “Pede-me quanto quiseres, que eu te darei”.
 \v Mc.6.23
-E jurou a ela: Tudo o que me pedirdes te darei, até a metade do meu reino.
+E jurou a ela, dizendo: “Tudo o que me pedires eu te darei, até a metade de meu reino”.
 \v Mc.6.24
-Então ela saiu, e perguntou à sua mãe: Que pedirei? E ela respondeu:  A cabeça de João Batista.
+E ela, saindo, disse à sua mãe: “Que pedirei?” E ela disse: “A cabeça de João Batista”.
 \v Mc.6.25
-E entrando ela logo apressadamente ao rei, pediu, dizendo: Quero que imediatamente me dês num prato a cabeça de João Batista.
+E imediatamente ela, entrando apressadamente ao rei, pediu, dizendo: “Quero que agora mesmo me dês num prato a 
+cabeça de João Batista”.
 \v Mc.6.26
 E o rei entristeceu-se muito; 
 \added
 mas
 \*added
-, por causa dos juramentos, e dos que estavam juntamente à mesa, não quis recusar a ela.
+, por causa dos juramentos, e dos que estavam juntamente à mesa, não quis negar a ela.
 \v Mc.6.27
-Então logo o rei enviou o executor com a ordem de trazer ali sua cabeça. Ele, foi, e o decapitou na prisão.
+E o rei, enviando imediatamente o executor, mandou trazer ali sua cabeça. E ele foi e o decapitou na prisão.
 \v Mc.6.28
-Em seguida, trouxe a sua cabeça num prato, e o deu à garota; e a garota a deu à sua mãe.
+E trouxe sua cabeça num prato, e o deu à jovem; e a jovem a deu à sua mãe.
 \v Mc.6.29
-Quando os discípulos dele ouviram isso, vieram, pegaram o seu cadáver, e o puseram num sepulcro.
+E os discípulos dele, ouvindo isso, vieram, pegaram seu cadáver, e o puseram num sepulcro.
 \v Mc.6.30
-Os apóstolos juntaram-se 
-\added
-de volta
-\*added
- a Jesus, e contaram-lhe tudo, tanto o que haviam feito, como o que haviam ensinado.
+Os apóstolos ajuntaram-se de volta a Jesus, e contaram-lhe tudo, tanto o que haviam feito, como o que haviam ensinado.
 \v Mc.6.31
-E ele lhes disse: Vinde vós à parte a um lugar deserto, e descansai um pouco; pois havia muitos que iam e vinham, e não tinham tempo para comer.
+E ele lhes disse: “Vinde aqui à parte a um lugar deserto, e repousai um pouco”; porque havia muitos que iam e vinham, 
+e não tinham tempo para comer.
 \v Mc.6.32
-E foram-se num barco a um lugar deserto à parte.
+E foram num barco a um lugar deserto, à parte.
 \v Mc.6.33
-Mas as multidões
- os viram ir, e muitos o reconheceram. Então correram para lá a pé de todas as cidades, chegaram antes deles, e vieram para perto dele.
+Mas as multidões os viram partir, e muitos 
+o
+ reconheceram. E correram para lá a pé de todas as cidades, 
+e chegaram antes deles
+, e aproximaram-se dele
+.
 \v Mc.6.34
-Quando 
- Jesus 
- 
- saiu 
+E 
+Jesus
+ saindo 
 \added
 do barco
 \*added
-, viu uma grande multidão, e teve compaixão deles porque eram como ovelhas que não têm pastor. Assim, começou a lhes ensinar muitas coisas.
+, viu uma grande multidão, e teve compaixão deles, porque eram como ovelhas que não têm pastor. E começou a 
+ensinar-lhes muitas coisas.
 \v Mc.6.35
-E quando já era tarde, os seus discípulos vieram a ele, e disseram: O lugar é deserto, e a hora já é tarde.
+E quando já era tarde do dia, seus discípulos se aproximaram dele, e disseram: “O lugar é deserto, e já é tarde do dia.
 \v Mc.6.36
-Despede-os, para eles irem aos campos e aldeias circunvizinhos, e comprarem  pão para si; pois não têm o que comer.
+Despede-os, para que vão aos campos e aldeias vizinhas, e comprem
+ pão para si; pois não têm o que comer
+”.
 \v Mc.6.37
-Mas ele respondeu: Dai-lhes vós mesmos de comer. E eles lhe responderam:  Iremos, e compraremos duzentos denários de pão, para lhes darmos de comer?
+Porém ele, respondendo, disse: “Dai-lhes vós mesmos de comer”. E eles lhe disseram: “Acaso iremos, e compraremos 
+duzentos denários de pão, e lhes daremos de comer?”
 \v Mc.6.38
-E ele lhes disse: Quantos pães tendes? Ide ver. Quando souberam, disseram:  Cinco, e dois peixes.
+E ele lhes disse: “Quantos pães tendes? Ide ver”. E eles, quando souberam, disseram: “Cinco, e dois peixes”.
 \v Mc.6.39
-E mandou-lhes que fizessem sentar a todos em grupos sobre a grama verde.
+E mandou-lhes que fizessem assentar a todos em grupos sobre a relva verde.
 \v Mc.6.40
-E sentaram-se repartidos de cem em cem, e de cinquenta em cinquenta.
+E assentaram-se repartidos de cem em cem, e de cinquenta em cinquenta.
 \v Mc.6.41
-Ele tomou os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos seus
- discípulos, para que os pusessem diante deles. E os dois peixes repartiu com todos.
+E ele, tomando os cinco pães e os dois peixes, levantou os olhos ao céu, abençoou, e partiu os pães, e os deu aos 
+ seus
+ discípulos, para que os pusessem diante deles. E os dois peixes repartiu entre todos.
 \v Mc.6.42
-Todos comeram e se saciaram.
+E todos comeram e se saciaram.
 \v Mc.6.43
-E dos pedaços de pão e dos peixes levantaram doze cestos cheios.
+E levantaram dos pedaços de pão e dos peixes doze cestos cheios.
 \v Mc.6.44
-Os que comeram os pães eram quase
+Os que comeram os pães eram
+ quase
  cinco mil homens.
 \v Mc.6.45
-Logo depois, ordenou seus discípulos a subirem no barco, e ir adiante para o outro lado, em Betsaida, enquanto ele despedia a multidão.
+E logo mandou seus discípulos subirem no barco, e ir adiante para o outro lado, para Betsaida, enquanto ele despedia 
+a multidão.
 \v Mc.6.46
-E, depois de os despedir, foi ao monte para orar.
+E, havendo-os despedido, foi ao monte para orar.
 \v Mc.6.47
-Ao anoitecer, o barco estava no meio do mar, e 
+E vindo o entardecer, o barco estava no meio do mar, e 
 \added
 Jesus
 \*added
  sozinho em terra.
 \v Mc.6.48
-E viu que se cansavam muito remando, porque o vento lhes era contrário. Então, perto da quarta vigília da noite, veio a eles andando sobre o mar, e queria passar por eles.
+E viu que se cansavam muito remando, porque o vento lhes era contrário; e perto da quarta vigília da noite, 
+aproximou-se deles andando sobre o mar, e queria passar adiante deles.
 \v Mc.6.49
-Mas quando eles o viram andando sobre o mar, pensaram que era uma fantasma, e gritaram,
+Mas eles, vendo-o andar sobre o mar, pensaram que era uma fantasma, e deram grandes gritos,
 \v Mc.6.50
-pois todos o viam, e ficaram perturbados. Então logo falou com eles, dizendo: Tende coragem! Sou eu, não tenhais medo.
+porque todos o viam, e perturbaram-se. Mas logo falou com eles, e disse-lhes: “Tende coragem! Sou eu, não temais”.
 \v Mc.6.51
-E subiu a eles no barco, e o vento se aquietou. Eles ficaram muito espantados e maravilhados
- entre si,
+E subiu no barco para estar com eles, e o vento se aquietou; e entre si ficaram muito espantados
+ e maravilhados
+,
 \v Mc.6.52
-pois não haviam entendido o que tinha acontecido com os pães, porque o coração deles estava endurecido.
+pois não haviam entendido o que acontecera com os pães, 
+porque
+ o coração deles estava endurecido.
 \v Mc.6.53
-Eles terminaram de atravessar o mar, chegaram à terra de Genesaré, e ali aportaram.
+E quando fizeram a travessia, chegaram à terra de Genesaré, e ali aportaram.
 \v Mc.6.54
-Quando eles saíram do barco, logo 
+E eles, saindo do barco, logo 
 \added
 as pessoas
 \*added
  o reconheceram.
 \v Mc.6.55
-Então gente de toda a região em redor veio correndo, e começaram a trazer em camas os doentes, aonde quer que ouviam que ele estava.
+E corriam por toda aquela região, e começaram a trazer em leitos os doentes, aonde quer que ouviam falar que 
+ele estava.
 \v Mc.6.56
-E aonde quer que ele entrava, em povoados, cidades, ou aldeias, colocavam os enfermos nas praças, e rogavam-lhe que ao menos tocassem a borda de sua roupa; e todos os que o tocavam ficavam sarados.
+E aonde quer que ele entrava, em povoados, ou cidades, ou aldeias, colocavam os enfermos nas praças, e rogavam-lhe que 
+ao menos tocassem a borda de sua veste; e todos os que o tocavam eram curados.
 \v Mc.7.1
-Os fariseus, e alguns dos escribas, que tinham vindo de Jerusalém, reuniram-se com ele.
+E reuniram-se perto dele os fariseus, e alguns dos escribas, que tinham vindo de Jerusalém.
 \v Mc.7.2
-E, quando viram que alguns dos discípulos dele comiam pão com mãos impuras, isto é, sem lavar, repreendiam-lhes.
+E 
+vendo
+ que alguns dos discípulos dele comiam pão com mãos impuras, isto é, sem lavar
+, os repreendiam;
 \v Mc.7.3
-(Pois os fariseus, e todos os judeus, mantendo a tradição dos antigos, se não lavarem bastante as mãos, não comem.
+(porque os fariseus, e todos os judeus, conservando a tradição dos antigos, não comem sem lavarem as mãos 
+muitas vezes.
 \v Mc.7.4
-E, quando voltam da rua, se não se lavarem, não comem; e há muitas outras coisas que se encarregam de guardar, 
-\added
-como
-\*added
- lavar os copos, as vasilhas,  os utensílios de metal, e os leitos). 
+E, voltando da praça, se não se lavarem, não comem. E há muitas outras coisas que se encarregam de guardar, como lavar 
+os copos, os jarros, os vasos de metal
+, e os leitos
+).
 \v Mc.7.5
-Depois os fariseus e os escribas lhe perguntaram: Por que os teus discípulos não andam conforme a tradição dos antigos, em vez de comerem pão com as mãos sem lavar?
+Depois os fariseus e os escribas lhe perguntaram: “Por que teus discípulos não andam conforme a tradição dos antigos, 
+mas comem pão com as mãos 
+sem lavar
+?”
 \v Mc.7.6
-E ele lhes respondeu: Bem profetizou Isaías acerca de vós, hipócritas! Como está escrito:  Este povo me honra com os lábios, mas o seu coração está longe de mim.
+Porém ele, respondendo, disse-lhes: “Isaías bem profetizou acerca de vós, hipócritas! Como está escrito: ‘Este povo 
+me honra com os lábios, mas seu coração está longe de mim.
 \v Mc.7.7
-Eles, porém, me honram em vão, ensinando como doutrinas mandamentos humanos. 
+Porém eles me honram em vão, ensinando como doutrinas os mandamentos humanos’.
 \ref
 Isaías 29:13
 \*ref
 \v Mc.7.8
-Pois
- vós deixais o mandamento de Deus, e mantendes a tradição humana, 
+Pois vós
+, deixando o mandamento de Deus, vos apegais à tradição humana
+, 
 \added
 como
 \*added
- lavar as vasilhas e os copos; e fazeis muitas outras  coisas semelhantes a estas.
+ lavar os jarros e os copos; e fazeis muitas outras coisas semelhantes a essas
+”.
+\fn
+N4 não contém “[como] lavar os jarros (...) semelhantes a essas”
+\*fn
 \v Mc.7.9
-E dizia-lhes: Vós dispensais o mandamento de Deus para guardardes a vossa tradição;
+E dizia-lhes: “Vós rejeitais o mandamento de Deus para guardardes vossa tradição;
 \v Mc.7.10
-porque Moisés disse: Honra o teu pai e a tua mãe. E quem maldisser ao pai ou à mãe terá de morrer.
+porque Moisés disse: ‘Honra teu pai e tua mãe’.
+\ref
+Êxodo 20:12, Deuteronômio 5:16
+\*ref
+ E ‘quem maldisser ao pai ou à mãe deverá morrer’.
+\ref
+Êxodo 21:17, Levítico 20:9
+\*ref
 \v Mc.7.11
-Mas vós dizeis: Se o homem disser ao pai ou à mãe:  Tudo o que te puder aproveitar de mim é corbã (isto é, oferta), 
+Mas vós dizeis: ‘Se o homem disser ao pai ou à mãe: Tudo o que te puder aproveitar de mim é corbã (isto é, uma oferta), 
 \v Mc.7.12
-então não lhe deixais mais nada fazer por seu pai ou por sua mãe.
+então vós não lhe permitis mais fazer coisa alguma por seu pai ou por sua mãe.
 \v Mc.7.13
-Assim invalidaias a palavra de Deus por vossa tradição, que ordenastes; e 
-\added
-fazeis
-\*added
- muitas coisas semelhantes a estas.
+Assim, invalidais a palavra de Deus por vossa tradição, que vós ordenastes; e fazeis muitas coisas semelhantes a essas”.
 \v Mc.7.14
-E chamando para si toda a multidão, disse-lhes: Ouvi-me todos, e entendei:
+E chamando a si toda a multidão, disse-lhes: “Ouvi-me vós todos, e entendei:
 \v Mc.7.15
-Nada há fora do ser humano que nele entre que o possa contaminar; mas o que dele sai, isso é o que contamina o ser humano.
+Não há nada fora do ser humano, nele entrando, que o possa contaminar; mas o que dele sai, isso é o que contamina 
+o ser humano.
 \v Mc.7.16
 Se alguém tem ouvidos para ouvir, ouça.
+\fn
+N4 não contém o versículo 16. Comparar com Marcos 4:9,23
+\*fn
 \v Mc.7.17
-Quando 
-\added
-Jesus
-\*added
- deixou a multidão e entrou em casa, seus discípulos lhe perguntaram sobre a parábola.
+E, quando deixou a multidão e entrou em casa, seus discípulos lhe perguntaram sobre a parábola.
 \v Mc.7.18
-E ele lhes disse: Também vós estais assim sem entendimento? Não entendeis que tudo o que de fora entra no ser humano não o pode contaminar?
+E ele lhes disse: “Então também vós não tendes entendimento? Não compreendeis que tudo o que entra de fora no ser humano 
+não o pode contaminar?
 \v Mc.7.19
-Pois não entra no seu coração, mas, sim, no ventre, e sai para a privada. (Assim, ele declarou como limpas todas as comidas).
-\v Mc.7.20
-E dizia: O que sai do ser humano, isso contamina o ser humano.
-\v Mc.7.21
-Pois é de dentro do coração humano que vêm os maus pensamentos, os adultérios, os pecados sexuais,  os homicídios, 
-\v Mc.7.22
-os roubos,
- as ganâncias, as maldades, o engano, a depravação, o olho malicioso, a blasfêmia, a soberba, a insensatez.
-\v Mc.7.23
-Todos estes males procedem de dentro, e contaminam o ser humano.
-\v Mc.7.24
+Porque não entra em seu coração, mas sim, no estômago, e sai para a privada”. (
 \added
-Jesus
-
-\*added
- levantou-se dali e foi para a região de Tiro e de Sidom.
- Ele entrou numa casa, e não queria que ninguém soubesse disso, mas não pôde se esconder.
+Assim
+\*added 
+, ele declarou puros todos os alimentos).
+\v Mc.7.20
+E dizia: “O que sai do ser humano, isso contamina o ser humano.
+\v Mc.7.21
+Pois de dentro do coração dos seres humanos saem os maus pensamentos,
+ os adultérios,
+ os pecados sexuais,
+ os homicídios,
+\v Mc.7.22
+os furtos, 
+as ganâncias, as maldades, o engano, a devassidão, a inveja, a blasfêmia, a soberba, a insensatez.
+\v Mc.7.23
+Todos estes males procedem de dentro, e contaminam o ser humano”.
+\v Mc.7.24
+E, havendo levantado-se dali, foi para a região de Tiro
+ e de Sidom
+. E, entrando numa casa, não queria que ninguém soubesse disso, mas não pôde se esconder.
 \v Mc.7.25
-Pois
- uma mulher, cuja filhinha tinha um espírito imundo, assim que ouviu falar dele, veio, e prostrou-se a seus pés.
+Porque
+ uma mulher, cuja filha tinha um espírito imundo, ouvindo falar dele, foi, e lançou-se a seus pés.
 \v Mc.7.26
 Esta mulher era grega, de nacionalidade sirofenícia; e rogava-lhe que expulsasse o demônio de sua filha.
 \v Mc.7.27
 Mas 
- Jesus 
- lhe disse: Deixa primeiro que os filhos se fartem; porque não é bom tomar o pão dos filhos, e lançá-lo aos cachorrinhos.
+Jesus 
+ lhe disse: “Deixa que primeiro os filhos se saciem; porque não é bom tomar o pão dos filhos, e lançá-lo 
+aos cachorrinhos”.
 \v Mc.7.28
-Porém ela lhe respondeu: Sim Senhor; mas também os cachorrinhos comem debaixo da mesa, das migalhas que os filhos deixam.
+Porém ela respondeu, e disse-lhe: “Sim Senhor; mas também os cachorrinhos comem, debaixo da mesa, as migalhas 
+dos filhos”.
 \v Mc.7.29
-Então ele lhe disse: Por esta palavra, vai, o demônio já saiu da tua filha.
+Então ele lhe disse: “Por causa dessa palavra, vai; o demônio já saiu de tua filha”.
 \v Mc.7.30
-Quando ela chegou à sua casa, encontrou que o demônio já havia saído, e a filha
- estava deitada sobre a cama.
+E ela, indo para sua casa, achou a 
+filha
+ deitada sobre a cama, e o demônio já havia saído.
 \v Mc.7.31
-Então 
+E 
 \added
 Jesus
 \*added
- voltou a sair da região de Tiro e de Sidom, e veio
+, voltando a sair da região de Tiro e 
+de Sidom, e foi
  para o mar da Galilea, por meio da região de Decápolis.
 \v Mc.7.32
-E trouxeram-lhe um surdo que dificilmente falava, e rogaram-lhe que pusesse a mão sobre ele.
+E trouxeram-lhe um surdo que falava com dificuldade, e rogaram-lhe que pusesse a mão sobre ele.
 \v Mc.7.33
-E tomando-o em separado da multidão, pôs os seus dedos nos ouvidos dele, cuspiu, e tocou-lhe a língua.
+E, levando-o em separado da multidão, pôs-lhe os dedos nos ouvidos; e, cuspindo, tocou-lhe a língua.
 \v Mc.7.34
-Depois, levantando os olhos ao céu, suspirou, e disse: Efatá, (isto é, abre-te).
+E, levantando os olhos ao céu, suspirou, e disse: “Efatá”, (isto é, abre-te).
 \v Mc.7.35
-Imediatamente os
- ouvidos dele se abriram, e  o que prendia sua língua se soltou, e passou a falar bem.
+E imediatamente os ouvidos dele se abriram, e sua língua se soltou, e começou a falar perfeitamente.
 \v Mc.7.36
+E 
 \added
 Jesus
 \*added
- lhes mandou que a ninguém dissessem; porém, quanto mais lhes mandava, mais divulgavam.
+ ordenou-lhes que a ninguém dissessem; mas, quanto mais lhes ordenava, mais o divulgavam.
 \v Mc.7.37
-E ficavam muito admirados, dizendo: Ele faz tudo bem! Aos surdos faz ouvir, e aos mudos falar.
+E, grandemente admirados, diziam: “Tudo ele faz bem! Aos surdos faz ouvir, e aos mudos falar”.
 \v Mc.8.1
-Naqueles dias, quando havia  uma multidão muito grande
-, e não tinham o que comer, 
- Jesus 
- 
- chamou os seus
+Naqueles dias, havendo
+ uma
+ muito grande
+ multidão, e não tinham o que comer, 
+Jesus 
+ chamou os 
+ seus
  discípulos a si, e disse-lhes:
 \v Mc.8.2
-Tenho compaixão da multidão, porque já há três dias que estão comigo, e não têm o que comer.
+“Tenho compaixão da multidão, porque já há três dias que estão comigo, e não têm o que comer.
 \v Mc.8.3
-E se eu os deixar ir sem comer para suas casas desmaiarão no caminho; porque
- alguns deles vieram de longe.
+E se eu os deixar ir em jejum para suas casas, desmaiarão no caminho; porque alguns deles vieram de longe”.
 \v Mc.8.4
-Os seus discípulos lhe responderam: De onde poderá alguém saciar estes de pão aqui no deserto?
+E seus discípulos lhe responderam: “De onde alguém poderá saciar estes de pão aqui no deserto?”
 \v Mc.8.5
-\added
-Jesus
-\*added
- lhes perguntou: Quantos pães tendes? E eles disseram:  Sete.
+E perguntou-lhes: “Quantos pães tendes?” E eles disseram: “Sete”.
 \v Mc.8.6
-Então mandou à multidão que se sentassem no chão. Em seguida, tomou os sete pães, e tendo dado graças, partiu-os, e os deu a seus discípulos, para que os pusessem diante deles. E eles os puseram diante da multidão.
+Então mandou à multidão que se assentassem no chão. E, tomando os sete pães, e havendo dado graças, partiu-os, e os deu 
+a seus discípulos, para que os pusessem diante deles; e eles os puseram diante da multidão.
 \v Mc.8.7
-E tinham uns poucos peixinhos, e havendo dado graças, disse que também os pusessem diante deles.
+Tinham também uns poucos peixinhos; e, havendo dado graças, disse que também os pusessem diante deles.
 \v Mc.8.8
-Eles comeram, e se saciaram; e levantaram, do que sobrou dos pedaços, sete cestos.
+E eles comeram, e se saciaram; e dos pedaços que sobraram, recolheram sete cestos.
 \v Mc.8.9
-Os que comeram eram quase quatro mil. Depois os despediu.
+E os que comeram eram quase quatro mil. Então os despediu.
 \v Mc.8.10
-E logo entrou no barco com os seus discípulos, e veio para a região de Dalmanuta.
+E logo entrando no barco com seus discípulos, foi para a região de Dalmanuta.
 \v Mc.8.11
-Os fariseus vieram, e começaram a disputar com ele, pedindo-lhe sinal do céu, para o testar.
+Os fariseus chegaram, e começaram a disputar com ele, pedindo-lhe um sinal do céu, para o testarem.
 \v Mc.8.12
-E ele, suspirando profundamente em seu espírito, disse: Por que esta geração pede um sinal? Em verdade vos digo, que não se dará sinal a esta geração.
+E ele, suspirando profundamente em seu espírito, disse: “Por que esta geração pede um sinal? Em verdade vos digo que 
+não se dará sinal a esta geração”.
 \v Mc.8.13
-Então os deixou, voltou a entrar  no barco , 
- e foi para a outro lado 
-\added
-do mar
-\*added
-.
+E, deixando-os, voltou a entrar no barco, e foi para a outro lado.
 \v Mc.8.14
 E 
 \added
-os seus discípulos
+seus discípulos
 \*added
- haviam se esquecido de tomar pão, e nada tinham, a não ser um pão com eles no barco.
+ haviam se esquecido de pegar pão, e nada tinham, senão um pão consigo no barco.
 \v Mc.8.15
-E 
-\added
-Jesus
-\*added
- lhes deu a seguinte ordem: Prestai atenção: tende cuidado com o fermento dos fariseus e o fermento de Herodes.
+E ele ordenou-lhes, dizendo: “Atenção! Tende cuidado com o fermento dos fariseus e o fermento de Herodes”.
 \v Mc.8.16
-E indagavam-se com os outros , dizendo: É porque não temos pão.  
+E argumentavam entre si, dizendo: “É porque não temos pão”.
 \v Mc.8.17
- Jesus 
- soube e lhes disse: Por que indagais que não tendes pão? Não percebeis ainda, nem entendeis? Ainda tendes o vosso coração endurecido?
+E
+Jesus
+, conhecendo isso, disse-lhes: “Por que vós argumentais que não tendes pão? Não percebeis ainda, nem entendeis? Vós
+ ainda
+ tendes vosso coração endurecido?
 \v Mc.8.18
-Tendes olhos, e não vedes? Tendes ouvidos, e não ouvis?
+Vós, tendo olhos, não vedes? E tendo ouvidos, não ouvis? E não vos lembrais?
 \v Mc.8.19
-E não vos lembrais de, quando parti os cinco pães entre os cinco mil, quantos cestos cheios de pedaços levantastes?Responderam-lhe:  Doze.
+Quando parti os cinco pães entre os cinco mil, quantos cestos cheios de pedaços vós recolhestes?” Disseram-lhe: “Doze”.
 \v Mc.8.20
-E 
- quando 
+“E quando 
 \added
 parti
 \*added
- os sete entre os quatro mil, quantas cestas cheias de pedaços levantastes? Eles disseram:  Sete.
+ os sete entre os quatro mil, quantos cestos cheios de pedaços vós recolhestes?” Eles disseram: “Sete”.
 \v Mc.8.21
-Ele lhes perguntou: Como não entendeis?
+E ele lhes disse: “
+Como vós
+ não entendeis?”
 \v Mc.8.22
-Então veio a Betsaida. E trouxeram-lhe um cego, e rogaram-lhe que o tocasse.
+E 
+chegou
+ a Betsaida. E trouxeram-lhe um cego, e rogaram-lhe que o tocasse.
 \v Mc.8.23
-Ele tomou o cego pela mão e o tirou para fora da aldeia. Depois cuspiu nos olhos dele e, pondo as mãos encima dele, perguntou-lhe se via alguma coisa.
+E ele, tomando o cego pela mão, levou-o para fora da aldeia. E, cuspindo-lhe nos olhos, e pondo as mãos sobre dele, 
+perguntou-lhe 
+se via alguma coisa.
 \v Mc.8.24
-Ele levantou os olhos e disse: Vejo as pessoas; pois vejo como árvores que andam.
+E ele, levantando os olhos, disse: “Vejo as pessoas; pois vejo como árvores andando”.
 \v Mc.8.25
 Então 
 \added
 Jesus
 \*added
- pôs de novo as mãos sobre os seus olhos, e o fez olhar para cima . 
- Assim ele ficou restabelecido, e passou a ver todos claramente.
+ voltou a pôr as mãos sobre os olhos dele
+, e os fez levantar. E
+ ficou restabelecido, e via a todos claramente.
 \v Mc.8.26
-Então o mandou para sua casa, dizendo: Não entres na aldeia, nem contes a ninguém da aldeia.
- 
+E o mandou para sua casa, dizendo: “Não entres na aldeia
+, nem contes a ninguém da aldeia
+”.
+\fn
+N4 não contém “nem contes a ninguém da aldeia”
+\*fn
 \v Mc.8.27
-Jesus saiu com os seus discípulos para as aldeias de Cesareia de Filipe; e no caminho perguntou a seus discípulos: Quem as pessoas dizem que eu sou?
+E Jesus saiu com seus discípulos para as aldeias de Cesareia de Filipe; e no caminho perguntou a seus discípulos, 
+dizendo-lhes: “Quem as pessoas dizem que eu sou?”
 \v Mc.8.28
-Eles responderam: João Batista, e outros, Elias; e outros, algum dos profetas.
+E eles responderam: “João Batista, e outros, Elias; e outros, algum dos profetas”.
 \v Mc.8.29
-E ele lhes perguntou: E vós, quem dizeis que eu sou? Pedro lhe respondeu:  Tu és o Cristo.
+E ele lhes disse: “Porém quem vos dizeis que eu sou?” E Pedro, respondendo, disse-lhe: “Tu és o Cristo”.
 \v Mc.8.30
-E lhes ordenou que a ninguém dissessem aquilo dele.
+E mandou-lhes severamente que a ninguém dissessem aquilo dele.
 \v Mc.8.31
-E começou a lhes ensinar que era necessário que o Filho do homem sofresse muito, e fosse rejeitado pelos anciãos e pelos chefes dos sacerdotes e escribas, e que fosse morto, e depois de três dias ressuscitasse.
+E começou a ensinar-lhes que era necessário que o Filho do homem sofresse muito, e fosse rejeitado pelos anciãos, 
+pelos chefes dos sacerdotes, e pelos escribas, e que fosse morto, e depois de três dias ressuscitasse.
 \v Mc.8.32
-Ele dizia essa palavra abertamente. Então Pedro o tomou à parte, e começou a repreendê-lo.
+E dizia abertamente essa palavra. E Pedro o tomou à parte, e começou a repreendê-lo.
 \v Mc.8.33
-Mas 
-\added
-Jesus
-\*added
- virou-se e, olhando para os seus discípulos, repreendeu Pedro, dizendo: Sai de diante de mim, satanás! Pois tu não compreendes as coisas de Deus, mas sim as humanas.
+Mas ele, virando-se, e olhando para seus discípulos, repreendeu a Pedro, dizendo: “Retira-te de diante de mim, 
+Satanás! Porque tu não compreendes as coisas de Deus, mas sim, as humanas”.
 \v Mc.8.34
-Então chamou a si a multidão com os seus discípulos, e disse-lhes: Quem
- quiser vir após mim, 
- negue a si mesmo, tome a sua cruz, e siga-me;
+E, chamando a si a multidão, com os seus discípulos, disse-lhes: “
+Quem
+ quiser vir após mim, negue a si mesmo, tome sua cruz, e siga-me;
 \v Mc.8.35
-pois quem quiser salvar a sua vida, a perderá; mas quem perder a sua vida por causa de mim e do Evangelho, esse a salvará.
+pois quem quiser salvar sua vida, irá perdê-la; mas quem perder sua vida por causa de mim e do Evangelho, esse 
+a salvará.
 \v Mc.8.36
-Pois que proveito teria alguém, se ganhasse o mundo todo, e perdesse a sua alma?
+Pois que aproveitaria ao ser humano, se ganhasse o mundo todo, e perdesse sua alma?
 \v Mc.8.37
-Ou que daria alguém em resgate de sua alma?
+Ou que o ser humano daria em resgate de sua alma?
 \v Mc.8.38
-Porque todo aquele que se envergonhar de mim e de minhas palavras nesta geração adúltera e pecadora, também o Filho do homem, quando vier na glória de seu Pai com os santos anjos, envergonhar-se-á dele.
+Porque quem se envergonhar de mim e de minhas palavras nesta geração adúltera e pecadora, também o Filho do homem se 
+envergonhará dele, quando vier na glória de seu Pai com os santos anjos”.
 \v Mc.9.1
-E disse-lhes também: Em verdade vos digo, que há alguns dos que aqui estão, que não experimentarão a morte, até que vejam o reino de Deus vindo com poder.
+E dizia-lhes também: “Em verdade vos digo, que há alguns dos que aqui estão, que não experimentarão a morte, até que 
+vejam o reino de Deus vindo com poder”.
 \v Mc.9.2
-Seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, sozinhos, para um alto monte ; e transfigurou-se diante deles.
+E seis dias depois, Jesus tomou consigo Pedro, Tiago, e João, e os levou à parte, em particular, para um alto monte; e 
+transfigurou-se diante deles.
 \v Mc.9.3
-E suas roupas ficaram resplandescentes, muito brancas como a neve , 
- como nenhum lavadeiro na terra seria capaz de branquear.
+E as roupas dele ficaram resplandescentes, muito brancas 
+como a neve
+, como nenhum lavadeiro na terra as poderia branquear.
 \v Mc.9.4
-E apareceu-lhes Elias com Moisés, e falavam com Jesus.
+E apareceram-lhes Elias com Moisés, e falavam com Jesus.
 \v Mc.9.5
-Então Pedro disse a Jesus: Mestre, é bom para nós estarmos aqui; façamos três tendas: uma para ti, uma para Moisés, e uma para Elias.
+E Pedro, tomando a palavra, disse a Jesus: “Mestre, é bom para nós que estejamos aqui; e façamos três tendas: uma para 
+ti, uma para Moisés, e uma para Elias”.
 \v Mc.9.6
-Pois ele não sabia o que dizia, pois estavam assombrados.
+Pois não sabia o que dizia, porque estavam assombrados.
 \v Mc.9.7
-Então desceu uma nuvem, que os cobriu com a sua sombra, e veio uma voz da nuvem, que dizia: Este é meu Filho amado; a ele ouvi.
+E desceu uma nuvem, que os cobriu com sua sombra, e veio uma voz da nuvem, que dizia: “Este é meu Filho amado; ouçam 
+a ele”.
 \v Mc.9.8
-De repente, quando olharam em redor, não viram mais ninguém, a não ser só Jesus com eles.
+E imediatamente eles, olhando em redor, não viram mais ninguém, senão só Jesus com eles.
 \v Mc.9.9
-Enquanto desciam do monte, 
+E eles, descendo do monte,  
 \added
 Jesus
 \*added
- lhes mandou que a ninguém contassem o que haviam visto, até que o Filho do homem ressuscitasse dos mortos.
+ lhes ordenou que a ninguém contassem o que haviam visto, até que o Filho do homem ressuscitasse dos mortos.
 \v Mc.9.10
-E eles guardaram o caso entre si, perguntando uns aos outros o que seria aquilo de “ressuscitar dos mortos”.
+E eles retiveram o caso entre si, perguntando uns aos outros que seria aquilo de “ressuscitar dos mortos”.
 \v Mc.9.11
-Então lhe perguntaram: Por que os escribas dizem que Elias tem que vir primeiro?
+Então lhe perguntaram: “Por que os escribas dizem que é necessário Elias venha primeiro?”
 \v Mc.9.12
-E ele lhes respondeu: De fato Elias vem primeiro, e restaura todas as coisas. Então, como está escrito sobre o Filho do homem tem que sofrer muito, e ser desprezado?
+E ele, respondendo, disse-lhes: “De fato Elias vem primeiro, e restaura todas as coisas. Mas, como está escrito sobre 
+o Filho do homem deverá sofrer muito, e ser desprezado?
+\fn
+Trad. alt. “e, como está escrito sobre o Filho do homem, ele deverá sofrer muito e ser desprezado.”
+\*fn
 \v Mc.9.13
-Porém eu vos digo que Elias já veio, e fizeram-lhe tudo o que quiseram, como está escrito sobre ele.
+Porém eu vos digo que Elias já veio, e fizeram-lhe tudo o que quiseram, como dele está escrito”.
 \v Mc.9.14
-E quando veio aos discípulos, ele viu uma grande multidão ao redor deles; e uns escribas estavam discutindo com eles.
+E quando 
+se aproximou
+ dos discípulos, 
+ele viu
+ uma grande multidão ao redor deles; e uns escribas que discutiam com eles.
 \v Mc.9.15
-Logo que toda a multidão o viu, ficou admirada. Então correram a ele, e o cumprimentaram.
+E logo toda a multidão, vendo-o, ficou admirada; e, correndo para ele, o cumprimentaram.
 \v Mc.9.16
-\added
-Jesus
-\*added
-  perguntou aos escribas: 
- O que estais discutindo com eles?
+E ele
+ perguntou
+ aos escribas
+: “O que discutis com eles?”
 \v Mc.9.17
-E um da multidão  respondeu:
- Mestre, trouxe a ti o meu filho, que tem um espírito mudo.
+E um da multidão
+, respondendo, disse
+: “Mestre, trouxe-te meu filho, que tem um espírito mudo.
 \v Mc.9.18
-E onde quer que o toma, faz-lhe ter convulsões, solta espuma, range os dentes, e vai ficando rígido. Eu disse aos teus discípulos que o expulsassem, mas não conseguiram.
+E onde quer que toma posse dele, lança-o ao chão, e ele espuma, range os dentes, e vai ficando endurecido. E eu disse 
+a teus discípulos que o expulsassem, mas não conseguiram”.
 \v Mc.9.19
-\added
-Jesus
-\*added
- lhe
- respondeu: Ó geração incrédula! Até quando estarei ainda convosco? Até quando vos suportarei? Trazei-o a mim.
+E ele, respondendo-
+lhe
+, disse: “Ó geração incrédula! Até quando estarei convosco? Até quando vos suportarei? Trazei-o a mim”.
 \v Mc.9.20
-Então trouxeram-no a ele. E quando o viu, logo o espírito o fez ter uma convulsão e, caindo em terra, rolava, e espumava.
+E o trouxeram a ele. E quando o viu, logo o espírito o agitou com violência, e caindo em terra, rolava, espumando.
 \v Mc.9.21
-E perguntou ao seu pai: Quanto tempo há que isto lhe sobreveio? E ele lhe disse:  Desde a infância.
+E perguntou a seu pai: “Quanto tempo há que isto lhe acontece?” E ele lhe disse: “Desde a infância.
 \v Mc.9.22
-E muitas vezes o lançou também no fogo e na água para o destruir. Mas, se podes algo, tem compaixão de nós, e ajuda-nos.
+E muitas vezes o lançou tanto no fogo como na água para o destruir. Mas, se podes fazer algo, tem compaixão de nós, e 
+ajuda-nos”.
 \v Mc.9.23
-E Jesus lhe disse: Se podes crer, tudo é possível 
- ao que crê.
+E Jesus lhe disse: “
+Se podes crer, tudo
+ é possível ao que crê”.
 \v Mc.9.24
-Logo o pai do menino, clamando, com lágrimas,
- disse: Creio, Senhor!
- Ajuda-me na minha incredulidade.
+Logo o pai do menino, clamando
+ com lágrimas
+,
+\fn
+N4 não contém “com lágrimas”
+\*fn
+ disse: “Creio
+, Senhor
+!
+\fn
+N4 não contém “Senhor”
+\*fn
+ Ajuda minha incredulidade”.
 \v Mc.9.25
-Quando Jesus viu que a multidão corria e se ajuntava, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno, sai dele, e nunca mais entres nele!
+E Jesus, vendo que a multidão se aglomerava, repreendeu o espírito imundo, dizendo-lhe: “Espírito mudo e surdo, eu te 
+ordeno, sai dele, e nunca mais entres nele”.
 \v Mc.9.26
-Então 
-\added
-o espírito
-\*added
-, gritando, e fazendo-o ter muita convulsão, saiu. E 
+E ele, gritando, e agitando-o com violência, saiu. E 
 \added
 o menino
 \*added
  ficou como morto, de maneira que muitos diziam que estava morto.
 \v Mc.9.27
-Então Jesus o tomou pela mão, e o ergueu; e ele se levantou.
+Mas Jesus, tomando-o pela mão, ergueu-o; e ele se levantou.
 \v Mc.9.28
-E quando entrou em casa, seus discípulos lhe perguntaram à parte: Por que nós não conseguimos o expulsar?
+E quando entrou em casa, seus discípulos lhe perguntaram à parte: “Por que nós não conseguimos expulsá-lo?”
 \v Mc.9.29
-E lhes respondeu: Este tipo não pode sair por coisa alguma, a não ser com oração  e jejum. 
- 
+E lhes respondeu: “Este tipo não pode sair por coisa alguma, senão com oração
+ e jejum
+”.
+\fn
+N4 não contém “e jejum”
+\*fn
 \v Mc.9.30
-Depois partiram dali, e caminharam pela Galileia. Mas 
-\added
-Jesus
-\*added
- não queria que ninguém soubesse,
+E, havendo eles partido dali, caminharam pela Galileia; e ele não queria que ninguém soubesse,
 \v Mc.9.31
-Porque ensinava a seus discípulos, e lhes dizia: O Filho do homem será entregue em mãos de homens, e o matarão; e 
-\added
-estando
-\*added
- ele morto, ressuscitará ao terceiro dia.
+porque ensinava seus discípulos, e dizia-lhes: “O Filho do homem será entregue nas mãos dos homens, e o matarão; e 
+ele, morto, ressuscitará ao terceiro dia”.
 \v Mc.9.32
-Mas eles não entendiam esta palavra, e temiam lhe perguntar.
+Mas eles não entendiam esta palavra, e temiam perguntar-lhe.
 \v Mc.9.33
-E veio a Cafarnaum, e entrando em casa, perguntou-lhes: Que indagais entre vós pelo caminho?
+E chegou a Cafarnaum, e, entrando em casa, perguntou-lhes: “Que vós discutíeis pelo caminho?”
 \v Mc.9.34
-Mas eles se calaram; porque eles haviam discutido uns com os outros pelo caminho, qual 
+Mas eles ficaram calados; porque pelo caminho haviam discutido entre si qual 
 \added
 deles seria
 \*added
  o maior.
 \v Mc.9.35
-E sentando-se ele, chamou aos doze, e disse-lhes: Se alguém quiser ser o primeiro, seja o últimos de todos, e servo de todos.
+E ele, assentando-se, chamou aos doze, e disse-lhes: “Se alguém quiser ser o primeiro, será o último de todos e o 
+servo de todos”.
 \v Mc.9.36
-E tomando um menino, ele o pôs no meio deles, e tomando-o entre seus braços, disse-lhes:
+E, tomando uma criança, a pôs no meio deles e, tomando-a entre seus braços, disse-lhes:
 \v Mc.9.37
-Qualquer que em meu nome receber a um dos tais meninos, recebe a mim; e qualquer que me receber, não é a mim que 
-recebe, mas, sim, àquele que me enviou.
+“Quem receber uma destas crianças em meu nome, recebe a mim; e quem me receber, não é a mim que 
+recebe, mas sim, aquele que me enviou”.
 \v Mc.9.38
-E respondeu-lhe João, dizendo: Mestre, vimos um que em teu nome expulsava os demônios, e ele não nos segue. Então o proibimos, porque não nos segue.
+E João lhe respondeu, dizendo: “Mestre, vimos um que em teu nome expulsava demônios, e ele não nos segue. E nós o 
+proibimos, porque não nos segue”.
 \v Mc.9.39
-Porém Jesus disse: Não o proibais; porque ninguém há que faça milagre em meu nome, e logo possa falar mal de mim.
+Porém Jesus disse: “Não o proibais; porque ninguém há que faça milagre em meu nome, e logo depois, possa falar mal 
+de mim.
 \v Mc.9.40
 Pois quem não é contra nós, é por nós.
 \v Mc.9.41
-Porque qualquer que vos der um copo d'água para beber em meu nome, porque sois de Cristo, em verdade vos digo, que 
+Porque quem vos der a beber um copo d'água em meu nome, porque vós sois de Cristo, em verdade vos digo, que 
 não perderá sua recompensa.
 \v Mc.9.42
-E qualquer que conduzir ao pecado
-\fn
-\key
-conduzir ao pecado
-\*key
-Lit. fizer tropeçar
-\*fn
- um destes pequenos que creem em mim, melhor lhe fora que lhe pusesse ao pescoço 
-uma grande pedra de moinho, e que fosse lançado no mar.
+E quem for motivo de tropeço para um destes pequenos que creem em mim, melhor lhe seria que lhe pusessem ao pescoço uma 
+grande pedra de moinho, e que fosse lançado no mar.
 \v Mc.9.43
-E se a tua mão te faz pecar, 
-\fn
-Lit. “tropeçar”. tradicionalmente “escandalizar”. Também nos vv. 45 e 47
-\*fn
-corta-a; melhor te é entrar na vida mutilado, do que, tendo duas mãos, ir ao inferno, ao fogo que nunca se apaga.
+E se a tua mão te faz pecar, corta-a; melhor te é entrar na vida mutilado, do que, tendo duas mãos, ir ao inferno, ao 
+fogo que nunca se apaga.
 \v Mc.9.44
 Onde seu verme não morre, e o fogo nunca se apaga.
+\fn
+N4 não contém todo o versículo 44. Também no v. 46.
+\*fn
 \v Mc.9.45
-E se teu pé te faz pecar, corta-o; melhor te é entrar na vida manco, do que, tendo dois pés, ser lançado 
-no inferno, no fogo que nunca se apaga.
+E se teu pé te faz pecar, corta-o; melhor te é entrar na vida aleijado, do que, tendo dois pés, ser lançado 
+no inferno
+, no fogo que nunca se apaga
+.
+\fn
+N4 não contém: “no fogo que nunca se apaga”
+\*fn
 \v Mc.9.46
 Onde seu verme não morre, e o fogo nunca se apaga.
 \v Mc.9.47
-E se teu olho te faz pecar, lança-o fora; melhor te é entrar no Reino de Deus com um olho, do que, tendo dois olhos, 
+E se teu olho te faz pecar, lança-o fora; melhor te é entrar no reino de Deus com um só olho, do que, tendo dois olhos, 
 ser lançado no fogo do inferno,
 \v Mc.9.48
 onde seu verme não morre, e o fogo nunca se apaga.
 \v Mc.9.49
-Porque cada um será salgado com fogo, e cada sacrifício será salgado com sal.
+Porque cada um será salgado com fogo
+, e cada sacrifício será salgado com sal
+.
+\fn
+N4 não contém “e cada sacrifício será salgado com sal”
+\*fn
 \v Mc.9.50
-O sal é bom; mas se o sal se tornar insípido, com que o temperareis? Tende sal em vós mesmos, e paz uns com os outros.
+O sal é bom; mas se o sal se tornar insípido, com que vós o temperareis? Tende sal em vós mesmos, e paz uns com 
+os outros”.
 \v Mc.10.1
-E levantando-se dali, 
-\added
-Jesus
-\*added
- se foi aos limites da Judeia, por dalém do Jordão; e as multidões voltaram a se juntar a ele, e voltou a lhes ensinar, como tinha costume.
+E, partindo dali, ele foi ao território da Judeia, além do Jordão; e as multidões voltaram a se reunir em torno dele, 
+e voltou ensiná-los, como tinha por costume.
 \v Mc.10.2
-E vindo a ele os fariseus, perguntaram-lhe se era lícito ao homem deixar a 
-\added
-sua
-\*added
- mulher, testando-o.
+E, os fariseus, aproximando-se dele, perguntaram-lhe, testando-o: “É lícito ao homem divorciar-se da mulher?”
 \v Mc.10.3
-Mas ele lhes respondeu: O que Moisés vos mandou?
+Mas ele, respondendo, disse-lhes: “O que Moisés vos mandou?”
 \v Mc.10.4
-E eles disseram: Moisés permitiu escrever carta de divórcio, e deixá-la.
+E eles disseram: “Moisés permitiu escrever carta de divórcio, e mandá
+\added
+-la
+\*added
+ embora”.
 \v Mc.10.5
-E Jesus lhes respondeu: Foi pela dureza dos vossos corações que ele vos escreveu este mandamento.
+E Jesus, respondendo, disse-lhes: “Pela dureza de vossos corações ele vos escreveu este mandamento.
 \v Mc.10.6
-Porém, desde o princípio da criação, macho e fêmea Deus
+Porém, desde o princípio da criação, macho e fêmea 
+Deus
+\fn
+N4 não contém “Deus”
+\*fn
  os fez.
 \ref
 Gênesis 1:27
 \*ref
 \v Mc.10.7
-Por isso, deixará o homem a seu pai e a 
+Por isso, o homem deixará seu pai e 
 \added
 sua
 \*added
- mãe, e se unirá à sua mulher.
+ mãe
+, e se unirá à sua mulher.
+\fn
+N4 não contém “e se unirá à sua mulher”. Comparar com Gênesis 2:24 e Mateus 19:5
+\*fn
 \v Mc.10.8
-E os dois serão uma 
-\added
-só
-\*added
- carne; assim, já não são dois, mas sim uma 
-\added
-só
-\*added
- carne.
+E os dois serão uma só carne; assim, já não serão dois, mas sim, uma só carne.
 \v Mc.10.9
-Portanto, o que Deus juntou, não separe o homem.
+Portanto, o que Deus juntou, que o ser humano não separe”.
 \v Mc.10.10
-E em casa seus
- discípulos voltaram a lhe perguntar sobre isto mesmo.
+E em casa os
+ seus
+ discípulos voltaram a lhe perguntar sobre isso mesmo.
 \v Mc.10.11
-E disse-lhes: Qualquer um que deixar a sua mulher, e se casar com outra, adultera contra ela.
+E ele lhes disse: “Quem se divorciar de sua mulher, e se casar com outra, adultera contra ela.
 \v Mc.10.12
-E se a mulher
- deixar o seu marido, e se casar com outro, adultera.
+E se 
+a mulher
+ se divorciar de seu marido, e se casar com outro, adultera”.
 \v Mc.10.13
-E lhe traziam crianças para que ele as tocasse, mas os discípulos repreendiam aos que 
+E traziam-lhe crianças para que as tocasse, mas os discípulos
+ repreendiam
+ aos que 
 \added
 as
 \*added
  traziam
+\fn
+N4: as repreendiam
+\*fn
 .
 \v Mc.10.14
-Porém Jesus, vendo, indignou-se, e lhe disse: Deixai vir as crianças a mim, e não as impeçais; porque delas é o Reino de Deus.
+Porém Jesus, vendo, indignou-se, e disse-lhe: “Deixai vir as crianças a mim, e não as impeçais; porque delas é o Reino 
+de Deus.
 \v Mc.10.15
-Em verdade vos digo, que qualquer um que não receber o Reino de Deus como criança, em maneira nenhuma nele entrará.
+Em verdade vos digo que quem não receber o reino de Deus como criança, de maneira nenhuma nele entrará”.
 \v Mc.10.16
-Então, tomando-as entre seus braços, e pondo as mãos sobre elas, ele as abençoou.
+E, tomando-as no seus braços, e pondo as mãos sobre elas, as abençoou.
 \v Mc.10.17
-E quando ele saiu para caminhar, um 
+E ele, saindo para o caminho, um 
 \added
 homem
 \*added
- correu até ele; e pondo-se de joelhos diante dele, perguntou-lhe: Bom Mestre, que farei para herdar a vida eterna?
+ correu até ele; e, pondo-se de joelhos diante dele, perguntou-lhe: “Bom Mestre, que farei para herdar a vida eterna?”
 \v Mc.10.18
-E Jesus lhe disse: Por que me chamas bom? Ninguém é bom, a não ser um: Deus.
+E Jesus lhe disse: “Por que tu me chamas bom? Ninguém é bom, senão um, Deus.
 \v Mc.10.19
-Sabes os mandamentos: Não adulterarás; não matarás; não furtarás; não darás falso testemunho; não serás enganador; honra o teu pai e a 
+Tu conheces os mandamentos: Não adulterarás; não matarás; não furtarás; não darás falso testemunho; não enganarás; 
+honra teu pai e 
 \added
 tua
 \*added
- mãe.
+ mãe”.
 \v Mc.10.20
-Porém ele lhe respondeu: Mestre, tudo isto guardei desde a minha juventude.
+Porém ele, respondendo, disse-lhe: “Mestre, tenho guardado tudo isso desde minha juventude”.
 \v Mc.10.21
-E olhando Jesus para ele, amou-o, e disse-lhe: Uma coisa te falta: vai, vende tudo quanto tens, e dá aos pobres; e terás um tesouro no céu; e vem, segue-me, toma 
-\added
-tua
-\*added
- cruz.
+E Jesus, olhando para ele, amou-o, e disse-lhe: “Uma coisa te falta: vai, vende tudo quanto tens, e dá aos pobres; 
+e tu terás um tesouro no céu; e vem, segue-me
+, levando a cruz”.
+\fn
+N4 não contém “levando a cruz”
+\*fn
 \v Mc.10.22
-Mas ele, pesaroso desta palavra, foi-se triste; porque tinha muitas propriedades.
+Mas ele, pesaroso desta palavra, retirou-se triste; porque tinha muitas propriedades.
 \v Mc.10.23
-Então Jesus olhando ao redor, disse a seus discípulos: Como é difícil aos que têm riquezas entrar no Reino de Deus!
+Então Jesus, olhando em redor, disse a seus discípulos: “Como é difícil aos que têm riquezas entrar no reino de Deus!”
 \v Mc.10.24
-E os discípulos se espantaram destas suas palavras; mas Jesus, voltando a responder, disse-lhes: Filhos, como é difícil aos que confiam em riquezas
- entrar no Reino de Deus!
+E os discípulos se espantaram dessas suas palavras; mas Jesus, voltando a responder, disse-lhes: “Filhos, como é 
+difícil
+ aos que confiam em riquezas
+\fn
+N4 não contém “aos que confiam em riquezas”
+\*fn
+ entrar no reino de Deus!
 \v Mc.10.25
-Mais fácil é passar um camelo pelo olho de uma agulha, do que entrar um rico no Reino de Deus.
+É mais fácil passar um camelo pelo fundo de uma agulha do que um rico entrar no reino de Deus”.
 \v Mc.10.26
-E eles se espantavam ainda mais, dizendo uns para os outros: Quem, pois, poderá se salvar?
+E eles se espantavam ainda mais, dizendo entre si: “Quem, pois, poderá se salvar?”
 \v Mc.10.27
-Porém, olhando Jesus para eles, disse: Para os seres humanos, é impossível; mas para Deus, não; porque para Deus tudo é possível.
+Porém Jesus, olhando para eles, disse: “Para os seres humanos, é impossível; mas não para Deus; porque para Deus tudo 
+é possível”.
 \v Mc.10.28
-E Pedro começou a lhe dizer: Eis que nós deixamos tudo, e te seguimos.
+E Pedro começou a lhe dizer: “Eis que nós deixamos tudo, e te seguimos”.
 \v Mc.10.29
-Jesus respondeu: Em verdade vos digo, que não há ninguém que tenha deixado casa, ou irmãos, ou irmãs, ou pai, ou mãe, ou esposa,
- ou filhos, ou campos, por amor de mim e do Evangelho,
+E Jesus, respondendo, disse: “Em verdade vos digo, que não há ninguém que tenha deixado casa, ou irmãos, 
+ou irmãs, 
+ou pai, ou mãe, ou esposa
+,
+\fn
+N4 traz “mãe” antes de “pai”, e não contém “ou esposa”
+\*fn
+ ou filhos, ou campos, por causa de mim e do Evangelho,
 \v Mc.10.30
-que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com perseguições; e a vida eterna, no tempo que virá.
+que não receba cem vezes tanto, agora neste tempo, casas, e irmãos, e irmãs, e mães, e filhos, e campos, com 
+perseguições; e, na era futura, a vida eterna.
 \v Mc.10.31
-Porém muitos primeiros serão últimos, e últimos, primeiros.
+Porém muitos primeiros serão últimos, e últimos, primeiros”.
 \v Mc.10.32
-E iam pelo caminho, subindo para Jerusalém; e Jesus ia diante deles, e espantavam-se, e seguiam-no atemorizados. E voltando a tomar consigo aos doze, começou-lhes a dizer as coisas que lhe viriam a acontecer:
+E iam no caminho, subindo para Jerusalém; e Jesus ia adiante deles. E eles ficavam maravilhados e seguiam-no 
+atemorizados. E, voltando a tomar consigo aos doze, começou a dizer-lhes as coisas que lhe deviam acontecer:
 \v Mc.10.33
-Eis que subimos a Jerusalém, e o Filho do homem será entregue aos chefes dos sacerdotes, e aos escribas; e o condenarão à morte, e o entregarão aos gentios.
+“Eis que subimos a Jerusalém, e o Filho do homem será entregue aos chefes dos sacerdotes, e aos escribas; e o 
+condenarão à morte, e o entregarão aos gentios.
 \v Mc.10.34
-E escarnecerão dele, e o açoitarão, e cuspirão nele,
- e o matarão; e ao terceiro dia
- ressuscitará.
+E o farão de ridículo, e 
+o açoitarão, e cuspirão nele
+, e o matarão; 
+e 
+ao terceiro dia
+ ressuscitará”.
 \v Mc.10.35
-E vieram a ele Tiago e João, filhos de Zebedeu, dizendo:
- Mestre, queríamos que nos fizesses o que pedirmos.
+E aproximaram-se dele Tiago e João, filhos de Zebedeu, dizendo
+: “Mestre, queríamos que nos fizesses o que pedirmos”.
 \v Mc.10.36
-E ele lhes disse: O que quereis que eu vos faça?
+E ele lhes disse: “Que quereis que eu vos faça?”
 \v Mc.10.37
-E eles lhe disseram: Concede-nos que em tua glória nos sentemos, um à tua direita, e outro à tua esquerda?
+E eles lhe disseram: “Concede-nos que em tua glória nos assentemos, um à tua direita, e outro à tua esquerda”.
 \v Mc.10.38
-Mas Jesus lhes disse: Não sabeis o que pedis; podeis vós beber o copo que eu bebo, e ser batizados
- com o batismo com que eu sou batizado?
+Mas Jesus lhes disse: “Vós não sabeis o que pedis; podeis vós beber o cálice que eu bebo, 
+e
+ ser batizados com o batismo com que eu sou batizado?”
 \v Mc.10.39
-E eles lhe disseram: Podemos. Porém Jesus lhes disse:  Em verdade, o copo que eu bebo, bebereis; e com o batismo com que eu sou batizado, sereis batizados.
+E eles lhe disseram: “Podemos”. Porém Jesus lhes disse: “Em verdade, vós bebereis o cálice que eu bebo, e sereis 
+batizados com o batismo com que eu sou batizado.
 \v Mc.10.40
-Mas sentar-se à minha direita, e
- à minha esquerda, não é meu concedê-lo, mas sim, para aqueles a quem está preparado.
+Mas assentar-se à minha direita 
+e
+ à minha esquerda, não cabe a mim concedê-lo, senão para aqueles a quem está preparado”.
 \v Mc.10.41
-E quando os dez ouviram isto, começaram a se irritar contra Tiago e João.
+E quando os dez ouviram isto, começaram a indignar-se contra Tiago e João.
 \v Mc.10.42
-Mas Jesus, chamando-os a si, disse-lhes: Já sabeis que os que são vistos como governadores dos gentios, agem como senhores deles; e os grandes usam de autoridade sobre eles.
+Mas Jesus, chamando-os a si, disse-lhes: “Vós já sabeis que os que são considerados governadores das nações as 
+dominam; e seus superiores usam de autoridade sobre elas.
 \v Mc.10.43
-Mas entre vós não será assim; antes qualquer que entre vós quiser ser grande, será vosso servidor.
+Mas entre vós não será assim; antes, quem entre vós quiser ser grande, seja vosso servidor.
 \v Mc.10.44
-E qualquer que de vós quiser ser o primeiro, será servo de todos.
+E quem dentre vós quiser ser o primeiro, seja servo de todos.
 \v Mc.10.45
-Porque também não veio o Filho do homem para ser servido, mas para servir, e dar sua vida em resgate por muitos.
+Porque o Filho do homem também não veio para ser servido, mas para servir, e dar sua vida em resgate por muitos”.
 \v Mc.10.46
-E vieram a Jericó. E saindo ele, e seus discípulos, e uma grande multidão de Jericó, estava Bartimeu, um cego, 
-filho de Timeu, sentado junto ao caminho.
+E foram para Jericó. E ele, saindo de Jericó com seus discípulos e uma grande multidão, estava Bartimeu, um
+ cego, filho de Timeu, sentado junto ao caminho
+.
 \v Mc.10.47
-E ouvindo que era Jesus o nazareno, começou a clamar, e a dizer: Jesus, Filho de Davi! Tem misericórdia de mim!
+E ouvindo que era Jesus de Nazaré, começou a clamar, e a dizer: “Jesus, Filho de Davi! Tem misericórdia de mim!”
 \v Mc.10.48
-E muitos o repreendiam, para que se calasse; mas ele clamava ainda mais: Filho de Davi! Tem misericórdia de mim!
+E muitos o repreendiam, para que se calasse; mas ele clamava ainda mais: “Filho de Davi! Tem misericórdia de mim!”
 \v Mc.10.49
-Jesus parou, e disse que o chamassem.
- Então chamaram ao cego, dizendo-lhe: Tem bom ânimo, levanta-te, ele está te chamando.
+E Jesus, parando, disse
+ que o chamassem
+. E chamaram o cego, dizendo-lhe: “Tem bom ânimo, levanta-te, ele te chama”.
 \v Mc.10.50
-Então ele lançou sua capa, levantou-se, e veio a Jesus.
+E ele, lançando sua capa, levantou-se, e veio a Jesus.
 \v Mc.10.51
-Jesus, lhe perguntou: Que queres que eu te faça? E o cego lhe disse:  Mestre, que eu veja.
+E Jesus, respondendo, disse-lhe: “Que queres que eu te faça?” E o cego lhe disse: “Mestre, que eu recupere a vista”.
 \v Mc.10.52
-Jesus lhe disse: Vai; a tua fé te salvou. E logo consegiu ver. Então seguiu Jesus
+E Jesus lhe disse: “Vai; tua fé te salvou”.
+\fn
+Ou: curou
+\*fn
+ E imediatamente viu; e seguiu 
+Jesus
  pelo caminho.
 \v Mc.11.1
-E quando se aproximaram de Jerusalém, de Betfagé, e de Betânia, junto ao monte das Oliveiras, 
-\added
-Jesus
-\*added
- enviou dois de seus discípulos,
+E quando se aproximaram de Jerusalém, de Betfagé, e de Betânia, junto ao monte das Oliveiras, ele enviou dois de seus 
+discípulos,
 \v Mc.11.2
-dizendo-lhes: Ide ao vilarejo que está adiante de vós; e assim que nela entrardes, achareis um jumentinho amarrado, sobre o qual ninguém se sentou; soltai-o, e trazei-o.
+e disse-lhes: “Ide ao vilarejo que está em frente de vós; e logo que entrardes nela, achareis um jumentinho amarrado, 
+sobre o qual ninguém se assentou; soltai-o, e trazei-o.
 \v Mc.11.3
-E se alguém vos disser: Por que fazeis isso?,  dizei:  O Senhor precisa dele, e logo o devolverá para cá.
+E se alguém vos disser: ‘Por que fazeis isso?’, dizei: ‘O Senhor precisa dele, e logo o devolverá para aqui’”.
 \v Mc.11.4
-Eles foram, e acharam o
- jumentinho amarrado à porta, do lado de fora em uma esquina, e o soltaram.
+Eles foram, e acharam o jumentinho amarrado à porta, do lado de fora na rua, e o soltaram.
 \v Mc.11.5
-E alguns dos que ali estavam lhes perguntaram: Que fazeis, soltando o jumentinho?
+E alguns dos que ali estavam lhes disseram: “Que fazeis, soltando o jumentinho?”
 \v Mc.11.6
-Eles lhes disseram como Jesus 
+Porém eles lhes disseram como Jesus 
 \added
 lhes
 \*added
- havia mandado,
- e os deixaram ir.
+ havia mandado, e os deixaram ir.
 \v Mc.11.7
-Então trouxeram o jumentinho a Jesus. Lançaram sobre ele suas roupas, e 
+E trouxeram o jumentinho a Jesus; e lançaram sobre ele suas capas, e 
 \added
 Jesus
 \*added
- sentou-se sobre ele.
+ assentou-se sobre ele.
 \v Mc.11.8
-Muitos estendiam suas roupas pelo caminho, e outros cortavam ramos das árvores, e os espalhavam pelo caminho.
-.
+E Muitos estendiam suas capas pelo caminho, e outros 
+cortavam ramos das árvores, e os espalhavam pelo caminho.
 \v Mc.11.9
-E os que iam adiante, e os que seguiam, clamavam: Hosana, bendito o que vem no Nome do Senhor!
+E os que iam adiante, e os que seguiam, clamavam, dizendo: “Hosana! Bendito o que vem em Nome do Senhor!
 \v Mc.11.10
-Bendito o Reino que vem no Nome do Senhor,
- 
-\added
-o Reino
-\*added
- do nosso pai Davi! Hosana nas alturas!
+Bendito é o Reino do nosso pai Davi, que vem
+ em Nome do Senhor
+! Hosana nas alturas!”
 \v Mc.11.11
+E 
 Jesus
- entrou em Jerusalém, e no Templo. E depois que ter visto tudo em redor, e sendo já tarde, ele saiu para Betânia com os doze.
+ entrou em Jerusalém, no Templo. E, havendo visto tudo em redor, e sendo já tarde, ele saiu para Betânia com os doze.
 \v Mc.11.12
-E no dia seguinte, quando saíram de Betânia, ele teve fome.
+E, no dia seguinte, quando saíram de Betânia, ele teve fome.
 \v Mc.11.13
-E vendo de longe uma figueira que tinha folhas, 
+E, vendo de longe uma figueira que tinha folhas, foi 
 \added
-veio ver
+ver
 \*added
- se acharia alguma coisa nela; mas ao chegar perto dela, nada achou, a não ser folhas, pois não era o tempo de figos.
+ se acharia nela alguma coisa; mas, chegando a ela, nada achou senão folhas, porque não era tempo de figos.
 \v Mc.11.14
-Então Jesus
- lhe disse: Nunca mais ninguém coma fruto de ti! E seus discípulos ouviram isso.
+E 
+Jesus
+, falando, disse-lhe: “Nunca mais ninguém coma fruto de ti, para sempre!” E seus discípulos ouviram isso.
 \v Mc.11.15
-Depois vieram a Jerusalém. E entrando Jesus
- no Templo, começou a expulsar os que vendiam e compravam no Templo; e revirou as mesas dos cambiadores, e as cadeiras dos que vendiam pombas.
+E vieram a Jerusalém. E, entrando no Templo, 
+Jesus
+ começou a expulsar os que vendiam e compravam no Templo; e derrubou as mesas dos cambiadores, e as cadeiras dos que 
+vendiam pombas.
 \v Mc.11.16
-E não consentia que ninguém levasse vaso algum pelo Templo.
+E não consentia que ninguém levasse objeto algum
+\fn
+Ou: mercadoria alguma
+\*fn
+ pelo Templo.
 \v Mc.11.17
-E ensinava, dizendo-lhes:  Não está escrito:  Minha casa será chamada casa de oração de todas as nações? 
+E ensinava, dizendo-lhes: “Não está escrito: ‘Minha casa será chamada casa de oração para todas as nações?’
 \ref
 Isaías 56:7
 \*ref
- Mas vós fizestes dela esconderijo de ladrões!
+ Mas vós fizestes dela um esconderijo de ladrões!”
 \v Mc.11.18
-Os escribas e os chefes dos sacerdotes
- ouviram isso, e buscavam uma maneira de o matar; pois o temiam, porque toda a multidão estava admirada do ensino dele.
+Os 
+escribas e os chefes dos sacerdotes
+ ouviram isso, e buscavam como o matariam; pois eles o temiam, porque toda a multidão estava admirada do ensino dele.
 \v Mc.11.19
-E como já era tarde, 
-\added
-Jesus
-\*added
- saiu
- fora da cidade.
+E como já era tarde, ele saiu da cidade.
 \v Mc.11.20
-E passando pela manhã, viram que a figueira estava seca desde as raízes.
+E eles, passando pela manhã, viram que a figueira estava seca desde as raízes.
 \v Mc.11.21
-Pedro se lembrou disso, e disse-lhe: Mestre, eis que a figueira que amaldiçoaste, se secou.
+E Pedro, lembrando-se, disse-lhe: “Mestre, eis que a figueira que tu amaldiçoaste, secou-se”.
 \v Mc.11.22
-E respondendo Jesus, disse-lhes: Tende fé em Deus.
+E Jesus, respondendo, disse-lhes: “Tende fé em Deus.
 \v Mc.11.23
 Porque em
- verdade vos digo que qualquer um que disser a este monte: Levanta-te, e lança-te no mar;  e não duvidar em seu coração, mas crer que se fará o que diz, tudo o que disser lhe será feito.
+ verdade vos digo que, quem disser a este monte: ‘Ergue-te, e lança-te no mar’, e não duvidar em seu coração, mas crer 
+que se fará o que diz, tudo o que disser lhe será feito.
 \v Mc.11.24
-Portanto eu vos digo que tudo o que pedirdes orando, crede que recebereis, e vós 
+Portanto vos digo que tudo o que pedirdes orando, crede que recebereis, e vós 
 \added
 o
 \*added
  tereis.
 \v Mc.11.25
-E quando estiverdes orando, perdoai, se tendes algo contra alguém, para que o vosso Pai, que 
-\added
-está
-\*added
- nos céus, vos perdoe vossas ofensas.
+E quando estiverdes orando, perdoai, se tendes algo contra alguém, para que vosso Pai, que está nos céus, vos 
+perdoe vossas ofensas.
 \v Mc.11.26
-Mas se vós não perdoardes, também o vosso Pai, que 
-\added
-está
-\*added
- nos céus, não vos perdoará vossas ofensas.
+Mas se vós não perdoardes, também vosso Pai, que está nos céus, não vos perdoará vossas ofensas.
+\fn
+N4 não contém todo o versículo. Comparar com Mateus 6:15
+\*fn
 \v Mc.11.27
-Depois voltaram a Jerusalém; e, enquanto ele andava pelo Templo, vieram a ele os chefes dos sacerdotes, os escribas, e os anciãos.
+E voltaram a Jerusalém; e ele, andando pelo Templo, aproximaram-se dele os chefes dos sacerdotes, os escribas, e 
+os anciãos,
 \v Mc.11.28
-E disseram-lhe: Com que autoridade fazes estas coisas? E
- quem te deu esta autoridade, para fazerdes estas coisas?
+e lhe disseram: “Com que autoridade tu fazes essas coisas? 
+E
+ quem te deu essa autoridade, para fazeres essas coisas?”
 \v Mc.11.29
-Jesus lhes respondeu: Também eu vos farei uma pergunta, e respondei-me; então vos direi com que autoridade faço estas coisas.
+Mas Jesus, respondendo, disse-lhes: “Também eu vos perguntarei uma coisa, e respondei-me; então vos direi com que 
+autoridade faço estas coisas.
 \v Mc.11.30
-O batismo de João era do céu ou dos homens? Respondei-me.
+O batismo de João era do céu ou dos homens? Respondam-me”.
 \v Mc.11.31
-E eles argumentavam entre si, dizendo: Se dissermos do céu, ele dirá:  Por que, pois, não crestes nele?
+E eles discutiam entre si, dizendo: “Se dissermos ‘do céu’, ele dirá: ‘Por que, pois, vós não crestes nele?’
 \v Mc.11.32
-Porém, se dissermos dos homens, tememos ao povo, porque todos consideravam que João era verdadeiramente profeta.
+Porém, se dissermos ‘dos homens’, tememos o povo”; porque todos consideravam que João verdadeiramente era profeta.
 \v Mc.11.33
-Então responderam a Jesus: Não sabemos. E Jesus lhes replicou: Também eu não vos direi com que autoridade faço estas coisas.
+E, respondendo, disseram a Jesus: “Não sabemos”. E Jesus, respondendo, disse-lhes: “Também eu não vos direi com que 
+autoridade faço estas coisas”.
 \v Mc.12.1
-Então 
+E  
 \added
 Jesus
 \*added
- começou a lhes dizer por parábolas: Um homem plantou uma vinha, cercou-a, fundou 
-\added
-nela
-\*added
- uma prensa de uvas, edificou uma torre, e a arrendou a uns lavradores; e partiu-se daquela terra.
+ começou a falar-lhes por parábolas: “Um homem plantou uma vinha, cercou-a, fundou nela uma prensa de uvas, edificou 
+uma torre, e arrendou-a a uns lavradores; e partiu-se daquela terra.
 \v Mc.12.2
 E, quando chegou o tempo, mandou um servo aos lavradores, para que recebesse dos lavradores do fruto da vinha.
 \v Mc.12.3
-Mas eles, tomando-o à força, feriram-no, e mandaram-no vazio.
+Mas eles, agarrando-o, espancaram-no, e o mandaram vazio.
 \v Mc.12.4
-E voltou a lhes mandar outro servo; e eles, apedrejando-o,
- feriram-no na cabeça e voltaram a mandá-lo maltratado
+E voltou a enviar-lhes outro servo; e eles
+, apedrejando-o, feriram-no na cabeça e o 
+mandaram embora humilhado
 .
 \v Mc.12.5
-E voltou a mandar outro, ao qual mataram, e 
+E voltou a enviar outro, e a este mataram; e 
 \added
-mandou
+enviou
 \*added
- muitos outros, e a uns feriram, e a outros mataram.
+ muitos outros, e espancaram uns, e mataram outros.
 \v Mc.12.6
-Tendo ele, pois, ainda um, o seu filho amado, mandou-lhes também por último a este, dizendo:  Pelo menos respeitarão o meu filho.
+Tendo ele, pois, ainda um, seu filho amado, enviou-lhes também por último este, dizendo: ‘Pelo menos terão respeito a 
+meu filho’.
 \v Mc.12.7
-Mas aqueles lavradores disseram entre si:  Este é o herdeiro; vinde, e o matemos; então a herança será nossa.
+Mas aqueles lavradores disseram entre si: ‘Este é o herdeiro; vinde, e o matemos; então a herança será nossa’.
 \v Mc.12.8
-E pegando dele, mataram
-\added
--no
-\*added
-, e lançaram
-\added
--no
-\*added
- fora da vinha.
+E, agarrando-o, mataram-no e o lançaram fora da vinha.
 \v Mc.12.9
-Que, pois, o senhor da vinha fará? Ele virá, destruirá aos lavradores, e dará a vinha a outros.
+Que, pois, fará o senhor da vinha? Ele virá, destruirá os lavradores, e dará a vinha a outros.
 \v Mc.12.10
-Acaso ainda não lestes esta escritura: “A pedra que os edificadores rejeitaram, esta foi feita por cabeça de esquina. 
+Acaso vós ainda não lestes esta escritura: ‘A pedra que os edificadores rejeitaram, esta foi feita por principal 
+de esquina.
 \v Mc.12.11
-Pelo Senhor foi feito isto, e é maravilhoso em nossos olhos”?
+Isso foi feito pelo Senhor, e é maravilhoso aos nossos olhos’?”
 \ref
 Salmos 118:22-23
 \*ref
 \v Mc.12.12
-E buscavam prendê-lo, mas temiam a multidão; porque entendiam que era contra eles que dizia aquela parábola; então o deixaram e se retiraram.
+E buscavam prendê-lo, mas temiam a multidão; porque entendiam que dizia aquela parábola contra eles; e, deixando-o, 
+foram embora.
 \v Mc.12.13
-E mandaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em 
+E enviaram-lhe alguns dos fariseus e dos herodianos, para que o apanhassem em 
 \added
 alguma
 \*added
  palavra.
 \v Mc.12.14
-Eles se aproximaram e lhe disseram:  Mestre, sabemos que és homem de verdade, e não te interessa 
-\added
-agradar
-\*added
- a ninguém, porque não te importas com a aparência humana, mas com verdade ensinas o caminho de Deus. É lícito pagar tributo a César, ou não? Devemos pagar, ou não devemos?
+E eles, chegando, disseram-lhe: “Mestre, sabemos que és homem de verdade, e não te importas com a opinião de ninguém, 
+porque não dás atenção à aparência humana, mas ensinas com verdade o caminho de Deus. É lícito pagar tributo a César, 
+ou não? Pagaremos, ou não pagaremos?”
 \v Mc.12.15
-E ele, entendendo a hipocrisia deles, disse-lhes: Por que estais me tentando? Trazei-me uma moeda,
+Então ele, entendendo a hipocrisia deles, disse-lhes: “Por que vós me tentais? Trazei-me uma moeda,
 \fn
 ou “denário”, moeda romana
 \*fn
- para que eu a veja.
+ para que eu a veja”.
 \v Mc.12.16
-E trouxeram. E perguntou-lhes: De quem é esta imagem, e a inscrição? E eles lhe disseram:  De César.
+E eles trouxeram. E perguntou-lhes: “De quem é esta imagem, e a inscrição?” E eles lhe disseram: “De César”.
 \v Mc.12.17
-Então Jesus, lhes respondeu:  Dai, pois, a César o que é de César, e a Deus o que é de Deus. E admiram-se dele.
+E Jesus, respondendo, disse-lhes: “Dai a César o que é de César, e a Deus o que é de Deus”. E admiraram-se muito dele.
 \v Mc.12.18
-E vieram a ele os saduceus, que dizem não haver ressurreição, e perguntaram-lhe:
+Então aproximaram-se dele os saduceus, que dizem não haver ressurreição, e perguntaram-lhe, dizendo:
 \v Mc.12.19
-Mestre, Moisés nos escreveu que, se o irmão de alguém morresse, e deixasse mulher, mas não filhos
-, que seu irmão se casasse com a viúva
+“Mestre, Moisés nos escreveu que, se o irmão de alguém morresse, e deixasse mulher, mas não 
+filhos
+, 
+que seu irmão se casasse com a mulher dele, e gerasse descendência
 \fn
-Lit.  “a mulher dele” (isto é, do morto)
+Lit. semente
 \*fn
-, e gerasse descendência
-\fn
-Lit. “levantasse semente”
-\*fn
- ao seu irmão.
+ a seu irmão.
 \v Mc.12.20
-Houve, pois, sete irmãos, e o primeiro casou-se com a mulher, e morrendo, não deixou descendente.
+Havia
+, pois,
+ sete irmãos, e o primeiro casou-se com uma mulher, e morreu sem deixar descendente.
+\fn
+Lit. semente. Também nos v. 21 e 22
+\*fn
 \v Mc.12.21
-Casou-se com ela também o segundo, e morreu; e nem este deixou descendente; e o terceiro da mesma maneira.
+E o segundo casou-se com ela também, e morreu; e nem este deixou descendente; e o terceiro da mesma maneira.
 \v Mc.12.22
-Os sete casaram-se com ela, mas
- não deixaram descendente. Finalmente, depois de todos, morreu também a mulher.
+Os sete
+ casaram-se com ela, mas
+ não deixaram descendente. Finalmente, depois de todos, a mulher também morreu.
 \v Mc.12.23
-Na ressurreição, pois, quando ressuscitarem, ela será a mulher de qual deles? Porque os sete a tiveram por mulher.
+Na ressurreição,
+ portanto,
+ quando ressuscitarem, ela será a esposa de qual deles? Porque os sete a tiveram por esposa”.
 \v Mc.12.24
-E Jesus lhes respondeu:  Acaso não é por isso que errais, por não conhecerdes as Escrituras, nem o poder de Deus?
+E Jesus, respondendo, disse-lhes: “Acaso não é por isso que vós errais, por não conhecerdes as Escrituras, nem o poder 
+de Deus?
 \v Mc.12.25
-Pois, quando ressuscitarem dos mortos, nem se casarão, nem se darão em casamento; mas serão como os anjos que estão nos céus.
+Pois quando ressuscitarem dos mortos, nem se casarão, nem serão dados em casamento; mas serão como os anjos que estão 
+nos céus.   
 \v Mc.12.26
-E quanto aos mortos que ressuscitarão, não lestes no livro de Moisés, como Deus lhe falou com a sarça, dizendo:  Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó?
+E acerca dos mortos que vão ressuscitar, vós não lestes no livro de Moisés, como Deus lhe falou na sarça, dizendo: 
+‘Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó?’
 \ref
 Êxodo 3:6
 \*ref
 \v Mc.12.27
-Deus não é 
-\added
-Deus
-\*added
- de mortos, mas de vivos. Portanto errais muito.
+Deus não é de mortos, mas sim, de vivos. Portanto, vós errais muito”.
 \v Mc.12.28
-Então aproximou-se dele um dos escribas, que os havia ouvido discutir. Como ele sabia que 
-\added
-Jesus
-\*added
- havia lhes respondido bem, perguntou-lhe:  Qual é o primeiro mandamento de todos?
+E, aproximando-se dele um dos escribas, que os tinha ouvido discutir, sabendo que ele lhes tinha respondido bem, 
+perguntou-lhe: “Qual é o primeiro mandamento de todos?”
 \v Mc.12.29
-E Jesus lhe
- respondeu: O primeiro de todos os mandamentos
- é:  “Ouve Israel, o Senhor nosso Deus é o único Senhor;
+E Jesus
+ lhe
+ respondeu: “O primeiro
+ de todos os mandamentos
+\fn
+N4 não contém “de todos o mandamentos”
+\*fn
+ é: ‘Ouve, Israel, o Senhor nosso Deus é o único Senhor;
 \v Mc.12.30
-amarás, pois, ao Senhor teu Deus com todo o teu coração, com toda a tua alma, com todo o teu entendimento, e com todas as tuas forças.”
+amarás, pois, o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu entendimento, e com todas as 
+tuas forças’.
 \ref
 Deuteronômio 6:4-5
 \*ref
  Este é o primeiro mandamento.
+\fn
+N4 não contém “Este é o primeiro mandamento”
+\*fn
 \v Mc.12.31
-E o segundo é semelhante:
- "Amarás ao teu próximo como a ti mesmo".
+E o segundo
+, semelhante,
+ é: ‘Amarás teu próximo como a ti mesmo’.
 \ref
 Levítico 19:18
 \*ref
-Não há outro mandamento maior que estes.
+ Não há outro mandamento maior do que estes”.
 \v Mc.12.32
-E o escriba lhe disse: Muito bem, Mestre, com verdade disseste que há um só Deus,
- e não há outro além dele.
+E o escriba lhe disse: “Muito bem, Mestre, com verdade disseste que 
+há um só Deus
+, e não há outro além dele.
 \v Mc.12.33
-E que amá-lo com todo o coração, com todo o entendimento, com toda a alma,
- e com todas as forças; e amar ao próximo como a si mesmo, é mais de que todos os holocaustos e sacrifícios.
+E que amá-lo de todo o coração, de todo o entendimento,
+ de toda a alma,
+\fn
+N4 não contém “de toda a alma”
+\*fn
+ e com todas as forças, e amar o próximo como a si mesmo, é mais do que todos os holocaustos e sacrifícios”.
 \v Mc.12.34
-Jesus viu que ele havia respondido sabiamente, e disse-lhe: Não estás longe do Reino de Deus. E ninguém mais ousou lhe perguntar.
+E Jesus, vendo que ele havia respondido sabiamente, disse-lhe: “Tu não estás longe do reino de Deus”. E ninguém mais 
+ousou lhe perguntar.
 \v Mc.12.35
-E Jesus respondia e dizia, enquanto ensinava no templo: Como os escribas dizem que o Cristo é filho de Davi?
+E Jesus, falando, dizia, ensinando no Templo: “Como os escribas dizem que o Cristo é filho de Davi?
 \v Mc.12.36
-Porque
- o mesmo Davi disse pelo Espírito Santo: Disse o Senhor ao meu Senhor, senta-te à minha direita, até que eu ponha os teus inimigos debaixo dos teus pés.
+Porque o
+direita, até que eu ponha teus inimigos 
+por escabelo
+ de teus pés’.
 \ref
 Salmos 110:1
 \*ref
-\fn
-Lit. por escabelo (um tipo de banquinho) dos teus pés
-\*fn
 \v Mc.12.37
-Ora, 
-\added
-se
-\*added
- o próprio Davi o chama de Senhor, como, pois, é so eu filho?E a grande multidão o ouvia de boa vontade.
+Ora, o próprio Davi o chama de Senhor; como, então, é seu filho?” E a grande multidão o ouvia de boa vontade.
 \v Mc.12.38
-E dizia-lhes
- em seu ensino:  Cuidado com os escribas, que gostam de andar com roupas compridas, das saudações nas praças,
+E, ensinando-os, dizia
+-lhes
+: “Cuidado com os escribas, que gostam de andar com roupas compridas, e das 
+saudações nas praças,
 \v Mc.12.39
-das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias.
+das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias;
 \v Mc.12.40
-que devoram as casas das viúvas, com pretexto de longas orações. Esses receberão mais grave condenação.
+eles, que devoram as casas das viúvas, e com pretexto de longas orações. Esses receberão mais grave condenação”.
 \v Mc.12.41
-E, estando Jesus
- sentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos 
-ricos lançavam muito.
+E estando 
+Jesus
+ assentado de frente à arca do tesouro, observava como a multidão lançava dinheiro na arca do tesouro; e muitos ricos 
+lançavam muito.
 \v Mc.12.42
-Mas veio uma pobre viúva, e lançou duas pequenas moedas, de pouco valor.
-\fn
-\key
-duas pequenas moedas, de pouco valor
-\*key
-Lit. dois leptos, que valiam um quadrante
-\*fn
+E, chegando uma pobre viúva, lançou duas pequenas moedas, que valiam um quadrante.
 \v Mc.12.43
-Então 
+E  
 \added
 Jesus
 \*added
- chamou a si os seus discípulos, e disse-lhes: “Em verdade vos digo que esta pobre viúva lançou mais do que todos 
-os que lançaram na arca do tesouro;
+, chamando seus discípulos, disse-lhes: “Em verdade vos digo que esta pobre viúva lançou mais do que todos 
+os que lançaram na arca do tesouro.
 \v Mc.12.44
-Porque todos lançaram daquilo que lhes sobrava; mas esta, da sua pobreza, lançou tudo o que tinha, todo o 
-seu sustento.”
+Porque todos lançaram do que lhes sobrava; mas esta, da sua pobreza, lançou tudo o que tinha, todo o 
+seu sustento”.
 \v Mc.13.1
-Quando ele estava saindo do templo, um de seus discípulos lhe disse: Mestre, olha que pedras, e que edifícios!
+E ele, saindo do Templo, um de seus discípulos lhe disse: “Mestre, olha que pedras, e que edifícios!”
 \v Mc.13.2
-Jesus respondeu, dizendo-lhe:
- Vês estes grandes edifícios? Não será deixada pedra sobre pedra, que não seja derrubada.
+E Jesus, respondendo, disse-lhe: “Vês estes grandes edifícios? Não ficará pedra sobre pedra que não seja derrubada”. 
 \v Mc.13.3
-Depois, sentando-se ele no monte das Oliveiras, de frente ao templo, Pedro, Tiago, João, e André perguntaram-lhe à parte: 
+E ele, assentando-se no monte das Oliveiras, de frente ao Templo, Pedro, Tiago, João, e André lhe perguntaram 
+em particular:
 \v Mc.13.4
-Dize-nos, quando serão essas coisas? E que sinal haverá de quando todas essas coisas se cumprirão?
+“Dize-nos, quando serão essas coisas? E que sinal haverá de quando todas essas coisas forem se cumprir?”
 \v Mc.13.5
-E Jesus, respondendo-lhes,
- começou a dizer:  Cuidado! ninguém vos engane; 
+E Jesus
+, respondendo-lhes
+, começou a dizer
+: “Cuidado, que ninguém vos engane; 
 \v Mc.13.6
-porque
- muitos virão em meu nome, dizendo: "Sou eu", e enganarão a muitos.
+porque 
+muitos virão em meu nome, dizendo: ‘Sou eu’, e enganarão a muitos.
 \v Mc.13.7
-E quando ouvirdes de guerras e de rumores de guerras, não vos perturbeis; porque
+E quando ouvirdes falar de guerras e de rumores de guerras, não vos perturbeis;
+ porque
  
 \added
 assim
 \*added
  deve acontecer; mas ainda não será o fim.
 \v Mc.13.8
-Porque nação se levantará contra nação, e reino contra reino, e haverá terremotos em muitos lugares, e haverá fomes e tumultos.
- Estes serão os princípios
+Porque nação se levantará contra nação, e reino contra reino, e haverá terremotos em diversos lugares, e haverá fomes
+ e tumultos
+.
+\fn
+N4 não contém “e tumultos”
+\*fn
+ Estes serão 
+os princípios
  das dores.
 \v Mc.13.9
-Mas cuidai de vós mesmos; porque vos entregarão em tribunais e em sinagogas; sereis açoitados, e sereis levados diante de governadores e reis, por causa de mim, para que lhes haja testemunho.
+Mas guardai vós mesmos; porque vos entregarão aos tribunais e às sinagogas; sereis açoitados, e 
+levados
+ diante de governadores e reis, por causa de mim, para lhes servir de testemunho.
 \v Mc.13.10
-Mas antes o Evangelho deve ser pregado entre todas as nações.
+Mas é necessário que primeiro o Evangelho seja pregado entre todas as nações.
 \v Mc.13.11
-Porém, quando vos levarem para vos entregar, não estejais ansiosos antecipadamente do que deveis dizer, nem o planejeis;
- mas o que naquela hora for dado, isso falai. Porque não sois vós os que falais, mas o Espírito Santo.
+Quando, pois, vos levarem para vos entregar, não estejais ansiosos de antemão pelo que vós deveis dizer
+, nem o planejais
+;
+\fn
+N4 não contém “nem o planejais”
+\*fn
+ mas o que vos for dado naquela hora, isso falai. Porque não sois vós os que falais, mas sim, o Espírito Santo.
 \v Mc.13.12
-E o irmão entregará ao irmão à morte, e o pai ao filho; e os filhos se levantarão contra os pais, e os matarão.
+E o irmão entregará à morte o irmão, e o pai o filho; e os filhos se levantarão contra os pais, e os matarão.
 \v Mc.13.13
 E sereis odiados por todos por causa do meu nome; mas quem perseverar até o fim, esse será salvo.
 \v Mc.13.14
-E quando virdes a abominação da desolação, que foi dita pelo profeta Daniel,
- estar onde não deve, (quem lê, entenda), então os que estiverem na Judeia, fujam para os montes.
+E quando vós virdes a abominação da desolação
+, que foi dita pelo profeta Daniel,
+\fn
+N4 não contém “que foi dita pelo profeta Daniel”
+\*fn
+ estando onde não deve estar, (quem lê, entenda), então os que estiverem na Judeia fujam para os montes.
 \v Mc.13.15
-E quem estiver sobre telhado, não desça para a casa, nem entre para tomar alguma coisa de sua casa.
+E quem estiver sobre o telhado não desça
+ para a casa
+, nem entre para pegar alguma coisa de sua casa.
 \v Mc.13.16
-E quem estiver no campo, não volte atrás, para tomar sua roupa.
+E quem estiver no campo não volte atrás para pegar sua capa.
+\fn
+Ou: seu manto
+\*fn
 \v Mc.13.17
-Mas ai das grávidas, e das que amamentarem naqueles dias!
+Mas ai das grávidas e das que amamentarem naqueles dias!
 \v Mc.13.18
-Orai, porém, para que a vossa fuga
+E orem para que 
+vossa fuga
  não aconteça no inverno.
 \v Mc.13.19
-Porque aqueles dias serão de tal aflição, qual nunca foi desde o princípio da criação das coisas, que Deus criou, até agora, nem jamais será.
+Porque naqueles dias haverá tal aflição, como nunca houve desde o princípio da criação, que Deus criou, até agora, nem 
+jamais haverá.
 \v Mc.13.20
-E se o Senhor não encurtasse aqueles dias, ninguém
+E se o Senhor não abreviasse aqueles dias, ninguém
 \fn
-Lit. "nenhuma carne"
+Lit. “nenhuma carne”
 \*fn
- se salvaria; mas por causa dos escolhidos, que escolheu, ele encurtou aqueles dias.
+ se salvaria; mas, por causa dos escolhidos, que ele escolheu, abreviou aqueles dias.
 \v Mc.13.21
-Então se alguém vos disser: "Eis aqui o Cristo"; ou "ei-lo ali", não creiais nele.
+Então, se alguém vos disser: ‘Eis aqui o Cristo’; ou ‘ei-lo ali’, não acrediteis nele.
 \v Mc.13.22
 Porque
- se levantarão falsos cristos, e falsos profetas, que farão sinais e prodígios, para enganar, se possível, até os escolhidos.
+ se levantarão falsos cristos e falsos profetas, que farão sinais e prodígios, para enganar, se possível, até 
+os escolhidos.
 \v Mc.13.23
-Vós, porém, tende cuidado; eis que
- tenho vos dito tudo com antecedência.
+Vós, porém, tende cuidado;
+ eis que
+ eu tenho vos dito tudo desde antes.
 \v Mc.13.24
 Mas naqueles dias, depois daquela aflição, o sol se escurecerá, e a lua não dará seu brilho;
 \v Mc.13.25
-as estrelas do céu cairão,
- e as forças que estão nos céus se abalarão.
+e as estrelas cairão do céu, e as forças que estão nos céus se abalarão.
 \v Mc.13.26
-Então verão o Filho do homem vir nas nuvens, com grande poder e glória.
+E então verão o Filho do homem vir nas nuvens, com grande poder e glória.
 \v Mc.13.27
-Ele então enviará os seus anjos, e ajuntará os seus escolhidos dos quatro ventos, desde a extremidade da terra, até a extremidade do céu.
+Ele então enviará os 
+ seus
+ anjos, e ajuntará seus escolhidos dos quatro ventos, desde a extremidade da terra, até a extremidade do céu.
 \v Mc.13.28
-E aprendei a parábola da figueira: Quando o seu ramo já vai ficando tenro, e brota folhas, bem sabeis que o verão já está perto.
+Aprendei, pois, a parábola da figueira: quando seu ramo já se torna tenro, e brota folhas, bem sabeis que o verão 
+está perto.
 \v Mc.13.29
-Assim também vós, quando virdes suceder estas coisas, sabei que já está perto, às portas.
+Assim também vós, quando virdes suceder essas coisas, sabei que está perto, às portas.
 \v Mc.13.30
-Em verdade vos digo que não passará esta geração, até que todas estas coisas aconteçam.
+Em verdade vos digo que esta geração não passará, até que todas essas coisas aconteçam.
 \v Mc.13.31
-O céu e a terra passarão, mas as minhas palavras em maneira nenhuma passarão.
+O céu e a terra passarão, mas minhas palavras não passarão.
 \v Mc.13.32
-Porém daquele dia e hora ninguém sabe, nem os anjos que estão no céu, nem o Filho, a não ser somente o Pai.
+Porém daquele dia e hora ninguém sabe, nem os anjos que estão no céu, nem o Filho, senão o Pai.
 \v Mc.13.33
-Olhai, vigiai, e orai; porque não sabeis quando será o tempo.
+Tende cuidado, vigiai
+ e orai
+; porque vós não sabeis quando será o tempo.
 \v Mc.13.34
-Assim como o homem que, partindo-se para fora de sua terra, deixou sua casa, e deu autoridade aos seus servos, e a cada um o seu trabalho, e mandou ao porteiro que vigiasse,
+Será como o homem que, partindo para fora de sua terra, deixou sua casa, e deu autoridade a seus servos, e a cada um 
+sua obra, e mandou ao porteiro que vigiasse.
 \v Mc.13.35
-assim também vigiai, porque não sabeis quando virá o Senhor da casa; se à tarde, se à meia-noite, se ao cantar do galo, se pela manhã,
+Portanto, vigiai, porque vós não sabeis quando o Senhor da casa virá; se à tarde, se à meia-noite, se ao cantar do 
+galo, se pela manhã,
 \v Mc.13.36
-para que ele não venha de repente, e vos ache dormindo.
+para não haver que ele venha de repente, e vos ache dormindo.
 \v Mc.13.37
-E as coisas que vos digo, digo a todos: Vigiai.
+E as coisas que vos digo, digo a todos: vigiai”.
 \v Mc.14.1
 E dali a dois dias era a Páscoa, e 
 \added
 a festa
 \*added
- dos pães sem fermento; e os chefes dos sacerdotes, e os escribas buscavam um meio de prendê-lo através de um engano, e o matarem.
+ dos pães sem fermento; e os chefes dos sacerdotes e os escribas buscavam como o prenderiam por meio de um engano, e 
+o matariam.
 \v Mc.14.2
-Diziam, porém: “Não na festa, para que não aconteça tumulto entre o povo.”
+Mas
+ diziam: “Não na festa, para que não aconteça tumulto entre o povo.”
 \v Mc.14.3
-E estando ele em Betânia, na casa de Simão o Leproso, sentado 
+E estando ele em Betânia, na casa de Simão o Leproso, assentado 
 \added
 à mesa
 \*added
-, veio uma mulher, que tinha um vaso de alabastro, de óleo perfumado de nardo puro, de muito preço, e quebrando o vaso de alabastro, derramou-o sobre a cabeça dele.
+, veio uma mulher, que tinha um vaso de alabastro, de óleo perfumado de nardo puro, de muito preço, e quebrando o vaso 
+de alabastro, derramou-o sobre a cabeça dele.
 \v Mc.14.4
-E houve alguns que em si mesmos se indignaram, 
-e disseram
-: “Para que foi feito este desperdício do óleo perfumado?
+E houve alguns que em si mesmos se indignaram, e disseram: “Para que se fez este desperdício do óleo perfumado?
 \v Mc.14.5
-Porque isto podia ter sido vendido por mais de trezentos denários, e seria dado aos pobres.” E reclamavam contra ela.
+Porque 
+isto
+ podia ter sido vendido por mais de trezentos denários, e dá-lo aos pobres”. E a criticavam.
 \v Mc.14.6
-Porém Jesus disse: “Deixai-a; por que a incomodais? Ela me fez boa obra.
+Porém Jesus disse: “Deixai-a; por que vós a incomodais? Ela me fez uma boa obra.
 \v Mc.14.7
-Porque pobres sempre tendes convosco; e quando quiserdes, podeis lhes fazer bem; porém a mim, nem sempre me tendes.
+Porque vós sempre tendes os pobres convosco; e quando quiserdes, podeis fazer-lhes bem; porém a mim, nem sempre 
+me tereis.
 \v Mc.14.8
-Esta fez o que podia; adiantou-se para ungir o meu corpo, para a sepultura.
+Esta fez o que podia; adiantou-se para ungir meu corpo para a sepultura.
 \v Mc.14.9
-Em verdade vos digo, que onde quer que em todo o mundo este Evangelho for pregado, também o que esta fez será dito em sua memória.”
+Em verdade vos digo, que em todas as partes do mundo onde 
+este
+ Evangelho for pregado, também o que ela fez será dito em sua memória”.
 \v Mc.14.10
 E Judas Iscariotes, um dos doze, foi aos chefes dos sacerdotes, para o entregar a eles.
 \v Mc.14.11
-E eles ouvindo, alegraram-se; e prometeram lhe dar dinheiro; e buscava como o entregaria em tempo oportuno.
+E eles ouvindo, alegraram-se; e prometeram dar-lhe dinheiro; e buscava como o entregaria em tempo oportuno.
 \v Mc.14.12
-E o primeiro dia dos pães sem fermento, quando sacrificavam 
-\added
-o cordeiro da
-\*added
- Páscoa, seus discípulos lhe disseram: “Onde queres que vamos preparar para comerdes a Páscoa?”
+E no primeiro dia dos pães sem fermento, quando faziam o sacrifício da Páscoa, seus discípulos lhe disseram: “Onde 
+queres que vamos preparar para tu comeres a Páscoa?”
 \v Mc.14.13
-E mandou dois de seus discípulos, e disse-lhes: “Ide à cidade, e um homem que leva um cântaro de água vos encontrará, a ele segui.
+E enviou dois de seus discípulos, e disse-lhes: “Ide à cidade, e um homem que leva um cântaro de água vos encontrará; 
+segui-o.
 \v Mc.14.14
-E onde quer que ele entrar, dizei ao senhor da casa: O Mestre diz: Onde está o cômodo onde comerei Páscoa com meus discípulos?
+E onde quer que ele entrar, dizei ao senhor da casa: ‘O Mestre diz: Onde está a sala em que comerei a Páscoa com 
+meus discípulos?’
 \v Mc.14.15
-E ele vos mostrará um grande salão, ornado e preparado; ali fazei os preparativos para nós.”
+E ele vos mostrará um grande salão, mobiliado e preparado; ali a preparem para nós”.
 \v Mc.14.16
-E seusdiscípulos saíram, e vieram à cidade, e acharam como havia lhes dito, e prepararam a Páscoa.
+E os 
+ seus
+ discípulos, saindo, foram à cidade, e acharam como lhes havia dito, e prepararam a Páscoa.
 \v Mc.14.17
 E chegada a tarde, veio com os doze.
 \v Mc.14.18
-E quando se sentaram 
+E quando estavam assentados 
 \added
 à mesa
 \*added
-, e comeram, Jesus disse: “Em verdade vos digo, que um de vós, que está comendo comigo, me trairá.”
+, e comendo, Jesus disse: “Em verdade vos digo, que um de vós, que está comendo comigo, me trairá”.
 \v Mc.14.19
-E eles começaram a se entristecer, e a lhe dizer um após outro: “Por acaso sou eu?” E outro: “Por acaso sou eu?”
+E eles começaram a entristecer-se, e a dizer-lhe um após outro: “Acaso sou eu?”
+ E outro: “Acaso sou eu?”
 \v Mc.14.20
-Porém ele lhes respondeu: “
-\added
-É
-\*added
- um dos doze, o que está molhando 
-\added
-a mão
-\*added
- comigo no prato.
+Porém ele, respondendo, disse-lhes: “É um dos doze, que põe comigo a mão no prato.
 \v Mc.14.21
-Em verdade o Filho do homem vai, como está escrito sobre ele; mas ai daquele homem por quem o Filho do homem é traído; bom lhe fosse ao 
-tal homem não haver nascido.”
+Em
+ verdade o Filho do homem vai, como dele está escrito; mas ai daquele homem por quem o Filho do homem é traído; bom 
+seria ao tal homem não haver nascido”.
 \v Mc.14.22
-E enquanto eles comiam, 
-Jesus
- tomou o pão; e bendizendo, partiu-o, deu-lhes, e disse: “Tomai, comei, isto é o meu corpo.”
+E eles, comendo, Jesus tomou o pão; e, bendizendo, partiu-o e deu-lhes, e disse: “Tomai
+, comei
+, isto é o meu corpo”.
 \v Mc.14.23
-E tomando o copo, e dando graças, deu-lhes; e todos beberam dele.
+E tomando o cálice, e dando graças, deu-lhes; e todos beberam dele.
 \v Mc.14.24
-E disse-lhes: “Isto é o meu sangue, o do novo
- testamento,
- que é derramado por muitos.
-\v Mc.14.25
-Em verdade vos digo, que não beberei mais do fruto da vide, até aquele dia, quando o beber novo no Reino de Deus.”
-\v Mc.14.26
-E depois de cantarem um hino, saíram para o monte das Oliveiras.
-\v Mc.14.27
-E Jesus lhes disse: 
-“Todos vós falhareis
+E disse-lhes: “Isto é o meu sangue, o 
+\added
+sangue
+\*added
+ do
+ novo
 \fn
-Ou: me abandonareis.
+N4 não contém “novo”
 \*fn
- comigo esta noite
+ testamento,
+ que é derramado em favor de muitos.
+\v Mc.14.25
+Em verdade vos digo, que não beberei mais do fruto da vide, até aquele dia, quando o beber novo no reino de Deus”.
+\v Mc.14.26
+E eles, havendo cantado um hino, saíram para o monte das Oliveiras.
+\v Mc.14.27
+E Jesus lhes disse: “Todos vós achareis motivo de tropeço
+ em mim esta noite
 ;
- porque está escrito: Ferirei ao pastor, e as ovelhas serão dispersas.
+\fn
+N4 não contém “em mim esta noite”
+\*fn
+ porque está escrito: ‘Ferirei o pastor, e as ovelhas serão dispersas’.
 \ref
 Zacarias 13:7
 \*ref
 \v Mc.14.28
-Mas depois de eu haver ressuscitado, irei adiante de vós para a Galileia.”
+Mas depois que eu houver ressuscitado, irei adiante de vós para a Galileia”.
 \v Mc.14.29
-E Pedro lhe disse: “Ainda que todos falhem, eu não 
+E Pedro lhe disse: “Ainda que todos achem motivo de tropeço, eu não 
 \added
-falharei
-\*added
-.”
+acharei
+\*added”.
 \v Mc.14.30
-Jesus lhe disse: “Em verdade te digo, que hoje, nesta noite, antes que o galo cante duas vezes, me negarás três vezes.”
+Jesus lhe disse: “Em verdade te digo, que hoje, nesta noite, antes que o galo cante duas vezes, tu me negarás 
+três vezes”.
 \v Mc.14.31
-Mas 
-\added
-Pedro
-\*added
-, insistindo, dizia: “Ainda que me seja necessário morrer contigo, em maneira nenhuma te negarei.” E todos diziam 
+Mas ele dizia muito mais: “Ainda que me seja necessário morrer contigo, de maneira nenhuma te negarei”. E todos diziam 
 também da mesma maneira.
 \v Mc.14.32
-E vieram ao lugar, cujo nome era Getsêmani, e disse a seus discípulos: “Sentai-vos aqui, enquanto eu oro.”
+E foram a um lugar, cujo nome era Getsêmani, e disse a seus discípulos: “Assentai-vos aqui, enquanto eu oro”,
 \v Mc.14.33
-E tomou consigo Pedro, Tiago, e João, e começou a ficar muito apavorado e angustiado.
+E tomou consigo Pedro, Tiago, e João, e começou a ficar apavorado e muito angustiado.
 \v Mc.14.34
-E disse-lhes: “Minha alma totalmente está triste até a morte; ficai-vos aqui, e vigiai.”
+E disse-lhes: “Minha alma está profundamente triste até a morte; ficai aqui, e vigiai”.
 \v Mc.14.35
-Então ele foi um pouco mais adiante, e prostrou-se em terra. E orou, que se fosse possível, afastasse dele aquela hora.
+E havendo ele ido um pouco mais adiante, prostrou-se em terra. E orou para que, se fosse possível, passasse dele 
+aquela hora.
 \v Mc.14.36
-E disse: “Aba, Pai, todas as coisas te são possíveis; passa de mim este copo; porém não 
+E disse: “Aba, Pai, todas as coisas te são possíveis; passa de mim este cálice; porém não 
 \added
 se faça
 \*added
- o que eu quero, mas sim o que tu 
+ o que eu quero, mas sim, o que tu 
 \added
 queres
 \*added
 .”
 \v Mc.14.37
-Depois veio de volta, e os achou dormindo; e disse a Pedro: “Simão, estás dormindo? Não podes vigiar uma hora?
+E, chegando, achou-os dormindo; e disse a Pedro: “Simão, estás dormindo? Não podes vigiar uma hora?
 \v Mc.14.38
-Vigiai, e orai, para que não entreis em tentação; o espírito em verdade 
+Vigiai e orai, para que não entreis em tentação; o espírito em verdade 
 \added
 está
 \*added
@@ -1874,335 +2085,332 @@ está
 \added
 é
 \*added
- fraca.”
+ fraca”.
 \v Mc.14.39
-E depois que se foi novamente, orou, dizendo as mesmas palavras.
+E ele, indo novamente, orou, dizendo as mesmas palavras.
 \v Mc.14.40
-Quando voltou, achou-os outra vez dormindo; porque os olhos deles estavam pesados, e não sabiam o que lhe responder. 
+E, voltando
+, achou-os
+ outra vez
+ dormindo; porque os olhos deles estavam pesados, e não sabiam o que responder-lhe.
 \v Mc.14.41
-E veio a terceira vez, e disse-lhes: “Ainda estais dormindo e descansando?
-\fn
-Trad. alt. Agora dormi e descansai.
-\*fn
- Basta, chegada é a hora. Eis que o Filho do homem é entregue em mãos dos pecadores.
+E veio a terceira vez, e disse-lhes: Agora durmam e descansem. Basta, a hora chegou. Eis que o Filho do homem é 
+entregue nas mãos dos pecadores.
 \v Mc.14.42
 Levantai-vos, vamos; eis que o que me trai está perto.
 \v Mc.14.43
-E logo, enquanto ele ainda estava falando, veio Judas, que era um dos doze, e com ele uma grande multidão, com espadas e bastões, da parte dos chefes 
-dos sacerdotes, dos escribas, dos anciãos.
+E logo, estando ele ainda falando, veio Judas, que era um dos doze, e com ele uma
+ grande
+ multidão, com espadas e bastões, da parte dos chefes dos sacerdotes, dos escribas, e dos anciãos.
 \v Mc.14.44
-E o que o traía lhes tinha dado um sinal comum, dizendo: “Ao que eu beijar, é esse; prendei-o, e levai-o em segurança.”
+E o que o traía tinha-lhes dado um sinal, dizendo: “Aquele que eu beijar, é esse; prendei-o, e levai-o 
+com segurança”.
 \v Mc.14.45
-E quando veio, logo foi-se a ele, e disse-lhe: “Rabi, Rabi”, e o beijou.
+E logo que chegou, aproximou-se dele, e disse-lhe: “Rabi
+, Rabi
+”, e o beijou.
 \v Mc.14.46
-Então o agarraram, 
-\fn
-Lit. lançaram suas mãos nele
-\*fn
- e o prenderam.
+Então o agarraram e o prenderam.
 \v Mc.14.47
-E um dos que estavam ali presentes puxou a espada, feriu o servo do sumo sacerdote, e cortou-lhe a orelha.
+E um dos que estavam ali presentes, puxando da espada, feriu o servo do sumo sacerdote, e cortou-lhe a orelha.
 \v Mc.14.48
-Jesus começou a lhes dizer: “Viestes me prender com espadas e bastões, como 
-\added
-se eu fosse
-\*added
- um bandido?
+E Jesus, respondendo, disse-lhes: “Viestes me prender com espadas e bastões, como a um bandido?
 \v Mc.14.49
-Todo dia eu estava convosco no templo, ensinando, e não me prendestes; mas 
+Todos os dias eu estava convosco no Templo, ensinando, e vós não me prendestes; mas 
 \added
 assim se faz
 \*added
- para que as Escrituras se cumpram.”
+ para que as Escrituras se cumpram”.
 \v Mc.14.50
-Então todos o deixaram, e fugiram.
+Então todos, deixando-o, fugiram.
 \v Mc.14.51
-E certo rapaz o seguia, envolto num lençol sobre o 
+E certo jovem o seguia, envolto num lençol sobre o 
 \added
 corpo
 \*added
- nu. E os rapazes o agarraram.
+ nu. E
+ os jovens
+ o agarraram.
 \v Mc.14.52
-Mas ele largou o lençol, e fugiu deles nu.
+Mas ele, largando o lençol, fugiu
+ deles
+ nu.
 \v Mc.14.53
-E levaram Jesus ao sumo sacerdote; e ajuntaram-se a ele todos os chefes dos sacerdotes, os anciãos, e os escribas.
+E levaram Jesus ao sumo sacerdote; e runiram-se
+ com ele
+ todos os chefes dos sacerdotes, os anciãos, e os escribas.
 \v Mc.14.54
-E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e ficou sentado com os oficiais, esquentando-se ao fogo.
+E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e ficou sentado com os servidores, aquecendo-se 
+ao fogo.
 \v Mc.14.55
-E os chefes dos sacerdotes, e todo o supremo conselho
-\fn
-\key
-supremo conselho
-\*key
-lit. sinédrio – o mais importante conselho ou tribunal para os judeus
-\*fn
- buscavam 
-\added
-algum
-\*added
- testemunho contra Jesus, para o matarem, e não 
-\added
-o
-\*added
- achavam.
+E os chefes dos sacerdotes e todo o supremo conselho buscavam algum testemunho contra Jesus, para o matar, e 
+não achavam.
 \v Mc.14.56
-Porque muitos davam falso testemunho contra ele, mas os testemunhos não concordavam entre si.
+Porque muitos testemunhavam falsamente contra ele, mas os testemunhos não eram concordantes.
 \v Mc.14.57
-E alguns se levantavam e davam falso testemunho contra ele, dizendo:
+E alguns, levantando-se, testemunharam falsamente contra ele, dizendo:
 \v Mc.14.58
-“Nós o ouvimos dizer: Eu derrubarei este templo feito por mãos, e em três dias construirei outro feito não por mãos.
+“Nós o ouvimos dizer: ‘Eu derrubarei este Templo feito por mãos humanas, e em três dias construirei outro, não feito 
+por mãos humanas’”.
 \v Mc.14.59
 E nem assim o testemunho deles era concordante.
 \v Mc.14.60
-Então o sumo sacerdote levantou-se no meio, e perguntou a Jesus: “Não respondes nada? O que estes testemunham contra ti?”
+Então o sumo sacerdote, levantando-se no meio, perguntou a Jesus, dizendo: “Não respondes nada? O que estes 
+testemunham contra ti?”
 \v Mc.14.61
-Mas ele ficou calado, e nada respondeu. O sumo sacerdote voltou a lhe perguntar: “És tu o Cristo, o Filho daquele que é Bendito?”
+Mas ele ficou calado, e nada respondeu. O sumo sacerdote voltou a perguntar-lhe, e disse-lhe: “És tu o Cristo, o Filho 
+do Bendito?”
 \v Mc.14.62
-Jesus respondeu: “Eu sou. E vereis o Filho do homem sentado à direita do Poderoso 
-\fn
-Lit. Poder
-\*fn
-, e vindo com as nuvens do céu.”
+E Jesus disse: “Eu sou. E vós vereis o Filho do Homem assentado à direita do Poderoso, e vindo com as nuvens do céu”.
 \v Mc.14.63
 E o sumo sacerdote, rasgando suas roupas, disse: “Para que mais necessitamos de testemunhas?
 \v Mc.14.64
 Vós ouvistes a blasfêmia. Que vos parece?” E todos o condenaram como culpado de morte.
 \v Mc.14.65
-E alguns começaram a cuspir nele, e a cobrir o rosto dele; e a dar-lhe de socos, e dizer-lhe: “Profetiza”. E os oficiais lhe davam
+E alguns começaram a cuspir nele, e a cobrir-lhe o rosto, a dar-lhe de socos, e dizer-lhe: “Profetiza”. E os oficiais 
+lhe davam
  bofetadas.
 \v Mc.14.66
-E, enquanto Pedro estava no pátio abaixo, veio uma das servas do sumo sacerdote.
+E Pedro, estando embaixo, no pátio, veio uma das servas do sumo sacerdote.
 \v Mc.14.67
-Quando ela viu Pedro, que estava sentado esquentando-se, olhou para ele, e disse: “Também tu estavas com Jesus, o Nazareno.”
+E ela, vendo Pedro, que se estava aquecendo, olhou para ele, e disse: “Também tu estavas com Jesus, o Nazareno”.
 \v Mc.14.68
 Mas ele negou, dizendo: “Não 
 \added
 o
 \*added
- conheço, nem sei o que dizes.”; e saiu para o alpendre. Então o galo cantou.
+ conheço, nem sei o que tu estás dizendo.”; e saiu para o alpendre.
+ E o galo cantou.
 \v Mc.14.69
-A serva o viu outra vez, e começou a dizer aos que ali estavam: “Este é um deles”.
+E a serva, vendo-o
+ outra vez
+, começou a dizer
+ aos que ali estavam: “Este é um deles”.
 \v Mc.14.70
-Mas ele o negou de novo. E pouco depois, outra vez os que ali estavam disseram a Pedro: “Verdadeiramente tu és um deles; pois também és 
-galileu”, e a tua fala é semelhante
-”.
+Mas ele o negou outra vez. E pouco depois, os que ali estavam disseram outra vez a Pedro: “Verdadeiramente tu és um 
+deles; pois também és galileu
+, e tua fala é semelhante
+}”.
+\fn
+N4 não contém “e tua fala é semelhante”
+\*fn
 \v Mc.14.71
 Então ele começou a amaldiçoar e a jurar, 
 \added
 dizendo
 \*added
-: “Não conheço esse homem de quem dizeis.”
+: “Não conheço esse homem de quem falais”.
 \v Mc.14.72
-O galo cantou a segunda vez. E Pedro se lembrou da palavra que Jesus havia lhe dito: “Antes que o galo cante duas vezes, tu me 
-negarás três vezes.” 
-Então ele retirou-se dali e chorou.
+E
+ o galo cantou pela segunda vez. E Pedro lembrou-se da palavra que Jesus lhe havia dito: “Antes que o galo cante duas 
+vezes, tu me negarás três vezes”. E, retirando-se dali, chorou.
 \v Mc.15.1
-E logo ao amanhecer, os chefes dos sacerdotes tiveram uma reunião com os anciãos, com os escribas, e com todo o supremo conselho;
-\fn
-\key
-supremo conselho
-\*key
-lit. sinédrio – o mais importante conselho ou tribunal para os judeus
-\*fn
- e, amarrando Jesus, levaram 
-\added
--no
-\*added
- e 
-\added
-o
-\*added
- entregaram a Pilatos.
+E logo ao amanhecer, os chefes dos sacerdotes, com os anciãos, os escribas, e todo o supremo conselho, reuniram-se 
+para tomar uma decisão; e, amarrando Jesus, levaram-no e o entregaram a Pilatos.
 \v Mc.15.2
-E Pilatos lhe perguntou: És tu o Rei dos Judeus? E ele lhe respondeu:  Tu o dizes.
+E Pilatos lhe perguntou: “És tu o Rei dos Judeus?” E ele, respondendo, disse-lhe: “Tu o dizes”.
 \v Mc.15.3
-E os chefes dos sacerdotes o acusavam de muitas coisas, porém ele nada respondia.
+E os chefes dos sacerdotes o acusavam de muitas coisas
+, porém ele nada respondia
+.
+\fn
+RP, N4 não contêm “porém ele nada respondia”
+\*fn
 \v Mc.15.4
-E outra vez Pilatos lhe perguntou: Não respondes nada? Olha quantas 
-\added
-coisas
-\*added
- testemunham
- contra ti!
+E Pilatos perguntou-lhe outra vez: “Não respondes nada? Olha quantas 
+coisas testemunham
+ contra ti!”
 \v Mc.15.5
-Mas Jesus nada mais respondeu, de maneira que Pilatos ficou surpreso.
+Mas Jesus nada mais respondeu, de maneira que Pilatos ficou admirado.
 \v Mc.15.6
-Na festa, 
-\added
-Pilatos
-\*added
- lhes soltava um preso, qualquer um que pedissem.
+Na festa, ele costumava soltar-lhes um preso qualquer que pedissem.
 \v Mc.15.7
-E havia um chamado Barrabás, preso com 
+E havia um chamado Barrabás que, preso com 
 \added
 outros
 \*added
- revoltosos, que numa rebelião havia cometido uma morte.
+ rebeldes, havia num motim cometido um homicídio.
 \v Mc.15.8
-E a multidão, gritando,
- começou a pedir, como sempre
- lhes havia feito.
+E a multidão
+, gritando,
+ começou a pedir 
+\added
+que fizesse
+\*added 
+ como
+ sempre
+ lhes costumava fazer.
 \v Mc.15.9
-E Pilatos lhes respondeu: Quereis que eu vos solte o Rei dos Judeus?
+E Pilatos lhes respondeu, dizendo: “Quereis que eu vos solte o Rei dos Judeus?”
 \v Mc.15.10
-(Porque ele sabia que os chefes dos sacerdotes haviam o entregue por inveja).
+(Porque ele bem sabia que os chefes dos sacerdotes o haviam entregue por inveja).
 \v Mc.15.11
-Mas os chefes dos sacerdotes incitaram a multidão, para que, em vez disso, lhes soltasse Barrabás.
+Mas os chefes dos sacerdotes incitaram a multidão para que, de preferência, soltasse-lhes Barrabás.
 \v Mc.15.12
-E Pilatos, respondendo, disse-lhes outra vez: Que, pois, quereis que eu faça
- com aquele a quem chamais Rei dos Judeus?
+E Pilatos, respondendo, disse-lhes outra vez: “Que, pois, 
+quereis que eu faça
+ com aquele a quem vós chamais Rei dos Judeus?”
 \v Mc.15.13
-E eles voltaram a clamar: Crucifica-o!
+E eles voltaram a gritar: “Crucifica-o!”
 \v Mc.15.14
-Mas Pilatos lhes disse: Por quê? Que mal ele fez? E eles gritavam ainda mais: Crucifica-o!
+Mas Pilatos lhes disse: “Pois que mal ele fez?” E eles gritavam ainda mais: “Crucifica-o!”
 \v Mc.15.15
-Então Pilatos, querendo satisfazer à multidão, soltou-lhes Barrabás; e entregou Jesus açoitado, para que fosse crucificado.
+Então Pilatos, querendo satisfazer a multidão, soltou-lhes Barrabás; e entregou Jesus, açoitado, para que 
+fosse crucificado.
 \v Mc.15.16
-E os soldados o levaram para o pátio, que é o pretório; e convocaram toda a tropa.
+E os soldados o levaram para o interior do palácio, que é o pretório; e convocaram toda a tropa.
 \v Mc.15.17
-E o vestiram de púrpura; teceram uma coroa de espinhos, e puseram nele.
+E o vestiram de púrpura; e, tecendo uma coroa de espinhos, a puseram nele.
 \v Mc.15.18
-E começaram a saudá-lo: Viva! Ó Rei dos Judeus!
+E começaram a saudá-lo: “Saudações, ó Rei dos Judeus!”
 \v Mc.15.19
-E feriram a sua cabeça com uma cana, cuspiram nele, e, ajoelhados, o adoraram.
+E feriram-no na cabeça com um caniço, e cuspiram nele, e, ajoelhados, o adoraram.
 \v Mc.15.20
-Quando o escarneceram, despiram-lhe a púrpura, vestiram-no com as suas próprias roupas, e o levaram afora, para o crucificarem.
+E, havendo-o escarnecido, despiram-lhe a púrpura, vestiram-no com suas próprias roupas, e o levaram para fora, para 
+o crucificarem.
 \v Mc.15.21
-E forçaram um Simão cireneu, que estava passando, vindo do campo, o pai de Alexandre e de Rufo, para que levasse sua cruz.
+E obrigaram um Simão cireneu, que estava passando, vindo do campo, o pai de Alexandre e de Rufo, a que levasse 
+sua cruz.
 \v Mc.15.22
-E o levaram ao lugar de Gólgota, que traduzido é: o lugar da caveira.
+E o levaram ao lugar de Gólgota, que traduzido é: o lugar da Caveira.
 \v Mc.15.23
-E ofereceram-lhe a beber vinho misturado com mirra; mas ele não o tomou.
+E ofereceram-lhe
+ a beber
+ vinho misturado com mirra; mas ele não o tomou.
 \v Mc.15.24
-E havendo o crucificado, repartiram a roupas dele, lançando-lhes sortes, para o que cada um levaria.
+E, havendo-o crucificado, repartiram a roupas dele, lançando sortes sobre elas, para a que cada um levaria.
 \v Mc.15.25
-Era a hora terceira, e o crucificaram.
+E era a hora terceira, e o crucificaram.
 \v Mc.15.26
-E a descrição de sua acusação estava acima escrita: O REI DOS JUDEUS.
+E acima estava escrita sua acusação: “O REI DOS JUDEUS”.
 \v Mc.15.27
-E crucificaram com ele dois ladrões,
-\fn
-Ou: rebeldes
-\*fn
- um à sua direita, e outro à esquerda.
+E crucificaram com ele dois ladrões, um à sua direita, e outro à esquerda.
 \v Mc.15.28
-E cumpriu-se a Escritura que diz: E foi contado com os malfeitores.
+E cumpriu-se a Escritura que diz: “E foi contado com os malfeitores”.
+\fn
+N4 não contém todo o versículo. Comparar com Lucas 22:37 e Isaías 53:12
+\*fn
+\ref
+Isaías 53:12
+\*ref
 \v Mc.15.29
-E os que passavam blasfemavam dele, balançando suas cabeças, e dizendo: Ah! tu que derrubas o templo, e em três dias 
-o edificas,
+E os que passavam blasfemavam dele, balançando suas cabeças, e dizendo: “Ah! tu que derrubas o Templo, e em três dias 
+o reedificas,
 \v Mc.15.30
-salva a ti mesmo, e desce da cruz!
+salva a ti mesmo, e desce da cruz!”
 \v Mc.15.31
-E da mesma maneira também os chefes dos sacerdotes, com os escribas, diziam aos outros, escarnecendo: Ele salvou a 
-outros, a si mesmo não pode salvar!
+E da mesma maneira também os chefes dos sacerdotes, com os escribas, diziam aos outros, escarnecendo: “Ele salvou os 
+outros, e a si mesmo não pode salvar!
 \v Mc.15.32
-Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos!
+Que o Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos, e creiamos
+!”
+\fn
+RP contém “creiamos nele”
+\*fn
  Os que estavam crucificados com ele também o insultavam.
 \v Mc.15.33
-E vinda a hora sexta, vieram trevas sobre toda a terra, até a hora nona.
+E, chegada a hora sexta, houve trevas sobre toda a terra, até a hora nona.
 \v Mc.15.34
-E na hora nona, Jesus exclamou em alta voz: ELOÍ, ELOÍ, LAMÁ SABACTÂNI, que traduzido é: Deus meu, Deus meu, por que 
-me desamparaste?
+E, à hora nona, Jesus exclamou em alta voz: “ELOÍ, ELOÍ, LAMÁ SABACTÂNI”, que traduzido é: “Deus meu, Deus meu, por 
+que me desamparaste?”
 \v Mc.15.35
-E alguns dos que ali estavam, quando ouviram, disseram: Eis que ele está chamando Elias.
+E alguns dos que ali estavam, ouvindo, disseram: “Eis que ele está chama por Elias”.
 \v Mc.15.36
-E um correu, encheu de vinagre uma esponja; e pondo-a em uma cana, dava-lhe de beber, dizendo: Deixai, vejamos se Elias virá tirá-lo.
+E um deles correu, e encheu de vinagre uma esponja; e pondo-a em um caniço, deu-lhe de beber, dizendo: “Deixai, 
+vejamos se Elias virá tirá-lo”.
 \v Mc.15.37
-E Jesus bradou em grande voz, então expirou.
+E Jesus, dando um grande grito, expirou.
 \v Mc.15.38
-E o véu do Templo se rasgou em dois do alto abaixo.
+E o véu do Templo se rasgou em dois, do alto abaixo.
 \v Mc.15.39
-E o centurião que estava ali diante dele, vendo que havia expirado bradando
- assim, disse: Verdadeiramente este homem era Filho de Deus.
+E o centurião que estava em frente dele, vendo que assim havia expirado
+ gritando
+, disse: “Verdadeiramente este homem era Filho de Deus”.
 \v Mc.15.40
-E também estavam ali 
-\added
-algumas
-\*added
- mulheres olhando de longe, entre as quais estava também Maria Madalena, e Maria (mãe de Tiago o menor e de José), e Salomé;
+E também ali estavam algumas mulheres olhando de longe, entre as quais estavam também Maria Madalena, e Maria (mãe de 
+Tiago, o menor, e de José), e Salomé;
 \v Mc.15.41
-as quais também,
- quando ele estava na Galileia, o seguiam, e o serviam; e outras muitas, que haviam subido com ele a Jerusalém.
+elas também o seguiam e o serviam, quando ele estava na Galileia; e muitas outras que haviam subido com ele 
+a Jerusalém.
 \v Mc.15.42
-E quando já vinha o final da tarde, porque era a preparação, que é o dia antes de sábado,
+E, chegado o entardecer, porque era a preparação, que é o dia antes do sábado,
 \v Mc.15.43
-Veio José de Arimateia, honrado membro do conselho, que também esperava o Reino de Deus, e com ousadia foi a Pilatos, 
-e pediu o corpo de Jesus.
+Veio José de Arimateia, honrado membro do supremo conselho, que também esperava o reino de Deus, e ousadamente foi a 
+Pilatos, e pediu o corpo de Jesus.
 \v Mc.15.44
-Pilatos se surpreendeu de que já fosse morto. E chamou a si o centurião, e perguntou-lhe se já era morto já havia 
-muito tempo.
+E Pilatos admirou-se de que já estivesse morto. E, chamando a si o centurião, perguntou-lhe se havia muito que 
+havia morrido.
 \v Mc.15.45
-Quando ele recebeu a explicação do centurião, deu o corpo a José,
+E, havendo-se certificado pelo centurião, deu o corpo a José,
 \v Mc.15.46
-o qual comprou um lençol fino, e tirando-o 
+que comprou um lençol fino, e tirando-o 
 \added
 da cruz
 \*added
-, envolveu-o no lençol fino. Em seguida, ele o pôs num sepulcro escavado em uma rocha, e rolouuma pedra à porta 
-do sepulcro.
+, e o envolveu no lençol fino. Então o pôs num sepulcro escavado na rocha, e rolou uma pedra à entrada do sepulcro.
 \v Mc.15.47
-Maria Madalena e Maria 
+E Maria Madalena e Maria 
 \added
 mãe
 \*added
  de José olharam onde o puseram.
 \v Mc.16.1
-Havendo passado o sábado, Maria Madalena, e Maria 
+E, passado o sábado, Maria Madalena, e Maria 
 \added
 mãe
 \*added
- de Tiago, e Salomé, compraram especiarias, para irem o ungir.
+ de Tiago, e Salomé, compraram aromas para irem ungi-lo.
 \v Mc.16.2
-E de manhã muito cedo, o primeiro dia da semana, vieram ao sepulcro, ao nascer do sol.
+E de manhã muito cedo, no primeiro dia da semana, vieram ao sepulcro, ao nascer do sol.
 \v Mc.16.3
-E diziam umas às outras: Quem rolará para nós a pedra da porta do sepulcro?
+E diziam umas às outras: “Quem revolverá para nós a pedra da entrada do sepulcro?”
 \v Mc.16.4
-Pois era muito grande. E quando observaram, viram que já a pedra estava havia sido rolada; 
+E quando observaram, viram que a pedra, que era muito grande, já estava revolvida.
 \v Mc.16.5
-e entrando no sepulcro, viram um rapaz sentado à direita, vestido com uma roupa comprida branca; e elas se espantaram.
+E elas, entrando no sepulcro, viram um jovem assentado à direita, vestido com uma roupa comprida branca; e 
+ficaram espantadas.
 \v Mc.16.6
-Mas ele lhes disse: Não vos espanteis. Vós buscais a Jesus Nazareno crucificado. Ele já ressuscitou, não está aqui. 
+Mas ele lhes disse: “Não vos assusteis. Vós buscais Jesus Nazareno, o crucificado. Ele já ressuscitou, não está aqui. 
 Eis aqui o lugar onde o puseram.
 \v Mc.16.7
-Porém ide, dizei a seus discípulos e a Pedro, que ele vai adiante de para a Galileia; ali o vereis, como ele vos disse.
+Porém ide, dizei a seus discípulos e a Pedro, que ele vai adiante de vós para a Galileia; ali vós o vereis, como 
+ele vos disse”.
 \v Mc.16.8
-Então elas, saindo apressadamente, fugiram do sepulcro, porque temor e espanto as haviam tomado; e não disseram nada 
+E elas, saindo apressadamente, fugiram do sepulcro, porque estavam tomadas de temor e espanto; e não disseram nada 
 a ninguém, porque tinham medo.
+\fn
+N4 não contém o conteúdo dos versículos 9 ao 20
+\*fn
 \v Mc.16.9
-E havendo ressuscitado pela manhã, no primeiro 
-\added
-dia
-\*added
- da semana, 
+E 
 \added
 Jesus
 \*added
- apareceu primeiramente a Maria Madalena, da qual havia expulsado sete demônios.
+, havendo ressuscitado pela manhã, no primeiro dia da semana, apareceu primeiramente a Maria Madalena, da qual havia 
+expulsado sete demônios.
 \v Mc.16.10
-Ela se foi, e anunciou aos que estiveram com ele, que estavam tristes e chorando.
+E ela, partindo, anunciou aos que haviam estado com ele, que estavam tristes e chorando.
 \v Mc.16.11
-Quando ouviram que ele estava vivo, e que havia sido visto por ela, eles não creram.
+E eles, ouvindo que estava vivo, e que havia sido visto por ela, não creram.
 \v Mc.16.12
-E depois ele apareceu em outra forma a dois deles, que estavam indo pelo caminho ao campo.
+E depois ele apareceu em outra forma a dois deles, que iam de caminho para o campo.
 \v Mc.16.13
-E estes foram anunciar aos outros; mas também não creram neles.
+E esses, indo, anunciaram aos outros; mas nem ainda creram neles.
 \v Mc.16.14
-Finalmente ele apareceu aos onze, estando eles sentados juntos; e repreendeu pela incredulidade e dureza de 
-coração deles, por não terem crido nos que já o haviam visto ressuscitado.
+Finalmente ele apareceu aos onze, estando eles juntamente assentados; e repreendeu-os pela incredulidade e dureza de 
+coração deles, por não haverem crido nos que o haviam visto já ressuscitado.
 \v Mc.16.15
-E disse-lhes: Ide por todo o mundo, pregai o Evangelho a toda criatura.
+E disse-lhes: “Ide por todo o mundo, pregai o Evangelho a toda criatura.
 \v Mc.16.16
 Quem crer e for batizado será salvo; mas quem não crer será condenado.
 \v Mc.16.17
-E estes sinais seguirão aos que crerem: em meu nome expulsarão demônios; falarão novas línguas;
+E estes sinais seguirão aos que crerem: em meu nome expulsarão os demônios; falarão novas línguas;
 \v Mc.16.18
-pegarão serpentes com as mãos; e se beberem algo mortífero, não lhes fará dano algum; porão as mãos sobre os 
-enfermos, e sararão.
+pegarão em serpentes; e se beberem alguma coisa mortífera, não lhes fará dano algum; porão as mãos sobre os 
+enfermos, e os sararão”.
 \v Mc.16.19
-Então o Senhor, depois de haver lhes falado, foi recebido acima no céu, e sentou-se à direita de Deus.
+E o Senhor, depois de lhes haver falado, foi recebido acima no céu, e assentou-se à direita de Deus.
 \v Mc.16.20
-E eles saíram e pregaram por todas as partes, 
-\added
-com
-\*added
- o Senhor operando com eles, e confirmando a palavra com os sinais que se seguiam. Amém.
+E eles, havendo saído, pregaram por todas as partes, e o Senhor operando com eles, e confirmando a palavra com os 
+sinais que se seguiam. Amém
+.

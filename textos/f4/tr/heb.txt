@@ -21,12 +21,12 @@ Mas nestes últimos falou a nós por meio do
 \added
 seu
 \*added
- Filho, a quem constituiu por herdeiro de todas as coisas, e pelo qual também fez o universo.
+ Filho, a quem constituiu por herdeiro de todas as coisas, e pelo qual também fez as eras.
 \fn
 \key
-o universo
+as eras
 \*key
-lit. as eras – o termo grego literalmente indicava longos períodos de tempo, mas também podia indicar lugares, isto é, o mundo ou mundos
+Ou: “os mundos”. O termo grego costuma indicar longos períodos de tempo, mas aqui parece indicar as coisas que estão sujeitas ao tempo, isto é, o universo físico
 \*fn
 \v Hb.1.3
 \added
@@ -36,7 +36,11 @@ O Filho
 \added
 sua
 \*added
- glória, a expressa imagem da sua pessoa, e sustenta todas as coisas pela sua
+ glória, a expressa imagem da sua pessoa, e sustenta todas as coisas pela 
+sua
+\fn
+N4 não contém “sua”
+\*fn
  palavra de poder.
 \fn
 \key
@@ -44,10 +48,18 @@ sua palavra de poder
 \*key
 lit. palavra de seu poder
 \*fn
- E, depois de fazer por si mesmo
- a purificação dos nossos
+ E, depois de fazer
+ por si mesmo
+\fn
+RP não contém “por si mesmo”
+\*fn
+ a purificação dos
+ nossos
+\fn
+N4 não contém “nossos”
+\*fn
  pecados,
- sentou-se à direita da Majestade nas alturas;
+ assentou-se à direita da Majestade nas alturas;
 \v Hb.1.4
 e se tornou muito superior aos anjos, assim como herdou um nome mais excelente que eles.
 \v Hb.1.5
@@ -90,6 +102,9 @@ E: Tu Senhor, no princípio fundaste a terra, e os céus são obras de tuas mão
 Eles perecerão, mas tu continuas. Todos eles como roupa se envelhecerão;
 \v Hb.1.12
 como uma manta tu os envolverás, e
+\fn
+N4 contém adicionalmente: “como roupa”
+\*fn
  serão mudados; porém tu és o mesmo, e os teus anos não cessarão. 
 \ref
 Salmos 102:25-27 
@@ -114,7 +129,11 @@ Pois não foi aos anjos que ele sujeitou o mundo futuro, do qual estamos falando
 \v Hb.2.6
 Mas em certo lugar alguém testemunhou, dizendo: O que é o homem, para que te lembres dele? Ou o filho do homem, para que o visites?
 \v Hb.2.7
-Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste,  e o estabeleceste sobre as obras das tuas mãos;
+Tu o fizeste um pouco menor que os anjos, de glória e de honra o coroaste, 
+ e o estabeleceste sobre as obras das tuas mãos;
+\fn
+RP, N4 não contêm “e o estabeleceste sobre as obras das tuas mãos”
+\*fn
 \v Hb.2.8
 Sujeitaste todas as coisas debaixo de seus pés.Pois ao lhe sujeitar todas as coisas, nada deixou que não fosse sujeito a ele; porém agora ainda não vemos todas as coisas sendo sujeitas a ele. 
 \ref
@@ -155,7 +174,12 @@ E outra vez: Eis-me aqui, com os filhos que Deus me deu.
 Ref. Isaías 8:18 
 \*ref
 \v Hb.2.14
-Portanto, uma vez que os filhos compartilham da carne e do sangue,
+Portanto, uma vez que os filhos compartilham 
+da carne e do sangue
+,
+\fn
+N4 troca a ordem entre “carne” e “sangue”
+\*fn
  também ele, semelhantemente, participou das mesmas coisas, a fim de pela morte aniquilar ao que tinha o poder da morte, isto é, o diabo;
 \v Hb.2.15
 e libertar a todos os que, por medo da morte, estavam sujeitos à servidão durante a vida toda.
@@ -184,7 +208,12 @@ equiv. reconciliação, propiciação. A palavra grega se refere ao apaziguament
 \v Hb.2.18
 Pois, naquilo em que ele mesmo sofreu ao ser tentado, ele pode socorrer aos que são tentados.
 \v Hb.3.1
-Portanto, santos irmãos, participantes do chamado celestial, considerai o Apóstolo e Sumo Sacerdote da nossa declaração de fé, Cristo Jesus.
+Portanto, santos irmãos, participantes do chamado celestial, considerai o Apóstolo e Sumo Sacerdote da nossa declaração de fé, 
+Cristo Jesus
+.
+\fn
+TR: Cristo Jesus – RP: Jesus Cristo – N4: Jesus
+\*fn
 \v Hb.3.2
 Ele é fiel àquele que o constituiu, assim como Moisés também foi em toda a casa de Deus.
 \fn
@@ -234,8 +263,17 @@ pais
 \*key
 i.e. ancestrais
 \*fn
- me
- tentaram, me provaram,
+ 
+me
+\fn
+N4 não contém “me”
+\*fn
+ tentaram, 
+me provaram
+,
+\fn
+N4: provando
+\*fn
  e viram as minhas obras por quarenta anos.
 \v Hb.3.10
 Por isso me indignei contra essa geração, e disse: “Eles sempre se desviam nos corações, e não conheceram os meus caminhos”;
@@ -267,18 +305,22 @@ lit. princípio da confiança
 \v Hb.3.15
 como é dito: Hoje, se ouvirdes a sua voz, não endureçais os vossos corações, como na provocação.
 \v Hb.3.16
-Porque alguns, mesmo ouvindo, provocaram-no 
+Porque alguns,
+ mesmo ouvindo, provocaram-no 
 \added
 à ira
 \*added
- ,
+,
 \fn
 \key
 provocaram-no [à ira]
 \*key
 ou: rebelaram-se
 \*fn
- mas não todos aqueles que saíram do Egito por meio de Moisés.
+ 
+mas não
+ todos aqueles que saíram do Egito por meio de Moisés
+.
 \fn
 \key
 Porque alguns … Moisés
@@ -294,7 +336,12 @@ Assim vemos que não puderam entrar por causa da incredulidade.
 \v Hb.4.1
 Temamos, pois, para que, havendo sido deixada a promessa de entrar no seu repouso, não pareça que algum de vós tenha ficado para trás.
 \v Hb.4.2
-Pois também a nós foi pregado o evangelho, assim como a eles; mas a palavra da pregação nada lhes aproveitou, porque não estava combinada com a fé naqueles que 
+Pois também a nós foi pregado o evangelho, assim como a eles; mas a palavra da pregação nada lhes aproveitou, porque não estava 
+combinada com a
+\fn
+TR: combinada com a fé – RP, N4: unida pela fé
+\*fn
+ fé naqueles que 
 \added
 a
 \*added
@@ -319,7 +366,7 @@ E, outra vez neste
 \added
 texto
 \*added
- : Não entrarão no meu repouso.
+: Não entrarão no meu repouso.
 \v Hb.4.6
 Portanto, uma vez que resta alguns entrarem no repouso,
 \fn
@@ -340,7 +387,8 @@ Pois aquele que entrou no seu repouso também repousou das suas obras, assim com
 \v Hb.4.11
 Procuremos, pois, entrar naquele repouso; para que ninguém caia no mesmo exemplo de desobediência.
 \v Hb.4.12
-Porque a palavra de Deus é viva e eficaz, e mais afiada do que toda espada de dois gumes, e que penetra até a divisão da alma e do espírito, das juntas e das medulas, e é apta para julgar os pensamentos e intenções do coração.
+Porque a palavra de Deus é viva e eficaz, e mais afiada do que toda espada de dois gumes, e que penetra até a divisão da alma e do espírito, das juntas e das medulas, e é apta para 
+julgar os pensamentos e intenções do coração.
 \v Hb.4.13
 E não há criatura alguma encoberta diante dele; pelo contrário, todas as coisas estão nuas e expostas aos olhos 
 daquele a quem temos de prestar contas.
@@ -415,7 +463,8 @@ e nomeado por Deus como Sumo Sacerdote, segundo a ordem de Melquisedeque.
 \v Hb.5.11
 Nosso comentário a respeito disso é extenso e difícil de explicar, porque vos tornastes negligentes para ouvir.
 \v Hb.5.12
-Pois, pelo tempo, vós já devíeis ser mestres; porém novamente tendes necessidade de serdes ensinados os princípios básicos das palavras de Deus; e vos fizestes como se precisásseis de leite, e não de alimento sólido.
+Pois, pelo tempo, vós já devíeis ser mestres; porém novamente tendes necessidade de serdes ensinados os princípios básicos das palavras de Deus; e vos fizestes 
+como se precisásseis de leite, e não de alimento sólido.
 \v Hb.5.13
 Pois qualquer um que depende
 \fn
@@ -436,7 +485,12 @@ Portanto deixemos os tópicos elementares da doutrina de Cristo, e prossigamos a
 \v Hb.6.2
 da doutrina dos batismos, da imposição das mãos, da ressurreição dos mortos, e do juízo eterno.
 \v Hb.6.3
-E isso faremos,
+E isso 
+faremos
+,
+\fn
+RP: façamos
+\*fn
  se Deus permitir.
 \v Hb.6.4
 Pois é impossível que os que uma vez foram iluminados, e experimentaram o dom celestial, e foram feitos 
@@ -459,7 +513,12 @@ Contudo, se ela produz espinhos e cardos, é reprovada, e perto está da maldiç
 \v Hb.6.9
 Mas, ainda que estejamos falando assim, quanto a vós mesmos, amados, confiamos melhores coisas, relacionadas à salvação.
 \v Hb.6.10
-Pois Deus não é injusto para se esquecer da vossa obra, e do  trabalho do amor
+Pois Deus não é injusto para se esquecer da vossa obra, e do 
+ trabalho do
+ amor
+\fn
+N4 não contém “trabalho do”
+\*fn
  que mostrastes para com o nome dele, quando servistes aos santos, e continuais a servir.
 \v Hb.6.11
 Mas desejamos que cada um de vós mostre o mesmo empenho até o fim, para que a 
@@ -537,7 +596,8 @@ sem pai, sem mãe, sem genealogia, sem ter princípio de dias, nem fim de vida; 
 \v Hb.7.4
 Considerai, pois, como ele era grande, a quem até o patriarca Abraão deu o dízimo dos despojos.
 \v Hb.7.5
-E, realmente, os que dentre os filhos de Levi recebem o sacerdócio têm ordem, segundo a Lei, de receberem os dízimos do povo, isto é, dos seus irmãos, mesmo sendo eles também descendentes de Abraão.
+E, realmente, os que dentre os filhos de Levi recebem o sacerdócio têm ordem, segundo a Lei, de receberem os dízimos 
+do povo, isto é, dos seus irmãos, mesmo sendo eles também descendentes de Abraão.
 \fn
 \key
 sendo eles descendentes de Abraão
@@ -573,14 +633,23 @@ lit. pai
 \*fn
  quando Melquisedeque se encontrou com ele.
 \v Hb.7.11
-Portanto, se a perfeição tivesse sido de fato pelo sacerdócio Levítico (pois sob ele
+Portanto, se a perfeição tivesse sido de fato pelo sacerdócio Levítico (pois 
+sob ele
+\fn
+TR, RP: sob ele – N4: com base nele
+\*fn
  o povo recebeu a Lei), que mais necessidade havia de se levantar outro Sacerdote segundo a ordem de Melquisedeque, e não ser chamado segundo a ordem de Arão?
 \v Hb.7.12
 Pois, ao se mudar o sacerdócio, necessariamente também se faz mudança de Lei.
 \v Hb.7.13
 Porque aquele de quem estas coisas são ditas pertence a outra tribo, da qual ninguém serviu ao altar;
 \v Hb.7.14
-visto ser evidente que o nosso Senhor é procedente de Judá, tribo da qual Moisés nada falou a respeito de sacerdócio. 
+visto ser evidente que o nosso Senhor é procedente de Judá, tribo da qual Moisés nada falou a respeito de 
+sacerdócio
+.
+\fn
+N4: sacerdotes
+\*fn
 \v Hb.7.15
 E 
 \added
@@ -595,6 +664,9 @@ Pois
 assim
 \*added
  ele dá
+\fn
+TR, RP: ele dá testemunho – N4: dá-se testemunho
+\*fn
  testemunho: Tu és Sacerdote para sempre, segundo a ordem de Melquisedeque.
 \v Hb.7.18
 Porque há uma revogação do mandamento anterior, por causa da sua fraqueza e inutilidade,
@@ -611,8 +683,13 @@ mas ele
 \added
 foi estabelecido
 \*added
- com um juramento daquele que lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre,
-  segundo a ordem de Melquisedeque).
+ com um juramento daquele que lhe disse: O Senhor jurou, e não se arrependerá: Tu és Sacerdote para sempre
+,
+ segundo a ordem de Melquisedeque
+).
+\fn
+N4 não contém “segundo a ordem de Melquisedeque”
+\*fn
 \v Hb.7.22
 Assim, Jesus foi feito fiador de um pacto
 \fn
@@ -631,7 +708,8 @@ Portanto, ele também pode salvar de maneira completa os que se aproximam de Deu
 \v Hb.7.26
 Pois nos era conveniente tal Sumo Sacerdote: santo, inocente, incontaminado, separado dos pecadores, e feito mais elevado que os céus;
 \v Hb.7.27
-que não precisasse, como os sumos sacerdotes, de oferecer sacrifícios diariamente, primeiramente pelos seus próprios pecados, e depois pelos do povo. Pois ele fez isto de uma vez por todas quando ofereceu a si mesmo.
+que não precisasse, como os sumos sacerdotes, de oferecer sacrifícios diariamente, primeiramente pelos seus próprios 
+pecados, e depois pelos do povo. Pois ele fez isto de uma vez por todas quando ofereceu a si mesmo.
 \v Hb.7.28
 Porque a Lei constitui por sumos sacerdotes homens que têm fraqueza; mas a palavra do juramento, que 
 \added
@@ -664,7 +742,11 @@ ainda
 \added
 ainda
 \*added
- há os sacerdotes
+ há os 
+sacerdotes
+\fn
+N4 não contém “sacerdotes”
+\*fn
  que apresentam
  as ofertas segundo a Lei.
 \v Hb.8.5
@@ -737,13 +819,23 @@ lit. pais
 \v Hb.8.10
 Este, pois, é o pacto que farei com o povo de Israel depois daqueles dias, diz o Senhor: Porei minhas leis nas mentes deles, e as escreverei em seus corações. Eu serei o Deus deles, e eles serão o meu povo.
 \v Hb.8.11
-E não terão de ensinar cada um ao seu próximo,
+E não terão de ensinar cada um ao seu 
+próximo
+,
+\fn
+RP, N4: conterrâneo
+\*fn
  ou ao seu irmão, dizendo: “Conhece ao Senhor”; porque todos me conhecerão, desde o menor deles até o maior.
 \v Hb.8.12
-Pois serei misericordioso com as suas injustiças, e não mais me lembrarei dos seus pecados e das suas transgressões. 
+Pois serei misericordioso com as suas injustiças, e não mais me lembrarei dos seus pecados
+ e das suas transgressões
+.
 \ref
 Jeremias 31:31-34 
 \*ref
+\fn
+N4 não contém “e das suas transgressões”
+\*fn
 \v Hb.8.13
 Quando ele disse: “Novo 
 \added
@@ -785,13 +877,21 @@ Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos
 \*fn
  não havia sido revelado enquanto o primeiro Tabernáculo ainda estava de pé.
 \v Hb.9.9
-Esse é uma figura para o tempo presente, em que
+Esse é uma figura para o tempo presente, 
+em que
+\fn
+TR, RP: em que - N4: segundo a qual
+\*fn
  são oferecidos ofertas e sacrifícios que não podem, quanto a consciência, tornar perfeito a quem faz o serviço;
 \v Hb.9.10
 \added
 pois consistem
 \*added
- somente em comidas e bebidas, e vários lavamentos, e
+ somente em comidas e bebidas, e vários lavamentos, 
+e
+\fn
+TR, RP: e ordenanças - N4: [que são] ordenanças
+\*fn
  ordenanças para o corpo,
 \fn
 \key
@@ -809,11 +909,24 @@ Há controvérsia se a referência é ao lugar Santo, ou ao Santo dos Santos
 \*fn
  e obteve uma redenção eterna, não pelo sangue de bodes e bezerros, mas sim, pelo seu próprio sangue.
 \v Hb.9.13
-Pois, se o sangue de touros e bodes,
+Pois, se o sangue de 
+touros e bodes
+,
+\fn
+N4 troca a ordem: “bodes e touros”
+\*fn
  e as cinzas de uma novilha espalhadas sobre os imundos, santifica para a purificação do corpo,
 \v Hb.9.14
-quanto mais o sangue do Cristo que, pelo Espírito eterno, ofereceu a si mesmo, imaculado, a Deus, purificará a vossa
- consciência das obras mortas, para servirdes
+quanto mais o sangue do Cristo que, pelo Espírito eterno, ofereceu a si mesmo, imaculado, a Deus, purificará a 
+vossa
+\fn
+N4: nossa
+\*fn
+ consciência das obras mortas, para 
+servirdes
+\fn
+N4: servirmos
+\*fn
  ao Deus vivo!
 \v Hb.9.15
 E por isso ele é o Mediador de um Novo Testamento,
@@ -910,10 +1023,20 @@ Então eu disse: “Eis-me aqui; (no rolo do livro está escrito de mim) venho p
 Salmos 40:6-8 
 \*ref
 \v Hb.10.8
-Depois de ter dito acima: “Sacrifício, oferta,
+Depois de ter dito acima: “
+Sacrifício, oferta
+,
+\fn
+N4: Sacrifícios, ofertas
+\*fn
  holocaustos, e ofertas pelo pecado não quiseste, nem te agradaram”, (os quais se oferecem segundo a Lei),
 \v Hb.10.9
-então disse: “Eis-me aqui, venho para fazer a tua vontade, ó Deus”.
+então disse: “Eis-me aqui, venho para fazer a tua vontade
+, ó Deus
+”.
+\fn
+N4 não contém “ó Deus”
+\*fn
  
 \added
 Assim
@@ -929,7 +1052,7 @@ lit. tira
 \added
 pacto
 \*added
-,para estabelecer o segundo.
+, para estabelecer o segundo.
 \v Hb.10.10
 Pela sua vontade somos santificados por meio da oferta sacrificial do corpo de Jesus Cristo, 
 \added
@@ -943,7 +1066,7 @@ Mas
 \added
 Jesus
 \*added
-,depois que ofereceu um sacrifício pelos pecados, assentou-se para sempre à direita de Deus;
+, depois que ofereceu um sacrifício pelos pecados, assentou-se para sempre à direita de Deus;
 \v Hb.10.13
 e espera desde então, até que os seus inimigos sejam postos por escabelo dos seus pés.
 \v Hb.10.14
@@ -953,11 +1076,19 @@ E também o Espírito Santo nos dá testemunho
 \added
 acerca disso
 \*added
-; pois, depois de haver anteriormente
+; pois, depois de haver 
+anteriormente
+\fn
+N4 não contém “anteriormente”
+\*fn
  dito:
 \v Hb.10.16
-Este é o pacto que farei com eles depois daqueles dias, diz o Senhor: Porei minhas leis em seus corações, e as escreverei em suas mentes;
- 
+Este é o pacto que farei com eles depois daqueles dias, diz o Senhor: Porei minhas leis em seus corações, e as escreverei em 
+suas mentes
+;
+\fn
+N4: sua mente
+\*fn
 \ref
 Jeremias 31:33 
 \*ref
@@ -1027,7 +1158,7 @@ em vez disso, certa terrível expectativa de julgamento, e um fogo de indignaç�
 \key
 fogo de indignação
 \*key
-lit. zelo de fogo; isto é, a indignação causada pelo zelo
+lit. zelo de fogo; i.e. a indignação causada pelo zelo
 \*fn
  que consumirá os adversários.
 \v Hb.10.28
@@ -1042,11 +1173,16 @@ de quanto pior castigo vós pensais que será julgado merecedor aquele que pisou
 \key
 menosprezou
 \*key
-lit. considerou profano (ou banal
+lit. considerou profano (ou banal)
 \*fn
-) o sangue do Testamento no qual ele foi santificado, e insultou o Espírito da graça?
+ o sangue do Testamento no qual ele foi santificado, e insultou o Espírito da graça?
 \v Hb.10.30
-Pois nós conhecemos aquele que disse: A vingança é minha; eu retribuirei, diz o Senhor.
+Pois nós conhecemos aquele que disse: A vingança é minha; eu retribuirei
+, diz o Senhor
+.
+\fn
+N4 não contém “diz o Senhor”
+\*fn
  E outra vez: O Senhor julgará o seu povo. 
 \ref
 Deuteronômio 32:35,36 
@@ -1059,7 +1195,11 @@ Lembrai-vos, porém, dos dias passados, em que, depois de serdes iluminados, sup
 quando, em parte, fostes expostos em público tanto a insultos, como a tribulações, e em parte, fostes companheiros 
 daqueles que assim foram tratados.
 \v Hb.10.34
-Pois também vos compadecestes das minhas prisões,
+Pois também vos compadecestes 
+das minhas
+\fn
+N4: dos que estavam em prisões
+\*fn
  e com alegria aceitastes a espoliação dos vossos bens, pois sabeis em vós mesmos que tendes nos céus um bem melhor 
 e permanente.
 \v Hb.10.35
@@ -1078,7 +1218,11 @@ Pois ainda um pouco de tempo, e aquele que vem virá, e não tardará.
 Isaías 26:20, Habacuque 2:3 
 \*ref
 \v Hb.10.38
-Mas o justo
+Mas o
+ justo
+\fn
+N4: meu justo
+\*fn
  viverá pela fé; e se ele retroceder, a minha alma não tem prazer nele. 
 \ref
 Habacuque 2:4 
@@ -1096,16 +1240,17 @@ testemunho
 ou: aprovação
 \*fn
 \v Hb.11.3
-Pela fé entendemos que o universo
+Pela fé entendemos que as eras foram postas em ordem
 \fn
 \key
-o universo
+as eras foram postas em ordem
 \*key
-lit. as eras – o termo grego literalmente indicava longos períodos de tempo, mas também podia indicar lugares, isto é, o mundo ou mundos
+Ou: “os mundos foram postos em ordem”. O termo grego costuma indicar longos períodos de tempo, mas aqui parece indicar as coisas que estão sujeitas ao tempo, isto é, o universo físico
 \*fn
- foi aprontado pela palavra de Deus, de maneira que as coisas que se veem não foram feitas de algo visível.
+ pela palavra de Deus, de maneira que as coisas que se veem não foram feitas de algo visível.
 \v Hb.11.4
-Pela fé, Abel ofereceu a Deus melhor sacrifício do que Caim; por isso obteve testemunho de que era justo, pois Deus testemunhou de suas ofertas; e mesmo estando morto, ainda fala por meio dela.
+Pela fé, Abel ofereceu a Deus melhor sacrifício do que Caim; por isso obteve testemunho de que era justo, pois Deus 
+testemunhou de suas ofertas; e mesmo estando morto, ainda fala por meio dela.
 \v Hb.11.5
 Pela fé, Enoque foi transportado para não experimentar
 \fn
@@ -1114,7 +1259,11 @@ experimentar
 \*key
 lit. ver
 \*fn
- a morte; e não foi achado, porque Deus havia o transportado; pois antes da sua
+ a morte; e não foi achado, porque Deus havia o transportado; pois antes da
+ sua
+\fn
+N4 não contém “sua”
+\*fn
  transportação ele obteve testemunho de ter agradado a Deus.
 \v Hb.11.6
 Ora, sem fé é impossível agradar 
@@ -1142,10 +1291,18 @@ terra
 \v Hb.11.10
 Pois ele esperava a cidade que tem fundamentos firmes, da qual o arquiteto e construtor é Deus.
 \v Hb.11.11
-Pela fé, também, a própria Sara recebeu a capacidade de conceber descendência, e já na idade avançada ela deu à luz,
+Pela fé, também, a própria Sara recebeu a capacidade de conceber descendência, e já na idade avançada
+ ela deu à luz
+,
+\fn
+N4 não contém “ela deu à luz
+\*fn
  pois considerou fiel aquele que havia prometido.
 \fn
-O versículo também pode traduzido se referindo a Abraão: “Pela fé, com Sara, ele recebeu a capacidade de produzir descendência, e já na idade avançada ela deu à luz, pois ele considerou fiel aquele que havia prometido”
+O versículo também pode traduzido se referindo a Abraão: “Pela fé, com Sara, ele recebeu a capacidade de produzir descendência, e já 
+na idade avançada
+ ela deu à luz
+, pois ele considerou fiel aquele que havia prometido”
 \*fn
 \v Hb.11.12
 Assim, de um que estava à beira da morte, nasceu 
@@ -1154,11 +1311,14 @@ uma descendência
 \*added
  numerosa como as estrelas do céu, e incontável como a areia na praia do mar.
 \v Hb.11.13
- 
 \added
 Permanecendo
 \*added
- na fé, todos esses morreram sem receberem as promessas. Mas as viram de longe, creram,
+ na fé, todos esses morreram sem receberem as promessas. Mas as viram de longe,
+ creram,
+\fn
+RP, N4 não contêm “creram”
+\*fn
  e felicitaram-se nelas, declarando que eram estrangeiros e peregrinos na terra.
 \v Hb.11.14
 Pois os que dizem tais coisas mostram claramente que estão buscando a 
@@ -1207,7 +1367,7 @@ Pela fé, José, no fim de sua vida,
 \key
 no fim de sua vida
 \*key
-lit. finalizando [sua vida],isto é, morrendo
+lit. finalizando [sua vida], i.e. morrendo
 \*fn
  mencionou a saída dos filhos de Israel, e deu ordem acerca dos seus ossos.
 \v Hb.11.23
@@ -1217,7 +1377,11 @@ Pela fé, Moisés, sendo já crescido, recusou ser chamado filho da filha de far
 \v Hb.11.25
 pois preferiu ser maltratado com o povo de Deus a ter por um tempo o prazer do pecado.
 \v Hb.11.26
-Ele considerou que as humilhações por causa de Cristo eram riquezas maiores que os tesouros no
+Ele considerou que as humilhações por causa de Cristo eram riquezas maiores que os tesouros 
+no
+\fn
+RP, N4: do
+\*fn
  Egito; pois sua atenção estava fixada na recompensa.
 \v Hb.11.27
 Pela fé, ele deixou o Egito sem temer a ira do rei, pois perseverou como que vendo aquele que é invisível.
@@ -1226,7 +1390,7 @@ Pela fé, ele celebrou a Páscoa e o derramamento do sangue, para que o destruid
 \v Hb.11.29
 Pela fé, atravessaram o mar Vermelho, como que por 
 \added
- terra 
+terra 
 \*added
  seca, o que, quando os Egípcios tentaram, afogaram-se.
 \v Hb.11.30
@@ -1248,7 +1412,7 @@ Pela fé, esses venceram reinos, exercitaram justiça, alcançaram promessas,
 \key
 alcançaram promessas
 \*key
-isto é, alcançaram o que lhes fora prometido
+i.e. alcançaram o que lhes fora prometido
 \*fn
  fecharam bocas de leões,
 \v Hb.11.34
@@ -1258,7 +1422,12 @@ As mulheres receberam de volta os seus mortos pela ressurreição; e outros fora
 \v Hb.11.36
 e outros experimentaram provação de insultos e açoites, e até correntes e prisões;
 \v Hb.11.37
-foram apedrejados,  serrados, tentados,
+foram apedrejados, 
+ serrados, 
+tentados,
+\fn
+N4 inverte a ordem de “tentados” e “serrados”
+\*fn
  morreram pela espada; andaram 
 \added
 vestidos
@@ -1278,7 +1447,7 @@ pois Deus havia preparado algo melhor para nós, para que, sem nós, eles não f
 \key
 sem nós, … aperfeiçoados
 \*key
-isto é: para que eles fossem aperfeiçoados somente conosco
+i.e. para que eles fossem aperfeiçoados somente conosco
 \*fn
 \v Hb.12.1
 Portanto nós também, posto que estamos rodeados por uma tão grande nuvem de testemunhas, deixemos toda sobrecarga, 
@@ -1307,6 +1476,9 @@ pois o Senhor disciplina a quem ama, e açoita a todo filho a quem recebe.
 \*ref
 \v Hb.12.7
 Se suportais a disciplina,
+\fn
+RP, N4: É para a disciplina que suportais
+\*fn
  Deus vos trata como filhos; pois que filho há a quem o pai não discipline?
 \v Hb.12.8
 Mas se estais sem disciplina, da qual todos são feitos participantes, então sois ilegítimos, e não filhos.
@@ -1345,7 +1517,11 @@ Ninguém seja pecador sexual, ou profano como Esaú, que por uma refeição vend
 \v Hb.12.17
 Pois vós sabeis que depois, quando ele quis herdar a benção, foi rejeitado, porque não achou lugar para arrependimento, ainda que com lágrimas o tenha buscado.
 \v Hb.12.18
-Porque não chegastes a um monte
+Porque não chegastes a 
+um monte
+\fn
+N4 não contém “um monte”
+\*fn
  palpável, aceso com fogo, e à escuridão, às trevas, e à tempestade;
 \v Hb.12.19
 ao som da trombeta, e à voz das palavras, que os que a ouviam, rogaram que não mais se lhes falasse palavra alguma;
@@ -1354,10 +1530,15 @@ ao som da trombeta, e à voz das palavras, que os que a ouviam, rogaram que não
 \added
 lhes
 \*added
- era ordenado: Se até um animal tocar o monte, seja apedrejado ou perfurado com um dardo. 
+ era ordenado: Se até um animal tocar o monte, seja apedrejado
+ ou perfurado com um dardo
+. 
 \ref
 Êxodo 19:12,13 
 \*ref
+\fn
+RP, N4 não contêm “ou perfurado com um dardo”
+\*fn
 \v Hb.12.21
 E a visão era tão terrível, que Moisés disse: Estou assombrado e tremendo). 
 \ref
@@ -1368,7 +1549,11 @@ Mas vós chegastes ao monte Sião, à cidade do Deus vivo, a Jerusalém celestia
 \v Hb.12.23
 à universal congregação e igreja dos primogênitos inscritos nos Céus, e a Deus, o Juiz de todos, e aos espíritos dos justos já aperfeiçoados;
 \v Hb.12.24
-e a Jesus, o Mediador de um Novo Testamento, e ao sangue da aspersão, que fala melhores coisas
+e a Jesus, o Mediador de um Novo Testamento, e ao sangue da aspersão, que fala 
+melhores coisas
+\fn
+RP, N4: melhor coisa
+\*fn
  que 
 \added
 o de
@@ -1385,8 +1570,12 @@ nos adverte
 \*added
  dos Céus.
 \v Hb.12.26
-Sua voz fez a terra tremer naquela ocasião, mas agora ele prometeu, dizendo: Ainda uma vez faço 
-tremer
+Sua voz fez a terra tremer naquela ocasião, mas agora ele prometeu, dizendo: Ainda uma vez 
+faço
+ tremer
+\fn
+N4: farei tremer
+\*fn
  não somente a terra, mas também o Céu. 
 \ref
 Ageu 2:6 
@@ -1405,7 +1594,11 @@ graça
 \*key
 ou: gratidão
 \*fn
- e por ela sirvamos
+ 
+e por ela sirvamos
+\fn
+RP: pela qual servimsos
+\*fn
  a Deus de maneira que o agrade, com devoção e temor,
 \v Hb.12.29
 pois o nosso Deus é um fogo consumidor. 
@@ -1424,7 +1617,11 @@ vossos
 \*added
  corpos.
 \v Hb.13.4
-O matrimônio seja honrado entre todos, e o leito conjugal sem contaminação; mas
+O matrimônio seja honrado entre todos, e o leito conjugal sem contaminação; 
+mas
+\fn
+N4:pois
+\*fn
  Deus julgará os pecadores sexuais e os adúlteros.
 \v Hb.13.5
 A 
@@ -1451,7 +1648,12 @@ Lembrai-vos dos vossos líderes, que vos falaram a palavra de Deus. Observai o r
 Jesus Cristo é o mesmo ontem, hoje, e eternamente.
 \v Hb.13.9
 Não vos deixeis levar por doutrinas diversas e estranhas. Pois é bom ao coração ser fortificado pela graça, e não 
-com alimentos, que não foram de proveito algum aos que com eles se ocuparam.
+com alimentos, que não foram de proveito algum aos que com eles se 
+ocuparam
+.
+\fn
+N4: ocupam
+\*fn
 \v Hb.13.10
 Temos um altar, do qual os que servem no tabernáculo não têm o direito de comer;
 \v Hb.13.11
@@ -1476,7 +1678,11 @@ Obedecei aos vossos líderes, e sede
  submissos, porque eles vigiam pelas vossas almas, como quem irá prestar contas; para que façam isso com alegria, e não 
 gemendo, pois isso não vos seria proveitoso.
 \v Hb.13.18
-Orai por nós; porque confiamos
+Orai por nós; porque 
+confiamos
+\fn
+N4: estamos convencidos de
+\*fn
  que temos boa consciência, e desejamos nos comportar corretamente em tudo.
 \v Hb.13.19
 E rogo
@@ -1488,18 +1694,39 @@ vos
 Ora, o Deus da paz, o qual, pelo sangue do testamento eterno, trouxe dos mortos o nosso 
 Senhor Jesus, o grande Pastor das ovelhas, 
 \v Hb.13.21
-vos aperfeiçoe em toda boa obra,
- para fazerdes a sua vontade, operando em vós
+vos aperfeiçoe em 
+toda boa obra
+,
+\fn
+N4: todo bem
+\*fn
+ para fazerdes a sua vontade, operando em 
+vós
+\fn
+N4: nós
+\*fn
  o que é agradável diante dele, por meio de Jesus Cristo, a quem seja a glória para todo o sempre. Amém!
 \v Hb.13.22
 Eu vos rogo, porém, irmãos, que suportai esta palavra de exortação; pois eu vos escrevi de maneira breve.
 \v Hb.13.23
-Sabei que o  irmão
+Sabei que o 
+ irmão
+\fn
+N4: nosso irmão
+\*fn
  Timóteo já está solto. Se ele vier depressa, com ele eu vos verei.
 \v Hb.13.24
 Saudai a todos os vossos líderes, e a todos os santos. Os da Itália vos saúdam.
 \v Hb.13.25
-A graça seja com todos vós.  Amém.
+A graça seja com todos vós.
+ Amém.
+\fn
+N4 não contém “Amém”
+\*fn
+ 
 \added
 Escrita da Itália para os Hebreus, e enviada por Timóteo
 \*added
+\fn
+RP, N4 não contêm “Escrita da Itália para os Hebreus, e enviada por Timóteo”
+\*fn

@@ -21,21 +21,35 @@ Que nos consola em toda aflição nossa, para que também possamos consolar aos 
 \v 2Co.1.5
 Porque assim como os sofrimentos de Cristo são abundantes em nós, assim também por Cristo é abundante nossa consolação.
 \v 2Co.1.6
-Porém se nós somos afligidos, é para vossa consolação e salvação, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos
+Porém se nós somos afligidos, é para vossa consolação e salvação
+, que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos
+\fn
+N4 contém “que opera enquanto se suporta os mesmos sofrimentos que nós também sofremos” após a última ocorrência da palavra “consolação” do versículo
+\*fn
 ;
+\fn
+RP contém “e a esperança por nós é firme” no versículo 6, em vez do versículo 7
+\*fn
  se estamos consolados, 
 \added
 também é
 \*added
- para vossa consolação e salvação
+ para vossa consolação
+ e salvação
+.
+\fn
+N4 não contém “e salvação”
+\*fn
 \v 2Co.1.7
-E nossa esperança por vós é firme, sabendo que, como sois participantes dos sofrimentos, assim também 
+E nossa esperança por vós é firme,
+ sabendo que, como sois participantes dos sofrimentos, assim também 
 \added
 sois
 \*added
  da consolação.
 \v 2Co.1.8
-Porque, irmãos, não queremos que ignoreis nossa aflição que nos sobreveio na Ásia, em que fomos excessivamente oprimidos, mais do que podíamos suportar, de tal modo que já tínhamos perdido a esperança de sobrevivermos.
+Porque, irmãos, não queremos que ignoreis nossa aflição que nos sobreveio na Ásia, em que fomos excessivamente 
+oprimidos, mais do que podíamos suportar, de tal modo que já tínhamos perdido a esperança de sobrevivermos.
 \v 2Co.1.9
 Por isso já tínhamos em nós mesmos a sentença de morte, para que não confiássemos em nós mesmos, mas sim em Deus, que ressuscita aos mortos;
 \v 2Co.1.10
@@ -59,7 +73,8 @@ a Deus
 \*added
  por nós.
 \v 2Co.1.12
-Porque nosso orgulho é este: o testemunho de nossa consciência, que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas com a graça de Deus, nós nos comportamos no mundo, e especialmente convosco.
+Porque nosso orgulho é este: o testemunho de nossa consciência, que com simplicidade e sinceridade de Deus, não com 
+sabedoria carnal, mas com a graça de Deus, nós nos comportamos no mundo, e especialmente convosco.
 \v 2Co.1.13
 Porque nenhuma outra coisa vos escrevemos, a não ser as que já sabeis, ou também entendeis; e espero que as entendereis por completo.
 \v 2Co.1.14
@@ -275,7 +290,9 @@ Porque Deus, que disse que das trevas brilhasse a luz, é o
 \added
 mesmo
 \*added
- que brilhou em nossos corações, para a iluminação do conhecimento da glória de Deus, na face de Jesus Cristo.
+ que brilhou em nossos corações, para a iluminação do conhecimento da glória de Deus, na face de
+ Jesus
+ Cristo.
 \v 2Co.4.7
 Porém temos este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.
 \v 2Co.4.8
@@ -301,7 +318,9 @@ Salmos 116:110
 \*ref
  nós também cremos, e, por isso, também falamos,
 \v 2Co.4.14
-pois sabemos que aquele que ressuscitou o Senhor Jesus também nos ressuscitará por meio de Jesus, e 
+pois sabemos que aquele que ressuscitou o Senhor Jesus também nos ressuscitará 
+por meio de
+ Jesus, e 
 \added
 nos
 \*added
@@ -460,7 +479,7 @@ eles
 \v 2Co.6.17
 Portanto: saí do meio deles, e vos separai, diz o Senhor; e não toqueis coisa impura, e eu vos aceitarei.
 \v 2Co.6.18
-E eu vos serei por Pai, e vós sereis para mim filhos e filhas,diz o Senhor Todo Poderoso.
+E eu vos serei por Pai, e vós sereis para mim filhos e filhas, diz o Senhor Todo Poderoso.
 \v 2Co.7.1
 Amados, por termos tais promessas, limpemo-nos de toda impureza da carne e do espírito, aperfeiçoando a santificação no temor de Deus.
 \v 2Co.7.2
@@ -550,7 +569,12 @@ depois
 \v 2Co.8.6
 De maneira que convocamos a Tito para que, assim como tinha começado antes, assim também terminasse esta graça entre vós.
 \v 2Co.8.7
-Portanto, assim como em tudo abundais: em fé, em palavra, em conhecimento, em todo empenho, e em vosso amor por nós;
+Portanto, assim como em tudo abundais: em fé, em palavra, em conhecimento, em todo empenho, e em 
+vosso amor por nós
+;
+\fn
+N4: nosso amor por vós
+\*fn
  sede também abundantes nesta graça.
 \v 2Co.8.8
 Eu não digo 
@@ -1055,3 +1079,6 @@ A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Sa
 \added
 A Segunda Carta aos Coríntios foi escrita de Filipos, na Macedônia, e enviada por Tito e Lucas.
 \*added
+\fn
+RP, N4 não contêm a descrição de como a carta foi produzida e enviada
+\*fn

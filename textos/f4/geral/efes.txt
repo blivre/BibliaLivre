@@ -11,10 +11,12 @@ Ef
 EPH
 \*ubs-code
 \v Ef.1.1
-Paulo, apóstolo de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
-{trnc:\fn
-N4: Cristo Jesus
-\*fn}
+Paulo, apóstolo de 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus
+{trnc}\fn
+{trnc}N4: Cristo Jesus
+{trnc}\*fn
  pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
 \v Ef.1.2
 Graça e paz, da parte de Deus nosso Pai, e do Senhor Jesus Cristo, 
@@ -34,18 +36,20 @@ em amor.
 \v Ef.1.5
 E nos predestinou como filhos adotados por meio de Jesus Cristo para si mesmo, conforme o bom prazer de sua vontade;
 \v Ef.1.6
-para louvor da glória de sua graça, {tr,rp:pela qual nos tornou aceitos}{n4:a qual nos concedeu gratuitamente}
-{trnc:\fn
-N4: a qual nos concedeu gratuitamente
-\*fn}
-{n4:\fn
-TR, RP: pela qual nos tornou aceitos
-\*fn}
+para louvor da glória de sua graça, 
+{tr|rp}pela qual nos tornou aceitos
+{n4}a qual nos concedeu gratuitamente
+{trnc}\fn
+{trnc}N4: a qual nos concedeu gratuitamente
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: pela qual nos tornou aceitos
+{n4}\*fn
  no Amado.
 \v Ef.1.7
 Nele temos a libertação
 \fn
-Ou: redenção, isto é, a libertação por meio do pagamento de um resgate
+Ou: redenção, i.e. a libertação por meio do pagamento de um resgate
 \*fn
  pelo seu sangue, o perdão dos pecados, conforme as riquezas da sua graça,
 \v Ef.1.8
@@ -87,10 +91,11 @@ não paro de agradecer
 \added
 a Deus
 \*added
- por vós, lembrando-me{tr,rp: de vós}
-{trnc:\fn
-N4 não contém “de vós”
-\*fn}
+ por vós, lembrando-me
+{tr|rp} de vós
+{trnc}\fn
+{trnc}N4 não contém “de vós”
+{trnc}\*fn
  em minhas orações.
 \v Ef.1.17
 \added
@@ -102,10 +107,13 @@ Lit. Pai da glória
 \*fn
 , vos dê o Espírito de sabedoria e de revelação no conhecimento dele;
 \v Ef.1.18
-e que sejam iluminados os olhos do vosso {tr:entendimento}{rp,n4:coração},
-{trnc: \fn
-RP, N4: coração 
-\*fn}
+e que sejam iluminados os olhos do vosso 
+{tr}entendimento
+{rp|n4}coração
+,
+{trnc}\fn
+{trnc}RP, N4: coração 
+{trnc}\*fn
  para que conheçais qual é a esperança para a qual ele chamou, quais 
 \added
 são
@@ -127,10 +135,12 @@ para a Igreja,
 \v Ef.1.23
 que é o seu corpo, a plenitude daquele que enche tudo em todas as coisas.
 \v Ef.2.1
-E vós estáveis mortos em{n4: vossas} ofensas
-{trnc:\fn
-N4: vossas ofensas
-\*fn}
+E vós estáveis mortos em
+{n4} vossas
+ ofensas
+{trnc}\fn
+{trnc}N4: vossas ofensas
+{trnc}\*fn
  e pecados,
 \v Ef.2.2
 nos quais antes andastes conforme o proceder deste mundo, conforme o príncipe do poder do ar, do espírito que agora 
@@ -206,10 +216,11 @@ Ele veio, e proclamou o evangelho da paz a vós que
 \added
 estáveis
 \*added
- longe, e{n4: paz}
-{trnc:\fn
- N4: e paz
-\*fn}
+ longe, e
+{n4} paz
+{trnc}\fn
+{trnc}N4: e paz
+{trnc}\*fn
  aos que estavam perto.
 \v Ef.2.18
 Pois por meio dele ambos temos acesso ao Pai por um 
@@ -220,10 +231,12 @@ mesmo
 \v Ef.2.19
 Portanto, já não sois estrangeiros, nem forasteiros, mas sim, concidadãos dos santos, e membros da família de Deus,
 \v Ef.2.20
-edificados sobre o fundamento dos apóstolos e dos profetas, do qual {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
-{trnc:\fn
-N4: Cristo Jesus
-\*fn}
+edificados sobre o fundamento dos apóstolos e dos profetas, do qual 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus
+{trnc}\fn
+{trnc}N4: Cristo Jesus
+{trnc}\*fn
  é a pedra principal da esquina.
 \v Ef.2.21
 Nele o edifício todo, bem ajustado, cresce para 
@@ -276,14 +289,16 @@ isto é,
 \added
 membros
 \*added
- de um mesmo corpo, e participantes da{tr,rp: sua}
-{tnrc:\fn
-N4 não contém “sua”
-\*fn}
- promessa em Cristo{n4: Jesus}
-{trnc:\fn
-N4: Cristo Jesus
-\*fn}
+ de um mesmo corpo, e participantes da
+{tr|rp} sua
+{tnrc}\fn
+{tnrc}N4 não contém “sua”
+{tnrc}\*fn
+ promessa em Cristo
+{n4} Jesus
+{trnc}\fn
+{trnc}N4: Cristo Jesus
+{trnc}\*fn
  por meio do evangelho.
 \v Ef.3.7
 Eu fui feito servidor desse 
@@ -292,32 +307,37 @@ evangelho
 \*added
  conforme o dom da graça de Deus, que me foi dada segundo a operação do seu poder.
 \v Ef.3.8
-A mim, o menor de todos os santos, foi dada esta graça de anunciar {tr,rp:entre os}{n4:aos} gentios,
-{trnc:\fn
-N4: aos gentios
-\*fn}
- por meio do Evangelho, as 
-inimagináveis riquezas de Cristo,
+A mim, o menor de todos os santos, foi dada esta graça de anunciar 
+{tr|rp}entre os
+{n4}aos gentios,
+{trnc}\fn
+{trnc}N4: aos gentios
+{trnc}\*fn
+ por meio do Evangelho, as inimagináveis riquezas de Cristo,
 \v Ef.3.9
-E para esclarecer{tr,rp: a todos}
-{trnc:\fn
-N4 não contém “a todos”
-\*fn}
- qual é a {tr:comunhão}{rp,n4:administração
-\fn
-Ou, tradicionalmente: dispensação
-\*fn}{trnc: 
-\fn
-RP, N4: dispensação 
-\*fn}
- do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas{tr,rp: por meio de 
-Jesus Cristo},
-{trnc:\fn
-N4 omite “por meio de Jesus Cristo” 
-\*fn}
-{n4:\fn
-TR, RP contêm adicionalmente “por meio de Jesus Cristo” ao final do versículo 
-\*fn}
+E para esclarecer
+{tr|rp} a todos
+{trnc}\fn
+{trnc}N4 não contém “a todos”
+{trnc}\*fn
+ qual é a 
+{tr}comunhão
+{rp|n4}administração
+{rp|n4}\fn
+{rp|n4}Ou, tradicionalmente: dispensação
+{rp|n4}\*fn
+{trnc}\fn
+{trnc}RP, N4: administração
+{trnc}\*fn
+ do mistério que desde as eras passadas esteve oculto em Deus, que criou todas as coisas
+{tr|rp} por meio de Jesus Cristo
+,
+{trnc}\fn
+{trnc}N4 não contém “por meio de Jesus Cristo” 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “por meio de Jesus Cristo” ao final do versículo 
+{n4}\*fn
 \v Ef.3.10
 para que a multiforme sabedoria de Deus seja agora manifestada pela igreja aos domínios e autoridades nos lugares celestes,
 \v Ef.3.11
@@ -338,13 +358,15 @@ vos
 \*added
  peço que não vos desanimeis em minhas aflições por vós. Elas são a vossa glória.
 \v Ef.3.14
-Por causa disso me ponho de joelhos diante do Pai{tr,rp: do nosso Senhor Jesus Cristo};
-{trnc: \fn
-N4 omite “do nosso Senhor Jesus Cristo” 
-\*fn}
-{n4:\fn
-TR, RP acrescentam: “do nosso Senhor Jesus Cristo” ao fim do versículo 
-\*fn}
+Por causa disso me ponho de joelhos diante do Pai
+{tr|rp} do nosso Senhor Jesus Cristo
+;
+{trnc}\fn
+{trnc}N4 não contém “do nosso Senhor Jesus Cristo” 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “do nosso Senhor Jesus Cristo” ao fim do versículo 
+{n4}\*fn
 \v Ef.3.15
 do qual toda a família nos céus e na terra recebe nome.
 \v Ef.3.16
@@ -375,11 +397,12 @@ e conhecer o amor de Cristo, que excede o entendimento, para que sejais cheios d
 \v Ef.3.20
 E quanto àquele que é poderoso para fazer tudo muito mais abundantemente do que pedimos ou pensamos, segundo o poder que opera em nós,
 \v Ef.3.21
-a ele seja a glória na Igreja,{n4: e} em
-{trnc:
-\fn
-N4: e em
-\*fn}
+a ele seja a glória na Igreja,
+{n4} e
+ em
+{trnc}\fn
+{trnc}N4: e em
+{trnc}\*fn
  Cristo Jesus, por todas as gerações para todo o sempre, Amém!
 \v Ef.4.1
 Portanto, eu, o prisioneiro no Senhor, rogo-vos que andeis como é digno do chamado com que fostes chamados,
@@ -420,13 +443,16 @@ um
 \added
 só
 \*added
- Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos{tr vós}{rp:nós}.
-{trnc:\fn
-\key
-todos vós
-\*key
-RP: todos nós ; N4: todos
-\*fn}
+ Deus, e Pai de todos, que é acima de todos, por meio de todos, e em todos
+{tr}vós
+{rp}nós
+.
+{trnc}\fn
+{trnc}\key
+{trnc}todos vós
+{trnc}\*key
+{trnc}RP: todos nós ; N4: todos
+{trnc}\*fn
 \v Ef.4.7
 Mas a graça foi dada a cada um de nós conforme a medida do dom de Cristo.
 \v Ef.4.8
@@ -439,10 +465,11 @@ Ou: levou os cativos
 Salmos 68:18
 \*ref
 \v Ef.4.9
-(O que significa este “ele subiu”, senão que ele também{tr,rp: antes}
-{trnc:\fn
-N4 não contém “antes”
-\*fn}
+(O que significa este “ele subiu”, senão que ele também
+{tr|rp} antes
+{trnc}\fn
+{trnc}N4 não contém “antes”
+{trnc}\*fn
  tinha descido às partes mais baixas da terra?)
 \v Ef.4.10
 Aquele que desceu é também o mesmo que subiu muito acima de todos os céus, para preencher
@@ -477,10 +504,11 @@ Pelo contrário, sigamos a verdade em amor, e cresçamos em tudo naquele que é 
 É dele que todo o corpo, bem ajustado e unido por todos os ligamentos, conforme a operação de cada parte na medida 
 devida, proporciona o crescimento do corpo, para a sua própria edificação em amor.
 \v Ef.4.17
-Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os{tr,rp: outros}
-{trnc:\fn
-N4 não contém “outros”
-\*fn}
+Portanto digo isso, e dou testemunho no Senhor, que não andeis mais como os
+{tr|rp} outros
+{trnc}\fn
+{trnc}N4 não contém “outros”
+{trnc}\*fn
  gentios andam, na futilidade das suas mentes.
 \v Ef.4.18
 Esses têm o entendimento nas trevas, e estão separados da vida de Deus pela ignorância que há neles, pela dureza do seu coração.
@@ -515,10 +543,12 @@ Lit. Irai-vos, e não pequeis
 \v Ef.4.27
 nem deis lugar ao diabo.
 \v Ef.4.28
-O que furtava, não furte mais; em vez disso, trabalhe, operando com as{n4: próprias} mãos
-{trnc:\fn
-N4: as próprias mãos
-\*fn}
+O que furtava, não furte mais; em vez disso, trabalhe, operando com as
+{n4} próprias
+ mãos
+{trnc}\fn
+{trnc}N4: as próprias mãos
+{trnc}\*fn
  o bem, para que tenha o que repartir com o que tiver necessidade.
 \v Ef.4.29
 Não saia de vossa boca palavra imoral; mas sim a boa para a edificação conforme a necessidade; para que comunique graça aos que a ouvem.
@@ -535,10 +565,12 @@ perdoou em Cristo.
 \v Ef.5.1
 Portanto, sede imitadores de Deus, como filhos amados;
 \v Ef.5.2
-e andai em amor, como também Cristo {tr,rp:nos}{n4:vos}
-{trnc:\fn
-N4: vos
-\*fn}
+e andai em amor, como também Cristo 
+{tr|rp}nos
+{n4}vos
+{trnc}\fn
+{trnc}N4: vos
+{trnc}\*fn
  amou, e se entregou por nós como oferta e sacrifício de cheiro suave a Deus.
 \v Ef.5.3
 Mas o pecado sexual, e toda impureza ou cobiça, nem mesmo se nomeie entre vós, como convém a santos;
@@ -561,13 +593,15 @@ sois
 \*added
  luz no Senhor; andai como filhos da luz
 \v Ef.5.9
-(porque o fruto {tr,rp:do Espírito}{n4:da luz}
-{trnc:\fn
-N4: fruto da luz 
-\*fn}
-{n4:\fn
-TR, RP: fruto do Espírito 
-\*fn}
+(porque o fruto 
+{tr|rp}do Espírito
+{n4}da luz
+{trnc}\fn
+{trnc}N4: fruto da luz 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: fruto do Espírito 
+{n4}\*fn
 \added
 consiste
 \*added
@@ -600,12 +634,18 @@ falando entre vós com salmos, hinos e cânticos espirituais; cantando e louvand
 \v Ef.5.20
 agradecendo sempre por tudo a Deus, o Pai, no nome do nosso Senhor Jesus Cristo;
 \v Ef.5.21
-sujeitando-vos uns aos outros no temor a {tr:Deus}{rp,n4:Cristo}.
+sujeitando-vos uns aos outros no temor a 
+{tr}Deus
+{rp|n4}Cristo
+{trnc}\fn
+{trnc}N4, RP: temor a Cristo
+{trnc}\*fn
+.
 \v Ef.5.22
 Mulheres, 
-{n4:\added}
+{n4}\added
 sujeitai-vos
-{n4:\*added}
+{n4}\*added
  aos vossos próprios maridos, assim como ao Senhor;
 \v Ef.5.23
 porque o marido é o cabeça da mulher, como também Cristo é o cabeça da Igreja, e ele é o salvador do corpo.
@@ -614,7 +654,9 @@ Mas, assim como a Igreja está sujeita a Cristo, assim também as mulheres
 \added
 estejam
 \*added
- em tudo sujeitas aos{tr,rp: seus próprios} maridos.
+ em tudo sujeitas aos
+{tr|rp} seus próprios
+ maridos.
 \v Ef.5.25
 Maridos, amai as vossas próprias esposas, assim como também Cristo amou a Igreja, e se entregou por ela;
 \v Ef.5.26
@@ -631,31 +673,33 @@ Assim os maridos devem amar as suas próprias esposas como os seus próprios cor
 si mesmo;
 \v Ef.5.29
 pois ninguém jamais odiou a sua própria carne; mas a alimenta e sustenta, assim como também 
-{tr,rp:o Senhor}{n4:Cristo}
-{trnc:\fn
-\key
-o Senhor
-\*key
-N4: Cristo
-\*fn}
+{tr|rp}o Senhor
+{n4}Cristo
+{trnc}\fn
+{trnc}\key
+{trnc}o Senhor
+{trnc}\*key
+{trnc}N4: Cristo
+{trnc}\*fn
  à Igreja.
 \v Ef.5.30
-pois somos membros de seu corpo{tr,rp:, da sua carne, e dos seus ossos}.{trnc: 
-\fn
-N4 omite “da sua carne, e dos seus ossos” 
-\*fn
-}{n4: 
-\fn
-TR, RP acrescentam: “da sua carne, e dos seus ossos” ao fim do versículo 
-\*fn}
+pois somos membros de seu corpo
+{tr|rp}, da sua carne, e dos seus ossos
+.
+{trnc}\fn
+{trnc}N4 não contém “da sua carne, e dos seus ossos” 
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêma adicionalmente: “da sua carne, e dos seus ossos” ao fim do versículo 
+{n4}\*fn
 \v Ef.5.31
 Por isso o homem deixará o
-{n4:\added}
+{n4}\added
 seu
-{n4:\*added}
-{trnc:\fn
-N4 não contém “seu”
-\*fn}
+{n4}\*added
+{trnc}\fn
+{trnc}N4 não contém “seu”
+{trnc}\*fn
  pai e 
 \added
 a sua
@@ -703,22 +747,22 @@ que
 \*added
  com ele não há acepção de pessoas.
 \v Ef.6.10
-Por fim,{tr,rp: meus irmãos,}
-{trnc:\fn
-N4 não contém “meus irmãos”
-\*fn}
+Por fim,
+{tr|rp} meus irmãos,
+{trnc}\fn
+{trnc}N4 não contém “meus irmãos”
+{trnc}\*fn
  fortalecei-vos no Senhor e na força do seu poder.
 \v Ef.6.11
 Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as ciladas do diabo.
 \v Ef.6.12
-Pois temos de lutar não contra carne e sangue, mas sim contra os domínios e poderes, contra os senhores 
-{tr,rp:das trevas deste mundo}{n4:destas trevas},
-{trnc:\fn
-\key
-das trevas deste mundo
-\*key
-N4: destas trevas
-\*fn}
+Pois temos de lutar não contra carne e sangue, mas sim contra os principados e poderes, contra os dominadores 
+{tr|rp} das trevas desta era
+{n4} destas trevas
+{trnc}\fn
+{trnc}N4: não contém “desta era”, trazendo: “dominadores destas trevas”
+{trnc}\*fn
+,
  contra os males espirituais nos lugares celestes.
 \v Ef.6.13
 Portanto pegai toda a armadura de Deus, para que possais resistir no dia mal, e depois que fizerdes tudo, continuar firmes.
@@ -727,10 +771,11 @@ Estai, pois, firmes, com a vossa cintura envolvida com o cinturão da verdade, e
 \v Ef.6.15
 e calçados os pés com a prontidão do evangelho da paz.
 \v Ef.6.16
-{tr,rp:Sobretudo pegai}{n4:Em tudo pegai}
-{trnc:\fn
-N4: Em tudo pegai
-\*fn}
+{tr|rp}Sobretudo pegai
+{n4}Em tudo pegai
+{trnc}\fn
+{trnc}N4: Em tudo pegai
+{trnc}\*fn
  o escudo da fé, com o qual podereis apagar todas as flechas inflamadas do maligno.
 \v Ef.6.17
 Pegai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus;
@@ -770,14 +815,13 @@ com amor que não falha
 \*key
 Lit. em incorrupção
 \*fn
- {tr,rp:Amém!}
-{trnc:\fn
-N4 não contém “Amém!”
-\*fn}
-{tr:\added
-Escrita de Roma para os efésios, e enviada por Tíquico
-\*added}
-{trnc: 
-\fn
-RP, N4 não incluem “Escrita de Roma para os efésios, e enviada por Tíquico”
-\*fn}
+{tr|rp} Amém!
+{trnc}\fn
+{trnc}N4 não contém “Amém!”
+{trnc}\*fn
+{tr}\added
+{tr}Escrita de Roma para os efésios, e enviada por Tíquico
+{tr}\*added
+{trnc}\fn
+{trnc}RP, N4 não contêm “Escrita de Roma para os efésios, e enviada por Tíquico”
+{trnc}\*fn

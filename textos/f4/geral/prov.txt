@@ -542,7 +542,7 @@ chegará
 \*added
  a ti como um homem armado.
 \v Prv.6.12
-O homem mal, o homem injusto, anda com uma boca perversa.
+O homem mau, o homem injusto, anda com uma boca perversa.
 \v Prv.6.13
 Ele acena com os olhos, fala com seus pés, aponta com seus dedos.
 \v Prv.6.14
@@ -974,7 +974,7 @@ divertida é
 \v Prv.10.24
 O temor do perverso virá sobre ele, mas o desejo dos justos será concedido.
 \v Prv.10.25
-Assim como o vento passa, assim também o perverso não 
+Assim como a tempestade passa, assim também o perverso não 
 \added
 mais
 \*added
@@ -1371,7 +1371,11 @@ Aquele que anda corretamente teme ao SENHOR; mas o que se desvia de seus caminho
 \v Prv.14.3
 Na boca do tolo está a vara da arrogância, porém os lábios dos sábios os protegem.
 \v Prv.14.4
-Não havendo bois, o celeiro fica limpo; mas pela força do boi há uma colheita abundante.
+Não havendo bois, o celeiro fica vazio;
+\fn
+Trad. alt. a manjedoura fica vazia
+\*fn
+ mas pela força do boi há uma colheita abundante.
 \v Prv.14.5
 A testemunha verdadeira não mentirá, mas a testemunha falsa declara mentiras.
 \v Prv.14.6
@@ -1711,7 +1715,7 @@ Quem perdoa a transgressão busca a amizade; mas quem repete o assunto afasta am
 \v Prv.17.10
 A repreensão entra mais profundamente no prudente do que cem açoites no tolo.
 \v Prv.17.11
-Na verdade quem é mal busca somente a rebeldia; mas o mensageiro cruel será enviado contra ele.
+Na verdade quem é mau busca somente a rebeldia; mas o mensageiro cruel será enviado contra ele.
 \v Prv.17.12
  
 \added
@@ -1721,7 +1725,7 @@ Na verdade quem é mal busca somente a rebeldia; mas o mensageiro cruel será en
 \added
 de seus filhotes
 \*added
-,do que um tolo em sua loucura.
+, do que um tolo em sua loucura.
 \v Prv.17.13
 Quanto ao que devolve o mal no lugar do bem, o mal nunca se afastará de sua casa.
 \v Prv.17.14
@@ -1735,11 +1739,7 @@ Quem absolve ao perverso e quem condena ao justo, ambos são abomináveis ao SEN
 \v Prv.17.16
 Para que serve o dinheiro na mão do tolo, já que ele não tem interesse em obter sabedoria?
 \v Prv.17.17
-O amigo ama em todo tempo, e o irmão nasce para 
-\added
-ajudar
-\*added
- na angústia.
+O amigo ama em todo tempo, e o irmão nasce para a adversidade.
 \v Prv.17.18
 O homem imprudente assume compromisso, ficando como fiador de seu próximo.
 \v Prv.17.19
@@ -1751,15 +1751,19 @@ as palavras de
 \*added
  sua língua cairá no mal.
 \v Prv.17.21
-Quem gera o louco 
+Quem gera o tolo, 
 \added
-cria
+o faz
 \*added
- sua própria tristeza; e o pai do imprudente não se alegrará.
+ para sua própria tristeza; e o pai do imprudente não se alegrará.
 \v Prv.17.22
 O coração alegre é um bom remédio, mas o espírito abatido faz os ossos se secarem.
 \v Prv.17.23
-O perverso toma o presente do seio, para perverter os caminhos da justiça.
+O perverso recebe o suborno em segredo,
+\fn
+Lit. do seio
+\*fn
+ para perverter os caminhos da justiça.
 \v Prv.17.24
 A sabedoria está diante do rosto do prudente; porém os olhos do tolo 
 \added
@@ -3110,9 +3114,10 @@ Não aprendi sabedoria, nem tenho conhecimento do Santo
 \added
 Deus
 \*added
- .
+.
 \v Prv.30.4
-Quem subiu ao céu, e desceu? Quem juntou os ventos com suas mãos? Quem amarrou as águas numa capa? Quem estabeleceu todos os limites da terra? Qual é o seu nome? e qual é o nome de seu filho, se tu o sabes?
+Quem subiu ao céu e desceu? Quem recolheu o vento em suas mãos? Quem amarrou as águas numa capa? Quem estabeleceu 
+todos os limites da terra? Qual é o seu nome, e qual é o nome de seu filho, se tu o sabes?
 \v Prv.30.5
 Toda palavra de Deus é pura; é escudo para os que nele confiam.
 \v Prv.30.6

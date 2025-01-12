@@ -253,25 +253,27 @@ Fartou-me de amarguras, embebedou-me de absinto.
 \v Lm.3.16
 Quebrou os meus dentes com cascalho, cobriu-me de cinzas.
 \v Lm.3.17
-E afastou minha alma da paz, fez-me esquecer da boa vida.
-\fn
-\key
-boa vida
-\*key
-lit. bem
-\*fn
+E afastou minha alma da paz, fez-me esquecer do que é estar bem.
 \v Lm.3.18
 Então eu disse: Pereceram minha força e minha esperança no SENHOR.
 \v Lm.3.19
 Lembra-te da minha aflição e do meu sofrimento, do absinto e do fel.
 \v Lm.3.20
-Minha alma se lembra e se abate em mim.
+Minha alma sempre se lembra 
+\added
+disso
+\*added
+, e fica abatida dentro de mim.
 \v Lm.3.21
-Disto me recordarei na minha mente, por isso terei esperança:
+Isto trarei de volta à minha memória,
+\fn
+Lit. meu coração
+\*fn
+ por isso, terei esperança:
 \v Lm.3.22
-É pelas bondades do SENHOR que não somos consumidos, porque suas misericórdias não têm fim.
+É pelas leais bondades do SENHOR que não somos consumidos, porque suas misericórdias não têm fim.
 \v Lm.3.23
-Elas se renovam a cada manhã; grande é a tua fidelidade.
+Elas se renovam a cada manhã; grande é tua fidelidade.
 \v Lm.3.24
 Minha alma diz: o SENHOR é minha porção; portanto, nele esperarei.
 \v Lm.3.25
@@ -281,49 +283,37 @@ O SENHOR é bom para os que nele esperam, para a alma que o busca.
 \v Lm.3.27
 É bom ao homem levar o jugo em sua juventude.
 \v Lm.3.28
-Sente-se só, e fique quieto; pois ele o pôs sobre si.
+Assente-se só, e fique em silêncio; porque foi Deus que pôs isso sobre ele.
 \v Lm.3.29
 Ponha sua boca no pó; talvez haja esperança.
 \v Lm.3.30
 Dê a face ao que o ferir; farte-se de insultos.
 \v Lm.3.31
-Pois o Senhor não rejeitará para sempre:
+Pois o Senhor não rejeitará para sempre;
 \v Lm.3.32
-Mesmo que cause aflição, ele também se compadecerá segundo a grandeza de suas misericórdias.
+Ainda que cause aflição, ele se compadecerá segundo a grandeza de suas leais bondades.
 \v Lm.3.33
-Pois não é sua vontade
+Pois não é de sua vontade
 \fn
-\key
-não é sua vontade
-\*key
-lit. não é de seu coração
+lit. seu coração
 \*fn
  afligir nem entristecer os filhos dos homens.
 \v Lm.3.34
-Esmagar debaixo de seus pés a todos os prisioneiros da terra,
+Esmagar debaixo dos pés todos os prisioneiros da terra,
 \v Lm.3.35
-Perverter o direito do homem diante da presença do Altíssimo,
+perverter o direito do homem diante da presença do Altíssimo,
 \v Lm.3.36
-Prejudicar ao homem em sua causa: o Senhor não aprova
+prejudicar o ser humano em sua causa judicial; acaso o Senhor não veria isso?
 \fn
 \key
-aprova
+acaso o Senhor não veria isso?
 \*key
-lit. vê (semelhante ao sentido da expressão “ver com bons olhos”
+Trad. alt. “o Senhor não aprova isso.”
 \*fn
- ) 
-\added
-tais coisas
-\*added
-.
 \v Lm.3.37
-Quem é que pode fazer suceder 
-\added
-algo
-\*added
- que diz, se o Senhor não tiver mandado?
+Quem é que pode dizer e fazer acontecer, se o Senhor não tiver mandado?
 \v Lm.3.38
-Por acaso da boca do Altíssimo não sai tanto a maldição como a bênção?
+Acaso da boca do Altíssimo não sai tanto a maldição como a bênção?
 \fn
 \key
 tanto a maldição como a bênção
@@ -331,7 +321,7 @@ tanto a maldição como a bênção
 lit. tanto o mal como o bem
 \*fn
 \v Lm.3.39
-Por que o homem vivente se queixa da punição de seus próprios pecados?
+Por que o homem vivente se queixa do castigo por seus próprios pecados?
 \v Lm.3.40
 Examinemos nossos caminhos, investiguemos, e nos voltemos ao SENHOR.
 \v Lm.3.41
@@ -378,7 +368,7 @@ As águas inundaram sobre minha cabeça; eu disse: É o meu fim.
 \v Lm.3.55
 Invoquei o teu nome, SENHOR, desde a cova profunda.
 \v Lm.3.56
-Ouviste minha voz: não escondas o teu ouvido ao meu suspiro, ao meu clamor.
+Ouviste minha voz; não escondas o teu ouvido ao meu suspiro, ao meu clamor.
 \v Lm.3.57
 Tu te achegaste no dia em que te invoquei; disseste: Não temas.
 \v Lm.3.58
@@ -521,11 +511,11 @@ i.e., o rei de Judá
 \*fn
  do qual dizíamos: Abaixo de sua sombra teremos vida entre as nações; foi preso em suas covas.
 \v Lm.4.21
-Goza-te e alegra-te, filha de Edom, que habitas na terra de Uz: porém o cálice também passará por ti; tu te embriagarás, e te desnudarás.
+Jubila e alegra-te, filha de Edom, que habitas na terra de Uz; porém o cálice também passará por ti; tu ficarás embriagada, e te desnudarás.
 \v Lm.4.22
 Cumpriu-se o castigo por tua maldade, ó filha de Sião; nunca mais te levará em cativeiro. Ele punirá tua maldade, ó filha de Edom; revelará
 \fn
-revelará = i.e., descobrirá, deixará à mostra o que estava coberto
+revelará = i.e. descobrirá, deixará à mostra o que estava coberto
 \*fn
  os teus pecados.
 \v Lm.5.1

@@ -11,7 +11,9 @@ Fp
 PHP
 \*ubs-code
 \v Fp.1.1
-Paulo e Timóteo, servos de Cristo Jesus,
+Paulo e Timóteo, servos de 
+Cristo Jesus
+,
  a todos os santos em Cristo Jesus, que estão em Filipos, com os supervisores 
 \fn
 supervisores = equiv. bispos 
@@ -30,7 +32,8 @@ sempre em todas as minhas orações, com alegria, fazendo oração por todos vó
 por causa da vossa cooperação com o Evangelho desde o primeiro dia até agora.
 \v Fp.1.6
 E disto tenho certeza: aquele que começou em vós a boa obra irá completá-la até o dia de 
-Cristo Jesus.
+Cristo Jesus
+.
 \v Fp.1.7
 Assim como tenho por justo sentir isso de todos vós, pois eu vos tenho no coração, porque todos vós sois 
 participantes comigo da graça, tanto nas minhas prisões, como na defesa e confirmação do Evangelho.
@@ -45,31 +48,39 @@ Ou: culpa
 \*fn
 até o dia de Cristo;
 \v Fp.1.11
-cheios do fruto
- da justiça, que, por meio de Jesus Cristo, é para glória e louvor a Deus.
+cheios 
+do fruto
+ da justiça, que, por meio de Jesus Cristo, 
+é
+ para glória e louvor a Deus.
 \v Fp.1.12
 Mas quero, irmãos, que saibais que as coisas me aconteceram foram para o avanço do Evangelho,
 \v Fp.1.13
 de maneira que se tornou evidente a toda a guarda pretoriana, e a todos os demais, que as minhas prisões são em Cristo; 
 \v Fp.1.14
-e que a maioria dos irmãos no Senhor, depois de ganharem confiança com as minhas prisões, ousam falar a Palavra 
-de Deus
+e que a maioria dos irmãos no Senhor, depois de ganharem confiança com as minhas prisões, ousam falar a Palavra
+ de Deus
  muito mais, sem medo.
 \v Fp.1.15
 É verdade que também alguns pregam a Cristo por inveja e rivalidade, porém outros, também, de boa vontade.
 \v Fp.1.16
 Uns em verdade anunciam a Cristo por 
-amor, sabendo que fui posto para a defesa do Evangelho.
+amor, sabendo que fui posto para a defesa do Evangelho
+.
 \v Fp.1.17
 Mas outros 
 \added
 anunciam
 \*added
- por rivalidade egoísta, não sinceramente, 
-supondo que irão acrescentar aflição às minhas prisões.
+ por 
+rivalidade egoísta, não sinceramente, supondo que irão acrescentar aflição às minhas prisões
+.
 \v Fp.1.18
-Que, pois? Contanto que de qualquer maneira, ou com fingimento, ou em verdade, Cristo 
-seja anunciado;
+Que, pois? 
+Contanto que
+ de qualquer maneira, ou com fingimento, ou em verdade, Cristo 
+seja
+ anunciado;
  e nisto me alegro, e continuarei a me alegrar;
 \v Fp.1.19
 pois sei que isso me resultará em livramento pela vossa oração e pelo socorro do Espírito de Jesus Cristo;
@@ -115,7 +126,8 @@ Nada
 \added
 façais
 \*added
- por rivalidade egoísta nem
+ por rivalidade egoísta 
+nem
  por vanglória; mas, por humildade, cada um considere o outro superior a si mesmo.
 \v Fp.2.4
 Cada um seja atencioso, não 
@@ -136,7 +148,9 @@ Pelo contrário, ele esvaziou a si mesmo, tomando a forma de servo, e se tornou 
 \v Fp.2.8
 e, quando se encontrava em forma humana, humilhou a si mesmo, sendo obediente até a morte, e morte de cruz.
 \v Fp.2.9
-Por isso Deus também o exaltou em maneira suprema, e lhe deu o nome 
+Por isso Deus também o exaltou em maneira suprema, e lhe deu 
+o
+ nome 
  que é acima de todo nome;
 \v Fp.2.10
 a fim de que, no nome de Jesus, dobre-se todo joelho dos que estão nos céus, na terra, e debaixo da terra,
@@ -251,7 +265,9 @@ mesma
 \*added
  mentalidade; e se em algo pensais de maneira diferente, Deus também vos revelará isso.
 \v Fp.3.16
-Porém andemos conforme aquilo a que já chegamos.
+Porém
+ andemos conforme aquilo a que já chegamos
+.
 \fn
 TR, RP contêm: “Porém, naquilo ao qual já chegamos, andemos conforme a mesma regra, e tenhamos a mesma mentalidade” 
 \*fn
@@ -306,8 +322,8 @@ Não digo isso por causa de alguma necessidade, pois já aprendi a contentar-me 
 \v Fp.4.12
 Sei estar humilhado, e sei ter em abundância; em toda maneira e em todas as coisas estou instruído, tanto a estar farto, como a ter fome; tanto a ter em abundância, como a sofrer necessidade.
 \v Fp.4.13
-Posso todas as coisas naquele
- 
+Posso todas as coisas 
+naquele
 \fn
 TR, RP: em Cristo 
 \*fn
@@ -335,5 +351,6 @@ Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúd
 \v Fp.4.22
 Todos os santos vos saúdam, mas principalmente os da casa de César.
 \v Fp.4.23
-A graça do 
- Senhor Jesus Cristo esteja com  o vosso espírito.
+A graça do
+ Senhor Jesus Cristo esteja com 
+ o vosso espírito.

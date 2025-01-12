@@ -11,7 +11,12 @@ Fp
 PHP
 \*ubs-code
 \v Fp.1.1
-Paulo e Timóteo, servos de Jesus Cristo,
+Paulo e Timóteo, servos de 
+Jesus Cristo
+,
+\fn
+N4:Cristo Jesus 
+\*fn
  a todos os santos em Cristo Jesus, que estão em Filipos, com os supervisores 
 \fn
 supervisores = equiv. bispos 
@@ -29,8 +34,12 @@ sempre em todas as minhas orações, com alegria, fazendo oração por todos vó
 \v Fp.1.5
 por causa da vossa cooperação com o Evangelho desde o primeiro dia até agora.
 \v Fp.1.6
-E disto tenho certeza: aquele que começou em vós a boa obra irá completá-la até o dia de Jesus Cristo
+E disto tenho certeza: aquele que começou em vós a boa obra irá completá-la até o dia de 
+Jesus Cristo
 .
+\fn
+RP, N4: Cristo Jesus 
+\*fn
 \v Fp.1.7
 Assim como tenho por justo sentir isso de todos vós, pois eu vos tenho no coração, porque todos vós sois 
 participantes comigo da graça, tanto nas minhas prisões, como na defesa e confirmação do Evangelho.
@@ -45,30 +54,53 @@ Ou: culpa
 \*fn
 até o dia de Cristo;
 \v Fp.1.11
-cheios dos frutos
- da justiça, que, por meio de Jesus Cristo, são para glória e louvor a Deus.
+cheios 
+dos frutos
+\fn
+N4: fruto 
+\*fn
+ da justiça, que, por meio de Jesus Cristo, 
+são
+ para glória e louvor a Deus.
 \v Fp.1.12
 Mas quero, irmãos, que saibais que as coisas me aconteceram foram para o avanço do Evangelho,
 \v Fp.1.13
 de maneira que se tornou evidente a toda a guarda pretoriana, e a todos os demais, que as minhas prisões são em Cristo; 
 \v Fp.1.14
-e que a maioria dos irmãos no Senhor, depois de ganharem confiança com as minhas prisões, ousam falar a Palavra 
+e que a maioria dos irmãos no Senhor, depois de ganharem confiança com as minhas prisões, ousam falar a Palavra
+\fn
+N4 contém adicionalmente “de Deus” 
+\*fn
  muito mais, sem medo.
 \v Fp.1.15
 É verdade que também alguns pregam a Cristo por inveja e rivalidade, porém outros, também, de boa vontade.
 \v Fp.1.16
-Uns em verdade anunciam a Cristo por rivalidade egoísta, não sinceramente, supondo que irão acrescentar 
-aflição às minhas prisões.
+Uns em verdade anunciam a Cristo por 
+rivalidade egoísta, não sinceramente, supondo que irão acrescentar aflição às minhas prisões
+.
 \v Fp.1.17
 Mas outros 
 \added
 anunciam
 \*added
- por amor, sabendo que fui posto para a defesa do Evangelho
+ por 
+amor, sabendo que fui posto para a defesa do Evangelho
 .
+\fn
+N4 inverte as expressões do versículos 16 e 17: “por rivalidade ... prisões” e “por amor ... Evangelho” 
+\*fn
 \v Fp.1.18
-Que, pois? Afinal de qualquer maneira, ou com fingimento, ou em verdade, Cristo é
+Que, pois? 
+Afinal
+ de qualquer maneira, ou com fingimento, ou em verdade, Cristo 
+é
  anunciado;
+\fn
+\key
+Afinal, ... é anunciado
+\*key
+N4: Contanto que ... seja anunciado
+\*fn
  e nisto me alegro, e continuarei a me alegrar;
 \v Fp.1.19
 pois sei que isso me resultará em livramento pela vossa oração e pelo socorro do Espírito de Jesus Cristo;
@@ -114,7 +146,11 @@ Nada
 \added
 façais
 \*added
- por rivalidade egoísta ou
+ por rivalidade egoísta 
+ou
+\fn
+N4:nem 
+\*fn
  por vanglória; mas, por humildade, cada um considere o outro superior a si mesmo.
 \v Fp.2.4
 Cada um seja atencioso, não 
@@ -135,7 +171,12 @@ Pelo contrário, ele esvaziou a si mesmo, tomando a forma de servo, e se tornou 
 \v Fp.2.8
 e, quando se encontrava em forma humana, humilhou a si mesmo, sendo obediente até a morte, e morte de cruz.
 \v Fp.2.9
-Por isso Deus também o exaltou em maneira suprema, e lhe deu um nome 
+Por isso Deus também o exaltou em maneira suprema, e lhe deu 
+um
+ nome 
+\fn
+N4: o nome 
+\*fn
  que é acima de todo nome;
 \v Fp.2.10
 a fim de que, no nome de Jesus, dobre-se todo joelho dos que estão nos céus, na terra, e debaixo da terra,
@@ -250,7 +291,12 @@ mesma
 \*added
  mentalidade; e se em algo pensais de maneira diferente, Deus também vos revelará isso.
 \v Fp.3.16
-Porém, naquilo a que já chegamos, andemos conforme a mesma regra, e tenhamos a mesma mentalidade.
+Porém
+, naquilo a que já chegamos, andemos conforme a mesma regra, e tenhamos a mesma mentalidade
+.
+\fn
+N4 contém: “Porém andemos conforme aquilo a que já chegamos” 
+\*fn
 \v Fp.3.17
 Sede meus imitadores, irmãos, e observai atentamente os que assim andam, como o exemplo que tendes em nós;
 \v Fp.3.18
@@ -302,7 +348,14 @@ Não digo isso por causa de alguma necessidade, pois já aprendi a contentar-me 
 \v Fp.4.12
 Sei estar humilhado, e sei ter em abundância; em toda maneira e em todas as coisas estou instruído, tanto a estar farto, como a ter fome; tanto a ter em abundância, como a sofrer necessidade.
 \v Fp.4.13
-Posso todas as coisas em Cristo
+Posso todas as coisas 
+em Cristo
+\fn
+\key
+em Cristo
+\*key
+N4: naquele 
+\*fn
  que me fortalece.
 \v Fp.4.14
 Todavia, fizestes bem em compartilhardes da minha aflição.
@@ -327,10 +380,19 @@ Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúd
 \v Fp.4.22
 Todos os santos vos saúdam, mas principalmente os da casa de César.
 \v Fp.4.23
-A graça do nosso
- Senhor Jesus Cristo esteja com todos vós. Amém!
- 
+A graça do
+ nosso
+\fn
+RP, N4 não contêm “nosso” 
+\*fn
+ Senhor Jesus Cristo esteja com 
+todos vós. Amém!
+\fn
+N4: esteja com o vosso espírito 
+\*fn
 \added
 Para os filipenses. Escrita de Roma, enviada por Epafrodito
 \*added
- 
+\fn
+RP, N4 não contêm “Para os filipenses. Escrita de Roma, enviada por Epafrodito”
+\*fn

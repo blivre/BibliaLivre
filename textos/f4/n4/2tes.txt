@@ -76,8 +76,8 @@ apostasia
 \*key
 ou: rebelião 
 \*fn
-e se manifeste o homem da injustiça,
- 
+e se manifeste o homem 
+da injustiça,
 \fn
 TR, RP: homem do pecado 
 \*fn
@@ -89,9 +89,8 @@ sobre
 \*added
  tudo que é adorado; por isso ele se sentará no templo de Deus
 ,
- 
 \fn
-TR, RP acrescentam “como [se fosse] Deus” 
+TR, RP contêm adicionalmente “como [se fosse] Deus” 
 \*fn
  fazendo-se parecer Deus.
 \v 2Ts.2.5

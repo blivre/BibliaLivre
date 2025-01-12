@@ -132,8 +132,12 @@ Porque não quis saber coisa alguma entre vós, a não ser Jesus Cristo, e ele c
 \v 1Co.2.3
 E eu estive convosco em fraqueza, em temor, e em grande tremor.
 \v 1Co.2.4
-E a minha palavra e a minha pregação não foram em {tr,n4:palavras persuasivas}{rp:persuasão} de 
-sabedoria{tr: humana}, mas sim, em demonstração do Espírito e de poder;
+E a minha palavra e a minha pregação não foram em 
+{tr|n4}palavras persuasivas
+{rp}persuasão
+ de sabedoria
+{tr} humana
+, mas sim, em demonstração do Espírito e de poder;
 \v 1Co.2.5
 para que a vossa fé não fosse em sabedoria humana, mas sim, no poder de Deus.
 \v 1Co.2.6
@@ -314,17 +318,18 @@ Totalmente se ouve
 \added
 que há
 \*added
- entre vós pecados sexuais, e tais pecados sexuais que nem mesmo entre os gentios{tr,rp: se nomeia}
-{n4:\added
-há
-\*added}
+ entre vós pecados sexuais, e tais pecados sexuais que nem mesmo entre os gentios
+{tr|rp} se nomeia
+{n4}\added
+{n4}há
+{n4}\*added
 ,
-{trnc:\fn
-N4 omite “se nomeia”
-\*fn}
-{n4:\fn
-TR, RP: “nem mesmo entre os gentios se nomeia”
-\*fn}
+{trnc}\fn
+{trnc}N4 não contém “se nomeia”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: “nem mesmo entre os gentios se nomeia”
+{n4}\*fn
  como alguém que tomou como mulher a esposa de seu pai.
 \v 1Co.5.2
 E vós estais orgulhosos! Ao invés disso, vós não deveríeis se entristecer, para que fosse tirado do meio de vós o que cometeu esta atitude?
@@ -453,13 +458,15 @@ que
 \*added
  não sois de vós mesmos?
 \v 1Co.6.20
-Porque vós fostes comprados por alto preço; então glorificai a Deus em vosso corpo{tr,rp:, e em vosso espírito, que são de Deus}.
-{trnc:\fn
-N4 omite: “e em vosso espírito, que são de Deus”
-\*fn}
-{n4:\fn
-TR, RP acrescentam: “e em vosso espírito, que são de Deus”
-\*fn}
+Porque vós fostes comprados por alto preço; então glorificai a Deus em vosso corpo
+{tr|rp}, e em vosso espírito, que são de Deus
+.
+{trnc}\fn
+{trnc}N4 não contém “e em vosso espírito, que são de Deus”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “e em vosso espírito, que são de Deus”
+{n4}\*fn
 \v 1Co.7.1
 E sobre as coisas que me escrevestes, é bom que o homem não toque em mulher.
 \v 1Co.7.2
@@ -501,10 +508,12 @@ também
 \added
 situação
 \*added
- o irmão ou a irmã não estão sujeitos à servidão; mas Deus {tr,rp:nos}{n4:vos}
-{trnc:\fn
-N4: vos
-\*fn}
+ o irmão ou a irmã não estão sujeitos à servidão; mas Deus 
+{tr|rp}nos
+{n4}vos
+{trnc}\fn
+{trnc}N4: vos
+{trnc}\*fn
  chamou para a paz.
 \v 1Co.7.16
 Porque o que tu sabes, mulher, se salvarás ao marido? Ou o que tu sabes, marido, se salvarás a mulher?
@@ -733,15 +742,15 @@ ainda
 \*added
  mais.
 \v 1Co.9.20
-E me fiz como judeu para os judeus, para ganhar aos judeus; como que estivesse debaixo da Lei,{n4:, ainda que eu mesmo não esteja debaixo da Lei
-\fn
-TR, RP omitem: “ainda que eu mesmo não esteja debaixo da Lei”
-\*fn
- }{trnc:
-\fn
-N4 acrescenta: “ainda que eu mesmo não esteja debaixo da Lei”
-\*fn
- } para os que estão debaixo da Lei, para ganhar aos que estão debaixo da Lei.
+E me fiz como judeu para os judeus, para ganhar aos judeus; como que estivesse debaixo da Lei,
+{n4}, ainda que eu mesmo não esteja debaixo da Lei
+{n4}\fn
+{n4}TR, RP não contêm: “ainda que eu mesmo não esteja debaixo da Lei”
+{n4}\*fn
+{trnc}\fn
+{trnc}N4 contém adicionalmente: “ainda que eu mesmo não esteja debaixo da Lei”
+{trnc}\*fn
+ para os que estão debaixo da Lei, para ganhar aos que estão debaixo da Lei.
 \v 1Co.9.21
 Ao que estão sem Lei, como se estivesse sem Lei ( 
 \added
@@ -783,15 +792,15 @@ os
 \v 1Co.10.5
 Mas da maioria deles Deus não se agradou; por isso foram deixados no deserto.
 \v 1Co.10.6
-E estas coisas nos servem de exemplos, para que não desejemos coisas ruins, como eles desejaram.
+E estas coisas nos servem de exemplos, para que não cobicemos as coisas más, como eles cobiçaram.
 \v 1Co.10.7
 E não sejais idólatras, como alguns deles 
 \added
 foram
 \*added
-,como está escrito: O povo se sentou para comer, e para beber, e levantaram-se para se alegrarem.
+, como está escrito: O povo se assentou para comer, e para beber, e levantaram-se para se divertir.
 \v 1Co.10.8
-E não pequemos sexualmente, como alguns deles assim pecaram, e em um dia vinte e três mil caíram.
+E não pratiquemos o pecado sexual, como alguns deles assim pecaram, e num dia vinte e três mil caíram.
 \v 1Co.10.9
 E não tentemos a Cristo, como também alguns deles tentaram, e pereceram pelas serpentes.
 \v 1Co.10.10
@@ -881,21 +890,17 @@ da comida
 \*added
  pela graça, por que sou ofendido naquilo que dou graças?
 \v 1Co.10.31
-Portanto, ao comer, ou ao beber, ou ao fazer qualquer coisa, fazei tudo para a glória de Deus.
+Portanto, se comerdes, ou se beberdes, ou se fizerdes qualquer coisa, fazei tudo para a glória de Deus.
 \v 1Co.10.32
 Sede sem escândalo, nem a judeus, nem a gregos, nem à Igreja de Deus.
 \v 1Co.10.33
 Assim como eu também agrado a todos em tudo, não buscando meu próprio proveito, mas sim o de muitos, para que assim possam se salvar.
 \v 1Co.11.1
-Sede meus imitadores, assim como eu também sou de Cristo.
+Sede meus imitadores, como eu também sou de Cristo.
 \v 1Co.11.2
-Eu vos louvo, irmãos, de que em tudo vos lembrais de mim, e retendes 
-\added
-minhas
-\*added
- ordens, assim como eu vos entreguei.
+Eu vos elogio, irmãos, de que em tudo vos lembrais de mim, e retendes as tradições, assim como eu vos entreguei.
 \v 1Co.11.3
-Mas quero que saibais, que a cabeça de todo homem é Cristo; e a cabeça da mulher é o homem; e a cabeça de Cristo é Deus.
+Mas quero que saibais que a cabeça de todo homem é Cristo; e a cabeça da mulher é o homem; e a cabeça de Cristo é Deus.
 \v 1Co.11.4
 Todo homem que ora ou profetiza, tendo 
 \added
@@ -982,7 +987,7 @@ Porque quem come e bebe indignamente, para si mesmo come e bebe condenação, n�
 \v 1Co.11.30
 Por esta causa há entre vós muitos fracos e doentes, e muitos que dormem.
 \fn
-Isto é, muitos que morrem
+i.e. muitos que morrem
 \*fn
 \v 1Co.11.31
 Porque se nós julgássemos a nós mesmos, não seríamos julgados.
@@ -1402,7 +1407,7 @@ ainda
 \*added
  vive, e também alguns já dormem.
 \fn
-Isto é, alguns já morreram
+i.e. alguns já morreram
 \*fn
 \v 1Co.15.7
 Depois foi visto por Tiago; depois por todos os apóstolos.
@@ -1609,17 +1614,24 @@ corpo
 \*added
  mortal se vestir de imortalidade, então se cumprirá a palavra que está escrita: Na vitória, a morte é tragada.
 \v 1Co.15.55
-Onde está, ó morte, {tr,rp:o teu aguilhão}{n4:a tua vitória}? Onde está, ó {tr,rp:Xeol}{n4:morte},
-{tr,rp:\fn
-Xeol é o lugar dos mortos
-\*fn}
-{trnc:\fn
-N4: morte
-\*fn}
- {tr,rp:a tua vitória}{n4:o teu aguilhão}?
-{trnc:\fn
-N4 inverte a ordem das palavras “aguilhão” e “vitória”
-\*fn}
+Onde está, ó morte, 
+{tr|rp}o teu aguilhão
+{n4}a tua vitória
+? Onde está, ó 
+{tr|rp}Xeol
+{n4}morte
+,
+{tr|rp}\fn
+{tr|rp}Xeol é o lugar dos mortos
+{tr|rp}\*fn
+{trnc}\fn
+{trnc}N4: morte
+{trnc}\*fn
+{tr|rp} a tua vitória
+{n4} o teu aguilhão
+{trnc}\fn
+{trnc}N4 inverte a ordem das palavras “aguilhão” e “vitória”
+{trnc}\*fn
 \v 1Co.15.56
 O aguilhão da morte é o pecado, e a força do pecado é a Lei.
 \v 1Co.15.57

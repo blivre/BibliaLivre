@@ -76,18 +76,27 @@ apostasia
 \*key
 ou: rebelião 
 \*fn
-e se manifeste o homem do pecado,
+e se manifeste o homem 
+do pecado
+\fn
+N4: homem da injustiça 
+\*fn
  o filho da perdição.
 \v 2Ts.2.4
 O qual se opõe e se levanta sobre tudo o que se chama Deus, ou 
 \added
 sobre
 \*added
- tudo que é adorado; por isso ele se sentará no templo de Deus, como 
+ tudo que é adorado; por isso ele se sentará no templo de Deus
+, como 
 \added
 se fosse
 \*added
- Deus,
+ Deus
+,
+\fn
+N4 não contém “como [se fosse] Deus” 
+\*fn
  fazendo-se parecer Deus.
 \v 2Ts.2.5
 Não vos lembrais, que enquanto ainda estava convosco, eu vos dizia estas coisas?
@@ -193,8 +202,10 @@ A graça de nosso Senhor Jesus Cristo
 \added
 seja
 \*added
- com todos vós. Amém. 
+ com todos vós. Amém.
 \added
 A segunda carta aos tessalonicenses foi escrita de Atenas
 \*added
- 
+\fn
+RP, N4 não contêm “A segunda carta aos tessalonicenses foi escrita de Atenas”
+\*fn

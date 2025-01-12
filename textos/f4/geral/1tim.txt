@@ -11,10 +11,12 @@ Primeira Carta de Paulo a Timóteo
 1TI
 \*ubs-code
 \v 1Tm.1.1
-Paulo, apóstolo de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
-{trnc:\fn
-N4: Cristo Jesus
-\*fn}
+Paulo, apóstolo de 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus
+{trnc}\fn
+{trnc}N4: Cristo Jesus
+{trnc}\*fn
  segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, nossa esperança.
 \v 1Tm.1.2
 Para Timóteo, 
@@ -25,21 +27,24 @@ meu
 \added
 e
 \*added
- paz da parte de Deus{tr,rp:, nosso}
-{trnc:\fn
-N4 não contém “nosso”
-\*fn}
+ paz da parte de Deus
+{tr|rp}, nosso
+{trnc}\fn
+{trnc}N4 não contém “nosso”
+{trnc}\*fn
  Pai, e de Cristo Jesus, nosso Senhor.
 \v 1Tm.1.3
 Assim como te roguei quando eu estava indo à Macedônia, fica em Éfeso, para advertires a alguns que não ensinem outra doutrina,
 \v 1Tm.1.4
-Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a {tr:edificação}{rp,n4:administração}
-{trnc:\fn
-RP, N4: “administração”
-\*fn}
-{n4:\fn
-TR contém: edificação
-\*fn}
+Nem prestem atenção a mitos nem a genealogias intermináveis, que mais produzem discussões que a 
+{tr}edificação
+{rp|n4}administração
+{trnc}\fn
+{trnc}RP, N4: “administração”
+{trnc}\*fn
+{n4}\fn
+{n4}TR contém: edificação
+{n4}\*fn
  da parte de Deus na fé.
 \v 1Tm.1.5
 O fim do mandamento é o amor que vem de um coração puro, e de uma boa consciência, e de uma fé não fingida.
@@ -68,10 +73,8 @@ Ou: bem-aventurado
 \*fn
   que foi confiado a mim.
 \v 1Tm.1.12
-{tr,rp:E agradeço}{n4:Agradeço}
-{trnc:\fn
-N4 não contém “E”
-\*fn}
+{tr|rp}E agradeço
+{n4}Agradeço
  àquele que tem me fortalecido, Cristo Jesus, nosso Senhor, porque me considerou fiel, pondo-me no serviço.
 \fn
 Ou: ministério
@@ -88,10 +91,12 @@ eu sou o principal.
 Mas por isso me foi concedida misericórdia, para que em mim, o principal, Jesus Cristo mostrasse toda a sua paciência 
 como exemplo aos que haviam de crer nele para a vida eterna.
 \v 1Tm.1.17
-Ao Rei dos tempos, imortal, invisível, o único Deus{tr,rp: sábio},
-{trnc:\fn
-N4 não contém “sábio”
-\*fn}
+Ao Rei dos tempos, imortal, invisível, o único Deus
+{tr|rp} sábio
+,
+{trnc}\fn
+{trnc}N4 não contém “sábio”
+{trnc}\*fn
 \added
 seja
 \*added
@@ -113,11 +118,13 @@ e
 pelos reis, e por todos os que estão em posição superior, para que tenhamos uma vida quieta e sossegada, em toda devoção divina 
 e honestidade.
 \v 1Tm.2.3
-{tr,rp:Pois
-{trnc:\fn
-N4 não contém “Pois”
-\*fn}
- isso}{n4:Isso} é bom e agradável diante de Deus nosso Salvador;
+{tr|rp}Pois
+{trnc}\fn
+{trnc}N4 não contém “Pois”
+{trnc}\*fn
+{tr|rp} isso
+{n4}Isso
+ é bom e agradável diante de Deus nosso Salvador;
 \v 1Tm.2.4
 que quer que todas as pessoas se salvem e venham ao conhecimento da verdade.
 \v 1Tm.2.5
@@ -134,10 +141,11 @@ como
  testemunho ao seu tempo.
 \v 1Tm.2.7
 Para isso fui constituído pregador e apóstolo, instrutor dos gentios na fé e na verdade (estou dizendo a verdade 
-{tr,rp:em Cristo},
-{trnc:\fn
-N4 não contém “em Cristo”
-\*fn}
+{tr|rp}em Cristo
+,
+{trnc}\fn
+{trnc}N4 não contém “em Cristo”
+{trnc}\*fn
  não mentindo).
 \v 1Tm.2.8
 Portanto, quero que os homens orem em todo lugar, levantando mãos santas, sem ira nem briga.
@@ -179,15 +187,16 @@ Esta
 \v 1Tm.3.2
 É dever, portanto, que o bispo seja irrepreensível, marido de uma mulher, sóbrio, comedido, decente, hospitaleiro, apto para ensinar;
 \v 1Tm.3.3
-Não dado ao vinho, não violento{tr,rp:, não ganancioso},{trnc:
-\fn
-N4 omite “não ganancioso”
-\*fn
- }{n4:
-\fn
-TR, RP adicionam “não ganancioso”
-\*fn
- } mas sim moderado, não briguento, não cobiçoso por dinheiro;
+Não dado ao vinho, não violento
+{tr|rp}, não ganancioso
+,
+{trnc}\fn
+{trnc}N4 não contém “não ganancioso”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “não ganancioso”
+{n4}\*fn
+ mas sim, moderado, não briguento, não cobiçoso por dinheiro;
 \v 1Tm.3.4
 que governe bem a sua própria casa, e tenha os 
 \added
@@ -199,7 +208,7 @@ seus
 \v 1Tm.3.6
 Não um novo convertido; para que não se torne arrogante, e caia na condenação do diabo.
 \fn
-Isto é, da mesma maneira que o diabo foi condenado
+i.e. da mesma maneira que o diabo foi condenado
 \*fn
 \v 1Tm.3.7
 É dever também que tenha bom testemunho dos que estão de fora, para que não caia em reprovação pública e na cilada 
@@ -237,13 +246,15 @@ Lit. andar
 \*fn
  na casa de Deus, que é a igreja do Deus vivo, a coluna e o alicerce da verdade.
 \v 1Tm.3.16
-E, sem dúvida nenhuma, grande é o mistério da devoção divina: {tr,rp:Deus}{n4:Ele}
-{trnc:\fn
-N4 substitui “Deus” por “Ele”
-\*fn}
-{n4:\fn
-TR, RP substituem “Ele” por “Deus”
-\*fn}
+E, sem dúvida nenhuma, grande é o mistério da devoção divina: 
+{tr|rp}Deus
+{n4}Ele
+{trnc}\fn
+{trnc}N4 contém “Ele” em lugar de “Deus”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm “Deus” em lugar de “Ele”
+{n4}\*fn
  foi revelado em carne, justificado em Espírito, visto pelos anjos, pregado aos gentios, crido no mundo, e recebido 
 acima em glória.
 \v 1Tm.4.1
@@ -271,10 +282,13 @@ Se informares
 \fn
 Lit. propuseres
 \*fn
- essas coisas aos irmãos, serás um bom servidor de {tr,rp:Jesus Cristo}{n4:Cristo Jesus},
-{trnc:\fn
-N4: “Cristo Jesus”
-\*fn}
+ essas coisas aos irmãos, serás um bom servidor de 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus
+,
+{trnc}\fn
+{trnc}N4: “Cristo Jesus”
+{trnc}\*fn
  alimentado com as palavras da fé e de boa doutrina que tens seguido.
 \v 1Tm.4.7
 Mas rejeita os mitos profanos e de velhas, e exercita-te na devoção divina.
@@ -287,22 +301,27 @@ Esta
 \*added
  palavra é fiel, e digna de toda aceitação.
 \v 1Tm.4.10
-Pois para isto {tr,rp:também} trabalhamos e {tr,rp:somos insultados}{n4:lutamos},{trnc:
-\fn
-TR, RP: “somos insultados” - N4: “lutamos”
-\*fn}
-{n4:\fn
-N4: “lutamos” :: TR, RP: “somos insultados”
-\*fn}
+Pois para isto
+{tr|rp} também
+ trabalhamos e 
+{tr|rp}somos insultados
+{n4}lutamos
+,
+{trnc}\fn
+{trnc}TR, RP: “somos insultados” - N4: “lutamos”
+{trnc}\*fn
+{n4}\fn
+{n4}N4: “lutamos” - TR, RP: “somos insultados”
+{n4}\*fn
  porque esperamos o Deus vivo, que é o Salvador de todos, especialmente dos crentes.
 \v 1Tm.4.11
 Manda essas coisas, e ensina.
 \v 1Tm.4.12
 Ninguém despreze a tua juventude, mas sê exemplo aos crentes, na palavra, no comportamento, no amor,
-{tr,rp: em espírito,}
-{trnc:\fn
-N4 não contém “em espírito”
-\*fn}
+{tr|rp} em espírito,
+{trnc}\fn
+{trnc}N4 não contém “em espírito”
+{trnc}\*fn
  na fé, e na pureza.
 \v 1Tm.4.13
 Persiste na leitura 
@@ -311,7 +330,7 @@ pública
 \*added
 ,
 \fn
-Isto é, leitura pública das escrituras
+i.e. leitura pública das escrituras
 \*fn
  na exortação e no ensino, até que eu venha.
 \v 1Tm.4.14
@@ -332,10 +351,11 @@ Mas, se alguma viúva tiver filhos ou netos, aprendam primeiro a exercer piedade
 \fn
 Lit. casa
 \*fn
- e a recompensar os seus pais; porque isso é{tr: bom e}
-{trnc:\fn
-RP, N4 não contêm “bom e”
-\*fn}
+ e a recompensar os seus pais; porque isso é
+{tr} bom e
+{trnc}\fn
+{trnc}RP, N4 não contêm “bom e”
+{trnc}\*fn
  agradável diante de Deus.
 \v 1Tm.5.5
 A que é verdadeiramente viúva e desamparada espera em Deus, e persevera noite e dia em rogos e orações.
@@ -370,12 +390,16 @@ e
 \v 1Tm.5.15
 Pois algumas já se desviaram e seguiram Satanás.
 \v 1Tm.5.16
-Se{tr,rp: algum crente ou}
-{trnc:\fn
-N4 não contém “algum crente ou”
-\*fn}
- alguma crente tem viúvas, que as ajude, e não sobrecarregue a igreja, para que ela possa ajudar as 
-que são de verdade viúvas.
+Se
+{tr|rp} algum crente ou
+{trnc}\fn
+{trnc}N4 não contém “algum crente ou”
+{trnc}\*fn
+ alguma crente tem viúvas 
+\added
+na família
+\*added 
+, que as ajude, e não sobrecarregue a igreja, para que ela possa ajudar as que de verdade são viúvas.
 \v 1Tm.5.17
 Os presbíteros 
 \added
@@ -397,15 +421,17 @@ Não aceites acusação contra um presbítero, a não ser com duas ou três test
 \v 1Tm.5.20
 Aos que pecarem, repreende-os na presença de todos, para que os outros também tenham temor.
 \v 1Tm.5.21
-Ordeno-te, diante de Deus, {tr,rp:do Senhor Jesus Cristo}{n4:de Cristo Jesus},
-{trnc:\fn
-\key
-do Senhor Jesus Cristo
-\*key
-N4: de Cristo Jesus
-\*fn}
- e dos anjos escolhidos, que guardes essas coisas sem preconceitos, 
-fazendo nada por favoritismo.
+Ordeno-te, diante de Deus, 
+{tr|rp}do Senhor Jesus Cristo
+{n4}de Cristo Jesus
+,
+{trnc}\fn
+{trnc}\key
+{trnc}do Senhor Jesus Cristo
+{trnc}\*key
+{trnc}N4: de Cristo Jesus
+{trnc}\*fn
+ e dos anjos escolhidos, que guardes essas coisas sem preconceitos, fazendo nada por favoritismo.
 \v 1Tm.5.22
 A ninguém imponhas as mãos apressadamente, nem participes dos pecados alheios; conserva-te puro.
 \v 1Tm.5.23
@@ -438,35 +464,38 @@ que é conforme a devoção divina,
 é presunçoso, e nada sabe. Em vez disso, se interessa de maneira doentia por questões e disputas de palavras, das 
 quais nascem invejas, brigas, blasfêmias, suspeitas maldosas,
 \v 1Tm.6.5
-{tr:discussões inúteis}{rp,n4:conflitos constantes}
-{trnc:\fn
-\key
-discussões inúteis
-\*key
-N4: conflitos constantes
-\*fn}
+{tr}discussões inúteis
+{rp|n4}conflitos constantes
+{trnc}\fn
+{trnc}\key
+{trnc}discussões inúteis
+{trnc}\*key
+{trnc}N4: conflitos constantes
+{trnc}\*fn
  de pessoas corrompidas de entendimento, e privadas da verdade, que pensam que a devoção divina
- é um meio de lucrar.{tr,rp: Afasta-te dos tais.}{trnc:
-\fn
-N4 omite “Afasta-te dos tais”
-\*fn}
-{n4:\fn
-TR, RP acrescentam: “Afasta-te dos tais” ao final do versículo
-\*fn}
+ é um meio de lucrar.
+{tr|rp} Afasta-te dos tais.
+{trnc}\fn
+{trnc}N4 não contém “Afasta-te dos tais”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “Afasta-te dos tais” ao final do versículo
+{n4}\*fn
 \v 1Tm.6.6
 Mas grande lucro é a devoção divina acompanhada de contentamento.
 \v 1Tm.6.7
 Pois nada trouxemos ao mundo, e 
-{tr,rp:\added
-é
-\*added
- evidente que}{n4:portanto}
-{trnc:\fn
-\key
-é evidente que
-\*key
-N4: portanto
-\*fn}
+{tr|rp}\added
+{tr|rp}é
+{tr|rp}\*added
+{tr|rp} evidente que
+{n4}portanto,
+{trnc}\fn
+{trnc}\key
+{trnc}é evidente que
+{trnc}\*key
+{trnc}N4: portanto
+{trnc}\*fn
  nada podemos levar dele.
 \v 1Tm.6.8
 Mas se tivermos alimento e algo com que nos cobrirmos, estejamos contentes com isso.
@@ -479,10 +508,11 @@ a si mesmos com muitas dores.
 \v 1Tm.6.11
 Porém tu, homem de Deus, foge dessas coisas. Segue a justiça, a devoção divina, a fé, o amor, a paciência, a mansidão.
 \v 1Tm.6.12
-Que lutes a boa luta da fé; agarra a vida eterna para a qual{tr: também}
-{trnc:\fn
-RP, N4 não contêm “também”
-\*fn}
+Que lutes a boa luta da fé; agarra a vida eterna para a qual
+{tr} também
+{trnc}\fn
+{trnc}RP, N4 não contêm “também”
+{trnc}\*fn
  foste chamado, e confessaste a boa confissão diante de muitas testemunhas.
 \v 1Tm.6.13
 Mando-te diante de Deus, que dá vida a todas as coisas, e de Cristo Jesus, que diante de Pôncio Pilatos testemunhou a 
@@ -499,11 +529,13 @@ Ou: bem-aventurado
 o único a ter imortalidade, e que habita em luz inacessível; aquele a quem nenhum ser humano viu, nem pode ver; a ele 
 seja honra e poder para sempre! Amém.
 \v 1Tm.6.17
-Manda aos ricos desta era que não sejam soberbos, nem ponham a esperança na incerteza das riquezas, mas sim 
-{tr,rp:no Deus vivo}{n4:em Deus},
-{trnc:\fn
-N4 não contém “vivo”
-\*fn}
+Manda aos ricos desta era que não sejam soberbos, nem ponham a esperança na incerteza das riquezas, mas sim, 
+{tr|rp}no Deus vivo
+{n4}em Deus
+,
+{trnc}\fn
+{trnc}N4 não contém “vivo”
+{trnc}\*fn
  que nos dá abundantemente todas as coisas 
 \added
 que são
@@ -512,13 +544,16 @@ que são
 \v 1Tm.6.18
 que façam o bem, sejam ricos em boas obras, dispostos a compartilhar, e generosos.
 \v 1Tm.6.19
-que acumulem para si mesmos um bom fundamento para o futuro, para que obtenham a {tr,rp:vida eterna}{n4:verdadeira vida}.
-{trnc:\fn
-TR, RP: vida eterna – N4: verdadeira vida
-\*fn}
-{n4:\fn
-N4: verdadeira vida :: TR, RP: vida eterna
-\*fn}
+que acumulem para si mesmos um bom fundamento para o futuro, para que obtenham a 
+{tr|rp}vida eterna
+{n4}verdadeira vida
+.
+{trnc}\fn
+{trnc}TR, RP: vida eterna – N4: verdadeira vida
+{trnc}\*fn
+{n4}\fn
+{n4}N4: verdadeira vida :: TR, RP: vida eterna
+{n4}\*fn
 \v 1Tm.6.20
 Timóteo, guarda o depósito que 
 \added
@@ -530,15 +565,16 @@ que alguns declararam seguir, e se desviaram da fé. A graça
 \added
 seja
 \*added
- {tr,rp:contigo. Amém}{n4:convosco}.
-{trnc:\fn
-N4 contém “convosco”, e não contém “Amém”
-\*fn} 
-{tr: 
-\added
-A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana
-\*added
-.}
-{trnc:\fn
-RP, N4 não contêm “A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana”
-\*fn}
+{tr|rp} contigo. Amém
+{n4}convosco
+.
+{trnc}\fn
+{trnc}TR, RP: “contigo. Amém.” - N4: “convosco.”
+{trnc}\*fn
+ 
+{tr}\added
+{tr}A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana.
+{tr}\*added
+{trnc}\fn
+{trnc}RP, N4 não contêm “A primeira carta a Timóteo foi escrita de Laodiceia, que é a principal cidade da Frígia Pacaciana”
+{trnc}\*fn

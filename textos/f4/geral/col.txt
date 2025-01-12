@@ -11,34 +11,37 @@ Cl
 COL
 \*ubs-code
 \v Cl.1.1
-Paulo, apóstolo de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
-{trnc:\fn
-N4: Cristo Jesus
-\*fn}
+Paulo, apóstolo de 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus
+{trnc}\fn
+{trnc}N4: Cristo Jesus
+{trnc}\*fn
  pela vontade de Deus, e o irmão Timóteo,
 \v Cl.1.2
 aos santos e fiéis irmãos em Cristo, que estão em Colossos. 
 \added
 Haja
 \*added
- em vós a graça e paz da parte de Deus nosso Pai{tr,rp:, e do Senhor Jesus Cristo}.{trnc:
-\fn
-N4 não contém “e do Senhor Jesus Cristo”
-\*fn
-}{n4:
-\fn
-TR, RP contêm “e do Senhor Jesus Cristo” ao final do versículo
-\*fn}
+ em vós a graça e paz da parte de Deus nosso Pai
+{tr|rp}, e do Senhor Jesus Cristo
+.
+{trnc}\fn
+{trnc}N4 não contém “e do Senhor Jesus Cristo”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm “e do Senhor Jesus Cristo” ao final do versículo
+{n4}\*fn
 \v Cl.1.3
 Agradecemos ao Deus e Pai do nosso Senhor Jesus Cristo, sempre orando por vós;
 \v Cl.1.4
 pois ouvimos falar da vossa fé em Cristo Jesus, e do amor 
-{tr,rp:\added}
+{tr|rp}\added
 que tendes
-{tr,rp:\*added}
-{trnc:\fn
-N4 contém “amor que tendes”
-\*fn}
+{tr|rp}\*added
+{trnc}\fn
+{trnc}N4 contém “amor que tendes”
+{trnc}\*fn
  para com todos os santos;
 \v Cl.1.5
 por causa da esperança que está reservada para vós nos céus. Anteriormente ouvistes dessa esperança
@@ -47,10 +50,11 @@ a palavra “esperança” foi repetida para simplificar uma frase longa
 \*fn
  pala palavra da verdade do evangelho,
 \v Cl.1.6
-que já chegou a vós, como também em todo o mundo; e vai frutificando {rp,n4:e crescendo}
-{trnc:\fn
-RP, N4 contêm “frutificando e crescendo”
-\*fn}
+que já chegou a vós, como também em todo o mundo; e vai frutificando
+{rp|n4} e crescendo
+{trnc}\fn
+{trnc}RP, N4 contêm “frutificando e crescendo”
+{trnc}\*fn
  assim como entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade.
 \v Cl.1.7
 Aprendestes o evangelho
@@ -76,21 +80,25 @@ diante
 \v Cl.1.11
 capacitados em todo fortalecimento, segundo o poder da sua glória, em toda perseverança e paciência com alegria,
 \v Cl.1.12
-agradecendo ao Pai, que {tr,rp:nos}{n4:vos}
-{trnc:\fn
-N4: vos capacitou
-\*fn}
+agradecendo ao Pai, que 
+{tr|rp}nos
+{n4}vos
+{trnc}\fn
+{trnc}N4: vos capacitou
+{trnc}\*fn
  capacitou a participar da herança dos santos na luz.
 \v Cl.1.13
 Ele nos tirou do domínio das trevas, e nos transportou para o reino do seu amado Filho,
 \v Cl.1.14
-em quem temos a redenção{tr: pelo seu sangue}:
-{trnc:\fn
-TR, RP omitem: “pelo seu sangue”
-\*fn}
-{rp,n4:\fn
-TR contém: “redenção pelo seu sangue”
-\*fn}
+em quem temos a redenção
+{tr} pelo seu sangue
+:
+{trnc}\fn
+{trnc}TR, RP não contêm: “pelo seu sangue”
+{trnc}\*fn
+{rp|n4}\fn
+{rp|n4}TR contém: “redenção pelo seu sangue”
+{rp|n4}\*fn
  o perdão dos pecados.
 \v Cl.1.15
 Ele é a imagem do Deus invisível, o primogênito de toda a criação;
@@ -138,10 +146,12 @@ Ele é quem anunciamos, advertindo a toda pessoa, e ensinando a toda pessoa, com
 \added
 como
 \*added
- completa em Cristo{tr,rp: Jesus}.
-{trnc:\fn
-N4 não contém “Jesus”
-\*fn}
+ completa em Cristo
+{tr|rp} Jesus
+.
+{trnc}\fn
+{trnc}N4 não contém “Jesus”
+{trnc}\*fn
 \v Cl.1.29
 Para isso eu também trabalho, lutando conforme a eficácia dele, que age em mim com poder.
 \fn
@@ -161,13 +171,15 @@ Lit. em carne
 \*fn
 \v Cl.2.2
 para que os seus corações sejam consolados, e estejam unidos em amor, e em todas as riquezas da pleno entendimento, 
-para conhecimento do mistério de Deus{tr,rp:, e do Pai, e de}{n4::} Cristo.
-{trnc:\fn
-N4 omite “e do Pai, e de”, e contém: “mistério de Deus: Cristo”
-\*fn}
-{n4:\fn
-TR, RP contêm: “mistério de Deus, e do Pai, e de Cristo”
-\*fn}
+para conhecimento do mistério de Deus
+{tr|rp}, e do Pai, e de
+{n4}, Cristo.
+{trnc}\fn
+{trnc}N4 não contém “e do Pai, e de”, e contém: “mistério de Deus, Cristo”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm: “mistério de Deus, e do Pai, e de Cristo”
+{n4}\*fn
 \v Cl.2.3
 Nele estão ocultos todos os tesouros da sabedoria e do conhecimento.
 \v Cl.2.4
@@ -177,10 +189,11 @@ Pois ainda que esteja ausente em corpo, todavia em espírito estou convosco, ale
 \v Cl.2.6
 Portanto, assim como recebestes Cristo Jesus, o Senhor, assim também andai nele;
 \v Cl.2.7
-com raízes firmes e edificados nele, e confirmados na fé, como fostes ensinados, abundando{tr,rp: nela}
-{trnc:\fn
-N4 não contém “nela”
-\*fn}
+com raízes firmes e edificados nele, e confirmados na fé, como fostes ensinados, abundando
+{tr|rp} nela
+{trnc}\fn
+{trnc}N4 não contém “nela”
+{trnc}\*fn
  com gratidão.
 \v Cl.2.8
 Cuidado que ninguém vos tome cativos por meio de filosofias e de enganos vãos, conforme a tradição humana, conforme os elementos do mundo, e não conforme Cristo.
@@ -193,14 +206,15 @@ Nele também fostes circuncidados com uma circuncisão não feita por mãos,
 \added
 mas sim
 \*added
-, no abandono do corpo{tr,rp: dos pecados}
-{trnc:\fn
-N4 não contém “dos pecados”
-\*fn}
+, no abandono do corpo
+{tr|rp} dos pecados
+{trnc}\fn
+{trnc}N4 não contém “dos pecados”
+{trnc}\*fn
  da carne,
-{n4:\fn
-TR, RP contém: “corpo dos pecados da carne”
-\*fn}
+{n4}\fn
+{n4}TR, RP contém: “corpo dos pecados da carne”
+{n4}\*fn
  pela circuncisão de Cristo;
 \v Cl.2.12
 sepultados com ele no batismo, no qual também com ele fostes ressuscitados pela fé no poder de Deus, que o ressuscitou dos mortos.
@@ -234,22 +248,27 @@ Ninguém, pois, se faça de juiz contra vós, insistindo nos pretextos de “hum
 \fn
 Ou: “culto dos anjos”
 \*fn
-, envolvendo-se {tr,rp:em coisas que nunca viu}{n4:em suas “visões”},
-{trnc:\fn
-TR, RP: “intrometendo-se em coisas que nunca viu” - N4: “prolongando-se em suas ‘visões’”
-\*fn}
-{n4:\fn
-N4: “prolongando-se em suas ‘visões’”; TR, RP “intrometendo-se em coisas que nunca viu”
-\*fn}
+, envolvendo-se 
+{tr|rp}em coisas que nunca viu
+{n4}em suas “visões”
+,
+{trnc}\fn
+{trnc}TR, RP: “intrometendo-se em coisas que nunca viu” - N4: “prolongando-se em suas ‘visões’”
+{trnc}\*fn
+{n4}\fn
+{n4}N4: “prolongando-se em suas ‘visões’”; TR, RP “intrometendo-se em coisas que nunca viu”
+{n4}\*fn
  vangloriando-se em sua mentalidade carnal,
 \v Cl.2.19
 e não se ligando à cabeça, da qual todo o corpo, suprido e organizado pelas juntas e ligamentos, vai crescendo com o crescimento da parte de Deus.
 \v Cl.2.20
-{tr:Portanto,{trnc:
-\fn
-RP, N4 não contêm “Portanto”
-\*fn}
- se}{rp,n4:Se} estais mortos com Cristo para os elementos do mundo, por que vos sujeitais a ordenanças como se vivêsseis no mundo,
+{tr}Portanto,
+{trnc}\fn
+{trnc}RP, N4 não contêm “Portanto”
+{trnc}\*fn
+{tr} se
+{rp|n4}Se
+ estais mortos com Cristo para os elementos do mundo, por que vos sujeitais a ordenanças como se vivêsseis no mundo,
 \v Cl.2.21
 \added
 tais como
@@ -282,13 +301,15 @@ são elas
 \*added
 : o pecado sexual, a impureza, a paixão depravada, o desejo maligno, e a ganância, que é idolatria.
 \v Cl.3.6
-Por causa delas que a ira de Deus vem{tr,rp: sobre os filhos da desobediência}.
-{trnc:\fn
-N4 não contém “sobre os filhos da desobediência”
-\*fn}
-{n4:\fn
-TR, RP contêm “sobre os filhos da desobediência”
-\*fn}
+Por causa delas que a ira de Deus vem
+{tr|rp} sobre os filhos da desobediência
+.
+{trnc}\fn
+{trnc}N4 não contém “sobre os filhos da desobediência”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm “sobre os filhos da desobediência”
+{n4}\*fn
 \v Cl.3.7
 Nessas coisas também vós andastes antes, quando vivíeis nelas.
 \v Cl.3.8
@@ -310,10 +331,12 @@ nem
 \v Cl.3.12
 Por isso, como escolhidos de Deus, santos e amados, revesti-vos de sentimentos de misericórdia, bondade, humildade, mansidão, e paciência.
 \v Cl.3.13
-Suportai-vos uns aos outros, e perdoai-vos uns aos outros, se alguém tiver queixa contra outro. Como {tr,rp:Cristo}{n4:o Senhor}
-{trnc:\fn
-N4: o Senhor
-\*fn}
+Suportai-vos uns aos outros, e perdoai-vos uns aos outros, se alguém tiver queixa contra outro. Como 
+{tr|rp}Cristo
+{n4}o Senhor
+{trnc}\fn
+{trnc}N4: o Senhor
+{trnc}\*fn
  vos perdoou, assim também 
 \added
 fazei
@@ -326,10 +349,13 @@ revesti-vos
 \*added
  do amor, que é o vínculo da perfeição.
 \v Cl.3.15
-E a paz de {tr,rp:Deus}{n4:Cristo},
-{trnc:\fn
-N4: Cristo
-\*fn}
+E a paz de 
+{tr|rp}Deus
+{n4}Cristo
+,
+{trnc}\fn
+{trnc}N4: Cristo
+{trnc}\*fn
  para a qual também fostes chamados em um 
 \added
 só
@@ -337,10 +363,12 @@ só
  corpo, governe em vossos corações, e sede gratos.
 \v Cl.3.16
 A palavra de Cristo habite abundantemente em vós com toda sabedoria, ensinando-vos e advertindo-vos uns aos outros; e 
-cantai {tr,rpr:ao Senhor}{n4:a Deus}
-{trnc:\fn
-N4: cantai a Deus
-\*fn}
+cantai 
+{tr|rp}ao Senhor
+{n4}a Deus
+{trnc}\fn
+{trnc}N4: cantai a Deus
+{trnc}\*fn
  com salmos, hinos, e cânticos espirituais, com graça no vosso coração.
 \v Cl.3.17
 E tudo quanto fizerdes, por palavras ou por obras, 
@@ -349,10 +377,11 @@ fazei
 \*added
  tudo no nome do Senhor Jesus, dando por meio dele graças ao Deus e Pai.
 \v Cl.3.18
-Mulheres, sede submissas aos vossos{tr,rp: próprios}
-{trnc:\fn
-N4 não contém “próprios”
-\*fn}
+Mulheres, sede submissas aos vossos
+{tr|rp} próprios
+{trnc}\fn
+{trnc}N4 não contém “próprios”
+{trnc}\*fn
  maridos, como convém no Senhor.
 \v Cl.3.19
 Maridos, amai às esposas, e não as trateis amargamente.
@@ -366,31 +395,38 @@ Escravos, obedecei em tudo aos
 vossos
 \*added
  senhores segundo a carne, não servindo apenas quando observados, como que para satisfazer às pessoas, mas sim, com 
- sinceridade de coração, temendo {tr,rp:a Deus}{n4:ao Senhor}.
-{trnc:\fn
-N4: temendo ao Senhor
-\*fn}
+sinceridade de coração, temendo 
+{tr|rp}a Deus
+{n4}ao Senhor
+.
+{trnc}\fn
+{trnc}N4: temendo ao Senhor
+{trnc}\*fn
 \v Cl.3.23
-{tr,rp:E
-{trnc:\fn
-N4 não contém “E”
-\*fn}
- tudo}{n4:Tudo}
+{tr|rp}E
+{trnc}\fn
+{trnc}N4 não contém “E”
+{trnc}\*fn
+{tr|rp} tudo
+{n4}Tudo
  quanto fizerdes, fazei de coração, como para o Senhor, e não para as pessoas.
 \v Cl.3.24
-Pois sabeis que recebereis do Senhor a recompensa da herança{tr,rp:, porque servis}{n4:;servi}
-{trnc:\fn
-\key
-porque servis
-\*key
-N4: servi
-\*fn}
+Pois sabeis que recebereis do Senhor a recompensa da herança
+{tr|rp}, porque servis
+{n4};servi
+{trnc}\fn
+{trnc}\key
+{trnc}porque servis
+{trnc}\*key
+{trnc}N4: servi
+{trnc}\*fn
  ao Senhor Cristo.
 \v Cl.3.25
-{tr,rp:Mas}{n4:Pois}
-{trnc:\fn
-N4: Pois
-\*fn}
+{tr|rp}Mas
+{n4}Pois
+{trnc}\fn
+{trnc}N4: Pois
+{trnc}\*fn
  aquele que fizer injustiça receberá conforme a injustiça que cometer; e não há acepção de pessoas.
 \v Cl.4.1
 Senhores, procedei de maneira justa e imparcial com os 
@@ -415,7 +451,7 @@ Ou: abertamente
 \v Cl.4.5
 Convivei com sabedoria com os que estão de fora,
 \fn
-Isto é, os que não são cristãos
+i.e. os que não são cristãos
 \*fn
  aproveitando o tempo oportuno.
 \v Cl.4.6
@@ -428,19 +464,22 @@ seja
 \key
 com graça
 \*key
-Isto é, de maneira agradável
+i.e. de maneira agradável
 \*fn
  temperada com sal, para que saibais como deveis responder a cada um.
 \v Cl.4.7
 Tíquico, irmão amado, fiel trabalhador e colaborador no Senhor, vos fará saber tudo o que vem acontecendo comigo.
 \v Cl.4.8
-Foi para isso que eu o enviei até vós, para que {tr,rp:saiba como estais}{n4:saibais como estamos},
-{trnc:\fn
-N4: saibais acerca de nós
-\*fn}
-{n4:\fn
-TR, RP: saiba acerca de vós
-\*fn}
+Foi para isso que eu o enviei até vós, para que 
+{tr|rp}ele saiba como estais
+{n4}vós saibais como estamos
+,
+{trnc}\fn
+{trnc}N4: saibais como estamos
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: ele saiba como estais
+{n4}\*fn
  e console os vossos corações.
 \v Cl.4.9
 Juntamente com ele 
@@ -461,18 +500,24 @@ meus
 \*added
  no Reino de Deus, e têm sido consolação para mim.
 \v Cl.4.12
-Epafras, que é um de vós, servo de Cristo{n4: Jesus},
-{trnc:\fn
-N4: Cristo Jesus
-\*fn}
+Epafras, que é um de vós, servo de Cristo
+{n4} Jesus
+,
+{trnc}\fn
+{trnc}N4: Cristo Jesus
+{trnc}\*fn
  vos saúda. Ele sempre luta por vós em orações, para que fiqueis íntegros e 
-{tr,rp:plenos}{n4:plenamente convictos}
-{trnc:\fn
-N4: plenamente convictos
-\*fn}
+{tr|rp}plenos
+{n4}plenamente convictos
+{trnc}\fn
+{trnc}N4: plenamente convictos
+{trnc}\*fn
  em toda a vontade de Deus.
 \v Cl.4.13
-Pois dou testemunho dele de que ele tem {tr,rp:grande zelo}{n4:trabalhado muito} por vós, pelos que 
+Pois dou testemunho dele de que ele tem 
+{tr|rp}grande zelo
+{n4}trabalhado muito
+ por vós, pelos que 
 \added
 estão
 \*added
@@ -488,13 +533,19 @@ Saudai aos irmãos que
 \added
 estão
 \*added
- em Laodiceia, e também a {tr,pr:Ninfas}{n4:Ninfa}, e à igreja que está na casa {tr,rp:dele}{n4:dela}.
-{trnc:\fn
-N4 contém Ninfa, nome feminino em lugar de Ninfas, e põe “casa dele”
-\*fn}
-{n4:\fn
-TR, RP contêm Ninfas, nome feminino em lugar de Ninfa, e põe “casa dela”
-\*fn}
+ em Laodiceia, e também a 
+{tr|rp}Ninfas
+{n4}Ninfa
+, e à igreja que está na casa 
+{tr|rp}dele
+{n4}dela
+.
+{trnc}\fn
+{trnc}N4 contém Ninfa, nome feminino em lugar de Ninfas, e põe “casa dele”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm Ninfas, nome feminino em lugar de Ninfa, e põe “casa dela”
+{n4}\*fn
 \v Cl.4.16
 E depois que esta carta for lida entre vós, fazei que ela também seja lida na igreja dos laodicenses, e que vós leiais também a de Laodiceia.
 \v Cl.4.17
@@ -511,11 +562,12 @@ Esta
 \added
 esteja
 \*added
- convosco.{tr,rp: Amém.}
-{trnc:\fn
-N4 não contém “Amém”
-\*fn}
-{tr: (Escrita de Roma aos colossenses, e enviada por Tíquico e Onésimo.)}{trnc:
-\fn
-RP, N4 não contêm: “Escrita de Roma aos colossenses, e enviada por Tíquico e Onésimo.”
-\*fn}
+ convosco.
+{tr|rp} Amém.
+{trnc}\fn
+{trnc}N4 não contém “Amém”
+{trnc}\*fn
+{tr} (Escrita de Roma aos colossenses, e enviada por Tíquico e Onésimo.)
+{trnc}\fn
+{trnc}RP, N4 não contêm: “Escrita de Roma aos colossenses, e enviada por Tíquico e Onésimo.”
+{trnc}\*fn

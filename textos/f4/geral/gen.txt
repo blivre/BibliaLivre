@@ -21,7 +21,11 @@ E viu Deus que a luz era boa: e separou Deus a luz das trevas.
 \v Gn.1.5
 E chamou Deus à luz Dia, e às trevas chamou Noite: e foi a tarde e a manhã o primeiro dia.
 \v Gn.1.6
-E disse Deus: Haja expansão em meio das águas, e separe as águas das águas.
+E disse Deus: Haja expansão
+\fn
+Ou: “cobertura”, “firmamento” ou “abóbada”. Também nos vv. 7, 8, 14, 15, 17 e 20
+\*fn
+ no meio das águas, e separe as águas das águas.
 \v Gn.1.7
 E fez Deus a expansão, e separou as águas que estavam debaixo da expansão, das águas que estavam sobre a expansão: e foi assim.
 \v Gn.1.8
@@ -95,7 +99,7 @@ E havia o SENHOR Deus feito nascer da terra toda árvore agradável à vista, e 
 \v Gn.2.10
 E saía de Éden um rio para regar o jardim, e dali se repartia em quatro ramificações.
 \v Gn.2.11
-O nome de um era Pisom: este é o que cerca toda a terra de Havilá, onde há ouro:
+O nome de um era Pisom; este é o que cerca toda a terra de Havilá, onde há ouro:
 \v Gn.2.12
 E o ouro daquela terra é bom; há ali também bdélio e pedra ônix.
 \v Gn.2.13
@@ -109,13 +113,16 @@ E mandou o SENHOR Deus ao homem, dizendo: De toda árvore do jardim comerás;
 \v Gn.2.17
 Mas da árvore do conhecimento do bem e do mal não comerás dela; porque no dia que dela comeres, morrerás.
 \v Gn.2.18
-E disse o SENHOR Deus: Não é bom que o homem esteja só; farei para ele ajuda idônea para ele.
+E disse o SENHOR Deus: Não é bom que o homem esteja só; farei para ele uma ajuda semelhante a ele.
+\fn
+Lit. ajuda [que esteja] diante dele. Também no v. 20
+\*fn
 \v Gn.2.19
 Formou, pois, o SENHOR Deus da terra todo animal do campo, e toda ave dos céus, e trouxe-os a Adão, para que visse como lhes havia de chamar; e tudo o que Adão chamou aos animais viventes, esse é seu nome.
 \v Gn.2.20
-E pôs Adão nomes a todo animal e ave dos céus e a todo animal do campo: mas para Adão não achou ajuda que estivesse idônea para ele.
+E Adão deu nomes a todo animal e ave dos céus e a todo animal do campo; mas para Adão não achou ajuda semelhante a ele.
 \v Gn.2.21
-E o SENHOR Deus fez cair sonho sobre Adão, e ele adormeceu: então tomou uma de suas costelas, e fechou a carne em seu lugar;
+E o SENHOR Deus fez cair sono sobre Adão, e ele adormeceu; então tomou uma de suas costelas, e fechou a carne em seu lugar;
 \v Gn.2.22
 E da costela que o SENHOR Deus tomou do homem, fez uma mulher, e trouxe-a ao homem.
 \v Gn.2.23
@@ -326,7 +333,7 @@ Porém a terra se corrompeu diante de Deus, e a terra encheu-se de violência.
 \v Gn.6.12
 E Deus olhou a terra, e eis que estava corrompida; porque toda carne
 \fn
-Isto é, todo ser humano
+i.e. todo ser humano
 \*fn
  havia corrompido seu caminho sobre a terra.
 \v Gn.6.13
@@ -1071,7 +1078,8 @@ Agora, pois, devolve a mulher a seu marido; porque é profeta, e orará por ti, 
 \v Gn.20.8
 Então Abimeleque se levantou de manhã, e chamou a todos os seus servos, e disse todas estas palavras aos ouvidos deles; e temeram os homens em grande maneira.
 \v Gn.20.9
-Depois chamou Abimeleque a Abraão e lhe disse: Que nos fizeste? e em que pequei eu contra ti, que atraíste sobre mim e sobre meu reino tão grande pecado? o que não devias fazer fizeste comigo.
+Depois Abimeleque chamou a Abraão e lhe disse: Que nos fizeste? e em que pequei eu contra ti, para que atraíste sobre 
+mim e sobre meu reino tão grande pecado? Fizeste comigo que não devias fazer.
 \v Gn.20.10
 E disse mais Abimeleque a Abraão: Que viste para que fizesses isto?
 \v Gn.20.11
@@ -1081,15 +1089,22 @@ E na verdade também é minha irmã, filha de meu pai, mas não filha de minha m
 \v Gn.20.13
 E foi que, quando Deus me fez sair sem rumo da casa de meu pai, eu lhe disse: Esta é a lealdade que tu me farás, que em todos os lugares onde chegarmos, digas de mim: É meu irmão.
 \v Gn.20.14
-Então Abimeleque tomou ovelhas e vacas, e servos e servas, e deu-o a Abraão, e devolveu-lhe a Sara sua mulher.
+Então Abimeleque tomou ovelhas e vacas, e servos e servas, e os deu a Abraão, e lhe devolveu Sara, sua mulher.
 \v Gn.20.15
-E disse Abimeleque: Eis que minha terra está diante de ti, habita onde bem te parecer.
+E Abimeleque disse: Eis que minha terra está diante de ti, habita onde bem te parecer.
 \v Gn.20.16
-E a Sara disse: Eis que dei mil moedas de prata a teu irmão; olha que ele te é por véu de olhos para todos os que estão contigo, e para com todos: assim foi repreendida.
+E disse a Sara: Eis que dei mil moedas de prata ao teu irmão; eis que isso seja para ti por compensação
+\fn
+\key
+compensação
+\*key
+Lit. véu sobre os olhos
+\*fn
+ diante de todos os que estão contigo, e de todos; assim estás justificada.
 \v Gn.20.17
-Então Abraão orou a Deus; e Deus sanou a Abimeleque e a sua mulher, e a suas servas, e voltaram a ter filhos.
+Então Abraão orou a Deus; e Deus sarou Abimeleque e sua mulher, e suas servas, e voltaram a ter filhos.
 \v Gn.20.18
-Porque havia por completo fechado o SENHOR toda madre da casa de Abimeleque, por causa de Sara, mulher de Abraão.
+Porque o SENHOR havia fechado por completo toda madre da casa de Abimeleque, por causa de Sara, mulher de Abraão.
 \v Gn.21.1
 E o SENHOR visitou Sara, como disse, e o SENHOR fez com Sara como havia falado.
 \v Gn.21.2
@@ -1097,9 +1112,9 @@ E concebeu e deu à luz Sara a Abraão um filho em sua velhice, no tempo que Deu
 \v Gn.21.3
 E chamou Abraão o nome de seu filho que lhe nasceu, que lhe deu à luz Sara, Isaque.
 \v Gn.21.4
-E circuncidou Abraão a seu filho Isaque de oito dias, como Deus lhe havia mandado.
+E Abraão circuncidou seu filho Isaque de oito dias, como Deus lhe havia mandado.
 \v Gn.21.5
-E era Abraão de cem anos, quando lhe nasceu Isaque seu filho.
+E Abraão era de cem anos quando lhe nasceu seu filho Isaque.
 \v Gn.21.6
 Então disse Sara: Deus me fez rir, e qualquer um que o ouvir, se rirá comigo.
 \v Gn.21.7
@@ -1408,7 +1423,7 @@ Herança que comprou Abraão dos filhos de Hete; ali foi Abraão sepultado, e Sa
 \v Gn.25.11
 E sucedeu, depois de morto Abraão, que Deus abençoou a Isaque seu filho: e habitou Isaque junto a Beer-Laai-Roi.
 \fn
-Isto é, o poço do Vivente que me vê (16:14)
+i.e. o poço do Vivente que me vê (16:14)
 \*fn
 \v Gn.25.12
 E estas são as gerações de Ismael, filho de Abraão, que lhe deu à luz Agar egípcia, serva de Sara:
@@ -2266,17 +2281,17 @@ E amava Israel a José mais que a todos os seus filhos, porque lhe havia tido em
 \v Gn.37.4
 E vendo seus irmãos que seu pai o amava mais que a todos os seus irmãos, odiavam-lhe, e não lhe podiam falar pacificamente.
 \v Gn.37.5
-E sonhou José um sonho e contou-o a seus irmãos; e eles vieram a odiar-lhe mais ainda.
+E teve José um sonho e contou-o a seus irmãos; e eles vieram a odiar-lhe mais ainda.
 \v Gn.37.6
-E ele lhes disse: Ouvi agora este sonho que sonhei:
+E ele lhes disse: Ouvi agora este sonho que tive:
 \v Gn.37.7
 Eis que atávamos feixes no meio do campo, e eis que meu feixe se levantava, e estava em pé, e que vossos feixes estavam ao redor, e se inclinavam ao meu.
 \v Gn.37.8
 E responderam-lhe seus irmãos: Reinarás tu sobre nós, ou serás tu senhor sobre nós? E o odiaram ainda mais por causa de seus sonhos e de suas palavras.
 \v Gn.37.9
-E sonhou ainda outro sonho, e contou-o a seus irmãos, dizendo: Eis que sonhei outro sonho, e eis que o sol e a lua e onze estrelas se inclinavam a mim.
+E teve ainda outro sonho, e contou-o a seus irmãos, dizendo: Eis que tive outro sonho, e eis que o sol e a lua e onze estrelas se inclinavam a mim.
 \v Gn.37.10
-E contou-o a seu pai e a seus irmãos: e seu pai lhe repreendeu, e disse-lhe: Que sonho é este que sonhaste? Viremos eu e tua mãe, e teus irmãos, a nos inclinarmos a ti em terra?
+E contou-o a seu pai e a seus irmãos: e seu pai lhe repreendeu, e disse-lhe: Que sonho é este que tiveste? Viremos eu e tua mãe, e teus irmãos, a nos inclinarmos a ti em terra?
 \v Gn.37.11
 E seus irmãos lhe tinham inveja, mas seu pai guardava isso em mente.
 \v Gn.37.12

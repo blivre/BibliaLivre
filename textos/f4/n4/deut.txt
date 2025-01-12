@@ -13,7 +13,7 @@ DEU
 \v Dt.1.1
 Estas são as palavras que falou Moisés a todo Israel desta parte do Jordão no deserto, na planície diante do mar Vermelho, entre Parã, e Tofel, e Labã, e Hazerote, e Di-Zaabe.
 \v Dt.1.2
-Onze jornadas há desde Horebe, caminho do monte de Seir, até Cades-Barneia.
+Onze dias há desde Horebe, caminho do monte de Seir, até Cades-Barneia.
 \v Dt.1.3
 E foi, que aos quarenta anos, no mês décimo primeiro, ao primeiro dia do mês, Moisés falou aos filhos de Israel conforme todas as coisas que o SENHOR lhe havia mandado acerca deles;
 \v Dt.1.4
@@ -33,7 +33,7 @@ O SENHOR vosso Deus vos multiplicou, e eis que sois hoje vós como as estrelas d
 \v Dt.1.11
 O SENHOR Deus de vossos pais acrescente sobre vós como sois mil vezes, e vos abençoe, como vos prometeu!
 \v Dt.1.12
-Como levarei eu só vossos problemas, vossas cargas, e vossos pleitos?
+Como levarei eu só vossos problemas, vossas cargas, e vossos disputas judiciais?
 \v Dt.1.13
 Dai-me dentre vós, de vossas tribos, homens sábios e entendidos e experientes, para que eu os ponha por vossos chefes.
 \v Dt.1.14
@@ -1147,7 +1147,7 @@ E será que os anciãos daquela cidade, da cidade mais próxima ao morto, tomar�
 \v Dt.21.4
 E os anciãos daquela cidade trarão a bezerra a um vale por onde fluam águas, que nunca tenha sido arado nem semeado, e cortarão o pescoço à bezerra ali no vale.
 \v Dt.21.5
-Então virão os sacerdotes filhos de Levi, porque a eles escolheu o SENHOR teu Deus para que o sirvam, e para abençoar em nome do SENHOR; e pelo dito deles se determinará todo pleito e toda ferida.
+Então virão os sacerdotes filhos de Levi, porque o SENHOR, teu Deus, os escolheu para que o sirvam, e para abençoar em nome do SENHOR; e pelo dito deles se determinará toda disputa judicial e toda violência física.
 \v Dt.21.6
 E todos os anciãos daquela cidade mais próxima ao morto lavarão suas mãos sobre a bezerra degolada no vale.
 \v Dt.21.7
@@ -1339,7 +1339,7 @@ Quando vindimares tua vinha, não coletarás os restos de atrás de ti: para o e
 \v Dt.24.22
 E lembra-te que foste servo na terra do Egito: portanto, eu te mando que faças isto.
 \v Dt.25.1
-Quando houver pleito entre alguns, e vierem a juízo, e os julgarem, e absolverem ao justo e condenarem ao iníquo,
+Quando houver uma disputa judicial entre alguns, e vierem a juízo, e os julgarem, e absolverem ao justo e condenarem ao iníquo,
 \v Dt.25.2
 Será que, se o delinquente merecer ser açoitado, então o juiz o fará lançar em terra, e o fará açoitar diante de si, segundo seu delito, por conta.
 \v Dt.25.3
@@ -2105,7 +2105,9 @@ O eterno Deus é o teu refúgio, e abaixo os braços eternos; ele expulsará de 
 E Israel, fonte de Jacó, habitará confiante sozinho na terra do grão e do vinho; também seus céus destilarão orvalho.
 \v Dt.33.29
 Bem-aventurado és tu, ó Israel! Quem é como tu, povo salvo pelo SENHOR, o escudo de teu socorro, e a espada da tua 
-excelência? Por isso os teus inimigos serão subjugados, e tu pisarás sobre as suas costas.
+excelência? Por isso os teus inimigos serão subjugados, e tu pisarás sobre as suas 
+costas
+.
 \fn
 Obscuro. Trad. alt. “alturas” ou “lugares altos”
 \*fn

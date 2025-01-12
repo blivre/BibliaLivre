@@ -27,20 +27,22 @@ de tempo
 \*added
  entristecidos com várias provações,
 \v 1Pd.1.7
-para que a prova de vossa fé, muito mais preciosa que o ouro que perece (mesmo sendo provado pelo fogo), seja achada em louvor, {tr,rp:honra, e }glória{n4:, e honra}
-{trnc:
-\fn
-N4: “glória, e honra”
-\*fn}
+para que a prova de vossa fé, muito mais preciosa que o ouro que perece (mesmo sendo provado pelo fogo), seja achada em louvor, 
+{tr|rp}honra, e 
+glória
+{n4}, e honra
+{trnc}\fn
+{trnc}N4: “glória, e honra”
+{trnc}\*fn
 , na revelação de Jesus Cristo.
 \v 1Pd.1.8
 A ele, sem terdes visto, vós o amais. Ainda que não estejais o vendo agora, mas crendo nele, vós estais alegres com júbilo indescritível e glorioso.
 \v 1Pd.1.9
-Assim estais alcançando o resultado da {tr,rp:vossa}
-{trnc:
-\fn
-N4 omite “vossa”
-\*fn}
+Assim estais alcançando o resultado da
+{tr|rp} vossa
+{trnc}\fn
+{trnc}N4 não contém “vossa”
+{trnc}\*fn
  fé: a salvação das 
 \added
 vossas
@@ -62,11 +64,15 @@ ou: a pessoa
 \*fn
  ou ocasião que o Espírito de Cristo dentro deles indicava, quando dava prévio testemunho dos sofrimentos de Cristo e das glórias seguintes.
 \v 1Pd.1.12
-A eles foi revelado que não foi para eles mesmos, mas sim para {tr:nós}{rp,n4:vós},
-{trnc:\fn
-RP, N4 - vós
-\*fn}
- que eles prestaram serviço com estas coisas. E agora, elas vos foram anunciadas pelos que, pelo Espírito Santo enviado do céu, vos pregaram o Evangelho. Tais coisas os anjos desejam atentamente observar.
+A eles foi revelado que não foi para eles mesmos, mas sim para 
+{tr}nós
+{rp|n4}vós
+,
+{trnc}\fn
+{trnc}RP, N4 - vós
+{trnc}\*fn
+ que eles prestaram serviço com estas coisas. E agora, elas vos foram anunciadas pelos que, pelo Espírito Santo 
+enviado do céu, vos pregaram o Evangelho. Tais coisas os anjos desejam atentamente observar.
 \v 1Pd.1.13
 Portanto, preparai as vossas mentes, sede sóbrios, e esperai completamente na graça que vos será trazida na revelação de Jesus Cristo.
 \fn
@@ -118,24 +124,29 @@ Ele já era conhecido
 \key
 conhecido
 \*key
-isto é, conhecido o seu papel como o Salvador. Trad. alt: predestinado
+i.e. conhecido o seu papel como o Salvador. Trad. alt: predestinado
 \*fn
- desde antes da fundação do mundo, mas foi manifesto {tr,rp:nestes últimos}{n4:no fim dos} tempos
-{trnc:\fn
-N4: no fim dos tempos
-\*fn}
+ desde antes da fundação do mundo, mas foi manifesto 
+{tr|rp}nestes últimos
+{n4}no fim dos
+ tempos
+{trnc}\fn
+{trnc}N4: no fim dos tempos
+{trnc}\*fn
  por causa de vós,
 \v 1Pd.1.21
 que, por meio dele, credes em Deus, que o ressuscitou dos mortos e lhe deu glória, para que a vossa fé e 
 esperança estejam em Deus.
 \v 1Pd.1.22
-Uma vez que purificastes as vossas almas na obediência da verdade{tr,rp: por meio do Espírito},
-{trnc:\fn
-N4 omite “por meio do Espírito”
-\*fn}
-{n4:\fn
-TR, RP acrescentam: “por meio do Espírito”
-\*fn}
+Uma vez que purificastes as vossas almas na obediência da verdade
+{tr|rp} por meio do Espírito
+,
+{trnc}\fn
+{trnc}N4 não contém “por meio do Espírito”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “por meio do Espírito”
+{n4}\*fn
  para o sincero
 \fn
 \key
@@ -143,20 +154,23 @@ sincero
 \*key
 ou: não-hipócrita
 \*fn
- amor fraternal, amai-vos intensamente uns aos outros {tr,rp:com um coração puro}{n4:de coração},
-{trnc:\fn
-N4 omite “puro”, mostrando “de coração”
-\*fn}
+ amor fraternal, amai-vos intensamente uns aos outros 
+{tr|rp}com um coração puro
+{n4}de coração
+,
+{trnc}\fn
+{trnc}N4 não contém “puro”, e diz “aos outros de coração”
+{trnc}\*fn
 \v 1Pd.1.23
-visto que nascestes de novo, não de semente que perece, mas sim imperecível, pela viva palavra de Deus, que permanece{tr,rp: para sempre}.{trnc:
-\fn
-N4 omite “para sempre”
-\*fn
- }{n4:
-\fn
-TR, RP acrescentam: “para sempre” ao final do versículo
-\*fn
- }
+visto que nascestes de novo, não de semente que perece, mas sim imperecível, pela viva palavra de Deus, que permanece
+{tr|rp} para sempre
+.
+{trnc}\fn
+{trnc}N4 não contém “para sempre”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “para sempre” ao final do versículo
+{n4}\*fn
 \v 1Pd.1.24
 Pois toda carne
 \fn
@@ -165,14 +179,19 @@ toda carne
 \*key
 i.e. todos os seres humanos
 \*fn
- é como a erva, e toda {tr,rp:glória humana}{n4:a sua glória}
-{trnc:\fn
-TR, RP: glória humana – N4: sua glória
-\*fn}
- como a flor da erva. A erva se seca, e {tr,rp:sua}{n4:a} flor
-{trnc:\fn
-TR, RP: sua flor - N4: a flor
-\*fn}
+ é como a erva, e toda 
+{tr|rp}glória humana
+{n4}a sua glória
+{trnc}\fn
+{trnc}TR, RP: glória humana – N4: sua glória
+{trnc}\*fn
+ como a flor da erva. A erva se seca, e 
+{tr|rp}sua
+{n4}a
+ flor
+{trnc}\fn
+{trnc}TR, RP: sua flor - N4: a flor
+{trnc}\*fn
  cai;
 \v 1Pd.1.25
 mas a palavra do Senhor permanece para sempre.E esta é a palavra que foi evangelizada entre vós. 
@@ -183,10 +202,12 @@ Isaías 40:6,8
 Abandonai, portanto, toda malícia, toda enganação, fingimentos, invejas, e todas as falas maldosas,
 \v 1Pd.2.2
 e desejai ansiosamente, como bebês recém-nascidos, o leite da Palavra, não falsificado, para que por meio dele 
-estejais crescendo{n4: para a salvação};
-{trnc:\fn
-N4, F35 acrescentam “para a salvação” ao final do versículo
-\*fn}
+estejais crescendo
+{n4} para a salvação
+;
+{trnc}\fn
+{trnc}N4, F35 contêm adicionalmente “para a salvação” ao final do versículo
+{trnc}\*fn
 \v 1Pd.2.3
 se, de fato, já experimentastes que o Senhor é bom.
 \v 1Pd.2.4
@@ -202,11 +223,12 @@ e
 \*added
  sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus por meio de Jesus Cristo.
 \v 1Pd.2.6
-{tr,rp:Por isso}{n4:Pois}{trnc:
-\fn
-TR, RP: Por isso – N4: Pois
-\*fn
- } também está contido na Escritura: Eis que eu ponho em Sião uma pedra principal de esquina, escolhida 
+{tr|rp}Por isso
+{n4}Pois
+{trnc}\fn
+{trnc}TR, RP: Por isso – N4: Pois
+{trnc}\*fn
+ também está contido na Escritura: Eis que eu ponho em Sião uma pedra principal de esquina, escolhida 
 \added
 e
 \*added
@@ -218,11 +240,14 @@ ou: frustrado
 Isaías 28:16 
 \*ref
 \v 1Pd.2.7
-Assim, para vós, que credes, ela é preciosa. Mas para os {tr,rp:rebeldes}{n4:incrédulos}:
-{trnc:\fn
-TR, RP: rebeldes – N4: incrédulos
-\*fn}
- A pedra que os construtores rejeitaram, essa se tornou a principal de esquina, 
+Assim, para vós, que credes, ela é preciosa. Mas para os 
+{tr|rp}rebeldes
+{n4}incrédulos
+:
+{trnc}\fn
+{trnc}TR, RP: rebeldes – N4: incrédulos
+{trnc}\*fn
+ A pedra que os construtores rejeitaram, essa se tornou a principal de esquina,
 \ref
 Salmo 118:22 
 \*ref
@@ -248,16 +273,21 @@ e que tenhais um bom comportamento vosso entre os pagãos; para que, naquilo que
 \added
 vossas
 \*added
- boas obras que {tr,rp:tiverem visto}{n4:virem}.
-{trnc:\fn
-TR, RP: tiverem visto – N4: virem
-\*fn}
+ boas obras que 
+{tr|rp}tiverem visto
+{n4}virem
+.
+{trnc}\fn
+{trnc}TR, RP: tiverem visto – N4: virem
+{trnc}\*fn
 \v 1Pd.2.13
-{tr,rp:Portanto
-{trnc:\fn
-N4 omite “Portanto”
-\*fn}
- sujeitai-vos}{n4:Sujeitai-vos} a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;
+{tr|rp}Portanto
+{trnc}\fn
+{trnc}N4 não contém “Portanto”
+{trnc}\*fn
+{tr|rp} sujeitai-vos
+{n4}Sujeitai-vos
+ a toda autoridade humana, por causa do Senhor; seja ao rei, como superior;
 \v 1Pd.2.14
 seja aos governantes, como enviados por ele, com o objetivo de castigar os malfeitores, e de conceder honra aos que fazem o bem.
 \v 1Pd.2.15
@@ -284,17 +314,22 @@ Pois coisa agradável é se alguém, por causa da consciência a respeito de Deu
 \v 1Pd.2.20
 Afinal, que mérito há em suportar serdes espancados por cometerdes pecado? Contudo, se, quando fazeis o bem, sois afligidos e suportais, isso é a Deus.
 \v 1Pd.2.21
-Pois para isto fostes chamados, porque também Cristo sofreu por {tr,rp:nós}{n4:vós},
-{trnc:\fn
-N4: “por vós”
-\*fn}
-{n4:\fn
-TR, RP: “por nós”
-\*fn}
- deixando-{tr:nos}{rp,n4:vos}
-{trnc:\fn
-RP, N4: deixando-vos
-\*fn}
+Pois para isto fostes chamados, porque também Cristo sofreu por 
+{tr|rp}nós
+{n4}vós
+,
+{trnc}\fn
+{trnc}N4: “por vós”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: “por nós”
+{n4}\*fn
+ deixando-
+{tr}nos
+{rp|n4}vos
+{trnc}\fn
+{trnc}RP, N4: deixando-vos
+{trnc}\*fn
  exemplo, para que sigais os seus passos.
 \v 1Pd.2.22
 Ele não cometeu pecado, nem engano foi achado em sua boca.
@@ -337,10 +372,12 @@ elas e vós
 \v 1Pd.3.8
 E por fim, sede todos de uma mesma mentalidade, compassivos, tenhais amor pelos irmãos, e sede misericordiosos e benevolentes.
 \v 1Pd.3.9
-Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, {tr,rp:sabendo que}{n4:pois}
-{trnc:\fn
-TR, RP: sabendo que – N4: pois
-\*fn}
+Não retribuais o mal com mal, ou insulto com insulto; ao contrário, bendizei, 
+{tr|rp}sabendo que
+{n4}pois
+{trnc}\fn
+{trnc}TR, RP: sabendo que – N4: pois
+{trnc}\*fn
  para isto fostes chamados, para que herdeis a bênção.
 \v 1Pd.3.10
 Pois: quem quer amar a vida e ver dias bons, refreie sua língua do mal, e que seus lábios não falem engano.
@@ -356,10 +393,12 @@ atentos
 Salmos 34:12-16 
 \*ref
 \v 1Pd.3.13
-E quem vos fará mal se fordes {tr,rp:adeptos}{n4:zelosos}
-{trnc:\fn
-TR, RP: adeptos – N4: zeolosos
-\*fn}
+E quem vos fará mal se fordes 
+{tr|rp}adeptos
+{n4}zelosos
+{trnc}\fn
+{trnc}TR, RP: adeptos – N4: zeolosos
+{trnc}\*fn
  do bem?
 \v 1Pd.3.14
 Porém, mesmo se sofrerdes por causa da justiça, benditos
@@ -371,22 +410,26 @@ ou: bem-aventurados
 \*fn
  sois. Não tenhais medo deles, nem vos perturbeis.
 \v 1Pd.3.15
-Mas santificai a {tr,rp:Deus}{n4:Cristo}
-{trnc:\fn
-TR, RP: Deus – N4: Cristo
-\*fn}
-{n4:\fn
-\key
-Cristo
-\*key
-TR, RP: Deus
-\*fn}
+Mas santificai a 
+{tr|rp}Deus
+{n4}Cristo
+{trnc}\fn
+{trnc}TR, RP: Deus – N4: Cristo
+{trnc}\*fn
+{n4}\fn
+{n4}\key
+{n4}Cristo
+{n4}\*key
+{n4}TR, RP: Deus
+{n4}\*fn
  como Senhor em vossos corações; e estai sempre preparados para responder com mansidão e respeito a todo aquele que vos pedir a razão da esperança que há em vós,
 \v 1Pd.3.16
-tendo uma boa consciência; para que, naquilo que {tr,rp:falam mal de vós como malfeitores}{n4:sois malfalados},
-{trnc:\fn
-TR, RP: falam mal de vós como malfeitores – N4: sois malfalados
-\*fn}
+tendo uma boa consciência; para que, naquilo que falam mal de vós 
+{tr|rp}como malfeitores
+,
+{trnc}\fn
+{trnc}N4 não contém “como malfeitores”
+{trnc}\*fn
  os que insultam o vosso bom comportamento em Cristo sejam envergonhados.
 \v 1Pd.3.17
 Pois é melhor que sofrais fazendo o bem, se 
@@ -395,14 +438,18 @@ assim
 \*added
  a vontade de Deus quer, do que fazendo o mal.
 \v 1Pd.3.18
-Porque também Cristo {tr,rp:sofreu}{n4:morreu}
-{trnc:\fn
-TR, RP: sofreu – N4: morreu
-\*fn}
- uma vez pelos pecados, o justo pelos injustos; para que {tr:nos}{rp,n4:vos}
-{trnc:\fn
-RP, N4: vos
-\*fn}
+Porque também Cristo 
+{tr|rp}sofreu
+{n4}morreu
+{trnc}\fn
+{trnc}TR, RP: sofreu – N4: morreu
+{trnc}\*fn
+ uma vez pelos pecados, o justo pelos injustos; para que 
+{tr}nos
+{rp|n4}vos
+{trnc}\fn
+{trnc}RP, N4: vos
+{trnc}\*fn
  levasse a Deus. 
 \added
 Ele estava
@@ -414,16 +461,19 @@ no qual ele também foi pregar aos espíritos em prisão.
 \added
 Estes são
 \*added
- os que antigamente foram rebeldes, quando{tr: uma vez}
-{trnc:\fn
-RP, N4 omitem “uma vez”
-\*fn}
+ os que antigamente foram rebeldes, quando
+{tr} uma vez
+{trnc}\fn
+{trnc}RP, N4 não contêm “uma vez”
+{trnc}\*fn
  a paciência de Deus aguardava nos dias de Noé, enquanto era preparada a arca. Nela, poucas almas (isto é, oito) foram salvas por meio da água.
 \v 1Pd.3.21
-Esta é uma representação do batismo, que agora também {tr,rp:nos}{n4:vos}
-{trnc:\fn
-N4:vos
-\*fn}
+Esta é uma representação do batismo, que agora também 
+{tr|rp}nos
+{n4}vos
+{trnc}\fn
+{trnc}N4:vos
+{trnc}\*fn
  salva, não como remoção da sujeira do corpo, mas sim como o pedido
 \fn
 \key
@@ -435,23 +485,25 @@ ou: compromisso. A palavra usada no texto original grego tem significado obscuro
 \v 1Pd.3.22
 Ele está à direita de Deus, depois de haver subido ao céu; e os anjos, as autoridades, e os poderes estão sob o seu comando.
 \v 1Pd.4.1
-Visto que Cristo sofreu{tr,rp: por nós}{trnc:
-\fn
-N4 omite “por nós”
-\*fn
- }{n4:
-\fn
-TR, RP acrescenta “por nós”
-\*fn
- } na carne, armai-vos também com o mesmo modo de pensar, pois quem sofreu na carne terminou com o pecado;
+Visto que Cristo sofreu
+{tr|rp} por nós
+{trnc}\fn
+{trnc}N4 não contém “por nós”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “por nós”
+{n4}\*fn
+ na carne, armai-vos também com o mesmo modo de pensar, pois quem sofreu na carne terminou com o pecado;
 \v 1Pd.4.2
 para que, no resto do tempo na carne, não viva mais segundo os maus desejos humanos, mas sim segundo a vontade de Deus.
 \v 1Pd.4.3
-Pois já basta, no tempo passado{tr,rp: da vida},{trnc:
-\fn
-N4 omite “da vida”
-\*fn
- } termos feito a vontade dos pagãos,
+Pois já basta, no tempo passado
+{tr|rp} da vida
+,
+{trnc}\fn
+{trnc}N4 não contém “da vida”
+{trnc}\*fn
+ termos feito a vontade dos pagãos,
 \fn
 \key
 pagãos
@@ -491,15 +543,18 @@ lit. segundo Deus. Outra alternativa seria: como Deus vive [em Espírito]
 \v 1Pd.4.7
 O fim de todas as coisas está próximo; portanto sede sóbrios, e vigiai em orações.
 \v 1Pd.4.8
-{tr,rp:Mas, acima}{n4:Acima}{trnc:
-\fn
-N4 omite “Mas”
-\*fn
- } de tudo, tende fervoroso amor uns para com os outros; porque o amor {tr,rp:cobrirá}{n4:cobre}{trnc:
-\fn
-N4: cobre
-\*fn
-} uma multidão de pecados.
+{tr|rp}Mas, acima
+{n4}Acima
+{trnc}\fn
+{trnc}N4 não contém “Mas”
+{trnc}\*fn
+ de tudo, tende fervoroso amor uns para com os outros; porque o amor 
+{tr|rp}cobrirá
+{n4}cobre
+{trnc}\fn
+{trnc}N4: cobre
+{trnc}\*fn
+ uma multidão de pecados.
 \v 1Pd.4.9
 Proporcionai hospitalidade uns aos outros, sem murmurações.
 \v 1Pd.4.10
@@ -509,11 +564,13 @@ Se alguém fala, que seja como as palavras de Deus; se alguém serve,
 \added
 que sirva
 \*added
- segundo a força {tr,n4:que}{rp:como}{trnc:
-\fn
-TR, N4: que - RP: como
-\*fn
-} Deus dá; a fim de que em tudo Deus seja glorificado por meio de Jesus Cristo. E a ele pertencem a glória e o poder para todo o sempre, Amém!
+ segundo a força 
+{tr|n4}que
+{rp}como
+{trnc}\fn
+{trnc}TR, N4: que - RP: como
+{trnc}\*fn
+ Deus dá; a fim de que em tudo Deus seja glorificado por meio de Jesus Cristo. E a ele pertencem a glória e o poder para todo o sempre, Amém!
 \v 1Pd.4.12
 Amados, não estranheis o fogo ardente que vem sobre vós para vos provar, como se algo estranho estivesse vos acontecendo.
 \v 1Pd.4.13
@@ -523,14 +580,15 @@ Se vós sois insultados por causa do nome de Cristo, benditos
 \fn
 ou: bem-aventurados
 \*fn
- sois; porque o Espírito da glória e de Deus repousa sobre vós{tr,rp:; o qual por eles é insultado, mas por vós é glorificado}.{trnc:
-\fn
-N4 omite “o qual por eles é insultado, mas por vós é glorificado”
-\*fn
-}{n4:
-\fn
-TR, RP acrescentam: “o qual por eles é insultado, mas por vós é glorificado” ao final do versículo
-\*fn}
+ sois; porque o Espírito da glória e de Deus repousa sobre vós
+{tr|rp}; o qual por eles é insultado, mas por vós é glorificado
+.
+{trnc}\fn
+{trnc}N4 não contém “o qual por eles é insultado, mas por vós é glorificado”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “o qual por eles é insultado, mas por vós é glorificado” ao final do versículo
+{n4}\*fn
 \v 1Pd.4.15
 Porém nenhum de vós sofra como homicida, ladrão, malfeitor, ou como alguém que se intromete em assuntos alheios;
 \fn
@@ -544,15 +602,16 @@ Mas se
 \added
 sofre
 \*added
- como cristão, não se envergonhe; ao contrário, glorifique a Deus{tr,rp: por isso}{n4:com esse nome};{trnc:
-\fn
-TR, RP: “por isso” - N4: “com esse nome”
-\*fn
-}{n4:
-\fn
-N4: “com esse nome” : TR, RP: “por isso”
-\*fn
-}
+ como cristão, não se envergonhe; ao contrário, glorifique a Deus
+{tr|rp} por isso
+{n4}com esse nome
+;
+{trnc}\fn
+{trnc}TR, RP: “por isso” - N4: “com esse nome”
+{trnc}\*fn
+{n4}\fn
+{n4}N4: “com esse nome” : TR, RP: “por isso”
+{n4}\*fn
 \v 1Pd.4.17
 Pois já é tempo do julgamento começar pela casa de Deus; e se é primeiro conosco, qual será o fim daqueles que são desobedientes ao Evangelho de Deus?
 \v 1Pd.4.18
@@ -563,50 +622,59 @@ Provérbios 11:31
 \v 1Pd.4.19
 Portanto, os que sofrem segundo a vontade de Deus, confiem suas almas ao fiel Criador, fazendo o bem.
 \v 1Pd.5.1
-{tr,rp:Aos}{n4:Portanto, aos}{trnc:
-\fn
-N4 acrescenta “Portanto” ao início do versículo
-\*fn
-} anciãos
+{tr|rp}Aos
+{n4}Portanto, aos
+{trnc}\fn
+{trnc}N4 contém adicionalmente “Portanto” ao início do versículo
+{trnc}\*fn
+ anciãos
 \fn
 ou: presbíteros
 \*fn
  da igreja que estão entre vós, eu, que sou ancião como eles, e testemunha dos sofrimentos de Cristo, e participante da glória que se revelará, seriamente peço:
 \v 1Pd.5.2
-Pastoreai o rebanho de Deus que está entre vós,{tr.rp: supervisando-o}{trnc:
-\fn
-N4 omite “supervisando-o”
-\*fn
-}{n4:
-\fn
-TR, RP acrescentam “supervisando [-o] ”
-\*fn
-} não por obrigação, mas sim voluntariamente{n4:, segundo a vontade de Deus};{trnc:
-\fn
-N4 acrescenta: “segundo a vontade de Deus”
-\*fn
- }{n4:
-\fn
-TR, RP omitem “segundo a vontade de Deus”
-\*fn
-} não por ganância, mas sim com sincera prontidão;
+Pastoreai o rebanho de Deus que está entre vós,
+{tr|rp} supervisando-o
+{trnc}\fn
+{trnc}N4 não contém “supervisando-o”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “supervisando [-o] ”
+{n4}\*fn
+ não por obrigação, mas sim, voluntariamente
+{n4}, segundo a vontade de Deus
+;
+{trnc}\fn
+{trnc}N4 contém adicionalmente: “segundo a vontade de Deus”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP não contêm “segundo a vontade de Deus”
+{n4}\*fn
+ não por ganância, mas sim com sincera prontidão;
 \v 1Pd.5.3
 nem como que dominando os que estão aos vossos cuidados,
 \fn
 \key
 os que estão aos vossos cuidados
 \*key
-lit. os reservados, ou separados. No vocabulário bíblico, é frequentemente usado para indicar propriedades e possessões, em particular propriedades de terra. Por esse motivo, traduções mais antigas põem: propriedades [de Deus] (ou algo semelhante). Outra interpretação é a de que se refere aos anciãos, referidos por Pedro como “vós”, e de que a reserva ou separação não é para a obtenção ou posse, mas tão somente para a responsabilidade e o cuidado. Isto é, refere-se aos cristãos que os anciãos devem cuidar. Esta última interpretação é a usada na tradução.
+lit. os reservados, ou separados. No vocabulário bíblico, é frequentemente usado para indicar propriedades e 
+possessões, em particular propriedades de terra. Por esse motivo, traduções mais antigas põem: propriedades [de Deus] 
+(ou algo semelhante). Outra interpretação é a de que se refere aos anciãos, referidos por Pedro como “vós”, e de que a 
+reserva ou separação não é para a obtenção ou posse, mas tão somente para a responsabilidade e o cuidado. Isto é, 
+refere-se aos cristãos que os anciãos devem cuidar. Esta última interpretação é a usada na tradução.
 \*fn
  mas sim como exemplos ao rebanho.
 \v 1Pd.5.4
 E quando o Pastor Principal aparecer, vós recebereis a indestrutível coroa da glória.
 \v 1Pd.5.5
-Semelhantemente vós, jovens, sede sujeitos aos anciãos; e todos vós {tr,rp:sede sujeitos uns aos outros, revestidos de humildade}{n4:revesti-vos de humildade uns aos outros};{trnc:
-\fn
-TR, RP: sede sujeitos uns aos outros, revestidos de humildade – N4: revesti-vos de humildade uns aos outros
-\*fn
-} pois: Deus resiste aos soberbos, mas dá graça aos humildes. 
+Semelhantemente vós, jovens, sede sujeitos aos anciãos; e todos vós 
+{tr|rp}sede sujeitos uns aos outros, revestidos de humildade
+{n4}revesti-vos de humildade uns aos outros
+;
+{trnc}\fn
+{trnc}TR, RP: sede sujeitos uns aos outros, revestidos de humildade – N4: revesti-vos de humildade uns aos outros
+{trnc}\*fn
+ pois: Deus resiste aos soberbos, mas dá graça aos humildes. 
 \ref
 Provérbios 3:34 
 \*ref
@@ -615,11 +683,14 @@ Humilhai-vos, pois, debaixo da poderosa mão de Deus, para que ele vos exalte no
 \v 1Pd.5.7
 lançando sobre ele toda a vossa ansiedade; porque ele tem cuidado de vós.
 \v 1Pd.5.8
-Sede sóbrios! Vigiai! {tr,rp:Pois{trnc:
-\fn
-N4 omite “Pois”
-\*fn
-} o}{n4:O} vosso adversário, o diabo, anda ao redor, rugindo como um leão, buscando a quem possa devorar.
+Sede sóbrios! Vigiai! 
+{tr|rp}Pois
+{trnc}\fn
+{trnc}N4 não contém “Pois”
+{trnc}\*fn
+{tr|rp} o
+{n4}O
+ vosso adversário, o diabo, anda ao redor, rugindo como um leão, buscando a quem possa devorar.
 \v 1Pd.5.9
 Resisti a ele, firmes na fé; sabendo que as mesmas aflições acontecem com os vossos irmãos
 \fn
@@ -630,35 +701,45 @@ lit. a vossa irmandade
 \*fn
  no mundo.
 \v 1Pd.5.10
-E o Deus de toda graça, que {tr:nos}{rp,n4:vos}{trnc:
-\fn
-RP, N4: vos
-\*fn
-} chamou para a sua eterna glória em Cristo{tr,rp: Jesus},{trnc:
-\fn
-N4 omite “Jesus”
-\*fn
-}{n4:
-\fn
-TR, RP acrescentam “Jesus”
-\*fn
-} depois de sofrerdes um pouco, ele vos {tr,rp:aperfeiçoe, confirme, fortifique, e estabeleça}{n4:aperfeiçoará, confirmará, fortificará, e estabelecerá}{trnc:
-\fn
-N4: aperfeiçoará, confirmará, fortificará, e estabelecerá
-\*fn
-} fundamento.
+E o Deus de toda graça, que 
+{tr}nos
+{rp|n4}vos
+{trnc}\fn
+{trnc}RP, N4: vos
+{trnc}\*fn
+ chamou para a sua eterna glória em Cristo
+{tr|rp} Jesus
+,
+{trnc}\fn
+{trnc}N4 não contém “Jesus”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “Jesus”
+{n4}\*fn
+ depois de sofrerdes um pouco, ele vos 
+{tr|rp}aperfeiçoe, confirme, fortifique, e estabeleça
+{n4}aperfeiçoará, confirmará, fortificará, e estabelecerá
+{trnc}\fn
+{trnc}N4: aperfeiçoará, confirmará, fortificará, e estabelecerá
+{trnc}\*fn
+ fundamento.
 \v 1Pd.5.11
-A ele {tr,rp:sejam a glória e}{n4:seja} o poder{trnc:
-\fn
-TR, RP: “sejam a glória e o poder” - N4: “seja o poder”
-\*fn
-} para todo o sempre. Amém!
+A ele 
+{tr|rp}sejam a glória e
+{n4}seja
+ o poder
+{trnc}\fn
+{trnc}TR, RP: “sejam a glória e o poder” - N4: “seja o poder”
+{trnc}\*fn
+ para todo o sempre. Amém!
 \v 1Pd.5.12
-Por Silvano, vosso fiel irmão, como o considero, eu vos escrevi brevemente, exortando e dando testemunho de que esta é a verdadeira graça de Deus{tr,rp:, na qual estais}{n4:. Nela estai}.{trnc:
-\fn
-TR, RP: na qual estais – N4: Nela estai
-\*fn
-}
+Por Silvano, vosso fiel irmão, como o considero, eu vos escrevi brevemente, exortando e dando testemunho de que esta é a verdadeira graça de Deus
+{tr|rp}, na qual estais
+{n4}. Nela estai
+.
+{trnc}\fn
+{trnc}TR, RP: na qual estais – N4: Nela estai
+{trnc}\*fn
 \v 1Pd.5.13
 Saúda-vos a 
 \added
@@ -666,12 +747,12 @@ igreja
 \*added
  escolhida convosco, que está na Babilônia, e também o meu filho Marcos.
 \v 1Pd.5.14
-Saudai-vos uns aos outros com beijo de amor. A paz seja com todos vós que estais em Cristo{n4.
-\fn
-TR, RP acrescentam: “Jesus. Amém” ao final do versículo
-\*fn
-}{tr,rp: Jesus. Amém.}{trnc:
-\fn
-N4 omite “Jesus. Amém”
-\*fn
-}
+Saudai-vos uns aos outros com beijo de amor. A paz seja com todos vós que estais em Cristo
+{tr|rp} Jesus. Amém
+.
+{trnc}\fn
+{trnc}N4 não contém “Jesus. Amém”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente: “Jesus. Amém” ao final do versículo
+{n4}\*fn

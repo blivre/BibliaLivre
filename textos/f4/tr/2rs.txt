@@ -458,7 +458,10 @@ Tomou, pois, Hazael em sua mão um presente de todos os bens de Damasco, quarent
 encontro; e chegou, pôs-se diante dele, e disse: Teu filho Ben-Hadade, rei da Síria, me enviou a ti, dizendo: 
 Sararei desta doença?
 \v 2Rs.8.10
-E Eliseu lhe disse: Vai, dize-lhe: Com certeza não viverás; porque
+E Eliseu lhe disse: Vai, dize-lhe: Com certeza  viverás; porém o SENHOR
+\fn
+Segundo a leitura massorética qere. A leitura ketiv, como a Almeida 1819, traz: Com certeza não viverás; porque o SENHOR
+\*fn
  me mostrou que ele morrerá certamente.
 \v 2Rs.8.11
 E o homem de Deus lhe voltou o rosto fixamente, até o deixar desconcertado; então o homem de Deus chorou.
@@ -693,7 +696,7 @@ Era Joás de sete anos quando começou a reinar.
 \v 2Rs.12.1
 No sétimo ano de Jeú começou a reinar Joás, e reinou quarenta anos em Jerusalém. O nome de sua mãe foi Zíbia, de Berseba.
 \v 2Rs.12.2
-E Joás fez o que era coreto aos olhos do SENHOR todo o tempo que o sacerdote Joiada o conduziu.
+E Joás fez o que era correto aos olhos do SENHOR todo o tempo que o sacerdote Joiada o conduziu.
 \v 2Rs.12.3
 Contudo isso os altos não se tiraram; que ainda sacrificava e queimava o povo incenso nos altos.
 \v 2Rs.12.4
@@ -1126,7 +1129,9 @@ E enviou a Eliaquim o mordomo, e a Sebna escriba, e aos anciãos dos sacerdotes,
 \v 2Rs.19.3
 Que lhe dissessem: Assim disse Ezequias: Este dia é dia de angústia, e de repreensão, e de blasfêmia; porque os filhos vieram até o ponto do parto, mas a que dá à luz não tem forças.
 \v 2Rs.19.4
-Talvez ouvirá o SENHOR tua Deus todas as palavras de Rabsaqué, ao qual o rei dos assírios, seu senhor, enviou para afrontar o Deus vivo, e repreenderá pelas palavras que o SENHOR teu Deus ouviu: portanto, eleva oração pelos restantes que ainda continuam.
+Talvez o SENHOR, teu Deus, tenha ouvido todas as palavras de Rabsaqué, ao qual o rei dos assírios, seu senhor, enviou 
+para afrontar o Deus vivo, e repreenderá pelas palavras que o SENHOR teu Deus ouviu; portanto, eleva oração pelos 
+restantes que ainda continuam.
 \v 2Rs.19.5
 Vieram, pois, os servos do rei Ezequias a Isaías.
 \v 2Rs.19.6

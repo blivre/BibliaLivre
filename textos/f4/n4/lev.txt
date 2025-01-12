@@ -1040,7 +1040,7 @@ E tirará fora do acampamento o bezerro do pecado, e o bode macho da culpa, o sa
 \v Lv.16.28
 E o que os queimar, lavará suas roupas, lavará também sua carne com água, e depois entrará no acampamento.
 \v Lv.16.29
-E isto tereis por estatuto perpétuo: No mês sétimo, aos dez do mês, afligireis vossas almas, e nenhuma obra fareis, nem o natural nem o estrangeiro que peregrina entre vós:
+E isto tereis por estatuto perpétuo: No sétimo mês, aos dez do mês, afligireis vossas almas, e nenhuma obra fareis, nem o natural nem o estrangeiro que peregrina entre vós:
 \v Lv.16.30
 Porque neste dia se vos reconciliará para limpar-vos; e sereis limpos de todos vossos pecados diante do SENHOR.
 \v Lv.16.31
@@ -1466,13 +1466,13 @@ E quando ceifardes a colheita de vossa terra, não acabarás de ceifar o canto d
 \v Lv.23.23
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.23.24
-Fala aos filhos de Israel, e dize-lhes: No mês sétimo, ao primeiro do mês tereis sábado, uma comemoração ao são de trombetas, e uma santa convocação.
+Fala aos filhos de Israel, e dize-lhes: No sétimo mês, ao primeiro do mês tereis sábado, uma comemoração ao são de trombetas, e uma santa convocação.
 \v Lv.23.25
 Nenhuma obra servil fareis; e oferecereis oferta acesa ao SENHOR.
 \v Lv.23.26
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.23.27
-Porém aos dez deste mês sétimo será o dia das expiações: tereis santa convocação, e afligireis vossas almas, e oferecereis oferta acesa ao SENHOR.
+Porém aos dez deste sétimo mês será o dia das expiações; tereis santa convocação, e afligireis vossas almas, e oferecereis oferta acesa ao SENHOR.
 \v Lv.23.28
 Nenhuma obra fareis neste mesmo dia; porque é dia de expiações, para reconciliar-vos diante do SENHOR vosso Deus.
 \v Lv.23.29
@@ -1482,13 +1482,13 @@ E qualquer pessoa que fizer obra alguma neste mesmo dia, eu destruirei a tal pes
 \v Lv.23.31
 Nenhuma obra fareis: estatuto perpétuo é por vossas gerações em todas as vossas habitações.
 \v Lv.23.32
-Sábado de repouso será a vós, e afligireis vossas almas, começando aos nove do mês na tarde: de tarde a tarde descansareis vosso sábado.
+Sábado de repouso será a vós, e afligireis vossas almas, começando aos nove do mês na tarde; de tarde à tarde descansareis vosso sábado.
 \v Lv.23.33
 E falou o SENHOR a Moisés, dizendo:
 \v Lv.23.34
-Fala aos filhos de Israel, e dize-lhes: Aos quinze dias deste mês sétimo será a solenidade das cabanas ao SENHOR por sete dias.
+Fala aos filhos de Israel, e dize-lhes: Aos quinze dias deste sétimo mês será a solenidade das cabanas ao SENHOR por sete dias.
 \v Lv.23.35
-O primeiro dia haverá santa convocação: nenhuma obra servil fareis.
+O primeiro dia haverá santa convocação; não fareis obra servil alguma.
 \v Lv.23.36
 Sete dias oferecereis oferta acesa ao SENHOR: o oitavo dia tereis santa convocação, e oferecereis oferta acesa ao SENHOR: é festa: nenhuma obra servil fareis.
 \v Lv.23.37
@@ -1496,11 +1496,12 @@ Estas são as solenidades do SENHOR, às que convocareis santas reuniões, para 
 \v Lv.23.38
 Além disso dos sábados do SENHOR e além de vossos presentes, e a mais de todos vossos votos, e além de todas as vossas ofertas voluntárias, que dareis ao SENHOR.
 \v Lv.23.39
-Porém aos quinze do mês sétimo, quando houverdes recolhido o fruto da terra, fareis festa ao SENHOR por sete dias: o primeiro dia será sábado; sábado será também o oitavo dia.
+Porém aos quinze do sétimo mês, quando houverdes recolhido o fruto da terra, fareis festa ao SENHOR por sete dias: o primeiro dia será sábado; sábado será também o oitavo dia.
 \v Lv.23.40
-E tomareis o primeiro dia galhos das mais belas árvores, ramos de palmeiras, e ramos de árvores frondosas, e salgueiros dos ribeiros; e vos regozijareis diante do SENHOR vosso Deus por sete dias.
+E no primeiro dia tomareis galhos das mais belas árvores, ramos de palmeiras, e ramos de árvores frondosas, e 
+salgueiros dos ribeiros; e jubilareis diante do SENHOR, vosso Deus, por sete dias.
 \v Lv.23.41
-E lhe fareis festa ao SENHOR por sete dias cada ano; será estatuto perpétuo por vossas gerações; no mês sétimo a fareis.
+E lhe fareis festa ao SENHOR por sete dias cada ano; será estatuto perpétuo por vossas gerações; no sétimo mês a fareis.
 \v Lv.23.42
 Em cabanas habitareis sete dias: todo natural de Israel habitará em cabanas;
 \v Lv.23.43
@@ -1575,7 +1576,7 @@ E a teu animal, e à animal que houver em tua terra, será todo o fruto dela par
 \v Lv.25.8
 E te hás de contar sete semanas de anos, sete vezes sete anos; de modo que os dias das sete semanas de anos virão a ser para ti quarenta e nove anos.
 \v Lv.25.9
-Então farás passar a trombeta de júbilo no mês sétimo aos dez do mês; o dia da expiação fareis passar a trombeta por toda vossa terra.
+Então farás passar a trombeta de júbilo no sétimo mês aos dez do mês; no dia da expiação fareis passar a trombeta por toda a vossa terra.
 \v Lv.25.10
 E santificareis o ano cinquenta, e apregoareis liberdade na terra a todos os seus moradores: este vos será jubileu; e voltareis cada um à sua possessão, e cada qual voltará à sua família.
 \v Lv.25.11

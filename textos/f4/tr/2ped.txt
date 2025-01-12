@@ -63,7 +63,11 @@ E temos a muito confiável palavra dos profetas; a qual vós fazeis bem ao prest
 \v 2Pd.1.20
 Sabendo primeiramente isto: que nenhuma profecia da Escritura é de interpretação particular.
 \v 2Pd.1.21
-Porque a profecia jamais foi produzida pela vontade humana, mas os santos homens de Deus falaram
+Porque a profecia jamais foi produzida pela vontade humana, mas 
+os santos homens de Deus falaram
+\fn
+TR, RP: os santos homens de Deus falaram – N4: homens falaram da parte de Deus
+\*fn
  conduzidos pelo Espírito Santo.
 \v 2Pd.2.1
 E também houve falsos profetas entre o povo, assim como também haverá falsos instrutores entre vós, que 
@@ -221,7 +225,12 @@ Mas o dia do Senhor virá como um ladrão durante a noite, no qual os céus se d
 \added
 há
 \*added
- serão queimadas.
+ serão 
+queimadas
+.
+\fn
+N4: descobertas
+\*fn
 \v 2Pd.3.11
 Visto, pois, que todas estas coisas estão para serem desfeitas, de que maneira vós deveis ser em santo comportamento e piedade,
 \v 2Pd.3.12

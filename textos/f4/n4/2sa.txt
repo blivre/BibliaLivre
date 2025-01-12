@@ -58,7 +58,7 @@ Do sangue de mortos, da gordura de valentes, o arco de Jônatas nunca retrocedeu
 Saul e Jônatas, amados e queridos em sua vida, em sua morte tampouco foram separados; mais ligeiros que águias, 
 mais fortes que leões.
 \v 2Sm.1.24
-Filhas de Israel, chorai sobre Saul, Que vos vestia de escarlata em regozijo, Que adornava vossas roupas com ornamentos de ouro.
+Filhas de Israel, chorai sobre Saul, que vos vestia de escarlata em luxo, que adornava vossas roupas com ornamentos de ouro.
 \v 2Sm.1.25
 Como caíram os valentes em meio da batalha! Jônatas, morto em tuas alturas!
 \v 2Sm.1.26
@@ -240,7 +240,7 @@ exigir o seu sangue das vossas mãos, e exterminar-vos da terra?
 Então Davi deu ordem aos rapazes, e eles os mataram, e cortaram-lhes as mãos e os pés, e penduraram-nos sobre o 
 tanque, em Hebrom. Depois tomaram a cabeça de Is-Bosete, e enterraram-na no sepulcro de Abner em Hebrom.
 \v 2Sm.5.1
-E vieram todas as tribos de Israel a Davi em Hebrom, e falaram, dizendo: Eis que nós somos teus ossos e tu carne.
+E vieram todas as tribos de Israel a Davi em Hebrom, e falaram, dizendo: Eis que nós somos teus ossos e tua carne.
 \v 2Sm.5.2
 E ainda ontem e antes, quando Saul reinava sobre nós, tu tiravas e voltavas a Israel. Além disso, o SENHOR te disse: Tu apascentarás a meu povo Israel, e tu serás sobre Israel príncipe.
 \v 2Sm.5.3
@@ -476,7 +476,7 @@ E enviou o rei Davi, e tomou-o de casa de Maquir filho de Amiel, de Lo-Debar.
 \v 2Sm.9.6
 E vindo Mefibosete, filho de Jônatas filho de Saul, a Davi, prostrou-se sobre seu rosto, e fez reverência. E disse Davi: Mefibosete. E ele respondeu: Eis aqui teu servo.
 \v 2Sm.9.7
-E disse-lhe Davi: Não tenhas temor, porque eu à verdade farei contigo misericórdia por causa de Jônatas teu pai, e te devolverei todas as terras de Saul teu pai; e tu comerás sempre pão à minha mesa.
+E disse-lhe Davi: Não tenhas temor, porque eu na verdade farei contigo misericórdia por causa de Jônatas teu pai, e te devolverei todas as terras de Saul teu pai; e tu comerás sempre pão à minha mesa.
 \v 2Sm.9.8
 E ele inclinando-se, disse: Quem é teu servo, para que olhes a um cão morto como eu?
 \v 2Sm.9.9
@@ -730,11 +730,11 @@ E entrando ao rei, fala com ele desta maneira. E pôs Joabe as palavras em sua b
 \v 2Sm.14.4
 Entrou, pois, aquela mulher de Tecoa ao rei, e prostrando-se em terra sobre seu rosto fez reverência, e disse: Ó rei, socorre-me!
 \v 2Sm.14.5
-E o rei disse: Que tens? E ela respondeu: Eu à verdade sou uma mulher viúva e meu marido é morto.
+E o rei disse: Que tens? E ela respondeu: Eu na verdade sou uma mulher viúva e meu marido morreu.
 \v 2Sm.14.6
-E tua serva tinha dois filhos e os dois brigaram no campo; e não havendo quem os separasse, feriu o um à outra, e o matou.
+E tua serva tinha dois filhos e os dois brigaram no campo; e não havendo quem os separasse, feriu o um ao outro, e o matou.
 \v 2Sm.14.7
-E eis que toda a parentela se levantou contra tua serva, dizendo: Entrega ao que matou a seu irmão, para que lhe façamos morrer pela vida de seu irmão a quem ele matou, e tiremos também o herdeiro. Assim apagarão a brasa que me restou, não deixaram a meu marido nome nem remanescente sobre a terra.
+E eis que toda a parentela se levantou contra tua serva, dizendo: Entrega o que matou a seu irmão, para que lhe façamos morrer pela vida de seu irmão a quem ele matou, e tiremos também o herdeiro. Assim apagarão a brasa que me restou, não deixarão a meu marido nome nem remanescente sobre a terra.
 \v 2Sm.14.8
 Então o rei disse à mulher: Vai-te à tua casa, que eu mandarei acerca de ti.
 \v 2Sm.14.9
@@ -791,11 +791,11 @@ Veio, pois, Joabe ao rei, e fê-lo saber. Então chamou a Absalão, o qual veio 
 \v 2Sm.15.1
 Aconteceu depois disto, que Absalão se fez de carros e cavalos, e cinquenta que corressem diante dele.
 \v 2Sm.15.2
-E levantava-se Absalão de manhã, e punha-se a um lado do caminho da porta; e a qualquer um que tinha pleito e vinha ao rei a juízo, Absalão lhe chamava a si, e dizia-lhe: De que cidade és? E ele respondia: Teu servo é de uma das tribos de Israel.
+E levantava-se Absalão de manhã, e punha-se a um lado do caminho da porta; e a qualquer um que tinha causa judicial e vinha ao rei a juízo, Absalão lhe chamava a si, e dizia-lhe: De que cidade és? E ele respondia: Teu servo é de uma das tribos de Israel.
 \v 2Sm.15.3
 Então Absalão lhe dizia: Olha que tuas palavras são boas e justas: mas não tens quem te ouça pelo rei.
 \v 2Sm.15.4
-E dizia Absalão: Quem me dera se eu fosse constituído juiz na terra, para que viessem a mim todos os que têm pleito ou negócio, que eu lhes faria justiça!
+E dizia Absalão: Quem me dera se eu fosse constituído juiz na terra, para que viessem a mim todos os que têm causa judicial ou processo, que eu lhes faria justiça!
 \v 2Sm.15.5
 E acontecia que, quando alguém se chegava para inclinar-se a ele, ele estendia sua mão, e o tomava, e o beijava.
 \v 2Sm.15.6
@@ -1309,9 +1309,7 @@ Pois quem é Deus, a não ser o SENHOR? Ou quem é rochedo, senão o nosso Deus?
 \v 2Sm.22.33
 Deus é a minha resistente fortaleza,
 \fn
-\key
 Obscuro. Trad. alt. Deus me reveste de força
-\*key
 \*fn
  e torna o meu caminho sem defeito.
 \v 2Sm.22.34

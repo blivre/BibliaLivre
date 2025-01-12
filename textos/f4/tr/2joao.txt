@@ -5,7 +5,7 @@ Segunda Carta de João
 2 João
 \*name-short
 \abbreviation
-2Jo
+2Joao
 \*abbreviation
 \ubs-code
 2JN
@@ -39,10 +39,14 @@ Porque muitos enganadores têm surgido no mundo que não declaram que Jesus Cris
 \v 2Jo.1.8
 Vigiai por vós mesmos, para que não percamos o que trabalhamos; mas sim que recebamos uma recompensa completa.
 \v 2Jo.1.9
-Todo aquele que transgride
- e não continua na doutrina de Cristo não tem a Deus; quem continua na doutrina de Cristo tem tanto ao Pai quanto ao Filho.
+Todo aquele que 
+transgride
+\fn
+N4: vai além
+\*fn
+ e não continua na doutrina de Cristo não tem a Deus; quem continua na doutrina de Cristo tem tanto o Pai quanto o Filho.
 \v 2Jo.1.10
-Se alguém vem a vós, e não traz esta doutrina, não recebais em 
+Se alguém vem até vós, e não traz esta doutrina, não recebais em 
 \added
 vossa
 \*added

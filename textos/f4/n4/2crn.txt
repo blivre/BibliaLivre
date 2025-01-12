@@ -51,7 +51,11 @@ um certo
 \*added
  preço.
 \v 2Cr.1.17
-E subiam, e tiravam do Egito, um carro por seiscentas peças de prata, e um cavalo por cento e cinquenta: e assim se tiravam por meio deles para todos os reis dos Heteus, e para os reis da Síria.
+E trziam, e faziam sair do Egito, um carro por seiscentas peças
+\fn
+Lit. siclos
+\*fn
+ de prata, e um cavalo por cento e cinquenta; e assim por meio deles eram levados para todos os reis dos Heteus, e para os reis da Síria.
 \v 2Cr.2.1
 Determinou, pois, Salomão edificar casa ao nome do SENHOR, e outra casa para seu reino.
 \v 2Cr.2.2
@@ -375,9 +379,9 @@ pestilência entre o meu povo;
 Se o meu povo, que se chama pelo meu nome, se humilhar, e orar, e buscar a minha face, e se converter dos seus maus 
 caminhos, então eu ouvirei desde os céus, perdoarei os seus pecados, e sararei a sua terra.
 \v 2Cr.7.15
-Agora meus olhos estarão abertos e meus ouvidos atentos à oração neste lugar:
+Agora meus olhos estarão abertos e meus ouvidos atentos à oração neste lugar;
 \v 2Cr.7.16
-Pois agora escolhi e santifiquei esta casa, para que o meu nome esteja nela para sempre; e os meus olhos e o meu 
+pois agora escolhi e santifiquei esta casa, para que o meu nome esteja nela para sempre; e os meus olhos e o meu 
 coração estarão ali todo o tempo.
 \v 2Cr.7.17
 E quanto a ti, se andares diante de mim, como andou Davi, teu pai, e fizeres conforme a tudo o que te mandei, e 
@@ -1217,7 +1221,7 @@ E abandonaram a casa do SENHOR o Deus de seus pais, e serviram aos bosques e às
 \v 2Cr.24.19
 E enviou-lhes profetas, para que os reconduzissem ao SENHOR, os quais lhes protestaram: mas eles não os escutaram.
 \v 2Cr.24.20
-E o espírito de Deus investiu a Zacarias, filho de Joiada o sacerdote, o qual estando sobre o povo, lhes disse: Assim disse Deus: Por que quebrantais os mandamentos do SENHOR? Não vos virá bem disso; porque por haver deixado ao SENHOR, ele também vos deixará.
+E o espírito de Deus revestiu a Zacarias, filho de Joiada o sacerdote, o qual estando sobre o povo, lhes disse: Assim disse Deus: Por que quebrantais os mandamentos do SENHOR? Não vos virá bem disso; porque por haver deixado ao SENHOR, ele também vos deixará.
 \v 2Cr.24.21
 Mas eles fizeram conspiração contra ele, e cobriram-lhe de pedras por mandado do rei, no pátio da casa do SENHOR.
 \v 2Cr.24.22

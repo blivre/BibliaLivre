@@ -15,7 +15,11 @@ Judas, servo de Jesus Cristo, e irmão de Tiago, para aqueles
 \added
 que foram
 \*added
- chamados, santificados
+ chamados, 
+santificados
+\fn
+N4: amados
+\*fn
  por Deus Pai, e guardados por Jesus Cristo.
 \v Jd.1.2
 Misericórdia a vós, e a paz e o amor 
@@ -33,12 +37,17 @@ nossa
 Porque alguns entraram disfarçadamente entre vós, que desde antes estavam escritos para a condenação; pessoas ímpias, 
 que distorcem a graça de Deus em perversão, e negam ao único Soberano Deus e nosso Senhor Jesus Cristo.
 \v Jd.1.5
-Mas eu quer vos lembrar, sabendo vós disto
- de uma vez por todas: que o Senhor, tendo liberto o povo para fora da terra do Egito, depois destruiu os que não creram.
+Mas eu quero vos lembrar, sabendo vós 
+disto
+\fn
+N4: tudo
+\*fn
+ de uma vez por todas: que o Senhor, havendo liberto o povo para fora da terra do Egito, depois destruiu os que não creram.
 \v Jd.1.6
 E aos anjos que não guardaram sua origem, mas deixaram sua própria habitação, ele os reservou debaixo de grande escuridão em prisões eternas até o julgamento do grande dia.
 \v Jd.1.7
-Assim como Sodoma e Gomorra, e as cidades circunvizinhas, que como aquelas, tendo cometido pecados sexuais, e seguido uma carne ilícita, foram postas como exemplo, recebendo a punição do fogo eterno.
+Assim como Sodoma e Gomorra, e as cidades circunvizinhas, que como aquelas, tendo cometido pecados sexuais, e seguido 
+uma carne ilícita, foram postas como exemplo, recebendo a punição do fogo eterno.
 \v Jd.1.8
 Porém estes, também semelhantemente adormecidos, contaminam a carne, e rejeitam a soberania, e insultam as 
 \added
@@ -90,20 +99,35 @@ Mas vós, amados, edificai a vós mesmos em vossa santíssima fé, orando no Esp
 \v Jd.1.21
 Conservai a vós mesmos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna.
 \v Jd.1.22
-E tende misericórdia de alguns, usando de discernimento;
+E tende misericórdia de alguns
+, usando de discernimento;
+\fn
+TR, RP: usando de discernimento – N4: que estão em dúvida; salvai[-os], arrancando[-os] do fogo
+\*fn
 \v Jd.1.23
-Mas a outros salvai em temor, arrancando 
+Mas a outros 
+salvai em temor, arrancando 
 \added
 -os
 \*added
  do fogo,
+\fn
+TR, RP: salvai em temor, arrancando[-os] do fogo – N4: tende misericórdia em temor
+\*fn
  odiando até a roupa contaminada pela carne.
 \v Jd.1.24
 E para aquele que é poderoso para vos guardar de tropeçar, e vos apresentar irrepreensíveis com alegria diante de sua glória;
 \v Jd.1.25
-Ao único sábio
+Ao único
+ sábio
+\fn
+N4 não contém “sábio”
+\*fn
  Deus,
  nosso Salvador,
+\fn
+N4 contém adicionalmente “por meio de Jesus Cristo nosso Senhor”
+\*fn
 \added
 seja
 \*added

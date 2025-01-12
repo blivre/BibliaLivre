@@ -15,10 +15,14 @@ Paulo, apóstolo (não da parte dos seres humanos, nem por meio de homem algum, 
 \v Gl.1.2
 e todos os irmãos que estão comigo, para as igrejas da Galácia.
 \v Gl.1.3
-Graça seja convosco, e também a paz de Deus {n4:nosso} Pai, e do {tr,rp:nosso} Senhor Jesus Cristo,
-{trnc:\fn
-N4: Deus nosso Pai, e do Senhor Jesus Cristo
-\*fn}
+Graça seja convosco, e também a paz de Deus
+{n4} nosso
+ Pai, e do 
+{tr|rp} nosso
+ Senhor Jesus Cristo,
+{trnc}\fn
+{trnc}N4: Deus nosso Pai, e do Senhor Jesus Cristo
+{trnc}\*fn
 \v Gl.1.4
 que deu a si mesmo pelos nossos pecados, para nos tirar da presente era maligna, conforme a vontade do nosso Deus e Pai,
 \v Gl.1.5
@@ -36,9 +40,14 @@ Porém, ainda que nós mesmos, ou um anjo do céu vos anuncie outro evangelho al
 \v Gl.1.9
 Como já havíamos dito, volto também agora a dizer: se alguém vos anunciar outro evangelho além do que já recebestes, maldito seja.
 \v Gl.1.10
-Pois agora estou buscando a aprovação das pessoas, ou a de Deus? Ou procuro agradar a pessoas? {tr,rp:Pois, se}{n4:Se} ainda tentasse agradar a pessoas, eu não seria servo de Cristo.
+Pois agora estou buscando a aprovação das pessoas, ou a de Deus? Ou procuro agradar a pessoas? 
+{tr|rp}Pois, se
+{n4}Se
+ ainda tentasse agradar a pessoas, eu não seria servo de Cristo.
 \v Gl.1.11
-{tr,rp:Mas}{n4:Pois} faço-vos saber, irmãos, que o Evangelho anunciado por mim não se baseia em pessoas;
+{tr|rp}Mas
+{n4}Pois
+ faço-vos saber, irmãos, que o Evangelho anunciado por mim não se baseia em pessoas;
 \fn
 Lit. não é conforme pessoas
 \*fn
@@ -53,15 +62,20 @@ como
 \*added
  no judaísmo eu era mais avançado que muitos de minha idade em minha nação, e era extremamente zeloso das tradições de meus pais.
 \v Gl.1.15
-Mas quando {tr,rp:Deus}
-{trnc:\fn
-N4 omite “Deus”
-\*fn}
- {tr,rp:(}{n4:aquele
-\fn
-TR, RP contêm “Deus” em lugar de “aquele”
-\*fn}
- que me separou desde o ventre da minha mãe, e por sua graça me chamou {tr,rp:)}{n4:,} se agradou
+Mas quando
+{tr|rp} Deus
+{trnc}\fn
+{trnc}N4 não contém “Deus”
+{trnc}\*fn
+{tr|rp} (
+{n4} aquele
+{n4}\fn
+{n4}TR, RP contêm “Deus” em lugar de “aquele”
+{n4}\*fn
+ que me separou desde o ventre da minha mãe, e por sua graça me chamou
+{tr|rp})
+{n4},
+ se agradou
 \v Gl.1.16
 de revelar o seu Filho em mim, para eu evangelizar os gentios, de imediato, não fui pedir conselho com pessoa alguma;
 \fn
@@ -73,15 +87,17 @@ Lit. “carne e sangue”
 \v Gl.1.17
 nem subi a Jerusalém para os que já eram apóstolos antes de mim; em vez disso, parti para a Arábia, e voltei outra vez a Damasco.
 \v Gl.1.18
-Então, depois de três anos, subi a Jerusalém para visitar {tr,rp:Pedro}{n4:Cefas},{trnc:
-\fn
-N4 contém “Cefas”
-\*fn
- }{n4:
-\fn
-Isto é, Pedro
-\*fn
- } e estive com ele por quinze dias.
+Então, depois de três anos, subi a Jerusalém para visitar 
+{tr|rp}Pedro
+{n4}Cefas
+,
+{trnc}\fn
+{trnc}N4: “Cefas”
+{trnc}\*fn
+{n4}\fn
+{n4}i.e. Pedro
+{n4}\*fn
+ e estive com ele por quinze dias.
 \v Gl.1.19
 E vi nenhum outro dos apóstolos, a não ser Tiago, o irmão do Senhor.
 \v Gl.1.20
@@ -103,7 +119,7 @@ Isso
 \*added
 , porém, foi em particular, com os mais influentes,
 \fn
-Isto é, os líderes da ireja
+i.e. os líderes da ireja
 \*fn
  para que eu eu não corresse ou tivesse corrido em vão.
 \v Gl.2.3
@@ -142,39 +158,46 @@ fôssemos
 \v Gl.2.10
 sob a condição de que nos lembrássemos dos pobres; isso também procurei fazer com empenho.
 \v Gl.2.11
-E quando {tr,rp:Pedro}{n4:Cefas
-\fn
-Isto é, Pedro
-\*fn
-}{trnc:
-\fn
-N4: Cefas
-\*fn
-} veio a Antioquia, estive contra ele face a face, pois ele devia ser repreendido;
+E quando 
+{tr|rp}Pedro
+{n4}Cefas
+{n4}\fn
+{n4}i.e. Pedro. Também no v. 14
+{n4}\*fn
+{trnc}\fn
+{trnc}N4: Cefas
+{trnc}\*fn
+ veio a Antioquia, estive contra ele face a face, pois ele devia ser repreendido;
 \v Gl.2.12
 porque, antes que alguns que Tiago enviou chegassem, ele comia com os gentios; mas depois que chegaram, ele se retirou e se separou, temendo os que eram da circuncisão.
 \v Gl.2.13
 E também com ele os outros judeus fingiram, de maneira que até Barnabé se deixou levar pela hipocrisia deles.
 \v Gl.2.14
-Mas quando vi que não estavam agindo corretamente conforme a verdade do Evangelho, disse na presença de todos a {tr,rp:Pedro}{n4:Cefas}: {n4:
-\fn
-Isto é, Pedro
-\*fn
-}{trnc:
-\fn
-N4: Cefas
-\*fn
-} “Se tu, que és judeu, vives como gentio, e não como judeu, {tr,rp:por que}{n4:como} obrigas{trnc:
-\fn
-N4: como obrigas
-\*fn
- } os gentios a viverem como judeus?”
+Mas quando vi que não estavam agindo corretamente conforme a verdade do Evangelho, disse na presença de todos a 
+{tr|rp}Pedro
+{n4}Cefas
+:
+{trnc}\fn
+{trnc}N4: Cefas
+{trnc}\*fn
+ “Se tu, que és judeu, vives como gentio, e não como judeu, 
+{tr|rp}por que
+{n4}como
+ obrigas
+{trnc}\fn
+{trnc}N4: como obrigas
+{trnc}\*fn
+ os gentios a viverem como judeus?”
 \v Gl.2.15
 Nós, que somos judeus por natureza, e não pecadores dentre os gentios,
 \v Gl.2.16
-sabemos que o ser humano não é justificado pelas obras da Lei, mas sim pela fé em {tr,rp:Jesus Cristo}{n4:Cristo Jesus}.
+sabemos que o ser humano não é justificado pelas obras da Lei, mas sim pela fé em 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus.
 \fn
-Trad. alt. fidelidade de {tr,rp:Jesus Cristo}{n4:Cristo Jesus}
+Trad. alt. fidelidade de 
+{tr|rp}Jesus Cristo
+{n4}Cristo Jesus
 \*fn
  Também nós temos crido em Cristo Jesus, para que fôssemos justificados pela fé em Cristo,
 \fn
@@ -204,11 +227,11 @@ Trad. alt. fidelidade do Filho de Deus
 \v Gl.2.21
 Não anulo a graça
 \fn
-Isto é, o favor não merecido
+i.e. o favor não merecido
 \*fn
  de Deus; pois, se a justiça
 \fn
-Isto é, ser justo, que aqui significa ser aceito (absolvido) por Deus
+i.e. ser justo, que aqui significa ser aceito (absolvido) por Deus
 \*fn
  é por meio da Lei, logo Cristo morreu por nada.
 \v Gl.3.1
@@ -219,23 +242,23 @@ iludiu
 \*key
 lit. enfeitiçou
 \*fn
- {tr,rp: para não obedecerdes à verdade}? {trnc:
-\fn
-N4 omite “para não obedecerdes à verdade”
-\*fn
- }{n4:
-\fn
-TR, RP: “quem vos iludiu para não obedecerdes à verdade?”
-\*fn
- } Diante dos vossos olhos Jesus Cristo foi retratado{tr,rp: entre vós}{trnc:
-\fn
-N4 omite “entre vós”
-\*fn
- }{n4:
-\fn
-TR, RP adicionam “entre vós”
-\*fn
- } como crucificado!
+{tr|rp} para não obedecerdes à verdade
+?
+{trnc}\fn
+{trnc}N4 não contém “para não obedecerdes à verdade”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP: “quem vos iludiu para não obedecerdes à verdade?”
+{n4}\*fn
+ Diante dos vossos olhos Jesus Cristo foi retratado
+{tr|rp} entre vós
+{trnc}\fn
+{trnc}N4 não contém “entre vós”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “entre vós”
+{n4}\*fn
+ como crucificado!
 \v Gl.3.2
 Só isto eu queria saber de vós: recebestes o Espírito pelas obras da Lei ou pela pregação da fé?
 \v Gl.3.3
@@ -295,11 +318,13 @@ Cristo nos resgatou da maldição da Lei ao se fazer maldição para o nosso ben
 Deuteronômio 21:23
 \*ref
 \v Gl.3.14
-com a finalidade de que a bênção de Abraão chegasse aos gentios em {tr,rp:Cristo Jesus}{n4:Jesus Cristo},{trnc:
-\fn
-N4: Jesus Cristo
-\*fn
- } para que recebêssemos a promessa do Espírito
+com a finalidade de que a bênção de Abraão chegasse aos gentios em 
+{tr|rp}Cristo Jesus
+{n4}Jesus Cristo,
+{trnc}\fn
+{trnc}N4: Jesus Cristo
+{trnc}\*fn
+ para que recebêssemos a promessa do Espírito
 \fn
 Ou: o Espírito prometido
 \*fn
@@ -325,21 +350,22 @@ Gênesis 12:7; 13:15; 24:7
 \*ref
 que é Cristo.
 \v Gl.3.17
-Mas digo isto: o pacto foi confirmado anteriormente por Deus {tr,rp:em Cristo};{trnc:
-\fn
-N4 omite “em Cristo”
-\*fn
-}{n4:
-\fn
-TR, RP acrescentam “em Cristo”
-\*fn
-} e a Lei que veio quatrocentos e trinta anos depois não o invalida de maneira que anule a promessa.
+Mas digo isto: o pacto foi confirmado anteriormente por Deus
+{tr|rp}em Cristo
+;
+{trnc}\fn
+{trnc}N4 não contém “em Cristo”
+{trnc}\*fn
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “em Cristo”
+{n4}\*fn
+ e a Lei que veio quatrocentos e trinta anos depois não o invalida de maneira que anule a promessa.
 \v Gl.3.18
 Pois, se a herança é pela Lei, já não é pela promessa; mas foi por meio da promessa que Deus a concedeu gratuitamente a Abraão.
 \v Gl.3.19
 Para que, pois, é a Lei? Ela foi ordenada por causa das transgressões, até que chegasse o descendente
 \fn
-Isto é, a descendência do vers. 16, que é Cristo
+i.e. a descendência do vers. 16, que é Cristo
 \*fn
  a quem a promessa havia sido feita; e foi posta pelos anjos na mão de um mediador.
 \v Gl.3.20
@@ -383,17 +409,22 @@ Mas quando o tempo se completou, Deus enviou o seu Filho, nascido de mulher, nas
 \v Gl.4.5
 para redimir os que estavam sob a Lei, a fim de que nós recebêssemos a adoção como filhos.
 \v Gl.4.6
-E, como sois filhos, Deus enviou aos {tr,rp:vossos}{n4:nossos}{trnc:
-\fn
-N4: nossos
-\*fn
- } corações o Espírito do seu Filho, que clama: “Aba, Pai!”
+E, como sois filhos, Deus enviou aos 
+{tr|rp}vossos
+{n4}nossos
+{trnc}\fn
+{trnc}N4: nossos
+{trnc}\*fn
+ corações o Espírito do seu Filho, que clama: “Aba, Pai!”
 \v Gl.4.7
-Portanto, tu já não és mais servo, mas sim filho; e se és filho, também és herdeiro {n4: por meio} de Deus{tr,rp: por meio de Cristo}.{trnc:
-\fn
-N4: “herdeiro por meio de Deus” (omite “de Cristo”)
-\*fn
- }
+Portanto, tu já não és mais servo, mas sim filho; e se és filho, também és herdeiro
+{n4} por meio
+ de Deus
+{tr|rp} por meio de Cristo
+.
+{trnc}\fn
+{trnc}N4: “herdeiro por meio de Deus” (não contém “de Cristo”)
+{trnc}\*fn
 \v Gl.4.8
 Quando, porém, não conhecíeis a Deus, vós servíeis aos que por natureza não são deuses.
 \v Gl.4.9
@@ -420,11 +451,13 @@ próprio
 \*added
  Cristo Jesus.
 \v Gl.4.15
-{tr,rp:O que houve, pois, com}{n4:Onde está, pois,} a vossa alegria?{trnc:
-\fn
-N4: Onde está, pois, a vossa alegria?
-\*fn
- } Pois eu vos dou testemunho de que, se fosse possível, teríeis arrancado os vossos próprios olhos para dá-los a mim.
+{tr|rp}O que houve, pois, com
+{n4}Onde está, pois,
+ a vossa alegria?
+{trnc}\fn
+{trnc}N4: Onde está, pois, a vossa alegria?
+{trnc}\*fn
+ Pois eu vos dou testemunho de que, se fosse possível, teríeis arrancado os vossos próprios olhos para dá-los a mim.
 \v Gl.4.16
 Tornei-me, por acaso, vosso inimigo por ter vos dito a verdade?
 \v Gl.4.17
@@ -436,7 +469,7 @@ Lit. não da boa (ou correta) maneira
 \added
 de mim
 \*added
-,para que vós mostreis interesse por eles.
+, para que vós mostreis interesse por eles.
 \v Gl.4.18
 É bom, porém, mostrar interesse
 \fn
@@ -456,36 +489,46 @@ O da escrava nasceu segundo a carne, mas o da livre, pela promessa.
 \v Gl.4.24
 Isto serve de ilustração, pois estes são dois pactos: um é o do monte Sinai, que gera filhos para a escravidão, que é Agar.
 \v Gl.4.25
-{tr,rp:Pois}{n4:Ora,}{trnc:
-\fn
-N4: Ora
-\*fn
- } esta Agar é o monte Sinai, na Arábia, e corresponde à Jerusalém de agora, {tr,rp:e}{n4:pois}{trnc:
-\fn
-N4: pois
-\*fn
- } é escravizada com os filhos dela.
+{tr|rp}Pois
+{n4}Ora,
+{trnc}\fn
+{trnc}N4: Ora
+{trnc}\*fn
+ esta Agar é o monte Sinai, na Arábia, e corresponde à Jerusalém de agora, 
+{tr|rp}e
+{n4}pois
+{trnc}\fn
+{trnc}N4: pois
+{trnc}\*fn
+ é escravizada com os filhos dela.
 \v Gl.4.26
-Mas a Jerusalém de cima é livre; esta é a {tr,rp:mãe de todos nós}{n4:nossa mãe}{trnc:
-\fn
-N4: nossa mãe
-\*fn
- }.
+Mas a Jerusalém de cima é livre; esta é a 
+{tr|rp}mãe de todos nós
+{n4}nossa mãe
+{trnc}\fn
+{trnc}N4: nossa mãe
+{trnc}\*fn
+.
 \v Gl.4.27
-Pois está escrito: Alegra-te, ó estéril, que não geras filhos; extravasa gritando de júbilo, tu, que não estás de parto; porque muitos mais são os filhos da solitária, que os da que tem marido. 
+Pois está escrito: Alegra-te, ó estéril, que não geras filhos; extravasa gritando de júbilo, tu, que não estás de 
+parto; porque muitos mais são os filhos da solitária, que os da que tem marido. 
 \ref
 Isaías 54:1 
 \*ref
 \v Gl.4.28
-{tr,rp:Nós}{n4:Vós},{trnc:
-\fn
-N4:Vós
-\*fn
- } porém, irmãos, como Isaque, {tr,rp:somos}{n4:sois}{trnc:
-\fn
-N4: sois
-\*fn
- } filhos da promessa.
+{tr|rp}Nós
+{n4}Vós
+,
+{trnc}\fn
+{trnc}N4:Vós
+{trnc}\*fn
+ porém, irmãos, como Isaque, 
+{tr|rp}somos
+{n4}sois
+{trnc}\fn
+{trnc}N4: sois
+{trnc}\*fn
+ filhos da promessa.
 \v Gl.4.29
 Porém, assim como naquele tempo o que nasceu segundo a carne perseguia o que 
 \added
@@ -500,7 +543,9 @@ Gênesis 21:10
 \v Gl.4.31
 Portanto, irmãos, não somos filhos da escrava, mas sim da livre.
 \v Gl.5.1
-{tr,rp:Estai, pois, firmes na liberdade com que Cristo nos libertou}{n4:Para a liberdade Cristo nos libertou; portanto, estai firmes}, e não volteis a vos prender com o jugo da escravidão.
+{tr|rp}Estai, pois, firmes na liberdade com que Cristo nos libertou
+{n4}Para a liberdade Cristo nos libertou; portanto, estai firmes
+, e não volteis a vos prender com o jugo da escravidão.
 \v Gl.5.2
 Eis que eu, Paulo, vos digo, que se vos deixardes circuncidar, Cristo vos será útil em nada.
 \v Gl.5.3
@@ -541,36 +586,40 @@ Levítico 19:18
 \v Gl.5.15
 Se, porém, mordeis e devorais uns aos outros, cuidado para não vos destruirdes mutuamente.
 \v Gl.5.16
-Mas eu digo: andai no Espírito, e não executeis o mau desejo da carne.
+Mas eu digo: andai no Espírito, e não satisfaçais o mau desejo da carne.
 \v Gl.5.17
-Pois a carne deseja contra o Espírito, e o Espírito contra a carne; {tr,rp:e}{n4:pois}
-{trnc:\fn
-N4: pois
-\*fn}
+Pois a carne deseja contra o Espírito, e o Espírito contra a carne; 
+{tr|rp}e
+{n4}pois
+{trnc}\fn
+{trnc}N4: pois
+{trnc}\*fn
  estes se opõem mutuamente, para que não façais o que quereis.
 \v Gl.5.18
 Mas, se sois guiados pelo Espírito, não estais debaixo da Lei.
 \v Gl.5.19
-As obras da carne são evidentes. São elas: {tr,rp:adultério,}{n4:
-\fn
-TR, RP acrescentam “adultério”
-\*fn
- }{trnc:
-\fn
-N4 omite “adultério”
-\*fn
- } pecado sexual, impureza, devassidão,
+As obras da carne são evidentes. São elas: 
+{tr|rp}adultério,
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “adultério”
+{n4}\*fn
+{trnc}\fn
+{trnc}N4 não contém “adultério”
+{trnc}\*fn
+ pecado sexual, impureza, devassidão,
 \v Gl.5.20
 idolatria, feitiçaria, inimizades, brigas, ciúmes, iras, rivalidades egoístas, desavenças, facções,
 \v Gl.5.21
-invejas, {tr,rp:homicídios,}
-{n4:\fn
-TR,RP acrescentam “homicídios”
-\*fn}
-{trnc:\fn
-N4 omite “homicídios”
-\*fn}
- bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também haviavos dito antes que os que praticam tais coisas não herdarão o Reino de Deus.
+invejas, 
+{tr|rp}homicídios,
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “homicídios”
+{n4}\*fn
+{trnc}\fn
+{trnc}N4 não contêm “homicídios”
+{trnc}\*fn
+ bebedices, orgias, e coisas semelhantes a essas, das quais eu havia vos dito anteriormente; assim como eu também vos 
+havia dito antes que os que praticam tais coisas não herdarão o Reino de Deus.
 \v Gl.5.22
 Mas o fruto do Espírito é: amor, alegria, paz, paciência, benignidade, bondade, fidelidade,
 \fn
@@ -579,10 +628,11 @@ Ou: fé
 \v Gl.5.23
 mansidão, domínio próprio. Contra essas coisas não há lei.
 \v Gl.5.24
-Os que são de Cristo {n4:Jesus}
-{trnc:\fn
-N4 acrescenta “Jesus”
-\*fn}
+Os que são de Cristo
+{n4} Jesus
+{trnc}\fn
+{trnc}N4 contém adicionalmente “Jesus”
+{trnc}\*fn
  crucificaram a carne com as paixões e os maus desejos.
 \v Gl.5.25
 Se vivemos no Espírito, também no Espírito andemos.
@@ -611,13 +661,15 @@ Porém não cansemos de fazer o bem, pois no tempo devido colheremos, se não de
 na língua original, desistir por esgotamento
 \*fn
 \v Gl.6.10
-Portanto, enquanto {tr,rp:temos}{n4:tivermos}
-{trnc:\fn
-N4: tivermos
-\*fn}
+Portanto, enquanto 
+{tr|rp}temos
+{n4}tivermos
+{trnc}\fn
+{trnc}N4: tivermos
+{trnc}\*fn
  oportunidade, façamos o bem a todos; mas principalmente aos familiares
 \fn
-Ou domésticos, isto é, os da mesma casa
+Ou domésticos, i.e. os da mesma casa
 \*fn
  da fé.
 \v Gl.6.11
@@ -625,38 +677,47 @@ Olhai como são grandes as letras que vos escrevi da minha mão.
 \v Gl.6.12
 Todos os que querem mostrar boa aparência na carne, estes vos obrigam a vos circuncidarem, somente para não serem perseguidos por causa da cruz de Cristo.
 \v Gl.6.13
-Pois nem mesmo os que se {tr,n4:circuncidam}{rp:circuncidaram}
-{trnc:\fn
-RP: circuncidaram
-\*fn}
+Pois nem mesmo os que se 
+{tr|n4}circuncidam
+{rp}circuncidaram
+{trnc}\fn
+{trnc}RP: circuncidaram
+{trnc}\*fn
  guardam a Lei; mas querem que vos circuncideis, para se orgulharem de vossa carne.
 \v Gl.6.14
 Mas longe de mim esteja me orgulhar, a não ser na cruz do nosso Senhor Jesus Cristo; por meio dela, o mundo está crucificado para mim, e eu para o mundo.
 \v Gl.6.15
-Pois {tr,rp:em Cristo Jesus,}
-{n4:\fn
-TR, RP acrescentam “em Cristo Jesus”
-\*fn}
-{trnc:\fn
-N4 omite “em Cristo Jesus”
-\*fn}
- nem a circuncisão {tr,rp:tem valor algum}{n4: é coisa alguma},
-{trnc:\fn
-N4 contém “é coisa alguma”
-\*fn}
+Pois
+{tr|rp} em Cristo Jesus,
+{n4}\fn
+{n4}TR, RP contêm adicionalmente “em Cristo Jesus”
+{n4}\*fn
+{trnc}\fn
+{trnc}N4 não contém “em Cristo Jesus”
+{trnc}\*fn
+ nem a circuncisão 
+{tr|rp}tem valor algum
+{n4}é coisa alguma
+,
+{trnc}\fn
+{trnc}N4 contém “é coisa alguma”
+{trnc}\*fn
  nem a incircuncisão; mas sim a nova criatura.
 \v Gl.6.16
 E todos os que andarem conforme esta regra, paz e misericórdia estejam sobre eles, e sobre o Israel de Deus.
 \v Gl.6.17
-De agora em diante, ninguém me perturbe, porque trago no meu corpo as marcas {tr,rp:do Senhor Jesus}{n4:de Jesus}.
-{trnc:\fn
-N4 omite “Senhor”
-\*fn}
+De agora em diante, ninguém me perturbe, porque trago no meu corpo as marcas 
+{tr|rp}do Senhor Jesus
+{n4}de Jesus
+.
+{trnc}\fn
+{trnc}N4 não contém “Senhor”
+{trnc}\*fn
 \v Gl.6.18
 A graça do nosso Senhor Jesus Cristo seja com o vosso espírito, irmãos. Amém!
-{tr:\added
-Escrita de Roma para os Gálatas
-\*added}
-{trnc:\fn
-RP, N4 omitem a informação de onde a carta foi escrita
-\*fn}
+{tr}\added
+{tr}Escrita de Roma para os Gálatas
+{tr}\*added
+{trnc}\fn
+{trnc}RP, N4 não contêm “Escrita de Roma para os Gálatas”
+{trnc}\*fn
